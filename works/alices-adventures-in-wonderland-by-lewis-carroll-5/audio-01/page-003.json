@@ -1,0 +1,696 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-01",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_01_carroll.mp3",
+  "chapter_title": "01 - Proem & Down the Rabbit-hole",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.699,
+  "page_num": 3,
+  "page_total": 3,
+  "page_start_sec": 485.54,
+  "page_end_sec": 722.76,
+  "segments": [
+    {
+      "start": 485.54,
+      "end": 487.6,
+      "text": "How she longed to get out of that dark hall and",
+      "para_break": true
+    },
+    {
+      "start": 487.72,
+      "end": 489.26,
+      "text": "wander about among those beds of bright"
+    },
+    {
+      "start": 489.26,
+      "end": 491.02,
+      "text": "flowers and those cool fountains,"
+    },
+    {
+      "start": 491.58,
+      "end": 492.34,
+      "text": "but she could not even"
+    },
+    {
+      "start": 492.34,
+      "end": 493.5,
+      "text": "get her head through the doorway."
+    },
+    {
+      "start": 494.1,
+      "end": 494.58,
+      "text": "Molly,"
+    },
+    {
+      "start": 494.7,
+      "end": 496.08,
+      "text": "even if my head would go through,"
+    },
+    {
+      "start": 496.22,
+      "end": 496.94,
+      "text": "thought poor Alice,"
+    },
+    {
+      "start": 497.16,
+      "end": 499.28,
+      "text": "it would be of very little use without my shoulders."
+    },
+    {
+      "start": 499.9,
+      "end": 500.3,
+      "text": "Oh,"
+    },
+    {
+      "start": 500.34,
+      "end": 501.56,
+      "text": "how I wish I could shut up like"
+    },
+    {
+      "start": 501.56,
+      "end": 502.14,
+      "text": "a telescope."
+    },
+    {
+      "start": 502.41,
+      "end": 504.72,
+      "text": "I think I could if I only knew how to begin."
+    },
+    {
+      "start": 505.46,
+      "end": 505.78,
+      "text": "For you see,",
+      "para_break": true
+    },
+    {
+      "start": 505.84,
+      "end": 506.76,
+      "text": "so many out-of-the-way"
+    },
+    {
+      "start": 506.84,
+      "end": 508.76,
+      "text": "things had happened lately that Alice had begun"
+    },
+    {
+      "start": 508.76,
+      "end": 511.12,
+      "text": "to think that very few things indeed were really"
+    },
+    {
+      "start": 511.22,
+      "end": 511.6,
+      "text": "impossible."
+    },
+    {
+      "start": 512.85,
+      "end": 515.62,
+      "text": "There seemed to be no use in waiting by the little door,",
+      "para_break": true
+    },
+    {
+      "start": 515.8,
+      "end": 517.16,
+      "text": "so she went back to the table,"
+    },
+    {
+      "start": 517.42,
+      "end": 519.68,
+      "text": "half hoping she might find another key on it,"
+    },
+    {
+      "start": 519.74,
+      "end": 521.12,
+      "text": "or at any rate a book of rules for"
+    },
+    {
+      "start": 521.12,
+      "end": 522.36,
+      "text": "shutting people up like telescopes."
+    },
+    {
+      "start": 523.38,
+      "end": 525.34,
+      "text": "This time she found a little bottle on it,",
+      "para_break": true
+    },
+    {
+      "start": 525.58,
+      "end": 527.0,
+      "text": "which certainly was not here before,"
+    },
+    {
+      "start": 527.22,
+      "end": 527.68,
+      "text": "said Alice,"
+    },
+    {
+      "start": 528.352,
+      "end": 530.66,
+      "text": "and tied round the neck of the bottle was a paper label"
+    },
+    {
+      "start": 530.86,
+      "end": 533.82,
+      "text": "with the words DRINK ME beautifully printed on it in large letters."
+    },
+    {
+      "start": 535.02,
+      "end": 536.86,
+      "text": "It was all very well to say DRINK ME,",
+      "para_break": true
+    },
+    {
+      "start": 536.92,
+      "end": 539.96,
+      "text": "but the wise little Alice was not going to do that in a hurry."
+    },
+    {
+      "start": 540.44,
+      "end": 540.6,
+      "text": "No,"
+    },
+    {
+      "start": 540.72,
+      "end": 541.38,
+      "text": "I'll look first,"
+    },
+    {
+      "start": 541.52,
+      "end": 541.98,
+      "text": "she said,"
+    },
+    {
+      "start": 542.624,
+      "end": 544.48,
+      "text": "and see whether it's marked POISON or not,"
+    },
+    {
+      "start": 544.86,
+      "end": 547.86,
+      "text": "for she had read several nice little stories about children who had"
+    },
+    {
+      "start": 547.86,
+      "end": 551.04,
+      "text": "got burnt and eaten up by wild beasts and other unpleasant things,"
+    },
+    {
+      "start": 551.34,
+      "end": 553.16,
+      "text": "all because they would not remember the"
+    },
+    {
+      "start": 553.16,
+      "end": 554.84,
+      "text": "simple rules their friends had taught them,"
+    },
+    {
+      "start": 555.0,
+      "end": 557.96,
+      "text": "such as that a red hot poker will burn you if you hold it too long,"
+    },
+    {
+      "start": 558.2,
+      "end": 559.88,
+      "text": "and that if you cut your finger very"
+    },
+    {
+      "start": 559.88,
+      "end": 561.71,
+      "text": "deeply with a knife it usually bleeds."
+    },
+    {
+      "start": 562.04,
+      "end": 563.94,
+      "text": "And she had never forgotten that if you"
+    },
+    {
+      "start": 563.94,
+      "end": 565.6,
+      "text": "drink much from a bottle marked poison,"
+    },
+    {
+      "start": 566.24,
+      "end": 568.9,
+      "text": "it is almost certain to disagree with you sooner or later."
+    },
+    {
+      "start": 569.44,
+      "end": 569.62,
+      "text": "However,"
+    },
+    {
+      "start": 569.9,
+      "end": 571.48,
+      "text": "this bottle was not marked poison,"
+    },
+    {
+      "start": 571.66,
+      "end": 573.28,
+      "text": "so Alice ventured to taste it,"
+    },
+    {
+      "start": 573.32,
+      "end": 574.58,
+      "text": "and finding it very nice,"
+    },
+    {
+      "start": 575.04,
+      "end": 577.72,
+      "text": "it had in fact a sort of mixed flavor of cherry tart,"
+    },
+    {
+      "start": 577.92,
+      "end": 578.32,
+      "text": "custard,"
+    },
+    {
+      "start": 578.54,
+      "end": 578.84,
+      "text": "pineapple,"
+    },
+    {
+      "start": 579.2,
+      "end": 579.72,
+      "text": "roast turkey,"
+    },
+    {
+      "start": 579.86,
+      "end": 580.12,
+      "text": "coffee,"
+    },
+    {
+      "start": 580.28,
+      "end": 581.24,
+      "text": "and hot buttered toast,"
+    },
+    {
+      "start": 581.8,
+      "end": 583.1,
+      "text": "she very soon finished it off."
+    },
+    {
+      "start": 583.7,
+      "end": 584.64,
+      "text": "What a curious feeling,"
+    },
+    {
+      "start": 584.78,
+      "end": 585.18,
+      "text": "said Alice,"
+    },
+    {
+      "start": 585.3,
+      "end": 586.66,
+      "text": "I must be shutting up like a telescope."
+    },
+    {
+      "start": 587.5,
+      "end": 588.36,
+      "text": "And so it was indeed.",
+      "para_break": true
+    },
+    {
+      "start": 588.88,
+      "end": 590.42,
+      "text": "She was now only ten inches high,"
+    },
+    {
+      "start": 590.6,
+      "end": 591.92,
+      "text": "and her face brightened up with the"
+    },
+    {
+      "start": 591.92,
+      "end": 593.68,
+      "text": "thought that she was now the right size"
+    },
+    {
+      "start": 593.86,
+      "end": 596.1,
+      "text": "for going through that little door into that lovely garden."
+    },
+    {
+      "start": 596.48,
+      "end": 596.58,
+      "text": "First,"
+    },
+    {
+      "start": 597.14,
+      "end": 597.32,
+      "text": "however,"
+    },
+    {
+      "start": 597.46,
+      "end": 599.18,
+      "text": "she waited for a few minutes to see if"
+    },
+    {
+      "start": 599.18,
+      "end": 600.58,
+      "text": "she was going to shrink any further."
+    },
+    {
+      "start": 600.92,
+      "end": 602.5,
+      "text": "She felt a little nervous about this."
+    },
+    {
+      "start": 603.14,
+      "end": 603.88,
+      "text": "For it might end,"
+    },
+    {
+      "start": 603.92,
+      "end": 604.16,
+      "text": "you know,"
+    },
+    {
+      "start": 604.2,
+      "end": 605.0,
+      "text": "said Alice to herself,"
+    },
+    {
+      "start": 605.24,
+      "end": 607.02,
+      "text": "in my going out altogether like a candle."
+    },
+    {
+      "start": 607.84,
+      "end": 609.32,
+      "text": "I wonder what I should be like then.",
+      "para_break": true
+    },
+    {
+      "start": 609.7,
+      "end": 611.36,
+      "text": "And she tried to fancy what the flame of a"
+    },
+    {
+      "start": 611.36,
+      "end": 613.5,
+      "text": "candle looks like after the candle is blown out,"
+    },
+    {
+      "start": 613.66,
+      "end": 615.88,
+      "text": "for she could not remember ever having seen such a thing."
+    },
+    {
+      "start": 617.664,
+      "end": 618.22,
+      "text": "After a while,",
+      "para_break": true
+    },
+    {
+      "start": 618.36,
+      "end": 619.64,
+      "text": "finding that nothing more happened,"
+    },
+    {
+      "start": 619.8,
+      "end": 622.08,
+      "text": "she decided on going into the garden at once."
+    },
+    {
+      "start": 622.72,
+      "end": 623.9,
+      "text": "But alas for poor Alice."
+    },
+    {
+      "start": 624.17,
+      "end": 625.48,
+      "text": "When she got to the door,"
+    },
+    {
+      "start": 625.54,
+      "end": 627.74,
+      "text": "she found she had forgotten the little golden key,"
+    },
+    {
+      "start": 627.92,
+      "end": 629.78,
+      "text": "and when she went back to the table for it,"
+    },
+    {
+      "start": 629.84,
+      "end": 631.68,
+      "text": "she found she could not possibly reach it."
+    },
+    {
+      "start": 632.3,
+      "end": 634.02,
+      "text": "She could see it quite plainly through the glass,"
+    },
+    {
+      "start": 634.18,
+      "end": 636.78,
+      "text": "and she tried her best to climb up one of the legs of the table,"
+    },
+    {
+      "start": 637.16,
+      "end": 637.98,
+      "text": "but it was too slippery,"
+    },
+    {
+      "start": 638.62,
+      "end": 640.32,
+      "text": "and when she had tired herself out with trying,"
+    },
+    {
+      "start": 640.5,
+      "end": 642.32,
+      "text": "the poor little thing sat down and cried."
+    },
+    {
+      "start": 643.18,
+      "end": 643.4,
+      "text": "Come,",
+      "para_break": true
+    },
+    {
+      "start": 643.46,
+      "end": 644.9,
+      "text": "there's no use in crying like that,"
+    },
+    {
+      "start": 645.0,
+      "end": 646.64,
+      "text": "said Alice to herself rather sharply."
+    },
+    {
+      "start": 647.2,
+      "end": 648.78,
+      "text": "I advise you to leave off this minute."
+    },
+    {
+      "start": 649.22,
+      "end": 651.08,
+      "text": "She generally gave herself very good advice,"
+    },
+    {
+      "start": 651.24,
+      "end": 652.82,
+      "text": "though she very seldom followed it,"
+    },
+    {
+      "start": 653.06,
+      "end": 655.2,
+      "text": "and sometimes she scolded herself so"
+    },
+    {
+      "start": 655.2,
+      "end": 657.28,
+      "text": "severely as to bring tears into her eyes,"
+    },
+    {
+      "start": 657.58,
+      "end": 660.32,
+      "text": "and once she remembered trying to box her own ears for having"
+    },
+    {
+      "start": 660.32,
+      "end": 663.38,
+      "text": "cheated herself in a game of croquet she was playing against herself,"
+    },
+    {
+      "start": 664.0,
+      "end": 667.04,
+      "text": "for this curious child was very fond of pretending to be two people."
+    },
+    {
+      "start": 667.54,
+      "end": 668.56,
+      "text": "But it's no use now,"
+    },
+    {
+      "start": 668.74,
+      "end": 669.42,
+      "text": "thought poor Alice,"
+    },
+    {
+      "start": 669.62,
+      "end": 670.82,
+      "text": "to pretend to be two people,"
+    },
+    {
+      "start": 671.3,
+      "end": 672.5,
+      "text": "where there's hardly enough of me"
+    },
+    {
+      "start": 672.5,
+      "end": 674.24,
+      "text": "left to make one respectable person."
+    },
+    {
+      "start": 675.48,
+      "end": 677.08,
+      "text": "Soon her eye fell on a little glass",
+      "para_break": true
+    },
+    {
+      "start": 677.08,
+      "end": 678.78,
+      "text": "box that was lying under the table."
+    },
+    {
+      "start": 679.09,
+      "end": 681.86,
+      "text": "She opened it and found in it a very small cake,"
+    },
+    {
+      "start": 682.04,
+      "end": 684.92,
+      "text": "on which the words EAT ME were beautifully marked in currants."
+    },
+    {
+      "start": 685.64,
+      "end": 685.76,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 685.86,
+      "end": 686.42,
+      "text": "I'll eat it,"
+    },
+    {
+      "start": 686.46,
+      "end": 686.88,
+      "text": "said Alice,"
+    },
+    {
+      "start": 686.98,
+      "end": 688.06,
+      "text": "and if it makes me grow larger,"
+    },
+    {
+      "start": 688.2,
+      "end": 689.06,
+      "text": "I can reach the key,"
+    },
+    {
+      "start": 689.42,
+      "end": 690.71,
+      "text": "and if it makes me grow smaller,"
+    },
+    {
+      "start": 690.88,
+      "end": 691.92,
+      "text": "I can creep under the door."
+    },
+    {
+      "start": 692.02,
+      "end": 692.64,
+      "text": "So either way,"
+    },
+    {
+      "start": 692.66,
+      "end": 693.48,
+      "text": "I'll get into the garden,"
+    },
+    {
+      "start": 693.52,
+      "end": 694.92,
+      "text": "and I don't care which happens."
+    },
+    {
+      "start": 695.58,
+      "end": 697.76,
+      "text": "She ate a little bit and said anxiously to herself,"
+    },
+    {
+      "start": 698.24,
+      "end": 698.58,
+      "text": "Which way?"
+    },
+    {
+      "start": 698.8,
+      "end": 699.24,
+      "text": "Which way?"
+    },
+    {
+      "start": 700.22,
+      "end": 701.5,
+      "text": "holding her hand on the top of her",
+      "para_break": true
+    },
+    {
+      "start": 701.5,
+      "end": 703.18,
+      "text": "head to feel which way it was growing,"
+    },
+    {
+      "start": 703.48,
+      "end": 706.38,
+      "text": "and she was quite surprised to find that she remained the same size."
+    },
+    {
+      "start": 707.14,
+      "end": 707.59,
+      "text": "To be sure,",
+      "para_break": true
+    },
+    {
+      "start": 707.68,
+      "end": 709.78,
+      "text": "this is what generally happens when one eats cake,"
+    },
+    {
+      "start": 709.96,
+      "end": 712.24,
+      "text": "but Alice had got so much into the way of expecting"
+    },
+    {
+      "start": 712.24,
+      "end": 714.24,
+      "text": "nothing but out-of-the-way things to happen"
+    },
+    {
+      "start": 714.38,
+      "end": 716.28,
+      "text": "that it seemed quite dull and stupid"
+    },
+    {
+      "start": 716.28,
+      "end": 717.84,
+      "text": "for life to go on in the common way."
+    },
+    {
+      "start": 718.54,
+      "end": 720.98,
+      "text": "So she set to work and very soon finished off the cake.",
+      "para_break": true
+    },
+    {
+      "start": 722.08,
+      "end": 722.76,
+      "text": "End of chapter one.",
+      "para_break": true
+    }
+  ]
+}

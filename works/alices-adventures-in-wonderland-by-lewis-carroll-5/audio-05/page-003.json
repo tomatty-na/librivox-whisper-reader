@@ -1,0 +1,712 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-05",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_05_carroll.mp3",
+  "chapter_title": "05 - Advice from a Caterpillar",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.747,
+  "page_num": 3,
+  "page_total": 4,
+  "page_start_sec": 488.94,
+  "page_end_sec": 730.74,
+  "segments": [
+    {
+      "start": 488.94,
+      "end": 490.5,
+      "text": "What can all that green stuff be?",
+      "para_break": true
+    },
+    {
+      "start": 490.62,
+      "end": 491.14,
+      "text": "said Alice."
+    },
+    {
+      "start": 491.64,
+      "end": 492.94,
+      "text": "And where have my shoulders got to?"
+    },
+    {
+      "start": 493.74,
+      "end": 493.98,
+      "text": "And oh,",
+      "para_break": true
+    },
+    {
+      "start": 494.14,
+      "end": 494.82,
+      "text": "my poor hands!"
+    },
+    {
+      "start": 495.02,
+      "end": 496.34,
+      "text": "How is it I cannot see you?"
+    },
+    {
+      "start": 497.44,
+      "end": 499.14,
+      "text": "She was moving them about as she spoke,",
+      "para_break": true
+    },
+    {
+      "start": 499.32,
+      "end": 500.08,
+      "text": "but no results"
+    },
+    {
+      "start": 500.2,
+      "end": 500.82,
+      "text": "seemed to follow,"
+    },
+    {
+      "start": 500.92,
+      "end": 503.56,
+      "text": "except a little shaking among the distant green leaves."
+    },
+    {
+      "start": 504.92,
+      "end": 505.64,
+      "text": "As there seemed to be",
+      "para_break": true
+    },
+    {
+      "start": 505.64,
+      "end": 508.0,
+      "text": "no chance of getting her hands up to her head,"
+    },
+    {
+      "start": 508.5,
+      "end": 510.44,
+      "text": "she tried to get her head down to them,"
+    },
+    {
+      "start": 510.6,
+      "end": 510.92,
+      "text": "and was"
+    },
+    {
+      "start": 511.02,
+      "end": 512.64,
+      "text": "delighted to find that her neck would"
+    },
+    {
+      "start": 512.64,
+      "end": 514.38,
+      "text": "bend about easily in any direction,"
+    },
+    {
+      "start": 514.56,
+      "end": 515.42,
+      "text": "like a serpent."
+    },
+    {
+      "start": 516.4,
+      "end": 516.68,
+      "text": "She had",
+      "para_break": true
+    },
+    {
+      "start": 516.8,
+      "end": 519.94,
+      "text": "just succeeded in curving it down into a graceful zigzag,"
+    },
+    {
+      "start": 520.22,
+      "end": 521.98,
+      "text": "and was going to dive in among the leaves,"
+    },
+    {
+      "start": 522.34,
+      "end": 524.46,
+      "text": "which she found to be nothing but the tops of"
+    },
+    {
+      "start": 524.46,
+      "end": 526.4,
+      "text": "the trees under which she had been wandering,"
+    },
+    {
+      "start": 526.82,
+      "end": 529.18,
+      "text": "when a sharp hiss made her draw back in a hurry."
+    },
+    {
+      "start": 529.86,
+      "end": 531.92,
+      "text": "A large pigeon had flown into her face and"
+    },
+    {
+      "start": 531.92,
+      "end": 533.82,
+      "text": "was beating her violently with its wings."
+    },
+    {
+      "start": 535.06,
+      "end": 535.96,
+      "text": "Serpent!",
+      "para_break": true
+    },
+    {
+      "start": 536.22,
+      "end": 537.04,
+      "text": "screamed the pigeon."
+    },
+    {
+      "start": 537.856,
+      "end": 538.82,
+      "text": "I'm not a serpent,",
+      "para_break": true
+    },
+    {
+      "start": 538.9,
+      "end": 540.18,
+      "text": "said Alice indignantly."
+    },
+    {
+      "start": 540.62,
+      "end": 541.18,
+      "text": "Let me alone."
+    },
+    {
+      "start": 542.33,
+      "end": 542.88,
+      "text": "Serpent,",
+      "para_break": true
+    },
+    {
+      "start": 542.9,
+      "end": 543.62,
+      "text": "I say again,"
+    },
+    {
+      "start": 543.86,
+      "end": 544.9,
+      "text": "repeated the pigeon,"
+    },
+    {
+      "start": 545.04,
+      "end": 546.44,
+      "text": "but in a more subdued tone,"
+    },
+    {
+      "start": 546.98,
+      "end": 548.42,
+      "text": "and added with a kind of a sob."
+    },
+    {
+      "start": 549.32,
+      "end": 552.16,
+      "text": "I've tried every way and nothing seems to suit them.",
+      "para_break": true
+    },
+    {
+      "start": 552.94,
+      "end": 555.62,
+      "text": "I haven't the least idea what you're talking about,",
+      "para_break": true
+    },
+    {
+      "start": 555.72,
+      "end": 556.2,
+      "text": "said Alice."
+    },
+    {
+      "start": 557.088,
+      "end": 558.36,
+      "text": "I've tried the roots of trees,",
+      "para_break": true
+    },
+    {
+      "start": 558.62,
+      "end": 559.58,
+      "text": "and I've tried banks,"
+    },
+    {
+      "start": 559.72,
+      "end": 561.06,
+      "text": "and I've tried hedges,"
+    },
+    {
+      "start": 561.48,
+      "end": 563.86,
+      "text": "the pigeon went on without attending to her."
+    },
+    {
+      "start": 564.56,
+      "end": 565.6,
+      "text": "But those serpents,"
+    },
+    {
+      "start": 565.74,
+      "end": 567.32,
+      "text": "there's no pleasing them."
+    },
+    {
+      "start": 569.056,
+      "end": 570.68,
+      "text": "Alice was more and more puzzled,",
+      "para_break": true
+    },
+    {
+      "start": 571.0,
+      "end": 572.86,
+      "text": "but she thought there was no use in saying"
+    },
+    {
+      "start": 572.86,
+      "end": 574.74,
+      "text": "anything more till the pigeon had finished."
+    },
+    {
+      "start": 576.24,
+      "end": 578.56,
+      "text": "As if it wasn't trouble enough hatching the eggs,",
+      "para_break": true
+    },
+    {
+      "start": 578.76,
+      "end": 579.42,
+      "text": "said the pigeon,"
+    },
+    {
+      "start": 579.86,
+      "end": 583.08,
+      "text": "but I must be on the lookout for serpents night and day."
+    },
+    {
+      "start": 583.54,
+      "end": 583.64,
+      "text": "Why,"
+    },
+    {
+      "start": 583.86,
+      "end": 586.26,
+      "text": "I haven't had a wink of sleep these three weeks."
+    },
+    {
+      "start": 587.9,
+      "end": 589.46,
+      "text": "I'm very sorry you've been annoyed,",
+      "para_break": true
+    },
+    {
+      "start": 589.62,
+      "end": 590.1,
+      "text": "said Alice,"
+    },
+    {
+      "start": 590.28,
+      "end": 591.62,
+      "text": "who was beginning to see its meaning."
+    },
+    {
+      "start": 592.256,
+      "end": 594.62,
+      "text": "And just as I'd taken the highest tree in the wood,"
+    },
+    {
+      "start": 595.008,
+      "end": 595.76,
+      "text": "continued the pigeon,"
+    },
+    {
+      "start": 595.9,
+      "end": 597.32,
+      "text": "raising its voice to a shriek,"
+    },
+    {
+      "start": 597.792,
+      "end": 600.88,
+      "text": "and just as I was thinking I should be free of them at last,"
+    },
+    {
+      "start": 601.22,
+      "end": 603.44,
+      "text": "they must needs come wriggling down from the sky."
+    },
+    {
+      "start": 603.76,
+      "end": 604.22,
+      "text": "I..."
+    },
+    {
+      "start": 604.22,
+      "end": 604.24,
+      "text": "ugh,"
+    },
+    {
+      "start": 604.44,
+      "end": 605.04,
+      "text": "serpent!"
+    },
+    {
+      "start": 605.83,
+      "end": 607.76,
+      "text": "But I'm not a serpent,",
+      "para_break": true
+    },
+    {
+      "start": 607.86,
+      "end": 608.46,
+      "text": "I tell you,"
+    },
+    {
+      "start": 608.5,
+      "end": 608.96,
+      "text": "said Alice."
+    },
+    {
+      "start": 609.568,
+      "end": 609.94,
+      "text": "I'm a..."
+    },
+    {
+      "start": 609.94,
+      "end": 611.08,
+      "text": "I'm a..."
+    },
+    {
+      "start": 611.56,
+      "end": 612.06,
+      "text": "Well,"
+    },
+    {
+      "start": 612.2,
+      "end": 612.9,
+      "text": "what are you?"
+    },
+    {
+      "start": 613.0,
+      "end": 613.68,
+      "text": "said the pigeon."
+    },
+    {
+      "start": 613.86,
+      "end": 615.78,
+      "text": "I can see you're trying to invent something."
+    },
+    {
+      "start": 617.024,
+      "end": 618.3,
+      "text": "I'm a little girl,",
+      "para_break": true
+    },
+    {
+      "start": 618.64,
+      "end": 620.18,
+      "text": "said Alice rather doubtfully,"
+    },
+    {
+      "start": 620.34,
+      "end": 621.84,
+      "text": "and she remembered the number of"
+    },
+    {
+      "start": 621.84,
+      "end": 623.74,
+      "text": "changes she had gone through that day."
+    },
+    {
+      "start": 624.68,
+      "end": 625.94,
+      "text": "A likely story indeed,",
+      "para_break": true
+    },
+    {
+      "start": 626.24,
+      "end": 628.58,
+      "text": "said the pigeon in a tone of the deepest contempt."
+    },
+    {
+      "start": 630.1,
+      "end": 632.46,
+      "text": "I've seen a good many little girls in my time,",
+      "para_break": true
+    },
+    {
+      "start": 632.58,
+      "end": 634.94,
+      "text": "but never one with such a neck as that."
+    },
+    {
+      "start": 635.4,
+      "end": 635.54,
+      "text": "No,"
+    },
+    {
+      "start": 635.76,
+      "end": 636.04,
+      "text": "no,"
+    },
+    {
+      "start": 636.58,
+      "end": 637.31,
+      "text": "you are a serpent,"
+    },
+    {
+      "start": 637.66,
+      "end": 639.34,
+      "text": "and there's no use denying it."
+    },
+    {
+      "start": 639.76,
+      "end": 642.76,
+      "text": "I suppose you'll be telling me next that you never tasted an egg."
+    },
+    {
+      "start": 643.98,
+      "end": 645.1,
+      "text": "I have tasted eggs,",
+      "para_break": true
+    },
+    {
+      "start": 645.12,
+      "end": 645.44,
+      "text": "certainly,"
+    },
+    {
+      "start": 645.66,
+      "end": 646.24,
+      "text": "said Alice,"
+    },
+    {
+      "start": 646.38,
+      "end": 648.02,
+      "text": "who was a very truthful child."
+    },
+    {
+      "start": 648.58,
+      "end": 651.28,
+      "text": "But little girls eat eggs quite as much as serpents do,"
+    },
+    {
+      "start": 651.4,
+      "end": 651.7,
+      "text": "you know."
+    },
+    {
+      "start": 652.7,
+      "end": 653.48,
+      "text": "I don't believe it,",
+      "para_break": true
+    },
+    {
+      "start": 653.52,
+      "end": 654.0,
+      "text": "said the pigeon."
+    },
+    {
+      "start": 654.48,
+      "end": 655.0,
+      "text": "But if they do,"
+    },
+    {
+      "start": 655.24,
+      "end": 655.68,
+      "text": "why,"
+    },
+    {
+      "start": 655.84,
+      "end": 657.44,
+      "text": "then they're a kind of serpent,"
+    },
+    {
+      "start": 657.58,
+      "end": 658.56,
+      "text": "that's all I can say."
+    },
+    {
+      "start": 659.58,
+      "end": 662.1,
+      "text": "This was such a new idea to Alice that",
+      "para_break": true
+    },
+    {
+      "start": 662.1,
+      "end": 663.96,
+      "text": "she was quite silent for a minute or two,"
+    },
+    {
+      "start": 664.32,
+      "end": 666.54,
+      "text": "which gave the pigeon the opportunity of adding,"
+    },
+    {
+      "start": 667.16,
+      "end": 667.94,
+      "text": "You're looking for eggs,"
+    },
+    {
+      "start": 668.12,
+      "end": 669.3,
+      "text": "I know that well enough,"
+    },
+    {
+      "start": 669.72,
+      "end": 671.18,
+      "text": "and what does it matter to me whether"
+    },
+    {
+      "start": 671.18,
+      "end": 672.99,
+      "text": "you're a little girl or a serpent?"
+    },
+    {
+      "start": 674.32,
+      "end": 675.7,
+      "text": "It matters a good deal to me,",
+      "para_break": true
+    },
+    {
+      "start": 675.84,
+      "end": 676.78,
+      "text": "said Alice hastily,"
+    },
+    {
+      "start": 677.16,
+      "end": 679.04,
+      "text": "but I'm not looking for eggs as it happens,"
+    },
+    {
+      "start": 679.36,
+      "end": 680.2,
+      "text": "and if I was,"
+    },
+    {
+      "start": 680.22,
+      "end": 681.28,
+      "text": "I shouldn't want yours."
+    },
+    {
+      "start": 681.58,
+      "end": 682.64,
+      "text": "I don't like them raw."
+    },
+    {
+      "start": 684.26,
+      "end": 684.68,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 684.7,
+      "end": 685.3,
+      "text": "be off then,"
+    },
+    {
+      "start": 685.44,
+      "end": 687.22,
+      "text": "said the pigeon in a sulky tone,"
+    },
+    {
+      "start": 687.5,
+      "end": 689.56,
+      "text": "as it settled down again into its nest."
+    },
+    {
+      "start": 690.11,
+      "end": 692.92,
+      "text": "Alice crouched down among the trees as well as she"
+    },
+    {
+      "start": 692.98,
+      "end": 693.1,
+      "text": "could,"
+    },
+    {
+      "start": 693.28,
+      "end": 695.66,
+      "text": "for her neck kept getting entangled among the branches,"
+    },
+    {
+      "start": 696.3,
+      "end": 698.06,
+      "text": "and every now and then she had to"
+    },
+    {
+      "start": 698.1,
+      "end": 699.08,
+      "text": "stop and untwist it."
+    },
+    {
+      "start": 699.808,
+      "end": 701.44,
+      "text": "After a while she remembered that she"
+    },
+    {
+      "start": 701.44,
+      "end": 703.26,
+      "text": "still held the pieces of mushroom in her"
+    },
+    {
+      "start": 703.42,
+      "end": 703.58,
+      "text": "hands,"
+    },
+    {
+      "start": 703.73,
+      "end": 705.64,
+      "text": "and she set to work very carefully,"
+    },
+    {
+      "start": 705.84,
+      "end": 708.1,
+      "text": "nibbling first at one and then at the other,"
+    },
+    {
+      "start": 708.58,
+      "end": 710.92,
+      "text": "and growing sometimes taller and sometimes shorter,"
+    },
+    {
+      "start": 711.1,
+      "end": 713.06,
+      "text": "until she had succeeded in bringing"
+    },
+    {
+      "start": 713.24,
+      "end": 715.08,
+      "text": "herself down to her usual height."
+    },
+    {
+      "start": 716.04,
+      "end": 718.92,
+      "text": "It was so long since she had been anything near the right size",
+      "para_break": true
+    },
+    {
+      "start": 719.2,
+      "end": 721.08,
+      "text": "that it felt quite strange at first,"
+    },
+    {
+      "start": 721.28,
+      "end": 724.54,
+      "text": "but she got used to it in a few minutes and began talking to"
+    },
+    {
+      "start": 724.64,
+      "end": 725.62,
+      "text": "herself as usual."
+    },
+    {
+      "start": 725.92,
+      "end": 726.02,
+      "text": "Come,"
+    },
+    {
+      "start": 726.92,
+      "end": 728.4,
+      "text": "there's half my plan done now.",
+      "para_break": true
+    },
+    {
+      "start": 729.22,
+      "end": 730.74,
+      "text": "How puzzling all these changes are.",
+      "para_break": true
+    }
+  ]
+}

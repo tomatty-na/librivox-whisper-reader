@@ -1,0 +1,777 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-12",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_12_carroll.mp3",
+  "chapter_title": "12 - Alice's Evidence",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.696,
+  "page_num": 2,
+  "page_total": 3,
+  "page_start_sec": 245.18,
+  "page_end_sec": 485.82,
+  "segments": [
+    {
+      "start": 245.18,
+      "end": 246.32,
+      "text": "Are they in the prisoner's",
+      "para_break": true
+    },
+    {
+      "start": 246.44,
+      "end": 246.66,
+      "text": "handwriting,"
+    },
+    {
+      "start": 246.98,
+      "end": 248.68,
+      "text": "asked another of the jurymen."
+    },
+    {
+      "start": 248.94,
+      "end": 249.04,
+      "text": "No,"
+    },
+    {
+      "start": 249.86,
+      "end": 250.26,
+      "text": "they're not,",
+      "para_break": true
+    },
+    {
+      "start": 250.4,
+      "end": 251.42,
+      "text": "said the white rabbit,"
+    },
+    {
+      "start": 251.52,
+      "end": 252.32,
+      "text": "and that's"
+    },
+    {
+      "start": 252.42,
+      "end": 253.58,
+      "text": "the queerest thing about it."
+    },
+    {
+      "start": 254.16,
+      "end": 255.4,
+      "text": "The jury all looked puzzled."
+    },
+    {
+      "start": 255.76,
+      "end": 258.66,
+      "text": "He must have imitated somebody else's"
+    },
+    {
+      "start": 258.66,
+      "end": 258.82,
+      "text": "hand,"
+    },
+    {
+      "start": 259.1,
+      "end": 259.74,
+      "text": "said the king."
+    },
+    {
+      "start": 260.32,
+      "end": 261.72,
+      "text": "The jury all brightened up again."
+    },
+    {
+      "start": 262.69,
+      "end": 263.24,
+      "text": "Please,",
+      "para_break": true
+    },
+    {
+      "start": 263.34,
+      "end": 263.72,
+      "text": "your majesty,"
+    },
+    {
+      "start": 264.08,
+      "end": 264.7,
+      "text": "said the knave,"
+    },
+    {
+      "start": 264.8,
+      "end": 265.6,
+      "text": "I didn't write it,"
+    },
+    {
+      "start": 265.64,
+      "end": 267.12,
+      "text": "and they can't prove that I did."
+    },
+    {
+      "start": 267.32,
+      "end": 268.96,
+      "text": "There's no name signed at the end."
+    },
+    {
+      "start": 270.18,
+      "end": 271.32,
+      "text": "If you didn't sign it,",
+      "para_break": true
+    },
+    {
+      "start": 271.4,
+      "end": 272.0,
+      "text": "said the king,"
+    },
+    {
+      "start": 272.12,
+      "end": 273.46,
+      "text": "that only makes the matter worse."
+    },
+    {
+      "start": 274.26,
+      "end": 275.92,
+      "text": "You must have meant some mischief,",
+      "para_break": true
+    },
+    {
+      "start": 276.0,
+      "end": 278.18,
+      "text": "or else you'd have signed your name like an honest man."
+    },
+    {
+      "start": 278.83,
+      "end": 281.3,
+      "text": "There was a general clapping of hands at this."
+    },
+    {
+      "start": 281.64,
+      "end": 284.82,
+      "text": "It was the first really clever thing that the king had said that day."
+    },
+    {
+      "start": 285.88,
+      "end": 287.08,
+      "text": "That proves his guilt,",
+      "para_break": true
+    },
+    {
+      "start": 287.12,
+      "end": 287.46,
+      "text": "of course,"
+    },
+    {
+      "start": 287.73,
+      "end": 288.5,
+      "text": "said the queen."
+    },
+    {
+      "start": 288.68,
+      "end": 290.18,
+      "text": "So off with!"
+    },
+    {
+      "start": 290.44,
+      "end": 292.3,
+      "text": "It doesn't prove anything of the sort,"
+    },
+    {
+      "start": 292.54,
+      "end": 293.08,
+      "text": "said Alice."
+    },
+    {
+      "start": 293.24,
+      "end": 293.64,
+      "text": "Why,"
+    },
+    {
+      "start": 293.7,
+      "end": 295.06,
+      "text": "you don't even know what they're about."
+    },
+    {
+      "start": 296.48,
+      "end": 296.82,
+      "text": "Read them,",
+      "para_break": true
+    },
+    {
+      "start": 296.98,
+      "end": 297.78,
+      "text": "said the king."
+    },
+    {
+      "start": 298.4,
+      "end": 300.48,
+      "text": "The white rabbit put on his spectacles."
+    },
+    {
+      "start": 301.04,
+      "end": 301.8,
+      "text": "Where shall I begin,"
+    },
+    {
+      "start": 301.92,
+      "end": 302.56,
+      "text": "please your majesty?"
+    },
+    {
+      "start": 302.86,
+      "end": 303.42,
+      "text": "he asked."
+    },
+    {
+      "start": 304.128,
+      "end": 305.14,
+      "text": "Begin at the beginning,",
+      "para_break": true
+    },
+    {
+      "start": 305.36,
+      "end": 306.72,
+      "text": "the king said gravely."
+    },
+    {
+      "start": 307.12,
+      "end": 309.12,
+      "text": "and go on till you come to the end,"
+    },
+    {
+      "start": 309.26,
+      "end": 309.94,
+      "text": "then stop."
+    },
+    {
+      "start": 311.4,
+      "end": 313.82,
+      "text": "There was dead silence in the court whilst the",
+      "para_break": true
+    },
+    {
+      "start": 313.9,
+      "end": 315.14,
+      "text": "rabbit read out these verses."
+    },
+    {
+      "start": 316.44,
+      "end": 319.54,
+      "text": "They told me you had been to her and mentioned me to him.",
+      "para_break": true
+    },
+    {
+      "start": 320.04,
+      "end": 321.46,
+      "text": "She gave me a good character,"
+    },
+    {
+      "start": 321.58,
+      "end": 322.92,
+      "text": "but said I could not swim."
+    },
+    {
+      "start": 323.12,
+      "end": 325.22,
+      "text": "He sent them word I had not gone."
+    },
+    {
+      "start": 325.76,
+      "end": 326.84,
+      "text": "We know it to be true."
+    },
+    {
+      "start": 327.05,
+      "end": 328.94,
+      "text": "If she should push the matter on,"
+    },
+    {
+      "start": 329.08,
+      "end": 330.24,
+      "text": "what would become of you?"
+    },
+    {
+      "start": 330.98,
+      "end": 331.76,
+      "text": "I gave her one.",
+      "para_break": true
+    },
+    {
+      "start": 331.86,
+      "end": 332.8,
+      "text": "They gave him two."
+    },
+    {
+      "start": 333.22,
+      "end": 334.26,
+      "text": "You gave us three or more."
+    },
+    {
+      "start": 334.78,
+      "end": 336.34,
+      "text": "They all returned from him to you."
+    },
+    {
+      "start": 336.82,
+      "end": 337.9,
+      "text": "though they were mine before."
+    },
+    {
+      "start": 338.9,
+      "end": 342.0,
+      "text": "If I or she should chance to be involved in this affair,",
+      "para_break": true
+    },
+    {
+      "start": 342.42,
+      "end": 345.86,
+      "text": "he trusts to you to set them free exactly as we were."
+    },
+    {
+      "start": 347.0,
+      "end": 348.82,
+      "text": "My notion was that you had been,",
+      "para_break": true
+    },
+    {
+      "start": 349.02,
+      "end": 350.34,
+      "text": "before she had this fit,"
+    },
+    {
+      "start": 350.8,
+      "end": 354.36,
+      "text": "an obstacle that came between him and ourselves and it."
+    },
+    {
+      "start": 355.2,
+      "end": 355.62,
+      "text": "Don't let him",
+      "para_break": true
+    },
+    {
+      "start": 355.62,
+      "end": 356.94,
+      "text": "know she liked them best,"
+    },
+    {
+      "start": 357.26,
+      "end": 359.86,
+      "text": "for this must ever be a secret kept"
+    },
+    {
+      "start": 359.86,
+      "end": 361.54,
+      "text": "from all the rest between yourself"
+    },
+    {
+      "start": 361.84,
+      "end": 362.28,
+      "text": "and me."
+    },
+    {
+      "start": 363.424,
+      "end": 365.76,
+      "text": "That's the most important piece of evidence we've heard yet,",
+      "para_break": true
+    },
+    {
+      "start": 365.96,
+      "end": 367.04,
+      "text": "said the king rubbing"
+    },
+    {
+      "start": 367.04,
+      "end": 367.64,
+      "text": "his hands."
+    },
+    {
+      "start": 367.76,
+      "end": 369.48,
+      "text": "So now let the jury,"
+    },
+    {
+      "start": 370.22,
+      "end": 371.76,
+      "text": "if any of them can explain it,",
+      "para_break": true
+    },
+    {
+      "start": 371.86,
+      "end": 372.54,
+      "text": "said Alice."
+    },
+    {
+      "start": 373.06,
+      "end": 374.2,
+      "text": "She had grown so large in"
+    },
+    {
+      "start": 374.2,
+      "end": 375.84,
+      "text": "the last few minutes that she wasn't"
+    },
+    {
+      "start": 375.84,
+      "end": 377.24,
+      "text": "a bit afraid of interrupting him."
+    },
+    {
+      "start": 378.24,
+      "end": 379.33,
+      "text": "I'll give him sixpence.",
+      "para_break": true
+    },
+    {
+      "start": 379.52,
+      "end": 379.648,
+      "text": "I"
+    },
+    {
+      "start": 379.84,
+      "end": 381.76,
+      "text": "don't believe there's an atom of meaning in it."
+    },
+    {
+      "start": 382.92,
+      "end": 385.26,
+      "text": "The jury all wrote down on their slates.",
+      "para_break": true
+    },
+    {
+      "start": 385.96,
+      "end": 386.56,
+      "text": "She doesn't",
+      "para_break": true
+    },
+    {
+      "start": 386.56,
+      "end": 388.3,
+      "text": "believe there's an atom of meaning in it,"
+    },
+    {
+      "start": 388.66,
+      "end": 390.66,
+      "text": "but none of them attempted to explain the paper."
+    },
+    {
+      "start": 392.4,
+      "end": 394.16,
+      "text": "\"'If there's no meaning in it,' said the king,",
+      "para_break": true
+    },
+    {
+      "start": 394.26,
+      "end": 395.4,
+      "text": "\"'that saves a world of trouble,"
+    },
+    {
+      "start": 395.5,
+      "end": 395.8,
+      "text": "you know,"
+    },
+    {
+      "start": 395.84,
+      "end": 397.74,
+      "text": "as we needn't try to find any."
+    },
+    {
+      "start": 398.16,
+      "end": 400.12,
+      "text": "\"'And yet I don't know,' he went on,"
+    },
+    {
+      "start": 400.12,
+      "end": 401.74,
+      "text": "spreading out the verses on his knee"
+    },
+    {
+      "start": 402.08,
+      "end": 403.64,
+      "text": "\"'and looking at them with one eye."
+    },
+    {
+      "start": 404.34,
+      "end": 406.48,
+      "text": "\"'I seem to see some meaning in them after all.",
+      "para_break": true
+    },
+    {
+      "start": 407.168,
+      "end": 408.42,
+      "text": "\"'Said I could not swim.'"
+    },
+    {
+      "start": 408.76,
+      "end": 409.3,
+      "text": "\"'You can't swim,"
+    },
+    {
+      "start": 409.38,
+      "end": 410.34,
+      "text": "can you?' he added,"
+    },
+    {
+      "start": 410.4,
+      "end": 411.34,
+      "text": "turning to the knave."
+    },
+    {
+      "start": 412.0,
+      "end": 413.34,
+      "text": "\"'The knave shook his head sadly."
+    },
+    {
+      "start": 413.9,
+      "end": 415.34,
+      "text": "\"'Do I look like it?' he said,"
+    },
+    {
+      "start": 415.72,
+      "end": 416.8,
+      "text": "\"'which he certainly did not,"
+    },
+    {
+      "start": 416.9,
+      "end": 418.42,
+      "text": "being made entirely of cardboard."
+    },
+    {
+      "start": 419.1,
+      "end": 419.86,
+      "text": "All right so far,"
+    },
+    {
+      "start": 420.08,
+      "end": 421.02,
+      "text": "said the king,"
+    },
+    {
+      "start": 421.14,
+      "end": 423.44,
+      "text": "as he went on muttering over the verses to himself."
+    },
+    {
+      "start": 424.22,
+      "end": 425.28,
+      "text": "We know it to be true.",
+      "para_break": true
+    },
+    {
+      "start": 425.48,
+      "end": 426.36,
+      "text": "That's the jury,"
+    },
+    {
+      "start": 426.44,
+      "end": 426.82,
+      "text": "of course."
+    },
+    {
+      "start": 427.42,
+      "end": 429.02,
+      "text": "If she should push the matter on,"
+    },
+    {
+      "start": 429.18,
+      "end": 430.18,
+      "text": "that must be the queen."
+    },
+    {
+      "start": 430.88,
+      "end": 431.88,
+      "text": "What would become of you?",
+      "para_break": true
+    },
+    {
+      "start": 432.04,
+      "end": 432.8,
+      "text": "What indeed?"
+    },
+    {
+      "start": 433.86,
+      "end": 434.58,
+      "text": "I gave her one,",
+      "para_break": true
+    },
+    {
+      "start": 434.74,
+      "end": 435.66,
+      "text": "they gave him two."
+    },
+    {
+      "start": 436.12,
+      "end": 436.28,
+      "text": "Why,"
+    },
+    {
+      "start": 436.28,
+      "end": 438.04,
+      "text": "that must be what he did with the tart,"
+    },
+    {
+      "start": 438.12,
+      "end": 438.44,
+      "text": "you know."
+    },
+    {
+      "start": 440.0,
+      "end": 440.88,
+      "text": "But it goes on,",
+      "para_break": true
+    },
+    {
+      "start": 440.88,
+      "end": 442.66,
+      "text": "they all returned from him to you,"
+    },
+    {
+      "start": 442.86,
+      "end": 443.28,
+      "text": "said Alice."
+    },
+    {
+      "start": 444.47,
+      "end": 445.02,
+      "text": "Why,",
+      "para_break": true
+    },
+    {
+      "start": 445.16,
+      "end": 445.8,
+      "text": "there they are,"
+    },
+    {
+      "start": 446.1,
+      "end": 447.5,
+      "text": "said the king triumphantly,"
+    },
+    {
+      "start": 447.6,
+      "end": 449.2,
+      "text": "pointing to the tarts on the table."
+    },
+    {
+      "start": 450.048,
+      "end": 451.46,
+      "text": "Nothing can be clearer than that.",
+      "para_break": true
+    },
+    {
+      "start": 451.92,
+      "end": 452.26,
+      "text": "Then again,"
+    },
+    {
+      "start": 452.5,
+      "end": 454.14,
+      "text": "before she had this fit."
+    },
+    {
+      "start": 454.82,
+      "end": 455.62,
+      "text": "You never had fits,"
+    },
+    {
+      "start": 455.7,
+      "end": 456.0,
+      "text": "my dear,"
+    },
+    {
+      "start": 456.1,
+      "end": 456.38,
+      "text": "I think,"
+    },
+    {
+      "start": 456.8,
+      "end": 457.52,
+      "text": "he said to the queen."
+    },
+    {
+      "start": 458.44,
+      "end": 458.9,
+      "text": "Never,",
+      "para_break": true
+    },
+    {
+      "start": 459.18,
+      "end": 460.7,
+      "text": "said the queen furiously,"
+    },
+    {
+      "start": 460.86,
+      "end": 463.28,
+      "text": "throwing an inkstand at the lizard as she spoke."
+    },
+    {
+      "start": 463.88,
+      "end": 465.88,
+      "text": "The unfortunate little bill had left off"
+    },
+    {
+      "start": 465.88,
+      "end": 467.4,
+      "text": "writing on his slate with one finger,"
+    },
+    {
+      "start": 467.68,
+      "end": 469.02,
+      "text": "as he found it made no mark,"
+    },
+    {
+      "start": 469.54,
+      "end": 471.62,
+      "text": "but he now hastily began again using the"
+    },
+    {
+      "start": 471.62,
+      "end": 473.3,
+      "text": "ink that was trickling down his face."
+    },
+    {
+      "start": 473.56,
+      "end": 474.39,
+      "text": "as long as it lasted."
+    },
+    {
+      "start": 475.2,
+      "end": 476.62,
+      "text": "Then the words don't fit you,",
+      "para_break": true
+    },
+    {
+      "start": 476.9,
+      "end": 477.66,
+      "text": "said the king,"
+    },
+    {
+      "start": 477.78,
+      "end": 478.84,
+      "text": "looking round the court with"
+    },
+    {
+      "start": 478.84,
+      "end": 479.32,
+      "text": "a smile."
+    },
+    {
+      "start": 480.14,
+      "end": 480.99,
+      "text": "There was a dead silence.",
+      "para_break": true
+    },
+    {
+      "start": 482.3,
+      "end": 482.68,
+      "text": "It's a pun,",
+      "para_break": true
+    },
+    {
+      "start": 483.0,
+      "end": 484.72,
+      "text": "the king added in an angry tone,"
+    },
+    {
+      "start": 484.9,
+      "end": 485.82,
+      "text": "and everybody laughed."
+    }
+  ]
+}

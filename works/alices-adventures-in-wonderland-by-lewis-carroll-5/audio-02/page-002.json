@@ -1,0 +1,816 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-02",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_02_carroll.mp3",
+  "chapter_title": "02 - The Pool of Tears",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.477,
+  "page_num": 2,
+  "page_total": 3,
+  "page_start_sec": 260.88,
+  "page_end_sec": 504.5,
+  "segments": [
+    {
+      "start": 260.88,
+      "end": 261.28,
+      "text": "No,",
+      "para_break": true
+    },
+    {
+      "start": 261.36,
+      "end": 262.72,
+      "text": "I've made up my mind about it."
+    },
+    {
+      "start": 262.74,
+      "end": 263.32,
+      "text": "If I'm able,"
+    },
+    {
+      "start": 263.48,
+      "end": 264.44,
+      "text": "I'll stay down here."
+    },
+    {
+      "start": 265.07,
+      "end": 267.66,
+      "text": "It'll be no use their putting their heads down and saying,",
+      "para_break": true
+    },
+    {
+      "start": 267.74,
+      "end": 268.28,
+      "text": "Come up again,"
+    },
+    {
+      "start": 268.42,
+      "end": 268.6,
+      "text": "dear."
+    },
+    {
+      "start": 268.76,
+      "end": 270.06,
+      "text": "I shall only look up and say,"
+    },
+    {
+      "start": 270.14,
+      "end": 270.8,
+      "text": "Who am I then?"
+    },
+    {
+      "start": 270.96,
+      "end": 271.88,
+      "text": "Tell me that first,"
+    },
+    {
+      "start": 271.96,
+      "end": 273.46,
+      "text": "and then if I like being that person,"
+    },
+    {
+      "start": 273.54,
+      "end": 274.06,
+      "text": "I'll come up."
+    },
+    {
+      "start": 274.14,
+      "end": 274.46,
+      "text": "If not,"
+    },
+    {
+      "start": 274.52,
+      "end": 275.88,
+      "text": "I'll stay down here till I'm someone"
+    },
+    {
+      "start": 276.0,
+      "end": 276.22,
+      "text": "else."
+    },
+    {
+      "start": 276.42,
+      "end": 276.52,
+      "text": "But,"
+    },
+    {
+      "start": 277.06,
+      "end": 277.2,
+      "text": "oh,",
+      "para_break": true
+    },
+    {
+      "start": 277.22,
+      "end": 277.46,
+      "text": "dear,"
+    },
+    {
+      "start": 277.58,
+      "end": 279.32,
+      "text": "cried Alice with a sudden burst of tears."
+    },
+    {
+      "start": 279.52,
+      "end": 281.28,
+      "text": "I do wish they would put their"
+    },
+    {
+      "start": 281.28,
+      "end": 281.76,
+      "text": "heads down."
+    },
+    {
+      "start": 282.0,
+      "end": 284.72,
+      "text": "I'm so very tired of being all alone here."
+    },
+    {
+      "start": 285.32,
+      "end": 286.06,
+      "text": "As she said this,",
+      "para_break": true
+    },
+    {
+      "start": 286.08,
+      "end": 286.9,
+      "text": "she looked down at her"
+    },
+    {
+      "start": 287.02,
+      "end": 289.36,
+      "text": "hands and was surprised to see that she had put"
+    },
+    {
+      "start": 289.36,
+      "end": 291.52,
+      "text": "on one of the rabbit's little white kid gloves"
+    },
+    {
+      "start": 291.52,
+      "end": 292.42,
+      "text": "while she was talking."
+    },
+    {
+      "start": 292.66,
+      "end": 294.24,
+      "text": "How can I have done that,"
+    },
+    {
+      "start": 294.34,
+      "end": 294.66,
+      "text": "she thought."
+    },
+    {
+      "start": 294.84,
+      "end": 296.14,
+      "text": "I must be growing small again."
+    },
+    {
+      "start": 296.86,
+      "end": 298.28,
+      "text": "She got up and went to the table to",
+      "para_break": true
+    },
+    {
+      "start": 298.28,
+      "end": 299.92,
+      "text": "measure herself by it and found that,"
+    },
+    {
+      "start": 299.98,
+      "end": 300.62,
+      "text": "as nearly as she"
+    },
+    {
+      "start": 300.62,
+      "end": 301.12,
+      "text": "could guess,"
+    },
+    {
+      "start": 301.44,
+      "end": 304.44,
+      "text": "she was now about two feet high and was going on shrinking rapidly."
+    },
+    {
+      "start": 305.14,
+      "end": 305.94,
+      "text": "She soon found out",
+      "para_break": true
+    },
+    {
+      "start": 305.94,
+      "end": 308.0,
+      "text": "that the cause of this was the fan she was holding,"
+    },
+    {
+      "start": 308.1,
+      "end": 310.26,
+      "text": "and she dropped it hastily just in time to avoid"
+    },
+    {
+      "start": 310.44,
+      "end": 311.34,
+      "text": "shrinking away altogether."
+    },
+    {
+      "start": 312.58,
+      "end": 313.72,
+      "text": "That was a narrow escape,",
+      "para_break": true
+    },
+    {
+      "start": 313.9,
+      "end": 314.28,
+      "text": "said Alice,"
+    },
+    {
+      "start": 314.38,
+      "end": 315.56,
+      "text": "a good deal frightened at"
+    },
+    {
+      "start": 315.66,
+      "end": 316.25,
+      "text": "the sudden change,"
+    },
+    {
+      "start": 316.42,
+      "end": 318.4,
+      "text": "but very glad to find herself still in existence."
+    },
+    {
+      "start": 318.8,
+      "end": 320.1,
+      "text": "And now for the garden."
+    },
+    {
+      "start": 320.28,
+      "end": 320.76,
+      "text": "And"
+    },
+    {
+      "start": 320.76,
+      "end": 322.76,
+      "text": "she ran with all speed back to the little door."
+    },
+    {
+      "start": 323.28,
+      "end": 323.8,
+      "text": "But alas,",
+      "para_break": true
+    },
+    {
+      "start": 323.84,
+      "end": 325.24,
+      "text": "the little door was shut again,"
+    },
+    {
+      "start": 325.4,
+      "end": 325.74,
+      "text": "and the"
+    },
+    {
+      "start": 325.82,
+      "end": 328.44,
+      "text": "little golden key was lying on the glass table as before."
+    },
+    {
+      "start": 329.26,
+      "end": 330.7,
+      "text": "And things are worse than ever,",
+      "para_break": true
+    },
+    {
+      "start": 330.86,
+      "end": 331.1,
+      "text": "thought"
+    },
+    {
+      "start": 331.1,
+      "end": 331.74,
+      "text": "the poor child,"
+    },
+    {
+      "start": 331.88,
+      "end": 333.68,
+      "text": "for I never was so small as this before,"
+    },
+    {
+      "start": 333.92,
+      "end": 334.24,
+      "text": "never,"
+    },
+    {
+      "start": 334.44,
+      "end": 336.4,
+      "text": "and I declare it's too bad that it"
+    },
+    {
+      "start": 336.4,
+      "end": 336.62,
+      "text": "is."
+    },
+    {
+      "start": 337.66,
+      "end": 338.64,
+      "text": "As she said these words,",
+      "para_break": true
+    },
+    {
+      "start": 338.76,
+      "end": 339.36,
+      "text": "her foot slipped,"
+    },
+    {
+      "start": 339.54,
+      "end": 340.7,
+      "text": "and in another moment,"
+    },
+    {
+      "start": 340.8,
+      "end": 341.06,
+      "text": "splash,"
+    },
+    {
+      "start": 341.44,
+      "end": 342.5,
+      "text": "she was up to her chin"
+    },
+    {
+      "start": 342.64,
+      "end": 343.2,
+      "text": "in salt water."
+    },
+    {
+      "start": 343.42,
+      "end": 346.64,
+      "text": "Her first idea was that she had somehow fallen into the sea,"
+    },
+    {
+      "start": 346.78,
+      "end": 347.58,
+      "text": "and in that case,"
+    },
+    {
+      "start": 347.66,
+      "end": 348.7,
+      "text": "I can go back by railway,"
+    },
+    {
+      "start": 348.92,
+      "end": 349.62,
+      "text": "she said to herself."
+    },
+    {
+      "start": 350.464,
+      "end": 352.44,
+      "text": "Alice had been to the seaside once in her life,",
+      "para_break": true
+    },
+    {
+      "start": 352.52,
+      "end": 354.37,
+      "text": "and had come to the general conclusion that"
+    },
+    {
+      "start": 354.38,
+      "end": 356.26,
+      "text": "wherever you go to on the English coast,"
+    },
+    {
+      "start": 356.7,
+      "end": 358.78,
+      "text": "you find a number of bathing machines in the sea,"
+    },
+    {
+      "start": 358.9,
+      "end": 360.66,
+      "text": "some children digging in the sand with wooden"
+    },
+    {
+      "start": 360.7,
+      "end": 361.1,
+      "text": "spades,"
+    },
+    {
+      "start": 361.18,
+      "end": 362.56,
+      "text": "then a row of lodging houses,"
+    },
+    {
+      "start": 362.74,
+      "end": 364.2,
+      "text": "and behind them a railway station."
+    },
+    {
+      "start": 364.46,
+      "end": 365.02,
+      "text": "However,"
+    },
+    {
+      "start": 365.22,
+      "end": 365.92,
+      "text": "she soon made"
+    },
+    {
+      "start": 366.04,
+      "end": 367.4,
+      "text": "out that she was in the pool of tears,"
+    },
+    {
+      "start": 367.54,
+      "end": 369.3,
+      "text": "which she had wept when she was nine feet high."
+    },
+    {
+      "start": 370.05,
+      "end": 372.3,
+      "text": "I wish I hadn't cried so much,",
+      "para_break": true
+    },
+    {
+      "start": 372.42,
+      "end": 375.06,
+      "text": "said Alice as she swam about trying to find her way out."
+    },
+    {
+      "start": 375.54,
+      "end": 377.1,
+      "text": "I shall be punished for it now,",
+      "para_break": true
+    },
+    {
+      "start": 377.18,
+      "end": 377.48,
+      "text": "I suppose,"
+    },
+    {
+      "start": 378.02,
+      "end": 379.34,
+      "text": "by being drowned in my own tears.",
+      "para_break": true
+    },
+    {
+      "start": 380.1,
+      "end": 381.58,
+      "text": "That will be a queer thing to be sure.",
+      "para_break": true
+    },
+    {
+      "start": 382.4,
+      "end": 382.62,
+      "text": "However,",
+      "para_break": true
+    },
+    {
+      "start": 382.8,
+      "end": 383.9,
+      "text": "everything is queer today."
+    },
+    {
+      "start": 385.24,
+      "end": 386.72,
+      "text": "Just then she heard something splashing",
+      "para_break": true
+    },
+    {
+      "start": 386.72,
+      "end": 388.44,
+      "text": "about in the pool a little way off,"
+    },
+    {
+      "start": 388.74,
+      "end": 390.62,
+      "text": "and she swam nearer to make out what it was."
+    },
+    {
+      "start": 391.28,
+      "end": 393.76,
+      "text": "At first she thought it must be a walrus or hippopotamus,",
+      "para_break": true
+    },
+    {
+      "start": 394.34,
+      "end": 396.28,
+      "text": "but then she remembered how small she was now,",
+      "para_break": true
+    },
+    {
+      "start": 396.44,
+      "end": 398.3,
+      "text": "and soon she made out that it was only a"
+    },
+    {
+      "start": 398.3,
+      "end": 399.76,
+      "text": "mouse that had slipped in like herself."
+    },
+    {
+      "start": 400.84,
+      "end": 402.28,
+      "text": "Would it be of any use now,",
+      "para_break": true
+    },
+    {
+      "start": 402.44,
+      "end": 402.92,
+      "text": "thought Alice,"
+    },
+    {
+      "start": 403.02,
+      "end": 403.9,
+      "text": "to speak to this mouse?"
+    },
+    {
+      "start": 404.6,
+      "end": 406.88,
+      "text": "Everything is so out of the way down here that",
+      "para_break": true
+    },
+    {
+      "start": 406.88,
+      "end": 408.86,
+      "text": "I should think very likely that it can talk."
+    },
+    {
+      "start": 409.28,
+      "end": 409.72,
+      "text": "At any rate,"
+    },
+    {
+      "start": 409.78,
+      "end": 410.7,
+      "text": "there's no harm in trying."
+    },
+    {
+      "start": 411.7,
+      "end": 412.28,
+      "text": "So she began.",
+      "para_break": true
+    },
+    {
+      "start": 413.06,
+      "end": 413.28,
+      "text": "Oh,",
+      "para_break": true
+    },
+    {
+      "start": 413.3,
+      "end": 413.5,
+      "text": "mouse,"
+    },
+    {
+      "start": 413.74,
+      "end": 415.32,
+      "text": "do you know the way out of this pool?"
+    },
+    {
+      "start": 415.6,
+      "end": 417.42,
+      "text": "I am very tired of swimming about here."
+    },
+    {
+      "start": 417.74,
+      "end": 417.9,
+      "text": "Oh,"
+    },
+    {
+      "start": 417.94,
+      "end": 418.14,
+      "text": "mouse."
+    },
+    {
+      "start": 419.22,
+      "end": 421.82,
+      "text": "Alice thought this must be the right way of speaking to a mouse.",
+      "para_break": true
+    },
+    {
+      "start": 422.58,
+      "end": 424.0,
+      "text": "She had never done such a thing before,",
+      "para_break": true
+    },
+    {
+      "start": 424.14,
+      "end": 426.8,
+      "text": "but she remembered having seen in her brother's Latin grammar,"
+    },
+    {
+      "start": 427.38,
+      "end": 427.76,
+      "text": "A mouse,",
+      "para_break": true
+    },
+    {
+      "start": 428.0,
+      "end": 428.7,
+      "text": "of a mouse,"
+    },
+    {
+      "start": 428.9,
+      "end": 429.7,
+      "text": "to a mouse,"
+    },
+    {
+      "start": 430.26,
+      "end": 430.84,
+      "text": "a mouse,",
+      "para_break": true
+    },
+    {
+      "start": 430.92,
+      "end": 431.44,
+      "text": "oh mouse!"
+    },
+    {
+      "start": 432.82,
+      "end": 434.68,
+      "text": "The mouse looked at her rather inquisitively,",
+      "para_break": true
+    },
+    {
+      "start": 435.16,
+      "end": 437.5,
+      "text": "and seemed to her to wink with one of its little eyes,",
+      "para_break": true
+    },
+    {
+      "start": 437.54,
+      "end": 438.34,
+      "text": "but it said nothing."
+    },
+    {
+      "start": 439.456,
+      "end": 440.82,
+      "text": "Perhaps it doesn't understand English,",
+      "para_break": true
+    },
+    {
+      "start": 441.04,
+      "end": 441.52,
+      "text": "thought Alice."
+    },
+    {
+      "start": 442.08,
+      "end": 444.98,
+      "text": "I dare say it's a French mouse come over with William the Conqueror,",
+      "para_break": true
+    },
+    {
+      "start": 445.5,
+      "end": 446.94,
+      "text": "for with all her knowledge of history,",
+      "para_break": true
+    },
+    {
+      "start": 447.14,
+      "end": 450.06,
+      "text": "Alice had no very clear notion how long ago anything had happened."
+    },
+    {
+      "start": 450.68,
+      "end": 451.46,
+      "text": "So she began again.",
+      "para_break": true
+    },
+    {
+      "start": 452.51,
+      "end": 455.46,
+      "text": "which was the first sentence in her french lesson",
+      "para_break": true
+    },
+    {
+      "start": 455.46,
+      "end": 457.92,
+      "text": "book the mouse gave a sudden leap out of the"
+    },
+    {
+      "start": 457.92,
+      "end": 459.86,
+      "text": "water and seemed to quiver all over with fright"
+    },
+    {
+      "start": 460.52,
+      "end": 463.7,
+      "text": "oh i beg your pardon cried alice hastily afraid that she had hurt",
+      "para_break": true
+    },
+    {
+      "start": 463.7,
+      "end": 466.68,
+      "text": "the poor animal's feelings i quite forgot you didn't like cats"
+    },
+    {
+      "start": 468.54,
+      "end": 470.46,
+      "text": "\"'Not like cats!' cried the mouse in a shrill,",
+      "para_break": true
+    },
+    {
+      "start": 470.46,
+      "end": 471.12,
+      "text": "passionate voice."
+    },
+    {
+      "start": 471.56,
+      "end": 473.12,
+      "text": "\"'Would you like cats if you were me?'"
+    },
+    {
+      "start": 473.38,
+      "end": 473.98,
+      "text": "\"'Well,"
+    },
+    {
+      "start": 473.98,
+      "end": 476.02,
+      "text": "perhaps not,' said Alice in a soothing tone."
+    },
+    {
+      "start": 476.608,
+      "end": 477.66,
+      "text": "\"'Don't be angry about it,",
+      "para_break": true
+    },
+    {
+      "start": 477.68,
+      "end": 479.86,
+      "text": "and yet I wish I could show you our cat Dinah."
+    },
+    {
+      "start": 479.98,
+      "end": 482.54,
+      "text": "\"'I think you'd take a fancy to cats if you could only see her."
+    },
+    {
+      "start": 483.2,
+      "end": 483.84,
+      "text": "\"'She's such a dear,",
+      "para_break": true
+    },
+    {
+      "start": 483.88,
+      "end": 484.72,
+      "text": "quiet thing.'"
+    },
+    {
+      "start": 485.28,
+      "end": 488.54,
+      "text": "\"'Alice went on half to herself as she swam lazily about in the pool.",
+      "para_break": true
+    },
+    {
+      "start": 488.94,
+      "end": 491.14,
+      "text": "\"'And she sits purring so nicely by the fire,"
+    },
+    {
+      "start": 491.28,
+      "end": 493.0,
+      "text": "licking her paws and washing her face."
+    },
+    {
+      "start": 493.5,
+      "end": 494.34,
+      "text": "\"'And she's such a nice,",
+      "para_break": true
+    },
+    {
+      "start": 494.38,
+      "end": 495.44,
+      "text": "soft thing to nurse."
+    },
+    {
+      "start": 495.66,
+      "end": 497.74,
+      "text": "and she's such a capital one for catching mice."
+    },
+    {
+      "start": 497.86,
+      "end": 498.26,
+      "text": "Oh,"
+    },
+    {
+      "start": 498.32,
+      "end": 499.22,
+      "text": "I beg your pardon,"
+    },
+    {
+      "start": 499.38,
+      "end": 500.14,
+      "text": "cried Alice again,"
+    },
+    {
+      "start": 500.24,
+      "end": 502.16,
+      "text": "for this time the mouse was bristling all over,"
+    },
+    {
+      "start": 502.28,
+      "end": 504.5,
+      "text": "and she felt certain it must be really offended."
+    }
+  ]
+}

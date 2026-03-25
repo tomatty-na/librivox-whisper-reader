@@ -1,0 +1,680 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-09",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_09_carroll.mp3",
+  "chapter_title": "09 - The Mock Turtle's Story",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.768,
+  "page_num": 1,
+  "page_total": 4,
+  "page_start_sec": 12.71,
+  "page_end_sec": 255.2,
+  "segments": [
+    {
+      "start": 12.71,
+      "end": 13.36,
+      "text": "CHAPTER IX."
+    },
+    {
+      "start": 13.36,
+      "end": 13.36,
+      "text": "You"
+    },
+    {
+      "start": 14.208,
+      "end": 16.84,
+      "text": "can't think how glad I am to see you again,",
+      "para_break": true
+    },
+    {
+      "start": 17.04,
+      "end": 18.04,
+      "text": "you dear old thing,"
+    },
+    {
+      "start": 18.28,
+      "end": 21.94,
+      "text": "said the Duchess as she tucked her arm affectionately into Alice's,"
+    },
+    {
+      "start": 22.02,
+      "end": 22.64,
+      "text": "and they walked"
+    },
+    {
+      "start": 22.64,
+      "end": 23.14,
+      "text": "off together."
+    },
+    {
+      "start": 24.288,
+      "end": 27.0,
+      "text": "Alice was very glad to find her in such a pleasant temper,",
+      "para_break": true
+    },
+    {
+      "start": 27.12,
+      "end": 28.04,
+      "text": "and thought to herself"
+    },
+    {
+      "start": 28.34,
+      "end": 30.76,
+      "text": "that perhaps it was only the pepper that had"
+    },
+    {
+      "start": 30.76,
+      "end": 32.7,
+      "text": "made her so savage when they met in the kitchen."
+    },
+    {
+      "start": 33.7,
+      "end": 34.6,
+      "text": "When I'm a duchess,",
+      "para_break": true
+    },
+    {
+      "start": 34.72,
+      "end": 35.6,
+      "text": "she said to herself,"
+    },
+    {
+      "start": 35.88,
+      "end": 37.22,
+      "text": "not in a very hopeful tone,"
+    },
+    {
+      "start": 37.32,
+      "end": 37.52,
+      "text": "though,"
+    },
+    {
+      "start": 37.98,
+      "end": 40.54,
+      "text": "I won't have any pepper in my kitchen at all."
+    },
+    {
+      "start": 40.72,
+      "end": 42.44,
+      "text": "Soup does very well without."
+    },
+    {
+      "start": 43.424,
+      "end": 44.2,
+      "text": "Maybe it's always",
+      "para_break": true
+    },
+    {
+      "start": 44.3,
+      "end": 46.2,
+      "text": "pepper that makes people hot-tempered,"
+    },
+    {
+      "start": 46.32,
+      "end": 47.02,
+      "text": "she went on,"
+    },
+    {
+      "start": 47.08,
+      "end": 49.34,
+      "text": "very much pleased at having found out a new"
+    },
+    {
+      "start": 49.42,
+      "end": 49.96,
+      "text": "kind of rule,"
+    },
+    {
+      "start": 50.14,
+      "end": 52.18,
+      "text": "and vinegar that makes them sour,"
+    },
+    {
+      "start": 52.82,
+      "end": 54.34,
+      "text": "and chamomile that makes them bitter,"
+    },
+    {
+      "start": 55.12,
+      "end": 55.66,
+      "text": "and barley",
+      "para_break": true
+    },
+    {
+      "start": 55.88,
+      "end": 58.44,
+      "text": "sugar and such things that make children sweet-tempered."
+    },
+    {
+      "start": 58.92,
+      "end": 60.36,
+      "text": "I only wish people knew that,"
+    },
+    {
+      "start": 60.62,
+      "end": 62.46,
+      "text": "then they wouldn't be so stingy about it,"
+    },
+    {
+      "start": 62.52,
+      "end": 62.72,
+      "text": "you know."
+    },
+    {
+      "start": 63.98,
+      "end": 66.16,
+      "text": "She had quite forgotten the Duchess by this time,",
+      "para_break": true
+    },
+    {
+      "start": 66.3,
+      "end": 68.32,
+      "text": "and was a little startled when she heard"
+    },
+    {
+      "start": 68.32,
+      "end": 69.64,
+      "text": "her voice close to her ear."
+    },
+    {
+      "start": 70.528,
+      "end": 71.68,
+      "text": "You're thinking about something,",
+      "para_break": true
+    },
+    {
+      "start": 71.84,
+      "end": 72.26,
+      "text": "my dear,"
+    },
+    {
+      "start": 72.44,
+      "end": 73.38,
+      "text": "and that makes you"
+    },
+    {
+      "start": 73.42,
+      "end": 74.24,
+      "text": "forget to talk."
+    },
+    {
+      "start": 74.8,
+      "end": 77.46,
+      "text": "I can't tell you just now what the moral of that is,"
+    },
+    {
+      "start": 77.68,
+      "end": 78.82,
+      "text": "but I shall remember it"
+    },
+    {
+      "start": 78.98,
+      "end": 79.23,
+      "text": "in a bit."
+    },
+    {
+      "start": 80.512,
+      "end": 81.42,
+      "text": "Perhaps it hasn't won,",
+      "para_break": true
+    },
+    {
+      "start": 81.66,
+      "end": 82.9,
+      "text": "Alice ventured to remark."
+    },
+    {
+      "start": 83.36,
+      "end": 83.86,
+      "text": "Tut,"
+    },
+    {
+      "start": 83.92,
+      "end": 84.22,
+      "text": "tut,"
+    },
+    {
+      "start": 84.26,
+      "end": 84.64,
+      "text": "child,"
+    },
+    {
+      "start": 85.0,
+      "end": 85.92,
+      "text": "said the Duchess."
+    },
+    {
+      "start": 86.4,
+      "end": 87.46,
+      "text": "Everything's got a moral."
+    },
+    {
+      "start": 88.04,
+      "end": 89.32,
+      "text": "If only you can find it."
+    },
+    {
+      "start": 89.98,
+      "end": 92.26,
+      "text": "And she squeezed herself up closer to Alice's"
+    },
+    {
+      "start": 92.36,
+      "end": 93.2,
+      "text": "side as she spoke."
+    },
+    {
+      "start": 94.72,
+      "end": 97.28,
+      "text": "Alice did not much like her keeping so close to her,",
+      "para_break": true
+    },
+    {
+      "start": 97.4,
+      "end": 98.86,
+      "text": "first because the Duchess"
+    },
+    {
+      "start": 98.86,
+      "end": 99.86,
+      "text": "was very ugly,"
+    },
+    {
+      "start": 100.02,
+      "end": 102.16,
+      "text": "and secondly because she was exactly"
+    },
+    {
+      "start": 102.16,
+      "end": 103.86,
+      "text": "the right height to rest her chin on"
+    },
+    {
+      "start": 104.2,
+      "end": 104.62,
+      "text": "Alice's shoulder,"
+    },
+    {
+      "start": 104.78,
+      "end": 106.8,
+      "text": "and it was an uncomfortably sharp chin."
+    },
+    {
+      "start": 107.25,
+      "end": 107.8,
+      "text": "However,"
+    },
+    {
+      "start": 108.02,
+      "end": 109.34,
+      "text": "she did not like to be rude,"
+    },
+    {
+      "start": 109.54,
+      "end": 111.1,
+      "text": "so she bore it as well as she could."
+    },
+    {
+      "start": 111.88,
+      "end": 114.12,
+      "text": "The game's going on rather better now,",
+      "para_break": true
+    },
+    {
+      "start": 114.3,
+      "end": 117.08,
+      "text": "she said by the way of keeping up the conversation a little."
+    },
+    {
+      "start": 118.336,
+      "end": 120.06,
+      "text": "\"'Tis so,\" said the Duchess,",
+      "para_break": true
+    },
+    {
+      "start": 120.08,
+      "end": 121.58,
+      "text": "and the moral of that is,"
+    },
+    {
+      "start": 122.14,
+      "end": 122.42,
+      "text": "\"'Oh,"
+    },
+    {
+      "start": 122.42,
+      "end": 123.04,
+      "text": "tis love,"
+    },
+    {
+      "start": 123.18,
+      "end": 125.44,
+      "text": "tis love that makes the world go round.'\""
+    },
+    {
+      "start": 126.368,
+      "end": 128.26,
+      "text": "\"'Somebody said,' Alice whispered,",
+      "para_break": true
+    },
+    {
+      "start": 128.38,
+      "end": 130.75,
+      "text": "\"'that it's done by everybody minding their own business.'\""
+    },
+    {
+      "start": 131.48,
+      "end": 132.28,
+      "text": "Ah,"
+    },
+    {
+      "start": 132.28,
+      "end": 132.5,
+      "text": "well,"
+    },
+    {
+      "start": 132.62,
+      "end": 134.26,
+      "text": "it means much the same thing,"
+    },
+    {
+      "start": 134.56,
+      "end": 135.6,
+      "text": "said the Duchess,"
+    },
+    {
+      "start": 135.6,
+      "end": 138.8,
+      "text": "digging her sharp little chin into Alice's shoulder as she added,"
+    },
+    {
+      "start": 139.26,
+      "end": 140.64,
+      "text": "And the moral of that is,"
+    },
+    {
+      "start": 141.28,
+      "end": 142.56,
+      "text": "take care of the scents,"
+    },
+    {
+      "start": 142.62,
+      "end": 144.66,
+      "text": "and the sounds will take care of themselves."
+    },
+    {
+      "start": 145.84,
+      "end": 148.54,
+      "text": "How fond she is of finding morals in things,",
+      "para_break": true
+    },
+    {
+      "start": 148.78,
+      "end": 149.78,
+      "text": "Alice thought to herself."
+    },
+    {
+      "start": 151.18,
+      "end": 154.84,
+      "text": "I dare say you're wondering why I don't put my arm round your waist,",
+      "para_break": true
+    },
+    {
+      "start": 155.08,
+      "end": 156.76,
+      "text": "the Duchess said after a pause."
+    },
+    {
+      "start": 157.07,
+      "end": 161.72,
+      "text": "The reason is that I'm doubtful about the temper of your flamingo."
+    },
+    {
+      "start": 162.14,
+      "end": 163.26,
+      "text": "Shall I try the experiment?"
+    },
+    {
+      "start": 164.26,
+      "end": 165.7,
+      "text": "He might bite,",
+      "para_break": true
+    },
+    {
+      "start": 165.96,
+      "end": 167.42,
+      "text": "Alice cautiously replied,"
+    },
+    {
+      "start": 167.7,
+      "end": 170.36,
+      "text": "not feeling at all anxious to have the experiment tried."
+    },
+    {
+      "start": 171.488,
+      "end": 171.94,
+      "text": "Very true,",
+      "para_break": true
+    },
+    {
+      "start": 172.28,
+      "end": 173.22,
+      "text": "said the Duchess."
+    },
+    {
+      "start": 173.824,
+      "end": 175.64,
+      "text": "Flamingos and mustard both bite,"
+    },
+    {
+      "start": 175.78,
+      "end": 177.72,
+      "text": "and the moral of that is,"
+    },
+    {
+      "start": 177.88,
+      "end": 179.86,
+      "text": "birds of a feather flock together."
+    },
+    {
+      "start": 181.504,
+      "end": 182.98,
+      "text": "Only mustard isn't a bird,",
+      "para_break": true
+    },
+    {
+      "start": 183.2,
+      "end": 184.22,
+      "text": "Alice remarked."
+    },
+    {
+      "start": 185.024,
+      "end": 185.84,
+      "text": "Right as usual,",
+      "para_break": true
+    },
+    {
+      "start": 186.04,
+      "end": 186.82,
+      "text": "said the Duchess."
+    },
+    {
+      "start": 186.98,
+      "end": 189.39,
+      "text": "\"'What a clever way you have of putting things!'"
+    },
+    {
+      "start": 190.72,
+      "end": 191.28,
+      "text": "\"'It's a mineral,",
+      "para_break": true
+    },
+    {
+      "start": 191.38,
+      "end": 192.52,
+      "text": "I think,' said Alice."
+    },
+    {
+      "start": 193.24,
+      "end": 195.04,
+      "text": "\"'Of course it is,' said the Duchess,"
+    },
+    {
+      "start": 195.12,
+      "end": 197.68,
+      "text": "\"'who seemed ready to agree to everything that Alice said."
+    },
+    {
+      "start": 198.432,
+      "end": 200.2,
+      "text": "\"'There's a large mustard mine near here,"
+    },
+    {
+      "start": 200.72,
+      "end": 202.1,
+      "text": "\"'and the moral of that is,"
+    },
+    {
+      "start": 202.38,
+      "end": 203.6,
+      "text": "\"'the more there is of mine,"
+    },
+    {
+      "start": 203.82,
+      "end": 205.35,
+      "text": "the less there is of yours.'"
+    },
+    {
+      "start": 205.64,
+      "end": 206.52,
+      "text": "\"'Oh,"
+    },
+    {
+      "start": 206.52,
+      "end": 207.8,
+      "text": "I know!' exclaimed Alice,"
+    },
+    {
+      "start": 208.0,
+      "end": 209.74,
+      "text": "\"'who had not attended to this last remark."
+    },
+    {
+      "start": 210.496,
+      "end": 211.01,
+      "text": "\"'It's a vegetable."
+    },
+    {
+      "start": 211.42,
+      "end": 212.64,
+      "text": "It doesn't look like one,"
+    },
+    {
+      "start": 212.7,
+      "end": 213.39,
+      "text": "but it is.'"
+    },
+    {
+      "start": 214.42,
+      "end": 216.52,
+      "text": "\"'I quite agree with you,' said the Duchess.",
+      "para_break": true
+    },
+    {
+      "start": 216.96,
+      "end": 218.5,
+      "text": "And the moral of that is,"
+    },
+    {
+      "start": 219.42,
+      "end": 220.82,
+      "text": "be what you would seem to be,",
+      "para_break": true
+    },
+    {
+      "start": 221.3,
+      "end": 222.78,
+      "text": "or if you'd like it put more simply,"
+    },
+    {
+      "start": 223.5,
+      "end": 226.22,
+      "text": "never imagine yourself not to be otherwise than"
+    },
+    {
+      "start": 226.22,
+      "end": 228.78,
+      "text": "what it might appear to others that what you were"
+    },
+    {
+      "start": 228.98,
+      "end": 231.38,
+      "text": "or might have been was not otherwise than what"
+    },
+    {
+      "start": 231.38,
+      "end": 233.66,
+      "text": "you had been would have appeared to them to be"
+    },
+    {
+      "start": 233.8,
+      "end": 234.14,
+      "text": "otherwise."
+    },
+    {
+      "start": 235.01,
+      "end": 237.26,
+      "text": "I think I should understand that better,",
+      "para_break": true
+    },
+    {
+      "start": 237.52,
+      "end": 238.84,
+      "text": "Alice said very politely,"
+    },
+    {
+      "start": 239.36,
+      "end": 240.48,
+      "text": "if I had it written down,"
+    },
+    {
+      "start": 240.94,
+      "end": 242.74,
+      "text": "but I can't quite follow it as you say it."
+    },
+    {
+      "start": 243.776,
+      "end": 245.62,
+      "text": "\"'That's nothing to what I could say if I",
+      "para_break": true
+    },
+    {
+      "start": 245.62,
+      "end": 248.16,
+      "text": "chose,' the Duchess replied in a pleased tone."
+    },
+    {
+      "start": 249.024,
+      "end": 250.42,
+      "text": "\"'Pray don't trouble yourself to say",
+      "para_break": true
+    },
+    {
+      "start": 250.42,
+      "end": 252.06,
+      "text": "it any longer than that,' said Alice."
+    },
+    {
+      "start": 252.68,
+      "end": 253.02,
+      "text": "\"'Oh,"
+    },
+    {
+      "start": 253.02,
+      "end": 255.2,
+      "text": "don't talk about trouble,' said the Duchess."
+    }
+  ]
+}

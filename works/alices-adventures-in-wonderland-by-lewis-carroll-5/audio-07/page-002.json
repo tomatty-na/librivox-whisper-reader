@@ -1,0 +1,638 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-07",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_07_carroll.mp3",
+  "chapter_title": "07 - A Mad Tea-party",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.757,
+  "page_num": 2,
+  "page_total": 4,
+  "page_start_sec": 242.56,
+  "page_end_sec": 485.06,
+  "segments": [
+    {
+      "start": 242.56,
+      "end": 243.08,
+      "text": "Of course not,",
+      "para_break": true
+    },
+    {
+      "start": 243.24,
+      "end": 244.46,
+      "text": "Alice replied very readily."
+    },
+    {
+      "start": 245.32,
+      "end": 246.9,
+      "text": "But that's because it stays the same",
+      "para_break": true
+    },
+    {
+      "start": 246.9,
+      "end": 248.42,
+      "text": "year for such a long time together."
+    },
+    {
+      "start": 250.08,
+      "end": 251.52,
+      "text": "Which is just the case with mine,",
+      "para_break": true
+    },
+    {
+      "start": 251.84,
+      "end": 252.52,
+      "text": "said the Hatter."
+    },
+    {
+      "start": 253.76,
+      "end": 255.3,
+      "text": "Alice felt dreadfully puzzled.",
+      "para_break": true
+    },
+    {
+      "start": 255.66,
+      "end": 258.4,
+      "text": "The Hatter's remark seemed to have no meaning in it,"
+    },
+    {
+      "start": 258.44,
+      "end": 259.74,
+      "text": "and yet it was certainly English."
+    },
+    {
+      "start": 261.21,
+      "end": 262.66,
+      "text": "I don't quite understand,",
+      "para_break": true
+    },
+    {
+      "start": 263.02,
+      "end": 264.66,
+      "text": "she said as politely as she could."
+    },
+    {
+      "start": 266.24,
+      "end": 267.66,
+      "text": "The Dormouse is asleep again,",
+      "para_break": true
+    },
+    {
+      "start": 267.86,
+      "end": 268.54,
+      "text": "said the Hatter,"
+    },
+    {
+      "start": 268.64,
+      "end": 270.88,
+      "text": "and he poured a little hot tea upon its nose."
+    },
+    {
+      "start": 271.86,
+      "end": 274.18,
+      "text": "The Dormouse shook its head impatiently,",
+      "para_break": true
+    },
+    {
+      "start": 274.2,
+      "end": 276.12,
+      "text": "and said without opening its eyes,"
+    },
+    {
+      "start": 276.52,
+      "end": 276.92,
+      "text": "Of course,"
+    },
+    {
+      "start": 277.1,
+      "end": 277.7,
+      "text": "of course,"
+    },
+    {
+      "start": 277.84,
+      "end": 280.26,
+      "text": "just what I was going to remark myself."
+    },
+    {
+      "start": 281.76,
+      "end": 282.9,
+      "text": "Have you guessed the riddle yet?",
+      "para_break": true
+    },
+    {
+      "start": 283.02,
+      "end": 283.74,
+      "text": "the Hatter said,"
+    },
+    {
+      "start": 283.8,
+      "end": 284.82,
+      "text": "turning to Alice again."
+    },
+    {
+      "start": 285.38,
+      "end": 285.48,
+      "text": "No,"
+    },
+    {
+      "start": 285.82,
+      "end": 286.5,
+      "text": "I give it up,"
+    },
+    {
+      "start": 286.5,
+      "end": 287.06,
+      "text": "Alice replied."
+    },
+    {
+      "start": 287.3,
+      "end": 287.94,
+      "text": "What's the answer?"
+    },
+    {
+      "start": 288.74,
+      "end": 290.4,
+      "text": "I haven't the slightest idea,",
+      "para_break": true
+    },
+    {
+      "start": 290.62,
+      "end": 291.22,
+      "text": "said the Hatter."
+    },
+    {
+      "start": 292.34,
+      "end": 292.7,
+      "text": "Nor I,",
+      "para_break": true
+    },
+    {
+      "start": 292.98,
+      "end": 293.78,
+      "text": "said the March Hare."
+    },
+    {
+      "start": 296.0,
+      "end": 297.0,
+      "text": "Alice sighed wearily.",
+      "para_break": true
+    },
+    {
+      "start": 297.66,
+      "end": 300.32,
+      "text": "I think you might do something better with the time,"
+    },
+    {
+      "start": 300.54,
+      "end": 300.94,
+      "text": "she said,"
+    },
+    {
+      "start": 301.06,
+      "end": 303.24,
+      "text": "than wasting it asking riddles with no answers."
+    },
+    {
+      "start": 305.02,
+      "end": 306.96,
+      "text": "If you knew time as well as I do,",
+      "para_break": true
+    },
+    {
+      "start": 307.12,
+      "end": 307.72,
+      "text": "said the Hatter,"
+    },
+    {
+      "start": 308.22,
+      "end": 310.22,
+      "text": "you wouldn't talk about wasting it."
+    },
+    {
+      "start": 310.34,
+      "end": 311.24,
+      "text": "It's him."
+    },
+    {
+      "start": 313.06,
+      "end": 314.08,
+      "text": "I don't know what you mean,",
+      "para_break": true
+    },
+    {
+      "start": 314.26,
+      "end": 314.68,
+      "text": "said Alice."
+    },
+    {
+      "start": 316.14,
+      "end": 317.8,
+      "text": "\"'Of course you don't,' the Hatter said,",
+      "para_break": true
+    },
+    {
+      "start": 317.9,
+      "end": 319.18,
+      "text": "tossing his head contemptuously."
+    },
+    {
+      "start": 319.98,
+      "end": 322.1,
+      "text": "\"'I dare say you never spoke to time.'",
+      "para_break": true
+    },
+    {
+      "start": 323.296,
+      "end": 325.28,
+      "text": "\"'Perhaps not,' Alice cautiously replied.",
+      "para_break": true
+    },
+    {
+      "start": 326.04,
+      "end": 328.52,
+      "text": "\"'But I know I have to beat time when I learn music.'",
+      "para_break": true
+    },
+    {
+      "start": 328.96,
+      "end": 329.74,
+      "text": "\"'Ah,"
+    },
+    {
+      "start": 329.96,
+      "end": 331.88,
+      "text": "that accounts for it,' said the Hatter."
+    },
+    {
+      "start": 332.24,
+      "end": 333.6,
+      "text": "\"'He won't stand beating."
+    },
+    {
+      "start": 334.04,
+      "end": 334.14,
+      "text": "Now,"
+    },
+    {
+      "start": 334.42,
+      "end": 336.74,
+      "text": "if you only kept on good terms with him,"
+    },
+    {
+      "start": 336.8,
+      "end": 339.2,
+      "text": "he'd do almost anything you liked with the clock."
+    },
+    {
+      "start": 339.96,
+      "end": 340.38,
+      "text": "For instance,",
+      "para_break": true
+    },
+    {
+      "start": 340.62,
+      "end": 342.6,
+      "text": "suppose it were nine o'clock in the morning,"
+    },
+    {
+      "start": 342.8,
+      "end": 344.12,
+      "text": "just time to begin lessons,"
+    },
+    {
+      "start": 344.48,
+      "end": 346.84,
+      "text": "you'd only have to whisper a hint to time,"
+    },
+    {
+      "start": 347.12,
+      "end": 348.72,
+      "text": "and round goes the clock in a twinkling."
+    },
+    {
+      "start": 349.4,
+      "end": 350.0,
+      "text": "Half-past one,"
+    },
+    {
+      "start": 350.16,
+      "end": 351.04,
+      "text": "time for dinner!"
+    },
+    {
+      "start": 352.85,
+      "end": 354.46,
+      "text": "I only wish it was,",
+      "para_break": true
+    },
+    {
+      "start": 354.92,
+      "end": 357.06,
+      "text": "the March Hare said to itself in a whisper."
+    },
+    {
+      "start": 358.22,
+      "end": 359.24,
+      "text": "That would be grand certainly,",
+      "para_break": true
+    },
+    {
+      "start": 359.54,
+      "end": 360.64,
+      "text": "said Alice thoughtfully."
+    },
+    {
+      "start": 361.42,
+      "end": 363.26,
+      "text": "But then I shouldn't be hungry for it,",
+      "para_break": true
+    },
+    {
+      "start": 363.32,
+      "end": 363.58,
+      "text": "you know."
+    },
+    {
+      "start": 365.216,
+      "end": 365.94,
+      "text": "Not at first,",
+      "para_break": true
+    },
+    {
+      "start": 365.96,
+      "end": 366.22,
+      "text": "perhaps,"
+    },
+    {
+      "start": 366.54,
+      "end": 367.24,
+      "text": "said the Hatter,"
+    },
+    {
+      "start": 367.62,
+      "end": 370.62,
+      "text": "but you could keep it to half-past one as long as you liked."
+    },
+    {
+      "start": 371.96,
+      "end": 373.22,
+      "text": "Is that the way you manage?",
+      "para_break": true
+    },
+    {
+      "start": 373.48,
+      "end": 374.2,
+      "text": "Alice asked."
+    },
+    {
+      "start": 374.65,
+      "end": 376.8,
+      "text": "the hatter shook his head mournfully"
+    },
+    {
+      "start": 377.92,
+      "end": 382.34,
+      "text": "not i he replied we quarreled last month just before he went",
+      "para_break": true
+    },
+    {
+      "start": 382.34,
+      "end": 385.3,
+      "text": "mad you know pointing with his teaspoon to the march hare"
+    },
+    {
+      "start": 386.14,
+      "end": 388.04,
+      "text": "it was at the great concert given by",
+      "para_break": true
+    },
+    {
+      "start": 388.04,
+      "end": 390.3,
+      "text": "the queen of hearts and i had to sing"
+    },
+    {
+      "start": 391.424,
+      "end": 392.96,
+      "text": "twinkle twinkle little bat",
+      "para_break": true
+    },
+    {
+      "start": 393.7,
+      "end": 397.26,
+      "text": "how i wonder what you're at you know that song perhaps"
+    },
+    {
+      "start": 398.68,
+      "end": 400.26,
+      "text": "i've heard something like it said alice",
+      "para_break": true
+    },
+    {
+      "start": 401.56,
+      "end": 404.56,
+      "text": "it goes on you know the hatter continued in this way",
+      "para_break": true
+    },
+    {
+      "start": 405.52,
+      "end": 410.76,
+      "text": "up above the world you fly like a tea-tray in the sky twinkle twinkle",
+      "para_break": true
+    },
+    {
+      "start": 413.08,
+      "end": 415.78,
+      "text": "here the dormouse shook itself and began singing",
+      "para_break": true
+    },
+    {
+      "start": 415.78,
+      "end": 419.54,
+      "text": "in its sleep twinkle twinkle twinkle twinkle"
+    },
+    {
+      "start": 420.74,
+      "end": 423.54,
+      "text": "and went on so long that they had to pinch it to make it stop.",
+      "para_break": true
+    },
+    {
+      "start": 424.4,
+      "end": 425.2,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 425.34,
+      "end": 427.24,
+      "text": "I'd hardly finished the first verse,"
+    },
+    {
+      "start": 427.44,
+      "end": 428.08,
+      "text": "said the Hatter,"
+    },
+    {
+      "start": 428.18,
+      "end": 430.58,
+      "text": "when the Queen jumped up and bawled out,"
+    },
+    {
+      "start": 430.8,
+      "end": 432.02,
+      "text": "He's murdering the time!"
+    },
+    {
+      "start": 432.32,
+      "end": 433.36,
+      "text": "Off with his head!"
+    },
+    {
+      "start": 435.32,
+      "end": 436.34,
+      "text": "How dreadfully savage!",
+      "para_break": true
+    },
+    {
+      "start": 436.52,
+      "end": 437.3,
+      "text": "exclaimed Alice."
+    },
+    {
+      "start": 438.72,
+      "end": 439.56,
+      "text": "And ever since that,",
+      "para_break": true
+    },
+    {
+      "start": 439.74,
+      "end": 441.52,
+      "text": "the Hatter went on in a mournful tone,"
+    },
+    {
+      "start": 441.96,
+      "end": 443.82,
+      "text": "he won't do a thing I ask."
+    },
+    {
+      "start": 444.02,
+      "end": 445.96,
+      "text": "It's always six o'clock now."
+    },
+    {
+      "start": 447.0,
+      "end": 449.52,
+      "text": "A bright idea came into Alice's head.",
+      "para_break": true
+    },
+    {
+      "start": 450.6,
+      "end": 453.4,
+      "text": "Is that the reason so many tea things are put out here?",
+      "para_break": true
+    },
+    {
+      "start": 453.54,
+      "end": 454.06,
+      "text": "she asked."
+    },
+    {
+      "start": 455.09,
+      "end": 455.64,
+      "text": "Yes,",
+      "para_break": true
+    },
+    {
+      "start": 455.76,
+      "end": 456.36,
+      "text": "that's it,"
+    },
+    {
+      "start": 456.42,
+      "end": 457.8,
+      "text": "said the Hatter with a sigh."
+    },
+    {
+      "start": 458.496,
+      "end": 459.92,
+      "text": "It's always tea time,"
+    },
+    {
+      "start": 460.02,
+      "end": 462.58,
+      "text": "and we've no time to wash the things between wiles."
+    },
+    {
+      "start": 463.44,
+      "end": 464.44,
+      "text": "Then you keep moving round,",
+      "para_break": true
+    },
+    {
+      "start": 464.64,
+      "end": 465.04,
+      "text": "I suppose,"
+    },
+    {
+      "start": 465.36,
+      "end": 465.9,
+      "text": "said Alice."
+    },
+    {
+      "start": 466.688,
+      "end": 467.52,
+      "text": "Exactly so,",
+      "para_break": true
+    },
+    {
+      "start": 467.72,
+      "end": 468.46,
+      "text": "said the Hatter,"
+    },
+    {
+      "start": 468.54,
+      "end": 470.02,
+      "text": "as the things get used up."
+    },
+    {
+      "start": 471.34,
+      "end": 473.22,
+      "text": "But what happens when you come to the beginning again?",
+      "para_break": true
+    },
+    {
+      "start": 473.42,
+      "end": 474.52,
+      "text": "Alice ventured to ask."
+    },
+    {
+      "start": 475.456,
+      "end": 477.78,
+      "text": "Suppose we change the subject,",
+      "para_break": true
+    },
+    {
+      "start": 478.22,
+      "end": 479.34,
+      "text": "the March Hare interrupted,"
+    },
+    {
+      "start": 479.54,
+      "end": 479.9,
+      "text": "yawning."
+    },
+    {
+      "start": 480.94,
+      "end": 482.32,
+      "text": "\"'I'm getting tired of this.",
+      "para_break": true
+    },
+    {
+      "start": 482.46,
+      "end": 485.06,
+      "text": "I vote the young lady tells us a story.'"
+    }
+  ]
+}

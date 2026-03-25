@@ -1,0 +1,702 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-03",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_03_carroll.mp3",
+  "chapter_title": "03 - A Caucus-race and a Long Tale",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 1.54,
+  "page_num": 1,
+  "page_total": 3,
+  "page_start_sec": 8.27,
+  "page_end_sec": 254.28,
+  "segments": [
+    {
+      "start": 8.27,
+      "end": 9.12,
+      "text": "CHAPTER III."
+    },
+    {
+      "start": 9.12,
+      "end": 11.18,
+      "text": "A CAUCUS RACE AND A LONG TALE."
+    },
+    {
+      "start": 30.0,
+      "end": 32.3,
+      "text": "after a few minutes it seemed quite natural to",
+      "para_break": true
+    },
+    {
+      "start": 32.3,
+      "end": 34.7,
+      "text": "Alice to find herself talking familiarly with"
+    },
+    {
+      "start": 34.7,
+      "end": 34.92,
+      "text": "them,"
+    },
+    {
+      "start": 35.02,
+      "end": 36.88,
+      "text": "as if she had known them all her life."
+    },
+    {
+      "start": 37.12,
+      "end": 37.22,
+      "text": "Indeed,"
+    },
+    {
+      "start": 37.9,
+      "end": 39.74,
+      "text": "she had quite a long argument with the"
+    },
+    {
+      "start": 39.84,
+      "end": 40.0,
+      "text": "lorry,"
+    },
+    {
+      "start": 40.18,
+      "end": 42.28,
+      "text": "who at last turned sulky and would only say,"
+    },
+    {
+      "start": 42.42,
+      "end": 43.8,
+      "text": "I'm older than you,"
+    },
+    {
+      "start": 43.96,
+      "end": 44.8,
+      "text": "and must know better."
+    },
+    {
+      "start": 45.9,
+      "end": 48.88,
+      "text": "And this Alice would not allow without knowing how old it was,"
+    },
+    {
+      "start": 49.1,
+      "end": 50.48,
+      "text": "and as the lorry positively"
+    },
+    {
+      "start": 50.84,
+      "end": 52.02,
+      "text": "refused to tell its age,"
+    },
+    {
+      "start": 52.22,
+      "end": 53.4,
+      "text": "there was no more to be said."
+    },
+    {
+      "start": 54.72,
+      "end": 55.66,
+      "text": "At last the mouse,"
+    },
+    {
+      "start": 55.76,
+      "end": 56.5,
+      "text": "who seemed to be a"
+    },
+    {
+      "start": 56.62,
+      "end": 58.06,
+      "text": "person of authority among them,"
+    },
+    {
+      "start": 58.16,
+      "end": 58.76,
+      "text": "called out,"
+    },
+    {
+      "start": 58.86,
+      "end": 59.44,
+      "text": "Sit down,"
+    },
+    {
+      "start": 59.58,
+      "end": 60.06,
+      "text": "all of you,"
+    },
+    {
+      "start": 60.1,
+      "end": 60.76,
+      "text": "and listen to me."
+    },
+    {
+      "start": 60.94,
+      "end": 61.7,
+      "text": "I'll soon"
+    },
+    {
+      "start": 61.76,
+      "end": 62.74,
+      "text": "make you dry enough."
+    },
+    {
+      "start": 63.31,
+      "end": 65.06,
+      "text": "They all sat down at once,"
+    },
+    {
+      "start": 65.14,
+      "end": 65.86,
+      "text": "in a large ring,"
+    },
+    {
+      "start": 66.02,
+      "end": 67.08,
+      "text": "with the mouse in the middle."
+    },
+    {
+      "start": 67.872,
+      "end": 69.9,
+      "text": "Alice kept her eyes anxiously fixed on it,"
+    },
+    {
+      "start": 69.94,
+      "end": 72.26,
+      "text": "for she felt sure she would catch a bad cold if she"
+    },
+    {
+      "start": 72.26,
+      "end": 73.58,
+      "text": "did not get dry very soon."
+    },
+    {
+      "start": 74.48,
+      "end": 74.9,
+      "text": "Ahem,"
+    },
+    {
+      "start": 75.1,
+      "end": 76.92,
+      "text": "said the mouse with an important air."
+    },
+    {
+      "start": 77.96,
+      "end": 78.56,
+      "text": "Are you all ready?"
+    },
+    {
+      "start": 78.74,
+      "end": 78.848,
+      "text": "This"
+    },
+    {
+      "start": 79.5,
+      "end": 81.04,
+      "text": "is the driest thing I know."
+    },
+    {
+      "start": 81.3,
+      "end": 82.48,
+      "text": "Silence all round,"
+    },
+    {
+      "start": 82.52,
+      "end": 83.04,
+      "text": "if you please."
+    },
+    {
+      "start": 85.024,
+      "end": 86.24,
+      "text": "William the Conqueror,",
+      "para_break": true
+    },
+    {
+      "start": 86.26,
+      "end": 86.88,
+      "text": "whose cause"
+    },
+    {
+      "start": 86.88,
+      "end": 88.28,
+      "text": "was favoured by the Pope,"
+    },
+    {
+      "start": 88.48,
+      "end": 90.88,
+      "text": "was soon submitted to by the English,"
+    },
+    {
+      "start": 91.26,
+      "end": 92.04,
+      "text": "who wanted leaders,"
+    },
+    {
+      "start": 92.34,
+      "end": 93.0,
+      "text": "and had been"
+    },
+    {
+      "start": 93.0,
+      "end": 95.7,
+      "text": "of late much accustomed to usurpation and conquest."
+    },
+    {
+      "start": 96.768,
+      "end": 97.58,
+      "text": "Edwin and Morcor,"
+    },
+    {
+      "start": 97.8,
+      "end": 99.78,
+      "text": "the earls of Mercia and Northumbria"
+    },
+    {
+      "start": 100.3,
+      "end": 100.54,
+      "text": "—"
+    },
+    {
+      "start": 100.54,
+      "end": 100.86,
+      "text": "ah!"
+    },
+    {
+      "start": 101.02,
+      "end": 102.6,
+      "text": "said the lorry with a shiver."
+    },
+    {
+      "start": 103.5,
+      "end": 104.98,
+      "text": "I beg your pardon,"
+    },
+    {
+      "start": 105.16,
+      "end": 105.8,
+      "text": "said the mouse,"
+    },
+    {
+      "start": 105.92,
+      "end": 107.26,
+      "text": "frowning but very politely,"
+    },
+    {
+      "start": 107.34,
+      "end": 108.16,
+      "text": "Did you speak?"
+    },
+    {
+      "start": 109.152,
+      "end": 109.48,
+      "text": "Not I,"
+    },
+    {
+      "start": 109.84,
+      "end": 111.02,
+      "text": "said the lorry hastily."
+    },
+    {
+      "start": 111.78,
+      "end": 112.92,
+      "text": "I thought you did,"
+    },
+    {
+      "start": 113.14,
+      "end": 113.66,
+      "text": "said the mouse."
+    },
+    {
+      "start": 114.38,
+      "end": 114.76,
+      "text": "I proceed."
+    },
+    {
+      "start": 116.096,
+      "end": 117.1,
+      "text": "Edwin and Morker,"
+    },
+    {
+      "start": 117.22,
+      "end": 119.32,
+      "text": "the earls of Mercia and Northumbria,"
+    },
+    {
+      "start": 119.46,
+      "end": 120.3,
+      "text": "declared for him,"
+    },
+    {
+      "start": 120.7,
+      "end": 121.78,
+      "text": "and even Stagand,"
+    },
+    {
+      "start": 121.8,
+      "end": 124.0,
+      "text": "the patriotic archbishop of Canterbury,"
+    },
+    {
+      "start": 124.18,
+      "end": 125.06,
+      "text": "found it advisable."
+    },
+    {
+      "start": 125.92,
+      "end": 126.32,
+      "text": "Found what?"
+    },
+    {
+      "start": 126.56,
+      "end": 127.2,
+      "text": "said the duck."
+    },
+    {
+      "start": 128.0,
+      "end": 128.34,
+      "text": "Found it,"
+    },
+    {
+      "start": 128.56,
+      "end": 130.12,
+      "text": "the mouse replied rather crossly."
+    },
+    {
+      "start": 130.2,
+      "end": 131.0,
+      "text": "Of course you know what"
+    },
+    {
+      "start": 131.16,
+      "end": 131.56,
+      "text": "it means."
+    },
+    {
+      "start": 132.58,
+      "end": 135.68,
+      "text": "I know what it means well enough when I find a thing,"
+    },
+    {
+      "start": 135.9,
+      "end": 136.48,
+      "text": "said the duck."
+    },
+    {
+      "start": 136.62,
+      "end": 138.3,
+      "text": "It's generally a frog"
+    },
+    {
+      "start": 138.54,
+      "end": 139.16,
+      "text": "or a worm."
+    },
+    {
+      "start": 139.38,
+      "end": 140.34,
+      "text": "The question is,"
+    },
+    {
+      "start": 140.44,
+      "end": 141.98,
+      "text": "what did the archbishop find?"
+    },
+    {
+      "start": 143.14,
+      "end": 144.72,
+      "text": "The mouse did not notice this question,"
+    },
+    {
+      "start": 144.94,
+      "end": 146.02,
+      "text": "but hurriedly went on."
+    },
+    {
+      "start": 146.848,
+      "end": 148.96,
+      "text": "Found it advisable to go with Edgar"
+    },
+    {
+      "start": 148.96,
+      "end": 151.06,
+      "text": "Atheling to meet William and offer him"
+    },
+    {
+      "start": 151.06,
+      "end": 151.48,
+      "text": "the crown."
+    },
+    {
+      "start": 151.82,
+      "end": 154.34,
+      "text": "William's conduct at first was moderate,"
+    },
+    {
+      "start": 155.08,
+      "end": 156.75,
+      "text": "but the insolence of his Normans..."
+    },
+    {
+      "start": 157.22,
+      "end": 158.24,
+      "text": "How are you getting on now,"
+    },
+    {
+      "start": 158.34,
+      "end": 158.72,
+      "text": "my dear?"
+    },
+    {
+      "start": 159.3,
+      "end": 161.32,
+      "text": "It continued turning to Alice as it spoke."
+    },
+    {
+      "start": 162.5,
+      "end": 163.3,
+      "text": "As wet as ever,"
+    },
+    {
+      "start": 163.44,
+      "end": 165.1,
+      "text": "said Alice in a melancholy tone,"
+    },
+    {
+      "start": 165.39,
+      "end": 167.24,
+      "text": "doesn't seem to dry me at all."
+    },
+    {
+      "start": 168.82,
+      "end": 169.55,
+      "text": "In that case,",
+      "para_break": true
+    },
+    {
+      "start": 169.78,
+      "end": 171.3,
+      "text": "said the dodo solemnly,"
+    },
+    {
+      "start": 171.3,
+      "end": 172.2,
+      "text": "rising to its feet,"
+    },
+    {
+      "start": 172.64,
+      "end": 175.08,
+      "text": "I move that the meeting adjourn for the"
+    },
+    {
+      "start": 175.08,
+      "end": 177.84,
+      "text": "immediate adoption of more energetic remedies."
+    },
+    {
+      "start": 179.872,
+      "end": 180.68,
+      "text": "Speak English,",
+      "para_break": true
+    },
+    {
+      "start": 180.92,
+      "end": 181.72,
+      "text": "said the eaglet."
+    },
+    {
+      "start": 182.3,
+      "end": 185.16,
+      "text": "I don't know the meaning of half those long words,"
+    },
+    {
+      "start": 185.22,
+      "end": 185.74,
+      "text": "and what's more,"
+    },
+    {
+      "start": 185.82,
+      "end": 187.46,
+      "text": "I don't believe you do either."
+    },
+    {
+      "start": 188.58,
+      "end": 191.08,
+      "text": "And the eaglet bent down its head to hide a smile."
+    },
+    {
+      "start": 191.28,
+      "end": 193.14,
+      "text": "Some of the other birds tittered audibly."
+    },
+    {
+      "start": 194.96,
+      "end": 196.24,
+      "text": "What I was going to say,",
+      "para_break": true
+    },
+    {
+      "start": 196.46,
+      "end": 198.34,
+      "text": "said the dodo in an offended tone,"
+    },
+    {
+      "start": 199.36,
+      "end": 202.92,
+      "text": "was that the best thing to get us dry would be a caucus race."
+    },
+    {
+      "start": 204.96,
+      "end": 205.98,
+      "text": "What is a caucus race,",
+      "para_break": true
+    },
+    {
+      "start": 206.2,
+      "end": 206.76,
+      "text": "said Alice,"
+    },
+    {
+      "start": 206.94,
+      "end": 208.46,
+      "text": "not that she much wanted to know,"
+    },
+    {
+      "start": 208.64,
+      "end": 210.52,
+      "text": "but the dodo had paused as if it"
+    },
+    {
+      "start": 210.52,
+      "end": 212.1,
+      "text": "thought that somebody ought to speak,"
+    },
+    {
+      "start": 212.24,
+      "end": 213.46,
+      "text": "and no one else seemed"
+    },
+    {
+      "start": 213.6,
+      "end": 214.6,
+      "text": "inclined to say anything."
+    },
+    {
+      "start": 215.34,
+      "end": 216.08,
+      "text": "Why,"
+    },
+    {
+      "start": 216.32,
+      "end": 217.14,
+      "text": "said the dodo,"
+    },
+    {
+      "start": 217.26,
+      "end": 219.96,
+      "text": "the best way to explain it is to do it."
+    },
+    {
+      "start": 220.8,
+      "end": 221.26,
+      "text": "And as you"
+    },
+    {
+      "start": 221.26,
+      "end": 223.5,
+      "text": "might like to try the thing yourself some winter day,"
+    },
+    {
+      "start": 223.64,
+      "end": 225.64,
+      "text": "I will tell you how the dodo managed it."
+    },
+    {
+      "start": 226.32,
+      "end": 226.92,
+      "text": "First,"
+    },
+    {
+      "start": 227.06,
+      "end": 229.4,
+      "text": "it marked out a race course in a sort of circle."
+    },
+    {
+      "start": 230.08,
+      "end": 231.68,
+      "text": "The exact shape doesn't matter,"
+    },
+    {
+      "start": 231.88,
+      "end": 232.3,
+      "text": "it said."
+    },
+    {
+      "start": 232.8,
+      "end": 235.86,
+      "text": "And then all the party were placed along the course here and there."
+    },
+    {
+      "start": 236.54,
+      "end": 237.72,
+      "text": "There was no one,"
+    },
+    {
+      "start": 237.9,
+      "end": 238.1,
+      "text": "two,"
+    },
+    {
+      "start": 238.28,
+      "end": 238.42,
+      "text": "three,"
+    },
+    {
+      "start": 238.58,
+      "end": 239.04,
+      "text": "and away,"
+    },
+    {
+      "start": 239.26,
+      "end": 241.52,
+      "text": "but they began running when they liked,"
+    },
+    {
+      "start": 241.66,
+      "end": 243.1,
+      "text": "and left off when they liked,"
+    },
+    {
+      "start": 243.2,
+      "end": 245.84,
+      "text": "so that it was not easy to know when the race was over."
+    },
+    {
+      "start": 246.08,
+      "end": 246.18,
+      "text": "However,"
+    },
+    {
+      "start": 247.22,
+      "end": 248.5,
+      "text": "when they had been running"
+    },
+    {
+      "start": 248.58,
+      "end": 249.68,
+      "text": "half an hour or so,"
+    },
+    {
+      "start": 249.82,
+      "end": 251.1,
+      "text": "and were quite dry again,"
+    },
+    {
+      "start": 251.52,
+      "end": 252.8,
+      "text": "the dodo suddenly called,"
+    },
+    {
+      "start": 253.34,
+      "end": 254.28,
+      "text": "The race is over!"
+    }
+  ]
+}

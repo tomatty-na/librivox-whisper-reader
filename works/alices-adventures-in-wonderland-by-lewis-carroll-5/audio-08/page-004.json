@@ -1,0 +1,233 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-08",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_08_carroll.mp3",
+  "chapter_title": "08 - The Queen's Croquet-ground",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.605,
+  "page_num": 4,
+  "page_total": 4,
+  "page_start_sec": 729.76,
+  "page_end_sec": 821.3,
+  "segments": [
+    {
+      "start": 729.76,
+      "end": 731.22,
+      "text": "When she got back to the Cheshire Cat,",
+      "para_break": true
+    },
+    {
+      "start": 731.42,
+      "end": 733.56,
+      "text": "she was surprised to find quite a large crowd"
+    },
+    {
+      "start": 733.74,
+      "end": 734.54,
+      "text": "collected round it."
+    },
+    {
+      "start": 735.06,
+      "end": 737.62,
+      "text": "There was a dispute going on between the executioner,"
+    },
+    {
+      "start": 737.74,
+      "end": 738.24,
+      "text": "the king,"
+    },
+    {
+      "start": 738.42,
+      "end": 739.04,
+      "text": "and the queen,"
+    },
+    {
+      "start": 739.42,
+      "end": 740.66,
+      "text": "who were all talking at once,"
+    },
+    {
+      "start": 740.76,
+      "end": 742.52,
+      "text": "while all the rest were quite silent,"
+    },
+    {
+      "start": 742.64,
+      "end": 743.72,
+      "text": "and looked very uncomfortable."
+    },
+    {
+      "start": 745.1,
+      "end": 746.16,
+      "text": "The moment Alice appeared,",
+      "para_break": true
+    },
+    {
+      "start": 746.42,
+      "end": 748.94,
+      "text": "she was appealed to by all three to settle the question,"
+    },
+    {
+      "start": 749.1,
+      "end": 751.02,
+      "text": "and they repeated their arguments to her,"
+    },
+    {
+      "start": 751.18,
+      "end": 753.28,
+      "text": "though as they all spoke at once,"
+    },
+    {
+      "start": 753.38,
+      "end": 756.58,
+      "text": "she found it very hard indeed to make out exactly what they said."
+    },
+    {
+      "start": 758.08,
+      "end": 760.8,
+      "text": "The executioner's argument was that you couldn't",
+      "para_break": true
+    },
+    {
+      "start": 760.8,
+      "end": 763.2,
+      "text": "cut off a head unless there was a body to cut it"
+    },
+    {
+      "start": 763.2,
+      "end": 763.62,
+      "text": "off from,"
+    },
+    {
+      "start": 763.8,
+      "end": 766.12,
+      "text": "that he had never had to do such a thing before,"
+    },
+    {
+      "start": 766.34,
+      "end": 768.0,
+      "text": "and he wasn't going to begin at"
+    },
+    {
+      "start": 768.14,
+      "end": 769.02,
+      "text": "his time of life."
+    },
+    {
+      "start": 769.86,
+      "end": 771.72,
+      "text": "The king's argument was that anything",
+      "para_break": true
+    },
+    {
+      "start": 771.72,
+      "end": 773.66,
+      "text": "that had a head could be beheaded,"
+    },
+    {
+      "start": 774.02,
+      "end": 775.66,
+      "text": "and that you weren't to talk nonsense."
+    },
+    {
+      "start": 776.68,
+      "end": 779.58,
+      "text": "The queen's argument was that if something wasn't done about",
+      "para_break": true
+    },
+    {
+      "start": 779.58,
+      "end": 781.06,
+      "text": "it in less than no time,"
+    },
+    {
+      "start": 781.16,
+      "end": 783.36,
+      "text": "she'd have everybody executed all round."
+    },
+    {
+      "start": 784.08,
+      "end": 785.52,
+      "text": "It was this last remark that",
+      "para_break": true
+    },
+    {
+      "start": 785.52,
+      "end": 787.76,
+      "text": "had made the whole party look so grave and anxious."
+    },
+    {
+      "start": 788.768,
+      "end": 790.44,
+      "text": "Alice could think of nothing else to say,",
+      "para_break": true
+    },
+    {
+      "start": 790.76,
+      "end": 792.5,
+      "text": "but it belongs to the duchess."
+    },
+    {
+      "start": 792.54,
+      "end": 793.94,
+      "text": "You'd better ask her about it."
+    },
+    {
+      "start": 795.712,
+      "end": 798.2,
+      "text": "\"'She's in prison,' the queen said to the executioner.",
+      "para_break": true
+    },
+    {
+      "start": 798.688,
+      "end": 799.22,
+      "text": "\"'Fetch her here!'"
+    },
+    {
+      "start": 800.08,
+      "end": 802.26,
+      "text": "And the executioner went off like an arrow.",
+      "para_break": true
+    },
+    {
+      "start": 802.88,
+      "end": 805.9,
+      "text": "The cat's head began fading away the moment he was gone,",
+      "para_break": true
+    },
+    {
+      "start": 806.24,
+      "end": 808.68,
+      "text": "and by the time he had come back with the duchess,"
+    },
+    {
+      "start": 808.72,
+      "end": 810.22,
+      "text": "it had entirely disappeared."
+    },
+    {
+      "start": 810.84,
+      "end": 812.62,
+      "text": "So the king and the executioner ran",
+      "para_break": true
+    },
+    {
+      "start": 812.62,
+      "end": 814.48,
+      "text": "wildly up and down looking for it,"
+    },
+    {
+      "start": 814.86,
+      "end": 816.88,
+      "text": "while the rest of the party went back to the game."
+    },
+    {
+      "start": 820.38,
+      "end": 821.3,
+      "text": "End of chapter 8",
+      "para_break": true
+    }
+  ]
+}

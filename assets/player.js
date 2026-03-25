@@ -1,0 +1,498 @@
+/* ==========================================================
+   LibriVox Reader — player.js
+   ========================================================== */
+
+(function () {
+  'use strict';
+
+  // ── State ──
+  let pageData       = null;
+  let currentSegIdx  = -1;
+  let seekDragging   = false;
+  let lastBmSave     = 0;
+
+  // ── DOM refs ──
+  let audio, playBtn, seekBar, seekTime;
+
+  // ── Constants ──
+  const SETTINGS_KEY = 'lvr-settings';
+  const SPEED_KEY    = 'lvr-speed';
+  const SKIP_KEY     = 'lvr-skip';
+
+  const COLOR_DEFAULTS = {
+    light: { bg: '#f7f3eb', text: '#231f1a' },
+    dark:  { bg: '#0e0d18', text: '#e6e1d3' },
+  };
+
+  const SETTING_DEFAULTS = { lineHeight: 2, paraSpacing: 1.5 };
+
+  // ── Slug / bookmark key ──
+  function getSlug() {
+    const parts = window.location.pathname.split('/');
+    const wi = parts.indexOf('works');
+    return wi >= 0 ? parts[wi + 1] : null;
+  }
+  function bmKey() {
+    const slug = getSlug();
+    return slug ? 'lvr-bm-' + slug : null;
+  }
+
+  // ── Init ──
+  function init(data) {
+    pageData = data;
+    audio    = document.getElementById('audio');
+    playBtn  = document.getElementById('play-btn');
+    seekBar  = document.getElementById('seek-bar');
+    seekTime = document.getElementById('seek-time');
+
+    renderTranscript();
+    setupAudio();
+    setupKeyboard();
+    initSettings();
+  }
+
+  // ── Transcript (paragraph breaks by para_break flag) ──
+  function renderTranscript() {
+    const container = document.getElementById('transcript');
+    if (!container || !pageData) return;
+    container.innerHTML = '';
+
+    let paraEl = null;
+
+    pageData.segments.forEach((seg, i) => {
+      if (!seg.text.trim()) return;
+
+      if (!paraEl || (i > 0 && seg.para_break)) {
+        paraEl = document.createElement('p');
+        paraEl.className = 'transcript-para';
+        container.appendChild(paraEl);
+      }
+
+      const span = document.createElement('span');
+      span.className = 'seg';
+      span.dataset.idx = i;
+      span.textContent = seg.text;
+      span.addEventListener('click', () => seekToSegment(i));
+      paraEl.appendChild(span);
+      paraEl.appendChild(document.createTextNode(' '));
+    });
+  }
+
+  // ── Audio setup ──
+  function setupAudio() {
+    if (!audio || !pageData) return;
+    audio.src = pageData.audio_url;
+
+    audio.addEventListener('loadedmetadata', () => {
+      audio.currentTime = pageData.page_start_sec;
+      loadBookmark();
+    }, { once: true });
+
+    audio.addEventListener('error', () => {
+      console.warn('[LVR] Audio error — check URL or CORS:', audio.src);
+    });
+
+    audio.addEventListener('timeupdate', onTimeUpdate);
+    audio.addEventListener('play',  () => { if (playBtn) playBtn.textContent = '⏸'; });
+    audio.addEventListener('pause', () => {
+      if (playBtn) playBtn.textContent = '▶';
+      saveBookmark(true);
+    });
+    audio.addEventListener('ended', () => { if (playBtn) playBtn.textContent = '▶'; });
+  }
+
+  // ── timeupdate ──
+  function onTimeUpdate() {
+    const t = audio.currentTime;
+
+    // Seek bar
+    if (!seekDragging && pageData && seekBar) {
+      const pct = Math.max(0, Math.min(1,
+        (t - pageData.page_start_sec) / (pageData.page_end_sec - pageData.page_start_sec)
+      ));
+      seekBar.value = Math.round(pct * 1000);
+    }
+
+    // Time display
+    if (pageData && seekTime) {
+      const elapsed = Math.max(0, t - pageData.page_start_sec);
+      const total   = pageData.page_end_sec - pageData.page_start_sec;
+      seekTime.textContent = fmtSec(elapsed) + ' / ' + fmtSec(total);
+    }
+
+    // Highlight active segment
+    if (!pageData) return;
+    let newIdx = -1;
+    for (let i = 0; i < pageData.segments.length; i++) {
+      const s = pageData.segments[i];
+      if (t >= s.start && t < s.end) { newIdx = i; break; }
+    }
+
+    if (newIdx !== currentSegIdx) {
+      if (currentSegIdx >= 0) {
+        const prev = document.querySelector('.seg[data-idx="' + currentSegIdx + '"]');
+        if (prev) prev.classList.remove('active');
+      }
+      if (newIdx >= 0) {
+        const curr = document.querySelector('.seg[data-idx="' + newIdx + '"]');
+        if (curr) {
+          curr.classList.add('active');
+          const autoScroll = document.getElementById('auto-scroll');
+          if (!autoScroll || autoScroll.checked) {
+            curr.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          }
+        }
+      }
+      currentSegIdx = newIdx;
+    }
+
+    // Page end
+    if (t >= pageData.page_end_sec) audio.pause();
+
+    // Auto-save bookmark (throttled to every 5s)
+    saveBookmark(false);
+  }
+
+  // ── Skip settings ──
+  function loadSkip() {
+    try {
+      const saved = JSON.parse(localStorage.getItem(SKIP_KEY));
+      return { back: saved?.back || 10, fwd: saved?.fwd || 10 };
+    } catch (e) { return { back: 10, fwd: 10 }; }
+  }
+
+  function applySkip(back, fwd) {
+    localStorage.setItem(SKIP_KEY, JSON.stringify({ back, fwd }));
+
+    const backBtn = document.getElementById('skip-back-btn');
+    const fwdBtn  = document.getElementById('skip-fwd-btn');
+    if (backBtn) { backBtn.textContent = '«' + back; backBtn.title = 'Back ' + back + 's'; }
+    if (fwdBtn)  { fwdBtn.textContent  = fwd + '»'; fwdBtn.title  = 'Forward ' + fwd + 's'; }
+
+    const backInput = document.getElementById('setting-skip-back');
+    const fwdInput  = document.getElementById('setting-skip-fwd');
+    if (backInput) backInput.value = back;
+    if (fwdInput)  fwdInput.value  = fwd;
+  }
+
+  function skipBack() {
+    const { back } = loadSkip();
+    skip(-back);
+  }
+
+  function skipFwd() {
+    const { fwd } = loadSkip();
+    skip(fwd);
+  }
+
+  // ── Playback controls ──
+  function togglePlay() {
+    if (!audio) return;
+    if (audio.paused) {
+      audio.play().catch(e => console.warn('[LVR] Play failed:', e));
+    } else {
+      audio.pause();
+    }
+  }
+
+  function skip(seconds) {
+    if (!audio || !pageData) return;
+    audio.currentTime = Math.max(
+      pageData.page_start_sec,
+      Math.min(pageData.page_end_sec, audio.currentTime + seconds)
+    );
+  }
+
+  function onSeekInput() { seekDragging = true; }
+
+  function onSeekChange(val) {
+    seekDragging = false;
+    if (!audio || !pageData) return;
+    audio.currentTime = pageData.page_start_sec +
+      (val / 1000) * (pageData.page_end_sec - pageData.page_start_sec);
+  }
+
+  function seekToSegment(idx) {
+    if (!audio || !pageData) return;
+    audio.currentTime = pageData.segments[idx].start;
+    audio.play().catch(() => {});
+  }
+
+  // ── Speed ──
+  function applySpeed(val) {
+    val = Math.round(parseFloat(val) * 20) / 20; // snap to 0.05 steps
+    val = Math.max(0.5, Math.min(2.5, val));
+    if (audio) audio.playbackRate = val;
+    localStorage.setItem(SPEED_KEY, val);
+
+    const label = (val % 1 === 0 ? val.toFixed(0) : val.toString()) + '×';
+    const display = document.getElementById('speed-display');
+    if (display) display.textContent = label;
+    const slider  = document.getElementById('speed-slider');
+    if (slider)  slider.value = val;
+    const valueEl = document.getElementById('speed-value');
+    if (valueEl) valueEl.textContent = label;
+
+    document.querySelectorAll('.speed-preset-btn').forEach(btn => {
+      btn.classList.toggle('active', parseFloat(btn.dataset.speed) === val);
+    });
+  }
+
+  // ── Settings data ──
+  function loadSettingsData() {
+    try {
+      return Object.assign({}, SETTING_DEFAULTS, JSON.parse(localStorage.getItem(SETTINGS_KEY)));
+    } catch (e) { return Object.assign({}, SETTING_DEFAULTS); }
+  }
+
+  function saveSettingsData(s) {
+    localStorage.setItem(SETTINGS_KEY, JSON.stringify(s));
+  }
+
+  function applySettingsData(s) {
+    document.documentElement.style.setProperty('--transcript-line-height', s.lineHeight);
+    document.documentElement.style.setProperty('--transcript-para-spacing', s.paraSpacing + 'rem');
+
+    if (s.bg)   document.documentElement.style.setProperty('--bg', s.bg);
+    else        document.documentElement.style.removeProperty('--bg');
+    if (s.text) document.documentElement.style.setProperty('--text', s.text);
+    else        document.documentElement.style.removeProperty('--text');
+
+    // Sync sliders/values
+    const lhSlider = document.getElementById('setting-line-height');
+    const lhValue  = document.getElementById('lh-value');
+    const psSlider = document.getElementById('setting-para-spacing');
+    const psValue  = document.getElementById('ps-value');
+    if (lhSlider) lhSlider.value = s.lineHeight;
+    if (lhValue)  lhValue.textContent = parseFloat(s.lineHeight).toFixed(1);
+    if (psSlider) psSlider.value = s.paraSpacing;
+    if (psValue)  psValue.textContent = parseFloat(s.paraSpacing).toFixed(2);
+  }
+
+  function _syncColorPickers(s) {
+    const theme    = document.documentElement.getAttribute('data-theme') || 'light';
+    const defaults = COLOR_DEFAULTS[theme] || COLOR_DEFAULTS.light;
+    const bgPicker   = document.getElementById('setting-bg');
+    const textPicker = document.getElementById('setting-text');
+    if (bgPicker)   bgPicker.value   = s.bg   || defaults.bg;
+    if (textPicker) textPicker.value = s.text || defaults.text;
+  }
+
+  // ── Settings init ──
+  function initSettings() {
+    const s = loadSettingsData();
+    applySettingsData(s);
+
+    const savedSpeed = parseFloat(localStorage.getItem(SPEED_KEY));
+    applySpeed(isFinite(savedSpeed) ? savedSpeed : 1);
+
+    _syncColorPickers(s);
+
+    // Skip duration
+    const { back, fwd } = loadSkip();
+    applySkip(back, fwd);
+
+    const skipBackInput = document.getElementById('setting-skip-back');
+    if (skipBackInput) skipBackInput.addEventListener('change', function () {
+      const val = parseFloat(this.value);
+      if (val > 0) { const { fwd } = loadSkip(); applySkip(val, fwd); }
+    });
+
+    const skipFwdInput = document.getElementById('setting-skip-fwd');
+    if (skipFwdInput) skipFwdInput.addEventListener('change', function () {
+      const val = parseFloat(this.value);
+      if (val > 0) { const { back } = loadSkip(); applySkip(back, val); }
+    });
+
+    // Line height slider
+    const lhSlider = document.getElementById('setting-line-height');
+    if (lhSlider) lhSlider.addEventListener('input', function () {
+      const s = loadSettingsData();
+      s.lineHeight = parseFloat(this.value);
+      saveSettingsData(s);
+      applySettingsData(s);
+    });
+
+    // Paragraph spacing slider
+    const psSlider = document.getElementById('setting-para-spacing');
+    if (psSlider) psSlider.addEventListener('input', function () {
+      const s = loadSettingsData();
+      s.paraSpacing = parseFloat(this.value);
+      saveSettingsData(s);
+      applySettingsData(s);
+    });
+
+    // Color pickers
+    const bgPicker = document.getElementById('setting-bg');
+    if (bgPicker) bgPicker.addEventListener('input', function () {
+      const s = loadSettingsData();
+      s.bg = this.value;
+      saveSettingsData(s);
+      applySettingsData(s);
+    });
+
+    const textPicker = document.getElementById('setting-text');
+    if (textPicker) textPicker.addEventListener('input', function () {
+      const s = loadSettingsData();
+      s.text = this.value;
+      saveSettingsData(s);
+      applySettingsData(s);
+    });
+
+    // Reset colors button
+    const resetBtn = document.getElementById('reset-colors-btn');
+    if (resetBtn) resetBtn.addEventListener('click', resetColors);
+
+    // Speed slider
+    const speedSlider = document.getElementById('speed-slider');
+    if (speedSlider) speedSlider.addEventListener('input', function () {
+      applySpeed(parseFloat(this.value));
+    });
+
+    // Speed preset buttons
+    document.querySelectorAll('.speed-preset-btn').forEach(btn => {
+      btn.addEventListener('click', function () {
+        applySpeed(parseFloat(this.dataset.speed));
+      });
+    });
+  }
+
+  // ── Settings panel toggle ──
+  function toggleSettings() {
+    const panel     = document.getElementById('settings-panel');
+    const playerBar = document.querySelector('.player-bar');
+    const btn       = document.getElementById('settings-btn');
+    if (!panel || !playerBar) return;
+
+    const isOpen = !panel.classList.contains('open');
+    panel.style.bottom = playerBar.offsetHeight + 'px';
+    panel.classList.toggle('open', isOpen);
+    if (btn) btn.classList.toggle('active', isOpen);
+
+    const main = document.querySelector('.site-main');
+    if (main) {
+      if (isOpen) {
+        main.style.paddingBottom =
+          (playerBar.offsetHeight + panel.offsetHeight + 8) + 'px';
+      } else {
+        main.style.paddingBottom = '';
+      }
+    }
+  }
+
+  function resetColors() {
+    const s = loadSettingsData();
+    delete s.bg;
+    delete s.text;
+    saveSettingsData(s);
+    applySettingsData(s);
+    _syncColorPickers(s);
+  }
+
+  // ── Bookmark ──
+  function saveBookmark(force) {
+    const key = bmKey();
+    if (!key || !audio || !pageData) return;
+    const now = Date.now();
+    if (!force && now - lastBmSave < 5000) return;
+    lastBmSave = now;
+    localStorage.setItem(key, JSON.stringify({
+      pageUrl: window.location.pathname,
+      time:    audio.currentTime,
+      savedAt: new Date().toISOString(),
+    }));
+  }
+
+  function loadBookmark() {
+    const key = bmKey();
+    if (!key || !pageData) return;
+    try {
+      const bm = JSON.parse(localStorage.getItem(key));
+      if (!bm) return;
+      if (bm.pageUrl === window.location.pathname && bm.time > pageData.page_start_sec + 2) {
+        audio.currentTime = bm.time;
+        showResumeBanner(bm.time - pageData.page_start_sec);
+      }
+    } catch (e) {}
+  }
+
+  function showResumeBanner(elapsedSec) {
+    const banner = document.getElementById('resume-banner');
+    if (!banner) return;
+    banner.textContent = 'Resuming from ' + fmtSec(elapsedSec);
+    banner.classList.add('visible');
+    setTimeout(() => banner.classList.remove('visible'), 3000);
+  }
+
+  // ── Keyboard ──
+  function setupKeyboard() {
+    document.addEventListener('keydown', e => {
+      const tag = e.target.tagName;
+      if (tag === 'INPUT' || tag === 'SELECT' || tag === 'TEXTAREA') return;
+      if (e.code === 'Space')      { e.preventDefault(); togglePlay(); }
+      if (e.code === 'ArrowRight') { e.preventDefault(); skipFwd(); }
+      if (e.code === 'ArrowLeft')  { e.preventDefault(); skipBack(); }
+    });
+  }
+
+  // ── Theme ──
+  function initTheme() {
+    const saved = localStorage.getItem('lvr-theme');
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    const theme = saved || (prefersDark ? 'dark' : 'light');
+    document.documentElement.setAttribute('data-theme', theme);
+    _updateThemeBtn(theme);
+  }
+
+  function toggleTheme() {
+    const current = document.documentElement.getAttribute('data-theme') || 'light';
+    const next = current === 'dark' ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', next);
+    localStorage.setItem('lvr-theme', next);
+    _updateThemeBtn(next);
+    // Re-sync color pickers to new theme defaults if no custom colors
+    const s = loadSettingsData();
+    if (!s.bg && !s.text) _syncColorPickers(s);
+  }
+
+  function _updateThemeBtn(theme) {
+    const btn = document.getElementById('theme-btn');
+    if (btn) btn.textContent = theme === 'dark' ? '☀' : '☾';
+  }
+
+  // ── Chapter accordion (work detail page) ──
+  function initAccordion() {
+    document.querySelectorAll('.chapter-head').forEach(head => {
+      head.addEventListener('click', () => {
+        head.closest('.chapter-item').classList.toggle('open');
+      });
+    });
+    const first = document.querySelector('.chapter-item');
+    if (first) first.classList.add('open');
+  }
+
+  // ── Helpers ──
+  function fmtSec(s) {
+    if (!isFinite(s)) return '?:??';
+    s = Math.max(0, Math.floor(s));
+    return Math.floor(s / 60) + ':' + String(s % 60).padStart(2, '0');
+  }
+
+  // ── Public API ──
+  window.LVR = {
+    init,
+    togglePlay,
+    skip,
+    skipBack,
+    skipFwd,
+    onSeekInput,
+    onSeekChange,
+    applySpeed,
+    toggleSettings,
+    resetColors,
+    initTheme,
+    toggleTheme,
+    initAccordion,
+  };
+
+})();

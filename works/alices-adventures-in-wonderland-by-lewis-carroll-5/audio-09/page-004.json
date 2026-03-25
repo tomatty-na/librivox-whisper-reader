@@ -1,0 +1,265 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-09",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_09_carroll.mp3",
+  "chapter_title": "09 - The Mock Turtle's Story",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.768,
+  "page_num": 4,
+  "page_total": 4,
+  "page_start_sec": 744.36,
+  "page_end_sec": 833.76,
+  "segments": [
+    {
+      "start": 744.36,
+      "end": 746.32,
+      "text": "He taught us drawling,"
+    },
+    {
+      "start": 746.4,
+      "end": 747.14,
+      "text": "stretching,"
+    },
+    {
+      "start": 747.44,
+      "end": 749.6,
+      "text": "and fainting in coils."
+    },
+    {
+      "start": 751.42,
+      "end": 752.3,
+      "text": "What was that like?",
+      "para_break": true
+    },
+    {
+      "start": 752.5,
+      "end": 753.22,
+      "text": "said Alice."
+    },
+    {
+      "start": 753.82,
+      "end": 754.26,
+      "text": "Well,"
+    },
+    {
+      "start": 754.26,
+      "end": 756.22,
+      "text": "I can't show it you myself,"
+    },
+    {
+      "start": 756.9,
+      "end": 757.72,
+      "text": "the mock turtle said."
+    },
+    {
+      "start": 758.304,
+      "end": 759.12,
+      "text": "I'm too stiff,"
+    },
+    {
+      "start": 759.34,
+      "end": 761.38,
+      "text": "and the griffin never learned it."
+    },
+    {
+      "start": 762.688,
+      "end": 763.06,
+      "text": "Udden time,",
+      "para_break": true
+    },
+    {
+      "start": 763.24,
+      "end": 764.02,
+      "text": "said the griffin."
+    },
+    {
+      "start": 764.34,
+      "end": 765.88,
+      "text": "I went to the classical master,"
+    },
+    {
+      "start": 765.98,
+      "end": 766.16,
+      "text": "though."
+    },
+    {
+      "start": 766.44,
+      "end": 767.36,
+      "text": "He was an old crab,"
+    },
+    {
+      "start": 767.52,
+      "end": 767.82,
+      "text": "he was."
+    },
+    {
+      "start": 769.14,
+      "end": 770.5,
+      "text": "I never went to him,",
+      "para_break": true
+    },
+    {
+      "start": 770.82,
+      "end": 772.54,
+      "text": "the mock turtle said with a sigh."
+    },
+    {
+      "start": 773.12,
+      "end": 775.3,
+      "text": "He taught laughing and grief,"
+    },
+    {
+      "start": 775.88,
+      "end": 776.78,
+      "text": "they used to say."
+    },
+    {
+      "start": 778.68,
+      "end": 779.2,
+      "text": "So he did,",
+      "para_break": true
+    },
+    {
+      "start": 779.36,
+      "end": 779.9,
+      "text": "so he did,"
+    },
+    {
+      "start": 780.08,
+      "end": 781.2,
+      "text": "said the griffin,"
+    },
+    {
+      "start": 781.24,
+      "end": 782.2,
+      "text": "sighing in his turn,"
+    },
+    {
+      "start": 782.32,
+      "end": 784.48,
+      "text": "and both creatures hid their faces in their paws."
+    },
+    {
+      "start": 785.53,
+      "end": 788.0,
+      "text": "And how many hours a day did you do lessons?",
+      "para_break": true
+    },
+    {
+      "start": 788.3,
+      "end": 790.32,
+      "text": "said Alice in a hurry to change the subject."
+    },
+    {
+      "start": 791.72,
+      "end": 793.46,
+      "text": "Ten hours the first day,",
+      "para_break": true
+    },
+    {
+      "start": 793.68,
+      "end": 794.82,
+      "text": "said the Mock Turtle,"
+    },
+    {
+      "start": 795.12,
+      "end": 796.46,
+      "text": "nine the next,"
+    },
+    {
+      "start": 796.62,
+      "end": 797.6,
+      "text": "and so on."
+    },
+    {
+      "start": 798.46,
+      "end": 799.5,
+      "text": "What a curious plan!",
+      "para_break": true
+    },
+    {
+      "start": 799.8,
+      "end": 800.72,
+      "text": "exclaimed Alice."
+    },
+    {
+      "start": 801.984,
+      "end": 803.2,
+      "text": "That's the reason they're called lessons,",
+      "para_break": true
+    },
+    {
+      "start": 803.54,
+      "end": 804.46,
+      "text": "the griffon remarked,"
+    },
+    {
+      "start": 804.46,
+      "end": 806.14,
+      "text": "because they lesson from day to day."
+    },
+    {
+      "start": 807.08,
+      "end": 808.74,
+      "text": "This was quite a new idea to Alice,",
+      "para_break": true
+    },
+    {
+      "start": 808.94,
+      "end": 811.64,
+      "text": "and she thought over it a little before she made her next remark."
+    },
+    {
+      "start": 812.6,
+      "end": 814.36,
+      "text": "Then the eleventh day must have been a holiday.",
+      "para_break": true
+    },
+    {
+      "start": 815.68,
+      "end": 816.74,
+      "text": "Of course it was,",
+      "para_break": true
+    },
+    {
+      "start": 817.16,
+      "end": 818.32,
+      "text": "said the Mock Turtle."
+    },
+    {
+      "start": 819.88,
+      "end": 821.38,
+      "text": "And how did you manage on the twelfth?",
+      "para_break": true
+    },
+    {
+      "start": 821.82,
+      "end": 822.8,
+      "text": "Alice went on eagerly."
+    },
+    {
+      "start": 823.936,
+      "end": 824.9,
+      "text": "Lots enough about lessons,",
+      "para_break": true
+    },
+    {
+      "start": 825.26,
+      "end": 827.64,
+      "text": "the griffon interrupted in a very decided tone."
+    },
+    {
+      "start": 828.3,
+      "end": 829.94,
+      "text": "Tell her something about the games now."
+    },
+    {
+      "start": 832.9,
+      "end": 833.76,
+      "text": "End of chapter nine",
+      "para_break": true
+    }
+  ]
+}

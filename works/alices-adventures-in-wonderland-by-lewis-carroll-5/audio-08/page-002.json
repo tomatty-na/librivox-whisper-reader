@@ -1,0 +1,737 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-08",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_08_carroll.mp3",
+  "chapter_title": "08 - The Queen's Croquet-ground",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.605,
+  "page_num": 2,
+  "page_total": 4,
+  "page_start_sec": 240.78,
+  "page_end_sec": 483.96,
+  "segments": [
+    {
+      "start": 240.78,
+      "end": 241.86,
+      "text": "How should I know?"
+    },
+    {
+      "start": 241.98,
+      "end": 242.44,
+      "text": "said Alice,"
+    },
+    {
+      "start": 242.58,
+      "end": 243.22,
+      "text": "surprised at"
+    },
+    {
+      "start": 243.22,
+      "end": 243.84,
+      "text": "her own courage."
+    },
+    {
+      "start": 244.13,
+      "end": 245.68,
+      "text": "It's no business of mine."
+    },
+    {
+      "start": 246.42,
+      "end": 248.04,
+      "text": "The queen turned crimson with fury.",
+      "para_break": true
+    },
+    {
+      "start": 248.48,
+      "end": 251.12,
+      "text": "and after glaring at her for a moment like a wild beast,"
+    },
+    {
+      "start": 251.34,
+      "end": 251.84,
+      "text": "screamed,"
+    },
+    {
+      "start": 252.6,
+      "end": 253.5,
+      "text": "Off with her head!",
+      "para_break": true
+    },
+    {
+      "start": 253.7,
+      "end": 254.3,
+      "text": "Off!"
+    },
+    {
+      "start": 254.78,
+      "end": 255.58,
+      "text": "Nonsense,"
+    },
+    {
+      "start": 255.92,
+      "end": 258.06,
+      "text": "said Alice very loudly and decidedly,"
+    },
+    {
+      "start": 258.08,
+      "end": 259.58,
+      "text": "and the queen was silent."
+    },
+    {
+      "start": 260.28,
+      "end": 263.38,
+      "text": "The king laid his hand upon her arm and timidly said,",
+      "para_break": true
+    },
+    {
+      "start": 263.94,
+      "end": 264.44,
+      "text": "Consider,"
+    },
+    {
+      "start": 264.56,
+      "end": 264.9,
+      "text": "my dear,"
+    },
+    {
+      "start": 265.0,
+      "end": 266.02,
+      "text": "she is only a child."
+    },
+    {
+      "start": 267.04,
+      "end": 270.1,
+      "text": "The queen turned angrily away from him and said to the knave,",
+      "para_break": true
+    },
+    {
+      "start": 270.58,
+      "end": 271.1,
+      "text": "Turn them over!"
+    },
+    {
+      "start": 272.32,
+      "end": 274.54,
+      "text": "The knave did so very carefully with one foot.",
+      "para_break": true
+    },
+    {
+      "start": 275.21,
+      "end": 278.74,
+      "text": "get up said the queen in a shrill loud voice",
+      "para_break": true
+    },
+    {
+      "start": 279.3,
+      "end": 282.08,
+      "text": "and the three gardeners instantly jumped up and began"
+    },
+    {
+      "start": 282.22,
+      "end": 286.14,
+      "text": "bowing to the king the queen the royal children and everybody else"
+    },
+    {
+      "start": 287.456,
+      "end": 288.72,
+      "text": "live off that screamed the",
+      "para_break": true
+    },
+    {
+      "start": 288.82,
+      "end": 289.92,
+      "text": "queen you make me giddy"
+    },
+    {
+      "start": 290.96,
+      "end": 292.74,
+      "text": "and then turning to the rose tree",
+      "para_break": true
+    },
+    {
+      "start": 292.74,
+      "end": 295.1,
+      "text": "she went on what have you been doing"
+    },
+    {
+      "start": 295.14,
+      "end": 295.34,
+      "text": "here"
+    },
+    {
+      "start": 295.9,
+      "end": 298.34,
+      "text": "may it please your majesty said two in a very"
+    },
+    {
+      "start": 298.34,
+      "end": 301.08,
+      "text": "humble tone going down on one knee as he spoke"
+    },
+    {
+      "start": 301.46,
+      "end": 302.32,
+      "text": "We were trying."
+    },
+    {
+      "start": 302.5,
+      "end": 303.24,
+      "text": "I see,"
+    },
+    {
+      "start": 303.99,
+      "end": 304.78,
+      "text": "said the queen,",
+      "para_break": true
+    },
+    {
+      "start": 304.98,
+      "end": 307.02,
+      "text": "who had meanwhile been examining the roses."
+    },
+    {
+      "start": 308.0,
+      "end": 308.82,
+      "text": "Off with their heads!",
+      "para_break": true
+    },
+    {
+      "start": 309.12,
+      "end": 311.24,
+      "text": "And the procession moved on,"
+    },
+    {
+      "start": 311.36,
+      "end": 313.72,
+      "text": "three of the soldiers remaining behind to"
+    },
+    {
+      "start": 313.8,
+      "end": 315.48,
+      "text": "execute the unfortunate gardeners,"
+    },
+    {
+      "start": 315.56,
+      "end": 317.12,
+      "text": "who ran to Alice for protection."
+    },
+    {
+      "start": 318.9,
+      "end": 319.9,
+      "text": "You shan't be perheaded,",
+      "para_break": true
+    },
+    {
+      "start": 320.06,
+      "end": 320.72,
+      "text": "said Alice,"
+    },
+    {
+      "start": 320.88,
+      "end": 323.5,
+      "text": "and she put them into a large flowerpot that stood near."
+    },
+    {
+      "start": 324.14,
+      "end": 324.84,
+      "text": "The three soldiers",
+      "para_break": true
+    },
+    {
+      "start": 325.06,
+      "end": 326.54,
+      "text": "wandered about for a minute or two,"
+    },
+    {
+      "start": 326.66,
+      "end": 327.3,
+      "text": "looking for them,"
+    },
+    {
+      "start": 327.4,
+      "end": 329.46,
+      "text": "and then quietly marched off after the"
+    },
+    {
+      "start": 329.58,
+      "end": 329.8,
+      "text": "others."
+    },
+    {
+      "start": 331.1,
+      "end": 332.02,
+      "text": "Are their heads off?",
+      "para_break": true
+    },
+    {
+      "start": 332.29,
+      "end": 333.1,
+      "text": "shouted the queen."
+    },
+    {
+      "start": 333.34,
+      "end": 334.5,
+      "text": "Their heads are gone,"
+    },
+    {
+      "start": 334.56,
+      "end": 335.56,
+      "text": "if it please your majesty,"
+    },
+    {
+      "start": 335.9,
+      "end": 337.42,
+      "text": "the soldiers shouted in reply."
+    },
+    {
+      "start": 338.432,
+      "end": 338.74,
+      "text": "That's right,",
+      "para_break": true
+    },
+    {
+      "start": 338.92,
+      "end": 339.76,
+      "text": "shouted the queen."
+    },
+    {
+      "start": 340.4,
+      "end": 341.28,
+      "text": "Can you play croquet?",
+      "para_break": true
+    },
+    {
+      "start": 342.35,
+      "end": 344.96,
+      "text": "The soldiers were silent and looked at Alice,",
+      "para_break": true
+    },
+    {
+      "start": 345.16,
+      "end": 347.32,
+      "text": "as the question was evidently meant for her."
+    },
+    {
+      "start": 348.46,
+      "end": 348.74,
+      "text": "Yes,",
+      "para_break": true
+    },
+    {
+      "start": 349.12,
+      "end": 349.98,
+      "text": "shouted Alice."
+    },
+    {
+      "start": 351.32,
+      "end": 351.86,
+      "text": "Come on then,",
+      "para_break": true
+    },
+    {
+      "start": 352.04,
+      "end": 352.78,
+      "text": "roared the queen,"
+    },
+    {
+      "start": 352.94,
+      "end": 354.8,
+      "text": "and Alice joined the procession,"
+    },
+    {
+      "start": 354.9,
+      "end": 356.88,
+      "text": "wondering very much what would happen next."
+    },
+    {
+      "start": 358.048,
+      "end": 359.52,
+      "text": "It's a very fine day,",
+      "para_break": true
+    },
+    {
+      "start": 359.8,
+      "end": 361.48,
+      "text": "said a timid voice at her side."
+    },
+    {
+      "start": 361.6,
+      "end": 363.46,
+      "text": "She was walking by the white rabbit,"
+    },
+    {
+      "start": 363.58,
+      "end": 365.74,
+      "text": "who was peeping anxiously into her face."
+    },
+    {
+      "start": 366.64,
+      "end": 367.08,
+      "text": "Very,",
+      "para_break": true
+    },
+    {
+      "start": 367.26,
+      "end": 367.72,
+      "text": "said Alice."
+    },
+    {
+      "start": 368.88,
+      "end": 369.57,
+      "text": "Where is the Duchess?",
+      "para_break": true
+    },
+    {
+      "start": 370.18,
+      "end": 371.1,
+      "text": "Hush,",
+      "para_break": true
+    },
+    {
+      "start": 371.1,
+      "end": 371.56,
+      "text": "hush,"
+    },
+    {
+      "start": 371.69,
+      "end": 373.14,
+      "text": "said the rabbit in a low,"
+    },
+    {
+      "start": 373.14,
+      "end": 373.68,
+      "text": "hurried tone."
+    },
+    {
+      "start": 374.16,
+      "end": 376.66,
+      "text": "He looked anxiously over his shoulder as he spoke,"
+    },
+    {
+      "start": 376.82,
+      "end": 378.86,
+      "text": "and then raised himself upon tiptoe,"
+    },
+    {
+      "start": 379.3,
+      "end": 380.64,
+      "text": "put his mouth close to her ear,"
+    },
+    {
+      "start": 380.76,
+      "end": 381.5,
+      "text": "and whispered,"
+    },
+    {
+      "start": 381.52,
+      "end": 383.26,
+      "text": "She's under sentence of execution."
+    },
+    {
+      "start": 383.96,
+      "end": 385.1,
+      "text": "What for?",
+      "para_break": true
+    },
+    {
+      "start": 385.42,
+      "end": 386.02,
+      "text": "said Alice."
+    },
+    {
+      "start": 386.5,
+      "end": 387.68,
+      "text": "Did you say what a pity?"
+    },
+    {
+      "start": 387.88,
+      "end": 388.7,
+      "text": "the rabbit asked."
+    },
+    {
+      "start": 389.38,
+      "end": 389.64,
+      "text": "No,",
+      "para_break": true
+    },
+    {
+      "start": 389.66,
+      "end": 390.18,
+      "text": "I didn't,"
+    },
+    {
+      "start": 390.18,
+      "end": 390.64,
+      "text": "said Alice."
+    },
+    {
+      "start": 391.02,
+      "end": 392.34,
+      "text": "I don't think it's at all a pity."
+    },
+    {
+      "start": 392.96,
+      "end": 393.62,
+      "text": "I said what for?",
+      "para_break": true
+    },
+    {
+      "start": 394.56,
+      "end": 396.14,
+      "text": "She boxed the queen's ears,",
+      "para_break": true
+    },
+    {
+      "start": 396.7,
+      "end": 397.36,
+      "text": "the rabbit began."
+    },
+    {
+      "start": 398.112,
+      "end": 399.82,
+      "text": "Alice gave a little scream of laughter.",
+      "para_break": true
+    },
+    {
+      "start": 400.46,
+      "end": 400.7,
+      "text": "Oh,",
+      "para_break": true
+    },
+    {
+      "start": 400.7,
+      "end": 401.1,
+      "text": "hush,"
+    },
+    {
+      "start": 401.24,
+      "end": 402.94,
+      "text": "the rabbit whispered in a frightened tone."
+    },
+    {
+      "start": 403.5,
+      "end": 404.42,
+      "text": "The queen will hear you."
+    },
+    {
+      "start": 404.94,
+      "end": 405.22,
+      "text": "You see,"
+    },
+    {
+      "start": 405.26,
+      "end": 406.3,
+      "text": "she came rather late,"
+    },
+    {
+      "start": 406.62,
+      "end": 407.5,
+      "text": "and the queen said,"
+    },
+    {
+      "start": 407.98,
+      "end": 408.96,
+      "text": "Get to your places,"
+    },
+    {
+      "start": 409.51,
+      "end": 411.58,
+      "text": "shouted the queen in a voice of thunder,"
+    },
+    {
+      "start": 411.86,
+      "end": 414.26,
+      "text": "and people began running about in all directions,"
+    },
+    {
+      "start": 414.56,
+      "end": 415.9,
+      "text": "tumbling up against each other."
+    },
+    {
+      "start": 416.28,
+      "end": 416.62,
+      "text": "However,"
+    },
+    {
+      "start": 416.78,
+      "end": 418.68,
+      "text": "they got settled down in a minute or two,"
+    },
+    {
+      "start": 418.84,
+      "end": 419.84,
+      "text": "and the game began."
+    },
+    {
+      "start": 420.8,
+      "end": 422.46,
+      "text": "Alice thought she had never seen such a",
+      "para_break": true
+    },
+    {
+      "start": 422.46,
+      "end": 424.6,
+      "text": "curious croquet ground in all her life."
+    },
+    {
+      "start": 425.26,
+      "end": 426.68,
+      "text": "It was all ridges and furrows.",
+      "para_break": true
+    },
+    {
+      "start": 427.28,
+      "end": 428.63,
+      "text": "The balls were live hedgehogs,"
+    },
+    {
+      "start": 428.8,
+      "end": 430.34,
+      "text": "the mallets live flamingos,"
+    },
+    {
+      "start": 430.88,
+      "end": 433.34,
+      "text": "and the soldiers had to double themselves up and to"
+    },
+    {
+      "start": 433.34,
+      "end": 435.56,
+      "text": "stand upon their hands and feet to make the arches."
+    },
+    {
+      "start": 436.24,
+      "end": 437.92,
+      "text": "The chief difficulty Alice found at",
+      "para_break": true
+    },
+    {
+      "start": 437.92,
+      "end": 439.94,
+      "text": "first was in managing her flamingo."
+    },
+    {
+      "start": 440.62,
+      "end": 442.84,
+      "text": "She succeeded in getting its body tucked away,",
+      "para_break": true
+    },
+    {
+      "start": 443.0,
+      "end": 443.88,
+      "text": "comfortably enough,"
+    },
+    {
+      "start": 444.08,
+      "end": 444.84,
+      "text": "under her arm,"
+    },
+    {
+      "start": 444.88,
+      "end": 445.36,
+      "text": "with its"
+    },
+    {
+      "start": 445.42,
+      "end": 446.24,
+      "text": "legs hanging down,"
+    },
+    {
+      "start": 446.36,
+      "end": 447.38,
+      "text": "but generally,"
+    },
+    {
+      "start": 447.58,
+      "end": 450.16,
+      "text": "just as she had got its neck nicely straightened out"
+    },
+    {
+      "start": 450.28,
+      "end": 452.78,
+      "text": "and was going to give the hedgehog a blow with its head,"
+    },
+    {
+      "start": 453.52,
+      "end": 454.84,
+      "text": "it would twist itself round",
+      "para_break": true
+    },
+    {
+      "start": 455.06,
+      "end": 456.12,
+      "text": "and look up in her face,"
+    },
+    {
+      "start": 456.24,
+      "end": 459.22,
+      "text": "with such a puzzled expression that she could not help bursting"
+    },
+    {
+      "start": 459.22,
+      "end": 459.74,
+      "text": "out laughing."
+    },
+    {
+      "start": 460.38,
+      "end": 463.34,
+      "text": "And when she had got its head down and was going to begin again,",
+      "para_break": true
+    },
+    {
+      "start": 463.54,
+      "end": 464.66,
+      "text": "it was very provoking"
+    },
+    {
+      "start": 464.8,
+      "end": 466.58,
+      "text": "to find that the hedgehog had unrolled"
+    },
+    {
+      "start": 466.58,
+      "end": 468.48,
+      "text": "itself and was in the act of crawling away."
+    },
+    {
+      "start": 469.52,
+      "end": 470.18,
+      "text": "Besides all this,",
+      "para_break": true
+    },
+    {
+      "start": 470.38,
+      "end": 472.7,
+      "text": "there was generally a ridge or a furrow in the"
+    },
+    {
+      "start": 472.7,
+      "end": 474.76,
+      "text": "way wherever she wanted to send the hedgehog to,"
+    },
+    {
+      "start": 475.34,
+      "end": 477.6,
+      "text": "and as the doubled-up soldiers were always getting"
+    },
+    {
+      "start": 477.6,
+      "end": 479.76,
+      "text": "up and walking off to other parts of the ground,"
+    },
+    {
+      "start": 480.448,
+      "end": 482.1,
+      "text": "Alice soon came to the conclusion that",
+      "para_break": true
+    },
+    {
+      "start": 482.1,
+      "end": 483.96,
+      "text": "it was a very difficult game indeed."
+    }
+  ]
+}

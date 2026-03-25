@@ -1,0 +1,315 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-02",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_02_carroll.mp3",
+  "chapter_title": "02 - The Pool of Tears",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.477,
+  "page_num": 3,
+  "page_total": 3,
+  "page_start_sec": 505.02,
+  "page_end_sec": 601.04,
+  "segments": [
+    {
+      "start": 505.02,
+      "end": 507.3,
+      "text": "We won't talk about her any more if you'd rather not.",
+      "para_break": true
+    },
+    {
+      "start": 507.94,
+      "end": 508.36,
+      "text": "We indeed,",
+      "para_break": true
+    },
+    {
+      "start": 508.68,
+      "end": 509.38,
+      "text": "cried the mouse,"
+    },
+    {
+      "start": 509.5,
+      "end": 511.7,
+      "text": "who was trembling down to the end of his tail."
+    },
+    {
+      "start": 512.56,
+      "end": 514.3,
+      "text": "As if I would talk on such a subject.",
+      "para_break": true
+    },
+    {
+      "start": 514.74,
+      "end": 516.7,
+      "text": "Our family has always hated cats."
+    },
+    {
+      "start": 516.96,
+      "end": 517.52,
+      "text": "Nasty,"
+    },
+    {
+      "start": 517.6,
+      "end": 517.82,
+      "text": "low,"
+    },
+    {
+      "start": 517.94,
+      "end": 518.74,
+      "text": "vulgar things."
+    },
+    {
+      "start": 519.04,
+      "end": 520.4,
+      "text": "Don't let me hear the name again."
+    },
+    {
+      "start": 520.72,
+      "end": 521.74,
+      "text": "I won't indeed,"
+    },
+    {
+      "start": 522.02,
+      "end": 522.58,
+      "text": "said Alice,"
+    },
+    {
+      "start": 522.7,
+      "end": 524.78,
+      "text": "in a great hurry to change the subject of conversation."
+    },
+    {
+      "start": 526.02,
+      "end": 529.64,
+      "text": "\"'Are you fond of dogs?' the mouse did not answer,",
+      "para_break": true
+    },
+    {
+      "start": 529.72,
+      "end": 530.89,
+      "text": "so Alice went on eagerly."
+    },
+    {
+      "start": 531.96,
+      "end": 533.18,
+      "text": "\"'There's such a nice little dog near",
+      "para_break": true
+    },
+    {
+      "start": 533.18,
+      "end": 534.68,
+      "text": "our house I should like to show you."
+    },
+    {
+      "start": 534.92,
+      "end": 536.28,
+      "text": "\"'A little bright-eyed terrier,"
+    },
+    {
+      "start": 536.34,
+      "end": 536.64,
+      "text": "you know,"
+    },
+    {
+      "start": 536.68,
+      "end": 536.86,
+      "text": "with,"
+    },
+    {
+      "start": 536.94,
+      "end": 537.14,
+      "text": "oh,"
+    },
+    {
+      "start": 537.22,
+      "end": 539.02,
+      "text": "such long curly brown hair,"
+    },
+    {
+      "start": 539.36,
+      "end": 540.96,
+      "text": "\"'and it'll fetch things when you throw them,"
+    },
+    {
+      "start": 541.02,
+      "end": 543.72,
+      "text": "\"'and it'll sit up and beg for its dinner and all sorts of things."
+    },
+    {
+      "start": 543.86,
+      "end": 545.2,
+      "text": "\"'I can't remember half of them."
+    },
+    {
+      "start": 545.78,
+      "end": 547.1,
+      "text": "\"'And it belongs to a farmer,",
+      "para_break": true
+    },
+    {
+      "start": 547.16,
+      "end": 547.46,
+      "text": "you know,"
+    },
+    {
+      "start": 547.5,
+      "end": 548.94,
+      "text": "and he says it's so useful,"
+    },
+    {
+      "start": 549.08,
+      "end": 550.32,
+      "text": "\"'it's worth a hundred pounds."
+    },
+    {
+      "start": 551.12,
+      "end": 552.78,
+      "text": "\"'He says it kills all the rats and—'",
+      "para_break": true
+    },
+    {
+      "start": 553.0,
+      "end": 553.472,
+      "text": "Oh dear,"
+    },
+    {
+      "start": 553.92,
+      "end": 555.56,
+      "text": "cried Alice in a sorrowful tone,"
+    },
+    {
+      "start": 555.72,
+      "end": 557.36,
+      "text": "I'm afraid I've offended it again,"
+    },
+    {
+      "start": 557.58,
+      "end": 560.64,
+      "text": "for the mouse was swimming away from her as hard as it could go,"
+    },
+    {
+      "start": 560.72,
+      "end": 562.9,
+      "text": "and making quite a commotion in the pool as it went."
+    },
+    {
+      "start": 564.04,
+      "end": 565.64,
+      "text": "So she called softly after it,",
+      "para_break": true
+    },
+    {
+      "start": 565.66,
+      "end": 566.24,
+      "text": "Mouse dear,"
+    },
+    {
+      "start": 566.46,
+      "end": 567.34,
+      "text": "do come back again,"
+    },
+    {
+      "start": 567.54,
+      "end": 570.38,
+      "text": "and we won't talk about cats or dogs either if you don't like them."
+    },
+    {
+      "start": 571.2,
+      "end": 572.08,
+      "text": "When the mouse heard this,",
+      "para_break": true
+    },
+    {
+      "start": 572.1,
+      "end": 574.16,
+      "text": "it turned round and swam slowly back to her."
+    },
+    {
+      "start": 574.88,
+      "end": 576.04,
+      "text": "Its face was quite pale,",
+      "para_break": true
+    },
+    {
+      "start": 576.18,
+      "end": 576.7,
+      "text": "with passion,"
+    },
+    {
+      "start": 576.82,
+      "end": 577.3,
+      "text": "Alice thought,"
+    },
+    {
+      "start": 577.4,
+      "end": 579.34,
+      "text": "and it said in a low trembling voice,"
+    },
+    {
+      "start": 580.28,
+      "end": 581.24,
+      "text": "Let us get to the shore,",
+      "para_break": true
+    },
+    {
+      "start": 581.38,
+      "end": 582.55,
+      "text": "and then I'll tell you my history,"
+    },
+    {
+      "start": 582.8,
+      "end": 585.28,
+      "text": "and you'll understand why it is I hate cats and dogs."
+    },
+    {
+      "start": 586.08,
+      "end": 587.08,
+      "text": "It was high time to go,",
+      "para_break": true
+    },
+    {
+      "start": 587.22,
+      "end": 588.88,
+      "text": "for the pool was getting quite crowded with"
+    },
+    {
+      "start": 588.88,
+      "end": 591.04,
+      "text": "the birds and animals that had fallen into it."
+    },
+    {
+      "start": 591.5,
+      "end": 592.8,
+      "text": "There were a duck and a dodo,"
+    },
+    {
+      "start": 592.92,
+      "end": 594.18,
+      "text": "a lorry and an eaglet,"
+    },
+    {
+      "start": 594.24,
+      "end": 595.68,
+      "text": "and several other curious creatures."
+    },
+    {
+      "start": 596.384,
+      "end": 597.12,
+      "text": "Alice led the way,",
+      "para_break": true
+    },
+    {
+      "start": 597.24,
+      "end": 598.86,
+      "text": "and the whole party swam to the shore."
+    },
+    {
+      "start": 600.34,
+      "end": 601.04,
+      "text": "End of chapter two.",
+      "para_break": true
+    }
+  ]
+}

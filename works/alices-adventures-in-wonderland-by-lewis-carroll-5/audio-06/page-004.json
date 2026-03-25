@@ -1,0 +1,362 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-06",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_06_carroll.mp3",
+  "chapter_title": "06 - Pig and Pepper",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.729,
+  "page_num": 4,
+  "page_total": 4,
+  "page_start_sec": 740.384,
+  "page_end_sec": 858.16,
+  "segments": [
+    {
+      "start": 740.384,
+      "end": 741.22,
+      "text": "You'll see me there,",
+      "para_break": true
+    },
+    {
+      "start": 741.54,
+      "end": 742.44,
+      "text": "said the cat,"
+    },
+    {
+      "start": 742.48,
+      "end": 742.96,
+      "text": "and vanished."
+    },
+    {
+      "start": 744.384,
+      "end": 746.16,
+      "text": "Alice was not much surprised at this.",
+      "para_break": true
+    },
+    {
+      "start": 746.56,
+      "end": 748.58,
+      "text": "she was getting so used to queer things happening,"
+    },
+    {
+      "start": 748.92,
+      "end": 751.08,
+      "text": "while she was looking at the place where it had"
+    },
+    {
+      "start": 751.08,
+      "end": 751.32,
+      "text": "been,"
+    },
+    {
+      "start": 751.5,
+      "end": 752.62,
+      "text": "it suddenly appeared again."
+    },
+    {
+      "start": 754.6,
+      "end": 755.04,
+      "text": "By the by,",
+      "para_break": true
+    },
+    {
+      "start": 755.22,
+      "end": 756.86,
+      "text": "what became of the baby?"
+    },
+    {
+      "start": 757.14,
+      "end": 757.82,
+      "text": "said the cat."
+    },
+    {
+      "start": 757.98,
+      "end": 758.56,
+      "text": "I'd nearly"
+    },
+    {
+      "start": 758.7,
+      "end": 759.7,
+      "text": "forgotten to ask."
+    },
+    {
+      "start": 760.78,
+      "end": 761.74,
+      "text": "It turned into a pig,",
+      "para_break": true
+    },
+    {
+      "start": 761.96,
+      "end": 762.96,
+      "text": "Alice quietly said,"
+    },
+    {
+      "start": 763.08,
+      "end": 764.52,
+      "text": "just as if it had come back in a"
+    },
+    {
+      "start": 764.6,
+      "end": 765.06,
+      "text": "natural way."
+    },
+    {
+      "start": 766.04,
+      "end": 766.68,
+      "text": "I thought it would,",
+      "para_break": true
+    },
+    {
+      "start": 766.92,
+      "end": 767.44,
+      "text": "said the cat,"
+    },
+    {
+      "start": 767.58,
+      "end": 768.26,
+      "text": "and vanished again."
+    },
+    {
+      "start": 770.048,
+      "end": 770.92,
+      "text": "Alice waited a little,",
+      "para_break": true
+    },
+    {
+      "start": 771.04,
+      "end": 771.28,
+      "text": "half"
+    },
+    {
+      "start": 771.36,
+      "end": 772.52,
+      "text": "expecting to see it again,"
+    },
+    {
+      "start": 772.68,
+      "end": 773.58,
+      "text": "but it did not appear,"
+    },
+    {
+      "start": 774.06,
+      "end": 776.16,
+      "text": "and after a minute or two she walked on in the"
+    },
+    {
+      "start": 776.28,
+      "end": 778.44,
+      "text": "direction in which the March Hare was said to live."
+    },
+    {
+      "start": 779.392,
+      "end": 780.34,
+      "text": "I've seen hatches before,",
+      "para_break": true
+    },
+    {
+      "start": 780.64,
+      "end": 781.26,
+      "text": "she said to herself."
+    },
+    {
+      "start": 781.48,
+      "end": 783.37,
+      "text": "The March Hare will be much the most interesting,"
+    },
+    {
+      "start": 783.56,
+      "end": 785.0,
+      "text": "and perhaps as this is May,"
+    },
+    {
+      "start": 785.28,
+      "end": 786.52,
+      "text": "it won't be raving mad,"
+    },
+    {
+      "start": 786.88,
+      "end": 789.16,
+      "text": "at least not so mad as it was in March."
+    },
+    {
+      "start": 789.98,
+      "end": 790.76,
+      "text": "As she said this,",
+      "para_break": true
+    },
+    {
+      "start": 790.78,
+      "end": 791.36,
+      "text": "she looked up,"
+    },
+    {
+      "start": 791.56,
+      "end": 792.32,
+      "text": "and there was the cat"
+    },
+    {
+      "start": 792.44,
+      "end": 794.0,
+      "text": "again sitting on the branch of a tree."
+    },
+    {
+      "start": 795.26,
+      "end": 797.38,
+      "text": "Did you say pig or fig?",
+      "para_break": true
+    },
+    {
+      "start": 797.82,
+      "end": 798.62,
+      "text": "said the cat."
+    },
+    {
+      "start": 799.66,
+      "end": 800.4,
+      "text": "I said pig,",
+      "para_break": true
+    },
+    {
+      "start": 800.64,
+      "end": 801.38,
+      "text": "replied Alice,"
+    },
+    {
+      "start": 801.5,
+      "end": 804.28,
+      "text": "and I wish you wouldn't keep appearing and vanishing so suddenly."
+    },
+    {
+      "start": 804.74,
+      "end": 806.08,
+      "text": "You make one quite giddy."
+    },
+    {
+      "start": 807.24,
+      "end": 807.64,
+      "text": "All right,",
+      "para_break": true
+    },
+    {
+      "start": 807.82,
+      "end": 808.6,
+      "text": "said the cat,"
+    },
+    {
+      "start": 808.72,
+      "end": 810.64,
+      "text": "and this time it vanished quite slowly,"
+    },
+    {
+      "start": 811.0,
+      "end": 813.94,
+      "text": "beginning with the end of the tail and ending with the grin,"
+    },
+    {
+      "start": 814.08,
+      "end": 816.64,
+      "text": "which remained some time after the rest of it had gone."
+    },
+    {
+      "start": 817.6,
+      "end": 818.0,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 818.12,
+      "end": 819.82,
+      "text": "I've often seen a cat without a grin,"
+    },
+    {
+      "start": 819.98,
+      "end": 820.6,
+      "text": "thought Alice,"
+    },
+    {
+      "start": 821.06,
+      "end": 822.18,
+      "text": "but a grin without a cat,"
+    },
+    {
+      "start": 822.32,
+      "end": 825.08,
+      "text": "it's the most curious thing I ever saw in all my life."
+    },
+    {
+      "start": 825.94,
+      "end": 827.86,
+      "text": "She had not gone much farther before she",
+      "para_break": true
+    },
+    {
+      "start": 827.86,
+      "end": 829.74,
+      "text": "came in sight of the house of the March Hare."
+    },
+    {
+      "start": 830.54,
+      "end": 831.96,
+      "text": "She thought it must be the right house,",
+      "para_break": true
+    },
+    {
+      "start": 832.08,
+      "end": 833.84,
+      "text": "because the chimneys were shaped like ears,"
+    },
+    {
+      "start": 834.46,
+      "end": 835.82,
+      "text": "and the roof was thatched with fur."
+    },
+    {
+      "start": 836.06,
+      "end": 838.94,
+      "text": "It was so large a house that she did not like to go nearer"
+    },
+    {
+      "start": 839.0,
+      "end": 841.64,
+      "text": "till she had nibbled some more of the left-hand bit of mushroom,"
+    },
+    {
+      "start": 841.82,
+      "end": 843.54,
+      "text": "and raised herself to about two"
+    },
+    {
+      "start": 843.54,
+      "end": 844.0,
+      "text": "feet high."
+    },
+    {
+      "start": 844.3,
+      "end": 847.29,
+      "text": "Even then she walked up towards it rather timidly,"
+    },
+    {
+      "start": 847.3,
+      "end": 848.02,
+      "text": "saying to herself,"
+    },
+    {
+      "start": 849.12,
+      "end": 850.98,
+      "text": "\"'Suppose it should be raving mad after all.",
+      "para_break": true
+    },
+    {
+      "start": 851.44,
+      "end": 853.77,
+      "text": "I almost wish I'd gone to see the hatter instead.'\""
+    },
+    {
+      "start": 857.22,
+      "end": 858.16,
+      "text": "End of chapter 6",
+      "para_break": true
+    }
+  ]
+}

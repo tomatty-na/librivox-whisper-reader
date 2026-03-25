@@ -1,0 +1,650 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-05",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_05_carroll.mp3",
+  "chapter_title": "05 - Advice from a Caterpillar",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.747,
+  "page_num": 2,
+  "page_total": 4,
+  "page_start_sec": 244.6,
+  "page_end_sec": 487.8,
+  "segments": [
+    {
+      "start": 244.6,
+      "end": 246.34,
+      "text": "By the use of this ointment,"
+    },
+    {
+      "start": 246.42,
+      "end": 247.44,
+      "text": "one shilling the box,"
+    },
+    {
+      "start": 247.72,
+      "end": 249.32,
+      "text": "allow me to sell you a couple."
+    },
+    {
+      "start": 250.02,
+      "end": 250.7,
+      "text": "You are old,"
+    },
+    {
+      "start": 250.84,
+      "end": 251.42,
+      "text": "said the youth,"
+    },
+    {
+      "start": 251.54,
+      "end": 254.68,
+      "text": "and your jaws are too weak for anything tougher than suet."
+    },
+    {
+      "start": 255.34,
+      "end": 257.84,
+      "text": "Yet you finished the goose with the bones and the beak."
+    },
+    {
+      "start": 258.02,
+      "end": 258.32,
+      "text": "Pray,"
+    },
+    {
+      "start": 258.48,
+      "end": 260.02,
+      "text": "how did you manage to do it?"
+    },
+    {
+      "start": 260.72,
+      "end": 261.26,
+      "text": "In my youth,"
+    },
+    {
+      "start": 261.34,
+      "end": 262.1,
+      "text": "said his father,"
+    },
+    {
+      "start": 262.28,
+      "end": 263.34,
+      "text": "I took to the law,"
+    },
+    {
+      "start": 263.5,
+      "end": 265.34,
+      "text": "and argued each case with my wife."
+    },
+    {
+      "start": 266.12,
+      "end": 267.86,
+      "text": "And the muscular strength which it gave",
+      "para_break": true
+    },
+    {
+      "start": 267.86,
+      "end": 270.38,
+      "text": "to my jaw has lasted the rest of my life."
+    },
+    {
+      "start": 270.98,
+      "end": 272.08,
+      "text": "You are old,"
+    },
+    {
+      "start": 272.2,
+      "end": 272.8,
+      "text": "said the youth"
+    },
+    {
+      "start": 272.8,
+      "end": 276.0,
+      "text": "One would hardly suppose that your eye was as steady as ever"
+    },
+    {
+      "start": 276.24,
+      "end": 278.88,
+      "text": "Yet you balanced an eel on the end of your nose"
+    },
+    {
+      "start": 279.18,
+      "end": 280.8,
+      "text": "What made you so awfully clever?"
+    },
+    {
+      "start": 281.6,
+      "end": 283.32,
+      "text": "I have answered three questions,",
+      "para_break": true
+    },
+    {
+      "start": 283.54,
+      "end": 284.34,
+      "text": "and that is enough,"
+    },
+    {
+      "start": 284.56,
+      "end": 285.34,
+      "text": "said his father"
+    },
+    {
+      "start": 285.52,
+      "end": 286.86,
+      "text": "Don't give yourself airs"
+    },
+    {
+      "start": 287.44,
+      "end": 289.78,
+      "text": "Do you think I can listen all day to such stuff?"
+    },
+    {
+      "start": 290.18,
+      "end": 290.56,
+      "text": "Be off,"
+    },
+    {
+      "start": 290.66,
+      "end": 291.64,
+      "text": "or I'll kick you downstairs"
+    },
+    {
+      "start": 294.5,
+      "end": 295.78,
+      "text": "That is not said right,",
+      "para_break": true
+    },
+    {
+      "start": 296.04,
+      "end": 297.06,
+      "text": "said the caterpillar"
+    },
+    {
+      "start": 297.96,
+      "end": 298.82,
+      "text": "Not quite right,",
+      "para_break": true
+    },
+    {
+      "start": 298.88,
+      "end": 299.32,
+      "text": "I'm afraid,"
+    },
+    {
+      "start": 299.5,
+      "end": 300.56,
+      "text": "said Alice timidly."
+    },
+    {
+      "start": 300.98,
+      "end": 302.27,
+      "text": "Some of the words have got altered."
+    },
+    {
+      "start": 303.54,
+      "end": 305.98,
+      "text": "It is wrong from beginning to end,",
+      "para_break": true
+    },
+    {
+      "start": 306.3,
+      "end": 308.12,
+      "text": "said the caterpillar decidedly,"
+    },
+    {
+      "start": 308.52,
+      "end": 310.4,
+      "text": "and there was silence for some minutes."
+    },
+    {
+      "start": 311.44,
+      "end": 313.76,
+      "text": "The caterpillar was the first to speak.",
+      "para_break": true
+    },
+    {
+      "start": 314.76,
+      "end": 316.62,
+      "text": "What size do you want to be?",
+      "para_break": true
+    },
+    {
+      "start": 316.86,
+      "end": 317.52,
+      "text": "it asked."
+    },
+    {
+      "start": 318.34,
+      "end": 319.14,
+      "text": "Oh,",
+      "para_break": true
+    },
+    {
+      "start": 319.18,
+      "end": 320.92,
+      "text": "I'm not particular as to size,"
+    },
+    {
+      "start": 321.24,
+      "end": 322.34,
+      "text": "Alice hastily replied."
+    },
+    {
+      "start": 323.2,
+      "end": 325.58,
+      "text": "Only one doesn't like changing so often,",
+      "para_break": true
+    },
+    {
+      "start": 325.66,
+      "end": 325.94,
+      "text": "you know."
+    },
+    {
+      "start": 327.36,
+      "end": 328.3,
+      "text": "I don't know,",
+      "para_break": true
+    },
+    {
+      "start": 328.62,
+      "end": 329.7,
+      "text": "said the caterpillar."
+    },
+    {
+      "start": 332.1,
+      "end": 332.88,
+      "text": "Alice said nothing.",
+      "para_break": true
+    },
+    {
+      "start": 333.42,
+      "end": 336.5,
+      "text": "She had never been so much contradicted in all her life before,"
+    },
+    {
+      "start": 336.66,
+      "end": 338.64,
+      "text": "and she felt that she was losing her temper."
+    },
+    {
+      "start": 341.3,
+      "end": 343.44,
+      "text": "Are you content now,",
+      "para_break": true
+    },
+    {
+      "start": 343.86,
+      "end": 344.82,
+      "text": "said the caterpillar."
+    },
+    {
+      "start": 345.89,
+      "end": 346.44,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 346.5,
+      "end": 348.14,
+      "text": "I should like to be a little larger,"
+    },
+    {
+      "start": 348.2,
+      "end": 348.42,
+      "text": "sir,"
+    },
+    {
+      "start": 348.5,
+      "end": 349.3,
+      "text": "if you wouldn't mind,"
+    },
+    {
+      "start": 349.5,
+      "end": 350.02,
+      "text": "said Alice."
+    },
+    {
+      "start": 350.44,
+      "end": 352.6,
+      "text": "Three inches is such a wretched height to be."
+    },
+    {
+      "start": 353.68,
+      "end": 355.92,
+      "text": "It is a very good height indeed.",
+      "para_break": true
+    },
+    {
+      "start": 357.3,
+      "end": 358.78,
+      "text": "said the caterpillar angrily,",
+      "para_break": true
+    },
+    {
+      "start": 358.78,
+      "end": 360.94,
+      "text": "rearing itself upright as it spoke."
+    },
+    {
+      "start": 361.38,
+      "end": 362.92,
+      "text": "It was exactly three inches"
+    },
+    {
+      "start": 363.06,
+      "end": 363.18,
+      "text": "high."
+    },
+    {
+      "start": 364.64,
+      "end": 365.98,
+      "text": "But I'm not used to it,",
+      "para_break": true
+    },
+    {
+      "start": 366.0,
+      "end": 367.9,
+      "text": "pleaded poor Alice in a piteous tone,"
+    },
+    {
+      "start": 368.8,
+      "end": 369.72,
+      "text": "and she thought to herself,",
+      "para_break": true
+    },
+    {
+      "start": 370.12,
+      "end": 372.94,
+      "text": "I wish the creatures wouldn't be so easily offended."
+    },
+    {
+      "start": 374.432,
+      "end": 376.08,
+      "text": "You'll get used to it in time,",
+      "para_break": true
+    },
+    {
+      "start": 376.36,
+      "end": 377.38,
+      "text": "said the caterpillar,"
+    },
+    {
+      "start": 377.52,
+      "end": 379.34,
+      "text": "and it put its hookah into its"
+    },
+    {
+      "start": 379.42,
+      "end": 380.98,
+      "text": "mouth and began smoking again."
+    },
+    {
+      "start": 382.12,
+      "end": 385.52,
+      "text": "This time Alice waited patiently until it chose to speak again.",
+      "para_break": true
+    },
+    {
+      "start": 385.99,
+      "end": 389.02,
+      "text": "In a minute or two the caterpillar took the hookah out"
+    },
+    {
+      "start": 389.02,
+      "end": 391.78,
+      "text": "of its mouth and yawned once or twice and shook itself."
+    },
+    {
+      "start": 392.8,
+      "end": 395.84,
+      "text": "Then it got down off the mushroom and crawled away into the grass,",
+      "para_break": true
+    },
+    {
+      "start": 396.1,
+      "end": 397.68,
+      "text": "merely remarking as it went,"
+    },
+    {
+      "start": 398.5,
+      "end": 400.58,
+      "text": "One side will make you grow taller,",
+      "para_break": true
+    },
+    {
+      "start": 400.78,
+      "end": 403.86,
+      "text": "and the other side will make you grow shorter."
+    },
+    {
+      "start": 405.46,
+      "end": 406.14,
+      "text": "One side of what?",
+      "para_break": true
+    },
+    {
+      "start": 407.16,
+      "end": 408.04,
+      "text": "The other side of what,",
+      "para_break": true
+    },
+    {
+      "start": 408.12,
+      "end": 408.98,
+      "text": "thought Alice to herself."
+    },
+    {
+      "start": 410.144,
+      "end": 411.02,
+      "text": "Of the mushroom,",
+      "para_break": true
+    },
+    {
+      "start": 411.54,
+      "end": 412.7,
+      "text": "said the caterpillar,"
+    },
+    {
+      "start": 412.8,
+      "end": 414.52,
+      "text": "just as if she had asked it aloud."
+    },
+    {
+      "start": 414.96,
+      "end": 417.26,
+      "text": "and in another moment it was out of sight."
+    },
+    {
+      "start": 419.232,
+      "end": 421.7,
+      "text": "Alice remained looking thoughtfully at the mushroom for",
+      "para_break": true
+    },
+    {
+      "start": 421.7,
+      "end": 422.06,
+      "text": "a minute,"
+    },
+    {
+      "start": 422.2,
+      "end": 424.84,
+      "text": "trying to make out which were the two sides of it,"
+    },
+    {
+      "start": 424.9,
+      "end": 426.48,
+      "text": "and as it was perfectly round,"
+    },
+    {
+      "start": 426.8,
+      "end": 428.78,
+      "text": "she found this a very difficult question."
+    },
+    {
+      "start": 429.18,
+      "end": 429.88,
+      "text": "However,"
+    },
+    {
+      "start": 430.08,
+      "end": 432.92,
+      "text": "at last she stretched her arms round it as far as"
+    },
+    {
+      "start": 432.92,
+      "end": 433.46,
+      "text": "they would go,"
+    },
+    {
+      "start": 433.6,
+      "end": 436.24,
+      "text": "and broke off a bit of the edge with each hand."
+    },
+    {
+      "start": 437.48,
+      "end": 438.4,
+      "text": "And now which is which?",
+      "para_break": true
+    },
+    {
+      "start": 438.6,
+      "end": 439.02,
+      "text": "she said"
+    },
+    {
+      "start": 439.14,
+      "end": 439.42,
+      "text": "to herself,"
+    },
+    {
+      "start": 439.94,
+      "end": 442.94,
+      "text": "and nibbled a little of the right-hand bit to try the effect."
+    },
+    {
+      "start": 443.78,
+      "end": 444.8,
+      "text": "The next moment she felt",
+      "para_break": true
+    },
+    {
+      "start": 444.8,
+      "end": 446.5,
+      "text": "a violent blow underneath her chin."
+    },
+    {
+      "start": 446.68,
+      "end": 447.98,
+      "text": "It had struck her foot."
+    },
+    {
+      "start": 449.3,
+      "end": 450.96,
+      "text": "She was a good deal frightened by this",
+      "para_break": true
+    },
+    {
+      "start": 451.04,
+      "end": 451.94,
+      "text": "very sudden change,"
+    },
+    {
+      "start": 452.32,
+      "end": 454.6,
+      "text": "but she felt that there was no time to be lost,"
+    },
+    {
+      "start": 454.82,
+      "end": 456.54,
+      "text": "and as she was shrinking rapidly,"
+    },
+    {
+      "start": 457.08,
+      "end": 459.8,
+      "text": "so she set to work at once to eat some of the other bit."
+    },
+    {
+      "start": 460.5,
+      "end": 462.22,
+      "text": "Her chin was pressed so closely against"
+    },
+    {
+      "start": 462.38,
+      "end": 464.84,
+      "text": "her foot that there was hardly room to open her mouth,"
+    },
+    {
+      "start": 464.98,
+      "end": 467.02,
+      "text": "but she did it at last and managed to"
+    },
+    {
+      "start": 467.16,
+      "end": 468.82,
+      "text": "swallow a morsel of the left-hand bit."
+    },
+    {
+      "start": 469.64,
+      "end": 470.48,
+      "text": "Come,",
+      "para_break": true
+    },
+    {
+      "start": 470.68,
+      "end": 471.74,
+      "text": "my head's free at last,"
+    },
+    {
+      "start": 471.96,
+      "end": 473.08,
+      "text": "said Alice in a tone of"
+    },
+    {
+      "start": 473.16,
+      "end": 473.32,
+      "text": "delight,"
+    },
+    {
+      "start": 473.52,
+      "end": 475.88,
+      "text": "which changed into alarm in another moment,"
+    },
+    {
+      "start": 476.06,
+      "end": 477.86,
+      "text": "when she found that her shoulders were"
+    },
+    {
+      "start": 477.96,
+      "end": 478.68,
+      "text": "nowhere to be found."
+    },
+    {
+      "start": 479.38,
+      "end": 480.18,
+      "text": "All she could see,"
+    },
+    {
+      "start": 480.3,
+      "end": 481.24,
+      "text": "when she looked down,"
+    },
+    {
+      "start": 481.4,
+      "end": 483.06,
+      "text": "was an immense length of neck,"
+    },
+    {
+      "start": 483.5,
+      "end": 485.4,
+      "text": "which seemed to rise like a stalk out of a"
+    },
+    {
+      "start": 485.4,
+      "end": 487.8,
+      "text": "sea of green leaves that lay far below her."
+    }
+  ]
+}

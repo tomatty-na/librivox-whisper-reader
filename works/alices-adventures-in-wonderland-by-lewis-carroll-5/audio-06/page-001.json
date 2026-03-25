@@ -1,0 +1,653 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-06",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_06_carroll.mp3",
+  "chapter_title": "06 - Pig and Pepper",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.729,
+  "page_num": 1,
+  "page_total": 4,
+  "page_start_sec": 8.96,
+  "page_end_sec": 252.74,
+  "segments": [
+    {
+      "start": 8.96,
+      "end": 10.04,
+      "text": "CHAPTER VI."
+    },
+    {
+      "start": 10.04,
+      "end": 10.5,
+      "text": "FOR"
+    },
+    {
+      "start": 11.584,
+      "end": 13.46,
+      "text": "A MINUTE OR TWO SHE STOOD LOOKING AT",
+      "para_break": true
+    },
+    {
+      "start": 13.46,
+      "end": 15.5,
+      "text": "THE HOUSE AND WONDERING WHAT TO DO NEXT,"
+    },
+    {
+      "start": 15.84,
+      "end": 18.28,
+      "text": "WHEN SUDDENLY A FOOTMAN IN LIVERY CAME RUNNING OUT"
+    },
+    {
+      "start": 18.28,
+      "end": 18.88,
+      "text": "OF THE WOOD."
+    },
+    {
+      "start": 18.92,
+      "end": 20.94,
+      "text": "SHE CONSIDERED HIM TO BE A FOOTMAN"
+    },
+    {
+      "start": 21.08,
+      "end": 22.44,
+      "text": "BECAUSE HE WAS IN LIVERY,"
+    },
+    {
+      "start": 22.64,
+      "end": 26.3,
+      "text": "OTHERWISE JUDGING BY HIS FACE ONLY SHE WOULD HAVE CALLED HIM A FISH,"
+    },
+    {
+      "start": 27.296,
+      "end": 29.42,
+      "text": "and rapped loudly at the door with his knuckles.",
+      "para_break": true
+    },
+    {
+      "start": 30.28,
+      "end": 32.78,
+      "text": "It was opened by another footman in livery with",
+      "para_break": true
+    },
+    {
+      "start": 32.9,
+      "end": 35.18,
+      "text": "a round face and large eyes like a frog,"
+    },
+    {
+      "start": 35.56,
+      "end": 36.4,
+      "text": "and both footmen,"
+    },
+    {
+      "start": 36.54,
+      "end": 37.08,
+      "text": "Alice noticed,"
+    },
+    {
+      "start": 37.24,
+      "end": 38.02,
+      "text": "had powdered hair"
+    },
+    {
+      "start": 38.28,
+      "end": 39.68,
+      "text": "that curled all over their heads."
+    },
+    {
+      "start": 40.76,
+      "end": 42.94,
+      "text": "She felt very curious to know what it was all about,",
+      "para_break": true
+    },
+    {
+      "start": 43.16,
+      "end": 45.24,
+      "text": "and crept a little way out of the wood to listen."
+    },
+    {
+      "start": 46.56,
+      "end": 48.98,
+      "text": "The fish-footman began by producing from under",
+      "para_break": true
+    },
+    {
+      "start": 48.98,
+      "end": 50.46,
+      "text": "his arm a great letter,"
+    },
+    {
+      "start": 50.6,
+      "end": 51.8,
+      "text": "nearly as large as himself,"
+    },
+    {
+      "start": 52.04,
+      "end": 54.4,
+      "text": "and this he handed over to the other,"
+    },
+    {
+      "start": 54.62,
+      "end": 55.88,
+      "text": "saying in a solemn tone,"
+    },
+    {
+      "start": 56.38,
+      "end": 57.3,
+      "text": "For the Duchess,"
+    },
+    {
+      "start": 57.34,
+      "end": 59.98,
+      "text": "an invitation from the Queen to play croquet."
+    },
+    {
+      "start": 60.9,
+      "end": 64.06,
+      "text": "The frog-foot men repeated in the same solemn tone,",
+      "para_break": true
+    },
+    {
+      "start": 64.28,
+      "end": 66.58,
+      "text": "only changing the order of the words a little,"
+    },
+    {
+      "start": 67.63,
+      "end": 68.78,
+      "text": "From the Queen,",
+      "para_break": true
+    },
+    {
+      "start": 69.06,
+      "end": 71.86,
+      "text": "an invitation for the Duchess to play croquet."
+    },
+    {
+      "start": 73.8,
+      "end": 74.92,
+      "text": "Then they both bowed low,",
+      "para_break": true
+    },
+    {
+      "start": 75.14,
+      "end": 76.78,
+      "text": "and their curls got entangled together."
+    },
+    {
+      "start": 78.176,
+      "end": 80.44,
+      "text": "Alice laughed so much at this that she had to run",
+      "para_break": true
+    },
+    {
+      "start": 80.44,
+      "end": 82.86,
+      "text": "back into the wood for fear of their hearing her,"
+    },
+    {
+      "start": 82.99,
+      "end": 85.7,
+      "text": "and when she next peeped out the fish footman"
+    },
+    {
+      "start": 85.7,
+      "end": 87.9,
+      "text": "was gone and the other was sitting on the ground"
+    },
+    {
+      "start": 87.9,
+      "end": 90.58,
+      "text": "near the door staring stupidly up into the sky."
+    },
+    {
+      "start": 92.96,
+      "end": 95.1,
+      "text": "Alice went timidly up to the door and knocked.",
+      "para_break": true
+    },
+    {
+      "start": 96.032,
+      "end": 99.74,
+      "text": "There's no use in knocking said the footman and that for two reasons.",
+      "para_break": true
+    },
+    {
+      "start": 100.7,
+      "end": 102.2,
+      "text": "First because I'm on the",
+      "para_break": true
+    },
+    {
+      "start": 102.2,
+      "end": 103.74,
+      "text": "same side of the door as you are."
+    },
+    {
+      "start": 103.9,
+      "end": 106.82,
+      "text": "Secondly because they're making such a noise inside"
+    },
+    {
+      "start": 107.18,
+      "end": 108.78,
+      "text": "no one could possibly hear you."
+    },
+    {
+      "start": 109.92,
+      "end": 112.76,
+      "text": "And certainly there was a most extraordinary noise going on",
+      "para_break": true
+    },
+    {
+      "start": 112.84,
+      "end": 113.0,
+      "text": "within,"
+    },
+    {
+      "start": 113.66,
+      "end": 115.48,
+      "text": "a constant howling and sneezing,"
+    },
+    {
+      "start": 115.52,
+      "end": 117.38,
+      "text": "and every now and then a great crash,"
+    },
+    {
+      "start": 117.66,
+      "end": 118.76,
+      "text": "as if a dish or kettle"
+    },
+    {
+      "start": 118.76,
+      "end": 119.84,
+      "text": "had been broken to pieces."
+    },
+    {
+      "start": 121.376,
+      "end": 121.8,
+      "text": "Please then,",
+      "para_break": true
+    },
+    {
+      "start": 121.98,
+      "end": 122.38,
+      "text": "said Alice,"
+    },
+    {
+      "start": 122.56,
+      "end": 123.52,
+      "text": "how am I to get in?"
+    },
+    {
+      "start": 125.02,
+      "end": 126.36,
+      "text": "There might be some sense in",
+      "para_break": true
+    },
+    {
+      "start": 126.36,
+      "end": 126.94,
+      "text": "your knocking,"
+    },
+    {
+      "start": 127.1,
+      "end": 129.12,
+      "text": "the footman went on without attending to her,"
+    },
+    {
+      "start": 129.66,
+      "end": 131.18,
+      "text": "if we have the door between us."
+    },
+    {
+      "start": 131.38,
+      "end": 132.16,
+      "text": "For instance,"
+    },
+    {
+      "start": 132.4,
+      "end": 133.24,
+      "text": "if you were inside,"
+    },
+    {
+      "start": 133.56,
+      "end": 134.1,
+      "text": "you might knock,"
+    },
+    {
+      "start": 134.28,
+      "end": 135.6,
+      "text": "and I could let you out,"
+    },
+    {
+      "start": 135.68,
+      "end": 136.0,
+      "text": "you know."
+    },
+    {
+      "start": 137.02,
+      "end": 139.58,
+      "text": "He was looking up into the sky all the time he was speaking,",
+      "para_break": true
+    },
+    {
+      "start": 139.82,
+      "end": 141.78,
+      "text": "and this Alice thought decidedly"
+    },
+    {
+      "start": 141.96,
+      "end": 142.4,
+      "text": "uncivil."
+    },
+    {
+      "start": 143.328,
+      "end": 144.6,
+      "text": "But perhaps he can't help it,",
+      "para_break": true
+    },
+    {
+      "start": 144.66,
+      "end": 145.34,
+      "text": "she said to herself."
+    },
+    {
+      "start": 145.98,
+      "end": 148.42,
+      "text": "His eyes are so very nearly at the top of his head."
+    },
+    {
+      "start": 149.16,
+      "end": 149.92,
+      "text": "But at any rate,",
+      "para_break": true
+    },
+    {
+      "start": 149.98,
+      "end": 151.14,
+      "text": "he might answer questions."
+    },
+    {
+      "start": 152.08,
+      "end": 153.0,
+      "text": "How am I to get in?",
+      "para_break": true
+    },
+    {
+      "start": 153.18,
+      "end": 154.02,
+      "text": "she repeated aloud."
+    },
+    {
+      "start": 155.28,
+      "end": 156.1,
+      "text": "I shall sit here,",
+      "para_break": true
+    },
+    {
+      "start": 156.28,
+      "end": 157.3,
+      "text": "the footman remarked,"
+    },
+    {
+      "start": 157.3,
+      "end": 158.38,
+      "text": "till tomorrow."
+    },
+    {
+      "start": 158.96,
+      "end": 162.12,
+      "text": "At this moment the door of the house opened and a large"
+    },
+    {
+      "start": 162.12,
+      "end": 164.6,
+      "text": "plate came skimming out straight at the footman's head."
+    },
+    {
+      "start": 165.1,
+      "end": 167.28,
+      "text": "It just grazed his nose and broke to"
+    },
+    {
+      "start": 167.28,
+      "end": 169.24,
+      "text": "pieces against one of the trees behind him."
+    },
+    {
+      "start": 170.1,
+      "end": 171.0,
+      "text": "All next day,",
+      "para_break": true
+    },
+    {
+      "start": 171.16,
+      "end": 171.58,
+      "text": "maybe,"
+    },
+    {
+      "start": 171.78,
+      "end": 174.26,
+      "text": "the footman continued in the same tone,"
+    },
+    {
+      "start": 174.34,
+      "end": 176.04,
+      "text": "exactly as if nothing had happened."
+    },
+    {
+      "start": 177.216,
+      "end": 178.44,
+      "text": "How am I to get in?",
+      "para_break": true
+    },
+    {
+      "start": 178.58,
+      "end": 180.46,
+      "text": "asked Alice again in a louder tone."
+    },
+    {
+      "start": 181.78,
+      "end": 183.42,
+      "text": "Are you to get in at all?",
+      "para_break": true
+    },
+    {
+      "start": 183.58,
+      "end": 184.32,
+      "text": "said the footman."
+    },
+    {
+      "start": 184.42,
+      "end": 185.78,
+      "text": "That's the first question,"
+    },
+    {
+      "start": 185.9,
+      "end": 186.2,
+      "text": "you know."
+    },
+    {
+      "start": 187.17,
+      "end": 188.32,
+      "text": "It was,",
+      "para_break": true
+    },
+    {
+      "start": 188.46,
+      "end": 188.86,
+      "text": "no doubt,"
+    },
+    {
+      "start": 189.0,
+      "end": 191.06,
+      "text": "only Alice did not like to be told so."
+    },
+    {
+      "start": 191.936,
+      "end": 192.88,
+      "text": "It's really dreadful,",
+      "para_break": true
+    },
+    {
+      "start": 192.98,
+      "end": 193.7,
+      "text": "she muttered to herself,"
+    },
+    {
+      "start": 193.94,
+      "end": 195.32,
+      "text": "the way all the creatures argue."
+    },
+    {
+      "start": 195.72,
+      "end": 196.98,
+      "text": "It's enough to drive one crazy."
+    },
+    {
+      "start": 198.4,
+      "end": 200.18,
+      "text": "The footman seemed to consider this a good",
+      "para_break": true
+    },
+    {
+      "start": 200.18,
+      "end": 202.84,
+      "text": "opportunity for repeating his remark with variations."
+    },
+    {
+      "start": 203.56,
+      "end": 204.74,
+      "text": "I shall sit here,"
+    },
+    {
+      "start": 205.0,
+      "end": 205.44,
+      "text": "he said,"
+    },
+    {
+      "start": 205.56,
+      "end": 207.84,
+      "text": "on and off for days and days."
+    },
+    {
+      "start": 209.32,
+      "end": 210.24,
+      "text": "But what am I to do,",
+      "para_break": true
+    },
+    {
+      "start": 210.4,
+      "end": 210.92,
+      "text": "said Alice."
+    },
+    {
+      "start": 212.544,
+      "end": 213.52,
+      "text": "Anything you like,",
+      "para_break": true
+    },
+    {
+      "start": 213.92,
+      "end": 214.86,
+      "text": "said the footman,"
+    },
+    {
+      "start": 214.98,
+      "end": 215.82,
+      "text": "and began whistling."
+    },
+    {
+      "start": 216.58,
+      "end": 216.68,
+      "text": "\"'Oh,",
+      "para_break": true
+    },
+    {
+      "start": 217.3,
+      "end": 220.0,
+      "text": "there's no use in talking to him,' said Alice desperately."
+    },
+    {
+      "start": 220.18,
+      "end": 221.62,
+      "text": "\"'He's perfectly idiotic.'"
+    },
+    {
+      "start": 221.82,
+      "end": 223.58,
+      "text": "And she opened the door and went in."
+    },
+    {
+      "start": 224.48,
+      "end": 226.28,
+      "text": "The door led right into a large kitchen,",
+      "para_break": true
+    },
+    {
+      "start": 226.4,
+      "end": 228.68,
+      "text": "which was full of smoke from one end to the other."
+    },
+    {
+      "start": 229.18,
+      "end": 231.92,
+      "text": "The Duchess was sitting on a three-legged stool in the middle,"
+    },
+    {
+      "start": 231.96,
+      "end": 232.7,
+      "text": "nursing a baby."
+    },
+    {
+      "start": 233.04,
+      "end": 234.7,
+      "text": "The cook was leaning over the fire,"
+    },
+    {
+      "start": 234.84,
+      "end": 237.48,
+      "text": "stirring a large cauldron which seemed to be full of soup."
+    },
+    {
+      "start": 239.12,
+      "end": 240.24,
+      "text": "\"'There's certainly too much pepper",
+      "para_break": true
+    },
+    {
+      "start": 240.24,
+      "end": 241.82,
+      "text": "in that soup,' Alice said to herself,"
+    },
+    {
+      "start": 242.02,
+      "end": 243.39,
+      "text": "as well as she could for sneezing."
+    },
+    {
+      "start": 244.17,
+      "end": 246.58,
+      "text": "There was certainly too much of it in the air.",
+      "para_break": true
+    },
+    {
+      "start": 246.74,
+      "end": 248.52,
+      "text": "Even the duchess sneezed occasionally,"
+    },
+    {
+      "start": 249.06,
+      "end": 251.6,
+      "text": "and the baby was sneezing and howling alternately,"
+    },
+    {
+      "start": 251.66,
+      "end": 252.74,
+      "text": "without a moment's pause."
+    }
+  ]
+}

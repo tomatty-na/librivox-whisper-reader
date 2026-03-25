@@ -1,0 +1,643 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-12",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_12_carroll.mp3",
+  "chapter_title": "12 - Alice's Evidence",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.696,
+  "page_num": 3,
+  "page_total": 3,
+  "page_start_sec": 486.9,
+  "page_end_sec": 710.96,
+  "segments": [
+    {
+      "start": 486.9,
+      "end": 488.64,
+      "text": "Let the jury consider their verdict,",
+      "para_break": true
+    },
+    {
+      "start": 489.5,
+      "end": 491.74,
+      "text": "the king said for about the twentieth time that day.",
+      "para_break": true
+    },
+    {
+      "start": 492.78,
+      "end": 493.34,
+      "text": "No,",
+      "para_break": true
+    },
+    {
+      "start": 493.52,
+      "end": 493.84,
+      "text": "no,"
+    },
+    {
+      "start": 494.0,
+      "end": 494.78,
+      "text": "said the queen."
+    },
+    {
+      "start": 494.96,
+      "end": 495.94,
+      "text": "Sentence first,"
+    },
+    {
+      "start": 496.18,
+      "end": 497.14,
+      "text": "verdict afterwards."
+    },
+    {
+      "start": 498.72,
+      "end": 499.62,
+      "text": "Stuff and nonsense,",
+      "para_break": true
+    },
+    {
+      "start": 499.96,
+      "end": 500.9,
+      "text": "said Alice loudly."
+    },
+    {
+      "start": 501.1,
+      "end": 503.18,
+      "text": "The idea of having the sentence first."
+    },
+    {
+      "start": 504.5,
+      "end": 505.26,
+      "text": "Hold your tongue,",
+      "para_break": true
+    },
+    {
+      "start": 505.62,
+      "end": 506.5,
+      "text": "said the queen,"
+    },
+    {
+      "start": 506.58,
+      "end": 507.12,
+      "text": "turning purple."
+    },
+    {
+      "start": 507.9,
+      "end": 508.54,
+      "text": "I won't,",
+      "para_break": true
+    },
+    {
+      "start": 508.56,
+      "end": 509.14,
+      "text": "said Alice."
+    },
+    {
+      "start": 510.496,
+      "end": 511.82,
+      "text": "Off with her head,",
+      "para_break": true
+    },
+    {
+      "start": 512.32,
+      "end": 514.46,
+      "text": "the queen shouted at the top of her voice."
+    },
+    {
+      "start": 514.66,
+      "end": 515.8,
+      "text": "Nobody moved."
+    },
+    {
+      "start": 517.22,
+      "end": 518.14,
+      "text": "Who cares for you,",
+      "para_break": true
+    },
+    {
+      "start": 518.38,
+      "end": 518.92,
+      "text": "said Alice,"
+    },
+    {
+      "start": 519.08,
+      "end": 521.38,
+      "text": "as she had grown to her full size by this time."
+    },
+    {
+      "start": 522.14,
+      "end": 523.68,
+      "text": "You're nothing but a pack of cards.",
+      "para_break": true
+    },
+    {
+      "start": 524.96,
+      "end": 525.36,
+      "text": "At this,",
+      "para_break": true
+    },
+    {
+      "start": 525.66,
+      "end": 527.26,
+      "text": "the whole pack rose up into the air,"
+    },
+    {
+      "start": 527.54,
+      "end": 528.9,
+      "text": "and came flying down upon her."
+    },
+    {
+      "start": 529.52,
+      "end": 530.5,
+      "text": "She gave a little scream,"
+    },
+    {
+      "start": 530.7,
+      "end": 532.32,
+      "text": "half of fright and half of anger,"
+    },
+    {
+      "start": 532.44,
+      "end": 533.88,
+      "text": "and tried to beat them off,"
+    },
+    {
+      "start": 534.06,
+      "end": 537.16,
+      "text": "and found herself lying on the bank with her head in the lap of"
+    },
+    {
+      "start": 537.16,
+      "end": 537.6,
+      "text": "her sister,"
+    },
+    {
+      "start": 537.76,
+      "end": 539.54,
+      "text": "who was gently brushing away some dead"
+    },
+    {
+      "start": 539.54,
+      "end": 541.38,
+      "text": "leaves that had fluttered down from the"
+    },
+    {
+      "start": 541.38,
+      "end": 542.34,
+      "text": "trees upon her face."
+    },
+    {
+      "start": 543.68,
+      "end": 544.06,
+      "text": "Wake up,",
+      "para_break": true
+    },
+    {
+      "start": 544.06,
+      "end": 544.5,
+      "text": "Alice dear,"
+    },
+    {
+      "start": 544.7,
+      "end": 545.4,
+      "text": "said her sister."
+    },
+    {
+      "start": 545.56,
+      "end": 546.16,
+      "text": "Why,"
+    },
+    {
+      "start": 546.18,
+      "end": 547.5,
+      "text": "what a long sleep you've had."
+    },
+    {
+      "start": 548.49,
+      "end": 549.04,
+      "text": "Oh,",
+      "para_break": true
+    },
+    {
+      "start": 549.18,
+      "end": 550.74,
+      "text": "I've had such a curious dream,"
+    },
+    {
+      "start": 550.98,
+      "end": 551.48,
+      "text": "said Alice,"
+    },
+    {
+      "start": 551.64,
+      "end": 552.8,
+      "text": "and she told her sister,"
+    },
+    {
+      "start": 552.94,
+      "end": 553.76,
+      "text": "as well as she could"
+    },
+    {
+      "start": 553.94,
+      "end": 554.4,
+      "text": "remember them,"
+    },
+    {
+      "start": 554.46,
+      "end": 556.66,
+      "text": "all these strange adventures of hers"
+    },
+    {
+      "start": 556.66,
+      "end": 558.26,
+      "text": "that you have just been reading about."
+    },
+    {
+      "start": 558.42,
+      "end": 559.68,
+      "text": "And when she had finished,"
+    },
+    {
+      "start": 559.88,
+      "end": 561.46,
+      "text": "her sister kissed her and said,"
+    },
+    {
+      "start": 561.92,
+      "end": 563.22,
+      "text": "It was a curious dream,"
+    },
+    {
+      "start": 563.28,
+      "end": 563.46,
+      "text": "dear,"
+    },
+    {
+      "start": 563.62,
+      "end": 563.78,
+      "text": "certainly,"
+    },
+    {
+      "start": 564.56,
+      "end": 565.68,
+      "text": "but now run into your tea,",
+      "para_break": true
+    },
+    {
+      "start": 565.82,
+      "end": 566.48,
+      "text": "it's getting late."
+    },
+    {
+      "start": 567.6,
+      "end": 569.04,
+      "text": "So Alice got up and ran off,",
+      "para_break": true
+    },
+    {
+      "start": 569.44,
+      "end": 570.28,
+      "text": "thinking while she ran,"
+    },
+    {
+      "start": 570.4,
+      "end": 571.46,
+      "text": "as well as she might,"
+    },
+    {
+      "start": 571.5,
+      "end": 572.98,
+      "text": "what a wonderful dream it had been."
+    },
+    {
+      "start": 574.2,
+      "end": 576.86,
+      "text": "But her sister sat still just as she had left her,",
+      "para_break": true
+    },
+    {
+      "start": 576.96,
+      "end": 577.92,
+      "text": "leaning her head,"
+    },
+    {
+      "start": 578.08,
+      "end": 579.22,
+      "text": "watching the setting sun,"
+    },
+    {
+      "start": 579.5,
+      "end": 582.18,
+      "text": "and thinking of little Alice and all her wonderful adventures,"
+    },
+    {
+      "start": 582.6,
+      "end": 584.92,
+      "text": "till she too began dreaming after a"
+    },
+    {
+      "start": 584.96,
+      "end": 585.18,
+      "text": "fashion,"
+    },
+    {
+      "start": 585.32,
+      "end": 586.34,
+      "text": "and this was her dream."
+    },
+    {
+      "start": 588.06,
+      "end": 589.9,
+      "text": "First she dreamed of little Alice herself,",
+      "para_break": true
+    },
+    {
+      "start": 590.14,
+      "end": 591.34,
+      "text": "and once again the tiny"
+    },
+    {
+      "start": 591.48,
+      "end": 593.02,
+      "text": "hands were clasped upon her knee,"
+    },
+    {
+      "start": 593.14,
+      "end": 595.76,
+      "text": "and the bright eager eyes were looking up into hers."
+    },
+    {
+      "start": 596.52,
+      "end": 596.82,
+      "text": "She could",
+      "para_break": true
+    },
+    {
+      "start": 596.92,
+      "end": 598.36,
+      "text": "hear the very tones of her voice,"
+    },
+    {
+      "start": 598.48,
+      "end": 601.4,
+      "text": "and see that queer little toss of her head to keep back the"
+    },
+    {
+      "start": 601.44,
+      "end": 603.78,
+      "text": "wandering hair that would always get into her eyes,"
+    },
+    {
+      "start": 603.92,
+      "end": 605.5,
+      "text": "and still as she listened,"
+    },
+    {
+      "start": 605.66,
+      "end": 606.5,
+      "text": "or seemed to listen,"
+    },
+    {
+      "start": 606.64,
+      "end": 609.46,
+      "text": "the whole place around her became alive with the"
+    },
+    {
+      "start": 609.46,
+      "end": 611.44,
+      "text": "strange creatures of her little sister's dream."
+    },
+    {
+      "start": 612.56,
+      "end": 615.96,
+      "text": "The long grass rustled at her feet as the white rabbit hurried by.",
+      "para_break": true
+    },
+    {
+      "start": 616.52,
+      "end": 619.18,
+      "text": "The frightened mouse splashed his way through the neighboring pool."
+    },
+    {
+      "start": 619.54,
+      "end": 621.8,
+      "text": "She could hear the rattle of the teacups as the March"
+    },
+    {
+      "start": 621.8,
+      "end": 624.24,
+      "text": "Hare and his friends shared their never-ending meal,"
+    },
+    {
+      "start": 624.896,
+      "end": 627.12,
+      "text": "and the shrill voice of the queen ordering"
+    },
+    {
+      "start": 627.12,
+      "end": 629.36,
+      "text": "off her unfortunate guests to execution."
+    },
+    {
+      "start": 630.272,
+      "end": 632.86,
+      "text": "Once more the pig baby was sneezing on the duchess's knee,",
+      "para_break": true
+    },
+    {
+      "start": 632.96,
+      "end": 635.06,
+      "text": "while plates and dishes crashed around it."
+    },
+    {
+      "start": 635.28,
+      "end": 637.14,
+      "text": "Once more the shriek of the griffin,"
+    },
+    {
+      "start": 637.26,
+      "end": 639.22,
+      "text": "the squeaking of the lizard's slate-pencil,"
+    },
+    {
+      "start": 639.32,
+      "end": 641.5,
+      "text": "and the choking of the suppressed guinea-pigs,"
+    },
+    {
+      "start": 641.58,
+      "end": 642.58,
+      "text": "filled the air,"
+    },
+    {
+      "start": 642.72,
+      "end": 646.1,
+      "text": "mixed up with the distant sobs of the miserable mock-turtle."
+    },
+    {
+      "start": 646.98,
+      "end": 648.68,
+      "text": "So she sat on with closed eyes,",
+      "para_break": true
+    },
+    {
+      "start": 648.86,
+      "end": 650.98,
+      "text": "and half believed herself in Wonderland,"
+    },
+    {
+      "start": 651.6,
+      "end": 653.66,
+      "text": "though she knew she had but to open them again,"
+    },
+    {
+      "start": 653.82,
+      "end": 655.64,
+      "text": "and all would change to dull reality."
+    },
+    {
+      "start": 656.26,
+      "end": 658.22,
+      "text": "The grass would be only rustling in the wind,"
+    },
+    {
+      "start": 658.32,
+      "end": 660.62,
+      "text": "and the pool rippling to the waves of the reeds."
+    },
+    {
+      "start": 661.22,
+      "end": 664.12,
+      "text": "The rattling teacups would change to the tinkling sheep-bells,"
+    },
+    {
+      "start": 664.26,
+      "end": 666.9,
+      "text": "and the queen's shrill cries to the voice of the shepherd-boy."
+    },
+    {
+      "start": 667.68,
+      "end": 668.7,
+      "text": "And the sneeze of the baby,",
+      "para_break": true
+    },
+    {
+      "start": 669.02,
+      "end": 669.91,
+      "text": "the shriek of the griffin,"
+    },
+    {
+      "start": 670.04,
+      "end": 671.36,
+      "text": "and all the other queer noises"
+    },
+    {
+      "start": 671.96,
+      "end": 672.44,
+      "text": "would change,"
+    },
+    {
+      "start": 672.6,
+      "end": 672.98,
+      "text": "she knew,"
+    },
+    {
+      "start": 673.06,
+      "end": 675.39,
+      "text": "to the confused clamor of the busy farmyard,"
+    },
+    {
+      "start": 675.68,
+      "end": 677.94,
+      "text": "while the lowing of cattle in the distance would"
+    },
+    {
+      "start": 677.94,
+      "end": 680.28,
+      "text": "take the place of the mock turtle's heavy sobs."
+    },
+    {
+      "start": 681.21,
+      "end": 681.86,
+      "text": "Lastly,",
+      "para_break": true
+    },
+    {
+      "start": 681.96,
+      "end": 685.32,
+      "text": "she pictured to herself how this same little sister of hers would,"
+    },
+    {
+      "start": 685.42,
+      "end": 686.52,
+      "text": "in the after-time,"
+    },
+    {
+      "start": 686.68,
+      "end": 687.9,
+      "text": "be herself a grown woman,"
+    },
+    {
+      "start": 688.3,
+      "end": 689.64,
+      "text": "and how she would keep through all"
+    },
+    {
+      "start": 689.64,
+      "end": 691.8,
+      "text": "her riper years the simple and loving"
+    },
+    {
+      "start": 691.88,
+      "end": 692.66,
+      "text": "heart of her childhood,"
+    },
+    {
+      "start": 692.86,
+      "end": 694.64,
+      "text": "and how she would gather about her"
+    },
+    {
+      "start": 694.64,
+      "end": 696.38,
+      "text": "other little children and make their"
+    },
+    {
+      "start": 696.56,
+      "end": 698.68,
+      "text": "eyes bright and eager with many a strange tale,"
+    },
+    {
+      "start": 698.82,
+      "end": 701.5,
+      "text": "perhaps even with the dream of Wonderland of long"
+    },
+    {
+      "start": 701.64,
+      "end": 701.78,
+      "text": "ago,"
+    },
+    {
+      "start": 701.98,
+      "end": 704.5,
+      "text": "and how she would feel with all their simple"
+    },
+    {
+      "start": 704.5,
+      "end": 707.06,
+      "text": "sorrows and find a pleasure in all their simple"
+    },
+    {
+      "start": 707.14,
+      "end": 707.58,
+      "text": "joys,"
+    },
+    {
+      "start": 707.6,
+      "end": 710.96,
+      "text": "remembering her own child-life and the happy summer days."
+    }
+  ]
+}

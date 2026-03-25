@@ -1,0 +1,697 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-04",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_04_carroll.mp3",
+  "chapter_title": "04 - The Rabbit sends in a Little Bill",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.717,
+  "page_num": 3,
+  "page_total": 4,
+  "page_start_sec": 489.68,
+  "page_end_sec": 734.22,
+  "segments": [
+    {
+      "start": 489.68,
+      "end": 490.3,
+      "text": "\"'Nay,"
+    },
+    {
+      "start": 490.3,
+      "end": 490.88,
+      "text": "I shan't."
+    },
+    {
+      "start": 490.92,
+      "end": 491.46,
+      "text": "You do it.'"
+    },
+    {
+      "start": 491.968,
+      "end": 492.58,
+      "text": "\"'That I won't,"
+    },
+    {
+      "start": 492.58,
+      "end": 492.8,
+      "text": "then."
+    },
+    {
+      "start": 492.88,
+      "end": 493.82,
+      "text": "Bill's to go down.'"
+    },
+    {
+      "start": 494.51,
+      "end": 495.06,
+      "text": "\"'Here,"
+    },
+    {
+      "start": 495.1,
+      "end": 495.3,
+      "text": "Bill,"
+    },
+    {
+      "start": 495.5,
+      "end": 497.568,
+      "text": "the master says you've to go down the chimney.'"
+    },
+    {
+      "start": 498.26,
+      "end": 498.86,
+      "text": "\"'Oh,"
+    },
+    {
+      "start": 498.96,
+      "end": 500.74,
+      "text": "so Bill's got to come down the chimney,"
+    },
+    {
+      "start": 500.86,
+      "end": 502.36,
+      "text": "has he?' said Alice to herself."
+    },
+    {
+      "start": 502.98,
+      "end": 503.38,
+      "text": "\"'Why,"
+    },
+    {
+      "start": 503.48,
+      "end": 505.14,
+      "text": "they seem to put everything upon Bill."
+    },
+    {
+      "start": 505.42,
+      "end": 507.76,
+      "text": "I wouldn't be in Bill's place for a good deal."
+    },
+    {
+      "start": 508.72,
+      "end": 509.72,
+      "text": "This fireplace is narrow,",
+      "para_break": true
+    },
+    {
+      "start": 509.88,
+      "end": 510.34,
+      "text": "to be sure,"
+    },
+    {
+      "start": 510.48,
+      "end": 511.86,
+      "text": "but I think I can kick a little."
+    },
+    {
+      "start": 513.68,
+      "end": 516.06,
+      "text": "She drew her foot as far down the chimney as she could,",
+      "para_break": true
+    },
+    {
+      "start": 516.16,
+      "end": 517.94,
+      "text": "and waited till she heard a little animal."
+    },
+    {
+      "start": 518.12,
+      "end": 519.88,
+      "text": "She couldn't guess of what sort it was,"
+    },
+    {
+      "start": 520.576,
+      "end": 523.36,
+      "text": "scratching and scrambling about in the chimney close above her,"
+    },
+    {
+      "start": 523.44,
+      "end": 524.84,
+      "text": "then saying to herself,"
+    },
+    {
+      "start": 525.68,
+      "end": 526.26,
+      "text": "This is Bill.",
+      "para_break": true
+    },
+    {
+      "start": 526.42,
+      "end": 529.4,
+      "text": "She gave one sharp kick and waited to see what would happen next."
+    },
+    {
+      "start": 530.31,
+      "end": 533.24,
+      "text": "The first thing she heard was a general chorus of,",
+      "para_break": true
+    },
+    {
+      "start": 533.62,
+      "end": 534.4,
+      "text": "There goes Bill!"
+    },
+    {
+      "start": 535.2,
+      "end": 536.3,
+      "text": "Then the rabbit's voice alone,",
+      "para_break": true
+    },
+    {
+      "start": 536.82,
+      "end": 537.14,
+      "text": "Catch him!"
+    },
+    {
+      "start": 537.26,
+      "end": 538.02,
+      "text": "You by the hedge!"
+    },
+    {
+      "start": 539.52,
+      "end": 540.04,
+      "text": "Then silence,",
+      "para_break": true
+    },
+    {
+      "start": 540.2,
+      "end": 542.1,
+      "text": "and then another confusion of voices."
+    },
+    {
+      "start": 543.98,
+      "end": 544.62,
+      "text": "Hold up his head!",
+      "para_break": true
+    },
+    {
+      "start": 545.408,
+      "end": 545.8,
+      "text": "Brandy now!",
+      "para_break": true
+    },
+    {
+      "start": 545.96,
+      "end": 546.82,
+      "text": "Don't choke him!"
+    },
+    {
+      "start": 547.4,
+      "end": 547.88,
+      "text": "How was it,"
+    },
+    {
+      "start": 547.88,
+      "end": 548.2,
+      "text": "old fellow?"
+    },
+    {
+      "start": 548.34,
+      "end": 549.1,
+      "text": "What happened to you?"
+    },
+    {
+      "start": 549.48,
+      "end": 550.06,
+      "text": "Tell us about it!"
+    },
+    {
+      "start": 551.36,
+      "end": 553.64,
+      "text": "At last came a little feeble squeaking voice.",
+      "para_break": true
+    },
+    {
+      "start": 554.432,
+      "end": 554.84,
+      "text": "That's Bill,",
+      "para_break": true
+    },
+    {
+      "start": 554.96,
+      "end": 555.54,
+      "text": "thought Alice."
+    },
+    {
+      "start": 556.56,
+      "end": 556.86,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 556.86,
+      "end": 557.88,
+      "text": "I hardly know."
+    },
+    {
+      "start": 558.56,
+      "end": 558.88,
+      "text": "No more,"
+    },
+    {
+      "start": 559.06,
+      "end": 559.52,
+      "text": "thank ye,"
+    },
+    {
+      "start": 559.58,
+      "end": 560.28,
+      "text": "I'm better now."
+    },
+    {
+      "start": 561.06,
+      "end": 563.04,
+      "text": "But I'm a deal too flustered to tell you.",
+      "para_break": true
+    },
+    {
+      "start": 563.64,
+      "end": 566.6,
+      "text": "All I know is something comes at me like a jack-in-the-box,"
+    },
+    {
+      "start": 566.82,
+      "end": 568.41,
+      "text": "and up I goes like a skyrocket."
+    },
+    {
+      "start": 569.82,
+      "end": 570.34,
+      "text": "So you did,",
+      "para_break": true
+    },
+    {
+      "start": 570.44,
+      "end": 570.8,
+      "text": "old fellow,"
+    },
+    {
+      "start": 571.02,
+      "end": 571.62,
+      "text": "said the others."
+    },
+    {
+      "start": 573.1,
+      "end": 574.34,
+      "text": "We must burn the house down,",
+      "para_break": true
+    },
+    {
+      "start": 574.52,
+      "end": 575.52,
+      "text": "said the rabbit's voice,"
+    },
+    {
+      "start": 575.68,
+      "end": 577.78,
+      "text": "and Alice called out as loud as she could."
+    },
+    {
+      "start": 578.28,
+      "end": 578.76,
+      "text": "If you do,"
+    },
+    {
+      "start": 578.84,
+      "end": 580.02,
+      "text": "I'll set Dinah at you."
+    },
+    {
+      "start": 581.51,
+      "end": 583.6,
+      "text": "There was a dead silence instantly,",
+      "para_break": true
+    },
+    {
+      "start": 583.86,
+      "end": 585.24,
+      "text": "and Alice thought to herself,"
+    },
+    {
+      "start": 585.56,
+      "end": 587.36,
+      "text": "I wonder what they will do next."
+    },
+    {
+      "start": 587.52,
+      "end": 588.58,
+      "text": "If they had any sense,"
+    },
+    {
+      "start": 588.8,
+      "end": 589.78,
+      "text": "they'd take the roof off."
+    },
+    {
+      "start": 590.72,
+      "end": 592.98,
+      "text": "After a minute or two they began moving about again,",
+      "para_break": true
+    },
+    {
+      "start": 593.14,
+      "end": 594.7,
+      "text": "and Alice heard the rabbits say,"
+    },
+    {
+      "start": 595.14,
+      "end": 596.32,
+      "text": "A barrelful will do,"
+    },
+    {
+      "start": 596.46,
+      "end": 597.06,
+      "text": "to begin with."
+    },
+    {
+      "start": 597.22,
+      "end": 598.86,
+      "text": "A barrelful of what?"
+    },
+    {
+      "start": 598.96,
+      "end": 599.5,
+      "text": "thought Alice."
+    },
+    {
+      "start": 600.14,
+      "end": 601.44,
+      "text": "But she had not long to doubt,"
+    },
+    {
+      "start": 601.52,
+      "end": 604.26,
+      "text": "for the next moment a shower of little pebbles came rattling"
+    },
+    {
+      "start": 604.38,
+      "end": 605.12,
+      "text": "in at the window,"
+    },
+    {
+      "start": 605.38,
+      "end": 607.06,
+      "text": "and some of them hit her in the face."
+    },
+    {
+      "start": 607.7,
+      "end": 608.98,
+      "text": "I'll put a stop to this,"
+    },
+    {
+      "start": 609.12,
+      "end": 609.94,
+      "text": "she said to herself,"
+    },
+    {
+      "start": 610.18,
+      "end": 610.98,
+      "text": "and shouted out,"
+    },
+    {
+      "start": 611.06,
+      "end": 612.8,
+      "text": "You'd better not do that again,"
+    },
+    {
+      "start": 613.54,
+      "end": 615.1,
+      "text": "which produced another dead silence.",
+      "para_break": true
+    },
+    {
+      "start": 616.58,
+      "end": 619.0,
+      "text": "Alice noticed with some surprise that the pebbles were",
+      "para_break": true
+    },
+    {
+      "start": 619.0,
+      "end": 621.5,
+      "text": "all turning into little cakes as they lay on the floor,"
+    },
+    {
+      "start": 621.9,
+      "end": 623.8,
+      "text": "and a bright idea came into her head."
+    },
+    {
+      "start": 624.58,
+      "end": 625.81,
+      "text": "If I eat one of these cakes,",
+      "para_break": true
+    },
+    {
+      "start": 625.92,
+      "end": 626.3,
+      "text": "she thought,"
+    },
+    {
+      "start": 626.6,
+      "end": 628.62,
+      "text": "it's sure to make some change in my size,"
+    },
+    {
+      "start": 629.28,
+      "end": 631.12,
+      "text": "and as it can't possibly make me larger,"
+    },
+    {
+      "start": 631.28,
+      "end": 632.42,
+      "text": "it must make me smaller,"
+    },
+    {
+      "start": 632.54,
+      "end": 632.94,
+      "text": "I suppose."
+    },
+    {
+      "start": 634.336,
+      "end": 636.78,
+      "text": "So she swallowed one of the cakes and was delighted",
+      "para_break": true
+    },
+    {
+      "start": 636.78,
+      "end": 638.8,
+      "text": "to find that she began shrinking directly."
+    },
+    {
+      "start": 639.48,
+      "end": 641.74,
+      "text": "As soon as she was small enough to get through the door,"
+    },
+    {
+      "start": 642.06,
+      "end": 643.02,
+      "text": "she ran out of the house"
+    },
+    {
+      "start": 643.22,
+      "end": 646.32,
+      "text": "and found quite a crowd of little animals and birds waiting outside."
+    },
+    {
+      "start": 646.84,
+      "end": 649.34,
+      "text": "The poor little lizard Bill was in the middle,"
+    },
+    {
+      "start": 649.42,
+      "end": 651.04,
+      "text": "being held up by two guinea pigs,"
+    },
+    {
+      "start": 651.24,
+      "end": 652.86,
+      "text": "who were giving it something out of a bottle."
+    },
+    {
+      "start": 653.64,
+      "end": 655.96,
+      "text": "They all made a rush at Alice the moment she appeared,",
+      "para_break": true
+    },
+    {
+      "start": 656.34,
+      "end": 658.1,
+      "text": "but she ran off as hard as she could and"
+    },
+    {
+      "start": 658.112,
+      "end": 659.98,
+      "text": "soon found herself safe in a thick wood."
+    },
+    {
+      "start": 661.6,
+      "end": 662.78,
+      "text": "The first thing I've got to do,",
+      "para_break": true
+    },
+    {
+      "start": 662.84,
+      "end": 665.4,
+      "text": "said Alice to herself as she wandered about in the wood,"
+    },
+    {
+      "start": 665.84,
+      "end": 667.32,
+      "text": "is to grow to my right size again,"
+    },
+    {
+      "start": 667.48,
+      "end": 670.54,
+      "text": "and the second thing is to find my way into that lovely garden."
+    },
+    {
+      "start": 671.18,
+      "end": 672.5,
+      "text": "I think that will be the best plan."
+    },
+    {
+      "start": 673.22,
+      "end": 674.46,
+      "text": "It sounded an excellent plan,",
+      "para_break": true
+    },
+    {
+      "start": 674.52,
+      "end": 674.88,
+      "text": "no doubt,"
+    },
+    {
+      "start": 675.0,
+      "end": 676.68,
+      "text": "and very neatly and simply arranged."
+    },
+    {
+      "start": 677.3,
+      "end": 679.3,
+      "text": "The only difficulty was that she had not"
+    },
+    {
+      "start": 679.3,
+      "end": 681.48,
+      "text": "the smallest idea how to set about it,"
+    },
+    {
+      "start": 681.92,
+      "end": 684.46,
+      "text": "and while she was peering about anxiously among the trees,"
+    },
+    {
+      "start": 684.92,
+      "end": 686.94,
+      "text": "a little sharp bark just over her head"
+    },
+    {
+      "start": 686.94,
+      "end": 688.46,
+      "text": "made her look up in a great hurry."
+    },
+    {
+      "start": 689.96,
+      "end": 693.1,
+      "text": "An enormous puppy was looking down at her with large round eyes,",
+      "para_break": true
+    },
+    {
+      "start": 693.5,
+      "end": 695.04,
+      "text": "and feebly stretching out one paw,"
+    },
+    {
+      "start": 695.18,
+      "end": 696.0,
+      "text": "trying to touch her."
+    },
+    {
+      "start": 696.84,
+      "end": 697.62,
+      "text": "Poor little thing,",
+      "para_break": true
+    },
+    {
+      "start": 697.92,
+      "end": 699.4,
+      "text": "said Alice in a coaxing tone,"
+    },
+    {
+      "start": 699.94,
+      "end": 701.46,
+      "text": "and she tried hard to whistle to it,"
+    },
+    {
+      "start": 701.86,
+      "end": 703.54,
+      "text": "but she was terribly frightened all the"
+    },
+    {
+      "start": 703.54,
+      "end": 705.58,
+      "text": "time at the thought that it might be hungry,"
+    },
+    {
+      "start": 705.8,
+      "end": 707.72,
+      "text": "in which case it would be very likely to"
+    },
+    {
+      "start": 707.72,
+      "end": 709.46,
+      "text": "eat her up in spite of all her coaxing."
+    },
+    {
+      "start": 710.592,
+      "end": 711.82,
+      "text": "Hardly knowing what she did,",
+      "para_break": true
+    },
+    {
+      "start": 711.92,
+      "end": 714.92,
+      "text": "she picked up a little bit of stick and held it out to the puppy,"
+    },
+    {
+      "start": 715.36,
+      "end": 718.58,
+      "text": "whereupon the puppy jumped into the air off all its feet at once,"
+    },
+    {
+      "start": 718.68,
+      "end": 719.62,
+      "text": "with a yelp of delight,"
+    },
+    {
+      "start": 720.12,
+      "end": 722.44,
+      "text": "and rushed at the stick and made believe to worry it."
+    },
+    {
+      "start": 723.08,
+      "end": 725.12,
+      "text": "Then Alice dodged behind a great thistle"
+    },
+    {
+      "start": 725.12,
+      "end": 726.74,
+      "text": "to keep herself from being run over,"
+    },
+    {
+      "start": 727.424,
+      "end": 729.34,
+      "text": "and the moment she appeared on the other side,"
+    },
+    {
+      "start": 729.48,
+      "end": 731.36,
+      "text": "the puppy made another rush at the stick,"
+    },
+    {
+      "start": 731.56,
+      "end": 734.22,
+      "text": "and tumbled head over heels in its hurry to get hold of it."
+    }
+  ]
+}

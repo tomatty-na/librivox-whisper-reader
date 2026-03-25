@@ -1,0 +1,133 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-05",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_05_carroll.mp3",
+  "chapter_title": "05 - Advice from a Caterpillar",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.747,
+  "page_num": 4,
+  "page_total": 4,
+  "page_start_sec": 730.88,
+  "page_end_sec": 767.18,
+  "segments": [
+    {
+      "start": 730.88,
+      "end": 731.3,
+      "text": "I'm never"
+    },
+    {
+      "start": 731.38,
+      "end": 732.34,
+      "text": "sure what I'm going to be,"
+    },
+    {
+      "start": 732.7,
+      "end": 733.66,
+      "text": "from one minute to another."
+    },
+    {
+      "start": 734.48,
+      "end": 734.98,
+      "text": "However,",
+      "para_break": true
+    },
+    {
+      "start": 735.18,
+      "end": 736.46,
+      "text": "I've got back to my right size."
+    },
+    {
+      "start": 736.82,
+      "end": 739.14,
+      "text": "The next thing is to get into that beautiful garden."
+    },
+    {
+      "start": 739.74,
+      "end": 740.76,
+      "text": "How is that to be done,"
+    },
+    {
+      "start": 740.9,
+      "end": 741.22,
+      "text": "I wonder?"
+    },
+    {
+      "start": 741.7,
+      "end": 743.28,
+      "text": "As she said this,"
+    },
+    {
+      "start": 743.28,
+      "end": 745.28,
+      "text": "she came suddenly upon an open place,"
+    },
+    {
+      "start": 745.4,
+      "end": 747.42,
+      "text": "with a little house in it about four feet"
+    },
+    {
+      "start": 747.52,
+      "end": 747.64,
+      "text": "high."
+    },
+    {
+      "start": 747.94,
+      "end": 749.46,
+      "text": "Whoever lives there,"
+    },
+    {
+      "start": 749.66,
+      "end": 750.2,
+      "text": "thought Alice,"
+    },
+    {
+      "start": 750.39,
+      "end": 753.0,
+      "text": "it'll never do to come upon them this size."
+    },
+    {
+      "start": 753.28,
+      "end": 753.408,
+      "text": "Why,"
+    },
+    {
+      "start": 754.04,
+      "end": 754.18,
+      "text": "I"
+    },
+    {
+      "start": 754.24,
+      "end": 755.44,
+      "text": "should frighten them out of their wits."
+    },
+    {
+      "start": 755.68,
+      "end": 758.8,
+      "text": "So she began nibbling at the right-hand bed again,"
+    },
+    {
+      "start": 758.98,
+      "end": 759.54,
+      "text": "and"
+    },
+    {
+      "start": 759.6,
+      "end": 761.7,
+      "text": "did not venture to go near the house till she"
+    },
+    {
+      "start": 761.7,
+      "end": 764.2,
+      "text": "had brought herself down to nine inches high."
+    },
+    {
+      "start": 766.26,
+      "end": 767.18,
+      "text": "End of chapter 5",
+      "para_break": true
+    }
+  ]
+}

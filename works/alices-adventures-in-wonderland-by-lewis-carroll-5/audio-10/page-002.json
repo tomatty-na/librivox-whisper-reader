@@ -1,0 +1,691 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-10",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_10_carroll.mp3",
+  "chapter_title": "10 - The Lobster Quadrille",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.759,
+  "page_num": 2,
+  "page_total": 4,
+  "page_start_sec": 250.4,
+  "page_end_sec": 494.56,
+  "segments": [
+    {
+      "start": 250.4,
+      "end": 251.84,
+      "text": "There is another shore,",
+      "para_break": true
+    },
+    {
+      "start": 252.18,
+      "end": 252.62,
+      "text": "you know,"
+    },
+    {
+      "start": 252.78,
+      "end": 254.5,
+      "text": "upon the other side."
+    },
+    {
+      "start": 255.22,
+      "end": 258.86,
+      "text": "The further off from England the nearer is to France."
+    },
+    {
+      "start": 259.616,
+      "end": 260.76,
+      "text": "Then turn not pale,"
+    },
+    {
+      "start": 260.92,
+      "end": 261.86,
+      "text": "beloved snail,"
+    },
+    {
+      "start": 262.14,
+      "end": 264.02,
+      "text": "but come and join the dance."
+    },
+    {
+      "start": 264.928,
+      "end": 265.36,
+      "text": "Will you,",
+      "para_break": true
+    },
+    {
+      "start": 265.44,
+      "end": 266.06,
+      "text": "won't you,"
+    },
+    {
+      "start": 266.14,
+      "end": 266.66,
+      "text": "will you,"
+    },
+    {
+      "start": 266.72,
+      "end": 267.28,
+      "text": "won't you,"
+    },
+    {
+      "start": 267.36,
+      "end": 269.0,
+      "text": "will you join the dance?"
+    },
+    {
+      "start": 269.856,
+      "end": 270.26,
+      "text": "Will you,",
+      "para_break": true
+    },
+    {
+      "start": 270.32,
+      "end": 270.9,
+      "text": "won't you,"
+    },
+    {
+      "start": 270.98,
+      "end": 271.56,
+      "text": "will you,"
+    },
+    {
+      "start": 271.6,
+      "end": 272.28,
+      "text": "won't you,"
+    },
+    {
+      "start": 272.36,
+      "end": 274.08,
+      "text": "won't you join the dance?"
+    },
+    {
+      "start": 275.72,
+      "end": 276.16,
+      "text": "Thank you,",
+      "para_break": true
+    },
+    {
+      "start": 276.3,
+      "end": 278.36,
+      "text": "it's a very interesting dance to watch,"
+    },
+    {
+      "start": 278.64,
+      "end": 279.54,
+      "text": "said Alice,"
+    },
+    {
+      "start": 279.68,
+      "end": 281.9,
+      "text": "feeling very glad it was over at last."
+    },
+    {
+      "start": 282.66,
+      "end": 285.6,
+      "text": "And I do so like that curious song about the whiting.",
+      "para_break": true
+    },
+    {
+      "start": 286.58,
+      "end": 286.82,
+      "text": "Oh,",
+      "para_break": true
+    },
+    {
+      "start": 286.98,
+      "end": 288.36,
+      "text": "as to the whiting,"
+    },
+    {
+      "start": 288.62,
+      "end": 289.64,
+      "text": "said the Mock Turtle."
+    },
+    {
+      "start": 290.28,
+      "end": 290.44,
+      "text": "They,"
+    },
+    {
+      "start": 290.76,
+      "end": 291.82,
+      "text": "you've seen them,"
+    },
+    {
+      "start": 291.88,
+      "end": 292.4,
+      "text": "of course."
+    },
+    {
+      "start": 293.42,
+      "end": 293.94,
+      "text": "Yes,",
+      "para_break": true
+    },
+    {
+      "start": 294.16,
+      "end": 294.72,
+      "text": "said Alice."
+    },
+    {
+      "start": 294.9,
+      "end": 296.64,
+      "text": "I've often seen them at Din..."
+    },
+    {
+      "start": 297.3,
+      "end": 298.48,
+      "text": "She checked herself hastily."
+    },
+    {
+      "start": 299.96,
+      "end": 302.1,
+      "text": "I don't know where Din may be,",
+      "para_break": true
+    },
+    {
+      "start": 302.37,
+      "end": 303.34,
+      "text": "said the Mock Turtle."
+    },
+    {
+      "start": 304.22,
+      "end": 306.32,
+      "text": "But if you've seen them so often,",
+      "para_break": true
+    },
+    {
+      "start": 306.54,
+      "end": 308.7,
+      "text": "of course you know what they're like."
+    },
+    {
+      "start": 309.58,
+      "end": 310.36,
+      "text": "I believe so,",
+      "para_break": true
+    },
+    {
+      "start": 310.7,
+      "end": 312.1,
+      "text": "Alice replied thoughtfully."
+    },
+    {
+      "start": 312.54,
+      "end": 314.24,
+      "text": "They have their tails in their mouths,"
+    },
+    {
+      "start": 314.34,
+      "end": 315.44,
+      "text": "and they're all over crumbs."
+    },
+    {
+      "start": 316.864,
+      "end": 318.44,
+      "text": "You're wrong about the crumbs,",
+      "para_break": true
+    },
+    {
+      "start": 318.82,
+      "end": 319.78,
+      "text": "said the Mock Turtle."
+    },
+    {
+      "start": 320.416,
+      "end": 322.36,
+      "text": "Crumbs would all wash off in the sea."
+    },
+    {
+      "start": 323.04,
+      "end": 325.08,
+      "text": "But they have their tails in their mouths."
+    },
+    {
+      "start": 325.984,
+      "end": 327.808,
+      "text": "And the reason is...",
+      "para_break": true
+    },
+    {
+      "start": 328.38,
+      "end": 330.48,
+      "text": "Here the Mock Turtle yawned and shut his eyes."
+    },
+    {
+      "start": 331.4,
+      "end": 335.18,
+      "text": "\"'Tell her about the reason and all that,' he said to the griffon.",
+      "para_break": true
+    },
+    {
+      "start": 336.06,
+      "end": 337.84,
+      "text": "\"'The reason is,' said the griffon,",
+      "para_break": true
+    },
+    {
+      "start": 338.3,
+      "end": 340.46,
+      "text": "\"'that they would go with the lobsters to the dance,"
+    },
+    {
+      "start": 340.64,
+      "end": 342.1,
+      "text": "\"'so they got thrown out to sea,"
+    },
+    {
+      "start": 342.7,
+      "end": 344.22,
+      "text": "\"'so they had to fall a long way,"
+    },
+    {
+      "start": 344.72,
+      "end": 346.56,
+      "text": "\"'so they got their tails fast in their mouths,"
+    },
+    {
+      "start": 346.96,
+      "end": 348.16,
+      "text": "\"'so they couldn't get them out again."
+    },
+    {
+      "start": 349.024,
+      "end": 349.472,
+      "text": "\"'That's all.'",
+      "para_break": true
+    },
+    {
+      "start": 351.136,
+      "end": 352.36,
+      "text": "\"'Thank you,' said Alice.",
+      "para_break": true
+    },
+    {
+      "start": 352.62,
+      "end": 353.6,
+      "text": "\"'It's very interesting."
+    },
+    {
+      "start": 354.34,
+      "end": 356.6,
+      "text": "\"'I never knew so much about a whiting before.'"
+    },
+    {
+      "start": 358.14,
+      "end": 359.98,
+      "text": "\"'I can tell you more than that if you like,'",
+      "para_break": true
+    },
+    {
+      "start": 360.16,
+      "end": 360.7,
+      "text": "said the griffin."
+    },
+    {
+      "start": 360.78,
+      "end": 362.14,
+      "text": "Do you know why it's cold,"
+    },
+    {
+      "start": 362.26,
+      "end": 362.56,
+      "text": "a-whiting?"
+    },
+    {
+      "start": 363.53,
+      "end": 365.08,
+      "text": "I never thought about it,",
+      "para_break": true
+    },
+    {
+      "start": 365.18,
+      "end": 365.6,
+      "text": "said Alice."
+    },
+    {
+      "start": 365.8,
+      "end": 366.16,
+      "text": "Why?"
+    },
+    {
+      "start": 368.24,
+      "end": 369.44,
+      "text": "It does the boots and shoes,",
+      "para_break": true
+    },
+    {
+      "start": 369.84,
+      "end": 371.89,
+      "text": "the griffin replied very solemnly."
+    },
+    {
+      "start": 372.8,
+      "end": 374.2,
+      "text": "Alice was thoroughly puzzled.",
+      "para_break": true
+    },
+    {
+      "start": 374.94,
+      "end": 376.16,
+      "text": "Does the boots and shoes,"
+    },
+    {
+      "start": 376.5,
+      "end": 378.22,
+      "text": "she repeated in a wondering tone."
+    },
+    {
+      "start": 378.94,
+      "end": 379.12,
+      "text": "Why,"
+    },
+    {
+      "start": 379.26,
+      "end": 380.58,
+      "text": "what are your shoes done with,"
+    },
+    {
+      "start": 380.72,
+      "end": 381.58,
+      "text": "said the griffin."
+    },
+    {
+      "start": 381.62,
+      "end": 382.02,
+      "text": "I mean,"
+    },
+    {
+      "start": 382.02,
+      "end": 383.06,
+      "text": "what makes them so shiny?"
+    },
+    {
+      "start": 384.32,
+      "end": 386.04,
+      "text": "Alice looked down at them and considered",
+      "para_break": true
+    },
+    {
+      "start": 386.04,
+      "end": 387.74,
+      "text": "a little before she gave her answer."
+    },
+    {
+      "start": 388.8,
+      "end": 389.8,
+      "text": "They're done with blacking,",
+      "para_break": true
+    },
+    {
+      "start": 389.8,
+      "end": 390.16,
+      "text": "I believe."
+    },
+    {
+      "start": 391.584,
+      "end": 393.0,
+      "text": "Boots and shoes under the sea,",
+      "para_break": true
+    },
+    {
+      "start": 393.22,
+      "end": 394.98,
+      "text": "the griffon went on in a deep voice,"
+    },
+    {
+      "start": 395.34,
+      "end": 396.32,
+      "text": "are done with whiting,"
+    },
+    {
+      "start": 396.52,
+      "end": 397.28,
+      "text": "now you know."
+    },
+    {
+      "start": 398.28,
+      "end": 399.2,
+      "text": "And what are they made of?",
+      "para_break": true
+    },
+    {
+      "start": 399.38,
+      "end": 401.5,
+      "text": "Alice asked in a tone of great curiosity."
+    },
+    {
+      "start": 402.816,
+      "end": 403.52,
+      "text": "Souls and eels,",
+      "para_break": true
+    },
+    {
+      "start": 403.56,
+      "end": 404.0,
+      "text": "of course,"
+    },
+    {
+      "start": 404.14,
+      "end": 406.28,
+      "text": "the griffon replied rather impatiently."
+    },
+    {
+      "start": 406.86,
+      "end": 408.14,
+      "text": "Any shrimp could have told you that."
+    },
+    {
+      "start": 409.3,
+      "end": 410.42,
+      "text": "If I'd been the whiting,",
+      "para_break": true
+    },
+    {
+      "start": 410.58,
+      "end": 411.16,
+      "text": "said Alice,"
+    },
+    {
+      "start": 411.32,
+      "end": 413.04,
+      "text": "whose thoughts were still running on the song,"
+    },
+    {
+      "start": 413.64,
+      "end": 414.73,
+      "text": "I'd have said to the porpoise,"
+    },
+    {
+      "start": 414.92,
+      "end": 415.48,
+      "text": "keep back,"
+    },
+    {
+      "start": 415.54,
+      "end": 415.78,
+      "text": "please,"
+    },
+    {
+      "start": 415.92,
+      "end": 417.02,
+      "text": "we don't want you with us."
+    },
+    {
+      "start": 419.22,
+      "end": 422.98,
+      "text": "\"'They were obliged to have him with them,' the Mock Turtle said.",
+      "para_break": true
+    },
+    {
+      "start": 423.78,
+      "end": 427.32,
+      "text": "\"'No wise fish would go anywhere without a porpoise.'",
+      "para_break": true
+    },
+    {
+      "start": 428.832,
+      "end": 431.64,
+      "text": "\"'Wouldn't it really?' said Alice in a tone of great surprise.",
+      "para_break": true
+    },
+    {
+      "start": 433.376,
+      "end": 435.48,
+      "text": "\"'Of course not,' said the Mock Turtle.",
+      "para_break": true
+    },
+    {
+      "start": 435.98,
+      "end": 436.32,
+      "text": "\"'Why,"
+    },
+    {
+      "start": 436.44,
+      "end": 440.98,
+      "text": "if a fish came to me and told me he was going a journey,"
+    },
+    {
+      "start": 441.2,
+      "end": 442.18,
+      "text": "I should say,"
+    },
+    {
+      "start": 442.4,
+      "end": 444.22,
+      "text": "with what porpoise?'"
+    },
+    {
+      "start": 445.28,
+      "end": 447.0,
+      "text": "\"'Don't you mean purpose?' said Alice.",
+      "para_break": true
+    },
+    {
+      "start": 447.2,
+      "end": 449.12,
+      "text": "I mean what I say,"
+    },
+    {
+      "start": 449.48,
+      "end": 451.9,
+      "text": "the Mock Turtle replied in an offended tone."
+    },
+    {
+      "start": 452.64,
+      "end": 453.48,
+      "text": "And the Griffin added,"
+    },
+    {
+      "start": 454.08,
+      "end": 454.42,
+      "text": "Come,"
+    },
+    {
+      "start": 454.62,
+      "end": 455.74,
+      "text": "let's hear some of your adventures."
+    },
+    {
+      "start": 456.52,
+      "end": 458.0,
+      "text": "I could tell you my adventures,",
+      "para_break": true
+    },
+    {
+      "start": 458.3,
+      "end": 459.76,
+      "text": "beginning from this morning,"
+    },
+    {
+      "start": 460.08,
+      "end": 461.68,
+      "text": "said Alice a little timidly."
+    },
+    {
+      "start": 462.34,
+      "end": 464.16,
+      "text": "But it's no use going back to yesterday,"
+    },
+    {
+      "start": 464.42,
+      "end": 466.12,
+      "text": "because I was a different person then."
+    },
+    {
+      "start": 467.424,
+      "end": 468.6,
+      "text": "Explain all that,",
+      "para_break": true
+    },
+    {
+      "start": 469.02,
+      "end": 470.18,
+      "text": "said the Mock Turtle."
+    },
+    {
+      "start": 471.06,
+      "end": 471.24,
+      "text": "No,",
+      "para_break": true
+    },
+    {
+      "start": 471.32,
+      "end": 471.54,
+      "text": "no,"
+    },
+    {
+      "start": 471.58,
+      "end": 472.42,
+      "text": "the adventures first,"
+    },
+    {
+      "start": 472.72,
+      "end": 474.78,
+      "text": "said the Griffin in an impatient tone."
+    },
+    {
+      "start": 475.264,
+      "end": 476.96,
+      "text": "Explanations take such a dreadful time."
+    },
+    {
+      "start": 478.88,
+      "end": 481.54,
+      "text": "So Alice began telling them her adventures from",
+      "para_break": true
+    },
+    {
+      "start": 481.54,
+      "end": 483.74,
+      "text": "the time when she first saw the white rabbit."
+    },
+    {
+      "start": 484.24,
+      "end": 486.44,
+      "text": "She was a little nervous about it just at first."
+    },
+    {
+      "start": 486.74,
+      "end": 488.36,
+      "text": "The two creatures got so close to her,"
+    },
+    {
+      "start": 488.42,
+      "end": 489.34,
+      "text": "one on each side,"
+    },
+    {
+      "start": 489.7,
+      "end": 492.38,
+      "text": "and opened their eyes and mouths so very wide,"
+    },
+    {
+      "start": 492.52,
+      "end": 494.56,
+      "text": "but she gained courage as she went on."
+    }
+  ]
+}

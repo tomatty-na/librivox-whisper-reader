@@ -1,0 +1,799 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-02",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_02_carroll.mp3",
+  "chapter_title": "02 - The Pool of Tears",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.477,
+  "page_num": 1,
+  "page_total": 3,
+  "page_start_sec": 8.92,
+  "page_end_sec": 260.22,
+  "segments": [
+    {
+      "start": 8.92,
+      "end": 9.52,
+      "text": "CHAPTER II."
+    },
+    {
+      "start": 9.52,
+      "end": 12.14,
+      "text": "CURIOUSER AND CURIOUSER,"
+    },
+    {
+      "start": 12.2,
+      "end": 12.84,
+      "text": "CRIED ALICE."
+    },
+    {
+      "start": 12.94,
+      "end": 14.6,
+      "text": "She was so much surprised that for a"
+    },
+    {
+      "start": 14.6,
+      "end": 16.74,
+      "text": "moment she quite forgot how to speak good English."
+    },
+    {
+      "start": 17.58,
+      "end": 20.46,
+      "text": "Now I'm opening out like the largest telescope that ever was.",
+      "para_break": true
+    },
+    {
+      "start": 20.74,
+      "end": 21.58,
+      "text": "Good-bye,"
+    },
+    {
+      "start": 21.68,
+      "end": 21.94,
+      "text": "feet!"
+    },
+    {
+      "start": 22.82,
+      "end": 24.12,
+      "text": "For when she looked down at her feet",
+      "para_break": true
+    },
+    {
+      "start": 24.12,
+      "end": 25.8,
+      "text": "they seemed to be almost out of sight."
+    },
+    {
+      "start": 25.92,
+      "end": 27.36,
+      "text": "They were getting so far off."
+    },
+    {
+      "start": 27.56,
+      "end": 27.66,
+      "text": "Oh,"
+    },
+    {
+      "start": 28.68,
+      "end": 29.74,
+      "text": "my poor little feet!",
+      "para_break": true
+    },
+    {
+      "start": 30.18,
+      "end": 32.76,
+      "text": "I wonder who will put on your shoes and stockings for you now,"
+    },
+    {
+      "start": 32.82,
+      "end": 33.12,
+      "text": "dears."
+    },
+    {
+      "start": 34.0,
+      "end": 35.14,
+      "text": "I'm sure I shan't be able.",
+      "para_break": true
+    },
+    {
+      "start": 35.4,
+      "end": 38.28,
+      "text": "I shall be a great deal too far off to trouble myself about you."
+    },
+    {
+      "start": 38.94,
+      "end": 40.48,
+      "text": "You must manage the best way you can.",
+      "para_break": true
+    },
+    {
+      "start": 41.02,
+      "end": 42.02,
+      "text": "But I must be kind to them,",
+      "para_break": true
+    },
+    {
+      "start": 42.1,
+      "end": 42.58,
+      "text": "thought Alice,"
+    },
+    {
+      "start": 42.74,
+      "end": 44.86,
+      "text": "or perhaps they won't walk the way I want to go."
+    },
+    {
+      "start": 45.56,
+      "end": 46.04,
+      "text": "Let me see.",
+      "para_break": true
+    },
+    {
+      "start": 46.52,
+      "end": 48.45,
+      "text": "I'll give them a new pair of boots every Christmas.",
+      "para_break": true
+    },
+    {
+      "start": 49.16,
+      "end": 51.68,
+      "text": "And she went on planning to herself how she would manage it.",
+      "para_break": true
+    },
+    {
+      "start": 52.26,
+      "end": 53.24,
+      "text": "They must go by the carrier,",
+      "para_break": true
+    },
+    {
+      "start": 53.42,
+      "end": 53.78,
+      "text": "she thought,"
+    },
+    {
+      "start": 53.9,
+      "end": 56.56,
+      "text": "and how funny it'll seem sending presents to one's own feet,"
+    },
+    {
+      "start": 57.02,
+      "end": 58.54,
+      "text": "and how odd the directions will look."
+    },
+    {
+      "start": 59.616,
+      "end": 60.46,
+      "text": "Alice's right foot,",
+      "para_break": true
+    },
+    {
+      "start": 60.6,
+      "end": 61.2,
+      "text": "Esquire,"
+    },
+    {
+      "start": 61.26,
+      "end": 61.9,
+      "text": "hearth-rug,"
+    },
+    {
+      "start": 62.02,
+      "end": 62.6,
+      "text": "near the fender,"
+    },
+    {
+      "start": 62.78,
+      "end": 63.74,
+      "text": "with Alice's love."
+    },
+    {
+      "start": 65.16,
+      "end": 65.66,
+      "text": "Oh dear,",
+      "para_break": true
+    },
+    {
+      "start": 65.82,
+      "end": 67.1,
+      "text": "what nonsense I'm talking."
+    },
+    {
+      "start": 68.14,
+      "end": 69.68,
+      "text": "Just then her head struck against the",
+      "para_break": true
+    },
+    {
+      "start": 69.76,
+      "end": 70.34,
+      "text": "roof of the hall."
+    },
+    {
+      "start": 70.6,
+      "end": 71.3,
+      "text": "In fact,"
+    },
+    {
+      "start": 71.3,
+      "end": 73.54,
+      "text": "she was now rather more than nine feet high,"
+    },
+    {
+      "start": 73.74,
+      "end": 74.8,
+      "text": "and she at once took"
+    },
+    {
+      "start": 74.8,
+      "end": 77.36,
+      "text": "up the little golden key and hurried off to the garden door."
+    },
+    {
+      "start": 78.07,
+      "end": 79.0,
+      "text": "Poor Alice,",
+      "para_break": true
+    },
+    {
+      "start": 79.24,
+      "end": 80.24,
+      "text": "it was as much as she"
+    },
+    {
+      "start": 80.24,
+      "end": 80.66,
+      "text": "could do,"
+    },
+    {
+      "start": 80.82,
+      "end": 84.06,
+      "text": "lying down on one side to look through into the garden with one eye,"
+    },
+    {
+      "start": 84.48,
+      "end": 85.0,
+      "text": "but to get through"
+    },
+    {
+      "start": 85.18,
+      "end": 86.42,
+      "text": "was more hopeless than ever,"
+    },
+    {
+      "start": 86.54,
+      "end": 88.54,
+      "text": "and she sat down and began to cry again."
+    },
+    {
+      "start": 89.26,
+      "end": 90.74,
+      "text": "You ought to be ashamed of yourself,",
+      "para_break": true
+    },
+    {
+      "start": 91.0,
+      "end": 91.42,
+      "text": "said Alice,"
+    },
+    {
+      "start": 91.6,
+      "end": 92.82,
+      "text": "a great girl like you,"
+    },
+    {
+      "start": 92.96,
+      "end": 94.28,
+      "text": "she might as well say this,"
+    },
+    {
+      "start": 94.72,
+      "end": 96.16,
+      "text": "to go on crying in this way."
+    },
+    {
+      "start": 96.3,
+      "end": 97.18,
+      "text": "Stop this moment,"
+    },
+    {
+      "start": 97.22,
+      "end": 97.7,
+      "text": "I tell you."
+    },
+    {
+      "start": 97.76,
+      "end": 99.5,
+      "text": "But she went on all the same,"
+    },
+    {
+      "start": 99.56,
+      "end": 99.82,
+      "text": "shedding"
+    },
+    {
+      "start": 99.9,
+      "end": 100.76,
+      "text": "gallons of tears,"
+    },
+    {
+      "start": 101.02,
+      "end": 103.22,
+      "text": "until there was a large pool all round her,"
+    },
+    {
+      "start": 103.32,
+      "end": 105.1,
+      "text": "about four inches deep and reaching"
+    },
+    {
+      "start": 105.28,
+      "end": 106.2,
+      "text": "half down the hall."
+    },
+    {
+      "start": 107.52,
+      "end": 110.22,
+      "text": "After a time she heard a little pattering of feet in the distance,",
+      "para_break": true
+    },
+    {
+      "start": 110.38,
+      "end": 112.78,
+      "text": "and she hastily dried her eyes to see what was coming."
+    },
+    {
+      "start": 113.32,
+      "end": 114.4,
+      "text": "It was the white rabbit returning,",
+      "para_break": true
+    },
+    {
+      "start": 114.76,
+      "end": 116.66,
+      "text": "splendidly dressed with a pair of white kid"
+    },
+    {
+      "start": 116.66,
+      "end": 119.06,
+      "text": "gloves in one hand and a large fan in the other."
+    },
+    {
+      "start": 119.58,
+      "end": 121.42,
+      "text": "He came trotting along in a great hurry,",
+      "para_break": true
+    },
+    {
+      "start": 121.52,
+      "end": 122.96,
+      "text": "muttering to himself as he came,"
+    },
+    {
+      "start": 123.28,
+      "end": 123.38,
+      "text": "Oh,"
+    },
+    {
+      "start": 123.66,
+      "end": 124.36,
+      "text": "the Duchess,"
+    },
+    {
+      "start": 124.36,
+      "end": 124.98,
+      "text": "the Duchess,"
+    },
+    {
+      "start": 125.04,
+      "end": 127.2,
+      "text": "won't she be savage if I've kept her waiting?"
+    },
+    {
+      "start": 128.16,
+      "end": 131.36,
+      "text": "Alice felt so desperate that she was ready to ask help of anyone,",
+      "para_break": true
+    },
+    {
+      "start": 131.78,
+      "end": 134.16,
+      "text": "so when the rabbit came near her she began in a low,"
+    },
+    {
+      "start": 134.2,
+      "end": 134.76,
+      "text": "timid voice,"
+    },
+    {
+      "start": 135.34,
+      "end": 135.9,
+      "text": "If you please,",
+      "para_break": true
+    },
+    {
+      "start": 135.98,
+      "end": 136.18,
+      "text": "sir."
+    },
+    {
+      "start": 136.82,
+      "end": 139.82,
+      "text": "The rabbit started violently dropping the white kid gloves in the fan",
+      "para_break": true
+    },
+    {
+      "start": 139.96,
+      "end": 142.44,
+      "text": "and scurried away into the darkness as hard as he could go."
+    },
+    {
+      "start": 142.67,
+      "end": 144.44,
+      "text": "Alice took up the fan and gloves,"
+    },
+    {
+      "start": 144.64,
+      "end": 145.96,
+      "text": "and as the hall was very hot,"
+    },
+    {
+      "start": 146.02,
+      "end": 148.54,
+      "text": "she kept fanning herself all the time she went on talking."
+    },
+    {
+      "start": 149.16,
+      "end": 149.36,
+      "text": "Dear,",
+      "para_break": true
+    },
+    {
+      "start": 149.52,
+      "end": 149.78,
+      "text": "dear,"
+    },
+    {
+      "start": 149.9,
+      "end": 151.26,
+      "text": "how queer everything is today."
+    },
+    {
+      "start": 151.84,
+      "end": 153.64,
+      "text": "And yesterday things went on just as usual.",
+      "para_break": true
+    },
+    {
+      "start": 154.36,
+      "end": 156.16,
+      "text": "I wonder if I've been changed during the night.",
+      "para_break": true
+    },
+    {
+      "start": 156.66,
+      "end": 157.14,
+      "text": "Let me think.",
+      "para_break": true
+    },
+    {
+      "start": 157.92,
+      "end": 159.62,
+      "text": "Was I the same when I got up this morning?",
+      "para_break": true
+    },
+    {
+      "start": 160.22,
+      "end": 162.44,
+      "text": "I almost think I can remember feeling a little different,",
+      "para_break": true
+    },
+    {
+      "start": 162.76,
+      "end": 163.82,
+      "text": "but if I'm not the same,"
+    },
+    {
+      "start": 163.92,
+      "end": 164.84,
+      "text": "the next question is,"
+    },
+    {
+      "start": 165.0,
+      "end": 166.3,
+      "text": "who in the world am I?"
+    },
+    {
+      "start": 166.86,
+      "end": 167.02,
+      "text": "Ah,",
+      "para_break": true
+    },
+    {
+      "start": 167.02,
+      "end": 167.8,
+      "text": "that's a great puzzle."
+    },
+    {
+      "start": 168.512,
+      "end": 170.28,
+      "text": "And she began thinking over all the children",
+      "para_break": true
+    },
+    {
+      "start": 170.28,
+      "end": 172.32,
+      "text": "she knew that were of the same age as herself."
+    },
+    {
+      "start": 172.62,
+      "end": 174.62,
+      "text": "to see if she could have been changed for any of them."
+    },
+    {
+      "start": 175.22,
+      "end": 176.18,
+      "text": "I'm sure I'm not Ada,",
+      "para_break": true
+    },
+    {
+      "start": 176.34,
+      "end": 176.78,
+      "text": "she said,"
+    },
+    {
+      "start": 176.88,
+      "end": 178.84,
+      "text": "for her hair goes in such long ringlets,"
+    },
+    {
+      "start": 178.94,
+      "end": 180.44,
+      "text": "and mine doesn't go in ringlets at all."
+    },
+    {
+      "start": 181.12,
+      "end": 182.46,
+      "text": "And I'm sure I can't be Mabel,",
+      "para_break": true
+    },
+    {
+      "start": 182.58,
+      "end": 183.9,
+      "text": "for I know all sorts of things,"
+    },
+    {
+      "start": 183.94,
+      "end": 184.28,
+      "text": "and she,"
+    },
+    {
+      "start": 184.38,
+      "end": 184.7,
+      "text": "oh,"
+    },
+    {
+      "start": 184.86,
+      "end": 186.48,
+      "text": "she knows such very little."
+    },
+    {
+      "start": 187.14,
+      "end": 187.38,
+      "text": "Besides,",
+      "para_break": true
+    },
+    {
+      "start": 187.56,
+      "end": 188.06,
+      "text": "she's she,"
+    },
+    {
+      "start": 188.18,
+      "end": 188.84,
+      "text": "and I'm I."
+    },
+    {
+      "start": 189.74,
+      "end": 190.24,
+      "text": "And oh dear,",
+      "para_break": true
+    },
+    {
+      "start": 190.32,
+      "end": 191.46,
+      "text": "how puzzling it all is."
+    },
+    {
+      "start": 192.14,
+      "end": 194.04,
+      "text": "I'll try if I know all the things I used to know.",
+      "para_break": true
+    },
+    {
+      "start": 194.76,
+      "end": 195.2,
+      "text": "Let me see.",
+      "para_break": true
+    },
+    {
+      "start": 195.616,
+      "end": 196.8,
+      "text": "Four times five is twelve,"
+    },
+    {
+      "start": 197.02,
+      "end": 198.76,
+      "text": "and four times six is thirteen,"
+    },
+    {
+      "start": 199.0,
+      "end": 200.6,
+      "text": "and four times seven is..."
+    },
+    {
+      "start": 200.9,
+      "end": 201.38,
+      "text": "Oh dear,"
+    },
+    {
+      "start": 201.54,
+      "end": 203.14,
+      "text": "I shall never get to twenty at that rate."
+    },
+    {
+      "start": 203.62,
+      "end": 203.98,
+      "text": "However,",
+      "para_break": true
+    },
+    {
+      "start": 204.1,
+      "end": 206.04,
+      "text": "the multiplication table doesn't signify."
+    },
+    {
+      "start": 206.752,
+      "end": 207.54,
+      "text": "Let's try geography.",
+      "para_break": true
+    },
+    {
+      "start": 208.96,
+      "end": 210.4,
+      "text": "London is the capital of Paris,",
+      "para_break": true
+    },
+    {
+      "start": 210.58,
+      "end": 212.34,
+      "text": "and Paris is the capital of Rome,"
+    },
+    {
+      "start": 212.44,
+      "end": 213.26,
+      "text": "and Rome..."
+    },
+    {
+      "start": 213.26,
+      "end": 213.5,
+      "text": "No,"
+    },
+    {
+      "start": 213.62,
+      "end": 214.32,
+      "text": "that's all wrong,"
+    },
+    {
+      "start": 214.46,
+      "end": 214.92,
+      "text": "I'm certain."
+    },
+    {
+      "start": 215.54,
+      "end": 217.12,
+      "text": "I must have been changed from Mabel.",
+      "para_break": true
+    },
+    {
+      "start": 217.64,
+      "end": 219.08,
+      "text": "I'll try and say how doth the little.",
+      "para_break": true
+    },
+    {
+      "start": 219.9,
+      "end": 222.7,
+      "text": "And she crossed her hands on her lap as if she were saying lessons,",
+      "para_break": true
+    },
+    {
+      "start": 222.94,
+      "end": 224.0,
+      "text": "and began to repeat it,"
+    },
+    {
+      "start": 224.24,
+      "end": 225.98,
+      "text": "but her voice sounded hoarse and strange,"
+    },
+    {
+      "start": 226.16,
+      "end": 228.46,
+      "text": "and the words did not come the same as they used to do."
+    },
+    {
+      "start": 228.6,
+      "end": 232.56,
+      "text": "How doth the little crocodile improve his shining tail"
+    },
+    {
+      "start": 232.86,
+      "end": 236.38,
+      "text": "And pour the waters of the Nile on every golden scale"
+    },
+    {
+      "start": 236.78,
+      "end": 239.04,
+      "text": "How cheerfully he seems to grin"
+    },
+    {
+      "start": 239.24,
+      "end": 240.92,
+      "text": "How neatly spreads his claws"
+    },
+    {
+      "start": 241.46,
+      "end": 244.44,
+      "text": "And welcomes little fishes in with gently smiling jaws",
+      "para_break": true
+    },
+    {
+      "start": 246.0,
+      "end": 247.38,
+      "text": "I'm sure those are not the right words,",
+      "para_break": true
+    },
+    {
+      "start": 247.46,
+      "end": 248.14,
+      "text": "said poor Alice"
+    },
+    {
+      "start": 248.34,
+      "end": 250.68,
+      "text": "And her eyes filled with tears again as she went on"
+    },
+    {
+      "start": 250.84,
+      "end": 253.18,
+      "text": "I must be Mabel after all"
+    },
+    {
+      "start": 253.32,
+      "end": 255.92,
+      "text": "And I shall have to go and live in that pokey little house"
+    },
+    {
+      "start": 256.2,
+      "end": 257.78,
+      "text": "And have next to no toys to play with"
+    },
+    {
+      "start": 257.96,
+      "end": 258.06,
+      "text": "and,"
+    },
+    {
+      "start": 258.14,
+      "end": 258.4,
+      "text": "oh,"
+    },
+    {
+      "start": 258.54,
+      "end": 260.22,
+      "text": "ever so many lessons to learn."
+    }
+  ]
+}

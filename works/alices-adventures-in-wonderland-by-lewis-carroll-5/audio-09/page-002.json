@@ -1,0 +1,707 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-09",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_09_carroll.mp3",
+  "chapter_title": "09 - The Mock Turtle's Story",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.768,
+  "page_num": 2,
+  "page_total": 4,
+  "page_start_sec": 255.56,
+  "page_end_sec": 496.4,
+  "segments": [
+    {
+      "start": 255.56,
+      "end": 258.52,
+      "text": "\"'I make you a present of everything I've said as yet.'"
+    },
+    {
+      "start": 259.42,
+      "end": 261.16,
+      "text": "\"'A cheap sort of present,' thought Alice.",
+      "para_break": true
+    },
+    {
+      "start": 261.86,
+      "end": 264.1,
+      "text": "\"'I'm glad they don't give birthday presents like that.'"
+    },
+    {
+      "start": 264.56,
+      "end": 266.34,
+      "text": "But she did not venture to say it out loud."
+    },
+    {
+      "start": 267.744,
+      "end": 270.0,
+      "text": "\"'Thinking again?' the Duchess asked with",
+      "para_break": true
+    },
+    {
+      "start": 270.0,
+      "end": 271.76,
+      "text": "another dig of her sharp little chin."
+    },
+    {
+      "start": 273.06,
+      "end": 273.88,
+      "text": "I've a right to think,",
+      "para_break": true
+    },
+    {
+      "start": 274.04,
+      "end": 275.02,
+      "text": "said Alice sharply,"
+    },
+    {
+      "start": 275.2,
+      "end": 277.04,
+      "text": "for she was beginning to feel a little worried."
+    },
+    {
+      "start": 278.0,
+      "end": 279.28,
+      "text": "Just about as much right,",
+      "para_break": true
+    },
+    {
+      "start": 279.46,
+      "end": 280.48,
+      "text": "said the Duchess,"
+    },
+    {
+      "start": 280.5,
+      "end": 281.74,
+      "text": "as pigs have to fly,"
+    },
+    {
+      "start": 281.98,
+      "end": 282.84,
+      "text": "and the m-"
+    },
+    {
+      "start": 283.52,
+      "end": 283.84,
+      "text": "But here,"
+    },
+    {
+      "start": 283.98,
+      "end": 285.2,
+      "text": "to Alice's great surprise,"
+    },
+    {
+      "start": 285.52,
+      "end": 287.02,
+      "text": "the Duchess's voice died away,"
+    },
+    {
+      "start": 287.22,
+      "end": 289.0,
+      "text": "even in the middle of her favored word,"
+    },
+    {
+      "start": 289.2,
+      "end": 289.54,
+      "text": "moral,"
+    },
+    {
+      "start": 290.14,
+      "end": 292.86,
+      "text": "and the arm that was linked into hers began to tremble."
+    },
+    {
+      "start": 293.504,
+      "end": 294.2,
+      "text": "Alice looked up,"
+    },
+    {
+      "start": 294.24,
+      "end": 295.9,
+      "text": "and there stood the Queen in front of them,"
+    },
+    {
+      "start": 295.98,
+      "end": 296.96,
+      "text": "with her arms folded,"
+    },
+    {
+      "start": 297.14,
+      "end": 298.22,
+      "text": "frowning like a thunderstorm."
+    },
+    {
+      "start": 299.66,
+      "end": 300.52,
+      "text": "A fine day,",
+      "para_break": true
+    },
+    {
+      "start": 300.74,
+      "end": 301.34,
+      "text": "Your Majesty."
+    },
+    {
+      "start": 302.14,
+      "end": 304.42,
+      "text": "the duchess began in a low weak voice",
+      "para_break": true
+    },
+    {
+      "start": 305.8,
+      "end": 309.42,
+      "text": "now i give you fair warning shouted the queen stamping on",
+      "para_break": true
+    },
+    {
+      "start": 309.42,
+      "end": 310.44,
+      "text": "the ground as she spoke"
+    },
+    {
+      "start": 311.5,
+      "end": 313.36,
+      "text": "either you or your head must be off",
+      "para_break": true
+    },
+    {
+      "start": 313.36,
+      "end": 315.488,
+      "text": "and that in about half no time take"
+    },
+    {
+      "start": 315.76,
+      "end": 319.44,
+      "text": "your choice the duchess took her choice and was"
+    },
+    {
+      "start": 319.44,
+      "end": 323.296,
+      "text": "gone in a moment let's go on with the game the"
+    },
+    {
+      "start": 323.78,
+      "end": 326.06,
+      "text": "queen said to alice and alice was too much"
+    },
+    {
+      "start": 326.06,
+      "end": 328.6,
+      "text": "frightened to say a word but slowly followed"
+    },
+    {
+      "start": 328.88,
+      "end": 330.22,
+      "text": "her back to the croquet ground."
+    },
+    {
+      "start": 331.56,
+      "end": 334.96,
+      "text": "The other guests had taken advantage of the queen's absence and",
+      "para_break": true
+    },
+    {
+      "start": 334.96,
+      "end": 336.04,
+      "text": "were resting in the shade."
+    },
+    {
+      "start": 336.26,
+      "end": 336.36,
+      "text": "However,"
+    },
+    {
+      "start": 336.88,
+      "end": 337.98,
+      "text": "the moment they saw her,"
+    },
+    {
+      "start": 338.1,
+      "end": 339.4,
+      "text": "they hurried back to the game,"
+    },
+    {
+      "start": 339.76,
+      "end": 341.88,
+      "text": "the queen merely remarking that a moment's"
+    },
+    {
+      "start": 341.88,
+      "end": 343.34,
+      "text": "delay would cost them their lives."
+    },
+    {
+      "start": 344.14,
+      "end": 344.8,
+      "text": "All the time they",
+      "para_break": true
+    },
+    {
+      "start": 344.8,
+      "end": 345.26,
+      "text": "were playing,"
+    },
+    {
+      "start": 345.4,
+      "end": 346.98,
+      "text": "the queen never left off quarreling"
+    },
+    {
+      "start": 346.98,
+      "end": 348.78,
+      "text": "with the other players and shouting,"
+    },
+    {
+      "start": 349.12,
+      "end": 349.94,
+      "text": "Off with his head!"
+    },
+    {
+      "start": 350.12,
+      "end": 352.1,
+      "text": "or Off with our head!"
+    },
+    {
+      "start": 353.1,
+      "end": 355.6,
+      "text": "Those whom she sentenced were taken into custody by",
+      "para_break": true
+    },
+    {
+      "start": 355.76,
+      "end": 356.08,
+      "text": "the soldiers,"
+    },
+    {
+      "start": 356.8,
+      "end": 359.64,
+      "text": "who of course had to leave off being arches to do this,"
+    },
+    {
+      "start": 359.75,
+      "end": 361.38,
+      "text": "so that by the end of half an"
+    },
+    {
+      "start": 361.38,
+      "end": 363.32,
+      "text": "hour or so there were no arches left,"
+    },
+    {
+      "start": 363.46,
+      "end": 364.4,
+      "text": "and all the players,"
+    },
+    {
+      "start": 364.56,
+      "end": 365.42,
+      "text": "except the king,"
+    },
+    {
+      "start": 365.54,
+      "end": 366.02,
+      "text": "the queen,"
+    },
+    {
+      "start": 366.12,
+      "end": 366.56,
+      "text": "and Alice,"
+    },
+    {
+      "start": 366.76,
+      "end": 369.28,
+      "text": "were in custody and under sentence of execution."
+    },
+    {
+      "start": 370.68,
+      "end": 371.7,
+      "text": "Then the queen left off,",
+      "para_break": true
+    },
+    {
+      "start": 371.78,
+      "end": 372.54,
+      "text": "quite out of breath,"
+    },
+    {
+      "start": 372.76,
+      "end": 373.78,
+      "text": "and said to Alice,"
+    },
+    {
+      "start": 374.26,
+      "end": 375.9,
+      "text": "Have you seen the mock turtle yet?"
+    },
+    {
+      "start": 376.66,
+      "end": 377.24,
+      "text": "No,"
+    },
+    {
+      "start": 377.46,
+      "end": 378.06,
+      "text": "said Alice,"
+    },
+    {
+      "start": 378.34,
+      "end": 380.0,
+      "text": "I don't even know what a mock turtle is."
+    },
+    {
+      "start": 382.112,
+      "end": 384.6,
+      "text": "It's the thing mock-turtle soup is made from,",
+      "para_break": true
+    },
+    {
+      "start": 384.9,
+      "end": 385.78,
+      "text": "said the queen."
+    },
+    {
+      "start": 386.36,
+      "end": 388.36,
+      "text": "I never saw one or heard of one,"
+    },
+    {
+      "start": 388.46,
+      "end": 388.88,
+      "text": "said Alice."
+    },
+    {
+      "start": 389.94,
+      "end": 390.48,
+      "text": "Come on then,",
+      "para_break": true
+    },
+    {
+      "start": 390.68,
+      "end": 391.44,
+      "text": "said the queen,"
+    },
+    {
+      "start": 391.9,
+      "end": 393.18,
+      "text": "and he shall tell you his history."
+    },
+    {
+      "start": 394.36,
+      "end": 395.38,
+      "text": "As they walked off together,",
+      "para_break": true
+    },
+    {
+      "start": 395.72,
+      "end": 399.16,
+      "text": "Alice heard the king say in a low voice to the company generally,"
+    },
+    {
+      "start": 400.448,
+      "end": 401.12,
+      "text": "You're all pardoned.",
+      "para_break": true
+    },
+    {
+      "start": 402.22,
+      "end": 402.72,
+      "text": "Come,",
+      "para_break": true
+    },
+    {
+      "start": 402.76,
+      "end": 403.5,
+      "text": "that's a good thing,"
+    },
+    {
+      "start": 403.6,
+      "end": 404.3,
+      "text": "she said to herself,"
+    },
+    {
+      "start": 404.7,
+      "end": 406.86,
+      "text": "for she had felt quite unhappy at the"
+    },
+    {
+      "start": 406.86,
+      "end": 408.72,
+      "text": "number of executions the queen had ordered."
+    },
+    {
+      "start": 410.32,
+      "end": 413.7,
+      "text": "The very soon came upon a griffin lying fast asleep in the sun.",
+      "para_break": true
+    },
+    {
+      "start": 414.18,
+      "end": 415.54,
+      "text": "If you don't know what a griffin is,"
+    },
+    {
+      "start": 415.74,
+      "end": 416.46,
+      "text": "look at the picture."
+    },
+    {
+      "start": 417.42,
+      "end": 417.92,
+      "text": "Up,",
+      "para_break": true
+    },
+    {
+      "start": 417.98,
+      "end": 418.5,
+      "text": "lazy thing,"
+    },
+    {
+      "start": 418.89,
+      "end": 419.7,
+      "text": "said the queen,"
+    },
+    {
+      "start": 419.9,
+      "end": 421.88,
+      "text": "and take this young lady to see the mock turtle,"
+    },
+    {
+      "start": 422.14,
+      "end": 423.32,
+      "text": "and to hear his history."
+    },
+    {
+      "start": 424.06,
+      "end": 427.2,
+      "text": "I must go back and see after some executions I have ordered."
+    },
+    {
+      "start": 427.76,
+      "end": 428.52,
+      "text": "And she walked off,"
+    },
+    {
+      "start": 428.56,
+      "end": 430.3,
+      "text": "leaving Alice alone with the griffin."
+    },
+    {
+      "start": 431.072,
+      "end": 433.1,
+      "text": "Alice did not quite like the look of the creature,",
+      "para_break": true
+    },
+    {
+      "start": 433.26,
+      "end": 435.16,
+      "text": "but on the whole she thought it would be quite as"
+    },
+    {
+      "start": 435.16,
+      "end": 437.7,
+      "text": "safe to stay with it as to go after that savage queen."
+    },
+    {
+      "start": 438.36,
+      "end": 438.96,
+      "text": "So she waited."
+    },
+    {
+      "start": 439.54,
+      "end": 441.84,
+      "text": "The griffin sat up and rubbed its eyes."
+    },
+    {
+      "start": 442.18,
+      "end": 444.44,
+      "text": "Then it watched the queen till she was out of sight."
+    },
+    {
+      "start": 444.9,
+      "end": 445.49,
+      "text": "Then it chuckled."
+    },
+    {
+      "start": 446.26,
+      "end": 446.6,
+      "text": "What fun,",
+      "para_break": true
+    },
+    {
+      "start": 446.86,
+      "end": 447.8,
+      "text": "said the griffin,"
+    },
+    {
+      "start": 447.82,
+      "end": 448.48,
+      "text": "half to itself,"
+    },
+    {
+      "start": 448.6,
+      "end": 449.16,
+      "text": "half to Alice."
+    },
+    {
+      "start": 450.5,
+      "end": 451.26,
+      "text": "What is the fun,",
+      "para_break": true
+    },
+    {
+      "start": 451.3,
+      "end": 451.82,
+      "text": "said Alice."
+    },
+    {
+      "start": 452.4,
+      "end": 452.5,
+      "text": "Why,"
+    },
+    {
+      "start": 452.54,
+      "end": 452.66,
+      "text": "she,"
+    },
+    {
+      "start": 452.88,
+      "end": 453.54,
+      "text": "said the griffin."
+    },
+    {
+      "start": 453.952,
+      "end": 454.8,
+      "text": "It's all her fancy that."
+    },
+    {
+      "start": 455.06,
+      "end": 456.14,
+      "text": "They never executes nobody,"
+    },
+    {
+      "start": 456.34,
+      "end": 456.6,
+      "text": "you know."
+    },
+    {
+      "start": 456.7,
+      "end": 457.22,
+      "text": "Come on."
+    },
+    {
+      "start": 458.912,
+      "end": 460.22,
+      "text": "Everybody says come on here,",
+      "para_break": true
+    },
+    {
+      "start": 460.34,
+      "end": 460.9,
+      "text": "thought Alice,"
+    },
+    {
+      "start": 461.06,
+      "end": 462.5,
+      "text": "as she went slowly after it."
+    },
+    {
+      "start": 463.02,
+      "end": 464.98,
+      "text": "I never was so ordered about in my life."
+    },
+    {
+      "start": 465.22,
+      "end": 465.46,
+      "text": "Never."
+    },
+    {
+      "start": 466.78,
+      "end": 469.04,
+      "text": "They had not gone so far before they",
+      "para_break": true
+    },
+    {
+      "start": 469.04,
+      "end": 470.62,
+      "text": "saw the Mock Turtle in the distance,"
+    },
+    {
+      "start": 471.0,
+      "end": 473.32,
+      "text": "sitting sad and lonely on a little ledge of a rock,"
+    },
+    {
+      "start": 473.86,
+      "end": 475.1,
+      "text": "and as they came nearer,"
+    },
+    {
+      "start": 475.16,
+      "end": 477.96,
+      "text": "Alice could hear him sighing as if his heart would break."
+    },
+    {
+      "start": 478.56,
+      "end": 479.6,
+      "text": "She pitied him deeply."
+    },
+    {
+      "start": 480.88,
+      "end": 481.66,
+      "text": "What is his sorrow?",
+      "para_break": true
+    },
+    {
+      "start": 481.88,
+      "end": 482.9,
+      "text": "she asked the griffon,"
+    },
+    {
+      "start": 482.98,
+      "end": 485.82,
+      "text": "and the griffon answered very nearly in the same words as before."
+    },
+    {
+      "start": 486.528,
+      "end": 487.28,
+      "text": "It's all his fancy,"
+    },
+    {
+      "start": 487.34,
+      "end": 487.54,
+      "text": "that."
+    },
+    {
+      "start": 487.7,
+      "end": 488.94,
+      "text": "He hasn't got no sorrow,"
+    },
+    {
+      "start": 489.04,
+      "end": 489.32,
+      "text": "you know."
+    },
+    {
+      "start": 489.44,
+      "end": 489.98,
+      "text": "Come on."
+    },
+    {
+      "start": 491.456,
+      "end": 492.94,
+      "text": "So they went up to the Mock Turtle,",
+      "para_break": true
+    },
+    {
+      "start": 493.1,
+      "end": 495.34,
+      "text": "who looked at them with large eyes full of tears."
+    },
+    {
+      "start": 495.6,
+      "end": 496.4,
+      "text": "but said nothing."
+    }
+  ]
+}

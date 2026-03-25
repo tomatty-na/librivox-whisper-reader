@@ -1,0 +1,456 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-11",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_11_carroll.mp3",
+  "chapter_title": "11 - Who Stole the Tarts?",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 1.488,
+  "page_num": 3,
+  "page_total": 3,
+  "page_start_sec": 491.53,
+  "page_end_sec": 631.38,
+  "segments": [
+    {
+      "start": 491.53,
+      "end": 493.38,
+      "text": "I can't go no lower,"
+    },
+    {
+      "start": 493.5,
+      "end": 494.12,
+      "text": "said the hatter."
+    },
+    {
+      "start": 494.2,
+      "end": 495.08,
+      "text": "I'm on the floor"
+    },
+    {
+      "start": 495.24,
+      "end": 495.78,
+      "text": "as it is."
+    },
+    {
+      "start": 496.72,
+      "end": 497.54,
+      "text": "Then you may sit down,"
+    },
+    {
+      "start": 497.78,
+      "end": 498.72,
+      "text": "the king replied."
+    },
+    {
+      "start": 499.76,
+      "end": 501.58,
+      "text": "Here the other guinea pig cheered and was"
+    },
+    {
+      "start": 501.76,
+      "end": 502.0,
+      "text": "suppressed."
+    },
+    {
+      "start": 502.28,
+      "end": 502.38,
+      "text": "Come,"
+    },
+    {
+      "start": 503.92,
+      "end": 505.16,
+      "text": "that finishes the guinea pigs,",
+      "para_break": true
+    },
+    {
+      "start": 505.28,
+      "end": 505.7,
+      "text": "thought Alice."
+    },
+    {
+      "start": 505.88,
+      "end": 507.24,
+      "text": "Now we shall get on better."
+    },
+    {
+      "start": 509.34,
+      "end": 510.44,
+      "text": "I'd rather finish my tea,",
+      "para_break": true
+    },
+    {
+      "start": 510.66,
+      "end": 511.32,
+      "text": "said the Hatter,"
+    },
+    {
+      "start": 511.4,
+      "end": 512.86,
+      "text": "with an anxious look at the Queen,"
+    },
+    {
+      "start": 513.02,
+      "end": 513.88,
+      "text": "who was reading the"
+    },
+    {
+      "start": 513.88,
+      "end": 514.48,
+      "text": "list of singers."
+    },
+    {
+      "start": 515.64,
+      "end": 516.1,
+      "text": "You may go,"
+    },
+    {
+      "start": 516.42,
+      "end": 517.12,
+      "text": "said the King,"
+    },
+    {
+      "start": 517.26,
+      "end": 519.04,
+      "text": "and the Hatter hurriedly left the court,"
+    },
+    {
+      "start": 519.18,
+      "end": 519.86,
+      "text": "without even"
+    },
+    {
+      "start": 519.9,
+      "end": 521.08,
+      "text": "waiting to put his shoes on."
+    },
+    {
+      "start": 522.02,
+      "end": 523.7,
+      "text": "And just take his head off outside,"
+    },
+    {
+      "start": 524.48,
+      "end": 525.7,
+      "text": "the Queen added to one of the"
+    },
+    {
+      "start": 525.76,
+      "end": 526.04,
+      "text": "officers,"
+    },
+    {
+      "start": 526.28,
+      "end": 528.2,
+      "text": "but the Hatter was out of sight before"
+    },
+    {
+      "start": 528.2,
+      "end": 529.64,
+      "text": "the officer could get to the door."
+    },
+    {
+      "start": 530.96,
+      "end": 531.78,
+      "text": "Call the next witness,"
+    },
+    {
+      "start": 532.06,
+      "end": 532.8,
+      "text": "said the king."
+    },
+    {
+      "start": 533.76,
+      "end": 535.62,
+      "text": "The next witness was the duchess's cook."
+    },
+    {
+      "start": 536.0,
+      "end": 537.78,
+      "text": "She carried the pepper box in her hand,"
+    },
+    {
+      "start": 537.9,
+      "end": 539.2,
+      "text": "and Alice guessed who it was,"
+    },
+    {
+      "start": 539.616,
+      "end": 541.12,
+      "text": "even before she got into the court,"
+    },
+    {
+      "start": 541.28,
+      "end": 544.16,
+      "text": "by the way the people near the door began sneezing all at once."
+    },
+    {
+      "start": 545.856,
+      "end": 546.38,
+      "text": "Give your evidence,",
+      "para_break": true
+    },
+    {
+      "start": 546.68,
+      "end": 547.46,
+      "text": "said the king."
+    },
+    {
+      "start": 548.5,
+      "end": 548.82,
+      "text": "Shant,"
+    },
+    {
+      "start": 549.06,
+      "end": 549.76,
+      "text": "said the cook."
+    },
+    {
+      "start": 550.4,
+      "end": 552.34,
+      "text": "The king looked anxiously at the white rabbit,"
+    },
+    {
+      "start": 552.42,
+      "end": 553.48,
+      "text": "who said in a low voice,"
+    },
+    {
+      "start": 554.36,
+      "end": 556.66,
+      "text": "Your majesty must cross-examine this witness."
+    },
+    {
+      "start": 557.68,
+      "end": 558.08,
+      "text": "Well,"
+    },
+    {
+      "start": 558.14,
+      "end": 558.64,
+      "text": "if I must,"
+    },
+    {
+      "start": 558.82,
+      "end": 559.16,
+      "text": "I must."
+    },
+    {
+      "start": 559.9,
+      "end": 561.64,
+      "text": "the king said with a melancholy air,"
+    },
+    {
+      "start": 561.74,
+      "end": 564.52,
+      "text": "and after folding his arms and frowning at the cook,"
+    },
+    {
+      "start": 564.66,
+      "end": 566.4,
+      "text": "till his eyes were nearly out of sight,"
+    },
+    {
+      "start": 566.98,
+      "end": 568.26,
+      "text": "he said in a deep voice,"
+    },
+    {
+      "start": 569.06,
+      "end": 570.58,
+      "text": "What are tarts made of?"
+    },
+    {
+      "start": 570.82,
+      "end": 571.58,
+      "text": "Pepper,"
+    },
+    {
+      "start": 571.76,
+      "end": 572.2,
+      "text": "mostly,"
+    },
+    {
+      "start": 572.52,
+      "end": 573.32,
+      "text": "said the cook."
+    },
+    {
+      "start": 574.06,
+      "end": 574.6,
+      "text": "Treacle,"
+    },
+    {
+      "start": 574.9,
+      "end": 576.74,
+      "text": "said a sleepy voice behind her."
+    },
+    {
+      "start": 577.984,
+      "end": 578.98,
+      "text": "Color that dormouse,"
+    },
+    {
+      "start": 579.24,
+      "end": 580.6,
+      "text": "the queen shrieked out."
+    },
+    {
+      "start": 580.68,
+      "end": 581.86,
+      "text": "Behead that dormouse,"
+    },
+    {
+      "start": 581.98,
+      "end": 583.26,
+      "text": "turn that dormouse out"
+    },
+    {
+      "start": 583.26,
+      "end": 583.72,
+      "text": "of the court,"
+    },
+    {
+      "start": 583.84,
+      "end": 584.44,
+      "text": "suppress him,"
+    },
+    {
+      "start": 584.54,
+      "end": 584.98,
+      "text": "pinch him,"
+    },
+    {
+      "start": 585.12,
+      "end": 585.92,
+      "text": "offer these whiskers."
+    },
+    {
+      "start": 586.58,
+      "end": 587.76,
+      "text": "For some minutes,"
+    },
+    {
+      "start": 587.82,
+      "end": 588.88,
+      "text": "the whole court was in"
+    },
+    {
+      "start": 589.04,
+      "end": 589.36,
+      "text": "confusion,"
+    },
+    {
+      "start": 589.58,
+      "end": 590.98,
+      "text": "getting the dormouse turned out,"
+    },
+    {
+      "start": 591.06,
+      "end": 593.56,
+      "text": "and by the time they had settled down again,"
+    },
+    {
+      "start": 593.74,
+      "end": 594.62,
+      "text": "the cook had disappeared."
+    },
+    {
+      "start": 596.7,
+      "end": 597.04,
+      "text": "Never mind,",
+      "para_break": true
+    },
+    {
+      "start": 597.3,
+      "end": 597.84,
+      "text": "said the king,"
+    },
+    {
+      "start": 597.98,
+      "end": 599.1,
+      "text": "with an air of great relief."
+    },
+    {
+      "start": 599.92,
+      "end": 600.74,
+      "text": "Call the next witness,"
+    },
+    {
+      "start": 601.68,
+      "end": 603.62,
+      "text": "and he added in an undertone to the queen."
+    },
+    {
+      "start": 604.3,
+      "end": 604.8,
+      "text": "Really,"
+    },
+    {
+      "start": 604.92,
+      "end": 605.28,
+      "text": "my dear,"
+    },
+    {
+      "start": 605.38,
+      "end": 607.4,
+      "text": "you must cross-examine this next witness."
+    },
+    {
+      "start": 607.56,
+      "end": 609.48,
+      "text": "It quite makes my forehead ache."
+    },
+    {
+      "start": 610.368,
+      "end": 611.2,
+      "text": "Alice watched the"
+    },
+    {
+      "start": 611.26,
+      "end": 613.2,
+      "text": "white rabbit as he fumbled over the list,"
+    },
+    {
+      "start": 613.36,
+      "end": 616.0,
+      "text": "feeling very curious to see what the next witness would"
+    },
+    {
+      "start": 616.14,
+      "end": 616.4,
+      "text": "be like."
+    },
+    {
+      "start": 617.8,
+      "end": 619.46,
+      "text": "For they haven't got much evidence yet,"
+    },
+    {
+      "start": 619.64,
+      "end": 620.56,
+      "text": "she said to herself."
+    },
+    {
+      "start": 620.78,
+      "end": 622.6,
+      "text": "Imagine her surprise when"
+    },
+    {
+      "start": 622.6,
+      "end": 624.44,
+      "text": "the white rabbit read out at the top of"
+    },
+    {
+      "start": 624.44,
+      "end": 626.5,
+      "text": "his shrill little voice the name Alice."
+    },
+    {
+      "start": 630.44,
+      "end": 631.38,
+      "text": "End of chapter 11",
+      "para_break": true
+    }
+  ]
+}

@@ -1,0 +1,699 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-05",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_05_carroll.mp3",
+  "chapter_title": "05 - Advice from a Caterpillar",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.747,
+  "page_num": 1,
+  "page_total": 4,
+  "page_start_sec": 0.576,
+  "page_end_sec": 244.18,
+  "segments": [
+    {
+      "start": 0.576,
+      "end": 1.04,
+      "text": "CHAPTER V."
+    },
+    {
+      "start": 1.7,
+      "end": 4.8,
+      "text": "OF ALICE'S ADVENTURES IN WONDERLAND BY LOUIS CAROL."
+    },
+    {
+      "start": 5.54,
+      "end": 7.94,
+      "text": "THIS LIBRIVOX RECORDING IS IN THE PUBLIC DOMAIN."
+    },
+    {
+      "start": 9.536,
+      "end": 10.98,
+      "text": "ADVICE FROM A CATERPILLAR",
+      "para_break": true
+    },
+    {
+      "start": 12.37,
+      "end": 14.74,
+      "text": "The Caterpillar and Alice looked at",
+      "para_break": true
+    },
+    {
+      "start": 14.74,
+      "end": 16.52,
+      "text": "each other for some time in silence."
+    },
+    {
+      "start": 17.22,
+      "end": 19.58,
+      "text": "At last the Caterpillar took the hookah out"
+    },
+    {
+      "start": 19.58,
+      "end": 21.9,
+      "text": "of its mouth and addressed her in a languid,"
+    },
+    {
+      "start": 22.02,
+      "end": 22.54,
+      "text": "sleepy voice."
+    },
+    {
+      "start": 23.56,
+      "end": 26.46,
+      "text": "\"'Who are you?' said the Caterpillar.",
+      "para_break": true
+    },
+    {
+      "start": 26.92,
+      "end": 30.16,
+      "text": "This was not an encouraging opening for a conversation."
+    },
+    {
+      "start": 31.104,
+      "end": 31.62,
+      "text": "Alice replied,",
+      "para_break": true
+    },
+    {
+      "start": 31.88,
+      "end": 32.68,
+      "text": "rather shyly,"
+    },
+    {
+      "start": 33.44,
+      "end": 34.22,
+      "text": "I hardly know,",
+      "para_break": true
+    },
+    {
+      "start": 34.38,
+      "end": 34.62,
+      "text": "sir,"
+    },
+    {
+      "start": 34.74,
+      "end": 35.46,
+      "text": "just at present."
+    },
+    {
+      "start": 35.86,
+      "end": 38.64,
+      "text": "At least I know who I was when I got up this morning."
+    },
+    {
+      "start": 39.32,
+      "end": 42.3,
+      "text": "But I think I must have been changed several times since then."
+    },
+    {
+      "start": 43.34,
+      "end": 44.92,
+      "text": "What do you mean by that?",
+      "para_break": true
+    },
+    {
+      "start": 45.088,
+      "end": 46.76,
+      "text": "said the caterpillar sternly."
+    },
+    {
+      "start": 47.424,
+      "end": 48.22,
+      "text": "Explain yourself."
+    },
+    {
+      "start": 50.56,
+      "end": 51.84,
+      "text": "I can't explain myself,",
+      "para_break": true
+    },
+    {
+      "start": 52.26,
+      "end": 52.8,
+      "text": "I'm afraid,"
+    },
+    {
+      "start": 52.9,
+      "end": 53.14,
+      "text": "sir,"
+    },
+    {
+      "start": 53.26,
+      "end": 53.78,
+      "text": "said Alice,"
+    },
+    {
+      "start": 54.14,
+      "end": 55.08,
+      "text": "because I'm not myself,"
+    },
+    {
+      "start": 55.18,
+      "end": 55.56,
+      "text": "you see."
+    },
+    {
+      "start": 56.58,
+      "end": 57.46,
+      "text": "I don't see,",
+      "para_break": true
+    },
+    {
+      "start": 57.76,
+      "end": 58.94,
+      "text": "said the caterpillar."
+    },
+    {
+      "start": 60.736,
+      "end": 62.48,
+      "text": "I'm afraid I can't put it more clearly,",
+      "para_break": true
+    },
+    {
+      "start": 62.72,
+      "end": 64.2,
+      "text": "Alice replied very politely,"
+    },
+    {
+      "start": 64.66,
+      "end": 67.22,
+      "text": "for I can't understand it myself to begin with,"
+    },
+    {
+      "start": 67.7,
+      "end": 70.96,
+      "text": "and being so many different sizes in a day is very confusing."
+    },
+    {
+      "start": 72.34,
+      "end": 73.22,
+      "text": "It isn't,",
+      "para_break": true
+    },
+    {
+      "start": 73.24,
+      "end": 74.22,
+      "text": "said the caterpillar."
+    },
+    {
+      "start": 75.14,
+      "end": 75.36,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 75.5,
+      "end": 77.3,
+      "text": "perhaps you haven't found it so yet,"
+    },
+    {
+      "start": 77.56,
+      "end": 78.12,
+      "text": "said Alice,"
+    },
+    {
+      "start": 78.52,
+      "end": 80.51,
+      "text": "but when you have to turn into a chrysalis,"
+    },
+    {
+      "start": 80.66,
+      "end": 81.6,
+      "text": "you will some day,"
+    },
+    {
+      "start": 81.66,
+      "end": 81.98,
+      "text": "you know,"
+    },
+    {
+      "start": 82.46,
+      "end": 84.14,
+      "text": "and then after that into a butterfly,"
+    },
+    {
+      "start": 84.42,
+      "end": 86.5,
+      "text": "I should think you'll feel it a little queer,"
+    },
+    {
+      "start": 86.68,
+      "end": 87.04,
+      "text": "won't you?"
+    },
+    {
+      "start": 88.384,
+      "end": 88.88,
+      "text": "Not a bit,",
+      "para_break": true
+    },
+    {
+      "start": 89.14,
+      "end": 90.18,
+      "text": "said the caterpillar."
+    },
+    {
+      "start": 90.9,
+      "end": 91.36,
+      "text": "Well,"
+    },
+    {
+      "start": 91.54,
+      "end": 93.34,
+      "text": "perhaps your feelings may be different,"
+    },
+    {
+      "start": 93.46,
+      "end": 93.96,
+      "text": "said Alice."
+    },
+    {
+      "start": 94.58,
+      "end": 97.22,
+      "text": "All I know is it would feel very queer to me."
+    },
+    {
+      "start": 98.12,
+      "end": 98.32,
+      "text": "You,",
+      "para_break": true
+    },
+    {
+      "start": 98.72,
+      "end": 100.68,
+      "text": "said the caterpillar contemptuously."
+    },
+    {
+      "start": 101.42,
+      "end": 102.7,
+      "text": "Who are you?"
+    },
+    {
+      "start": 104.76,
+      "end": 107.36,
+      "text": "Which brought them back again to the beginning of the conversation.",
+      "para_break": true
+    },
+    {
+      "start": 107.94,
+      "end": 110.54,
+      "text": "Alice felt a little irritated at the"
+    },
+    {
+      "start": 110.54,
+      "end": 112.86,
+      "text": "caterpillars making such very short remarks,"
+    },
+    {
+      "start": 113.42,
+      "end": 115.96,
+      "text": "and she drew herself up and said very gravely,"
+    },
+    {
+      "start": 116.24,
+      "end": 119.34,
+      "text": "I think you ought to tell me who you are first."
+    },
+    {
+      "start": 120.34,
+      "end": 120.52,
+      "text": "Why?",
+      "para_break": true
+    },
+    {
+      "start": 120.9,
+      "end": 122.32,
+      "text": "said the caterpillar."
+    },
+    {
+      "start": 123.19,
+      "end": 125.2,
+      "text": "Here was another puzzling question,",
+      "para_break": true
+    },
+    {
+      "start": 125.34,
+      "end": 127.86,
+      "text": "and as Alice could not think of any good reason,"
+    },
+    {
+      "start": 128.18,
+      "end": 129.94,
+      "text": "and as the caterpillar seemed to be"
+    },
+    {
+      "start": 129.94,
+      "end": 131.84,
+      "text": "in a very unpleasant state of mind,"
+    },
+    {
+      "start": 131.94,
+      "end": 132.64,
+      "text": "she turned away."
+    },
+    {
+      "start": 133.92,
+      "end": 134.32,
+      "text": "Come back,",
+      "para_break": true
+    },
+    {
+      "start": 134.58,
+      "end": 136.4,
+      "text": "the caterpillar called after her."
+    },
+    {
+      "start": 136.6,
+      "end": 138.9,
+      "text": "I have something important to say."
+    },
+    {
+      "start": 140.24,
+      "end": 141.04,
+      "text": "This sounded promising,",
+      "para_break": true
+    },
+    {
+      "start": 141.26,
+      "end": 141.58,
+      "text": "certainly."
+    },
+    {
+      "start": 141.88,
+      "end": 143.4,
+      "text": "Alice turned and came back"
+    },
+    {
+      "start": 143.54,
+      "end": 143.76,
+      "text": "again."
+    },
+    {
+      "start": 145.216,
+      "end": 146.46,
+      "text": "Keep your temper,",
+      "para_break": true
+    },
+    {
+      "start": 146.92,
+      "end": 148.3,
+      "text": "said the caterpillar."
+    },
+    {
+      "start": 149.16,
+      "end": 149.64,
+      "text": "Is that all,",
+      "para_break": true
+    },
+    {
+      "start": 149.88,
+      "end": 150.44,
+      "text": "said Alice,"
+    },
+    {
+      "start": 150.52,
+      "end": 151.32,
+      "text": "swallowing down her"
+    },
+    {
+      "start": 151.42,
+      "end": 152.62,
+      "text": "anger as well as she could."
+    },
+    {
+      "start": 152.92,
+      "end": 153.76,
+      "text": "No,"
+    },
+    {
+      "start": 154.04,
+      "end": 155.06,
+      "text": "said the caterpillar."
+    },
+    {
+      "start": 156.256,
+      "end": 157.48,
+      "text": "Alice thought she might as well",
+      "para_break": true
+    },
+    {
+      "start": 157.56,
+      "end": 157.78,
+      "text": "wait,"
+    },
+    {
+      "start": 157.92,
+      "end": 159.5,
+      "text": "as she had nothing else to do,"
+    },
+    {
+      "start": 159.66,
+      "end": 160.4,
+      "text": "and perhaps,"
+    },
+    {
+      "start": 160.6,
+      "end": 161.22,
+      "text": "after all,"
+    },
+    {
+      "start": 161.28,
+      "end": 162.54,
+      "text": "it might tell her something worth"
+    },
+    {
+      "start": 162.76,
+      "end": 163.0,
+      "text": "hearing."
+    },
+    {
+      "start": 163.18,
+      "end": 165.9,
+      "text": "For some minutes it puffed away without speaking,"
+    },
+    {
+      "start": 166.14,
+      "end": 168.66,
+      "text": "but at last it unfolded its arms,"
+    },
+    {
+      "start": 168.86,
+      "end": 170.66,
+      "text": "took the hookah out of its mouth again,"
+    },
+    {
+      "start": 170.8,
+      "end": 171.36,
+      "text": "and said,"
+    },
+    {
+      "start": 172.18,
+      "end": 173.9,
+      "text": "So you think you're changed,",
+      "para_break": true
+    },
+    {
+      "start": 173.9,
+      "end": 174.44,
+      "text": "do you?"
+    },
+    {
+      "start": 176.6,
+      "end": 177.54,
+      "text": "I'm afraid I am,",
+      "para_break": true
+    },
+    {
+      "start": 177.66,
+      "end": 177.92,
+      "text": "sir,"
+    },
+    {
+      "start": 178.1,
+      "end": 178.78,
+      "text": "said Alice."
+    },
+    {
+      "start": 178.96,
+      "end": 180.86,
+      "text": "I can't remember things as I used,"
+    },
+    {
+      "start": 181.26,
+      "end": 183.86,
+      "text": "and I don't keep the same size for ten minutes together."
+    },
+    {
+      "start": 185.568,
+      "end": 186.96,
+      "text": "Can't remember what things,",
+      "para_break": true
+    },
+    {
+      "start": 187.12,
+      "end": 188.26,
+      "text": "said the caterpillar."
+    },
+    {
+      "start": 188.28,
+      "end": 188.38,
+      "text": "Well,"
+    },
+    {
+      "start": 189.68,
+      "end": 192.08,
+      "text": "I've tried to say how doth the little busy be,",
+      "para_break": true
+    },
+    {
+      "start": 192.24,
+      "end": 193.66,
+      "text": "but it all came different,"
+    },
+    {
+      "start": 194.04,
+      "end": 196.4,
+      "text": "Alice replied in a very melancholy voice."
+    },
+    {
+      "start": 197.3,
+      "end": 198.2,
+      "text": "Repeat,",
+      "para_break": true
+    },
+    {
+      "start": 199.04,
+      "end": 200.82,
+      "text": "you are old Father William,",
+      "para_break": true
+    },
+    {
+      "start": 201.22,
+      "end": 202.24,
+      "text": "said the caterpillar."
+    },
+    {
+      "start": 203.2,
+      "end": 204.78,
+      "text": "Alice folded her hands and began.",
+      "para_break": true
+    },
+    {
+      "start": 206.02,
+      "end": 206.61,
+      "text": "You are old,",
+      "para_break": true
+    },
+    {
+      "start": 206.8,
+      "end": 207.32,
+      "text": "Father William,"
+    },
+    {
+      "start": 207.56,
+      "end": 208.46,
+      "text": "the young man said,"
+    },
+    {
+      "start": 208.62,
+      "end": 210.6,
+      "text": "and your hair has become very white,"
+    },
+    {
+      "start": 211.2,
+      "end": 213.44,
+      "text": "and yet you incessantly stand on your head."
+    },
+    {
+      "start": 213.54,
+      "end": 215.58,
+      "text": "Do you think at your age it is right?"
+    },
+    {
+      "start": 216.54,
+      "end": 217.1,
+      "text": "In my youth,",
+      "para_break": true
+    },
+    {
+      "start": 217.22,
+      "end": 218.82,
+      "text": "Father William replied to his son,"
+    },
+    {
+      "start": 219.34,
+      "end": 221.0,
+      "text": "I feared it might injure the brain."
+    },
+    {
+      "start": 221.6,
+      "end": 224.24,
+      "text": "But now that I am perfectly sure I have none,"
+    },
+    {
+      "start": 224.54,
+      "end": 226.48,
+      "text": "why do I do it again and again?"
+    },
+    {
+      "start": 227.58,
+      "end": 228.18,
+      "text": "You are old,",
+      "para_break": true
+    },
+    {
+      "start": 228.3,
+      "end": 228.86,
+      "text": "said the youth,"
+    },
+    {
+      "start": 228.98,
+      "end": 229.94,
+      "text": "as I mentioned before,"
+    },
+    {
+      "start": 230.24,
+      "end": 232.56,
+      "text": "and have grown most uncommonly fat."
+    },
+    {
+      "start": 233.38,
+      "end": 235.72,
+      "text": "Yet you turned a back somersault in at the door.",
+      "para_break": true
+    },
+    {
+      "start": 235.9,
+      "end": 236.26,
+      "text": "Pray,"
+    },
+    {
+      "start": 236.46,
+      "end": 237.7,
+      "text": "what is the reason of that?"
+    },
+    {
+      "start": 238.96,
+      "end": 239.54,
+      "text": "In my youth,",
+      "para_break": true
+    },
+    {
+      "start": 239.6,
+      "end": 240.24,
+      "text": "said the sage,"
+    },
+    {
+      "start": 240.44,
+      "end": 241.78,
+      "text": "as he shook his grey locks,"
+    },
+    {
+      "start": 242.38,
+      "end": 244.18,
+      "text": "I kept all my limbs very supple."
+    }
+  ]
+}

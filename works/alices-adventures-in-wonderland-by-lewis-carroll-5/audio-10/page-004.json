@@ -1,0 +1,96 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-10",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_10_carroll.mp3",
+  "chapter_title": "10 - The Lobster Quadrille",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.759,
+  "page_num": 4,
+  "page_total": 4,
+  "page_start_sec": 775.52,
+  "page_end_sec": 806.2,
+  "segments": [
+    {
+      "start": 775.52,
+      "end": 775.88,
+      "text": "Come on!",
+      "para_break": true
+    },
+    {
+      "start": 776.08,
+      "end": 776.88,
+      "text": "cried the griffin,"
+    },
+    {
+      "start": 776.88,
+      "end": 778.5,
+      "text": "and taking Alice by the hand,"
+    },
+    {
+      "start": 778.66,
+      "end": 781.32,
+      "text": "it hurried off without waiting for the end of the song."
+    },
+    {
+      "start": 782.96,
+      "end": 783.84,
+      "text": "What trial is it?",
+      "para_break": true
+    },
+    {
+      "start": 784.16,
+      "end": 785.64,
+      "text": "Alice panted as she ran,"
+    },
+    {
+      "start": 786.18,
+      "end": 787.52,
+      "text": "but the griffin only answered,"
+    },
+    {
+      "start": 788.92,
+      "end": 789.24,
+      "text": "Come on!",
+      "para_break": true
+    },
+    {
+      "start": 789.4,
+      "end": 792.36,
+      "text": "and ran the faster while more and more faintly came,"
+    },
+    {
+      "start": 792.48,
+      "end": 794.38,
+      "text": "carried on the breeze that followed them,"
+    },
+    {
+      "start": 794.44,
+      "end": 795.66,
+      "text": "the melancholy words,"
+    },
+    {
+      "start": 796.512,
+      "end": 798.48,
+      "text": "Soup of the evening,",
+      "para_break": true
+    },
+    {
+      "start": 798.64,
+      "end": 799.46,
+      "text": "beautiful,"
+    },
+    {
+      "start": 800.02,
+      "end": 801.5,
+      "text": "beautiful soup."
+    },
+    {
+      "start": 805.344,
+      "end": 806.2,
+      "text": "End of chapter 10",
+      "para_break": true
+    }
+  ]
+}

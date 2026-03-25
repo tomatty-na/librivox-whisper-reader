@@ -1,0 +1,711 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-08",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_08_carroll.mp3",
+  "chapter_title": "08 - The Queen's Croquet-ground",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.605,
+  "page_num": 3,
+  "page_total": 4,
+  "page_start_sec": 485.0,
+  "page_end_sec": 728.88,
+  "segments": [
+    {
+      "start": 485.0,
+      "end": 487.4,
+      "text": "The players all played at once without waiting for turns,",
+      "para_break": true
+    },
+    {
+      "start": 487.6,
+      "end": 490.38,
+      "text": "quarreling all the while and fighting for the hedgehogs,"
+    },
+    {
+      "start": 490.78,
+      "end": 493.14,
+      "text": "and in a very short time the queen was in a furious"
+    },
+    {
+      "start": 493.14,
+      "end": 495.32,
+      "text": "passion and went stamping about and shouting,"
+    },
+    {
+      "start": 496.12,
+      "end": 496.86,
+      "text": "Off with his head!",
+      "para_break": true
+    },
+    {
+      "start": 496.98,
+      "end": 498.48,
+      "text": "Or off with her head!"
+    },
+    {
+      "start": 499.16,
+      "end": 500.14,
+      "text": "about once in a minute.",
+      "para_break": true
+    },
+    {
+      "start": 501.38,
+      "end": 503.14,
+      "text": "Alice began to feel very uneasy,",
+      "para_break": true
+    },
+    {
+      "start": 503.58,
+      "end": 506.62,
+      "text": "to be sure she had not as yet had any dispute with the Queen,"
+    },
+    {
+      "start": 506.82,
+      "end": 508.9,
+      "text": "but she knew that it might happen any minute."
+    },
+    {
+      "start": 509.6,
+      "end": 510.0,
+      "text": "And then,",
+      "para_break": true
+    },
+    {
+      "start": 510.16,
+      "end": 510.64,
+      "text": "thought she,"
+    },
+    {
+      "start": 510.78,
+      "end": 512.0,
+      "text": "what would become of me?"
+    },
+    {
+      "start": 512.58,
+      "end": 514.56,
+      "text": "They're dreadfully fond of beheading people here."
+    },
+    {
+      "start": 514.7,
+      "end": 516.92,
+      "text": "The great wonder is that there's anyone left"
+    },
+    {
+      "start": 517.02,
+      "end": 517.3,
+      "text": "alive."
+    },
+    {
+      "start": 518.18,
+      "end": 520.28,
+      "text": "She was looking about for some way of escape,",
+      "para_break": true
+    },
+    {
+      "start": 520.5,
+      "end": 522.2,
+      "text": "and wondering whether she could get"
+    },
+    {
+      "start": 522.34,
+      "end": 523.44,
+      "text": "away without being seen,"
+    },
+    {
+      "start": 523.6,
+      "end": 526.34,
+      "text": "when she noticed a curious appearance in the air."
+    },
+    {
+      "start": 527.0,
+      "end": 527.6,
+      "text": "It puzzled her",
+      "para_break": true
+    },
+    {
+      "start": 527.7,
+      "end": 528.56,
+      "text": "very much at first,"
+    },
+    {
+      "start": 528.76,
+      "end": 530.72,
+      "text": "but after watching it a minute or two,"
+    },
+    {
+      "start": 530.94,
+      "end": 532.38,
+      "text": "she made it out to be a grin,"
+    },
+    {
+      "start": 532.58,
+      "end": 533.64,
+      "text": "and she said to herself,"
+    },
+    {
+      "start": 533.9,
+      "end": 535.34,
+      "text": "It's the Cheshire Cat,"
+    },
+    {
+      "start": 535.6,
+      "end": 537.38,
+      "text": "now I shall have somebody to talk to."
+    },
+    {
+      "start": 538.54,
+      "end": 539.64,
+      "text": "How are you getting on?",
+      "para_break": true
+    },
+    {
+      "start": 539.83,
+      "end": 540.76,
+      "text": "said the cat,"
+    },
+    {
+      "start": 540.9,
+      "end": 543.34,
+      "text": "as soon as there was mouth enough for it to speak with."
+    },
+    {
+      "start": 544.928,
+      "end": 546.76,
+      "text": "Alice waited till the eyes had appeared,",
+      "para_break": true
+    },
+    {
+      "start": 546.88,
+      "end": 547.66,
+      "text": "and then nodded."
+    },
+    {
+      "start": 547.8,
+      "end": 549.5,
+      "text": "It's no use speaking to it,"
+    },
+    {
+      "start": 549.6,
+      "end": 549.96,
+      "text": "she thought,"
+    },
+    {
+      "start": 550.1,
+      "end": 551.1,
+      "text": "until its ears have come,"
+    },
+    {
+      "start": 551.22,
+      "end": 552.18,
+      "text": "or at least one of them."
+    },
+    {
+      "start": 552.96,
+      "end": 554.06,
+      "text": "In another minute the whole",
+      "para_break": true
+    },
+    {
+      "start": 554.14,
+      "end": 554.62,
+      "text": "head appeared,"
+    },
+    {
+      "start": 554.8,
+      "end": 556.72,
+      "text": "and then Alice put down her flamingo"
+    },
+    {
+      "start": 556.72,
+      "end": 558.38,
+      "text": "and began an account of the game,"
+    },
+    {
+      "start": 558.84,
+      "end": 561.22,
+      "text": "feeling very glad she had someone to listen to her."
+    },
+    {
+      "start": 562.06,
+      "end": 563.8,
+      "text": "The cat seemed to think that there was enough",
+      "para_break": true
+    },
+    {
+      "start": 563.8,
+      "end": 564.76,
+      "text": "of it now in sight,"
+    },
+    {
+      "start": 564.9,
+      "end": 566.08,
+      "text": "and no more of it appeared."
+    },
+    {
+      "start": 566.85,
+      "end": 569.06,
+      "text": "I don't think they play at all fairly,",
+      "para_break": true
+    },
+    {
+      "start": 569.3,
+      "end": 569.94,
+      "text": "Alice began"
+    },
+    {
+      "start": 569.94,
+      "end": 571.36,
+      "text": "in a rather complaining tone."
+    },
+    {
+      "start": 572.1,
+      "end": 575.26,
+      "text": "And they all quarrel so dreadfully one can't hear oneself speak,",
+      "para_break": true
+    },
+    {
+      "start": 575.56,
+      "end": 578.06,
+      "text": "and they don't seem to have any rules in particular."
+    },
+    {
+      "start": 578.68,
+      "end": 579.04,
+      "text": "At least,",
+      "para_break": true
+    },
+    {
+      "start": 579.04,
+      "end": 579.62,
+      "text": "if there are,"
+    },
+    {
+      "start": 579.72,
+      "end": 580.84,
+      "text": "nobody attends to them."
+    },
+    {
+      "start": 581.28,
+      "end": 583.28,
+      "text": "And you have no idea how confusing it is,"
+    },
+    {
+      "start": 583.36,
+      "end": 584.6,
+      "text": "all the things being alive."
+    },
+    {
+      "start": 585.32,
+      "end": 585.72,
+      "text": "For instance,",
+      "para_break": true
+    },
+    {
+      "start": 585.94,
+      "end": 587.68,
+      "text": "there's the arch I've got to go through next,"
+    },
+    {
+      "start": 587.98,
+      "end": 589.8,
+      "text": "walking about at the other end of the ground."
+    },
+    {
+      "start": 590.68,
+      "end": 592.84,
+      "text": "And I should have croqueted the queen's hedgehog just now,",
+      "para_break": true
+    },
+    {
+      "start": 593.312,
+      "end": 594.98,
+      "text": "only it ran away when it saw mine coming."
+    },
+    {
+      "start": 595.8,
+      "end": 596.92,
+      "text": "How do you like the queen?",
+      "para_break": true
+    },
+    {
+      "start": 597.28,
+      "end": 598.94,
+      "text": "said the cat in a low voice."
+    },
+    {
+      "start": 599.904,
+      "end": 600.58,
+      "text": "Not at all,",
+      "para_break": true
+    },
+    {
+      "start": 600.72,
+      "end": 601.16,
+      "text": "said Alice."
+    },
+    {
+      "start": 601.728,
+      "end": 602.97,
+      "text": "She's so extremely..."
+    },
+    {
+      "start": 603.35,
+      "end": 606.78,
+      "text": "Just then she noticed that the queen was close behind her listening,"
+    },
+    {
+      "start": 606.96,
+      "end": 608.02,
+      "text": "so she went on,"
+    },
+    {
+      "start": 608.8,
+      "end": 612.38,
+      "text": "Likely to win that it's hardly worthwhile finishing the game.",
+      "para_break": true
+    },
+    {
+      "start": 613.38,
+      "end": 614.88,
+      "text": "The queen smiled and passed on.",
+      "para_break": true
+    },
+    {
+      "start": 615.9,
+      "end": 616.94,
+      "text": "Who are you talking to?",
+      "para_break": true
+    },
+    {
+      "start": 617.12,
+      "end": 617.92,
+      "text": "said the king,"
+    },
+    {
+      "start": 618.02,
+      "end": 619.88,
+      "text": "coming up to Alice and looking at"
+    },
+    {
+      "start": 619.88,
+      "end": 621.46,
+      "text": "the cat's head with great curiosity."
+    },
+    {
+      "start": 622.208,
+      "end": 623.14,
+      "text": "It's a friend of mine,",
+      "para_break": true
+    },
+    {
+      "start": 623.26,
+      "end": 623.96,
+      "text": "a Cheshire cat,"
+    },
+    {
+      "start": 624.18,
+      "end": 624.64,
+      "text": "said Alice."
+    },
+    {
+      "start": 624.78,
+      "end": 626.18,
+      "text": "Allow me to introduce it."
+    },
+    {
+      "start": 627.34,
+      "end": 628.92,
+      "text": "I don't like the look of it at all,",
+      "para_break": true
+    },
+    {
+      "start": 629.06,
+      "end": 629.72,
+      "text": "said the king."
+    },
+    {
+      "start": 629.98,
+      "end": 630.38,
+      "text": "However,"
+    },
+    {
+      "start": 630.64,
+      "end": 632.16,
+      "text": "it may kiss my hand if it likes."
+    },
+    {
+      "start": 633.504,
+      "end": 635.68,
+      "text": "\"'I'd rather not,' the cat remarked.",
+      "para_break": true
+    },
+    {
+      "start": 636.704,
+      "end": 638.24,
+      "text": "\"'Don't be impertinent,' said the king,",
+      "para_break": true
+    },
+    {
+      "start": 638.32,
+      "end": 640.16,
+      "text": "\"'and don't look at me like that.'"
+    },
+    {
+      "start": 640.4,
+      "end": 642.28,
+      "text": "He got behind Alice as he spoke."
+    },
+    {
+      "start": 643.36,
+      "end": 644.98,
+      "text": "\"'A cat may look at a king,' said Alice.",
+      "para_break": true
+    },
+    {
+      "start": 645.54,
+      "end": 646.66,
+      "text": "\"'I've read that in some book,"
+    },
+    {
+      "start": 647.06,
+      "end": 648.3,
+      "text": "but I don't remember where.'"
+    },
+    {
+      "start": 648.84,
+      "end": 649.44,
+      "text": "\"'Well,"
+    },
+    {
+      "start": 649.44,
+      "end": 652.05,
+      "text": "it must be removed,' said the king very decidedly,"
+    },
+    {
+      "start": 652.54,
+      "end": 653.64,
+      "text": "and he called to the queen,"
+    },
+    {
+      "start": 653.8,
+      "end": 655.04,
+      "text": "who was passing at the moment."
+    },
+    {
+      "start": 655.6,
+      "end": 655.92,
+      "text": "\"'My dear,"
+    },
+    {
+      "start": 656.2,
+      "end": 657.91,
+      "text": "I wish you would have this cat removed.'"
+    },
+    {
+      "start": 658.48,
+      "end": 661.38,
+      "text": "The queen had only one way of settling all difficulties,"
+    },
+    {
+      "start": 661.5,
+      "end": 662.18,
+      "text": "great or small."
+    },
+    {
+      "start": 663.02,
+      "end": 663.8,
+      "text": "Off with his head,",
+      "para_break": true
+    },
+    {
+      "start": 664.5,
+      "end": 666.02,
+      "text": "she said without even looking round.",
+      "para_break": true
+    },
+    {
+      "start": 667.552,
+      "end": 669.0,
+      "text": "I'll fetch the executioner myself,",
+      "para_break": true
+    },
+    {
+      "start": 669.42,
+      "end": 670.56,
+      "text": "said the king eagerly,"
+    },
+    {
+      "start": 670.6,
+      "end": 671.52,
+      "text": "and he hurried off."
+    },
+    {
+      "start": 672.224,
+      "end": 673.64,
+      "text": "Alice thought she might as well go",
+      "para_break": true
+    },
+    {
+      "start": 673.64,
+      "end": 675.56,
+      "text": "back and see how the game was going on,"
+    },
+    {
+      "start": 675.9,
+      "end": 677.28,
+      "text": "as she heard the queen's voice in"
+    },
+    {
+      "start": 677.28,
+      "end": 678.76,
+      "text": "the distance screaming with passion."
+    },
+    {
+      "start": 679.46,
+      "end": 681.52,
+      "text": "She had already heard her sentence three of the",
+      "para_break": true
+    },
+    {
+      "start": 681.52,
+      "end": 683.56,
+      "text": "players to be executed for having missed their"
+    },
+    {
+      "start": 683.64,
+      "end": 683.9,
+      "text": "turns,"
+    },
+    {
+      "start": 684.04,
+      "end": 686.28,
+      "text": "and she did not like the look of things at all,"
+    },
+    {
+      "start": 686.56,
+      "end": 688.38,
+      "text": "as the game was in such confusion that"
+    },
+    {
+      "start": 688.5,
+      "end": 690.34,
+      "text": "she never knew whether it was her turn or not,"
+    },
+    {
+      "start": 691.04,
+      "end": 692.56,
+      "text": "so she went in search of her hedgehog.",
+      "para_break": true
+    },
+    {
+      "start": 693.57,
+      "end": 696.82,
+      "text": "The hedgehog was engaged in a fight with another hedgehog,",
+      "para_break": true
+    },
+    {
+      "start": 696.92,
+      "end": 698.42,
+      "text": "which seemed to Alice an excellent"
+    },
+    {
+      "start": 698.6,
+      "end": 701.1,
+      "text": "opportunity for croqueting one of them with the other."
+    },
+    {
+      "start": 701.64,
+      "end": 703.9,
+      "text": "The only difficulty was that her flamingo"
+    },
+    {
+      "start": 703.9,
+      "end": 705.94,
+      "text": "was gone across to the other side of the garden,"
+    },
+    {
+      "start": 706.08,
+      "end": 707.58,
+      "text": "where Alice could see it trying,"
+    },
+    {
+      "start": 707.76,
+      "end": 708.28,
+      "text": "in a helpless"
+    },
+    {
+      "start": 708.44,
+      "end": 708.9,
+      "text": "sort of way,"
+    },
+    {
+      "start": 709.02,
+      "end": 710.66,
+      "text": "to fly up into one of the trees."
+    },
+    {
+      "start": 711.74,
+      "end": 713.84,
+      "text": "By the time she had caught the flamingo and brought",
+      "para_break": true
+    },
+    {
+      "start": 713.96,
+      "end": 714.18,
+      "text": "it back,"
+    },
+    {
+      "start": 714.4,
+      "end": 715.34,
+      "text": "the fight was over,"
+    },
+    {
+      "start": 715.44,
+      "end": 717.48,
+      "text": "and both the hedgehogs were out of sight."
+    },
+    {
+      "start": 718.5,
+      "end": 719.46,
+      "text": "But it doesn't matter much,",
+      "para_break": true
+    },
+    {
+      "start": 719.62,
+      "end": 720.04,
+      "text": "thought Alice,"
+    },
+    {
+      "start": 720.24,
+      "end": 722.56,
+      "text": "as all the archers are gone from this side of the ground."
+    },
+    {
+      "start": 722.97,
+      "end": 724.14,
+      "text": "So she tucked it under"
+    },
+    {
+      "start": 724.14,
+      "end": 724.6,
+      "text": "her arm,"
+    },
+    {
+      "start": 724.68,
+      "end": 725.92,
+      "text": "that it might not escape again,"
+    },
+    {
+      "start": 726.12,
+      "end": 728.66,
+      "text": "and went back for a little more conversation with her"
+    },
+    {
+      "start": 728.66,
+      "end": 728.88,
+      "text": "friend."
+    }
+  ]
+}

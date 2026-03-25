@@ -1,0 +1,92 @@
+{
+  "works": [
+    {
+      "slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+      "title": "Alice's Adventures in Wonderland (version 4)",
+      "author": "Lewis Carroll",
+      "year": null,
+      "reader": "Eric Leach",
+      "librivox_url": "https://librivox.org/alices-adventures-in-wonderland-by-lewis-carroll-5/",
+      "archive_id": "alices_adventures_1005_librivox",
+      "added": "2026-03-25",
+      "genres": [
+        "General"
+      ],
+      "language": "English",
+      "chapters": [
+        {
+          "audio_file": "audio-01",
+          "title": "01 - Proem & Down the Rabbit-hole",
+          "duration_sec": 722,
+          "pages": 3
+        },
+        {
+          "audio_file": "audio-02",
+          "title": "02 - The Pool of Tears",
+          "duration_sec": 592,
+          "pages": 3
+        },
+        {
+          "audio_file": "audio-03",
+          "title": "03 - A Caucus-race and a Long Tale",
+          "duration_sec": 580,
+          "pages": 3
+        },
+        {
+          "audio_file": "audio-04",
+          "title": "04 - The Rabbit sends in a Little Bill",
+          "duration_sec": 838,
+          "pages": 4
+        },
+        {
+          "audio_file": "audio-05",
+          "title": "05 - Advice from a Caterpillar",
+          "duration_sec": 767,
+          "pages": 4
+        },
+        {
+          "audio_file": "audio-06",
+          "title": "06 - Pig and Pepper",
+          "duration_sec": 849,
+          "pages": 4
+        },
+        {
+          "audio_file": "audio-07",
+          "title": "07 - A Mad Tea-party",
+          "duration_sec": 831,
+          "pages": 4
+        },
+        {
+          "audio_file": "audio-08",
+          "title": "08 - The Queen's Croquet-ground",
+          "duration_sec": 821,
+          "pages": 4
+        },
+        {
+          "audio_file": "audio-09",
+          "title": "09 - The Mock Turtle's Story",
+          "duration_sec": 821,
+          "pages": 4
+        },
+        {
+          "audio_file": "audio-10",
+          "title": "10 - The Lobster Quadrille",
+          "duration_sec": 806,
+          "pages": 4
+        },
+        {
+          "audio_file": "audio-11",
+          "title": "11 - Who Stole the Tarts?",
+          "duration_sec": 622,
+          "pages": 3
+        },
+        {
+          "audio_file": "audio-12",
+          "title": "12 - Alice's Evidence",
+          "duration_sec": 710,
+          "pages": 3
+        }
+      ]
+    }
+  ]
+}

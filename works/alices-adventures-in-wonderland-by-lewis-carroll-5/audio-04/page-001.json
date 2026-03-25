@@ -1,0 +1,672 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-04",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_04_carroll.mp3",
+  "chapter_title": "04 - The Rabbit sends in a Little Bill",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.717,
+  "page_num": 1,
+  "page_total": 4,
+  "page_start_sec": 0.544,
+  "page_end_sec": 248.2,
+  "segments": [
+    {
+      "start": 0.544,
+      "end": 1.08,
+      "text": "CHAPTER IV."
+    },
+    {
+      "start": 1.26,
+      "end": 3.48,
+      "text": "OF ALICE'S ADVENTURES IN WONDERLAND."
+    },
+    {
+      "start": 3.62,
+      "end": 4.46,
+      "text": "BY LOUIS CARROLL."
+    },
+    {
+      "start": 5.06,
+      "end": 7.26,
+      "text": "This LibriVox recording is in the public domain."
+    },
+    {
+      "start": 9.73,
+      "end": 12.16,
+      "text": "THE RABBIT SENDS IN A LITTLE BILL",
+      "para_break": true
+    },
+    {
+      "start": 13.8,
+      "end": 16.52,
+      "text": "It was the white rabbit trotting slowly back again,",
+      "para_break": true
+    },
+    {
+      "start": 16.7,
+      "end": 18.82,
+      "text": "and looking nervously about as it went,"
+    },
+    {
+      "start": 18.98,
+      "end": 20.4,
+      "text": "as if it had lost something,"
+    },
+    {
+      "start": 20.56,
+      "end": 22.58,
+      "text": "and she heard it muttering to itself,"
+    },
+    {
+      "start": 23.02,
+      "end": 23.92,
+      "text": "The Duchess,"
+    },
+    {
+      "start": 23.94,
+      "end": 24.66,
+      "text": "the Duchess,"
+    },
+    {
+      "start": 24.68,
+      "end": 24.86,
+      "text": "oh,"
+    },
+    {
+      "start": 25.0,
+      "end": 25.68,
+      "text": "my dear paws,"
+    },
+    {
+      "start": 25.94,
+      "end": 26.08,
+      "text": "oh,"
+    },
+    {
+      "start": 26.46,
+      "end": 27.52,
+      "text": "my fur and whiskers,"
+    },
+    {
+      "start": 27.74,
+      "end": 30.88,
+      "text": "She'll get me executed as sure as ferrets are ferrets."
+    },
+    {
+      "start": 31.5,
+      "end": 32.72,
+      "text": "Where can I have dropped them,"
+    },
+    {
+      "start": 32.74,
+      "end": 33.12,
+      "text": "I wonder?"
+    },
+    {
+      "start": 34.44,
+      "end": 36.34,
+      "text": "Alice guessed in a moment that it was looking",
+      "para_break": true
+    },
+    {
+      "start": 36.34,
+      "end": 38.48,
+      "text": "for the fan and the pair of white kid gloves,"
+    },
+    {
+      "start": 38.98,
+      "end": 41.96,
+      "text": "and she very good-naturedly began hunting about for them."
+    },
+    {
+      "start": 42.56,
+      "end": 43.92,
+      "text": "But they were nowhere to be seen."
+    },
+    {
+      "start": 44.832,
+      "end": 47.4,
+      "text": "Everything seemed to have changed since her swim in the pool,",
+      "para_break": true
+    },
+    {
+      "start": 47.82,
+      "end": 49.72,
+      "text": "and the great hall with the glass table and"
+    },
+    {
+      "start": 49.72,
+      "end": 51.32,
+      "text": "the little door had vanished completely."
+    },
+    {
+      "start": 53.56,
+      "end": 56.52,
+      "text": "Very soon the rabbit noticed Alice as she went hunting about",
+      "para_break": true
+    },
+    {
+      "start": 56.9,
+      "end": 58.72,
+      "text": "and called out to her in an angry tone,"
+    },
+    {
+      "start": 59.04,
+      "end": 59.32,
+      "text": "Why,"
+    },
+    {
+      "start": 59.42,
+      "end": 60.08,
+      "text": "Mary Anne,"
+    },
+    {
+      "start": 60.32,
+      "end": 61.82,
+      "text": "what are you doing out here?"
+    },
+    {
+      "start": 62.58,
+      "end": 65.54,
+      "text": "Run home this moment and fetch me a pair of gloves and a fan.",
+      "para_break": true
+    },
+    {
+      "start": 65.96,
+      "end": 66.32,
+      "text": "Quick now!"
+    },
+    {
+      "start": 67.7,
+      "end": 70.46,
+      "text": "And Alice was so much frightened that she ran off at once",
+      "para_break": true
+    },
+    {
+      "start": 70.46,
+      "end": 71.9,
+      "text": "in the direction it pointed to,"
+    },
+    {
+      "start": 72.2,
+      "end": 74.44,
+      "text": "without trying to explain the mistake it had made."
+    },
+    {
+      "start": 75.58,
+      "end": 76.92,
+      "text": "He took me for his housemaid,",
+      "para_break": true
+    },
+    {
+      "start": 77.08,
+      "end": 78.44,
+      "text": "she said to herself as she ran."
+    },
+    {
+      "start": 78.96,
+      "end": 81.24,
+      "text": "How surprised he'll be when he finds out who I am!"
+    },
+    {
+      "start": 81.98,
+      "end": 83.62,
+      "text": "But I'd better take him his fan and gloves.",
+      "para_break": true
+    },
+    {
+      "start": 84.18,
+      "end": 84.52,
+      "text": "That is,"
+    },
+    {
+      "start": 84.6,
+      "end": 85.64,
+      "text": "if I can find them."
+    },
+    {
+      "start": 86.56,
+      "end": 87.94,
+      "text": "As she said this,",
+      "para_break": true
+    },
+    {
+      "start": 87.96,
+      "end": 89.64,
+      "text": "she came upon a neat little house,"
+    },
+    {
+      "start": 89.8,
+      "end": 92.04,
+      "text": "on the door of which was a bright brass plate"
+    },
+    {
+      "start": 92.04,
+      "end": 93.12,
+      "text": "with the name W."
+    },
+    {
+      "start": 93.22,
+      "end": 94.5,
+      "text": "Rabbit engraved upon it."
+    },
+    {
+      "start": 95.14,
+      "end": 96.32,
+      "text": "She went in without knocking,"
+    },
+    {
+      "start": 96.42,
+      "end": 97.16,
+      "text": "and hurried upstairs,"
+    },
+    {
+      "start": 97.56,
+      "end": 100.06,
+      "text": "in great fear lest she should meet the real Mary Ann,"
+    },
+    {
+      "start": 100.42,
+      "end": 101.82,
+      "text": "and be turned out of the house before"
+    },
+    {
+      "start": 101.82,
+      "end": 103.16,
+      "text": "she had found the fan and gloves."
+    },
+    {
+      "start": 104.82,
+      "end": 105.72,
+      "text": "How queer it seems,",
+      "para_break": true
+    },
+    {
+      "start": 105.94,
+      "end": 106.88,
+      "text": "Alice said to herself,"
+    },
+    {
+      "start": 107.2,
+      "end": 108.76,
+      "text": "to be going messages for a rabbit."
+    },
+    {
+      "start": 109.36,
+      "end": 111.66,
+      "text": "I suppose Dinah will be sending me on messages next,"
+    },
+    {
+      "start": 112.26,
+      "end": 114.62,
+      "text": "and she began fancying the sort of thing that would happen."
+    },
+    {
+      "start": 114.86,
+      "end": 115.78,
+      "text": "Miss Alice,"
+    },
+    {
+      "start": 115.96,
+      "end": 118.06,
+      "text": "come here directly and get ready for your walk."
+    },
+    {
+      "start": 118.848,
+      "end": 119.56,
+      "text": "Coming in a minute,",
+      "para_break": true
+    },
+    {
+      "start": 119.64,
+      "end": 119.88,
+      "text": "nurse,"
+    },
+    {
+      "start": 120.06,
+      "end": 122.74,
+      "text": "but I've got to watch this mouse hole till Dinah comes back"
+    },
+    {
+      "start": 122.9,
+      "end": 124.56,
+      "text": "and see that the mouse doesn't get out."
+    },
+    {
+      "start": 125.536,
+      "end": 126.36,
+      "text": "Only I don't think,",
+      "para_break": true
+    },
+    {
+      "start": 126.56,
+      "end": 127.28,
+      "text": "Alice went on,"
+    },
+    {
+      "start": 127.42,
+      "end": 130.48,
+      "text": "that they'd let Dinah stop in the house if it began ordering"
+    },
+    {
+      "start": 130.58,
+      "end": 131.62,
+      "text": "people about like that."
+    },
+    {
+      "start": 132.48,
+      "end": 134.74,
+      "text": "By this time she had found her way into a",
+      "para_break": true
+    },
+    {
+      "start": 134.74,
+      "end": 136.88,
+      "text": "tidy little room with a table in the window,"
+    },
+    {
+      "start": 137.54,
+      "end": 138.1,
+      "text": "and on it,"
+    },
+    {
+      "start": 138.12,
+      "end": 138.8,
+      "text": "as she had hoped,"
+    },
+    {
+      "start": 139.24,
+      "end": 141.94,
+      "text": "a fan and two or three pairs of tiny white kid gloves."
+    },
+    {
+      "start": 142.94,
+      "end": 144.9,
+      "text": "She took up the fan and a pair of the gloves,",
+      "para_break": true
+    },
+    {
+      "start": 145.32,
+      "end": 147.9,
+      "text": "and was just going to leave the room when her eye fell"
+    },
+    {
+      "start": 147.9,
+      "end": 150.48,
+      "text": "upon a little bottle that stood near the looking-glass."
+    },
+    {
+      "start": 151.62,
+      "end": 154.1,
+      "text": "There was no label this time with the words drink me,",
+      "para_break": true
+    },
+    {
+      "start": 154.26,
+      "end": 157.32,
+      "text": "but nevertheless she uncorked it and put it to her lips."
+    },
+    {
+      "start": 158.22,
+      "end": 160.46,
+      "text": "I know something interesting is sure to happen,",
+      "para_break": true
+    },
+    {
+      "start": 160.54,
+      "end": 161.34,
+      "text": "she said to herself,"
+    },
+    {
+      "start": 161.66,
+      "end": 163.3,
+      "text": "whenever I eat or drink anything,"
+    },
+    {
+      "start": 164.12,
+      "end": 165.98,
+      "text": "so I'll just see what this bottle does.",
+      "para_break": true
+    },
+    {
+      "start": 166.82,
+      "end": 168.66,
+      "text": "I do hope it will make me grow large again,",
+      "para_break": true
+    },
+    {
+      "start": 168.82,
+      "end": 171.88,
+      "text": "for really I'm quite tired of being such a tiny little thing."
+    },
+    {
+      "start": 173.2,
+      "end": 174.72,
+      "text": "It did so indeed,",
+      "para_break": true
+    },
+    {
+      "start": 175.0,
+      "end": 176.78,
+      "text": "and much sooner than she had expected."
+    },
+    {
+      "start": 177.06,
+      "end": 178.9,
+      "text": "Before she had drunk half the bottle,"
+    },
+    {
+      "start": 179.14,
+      "end": 181.26,
+      "text": "she found her head pressing against the ceiling,"
+    },
+    {
+      "start": 181.38,
+      "end": 183.4,
+      "text": "and had to stoop to save her neck from being"
+    },
+    {
+      "start": 183.5,
+      "end": 183.64,
+      "text": "broken."
+    },
+    {
+      "start": 184.48,
+      "end": 185.84,
+      "text": "She hastily put down the bottle,",
+      "para_break": true
+    },
+    {
+      "start": 185.94,
+      "end": 186.66,
+      "text": "saying to herself,"
+    },
+    {
+      "start": 186.92,
+      "end": 187.88,
+      "text": "That's quite enough."
+    },
+    {
+      "start": 188.12,
+      "end": 189.0,
+      "text": "I hope I shan't"
+    },
+    {
+      "start": 189.0,
+      "end": 189.64,
+      "text": "grow any more."
+    },
+    {
+      "start": 189.9,
+      "end": 190.78,
+      "text": "As it is,"
+    },
+    {
+      "start": 190.78,
+      "end": 192.0,
+      "text": "I can't get out at the door."
+    },
+    {
+      "start": 192.22,
+      "end": 194.6,
+      "text": "I do wish I hadn't drunk quite so much."
+    },
+    {
+      "start": 196.31,
+      "end": 196.86,
+      "text": "Alas,",
+      "para_break": true
+    },
+    {
+      "start": 196.86,
+      "end": 198.16,
+      "text": "it was too late to wish that."
+    },
+    {
+      "start": 198.32,
+      "end": 199.46,
+      "text": "She went on growing,"
+    },
+    {
+      "start": 200.02,
+      "end": 200.36,
+      "text": "and growing,"
+    },
+    {
+      "start": 200.58,
+      "end": 201.9,
+      "text": "and very soon had to"
+    },
+    {
+      "start": 202.04,
+      "end": 202.88,
+      "text": "kneel down on the floor."
+    },
+    {
+      "start": 203.5,
+      "end": 205.74,
+      "text": "In another minute there was not even room for this,"
+    },
+    {
+      "start": 205.9,
+      "end": 206.7,
+      "text": "and she tried the"
+    },
+    {
+      "start": 206.76,
+      "end": 209.4,
+      "text": "effect of lying down with one elbow against the door,"
+    },
+    {
+      "start": 209.54,
+      "end": 211.52,
+      "text": "and the other arm curled round her head."
+    },
+    {
+      "start": 212.48,
+      "end": 213.52,
+      "text": "Still she went on growing,",
+      "para_break": true
+    },
+    {
+      "start": 213.72,
+      "end": 215.96,
+      "text": "and as a last resource she put one"
+    },
+    {
+      "start": 215.96,
+      "end": 218.16,
+      "text": "arm out of the window and one foot up"
+    },
+    {
+      "start": 218.16,
+      "end": 218.56,
+      "text": "the chimney,"
+    },
+    {
+      "start": 218.76,
+      "end": 219.7,
+      "text": "and said to herself,"
+    },
+    {
+      "start": 220.05,
+      "end": 222.29,
+      "text": "Now I can do no more whatever happens."
+    },
+    {
+      "start": 223.1,
+      "end": 224.04,
+      "text": "What will become of me?",
+      "para_break": true
+    },
+    {
+      "start": 225.54,
+      "end": 227.24,
+      "text": "Luckily for Alice the little magic",
+      "para_break": true
+    },
+    {
+      "start": 227.24,
+      "end": 228.96,
+      "text": "bottle had now had its full effect,"
+    },
+    {
+      "start": 229.12,
+      "end": 230.44,
+      "text": "and she grew no larger."
+    },
+    {
+      "start": 230.97,
+      "end": 231.42,
+      "text": "Still,"
+    },
+    {
+      "start": 231.64,
+      "end": 232.66,
+      "text": "it was very uncomfortable,"
+    },
+    {
+      "start": 233.0,
+      "end": 235.54,
+      "text": "and as there seemed to be no sort of chance of her ever"
+    },
+    {
+      "start": 235.54,
+      "end": 236.72,
+      "text": "getting out of the room again,"
+    },
+    {
+      "start": 236.94,
+      "end": 238.44,
+      "text": "no wonder she felt unhappy."
+    },
+    {
+      "start": 240.74,
+      "end": 242.22,
+      "text": "It was much pleasanter at home,",
+      "para_break": true
+    },
+    {
+      "start": 242.38,
+      "end": 243.08,
+      "text": "thought poor Alice,"
+    },
+    {
+      "start": 243.24,
+      "end": 245.14,
+      "text": "when one wasn't always growing larger"
+    },
+    {
+      "start": 245.28,
+      "end": 245.6,
+      "text": "and smaller,"
+    },
+    {
+      "start": 245.82,
+      "end": 248.2,
+      "text": "and being ordered about by mice and rabbits."
+    }
+  ]
+}

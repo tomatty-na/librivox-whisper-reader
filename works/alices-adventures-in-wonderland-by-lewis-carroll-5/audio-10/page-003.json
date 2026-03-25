@@ -1,0 +1,728 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-10",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_10_carroll.mp3",
+  "chapter_title": "10 - The Lobster Quadrille",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.759,
+  "page_num": 3,
+  "page_total": 4,
+  "page_start_sec": 495.58,
+  "page_end_sec": 774.28,
+  "segments": [
+    {
+      "start": 495.58,
+      "end": 497.52,
+      "text": "Her listeners were perfectly quiet till",
+      "para_break": true
+    },
+    {
+      "start": 497.52,
+      "end": 499.28,
+      "text": "she got to the part about her repeating"
+    },
+    {
+      "start": 499.46,
+      "end": 501.7,
+      "text": "You are old Father William to the caterpillar,"
+    },
+    {
+      "start": 501.76,
+      "end": 503.44,
+      "text": "and the words all coming different,"
+    },
+    {
+      "start": 503.86,
+      "end": 506.08,
+      "text": "and then the mock turtle drew a long breath and said"
+    },
+    {
+      "start": 506.944,
+      "end": 508.34,
+      "text": "That's very curious.",
+      "para_break": true
+    },
+    {
+      "start": 509.56,
+      "end": 511.4,
+      "text": "It's all about as curious as it can be,",
+      "para_break": true
+    },
+    {
+      "start": 511.58,
+      "end": 512.28,
+      "text": "said the griffon."
+    },
+    {
+      "start": 513.38,
+      "end": 515.0,
+      "text": "It all came different,",
+      "para_break": true
+    },
+    {
+      "start": 515.42,
+      "end": 517.28,
+      "text": "the mock turtle repeated thoughtfully."
+    },
+    {
+      "start": 517.76,
+      "end": 520.56,
+      "text": "I should like to hear her repeat something now."
+    },
+    {
+      "start": 521.26,
+      "end": 522.2,
+      "text": "Tell her to begin."
+    },
+    {
+      "start": 522.92,
+      "end": 525.26,
+      "text": "He looked at the griffon as if he thought"
+    },
+    {
+      "start": 525.26,
+      "end": 527.24,
+      "text": "it had some kind of authority over Alice."
+    },
+    {
+      "start": 529.152,
+      "end": 530.06,
+      "text": "Stand up and repeat.",
+      "para_break": true
+    },
+    {
+      "start": 530.528,
+      "end": 531.76,
+      "text": "Tis the voice of the sluggard,"
+    },
+    {
+      "start": 531.9,
+      "end": 532.82,
+      "text": "said the griffon."
+    },
+    {
+      "start": 533.71,
+      "end": 535.6,
+      "text": "How the creatures order one about,",
+      "para_break": true
+    },
+    {
+      "start": 535.82,
+      "end": 536.98,
+      "text": "and make one repeat lessons,"
+    },
+    {
+      "start": 537.28,
+      "end": 537.84,
+      "text": "thought Alice."
+    },
+    {
+      "start": 538.44,
+      "end": 540.02,
+      "text": "I might as well be at school at once."
+    },
+    {
+      "start": 540.89,
+      "end": 541.54,
+      "text": "However,",
+      "para_break": true
+    },
+    {
+      "start": 541.72,
+      "end": 543.54,
+      "text": "she got up and began to repeat it,"
+    },
+    {
+      "start": 543.58,
+      "end": 546.16,
+      "text": "but her head was so full of the lobster quadrille,"
+    },
+    {
+      "start": 546.26,
+      "end": 548.26,
+      "text": "that she hardly knew what she was saying,"
+    },
+    {
+      "start": 548.4,
+      "end": 550.18,
+      "text": "and the words came very queer indeed."
+    },
+    {
+      "start": 551.808,
+      "end": 553.04,
+      "text": "\"'Tis the voice of the lobster,",
+      "para_break": true
+    },
+    {
+      "start": 553.26,
+      "end": 554.14,
+      "text": "I heard him declare,"
+    },
+    {
+      "start": 554.42,
+      "end": 555.82,
+      "text": "you have baked me to brown,"
+    },
+    {
+      "start": 555.98,
+      "end": 557.2,
+      "text": "I must sugar my hair."
+    },
+    {
+      "start": 557.41,
+      "end": 559.08,
+      "text": "as a duck with its eyelids,"
+    },
+    {
+      "start": 559.26,
+      "end": 560.38,
+      "text": "so he with his nose,"
+    },
+    {
+      "start": 560.6,
+      "end": 562.24,
+      "text": "trims his belt and his buttons,"
+    },
+    {
+      "start": 562.38,
+      "end": 563.56,
+      "text": "and turns out his toes."
+    },
+    {
+      "start": 564.16,
+      "end": 565.38,
+      "text": "When the sands are all dry,"
+    },
+    {
+      "start": 565.7,
+      "end": 566.88,
+      "text": "he is gay as a lark,"
+    },
+    {
+      "start": 566.94,
+      "end": 569.76,
+      "text": "and will talk in contemptuous tones of the shark."
+    },
+    {
+      "start": 570.46,
+      "end": 572.88,
+      "text": "But when the tide rises and sharks are around,"
+    },
+    {
+      "start": 573.46,
+      "end": 575.58,
+      "text": "his voice has a timid and tremulous sound."
+    },
+    {
+      "start": 576.992,
+      "end": 579.42,
+      "text": "That's different from what I used to say when I was a child,",
+      "para_break": true
+    },
+    {
+      "start": 579.58,
+      "end": 580.44,
+      "text": "said the griffon."
+    },
+    {
+      "start": 581.48,
+      "end": 581.86,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 581.96,
+      "end": 583.7,
+      "text": "I never heard it before,"
+    },
+    {
+      "start": 584.02,
+      "end": 584.98,
+      "text": "said the mock turtle."
+    },
+    {
+      "start": 585.44,
+      "end": 588.28,
+      "text": "but it sounds uncommon nonsense."
+    },
+    {
+      "start": 589.856,
+      "end": 590.6,
+      "text": "Alice said nothing.",
+      "para_break": true
+    },
+    {
+      "start": 590.78,
+      "end": 592.5,
+      "text": "She had sat down with her face in her"
+    },
+    {
+      "start": 592.5,
+      "end": 592.78,
+      "text": "hands,"
+    },
+    {
+      "start": 592.94,
+      "end": 596.02,
+      "text": "wondering if anything would ever happen in a natural way again."
+    },
+    {
+      "start": 596.98,
+      "end": 598.46,
+      "text": "I should like to have it",
+      "para_break": true
+    },
+    {
+      "start": 598.56,
+      "end": 598.94,
+      "text": "explained,"
+    },
+    {
+      "start": 599.44,
+      "end": 600.48,
+      "text": "said the Mock Turtle."
+    },
+    {
+      "start": 601.62,
+      "end": 602.78,
+      "text": "She cannot explain it,",
+      "para_break": true
+    },
+    {
+      "start": 602.86,
+      "end": 603.82,
+      "text": "hastily said the Gryphon."
+    },
+    {
+      "start": 604.08,
+      "end": 604.88,
+      "text": "Go on with the next"
+    },
+    {
+      "start": 604.9,
+      "end": 605.18,
+      "text": "verse."
+    },
+    {
+      "start": 607.232,
+      "end": 608.62,
+      "text": "But about his toes,",
+      "para_break": true
+    },
+    {
+      "start": 609.12,
+      "end": 610.64,
+      "text": "the Mock Turtle persisted."
+    },
+    {
+      "start": 610.98,
+      "end": 613.06,
+      "text": "How could he turn them out with his"
+    },
+    {
+      "start": 613.26,
+      "end": 613.62,
+      "text": "nose,"
+    },
+    {
+      "start": 613.68,
+      "end": 614.14,
+      "text": "you know."
+    },
+    {
+      "start": 614.8,
+      "end": 616.9,
+      "text": "It's the first position in dancing,"
+    },
+    {
+      "start": 617.26,
+      "end": 617.94,
+      "text": "Alice said,"
+    },
+    {
+      "start": 618.38,
+      "end": 619.86,
+      "text": "but was dreadfully puzzled by the"
+    },
+    {
+      "start": 619.86,
+      "end": 621.8,
+      "text": "whole thing and longed to change the subject."
+    },
+    {
+      "start": 623.24,
+      "end": 624.22,
+      "text": "Go on with the next verse,",
+      "para_break": true
+    },
+    {
+      "start": 624.46,
+      "end": 625.54,
+      "text": "the griffon repeated."
+    },
+    {
+      "start": 625.78,
+      "end": 626.36,
+      "text": "It begins,"
+    },
+    {
+      "start": 626.6,
+      "end": 627.7,
+      "text": "I passed by his garden."
+    },
+    {
+      "start": 629.152,
+      "end": 630.66,
+      "text": "Alice did not dare to disobey,",
+      "para_break": true
+    },
+    {
+      "start": 630.88,
+      "end": 632.32,
+      "text": "though she felt sure it would"
+    },
+    {
+      "start": 632.32,
+      "end": 633.04,
+      "text": "all come wrong,"
+    },
+    {
+      "start": 633.22,
+      "end": 635.0,
+      "text": "and she went on in a trembling voice."
+    },
+    {
+      "start": 635.54,
+      "end": 638.34,
+      "text": "I passed by his garden and marked with"
+    },
+    {
+      "start": 638.48,
+      "end": 641.8,
+      "text": "one eye how the owl and the panther were sharing a pie."
+    },
+    {
+      "start": 642.48,
+      "end": 644.84,
+      "text": "The panther took pie crust and gravy and"
+    },
+    {
+      "start": 644.84,
+      "end": 645.02,
+      "text": "meat,"
+    },
+    {
+      "start": 645.18,
+      "end": 648.12,
+      "text": "while the owl had the dish as its share of the treat."
+    },
+    {
+      "start": 648.32,
+      "end": 649.86,
+      "text": "When the pie was all finished,"
+    },
+    {
+      "start": 650.06,
+      "end": 653.36,
+      "text": "the owl as a boon was kindly permitted to pocket the spoon,"
+    },
+    {
+      "start": 653.58,
+      "end": 656.02,
+      "text": "while the panther received knife and"
+    },
+    {
+      "start": 656.08,
+      "end": 657.04,
+      "text": "fork with a growl,"
+    },
+    {
+      "start": 657.04,
+      "end": 658.9,
+      "text": "and concluded the banquet by,"
+    },
+    {
+      "start": 659.06,
+      "end": 662.52,
+      "text": "What is the use of repeating all that stuff?"
+    },
+    {
+      "start": 663.02,
+      "end": 664.38,
+      "text": "the mock turtle interrupted,"
+    },
+    {
+      "start": 664.56,
+      "end": 667.46,
+      "text": "if you don't explain it as you go on."
+    },
+    {
+      "start": 668.64,
+      "end": 671.98,
+      "text": "It's by far the most confusing thing I ever heard.",
+      "para_break": true
+    },
+    {
+      "start": 672.94,
+      "end": 673.36,
+      "text": "Yes,",
+      "para_break": true
+    },
+    {
+      "start": 673.48,
+      "end": 674.66,
+      "text": "I think you'd better leave off,"
+    },
+    {
+      "start": 675.06,
+      "end": 675.56,
+      "text": "said the griffon,"
+    },
+    {
+      "start": 675.64,
+      "end": 677.8,
+      "text": "and Alice was only too glad to do so."
+    },
+    {
+      "start": 678.86,
+      "end": 681.16,
+      "text": "Shall we try another figure of the lobster quadrille?",
+      "para_break": true
+    },
+    {
+      "start": 681.28,
+      "end": 682.3,
+      "text": "the griffon went on."
+    },
+    {
+      "start": 683.36,
+      "end": 685.52,
+      "text": "Or would you like the mock turtle to sing you another song?",
+      "para_break": true
+    },
+    {
+      "start": 686.66,
+      "end": 686.94,
+      "text": "Oh,",
+      "para_break": true
+    },
+    {
+      "start": 686.96,
+      "end": 687.5,
+      "text": "a song,"
+    },
+    {
+      "start": 687.5,
+      "end": 687.82,
+      "text": "please,"
+    },
+    {
+      "start": 687.86,
+      "end": 689.44,
+      "text": "if the mock turtle would be so kind,"
+    },
+    {
+      "start": 690.176,
+      "end": 692.28,
+      "text": "Alice replied so eagerly that the griffon said,"
+    },
+    {
+      "start": 692.52,
+      "end": 693.72,
+      "text": "in a rather offended tone,"
+    },
+    {
+      "start": 694.34,
+      "end": 694.64,
+      "text": "Hmph,"
+    },
+    {
+      "start": 694.64,
+      "end": 695.96,
+      "text": "no accounting tastes."
+    },
+    {
+      "start": 696.41,
+      "end": 697.68,
+      "text": "Sing her turtle soup,"
+    },
+    {
+      "start": 697.8,
+      "end": 697.94,
+      "text": "will you,"
+    },
+    {
+      "start": 697.98,
+      "end": 698.3,
+      "text": "old fellow?"
+    },
+    {
+      "start": 699.14,
+      "end": 701.12,
+      "text": "The Mock Turtle sighed deeply and began",
+      "para_break": true
+    },
+    {
+      "start": 701.12,
+      "end": 703.42,
+      "text": "in a voice choked with sobs to sing this."
+    },
+    {
+      "start": 705.504,
+      "end": 706.68,
+      "text": "Beautiful soup,",
+      "para_break": true
+    },
+    {
+      "start": 706.94,
+      "end": 708.18,
+      "text": "so rich and green,"
+    },
+    {
+      "start": 708.5,
+      "end": 711.24,
+      "text": "waiting in a hot tureen."
+    },
+    {
+      "start": 711.82,
+      "end": 714.84,
+      "text": "Who for such dainties would not stoop?"
+    },
+    {
+      "start": 715.36,
+      "end": 716.62,
+      "text": "Soup of the evening,"
+    },
+    {
+      "start": 716.82,
+      "end": 717.86,
+      "text": "beautiful soup."
+    },
+    {
+      "start": 718.368,
+      "end": 719.7,
+      "text": "Soup of the evening,"
+    },
+    {
+      "start": 719.94,
+      "end": 721.04,
+      "text": "beautiful soup."
+    },
+    {
+      "start": 722.112,
+      "end": 723.56,
+      "text": "Beautiful soup,",
+      "para_break": true
+    },
+    {
+      "start": 724.512,
+      "end": 725.76,
+      "text": "beautiful soup.",
+      "para_break": true
+    },
+    {
+      "start": 726.976,
+      "end": 729.08,
+      "text": "Soup of the evening,",
+      "para_break": true
+    },
+    {
+      "start": 729.5,
+      "end": 730.3,
+      "text": "beautiful,"
+    },
+    {
+      "start": 730.4,
+      "end": 732.26,
+      "text": "beautiful soup"
+    },
+    {
+      "start": 734.048,
+      "end": 735.32,
+      "text": "Beautiful soup,",
+      "para_break": true
+    },
+    {
+      "start": 736.06,
+      "end": 737.8,
+      "text": "who cares for fish,"
+    },
+    {
+      "start": 738.12,
+      "end": 741.54,
+      "text": "game or any other dish"
+    },
+    {
+      "start": 742.14,
+      "end": 745.6,
+      "text": "Who would not give all else for two,"
+    },
+    {
+      "start": 745.9,
+      "end": 749.56,
+      "text": "penny worth only of beautiful soup"
+    },
+    {
+      "start": 750.624,
+      "end": 753.68,
+      "text": "Pennyworth only of beautiful soup",
+      "para_break": true
+    },
+    {
+      "start": 754.62,
+      "end": 756.06,
+      "text": "Beautiful soup,",
+      "para_break": true
+    },
+    {
+      "start": 757.248,
+      "end": 758.72,
+      "text": "beautiful soup",
+      "para_break": true
+    },
+    {
+      "start": 759.776,
+      "end": 762.2,
+      "text": "Soup of the evening Beautiful,",
+      "para_break": true
+    },
+    {
+      "start": 762.9,
+      "end": 764.48,
+      "text": "beautiful soup"
+    },
+    {
+      "start": 766.304,
+      "end": 766.82,
+      "text": "Chorus again,",
+      "para_break": true
+    },
+    {
+      "start": 767.1,
+      "end": 767.92,
+      "text": "cried the griffin,"
+    },
+    {
+      "start": 767.94,
+      "end": 770.58,
+      "text": "and the mock turtle had just begun to repeat it,"
+    },
+    {
+      "start": 770.84,
+      "end": 771.56,
+      "text": "when a cry of,"
+    },
+    {
+      "start": 771.62,
+      "end": 772.7,
+      "text": "The trial's beginning,"
+    },
+    {
+      "start": 773.08,
+      "end": 774.28,
+      "text": "was heard in the distance."
+    }
+  ]
+}

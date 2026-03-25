@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script>(function(){var t=localStorage.getItem('lvr-theme');if(t)document.documentElement.setAttribute('data-theme',t);else if(window.matchMedia('(prefers-color-scheme: dark)').matches)document.documentElement.setAttribute('data-theme','dark');})()</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Works | LibriVox Reader</title>
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <a href="../" class="site-logo">LibriVox <em>Reader</em></a>
+  <nav class="header-nav">
+    <a href="../works/" aria-current="page">Works</a>
+  </nav>
+  <div class="header-spacer"></div>
+  <button class="theme-btn" id="theme-btn" onclick="LVR.toggleTheme()" title="Toggle dark mode">☾</button>
+</header>
+
+<main class="site-main">
+
+  <nav class="breadcrumb">
+    <a href="../">Home</a>
+    <span class="sep">›</span>
+    Works
+  </nav>
+
+  <h1 class="page-title">Works</h1>
+
+  <div class="list-controls">
+    <label>Sort by
+      <select id="sort-select" onchange="renderWorks()">
+        <option value="added">Recently added</option>
+        <option value="title">Title</option>
+        <option value="author">Author</option>
+        <option value="year">Year</option>
+      </select>
+    </label>
+    <span class="result-count" id="result-count"></span>
+  </div>
+
+  <div class="works-grid" id="works-grid">
+    <!-- Populated by JS -->
+  </div>
+
+</main>
+
+<footer class="site-footer">
+  Audio from <a href="https://librivox.org/" target="_blank">LibriVox</a> (public domain) &middot;
+  Transcripts by <a href="https://openai.com/research/whisper" target="_blank">Whisper</a>
+</footer>
+
+<script src="../assets/player.js"></script>
+<script>
+LVR.initTheme();
+
+let catalog = null;
+
+function totalPages(work) {
+  return work.chapters.reduce((s, c) => s + c.pages, 0);
+}
+
+function totalDuration(work) {
+  const sec = work.chapters.reduce((s, c) => s + (c.duration_sec || 0), 0);
+  const m = Math.floor(sec / 60);
+  const h = Math.floor(m / 60);
+  return h > 0 ? h + 'h ' + (m % 60) + 'm' : m + ' min';
+}
+
+function renderWorks() {
+  if (!catalog) return;
+  const sort = document.getElementById('sort-select').value;
+  const works = [...catalog.works].sort((a, b) => {
+    if (sort === 'title')  return a.title.localeCompare(b.title);
+    if (sort === 'author') return a.author.localeCompare(b.author);
+    if (sort === 'year')   return a.year - b.year;
+    return b.added.localeCompare(a.added); // recently added
+  });
+
+  document.getElementById('result-count').textContent = works.length + ' work' + (works.length !== 1 ? 's' : '');
+
+  const grid = document.getElementById('works-grid');
+  grid.innerHTML = works.map(w => `
+    <a href="${w.slug}/" class="work-card">
+      <div class="wc-cover">📖</div>
+      <div class="wc-info">
+        <div class="wc-title">${w.title}</div>
+        <div class="wc-author">${w.author}</div>
+        <div class="wc-meta">
+          <span>${w.chapters.length} chapter${w.chapters.length !== 1 ? 's' : ''}</span>
+          <span>${totalDuration(w)}</span>
+          <span>${w.year}</span>
+        </div>
+      </div>
+    </a>
+  `).join('');
+}
+
+fetch('../catalog.json')
+  .then(r => r.json())
+  .then(data => {
+    catalog = data;
+    renderWorks();
+  })
+  .catch(() => {
+    document.getElementById('works-grid').textContent =
+      'Could not load catalog. Run a local server: python -m http.server 8080';
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,742 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-08",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_08_carroll.mp3",
+  "chapter_title": "08 - The Queen's Croquet-ground",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.605,
+  "page_num": 1,
+  "page_total": 4,
+  "page_start_sec": 0.54,
+  "page_end_sec": 240.56,
+  "segments": [
+    {
+      "start": 0.54,
+      "end": 5.46,
+      "text": "Chapter 8 of Alice's Adventures in Wonderland by Lewis Carroll"
+    },
+    {
+      "start": 6.2,
+      "end": 8.4,
+      "text": "The Queen's Croquet Ground",
+      "para_break": true
+    },
+    {
+      "start": 9.23,
+      "end": 12.74,
+      "text": "A large rose tree stood near the entrance of the garden.",
+      "para_break": true
+    },
+    {
+      "start": 13.28,
+      "end": 15.06,
+      "text": "The roses growing on it were white,"
+    },
+    {
+      "start": 15.54,
+      "end": 18.18,
+      "text": "but there were three gardeners at it busily painting them red."
+    },
+    {
+      "start": 19.264,
+      "end": 21.2,
+      "text": "Alice thought this a very curious thing,",
+      "para_break": true
+    },
+    {
+      "start": 21.34,
+      "end": 22.96,
+      "text": "and she went nearer to watch them,"
+    },
+    {
+      "start": 23.456,
+      "end": 26.16,
+      "text": "and just as she came up to them she heard one of them say,"
+    },
+    {
+      "start": 26.96,
+      "end": 27.5,
+      "text": "Look out now,",
+      "para_break": true
+    },
+    {
+      "start": 27.54,
+      "end": 27.8,
+      "text": "Five."
+    },
+    {
+      "start": 28.0,
+      "end": 30.0,
+      "text": "Don't go splashing paint over me like that."
+    },
+    {
+      "start": 30.94,
+      "end": 32.5,
+      "text": "I couldn't help it,",
+      "para_break": true
+    },
+    {
+      "start": 32.56,
+      "end": 33.86,
+      "text": "said Five in a sulky tone."
+    },
+    {
+      "start": 34.1,
+      "end": 35.5,
+      "text": "Seven jogged my elbow."
+    },
+    {
+      "start": 36.72,
+      "end": 38.52,
+      "text": "On which Seven looked up and said,",
+      "para_break": true
+    },
+    {
+      "start": 39.264,
+      "end": 39.76,
+      "text": "That's right,",
+      "para_break": true
+    },
+    {
+      "start": 39.88,
+      "end": 40.06,
+      "text": "Five."
+    },
+    {
+      "start": 40.24,
+      "end": 42.06,
+      "text": "Always lay the blame on others."
+    },
+    {
+      "start": 43.616,
+      "end": 44.64,
+      "text": "You'd better not talk,",
+      "para_break": true
+    },
+    {
+      "start": 44.8,
+      "end": 45.26,
+      "text": "said Five."
+    },
+    {
+      "start": 45.44,
+      "end": 49.3,
+      "text": "I heard the Queen say only yesterday you deserve to be beheaded."
+    },
+    {
+      "start": 50.78,
+      "end": 51.0,
+      "text": "What for?",
+      "para_break": true
+    },
+    {
+      "start": 51.42,
+      "end": 53.02,
+      "text": "said the one who had first spoken."
+    },
+    {
+      "start": 54.72,
+      "end": 56.12,
+      "text": "That's none of your business,",
+      "para_break": true
+    },
+    {
+      "start": 56.16,
+      "end": 56.32,
+      "text": "too,"
+    },
+    {
+      "start": 56.5,
+      "end": 57.22,
+      "text": "said Seven."
+    },
+    {
+      "start": 58.32,
+      "end": 58.92,
+      "text": "Yes,",
+      "para_break": true
+    },
+    {
+      "start": 59.0,
+      "end": 60.16,
+      "text": "it is his business,"
+    },
+    {
+      "start": 60.34,
+      "end": 60.82,
+      "text": "said Five,"
+    },
+    {
+      "start": 61.0,
+      "end": 61.8,
+      "text": "and I'll tell him."
+    },
+    {
+      "start": 62.7,
+      "end": 65.44,
+      "text": "It was for bringing the cook tulip roots instead of onions.",
+      "para_break": true
+    },
+    {
+      "start": 66.976,
+      "end": 69.32,
+      "text": "Seven flung down his brush and had just begun,",
+      "para_break": true
+    },
+    {
+      "start": 69.5,
+      "end": 69.78,
+      "text": "well,"
+    },
+    {
+      "start": 69.8,
+      "end": 71.52,
+      "text": "of all the unjust things,"
+    },
+    {
+      "start": 72.22,
+      "end": 75.84,
+      "text": "when his eye chanced to fall upon Alice as she stood watching them,",
+      "para_break": true
+    },
+    {
+      "start": 76.3,
+      "end": 77.5,
+      "text": "and he checked himself suddenly."
+    },
+    {
+      "start": 78.0,
+      "end": 79.38,
+      "text": "The others looked around also,"
+    },
+    {
+      "start": 79.52,
+      "end": 80.76,
+      "text": "and all of them bowed low."
+    },
+    {
+      "start": 81.17,
+      "end": 82.46,
+      "text": "Would you tell me,"
+    },
+    {
+      "start": 82.54,
+      "end": 83.1,
+      "text": "said Alice,"
+    },
+    {
+      "start": 83.22,
+      "end": 83.83,
+      "text": "a little timidly,"
+    },
+    {
+      "start": 84.08,
+      "end": 85.8,
+      "text": "why you are painting those roses?"
+    },
+    {
+      "start": 87.82,
+      "end": 89.02,
+      "text": "Five and Seven said nothing,",
+      "para_break": true
+    },
+    {
+      "start": 89.2,
+      "end": 90.04,
+      "text": "but looked at Two."
+    },
+    {
+      "start": 90.72,
+      "end": 92.12,
+      "text": "Two began in a low voice.",
+      "para_break": true
+    },
+    {
+      "start": 92.86,
+      "end": 93.08,
+      "text": "Why,",
+      "para_break": true
+    },
+    {
+      "start": 93.14,
+      "end": 93.8,
+      "text": "the fact is,"
+    },
+    {
+      "start": 93.88,
+      "end": 94.32,
+      "text": "you see,"
+    },
+    {
+      "start": 94.42,
+      "end": 94.62,
+      "text": "Miss,"
+    },
+    {
+      "start": 94.85,
+      "end": 97.18,
+      "text": "this here ought to have been a red rose tree,"
+    },
+    {
+      "start": 97.32,
+      "end": 99.18,
+      "text": "and we put a white one in by mistake."
+    },
+    {
+      "start": 99.82,
+      "end": 101.32,
+      "text": "And if the Queen was to find out,",
+      "para_break": true
+    },
+    {
+      "start": 101.34,
+      "end": 102.86,
+      "text": "we should all have our heads cut off,"
+    },
+    {
+      "start": 102.98,
+      "end": 103.24,
+      "text": "you know."
+    },
+    {
+      "start": 104.16,
+      "end": 104.78,
+      "text": "So you see,",
+      "para_break": true
+    },
+    {
+      "start": 104.78,
+      "end": 105.0,
+      "text": "Miss,"
+    },
+    {
+      "start": 105.14,
+      "end": 106.28,
+      "text": "we're doing our best before"
+    },
+    {
+      "start": 106.46,
+      "end": 106.84,
+      "text": "she comes,"
+    },
+    {
+      "start": 107.36,
+      "end": 108.74,
+      "text": "to—at this moment,"
+    },
+    {
+      "start": 108.9,
+      "end": 112.32,
+      "text": "five who had been anxiously looking across the garden called out,"
+    },
+    {
+      "start": 112.4,
+      "end": 112.92,
+      "text": "The queen!"
+    },
+    {
+      "start": 113.32,
+      "end": 113.6,
+      "text": "The queen!"
+    },
+    {
+      "start": 113.88,
+      "end": 115.64,
+      "text": "And the three gardeners"
+    },
+    {
+      "start": 115.64,
+      "end": 118.16,
+      "text": "instantly threw themselves flat upon their faces."
+    },
+    {
+      "start": 119.58,
+      "end": 120.96,
+      "text": "There was a sound of many footsteps,",
+      "para_break": true
+    },
+    {
+      "start": 121.24,
+      "end": 122.26,
+      "text": "and Alice looked round,"
+    },
+    {
+      "start": 122.42,
+      "end": 123.38,
+      "text": "eager to see the queen."
+    },
+    {
+      "start": 124.224,
+      "end": 126.26,
+      "text": "First came ten soldiers carrying clubs.",
+      "para_break": true
+    },
+    {
+      "start": 127.12,
+      "end": 129.24,
+      "text": "These were all shaped like the three gardeners,",
+      "para_break": true
+    },
+    {
+      "start": 129.62,
+      "end": 130.36,
+      "text": "oblong and flat,"
+    },
+    {
+      "start": 130.48,
+      "end": 132.14,
+      "text": "with their hands and feet at the corners."
+    },
+    {
+      "start": 132.36,
+      "end": 133.28,
+      "text": "Next,"
+    },
+    {
+      "start": 133.38,
+      "end": 134.22,
+      "text": "the ten courtiers."
+    },
+    {
+      "start": 134.48,
+      "end": 135.14,
+      "text": "These were"
+    },
+    {
+      "start": 135.42,
+      "end": 136.66,
+      "text": "ornamented all over with diamonds,"
+    },
+    {
+      "start": 136.86,
+      "end": 137.92,
+      "text": "and walked two and two,"
+    },
+    {
+      "start": 138.06,
+      "end": 139.06,
+      "text": "as the soldiers did."
+    },
+    {
+      "start": 140.32,
+      "end": 141.82,
+      "text": "After these came the royal children.",
+      "para_break": true
+    },
+    {
+      "start": 142.36,
+      "end": 143.1,
+      "text": "There were ten of them,"
+    },
+    {
+      "start": 143.28,
+      "end": 145.0,
+      "text": "and the little deers came jumping"
+    },
+    {
+      "start": 145.12,
+      "end": 146.64,
+      "text": "merrily along hand in hand,"
+    },
+    {
+      "start": 146.72,
+      "end": 147.14,
+      "text": "in couples."
+    },
+    {
+      "start": 147.98,
+      "end": 149.38,
+      "text": "They were all ornamented with hearts.",
+      "para_break": true
+    },
+    {
+      "start": 150.4,
+      "end": 151.32,
+      "text": "Next came the guests,",
+      "para_break": true
+    },
+    {
+      "start": 151.744,
+      "end": 152.74,
+      "text": "mostly kings and queens,"
+    },
+    {
+      "start": 152.98,
+      "end": 155.58,
+      "text": "and among them Alice recognized the white rabbit."
+    },
+    {
+      "start": 156.08,
+      "end": 156.88,
+      "text": "It was talking in"
+    },
+    {
+      "start": 156.88,
+      "end": 157.34,
+      "text": "a hurried,"
+    },
+    {
+      "start": 157.38,
+      "end": 158.08,
+      "text": "nervous manner,"
+    },
+    {
+      "start": 158.2,
+      "end": 160.02,
+      "text": "smiling at everything that was said,"
+    },
+    {
+      "start": 160.5,
+      "end": 161.94,
+      "text": "and went by without noticing her."
+    },
+    {
+      "start": 162.72,
+      "end": 164.04,
+      "text": "Then followed the knave of hearts,",
+      "para_break": true
+    },
+    {
+      "start": 164.16,
+      "end": 166.84,
+      "text": "carrying the king's crown on a crimson velvet cushion,"
+    },
+    {
+      "start": 167.42,
+      "end": 169.04,
+      "text": "and last of all this grand procession"
+    },
+    {
+      "start": 169.14,
+      "end": 170.9,
+      "text": "came the king and queen of hearts."
+    },
+    {
+      "start": 171.68,
+      "end": 173.88,
+      "text": "Alice was rather doubtful whether she ought not",
+      "para_break": true
+    },
+    {
+      "start": 173.88,
+      "end": 176.29,
+      "text": "to lie down on her face like the three gardeners,"
+    },
+    {
+      "start": 176.94,
+      "end": 178.46,
+      "text": "but she could not remember ever having",
+      "para_break": true
+    },
+    {
+      "start": 178.46,
+      "end": 180.18,
+      "text": "heard of such a rule at processions."
+    },
+    {
+      "start": 180.96,
+      "end": 181.32,
+      "text": "And besides,",
+      "para_break": true
+    },
+    {
+      "start": 181.44,
+      "end": 183.08,
+      "text": "what would be the use of a procession,"
+    },
+    {
+      "start": 183.26,
+      "end": 183.72,
+      "text": "thought she,"
+    },
+    {
+      "start": 184.06,
+      "end": 186.02,
+      "text": "if people had to lie down upon their"
+    },
+    {
+      "start": 186.02,
+      "end": 187.82,
+      "text": "faces so that they couldn't see it?"
+    },
+    {
+      "start": 188.6,
+      "end": 190.72,
+      "text": "So she stood still where she was and waited.",
+      "para_break": true
+    },
+    {
+      "start": 191.05,
+      "end": 193.46,
+      "text": "When the procession came opposite to Alice,"
+    },
+    {
+      "start": 193.92,
+      "end": 195.32,
+      "text": "they all stopped and looked at her,"
+    },
+    {
+      "start": 195.4,
+      "end": 196.98,
+      "text": "and the queen said severely,"
+    },
+    {
+      "start": 197.86,
+      "end": 198.6,
+      "text": "Who is this?",
+      "para_break": true
+    },
+    {
+      "start": 199.56,
+      "end": 201.04,
+      "text": "She said it to the knave of hearts,",
+      "para_break": true
+    },
+    {
+      "start": 201.16,
+      "end": 203.08,
+      "text": "who only bowed and smiled in reply."
+    },
+    {
+      "start": 204.2,
+      "end": 204.76,
+      "text": "Idiot,",
+      "para_break": true
+    },
+    {
+      "start": 204.78,
+      "end": 205.66,
+      "text": "said the queen,"
+    },
+    {
+      "start": 205.76,
+      "end": 207.18,
+      "text": "tossing her head impatiently,"
+    },
+    {
+      "start": 207.18,
+      "end": 208.7,
+      "text": "and turning to Alice,"
+    },
+    {
+      "start": 208.86,
+      "end": 209.54,
+      "text": "she went on."
+    },
+    {
+      "start": 210.304,
+      "end": 210.9,
+      "text": "What's your name,",
+      "para_break": true
+    },
+    {
+      "start": 210.96,
+      "end": 211.32,
+      "text": "child?"
+    },
+    {
+      "start": 212.47,
+      "end": 213.72,
+      "text": "My name is Alice,",
+      "para_break": true
+    },
+    {
+      "start": 213.92,
+      "end": 214.84,
+      "text": "so please your majesty,"
+    },
+    {
+      "start": 215.2,
+      "end": 216.94,
+      "text": "said Alice very politely,"
+    },
+    {
+      "start": 217.28,
+      "end": 218.12,
+      "text": "but she added to herself,"
+    },
+    {
+      "start": 218.48,
+      "end": 218.592,
+      "text": "Why,"
+    },
+    {
+      "start": 219.14,
+      "end": 220.5,
+      "text": "they're only a pack of cards,"
+    },
+    {
+      "start": 220.58,
+      "end": 221.08,
+      "text": "after all."
+    },
+    {
+      "start": 221.54,
+      "end": 222.64,
+      "text": "I needn't be afraid of them."
+    },
+    {
+      "start": 224.18,
+      "end": 225.06,
+      "text": "And who are these?",
+      "para_break": true
+    },
+    {
+      "start": 225.54,
+      "end": 226.36,
+      "text": "said the queen,"
+    },
+    {
+      "start": 226.44,
+      "end": 229.22,
+      "text": "pointing to the three gardeners who were lying round the rose"
+    },
+    {
+      "start": 229.32,
+      "end": 229.48,
+      "text": "tree."
+    },
+    {
+      "start": 229.65,
+      "end": 230.52,
+      "text": "For you see,"
+    },
+    {
+      "start": 230.6,
+      "end": 232.06,
+      "text": "as they were lying on their faces,"
+    },
+    {
+      "start": 232.2,
+      "end": 233.86,
+      "text": "and the pattern on their backs was the"
+    },
+    {
+      "start": 233.86,
+      "end": 235.06,
+      "text": "same as the rest of the pack,"
+    },
+    {
+      "start": 235.26,
+      "end": 237.43,
+      "text": "she could not tell whether they were gardeners,"
+    },
+    {
+      "start": 237.5,
+      "end": 238.12,
+      "text": "or soldiers,"
+    },
+    {
+      "start": 238.6,
+      "end": 239.14,
+      "text": "or courtiers,"
+    },
+    {
+      "start": 239.56,
+      "end": 240.56,
+      "text": "or three of her own children."
+    }
+  ]
+}

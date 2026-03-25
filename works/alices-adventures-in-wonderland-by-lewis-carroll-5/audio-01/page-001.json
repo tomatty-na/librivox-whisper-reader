@@ -1,0 +1,637 @@
+{
+  "work_slug": "alices-adventures-in-wonderland-by-lewis-carroll-5",
+  "work_title": "Alice's Adventures in Wonderland (version 4)",
+  "work_author": "Lewis Carroll",
+  "audio_file": "audio-01",
+  "audio_url": "https://archive.org/download/alices_adventures_1005_librivox/wonderland_01_carroll.mp3",
+  "chapter_title": "01 - Proem & Down the Rabbit-hole",
+  "reader_name": "Eric Leach",
+  "para_gap_threshold": 0.699,
+  "page_num": 1,
+  "page_total": 3,
+  "page_start_sec": 0.544,
+  "page_end_sec": 242.79,
+  "segments": [
+    {
+      "start": 0.544,
+      "end": 0.9,
+      "text": "CHAPTER I."
+    },
+    {
+      "start": 1.1,
+      "end": 3.08,
+      "text": "ALICE'S ADVENTURES IN WONDERLAND."
+    },
+    {
+      "start": 3.36,
+      "end": 4.88,
+      "text": "This is a LibriVox recording."
+    },
+    {
+      "start": 5.14,
+      "end": 7.4,
+      "text": "All LibriVox recordings are in the public domain."
+    },
+    {
+      "start": 7.64,
+      "end": 8.12,
+      "text": "For more"
+    },
+    {
+      "start": 8.24,
+      "end": 9.5,
+      "text": "information or to volunteer,"
+    },
+    {
+      "start": 9.74,
+      "end": 11.66,
+      "text": "please visit LibriVox.org."
+    },
+    {
+      "start": 12.768,
+      "end": 13.94,
+      "text": "Recording by Eric Leach.",
+      "para_break": true
+    },
+    {
+      "start": 16.704,
+      "end": 19.14,
+      "text": "Alice's Adventures in Wonderland by Lewis Carroll.",
+      "para_break": true
+    },
+    {
+      "start": 20.08,
+      "end": 20.56,
+      "text": "Proem.",
+      "para_break": true
+    },
+    {
+      "start": 21.76,
+      "end": 23.96,
+      "text": "Tis two score years since Carroll's art with",
+      "para_break": true
+    },
+    {
+      "start": 23.96,
+      "end": 26.4,
+      "text": "topsy-turvy magic sent Alice wondering through"
+    },
+    {
+      "start": 26.52,
+      "end": 28.14,
+      "text": "apart half comic and half tragic."
+    },
+    {
+      "start": 28.36,
+      "end": 29.56,
+      "text": "Enchanting Alice,"
+    },
+    {
+      "start": 29.84,
+      "end": 30.42,
+      "text": "black and white,"
+    },
+    {
+      "start": 30.46,
+      "end": 31.78,
+      "text": "has made your deeds perennial,"
+    },
+    {
+      "start": 32.3,
+      "end": 35.56,
+      "text": "and not save chaos and old night can part you now from Tenniel."
+    },
+    {
+      "start": 36.32,
+      "end": 37.46,
+      "text": "But still you are a type,",
+      "para_break": true
+    },
+    {
+      "start": 37.58,
+      "end": 39.56,
+      "text": "and based in truth like Lear and Hamlet,"
+    },
+    {
+      "start": 39.98,
+      "end": 42.94,
+      "text": "and types may be redraped to taste in cloth of gold or"
+    },
+    {
+      "start": 42.96,
+      "end": 43.28,
+      "text": "camlet."
+    },
+    {
+      "start": 43.84,
+      "end": 45.38,
+      "text": "Here comes a fresh costumier then,"
+    },
+    {
+      "start": 45.52,
+      "end": 48.24,
+      "text": "that taste may gain a wrinkle from him who drew with"
+    },
+    {
+      "start": 48.34,
+      "end": 50.68,
+      "text": "such deft pen the rags of Rip Van Winkle."
+    },
+    {
+      "start": 51.616,
+      "end": 52.16,
+      "text": "Austin Dobson",
+      "para_break": true
+    },
+    {
+      "start": 54.74,
+      "end": 57.52,
+      "text": "All in the golden afternoon full leisurely we glide,",
+      "para_break": true
+    },
+    {
+      "start": 57.94,
+      "end": 61.2,
+      "text": "For both our oars with little skill by little arms are plied,"
+    },
+    {
+      "start": 61.28,
+      "end": 64.66,
+      "text": "While little hands make vain pretense our wanderings to guide."
+    },
+    {
+      "start": 65.84,
+      "end": 66.0,
+      "text": "Ah,",
+      "para_break": true
+    },
+    {
+      "start": 66.04,
+      "end": 66.56,
+      "text": "cruel three,"
+    },
+    {
+      "start": 66.62,
+      "end": 67.52,
+      "text": "in such an hour,"
+    },
+    {
+      "start": 67.56,
+      "end": 68.92,
+      "text": "beneath such dreamy weather,"
+    },
+    {
+      "start": 69.4,
+      "end": 72.44,
+      "text": "To beg a tail of breath too weak to stir the tiniest feather,"
+    },
+    {
+      "start": 73.12,
+      "end": 76.26,
+      "text": "Yet what can one poor voice avail against three tongues together?"
+    },
+    {
+      "start": 77.952,
+      "end": 80.8,
+      "text": "Imperious Prima flashes forth her edict to begin it,",
+      "para_break": true
+    },
+    {
+      "start": 81.24,
+      "end": 82.04,
+      "text": "In gentler tone,"
+    },
+    {
+      "start": 82.18,
+      "end": 84.16,
+      "text": "Secunda hopes there will be nonsense in it,"
+    },
+    {
+      "start": 84.68,
+      "end": 87.54,
+      "text": "while Tertia interrupts the tale not more than once a minute."
+    },
+    {
+      "start": 88.96,
+      "end": 90.28,
+      "text": "Anon to sudden silence won,",
+      "para_break": true
+    },
+    {
+      "start": 90.48,
+      "end": 91.64,
+      "text": "in fancy they pursue,"
+    },
+    {
+      "start": 91.92,
+      "end": 94.8,
+      "text": "the dream-child moving through a land of wonders wild and new,"
+    },
+    {
+      "start": 95.52,
+      "end": 97.12,
+      "text": "in friendly chat with bird or beast,",
+      "para_break": true
+    },
+    {
+      "start": 97.3,
+      "end": 98.54,
+      "text": "and half believe it true."
+    },
+    {
+      "start": 99.68,
+      "end": 102.4,
+      "text": "And ever as the story drained the wells of fancy dry,",
+      "para_break": true
+    },
+    {
+      "start": 103.08,
+      "end": 106.2,
+      "text": "and faintly strove that weary one to put the subject by,"
+    },
+    {
+      "start": 106.74,
+      "end": 107.66,
+      "text": "the rest next time,"
+    },
+    {
+      "start": 107.68,
+      "end": 109.78,
+      "text": "it is next time the happy voices cry."
+    },
+    {
+      "start": 110.84,
+      "end": 112.3,
+      "text": "Thus grew the tale of Wonderland,",
+      "para_break": true
+    },
+    {
+      "start": 112.4,
+      "end": 112.98,
+      "text": "thus slowly,"
+    },
+    {
+      "start": 113.16,
+      "end": 113.84,
+      "text": "one by one,"
+    },
+    {
+      "start": 114.32,
+      "end": 115.78,
+      "text": "Its quaint events were hammered out,"
+    },
+    {
+      "start": 115.84,
+      "end": 116.98,
+      "text": "and now the tale is done,"
+    },
+    {
+      "start": 117.42,
+      "end": 120.14,
+      "text": "And home we steer a merry crew beneath the setting sun."
+    },
+    {
+      "start": 121.18,
+      "end": 121.6,
+      "text": "Alice,",
+      "para_break": true
+    },
+    {
+      "start": 121.78,
+      "end": 122.94,
+      "text": "a childish story take,"
+    },
+    {
+      "start": 123.1,
+      "end": 124.12,
+      "text": "and with a gentle hand,"
+    },
+    {
+      "start": 124.28,
+      "end": 127.62,
+      "text": "Lay it where childhood's dreams are twined in memory's mystic band,"
+    },
+    {
+      "start": 128.18,
+      "end": 131.42,
+      "text": "Like pilgrim's withered wreath of flowers plucked in a far-off land."
+    },
+    {
+      "start": 134.496,
+      "end": 134.94,
+      "text": "Chapter One,",
+      "para_break": true
+    },
+    {
+      "start": 135.12,
+      "end": 135.98,
+      "text": "Down the Rabbit Hole"
+    },
+    {
+      "start": 138.976,
+      "end": 141.06,
+      "text": "Alice was beginning to get very tired of sitting",
+      "para_break": true
+    },
+    {
+      "start": 141.06,
+      "end": 143.16,
+      "text": "by her sister on the bank and of having nothing"
+    },
+    {
+      "start": 143.16,
+      "end": 143.58,
+      "text": "to do."
+    },
+    {
+      "start": 143.81,
+      "end": 146.54,
+      "text": "Once or twice she had peeped into the book her sister was reading,"
+    },
+    {
+      "start": 146.66,
+      "end": 147.9,
+      "text": "but it had no pictures or"
+    },
+    {
+      "start": 148.0,
+      "end": 148.92,
+      "text": "conversations in it."
+    },
+    {
+      "start": 149.0,
+      "end": 150.24,
+      "text": "And what is the use of a book,"
+    },
+    {
+      "start": 150.34,
+      "end": 150.84,
+      "text": "thought Alice,"
+    },
+    {
+      "start": 150.94,
+      "end": 152.18,
+      "text": "without pictures or conversations?"
+    },
+    {
+      "start": 153.22,
+      "end": 155.16,
+      "text": "So she was considering in her own mind,",
+      "para_break": true
+    },
+    {
+      "start": 155.24,
+      "end": 158.02,
+      "text": "as well as she could for the hot day made her feel very"
+    },
+    {
+      "start": 158.1,
+      "end": 158.96,
+      "text": "sleepy and stupid,"
+    },
+    {
+      "start": 159.2,
+      "end": 161.12,
+      "text": "whether the pleasure of making a daisy"
+    },
+    {
+      "start": 161.12,
+      "end": 162.54,
+      "text": "chain would be worth the trouble of getting"
+    },
+    {
+      "start": 162.68,
+      "end": 163.86,
+      "text": "up and picking the daisies,"
+    },
+    {
+      "start": 163.98,
+      "end": 167.12,
+      "text": "when suddenly a white rabbit with pink eyes ran close by her."
+    },
+    {
+      "start": 168.22,
+      "end": 170.12,
+      "text": "There was nothing so very remarkable in that,",
+      "para_break": true
+    },
+    {
+      "start": 170.2,
+      "end": 172.66,
+      "text": "nor did Alice think it so very much out of the way to"
+    },
+    {
+      "start": 172.66,
+      "end": 173.82,
+      "text": "hear the rabbit say to itself,"
+    },
+    {
+      "start": 174.0,
+      "end": 174.52,
+      "text": "Oh dear,"
+    },
+    {
+      "start": 174.64,
+      "end": 175.08,
+      "text": "oh dear,"
+    },
+    {
+      "start": 175.22,
+      "end": 176.22,
+      "text": "I shall be too late."
+    },
+    {
+      "start": 176.85,
+      "end": 178.02,
+      "text": "When she thought it over"
+    },
+    {
+      "start": 178.16,
+      "end": 178.46,
+      "text": "afterwards,"
+    },
+    {
+      "start": 178.72,
+      "end": 181.28,
+      "text": "it occurred to her that she ought to have wondered at this,"
+    },
+    {
+      "start": 181.4,
+      "end": 182.26,
+      "text": "but at the time it all"
+    },
+    {
+      "start": 182.34,
+      "end": 183.04,
+      "text": "seemed quite natural."
+    },
+    {
+      "start": 183.26,
+      "end": 185.28,
+      "text": "But when the rabbit actually took a"
+    },
+    {
+      "start": 185.28,
+      "end": 187.34,
+      "text": "watch out of its waistcoat pocket and"
+    },
+    {
+      "start": 187.34,
+      "end": 188.66,
+      "text": "looked at it and then hurried on,"
+    },
+    {
+      "start": 188.8,
+      "end": 190.08,
+      "text": "Alice started to her feet,"
+    },
+    {
+      "start": 190.38,
+      "end": 191.74,
+      "text": "for it flashed across her mind that"
+    },
+    {
+      "start": 191.88,
+      "end": 194.07,
+      "text": "she had never before seen a rabbit with either"
+    },
+    {
+      "start": 194.12,
+      "end": 196.5,
+      "text": "a waistcoat pocket or a watch to take out of it,"
+    },
+    {
+      "start": 196.72,
+      "end": 197.86,
+      "text": "and burning with curiosity,"
+    },
+    {
+      "start": 198.18,
+      "end": 199.72,
+      "text": "she ran across the field after it,"
+    },
+    {
+      "start": 199.94,
+      "end": 201.2,
+      "text": "and was just in time to see it"
+    },
+    {
+      "start": 201.24,
+      "end": 203.34,
+      "text": "pop down a large rabbit hole under the hedge."
+    },
+    {
+      "start": 204.48,
+      "end": 205.36,
+      "text": "In another moment,",
+      "para_break": true
+    },
+    {
+      "start": 205.48,
+      "end": 206.78,
+      "text": "down went Alice after it,"
+    },
+    {
+      "start": 207.0,
+      "end": 209.64,
+      "text": "never once considering how in the world she was to get out again."
+    },
+    {
+      "start": 209.98,
+      "end": 211.52,
+      "text": "The rabbit hole went straight"
+    },
+    {
+      "start": 211.64,
+      "end": 212.92,
+      "text": "on like a tunnel for some way,"
+    },
+    {
+      "start": 213.04,
+      "end": 214.46,
+      "text": "and then dipped suddenly down,"
+    },
+    {
+      "start": 214.66,
+      "end": 216.3,
+      "text": "so suddenly that Alice had not a"
+    },
+    {
+      "start": 216.3,
+      "end": 218.28,
+      "text": "moment to think about stopping herself before she"
+    },
+    {
+      "start": 218.28,
+      "end": 220.44,
+      "text": "found herself falling down what seemed to be a"
+    },
+    {
+      "start": 220.62,
+      "end": 221.4,
+      "text": "very deep well."
+    },
+    {
+      "start": 222.58,
+      "end": 225.36,
+      "text": "Either the well was very deep or she fell very slowly,",
+      "para_break": true
+    },
+    {
+      "start": 225.62,
+      "end": 226.68,
+      "text": "for she had plenty of time"
+    },
+    {
+      "start": 226.68,
+      "end": 228.16,
+      "text": "as she went down to look about her,"
+    },
+    {
+      "start": 228.26,
+      "end": 230.12,
+      "text": "and to wonder what was going to happen next."
+    },
+    {
+      "start": 230.42,
+      "end": 230.52,
+      "text": "First,"
+    },
+    {
+      "start": 231.06,
+      "end": 231.52,
+      "text": "she tried"
+    },
+    {
+      "start": 231.52,
+      "end": 233.56,
+      "text": "to look down and make out what she was coming to,"
+    },
+    {
+      "start": 233.72,
+      "end": 235.34,
+      "text": "but it was too dark to see anything."
+    },
+    {
+      "start": 236.12,
+      "end": 236.36,
+      "text": "Then she",
+      "para_break": true
+    },
+    {
+      "start": 236.36,
+      "end": 238.12,
+      "text": "looked at the sides of the well and noticed that"
+    },
+    {
+      "start": 238.12,
+      "end": 239.91,
+      "text": "they were filled with cupboards and bookshelves."
+    },
+    {
+      "start": 240.4,
+      "end": 242.79,
+      "text": "Here and there she saw maps and pictures hung upon pegs."
+    }
+  ]
+}
