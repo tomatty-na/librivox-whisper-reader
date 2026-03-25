@@ -1,0 +1,621 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-10",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_10_hammett.mp3",
+  "chapter_title": "Chapter 10 - The Belvedere Divan",
+  "reader_name": "Mark Nelson",
+  "page_num": 1,
+  "page_total": 6,
+  "page_start_sec": 7.6,
+  "page_end_sec": 247.7,
+  "para_gap_threshold": 0.74,
+  "segments": [
+    {
+      "start": 7.6,
+      "end": 10.0,
+      "text": "X."
+    },
+    {
+      "start": 10.56,
+      "end": 12.54,
+      "text": "THE BELVEDERE DEVAN"
+    },
+    {
+      "start": 15.06,
+      "end": 16.76,
+      "text": "Beginning day had reduced night to",
+      "para_break": true
+    },
+    {
+      "start": 16.76,
+      "end": 18.96,
+      "text": "a thin smokiness when Spade sat up."
+    },
+    {
+      "start": 20.064,
+      "end": 21.66,
+      "text": "Bridget O'Shaughnessy's soft breathing",
+      "para_break": true
+    },
+    {
+      "start": 21.66,
+      "end": 23.54,
+      "text": "had the regularity of utter sleep."
+    },
+    {
+      "start": 24.8,
+      "end": 26.42,
+      "text": "Spade was quiet leaving bed and",
+      "para_break": true
+    },
+    {
+      "start": 26.42,
+      "end": 28.08,
+      "text": "bedroom and shutting the bedroom door."
+    },
+    {
+      "start": 28.44,
+      "end": 30.18,
+      "text": "He dressed in the bathroom."
+    },
+    {
+      "start": 31.264,
+      "end": 33.22,
+      "text": "Then he examined the sleeping girl's clothes,",
+      "para_break": true
+    },
+    {
+      "start": 33.62,
+      "end": 36.84,
+      "text": "took a flat brass key from the pocket of her coat and went out."
+    },
+    {
+      "start": 38.26,
+      "end": 39.28,
+      "text": "He went to the coronet,",
+      "para_break": true
+    },
+    {
+      "start": 39.904,
+      "end": 41.2,
+      "text": "letting himself into the building"
+    },
+    {
+      "start": 41.2,
+      "end": 43.02,
+      "text": "and into her apartment with the key."
+    },
+    {
+      "start": 44.16,
+      "end": 46.78,
+      "text": "To the eye there was nothing furtive about his going in.",
+      "para_break": true
+    },
+    {
+      "start": 47.4,
+      "end": 48.82,
+      "text": "He entered boldly and directly."
+    },
+    {
+      "start": 49.88,
+      "end": 52.28,
+      "text": "To the ear his going in was almost unnoticeable.",
+      "para_break": true
+    },
+    {
+      "start": 52.96,
+      "end": 55.02,
+      "text": "He made as little sound as might be."
+    },
+    {
+      "start": 56.08,
+      "end": 59.24,
+      "text": "In the girls' apartment he switched on all the lights.",
+      "para_break": true
+    },
+    {
+      "start": 59.776,
+      "end": 62.3,
+      "text": "He searched the place from wall to wall."
+    },
+    {
+      "start": 63.12,
+      "end": 65.44,
+      "text": "His eyes and thick fingers moved without apparent",
+      "para_break": true
+    },
+    {
+      "start": 65.44,
+      "end": 68.1,
+      "text": "haste and without ever lingering or fumbling or"
+    },
+    {
+      "start": 68.1,
+      "end": 68.6,
+      "text": "going back,"
+    },
+    {
+      "start": 68.97,
+      "end": 71.36,
+      "text": "from one inch of their fields to the next,"
+    },
+    {
+      "start": 71.48,
+      "end": 72.2,
+      "text": "probing,"
+    },
+    {
+      "start": 72.34,
+      "end": 73.26,
+      "text": "scrutinizing,"
+    },
+    {
+      "start": 73.38,
+      "end": 73.76,
+      "text": "testing,"
+    },
+    {
+      "start": 73.9,
+      "end": 74.98,
+      "text": "with expert certainty."
+    },
+    {
+      "start": 76.32,
+      "end": 76.8,
+      "text": "Every drawer,",
+      "para_break": true
+    },
+    {
+      "start": 77.02,
+      "end": 77.4,
+      "text": "cupboard,"
+    },
+    {
+      "start": 77.58,
+      "end": 78.06,
+      "text": "cubbyhole,"
+    },
+    {
+      "start": 78.16,
+      "end": 78.46,
+      "text": "box,"
+    },
+    {
+      "start": 78.6,
+      "end": 78.84,
+      "text": "bag,"
+    },
+    {
+      "start": 78.92,
+      "end": 79.14,
+      "text": "trunk,"
+    },
+    {
+      "start": 79.36,
+      "end": 80.38,
+      "text": "locked or unlocked,"
+    },
+    {
+      "start": 80.66,
+      "end": 82.38,
+      "text": "was opened and its contents subjected"
+    },
+    {
+      "start": 82.38,
+      "end": 84.62,
+      "text": "to examination by eyes and fingers."
+    },
+    {
+      "start": 86.08,
+      "end": 87.04,
+      "text": "Every piece of clothing",
+      "para_break": true
+    },
+    {
+      "start": 87.04,
+      "end": 89.36,
+      "text": "was tested by hands that felt for tell-tale"
+    },
+    {
+      "start": 89.36,
+      "end": 92.02,
+      "text": "bulges and ears that listened for the crinkle"
+    },
+    {
+      "start": 92.02,
+      "end": 93.72,
+      "text": "of paper between pressing fingers."
+    },
+    {
+      "start": 94.96,
+      "end": 96.44,
+      "text": "He stripped the bed of bedclothes.",
+      "para_break": true
+    },
+    {
+      "start": 96.7,
+      "end": 98.24,
+      "text": "He looked under rugs"
+    },
+    {
+      "start": 98.32,
+      "end": 100.22,
+      "text": "and at the underside of each piece of furniture."
+    },
+    {
+      "start": 101.184,
+      "end": 103.24,
+      "text": "He pulled down blinds to see that nothing",
+      "para_break": true
+    },
+    {
+      "start": 103.28,
+      "end": 104.87,
+      "text": "had been rolled up in them for concealment."
+    },
+    {
+      "start": 106.04,
+      "end": 107.82,
+      "text": "He leaned through windows to see that nothing",
+      "para_break": true
+    },
+    {
+      "start": 108.02,
+      "end": 109.4,
+      "text": "hung below them on the outside."
+    },
+    {
+      "start": 110.0,
+      "end": 113.68,
+      "text": "He poked with a fork into powder and cream jars on the dressing"
+    },
+    {
+      "start": 113.78,
+      "end": 113.96,
+      "text": "table."
+    },
+    {
+      "start": 115.1,
+      "end": 117.56,
+      "text": "He held atomizers and bottles up against the light.",
+      "para_break": true
+    },
+    {
+      "start": 118.54,
+      "end": 120.58,
+      "text": "He examined dishes and pans and food",
+      "para_break": true
+    },
+    {
+      "start": 120.58,
+      "end": 121.46,
+      "text": "and food containers."
+    },
+    {
+      "start": 121.92,
+      "end": 124.92,
+      "text": "He emptied the garbage can on spreadsheets of newspaper."
+    },
+    {
+      "start": 126.0,
+      "end": 126.72,
+      "text": "He opened the top",
+      "para_break": true
+    },
+    {
+      "start": 126.72,
+      "end": 128.22,
+      "text": "of a flush box in the bathroom,"
+    },
+    {
+      "start": 128.46,
+      "end": 129.5,
+      "text": "drained the box,"
+    },
+    {
+      "start": 129.6,
+      "end": 130.74,
+      "text": "and peered down into it."
+    },
+    {
+      "start": 131.8,
+      "end": 132.76,
+      "text": "He examined and tested",
+      "para_break": true
+    },
+    {
+      "start": 133.02,
+      "end": 134.5,
+      "text": "the metal screens over bathtub,"
+    },
+    {
+      "start": 134.86,
+      "end": 135.56,
+      "text": "washbowl,"
+    },
+    {
+      "start": 135.6,
+      "end": 137.06,
+      "text": "sink and laundry tub drains."
+    },
+    {
+      "start": 138.848,
+      "end": 140.62,
+      "text": "Spade did not find a blackbird.",
+      "para_break": true
+    },
+    {
+      "start": 141.08,
+      "end": 144.38,
+      "text": "He found nothing that seemed to have any connection with a"
+    },
+    {
+      "start": 144.48,
+      "end": 144.94,
+      "text": "blackbird."
+    },
+    {
+      "start": 145.35,
+      "end": 147.92,
+      "text": "The only piece of writing he found was a"
+    },
+    {
+      "start": 147.92,
+      "end": 149.7,
+      "text": "week-old receipt for the month's apartment"
+    },
+    {
+      "start": 149.9,
+      "end": 151.58,
+      "text": "rent Bridget O'Shaughnessy had paid."
+    },
+    {
+      "start": 153.02,
+      "end": 155.0,
+      "text": "The only thing he found that interested him enough",
+      "para_break": true
+    },
+    {
+      "start": 155.08,
+      "end": 156.98,
+      "text": "to delay his search for a few minutes while"
+    },
+    {
+      "start": 156.98,
+      "end": 159.54,
+      "text": "he looked at it was a double handful of rather"
+    },
+    {
+      "start": 159.7,
+      "end": 163.28,
+      "text": "fine jewelry in a polychrome box in a locked dressing-table drawer."
+    },
+    {
+      "start": 164.88,
+      "end": 165.62,
+      "text": "When he had finished,",
+      "para_break": true
+    },
+    {
+      "start": 166.06,
+      "end": 167.78,
+      "text": "he made and drank a cup of coffee."
+    },
+    {
+      "start": 168.72,
+      "end": 170.24,
+      "text": "Then he unlocked the kitchen window,",
+      "para_break": true
+    },
+    {
+      "start": 170.68,
+      "end": 173.42,
+      "text": "scarred the edge of its lock a little with his pocket-knife,"
+    },
+    {
+      "start": 173.54,
+      "end": 174.56,
+      "text": "opened the window,"
+    },
+    {
+      "start": 174.74,
+      "end": 175.94,
+      "text": "over a fire-scape,"
+    },
+    {
+      "start": 176.38,
+      "end": 178.82,
+      "text": "got his hat and overcoat from the living-room set-team,"
+    },
+    {
+      "start": 178.9,
+      "end": 180.88,
+      "text": "and left the apartment as he had come."
+    },
+    {
+      "start": 182.4,
+      "end": 183.2,
+      "text": "On his way home,",
+      "para_break": true
+    },
+    {
+      "start": 183.62,
+      "end": 186.76,
+      "text": "he stopped at a store that was being opened by a puffy-eyed,"
+    },
+    {
+      "start": 187.0,
+      "end": 188.06,
+      "text": "shivering plump grocer,"
+    },
+    {
+      "start": 188.36,
+      "end": 189.56,
+      "text": "and bought oranges,"
+    },
+    {
+      "start": 189.78,
+      "end": 190.06,
+      "text": "eggs,"
+    },
+    {
+      "start": 190.2,
+      "end": 190.5,
+      "text": "rolls,"
+    },
+    {
+      "start": 190.58,
+      "end": 191.3,
+      "text": "butter and cream."
+    },
+    {
+      "start": 193.184,
+      "end": 194.96,
+      "text": "Spade went quietly into his apartment,",
+      "para_break": true
+    },
+    {
+      "start": 195.78,
+      "end": 198.06,
+      "text": "but before he had shut the corridor door behind him,",
+      "para_break": true
+    },
+    {
+      "start": 198.528,
+      "end": 199.54,
+      "text": "Brigid O'Shaughnessy cried,"
+    },
+    {
+      "start": 200.4,
+      "end": 201.06,
+      "text": "\"'Who is that?'",
+      "para_break": true
+    },
+    {
+      "start": 202.144,
+      "end": 203.42,
+      "text": "\"'Young Spade bearing breakfast.",
+      "para_break": true
+    },
+    {
+      "start": 203.68,
+      "end": 203.808,
+      "text": "Oh,"
+    },
+    {
+      "start": 204.62,
+      "end": 205.952,
+      "text": "you frighten me!'",
+      "para_break": true
+    },
+    {
+      "start": 206.83,
+      "end": 209.32,
+      "text": "The bedroom door he had shut was open.",
+      "para_break": true
+    },
+    {
+      "start": 209.71,
+      "end": 211.98,
+      "text": "The girl sat on the side of the bed,"
+    },
+    {
+      "start": 212.04,
+      "end": 212.26,
+      "text": "trembling,"
+    },
+    {
+      "start": 212.6,
+      "end": 215.12,
+      "text": "with the right hand out of sight under a pillow."
+    },
+    {
+      "start": 216.256,
+      "end": 217.76,
+      "text": "Spade put his packages on the kitchen",
+      "para_break": true
+    },
+    {
+      "start": 217.76,
+      "end": 219.34,
+      "text": "table and went into the bedroom."
+    },
+    {
+      "start": 219.9,
+      "end": 221.94,
+      "text": "He sat on the bed beside the girl,"
+    },
+    {
+      "start": 222.08,
+      "end": 223.98,
+      "text": "kissed her smooth shoulder and said,"
+    },
+    {
+      "start": 225.16,
+      "end": 227.18,
+      "text": "I wanted to see if that kid was still on",
+      "para_break": true
+    },
+    {
+      "start": 227.18,
+      "end": 229.06,
+      "text": "the job and to get stuff for breakfast."
+    },
+    {
+      "start": 230.22,
+      "end": 230.52,
+      "text": "Is he?",
+      "para_break": true
+    },
+    {
+      "start": 231.0,
+      "end": 231.36,
+      "text": "No."
+    },
+    {
+      "start": 232.56,
+      "end": 234.14,
+      "text": "She sighed and leaned against him.",
+      "para_break": true
+    },
+    {
+      "start": 234.8,
+      "end": 236.88,
+      "text": "I awakened and you weren't here,"
+    },
+    {
+      "start": 237.04,
+      "end": 239.4,
+      "text": "and then I heard somebody coming in."
+    },
+    {
+      "start": 239.92,
+      "end": 240.64,
+      "text": "I was terrified."
+    },
+    {
+      "start": 242.16,
+      "end": 244.2,
+      "text": "Spade combed her red hair back from",
+      "para_break": true
+    },
+    {
+      "start": 244.2,
+      "end": 245.92,
+      "text": "her face with his fingers and said,"
+    },
+    {
+      "start": 246.88,
+      "end": 247.38,
+      "text": "\"'I'm sorry,",
+      "para_break": true
+    },
+    {
+      "start": 247.48,
+      "end": 247.7,
+      "text": "Angel."
+    }
+  ]
+}

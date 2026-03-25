@@ -87,6 +87,142 @@
           "pages": 3
         }
       ]
+    },
+    {
+      "slug": "the-maltese-falcon-by-dashiell-hammett",
+      "title": "Maltese Falcon, Original Serialized Version",
+      "author": "Dashiell Hammett",
+      "year": null,
+      "reader": "Mark Nelson",
+      "librivox_url": "https://librivox.org/the-maltese-falcon-by-dashiell-hammett/",
+      "archive_id": "maltesefalcon_2511_librivox",
+      "added": "2026-03-26",
+      "genres": [
+        "Detective Fiction"
+      ],
+      "language": "English",
+      "chapters": [
+        {
+          "audio_file": "audio-01",
+          "title": "Chapter 1 - Spade and Archer",
+          "duration_sec": 939,
+          "pages": 4
+        },
+        {
+          "audio_file": "audio-02",
+          "title": "Chapter 2 - Death in the Fog",
+          "duration_sec": 1522,
+          "pages": 7
+        },
+        {
+          "audio_file": "audio-03",
+          "title": "Chapter 3 - Three Women",
+          "duration_sec": 911,
+          "pages": 4
+        },
+        {
+          "audio_file": "audio-04",
+          "title": "Chapter 4 - The Black Bird",
+          "duration_sec": 1565,
+          "pages": 7
+        },
+        {
+          "audio_file": "audio-05",
+          "title": "Chapter 5 - Cairo's Pockets",
+          "duration_sec": 861,
+          "pages": 4
+        },
+        {
+          "audio_file": "audio-06",
+          "title": "Chapter 6 - The Undersized Shadow",
+          "duration_sec": 1040,
+          "pages": 5
+        },
+        {
+          "audio_file": "audio-07",
+          "title": "Chapter 7 - G in the Air",
+          "duration_sec": 1500,
+          "pages": 7
+        },
+        {
+          "audio_file": "audio-08",
+          "title": "Chapter 8 - Horsefeathers",
+          "duration_sec": 986,
+          "pages": 5
+        },
+        {
+          "audio_file": "audio-09",
+          "title": "Chapter 9 - The Liar",
+          "duration_sec": 930,
+          "pages": 4
+        },
+        {
+          "audio_file": "audio-10",
+          "title": "Chapter 10 - The Belvedere Divan",
+          "duration_sec": 1294,
+          "pages": 6
+        },
+        {
+          "audio_file": "audio-11",
+          "title": "Chapter 11 - Gutman",
+          "duration_sec": 1328,
+          "pages": 6
+        },
+        {
+          "audio_file": "audio-12",
+          "title": "Chapter 12 - Merry-Go-Round",
+          "duration_sec": 1095,
+          "pages": 5
+        },
+        {
+          "audio_file": "audio-13",
+          "title": "Chapter 13 - The Emperor's Gift",
+          "duration_sec": 1172,
+          "pages": 5
+        },
+        {
+          "audio_file": "audio-14",
+          "title": "Chapter 14 - La Paloma",
+          "duration_sec": 1039,
+          "pages": 5
+        },
+        {
+          "audio_file": "audio-15",
+          "title": "Chapter 15 - Officials",
+          "duration_sec": 1292,
+          "pages": 6
+        },
+        {
+          "audio_file": "audio-16",
+          "title": "Chapter 16 - The Third Murder",
+          "duration_sec": 1258,
+          "pages": 6
+        },
+        {
+          "audio_file": "audio-17",
+          "title": "Chapter 17 - Saturday Night",
+          "duration_sec": 1347,
+          "pages": 6
+        },
+        {
+          "audio_file": "audio-18",
+          "title": "Chapter 18 - The Fall-Guy",
+          "duration_sec": 1994,
+          "pages": 9
+        },
+        {
+          "audio_file": "audio-19",
+          "title": "Chapter 19 - The Russian's Hand",
+          "duration_sec": 2371,
+          "pages": 10
+        },
+        {
+          "audio_file": "audio-20",
+          "title": "Chapter 20 - If They Hang You",
+          "duration_sec": 1533,
+          "pages": 7
+        }
+      ]
     }
   ]
 }

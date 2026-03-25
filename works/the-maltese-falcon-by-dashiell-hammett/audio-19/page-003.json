@@ -1,0 +1,654 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-19",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_19_hammett.mp3",
+  "chapter_title": "Chapter 19 - The Russian's Hand",
+  "reader_name": "Mark Nelson",
+  "page_num": 3,
+  "page_total": 10,
+  "page_start_sec": 496.2,
+  "page_end_sec": 741.31,
+  "para_gap_threshold": 0.671,
+  "segments": [
+    {
+      "start": 496.2,
+      "end": 496.7,
+      "text": "Yes,",
+      "para_break": true
+    },
+    {
+      "start": 496.98,
+      "end": 497.7,
+      "text": "keep it up."
+    },
+    {
+      "start": 498.62,
+      "end": 500.32,
+      "text": "You didn't think he might have the falcon?'",
+      "para_break": true
+    },
+    {
+      "start": 501.472,
+      "end": 503.95,
+      "text": "Cutman shook his head so that his round cheeks wobbled.",
+      "para_break": true
+    },
+    {
+      "start": 505.06,
+      "end": 507.54,
+      "text": "\"'We didn't think that for a minute,' he replied.",
+      "para_break": true
+    },
+    {
+      "start": 508.6,
+      "end": 509.1,
+      "text": "He smiled",
+      "para_break": true
+    },
+    {
+      "start": 509.3,
+      "end": 509.84,
+      "text": "benevolently."
+    },
+    {
+      "start": 511.22,
+      "end": 514.72,
+      "text": "\"'We had the advantage of knowing Miss O'Shaughnessy far too well for",
+      "para_break": true
+    },
+    {
+      "start": 514.84,
+      "end": 515.02,
+      "text": "that,"
+    },
+    {
+      "start": 515.2,
+      "end": 518.34,
+      "text": "and while we didn't then know that she had left the falcon with"
+    },
+    {
+      "start": 518.46,
+      "end": 519.86,
+      "text": "Captain Jacoby in Hong Kong,"
+    },
+    {
+      "start": 520.08,
+      "end": 523.16,
+      "text": "to be brought over on the Paloma while they took a faster boat,"
+    },
+    {
+      "start": 523.36,
+      "end": 525.82,
+      "text": "still we didn't think for a minute that,"
+    },
+    {
+      "start": 525.95,
+      "end": 528.2,
+      "text": "if only one of them knew where it was,"
+    },
+    {
+      "start": 528.704,
+      "end": 529.888,
+      "text": "Thursby was the one.'"
+    },
+    {
+      "start": 531.232,
+      "end": 532.84,
+      "text": "Spade nodded thoughtfully and asked,",
+      "para_break": true
+    },
+    {
+      "start": 533.8,
+      "end": 535.1,
+      "text": "\"'You didn't try to make a deal with",
+      "para_break": true
+    },
+    {
+      "start": 535.1,
+      "end": 536.66,
+      "text": "him before you gave him the works?'"
+    },
+    {
+      "start": 537.4,
+      "end": 537.8,
+      "text": "\"'Yes,",
+      "para_break": true
+    },
+    {
+      "start": 537.8,
+      "end": 538.04,
+      "text": "sir,"
+    },
+    {
+      "start": 538.06,
+      "end": 539.06,
+      "text": "certainly we did."
+    },
+    {
+      "start": 539.22,
+      "end": 541.32,
+      "text": "I talked to him myself that night."
+    },
+    {
+      "start": 542.336,
+      "end": 543.66,
+      "text": "Wilmer had located him two",
+      "para_break": true
+    },
+    {
+      "start": 543.66,
+      "end": 546.16,
+      "text": "days before and had been trying to follow him"
+    },
+    {
+      "start": 546.16,
+      "end": 548.06,
+      "text": "to wherever he was meeting Miss O'Shaughnessy,"
+    },
+    {
+      "start": 548.46,
+      "end": 550.42,
+      "text": "But Thursby was too crafty for that,"
+    },
+    {
+      "start": 550.6,
+      "end": 552.94,
+      "text": "even if he didn't know he was being followed."
+    },
+    {
+      "start": 553.696,
+      "end": 556.08,
+      "text": "So that night Wilmer went to his hotel,",
+      "para_break": true
+    },
+    {
+      "start": 556.42,
+      "end": 557.74,
+      "text": "learned he wasn't in,"
+    },
+    {
+      "start": 557.86,
+      "end": 559.38,
+      "text": "and waited outside for him."
+    },
+    {
+      "start": 560.2,
+      "end": 563.3,
+      "text": "I suppose Thursby returned immediately after killing your partner.",
+      "para_break": true
+    },
+    {
+      "start": 564.26,
+      "end": 565.08,
+      "text": "Be that as it may,",
+      "para_break": true
+    },
+    {
+      "start": 565.38,
+      "end": 566.94,
+      "text": "Wilmer brought him in to see me."
+    },
+    {
+      "start": 568.0,
+      "end": 569.32,
+      "text": "We could do nothing with him.",
+      "para_break": true
+    },
+    {
+      "start": 569.888,
+      "end": 573.16,
+      "text": "He was quite determinately loyal to Miss O'Shaughnessy."
+    },
+    {
+      "start": 573.88,
+      "end": 574.18,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 574.18,
+      "end": 574.42,
+      "text": "sir,"
+    },
+    {
+      "start": 574.61,
+      "end": 578.16,
+      "text": "Wilmer followed him back to his hotel and did what he did."
+    },
+    {
+      "start": 579.872,
+      "end": 581.02,
+      "text": "Spade thought for a moment.",
+      "para_break": true
+    },
+    {
+      "start": 582.1,
+      "end": 583.0,
+      "text": "\"'That sounds all right.",
+      "para_break": true
+    },
+    {
+      "start": 583.2,
+      "end": 583.3,
+      "text": "Now,"
+    },
+    {
+      "start": 584.3,
+      "end": 584.9,
+      "text": "Jacoby.'",
+      "para_break": true
+    },
+    {
+      "start": 586.336,
+      "end": 588.68,
+      "text": "Gutman looked with grave eyes at Spade and said,",
+      "para_break": true
+    },
+    {
+      "start": 589.888,
+      "end": 593.24,
+      "text": "\"'Captain Jacoby's death was entirely Miss O'Shaughnessy's fault.'",
+      "para_break": true
+    },
+    {
+      "start": 594.34,
+      "end": 595.24,
+      "text": "The girl gasped,",
+      "para_break": true
+    },
+    {
+      "start": 595.62,
+      "end": 597.42,
+      "text": "\"'Oh!' and put a hand to her mouth."
+    },
+    {
+      "start": 598.496,
+      "end": 600.32,
+      "text": "Spade's voice was heavy and even.",
+      "para_break": true
+    },
+    {
+      "start": 601.28,
+      "end": 602.16,
+      "text": "\"'Never mind that now.",
+      "para_break": true
+    },
+    {
+      "start": 602.4,
+      "end": 604.16,
+      "text": "How did it happen?'"
+    },
+    {
+      "start": 605.6,
+      "end": 607.28,
+      "text": "After a shrewd look at Spade,",
+      "para_break": true
+    },
+    {
+      "start": 607.5,
+      "end": 608.36,
+      "text": "Gutman smiled."
+    },
+    {
+      "start": 610.1,
+      "end": 610.92,
+      "text": "\"'Just as you say,",
+      "para_break": true
+    },
+    {
+      "start": 611.04,
+      "end": 612.04,
+      "text": "sir,' he said."
+    },
+    {
+      "start": 612.68,
+      "end": 612.96,
+      "text": "\"'Well,"
+    },
+    {
+      "start": 613.24,
+      "end": 613.86,
+      "text": "Cairo,"
+    },
+    {
+      "start": 614.12,
+      "end": 614.96,
+      "text": "as you now know,"
+    },
+    {
+      "start": 615.16,
+      "end": 616.6,
+      "text": "got in touch with me,"
+    },
+    {
+      "start": 616.7,
+      "end": 618.26,
+      "text": "or rather I sent for him,"
+    },
+    {
+      "start": 618.912,
+      "end": 620.94,
+      "text": "after he left police headquarters the night,"
+    },
+    {
+      "start": 621.08,
+      "end": 622.36,
+      "text": "the morning he was up here."
+    },
+    {
+      "start": 623.52,
+      "end": 627.168,
+      "text": "We recognized the mutual advantage of pooling forces at that time.'",
+      "para_break": true
+    },
+    {
+      "start": 627.66,
+      "end": 629.88,
+      "text": "He directed his smile at the Levantine."
+    },
+    {
+      "start": 630.57,
+      "end": 631.32,
+      "text": "\"'Mr.",
+      "para_break": true
+    },
+    {
+      "start": 631.4,
+      "end": 633.16,
+      "text": "Cairo is a man of nice judgment."
+    },
+    {
+      "start": 633.44,
+      "end": 635.22,
+      "text": "The Paloma was his thought."
+    },
+    {
+      "start": 636.0,
+      "end": 638.16,
+      "text": "He saw the notice of its arrival in the papers,",
+      "para_break": true
+    },
+    {
+      "start": 638.36,
+      "end": 641.06,
+      "text": "and remembered that in Hong Kong he had heard"
+    },
+    {
+      "start": 641.3,
+      "end": 644.0,
+      "text": "that Miss O'Shaughnessy and Jacoby had been seen together."
+    },
+    {
+      "start": 645.216,
+      "end": 647.18,
+      "text": "That was when he was trying to find her there,",
+      "para_break": true
+    },
+    {
+      "start": 647.38,
+      "end": 649.36,
+      "text": "and he thought at first that she had left"
+    },
+    {
+      "start": 649.36,
+      "end": 650.1,
+      "text": "on the Paloma,"
+    },
+    {
+      "start": 650.72,
+      "end": 652.62,
+      "text": "though later he learned that she hadn't."
+    },
+    {
+      "start": 653.4,
+      "end": 653.92,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 653.94,
+      "end": 654.18,
+      "text": "sir,"
+    },
+    {
+      "start": 654.34,
+      "end": 655.98,
+      "text": "when he saw that in the paper,"
+    },
+    {
+      "start": 656.1,
+      "end": 657.96,
+      "text": "he guessed just what had happened."
+    },
+    {
+      "start": 658.8,
+      "end": 661.54,
+      "text": "She had given the bird to Jacoby to bring here for her.",
+      "para_break": true
+    },
+    {
+      "start": 662.43,
+      "end": 663.9,
+      "text": "Jacobi did not know what it was,",
+      "para_break": true
+    },
+    {
+      "start": 664.0,
+      "end": 664.4,
+      "text": "of course."
+    },
+    {
+      "start": 665.12,
+      "end": 667.488,
+      "text": "Miss O'Shaughnessy is too discreet for that.\"",
+      "para_break": true
+    },
+    {
+      "start": 668.5,
+      "end": 669.54,
+      "text": "He beamed at the girl,",
+      "para_break": true
+    },
+    {
+      "start": 669.7,
+      "end": 670.9,
+      "text": "rocked his chair twice,"
+    },
+    {
+      "start": 670.9,
+      "end": 671.7,
+      "text": "and went on."
+    },
+    {
+      "start": 672.5,
+      "end": 673.02,
+      "text": "\"'Mr.",
+      "para_break": true
+    },
+    {
+      "start": 673.14,
+      "end": 676.0,
+      "text": "Cairo and Wilmer and I went to call on Captain Jacobi,"
+    },
+    {
+      "start": 676.4,
+      "end": 677.88,
+      "text": "and were fortunate enough to arrive"
+    },
+    {
+      "start": 677.88,
+      "end": 679.64,
+      "text": "before Miss O'Shaughnessy had left."
+    },
+    {
+      "start": 680.66,
+      "end": 682.84,
+      "text": "In many ways it was a difficult interview,",
+      "para_break": true
+    },
+    {
+      "start": 683.06,
+      "end": 683.98,
+      "text": "but finally,"
+    },
+    {
+      "start": 684.12,
+      "end": 684.72,
+      "text": "by midnight,"
+    },
+    {
+      "start": 685.0,
+      "end": 687.6,
+      "text": "we had persuaded Miss O'Shaughnessy to come to terms,"
+    },
+    {
+      "start": 687.78,
+      "end": 689.1,
+      "text": "or so we thought."
+    },
+    {
+      "start": 689.78,
+      "end": 692.42,
+      "text": "We then left the boat and set out for my hotel,",
+      "para_break": true
+    },
+    {
+      "start": 692.72,
+      "end": 695.82,
+      "text": "where we were to pay Miss O'Shaughnessy and receive the bird."
+    },
+    {
+      "start": 696.54,
+      "end": 696.64,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 697.2,
+      "end": 697.44,
+      "text": "sir,"
+    },
+    {
+      "start": 697.62,
+      "end": 700.48,
+      "text": "we mere men should have known better than to"
+    },
+    {
+      "start": 700.48,
+      "end": 702.82,
+      "text": "suppose we were capable of coping with her."
+    },
+    {
+      "start": 703.76,
+      "end": 706.16,
+      "text": "En route she and Captain Jacoby and the",
+      "para_break": true
+    },
+    {
+      "start": 706.16,
+      "end": 708.24,
+      "text": "falcon slipped completely through our fingers."
+    },
+    {
+      "start": 708.72,
+      "end": 710.56,
+      "text": "He laughed merrily."
+    },
+    {
+      "start": 711.18,
+      "end": 711.74,
+      "text": "By Gad,"
+    },
+    {
+      "start": 711.82,
+      "end": 712.04,
+      "text": "sir,"
+    },
+    {
+      "start": 712.16,
+      "end": 713.56,
+      "text": "it was neatly done."
+    },
+    {
+      "start": 715.072,
+      "end": 716.14,
+      "text": "Spade looked at the girl.",
+      "para_break": true
+    },
+    {
+      "start": 716.38,
+      "end": 717.38,
+      "text": "Her eyes,"
+    },
+    {
+      "start": 717.64,
+      "end": 719.26,
+      "text": "large and dark with pleading,"
+    },
+    {
+      "start": 719.38,
+      "end": 719.9,
+      "text": "met his."
+    },
+    {
+      "start": 720.98,
+      "end": 721.82,
+      "text": "He asked Gutman,",
+      "para_break": true
+    },
+    {
+      "start": 722.86,
+      "end": 724.84,
+      "text": "\"'You touched off the boat before you left?'",
+      "para_break": true
+    },
+    {
+      "start": 725.632,
+      "end": 726.32,
+      "text": "\"'Not intentionally,",
+      "para_break": true
+    },
+    {
+      "start": 726.5,
+      "end": 726.68,
+      "text": "no,"
+    },
+    {
+      "start": 726.78,
+      "end": 728.44,
+      "text": "sir,' the fat man replied,"
+    },
+    {
+      "start": 729.056,
+      "end": 730.42,
+      "text": "\"'though I dare say we,"
+    },
+    {
+      "start": 730.64,
+      "end": 731.96,
+      "text": "or Wilmer at least,"
+    },
+    {
+      "start": 732.36,
+      "end": 733.84,
+      "text": "were responsible for the fire."
+    },
+    {
+      "start": 734.3,
+      "end": 736.38,
+      "text": "He was out trying to find the falcon while"
+    },
+    {
+      "start": 736.38,
+      "end": 738.18,
+      "text": "the rest of us were talking in the cabin,"
+    },
+    {
+      "start": 738.848,
+      "end": 741.31,
+      "text": "and he may have been careless with matches.'"
+    }
+  ]
+}

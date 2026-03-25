@@ -1,0 +1,661 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-13",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_13_hammett.mp3",
+  "chapter_title": "Chapter 13 - The Emperor's Gift",
+  "reader_name": "Mark Nelson",
+  "page_num": 3,
+  "page_total": 5,
+  "page_start_sec": 506.976,
+  "page_end_sec": 748.22,
+  "para_gap_threshold": 0.673,
+  "segments": [
+    {
+      "start": 506.976,
+      "end": 509.36,
+      "text": "There's nothing to show that it didn't stay in the same",
+      "para_break": true
+    },
+    {
+      "start": 509.46,
+      "end": 512.5,
+      "text": "family until the end of the Carlist War in 1840."
+    },
+    {
+      "start": 513.696,
+      "end": 516.08,
+      "text": "Then it showed up in Paris at just about the time"
+    },
+    {
+      "start": 516.08,
+      "end": 519.52,
+      "text": "that Paris was full of Carlists who had had to get out of Spain."
+    },
+    {
+      "start": 520.62,
+      "end": 521.48,
+      "text": "One of them must have brought",
+      "para_break": true
+    },
+    {
+      "start": 521.6,
+      "end": 521.96,
+      "text": "it with him,"
+    },
+    {
+      "start": 522.08,
+      "end": 525.58,
+      "text": "but whoever he was he didn't know anything about its value."
+    },
+    {
+      "start": 526.24,
+      "end": 527.66,
+      "text": "It had been painted"
+    },
+    {
+      "start": 527.84,
+      "end": 528.74,
+      "text": "or enameled over."
+    },
+    {
+      "start": 529.44,
+      "end": 530.14,
+      "text": "The chances are,",
+      "para_break": true
+    },
+    {
+      "start": 530.26,
+      "end": 531.9,
+      "text": "during the carless trouble in Spain,"
+    },
+    {
+      "start": 532.18,
+      "end": 533.14,
+      "text": "to look like nothing"
+    },
+    {
+      "start": 533.24,
+      "end": 535.6,
+      "text": "more than a fairly interesting black statuette."
+    },
+    {
+      "start": 537.06,
+      "end": 537.98,
+      "text": "And in that disguise,",
+      "para_break": true
+    },
+    {
+      "start": 538.24,
+      "end": 538.36,
+      "text": "sir,"
+    },
+    {
+      "start": 538.5,
+      "end": 539.84,
+      "text": "it was kicked around"
+    },
+    {
+      "start": 539.96,
+      "end": 541.26,
+      "text": "Paris for seventy years,"
+    },
+    {
+      "start": 541.52,
+      "end": 545.64,
+      "text": "by private owners and dealers too stupid to see what it was under its"
+    },
+    {
+      "start": 545.78,
+      "end": 545.94,
+      "text": "skin."
+    },
+    {
+      "start": 547.44,
+      "end": 548.46,
+      "text": "For seventy years,",
+      "para_break": true
+    },
+    {
+      "start": 548.62,
+      "end": 548.78,
+      "text": "sir,"
+    },
+    {
+      "start": 548.92,
+      "end": 550.62,
+      "text": "this marvellous item was,"
+    },
+    {
+      "start": 550.84,
+      "end": 551.6,
+      "text": "as you might say,"
+    },
+    {
+      "start": 551.8,
+      "end": 553.02,
+      "text": "a football in the"
+    },
+    {
+      "start": 553.1,
+      "end": 553.9,
+      "text": "gutters of Paris."
+    },
+    {
+      "start": 554.48,
+      "end": 555.12,
+      "text": "Until,"
+    },
+    {
+      "start": 555.4,
+      "end": 556.42,
+      "text": "in 1911,"
+    },
+    {
+      "start": 556.7,
+      "end": 561.2,
+      "text": "a Greek dealer named Kareleos Constantinides found it in a curio"
+    },
+    {
+      "start": 561.32,
+      "end": 561.48,
+      "text": "shop."
+    },
+    {
+      "start": 562.7,
+      "end": 564.38,
+      "text": "It didn't take Kareleos long to",
+      "para_break": true
+    },
+    {
+      "start": 564.38,
+      "end": 566.62,
+      "text": "discover what it was and to acquire it."
+    },
+    {
+      "start": 567.168,
+      "end": 568.98,
+      "text": "No thickness of"
+    },
+    {
+      "start": 569.08,
+      "end": 572.18,
+      "text": "enamel could conceal value from either his eyes or nose."
+    },
+    {
+      "start": 572.64,
+      "end": 573.42,
+      "text": "Well,"
+    },
+    {
+      "start": 573.5,
+      "end": 573.72,
+      "text": "sir,"
+    },
+    {
+      "start": 574.496,
+      "end": 575.68,
+      "text": "Kareleos was the man who",
+      "para_break": true
+    },
+    {
+      "start": 575.76,
+      "end": 577.12,
+      "text": "traced most of its history,"
+    },
+    {
+      "start": 577.3,
+      "end": 579.44,
+      "text": "who identified it as what it is."
+    },
+    {
+      "start": 580.44,
+      "end": 582.08,
+      "text": "I got wind of it and finally got",
+      "para_break": true
+    },
+    {
+      "start": 582.18,
+      "end": 583.52,
+      "text": "most of the story out of him,"
+    },
+    {
+      "start": 583.66,
+      "end": 586.6,
+      "text": "though I have been able to add a few details since."
+    },
+    {
+      "start": 588.544,
+      "end": 591.76,
+      "text": "Kerelaos was in no hurry to convert it into money at once.",
+      "para_break": true
+    },
+    {
+      "start": 592.512,
+      "end": 593.44,
+      "text": "He knew that,",
+      "para_break": true
+    },
+    {
+      "start": 593.68,
+      "end": 595.22,
+      "text": "enormous as its intrinsic"
+    },
+    {
+      "start": 595.4,
+      "end": 596.0,
+      "text": "value was,"
+    },
+    {
+      "start": 596.22,
+      "end": 597.4,
+      "text": "a far higher,"
+    },
+    {
+      "start": 597.52,
+      "end": 601.52,
+      "text": "a terrific price could be obtained for it once its authenticity was"
+    },
+    {
+      "start": 601.92,
+      "end": 602.8,
+      "text": "established beyond doubt."
+    },
+    {
+      "start": 603.872,
+      "end": 606.98,
+      "text": "Possibly he planned to do business with one of the modern descendants",
+      "para_break": true
+    },
+    {
+      "start": 606.98,
+      "end": 608.04,
+      "text": "of the old order."
+    },
+    {
+      "start": 609.1,
+      "end": 609.5,
+      "text": "There are,",
+      "para_break": true
+    },
+    {
+      "start": 609.68,
+      "end": 610.86,
+      "text": "or were at that time,"
+    },
+    {
+      "start": 611.9,
+      "end": 613.12,
+      "text": "several—the English Order of St.",
+      "para_break": true
+    },
+    {
+      "start": 613.26,
+      "end": 613.46,
+      "text": "John"
+    },
+    {
+      "start": 613.46,
+      "end": 613.96,
+      "text": "of Jerusalem,"
+    },
+    {
+      "start": 614.24,
+      "end": 616.14,
+      "text": "the Prussian Johannate Orden,"
+    },
+    {
+      "start": 616.24,
+      "end": 619.34,
+      "text": "and the Italian and German Iangus of the Sovereign"
+    },
+    {
+      "start": 619.42,
+      "end": 620.06,
+      "text": "Order of Malta."
+    },
+    {
+      "start": 620.92,
+      "end": 622.92,
+      "text": "The fat man raised his glass,",
+      "para_break": true
+    },
+    {
+      "start": 623.14,
+      "end": 624.26,
+      "text": "smiled at its emptiness,"
+    },
+    {
+      "start": 624.54,
+      "end": 625.64,
+      "text": "and rose to fill it in"
+    },
+    {
+      "start": 625.86,
+      "end": 626.24,
+      "text": "spades."
+    },
+    {
+      "start": 627.22,
+      "end": 630.94,
+      "text": "\"'You begin to believe me a little?' he asked as he worked the",
+      "para_break": true
+    },
+    {
+      "start": 631.04,
+      "end": 631.34,
+      "text": "siphon."
+    },
+    {
+      "start": 632.32,
+      "end": 633.48,
+      "text": "\"'I haven't said I didn't.'",
+      "para_break": true
+    },
+    {
+      "start": 633.86,
+      "end": 635.84,
+      "text": "\"'No,' Gutman chuckled."
+    },
+    {
+      "start": 635.86,
+      "end": 637.312,
+      "text": "\"'But how you looked!'"
+    },
+    {
+      "start": 637.64,
+      "end": 639.06,
+      "text": "He sat down,"
+    },
+    {
+      "start": 639.26,
+      "end": 640.14,
+      "text": "drank generously,"
+    },
+    {
+      "start": 640.4,
+      "end": 642.1,
+      "text": "and patted his mouth with a white"
+    },
+    {
+      "start": 642.24,
+      "end": 642.62,
+      "text": "handkerchief."
+    },
+    {
+      "start": 643.49,
+      "end": 644.24,
+      "text": "\"'Well,",
+      "para_break": true
+    },
+    {
+      "start": 644.26,
+      "end": 644.5,
+      "text": "sir,"
+    },
+    {
+      "start": 644.66,
+      "end": 647.82,
+      "text": "to keep it safe while pursuing his researches into its"
+    },
+    {
+      "start": 647.9,
+      "end": 648.16,
+      "text": "history,"
+    },
+    {
+      "start": 648.8,
+      "end": 650.68,
+      "text": "Keralaos had re-enameled the bird,"
+    },
+    {
+      "start": 650.94,
+      "end": 652.88,
+      "text": "apparently just as it is"
+    },
+    {
+      "start": 652.96,
+      "end": 653.1,
+      "text": "now."
+    },
+    {
+      "start": 654.34,
+      "end": 656.58,
+      "text": "One year to the very day after he had acquired",
+      "para_break": true
+    },
+    {
+      "start": 657.42,
+      "end": 659.34,
+      "text": "it—that was perhaps three months after he had",
+      "para_break": true
+    },
+    {
+      "start": 659.46,
+      "end": 662.12,
+      "text": "admitted his fine to me—I picked up the Times"
+    },
+    {
+      "start": 662.12,
+      "end": 664.84,
+      "text": "in London and read that his establishment had"
+    },
+    {
+      "start": 664.96,
+      "end": 666.52,
+      "text": "been burglarized and him murdered."
+    },
+    {
+      "start": 667.66,
+      "end": 669.18,
+      "text": "I was in Paris the next day.",
+      "para_break": true
+    },
+    {
+      "start": 669.94,
+      "end": 671.66,
+      "text": "He shook his head sorrowfully.",
+      "para_break": true
+    },
+    {
+      "start": 672.36,
+      "end": 673.74,
+      "text": "The bird was gone.",
+      "para_break": true
+    },
+    {
+      "start": 673.98,
+      "end": 675.04,
+      "text": "By Gad,"
+    },
+    {
+      "start": 675.04,
+      "end": 675.3,
+      "text": "sir,"
+    },
+    {
+      "start": 675.44,
+      "end": 676.62,
+      "text": "I was wild."
+    },
+    {
+      "start": 676.82,
+      "end": 679.7,
+      "text": "I didn't believe anybody else knew about it."
+    },
+    {
+      "start": 679.92,
+      "end": 682.6,
+      "text": "I didn't believe he had told anybody but me."
+    },
+    {
+      "start": 683.62,
+      "end": 685.64,
+      "text": "A great quantity of stuff had been taken,",
+      "para_break": true
+    },
+    {
+      "start": 685.74,
+      "end": 687.92,
+      "text": "which made me think that the thief had simply"
+    },
+    {
+      "start": 687.92,
+      "end": 690.02,
+      "text": "taken the falcon along with the rest of his"
+    },
+    {
+      "start": 690.08,
+      "end": 690.32,
+      "text": "plunder,"
+    },
+    {
+      "start": 690.5,
+      "end": 692.12,
+      "text": "not knowing what it was."
+    },
+    {
+      "start": 693.44,
+      "end": 696.48,
+      "text": "Because I assure you that a thief who knew its value",
+      "para_break": true
+    },
+    {
+      "start": 696.7,
+      "end": 698.96,
+      "text": "would not burden himself with anything else."
+    },
+    {
+      "start": 699.24,
+      "end": 699.88,
+      "text": "No,"
+    },
+    {
+      "start": 699.9,
+      "end": 700.1,
+      "text": "sir,"
+    },
+    {
+      "start": 700.24,
+      "end": 702.68,
+      "text": "at least not anything less than crown jewels."
+    },
+    {
+      "start": 704.42,
+      "end": 707.5,
+      "text": "He closed his eyes and smiled complacently at an inner thought.",
+      "para_break": true
+    },
+    {
+      "start": 707.82,
+      "end": 710.04,
+      "text": "He opened his eyes and continued."
+    },
+    {
+      "start": 711.5,
+      "end": 713.02,
+      "text": "\"'That was seventeen years ago.",
+      "para_break": true
+    },
+    {
+      "start": 713.48,
+      "end": 713.88,
+      "text": "Well,"
+    },
+    {
+      "start": 713.98,
+      "end": 714.2,
+      "text": "sir,"
+    },
+    {
+      "start": 714.36,
+      "end": 717.02,
+      "text": "it took me seventeen years to locate that bird,"
+    },
+    {
+      "start": 717.2,
+      "end": 718.02,
+      "text": "but I did it."
+    },
+    {
+      "start": 718.52,
+      "end": 719.56,
+      "text": "I wanted it,"
+    },
+    {
+      "start": 719.64,
+      "end": 723.08,
+      "text": "and I'm not a man that's easily discouraged when he wants something.'"
+    },
+    {
+      "start": 724.1,
+      "end": 725.22,
+      "text": "His smile grew broad.",
+      "para_break": true
+    },
+    {
+      "start": 726.26,
+      "end": 726.94,
+      "text": "\"'I wanted it,",
+      "para_break": true
+    },
+    {
+      "start": 727.02,
+      "end": 728.1,
+      "text": "and I found it."
+    },
+    {
+      "start": 728.54,
+      "end": 729.32,
+      "text": "I wanted it,"
+    },
+    {
+      "start": 729.42,
+      "end": 730.88,
+      "text": "and I'm going to have it.'"
+    },
+    {
+      "start": 731.38,
+      "end": 732.74,
+      "text": "He drained his glass,"
+    },
+    {
+      "start": 733.0,
+      "end": 734.04,
+      "text": "dried his lips again,"
+    },
+    {
+      "start": 734.22,
+      "end": 736.08,
+      "text": "and returned his handkerchief to his pocket."
+    },
+    {
+      "start": 737.11,
+      "end": 740.1,
+      "text": "I traced it to the home of a Russian general,",
+      "para_break": true
+    },
+    {
+      "start": 740.28,
+      "end": 740.9,
+      "text": "Kamidov,"
+    },
+    {
+      "start": 740.9,
+      "end": 742.58,
+      "text": "in a Constantinople suburb."
+    },
+    {
+      "start": 743.9,
+      "end": 745.38,
+      "text": "He didn't know a thing about it.",
+      "para_break": true
+    },
+    {
+      "start": 745.54,
+      "end": 748.22,
+      "text": "It was nothing but a black enamel bird to him."
+    }
+  ]
+}

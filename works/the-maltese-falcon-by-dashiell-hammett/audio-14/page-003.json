@@ -1,0 +1,647 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-14",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_14_hammett.mp3",
+  "chapter_title": "Chapter 14 - La Paloma",
+  "reader_name": "Mark Nelson",
+  "page_num": 3,
+  "page_total": 5,
+  "page_start_sec": 493.7,
+  "page_end_sec": 739.38,
+  "para_gap_threshold": 0.707,
+  "segments": [
+    {
+      "start": 493.7,
+      "end": 494.58,
+      "text": "It wasn't Cairo.",
+      "para_break": true
+    },
+    {
+      "start": 496.032,
+      "end": 497.96,
+      "text": "Spade looked attentively at the small",
+      "para_break": true
+    },
+    {
+      "start": 497.96,
+      "end": 499.82,
+      "text": "silver dome covering Luke's toast."
+    },
+    {
+      "start": 501.6,
+      "end": 504.32,
+      "text": "How's chances of giving his room a casing while he's out?",
+      "para_break": true
+    },
+    {
+      "start": 505.82,
+      "end": 506.22,
+      "text": "Can do.",
+      "para_break": true
+    },
+    {
+      "start": 507.46,
+      "end": 510.63,
+      "text": "You know I'm willing to go all the way with you all the time.\"",
+      "para_break": true
+    },
+    {
+      "start": 511.52,
+      "end": 512.66,
+      "text": "Luke pushed his coffee back,",
+      "para_break": true
+    },
+    {
+      "start": 512.86,
+      "end": 514.0,
+      "text": "put his elbows on the table,"
+    },
+    {
+      "start": 514.1,
+      "end": 514.76,
+      "text": "and screwed up"
+    },
+    {
+      "start": 514.76,
+      "end": 515.68,
+      "text": "his eyes at Spade."
+    },
+    {
+      "start": 517.024,
+      "end": 519.62,
+      "text": "But I got a hunch you ain't going all the way with me.",
+      "para_break": true
+    },
+    {
+      "start": 520.832,
+      "end": 521.46,
+      "text": "What's the honest",
+      "para_break": true
+    },
+    {
+      "start": 521.54,
+      "end": 522.4,
+      "text": "of God on this guy,"
+    },
+    {
+      "start": 522.54,
+      "end": 522.74,
+      "text": "Sam?"
+    },
+    {
+      "start": 523.6,
+      "end": 524.92,
+      "text": "You don't have to kick back on me.",
+      "para_break": true
+    },
+    {
+      "start": 525.54,
+      "end": 526.12,
+      "text": "You know I'm"
+    },
+    {
+      "start": 526.18,
+      "end": 526.38,
+      "text": "regular."
+    },
+    {
+      "start": 527.712,
+      "end": 529.72,
+      "text": "Spade lifted his eyes from the silver dome.",
+      "para_break": true
+    },
+    {
+      "start": 530.76,
+      "end": 531.82,
+      "text": "They were clear and candid.",
+      "para_break": true
+    },
+    {
+      "start": 533.18,
+      "end": 537.58,
+      "text": "sure you are he said i'm not holding out i",
+      "para_break": true
+    },
+    {
+      "start": 537.952,
+      "end": 540.78,
+      "text": "gave you it straight i'm doing a job for him"
+    },
+    {
+      "start": 541.34,
+      "end": 542.78,
+      "text": "but he's got some friends that look"
+    },
+    {
+      "start": 542.78,
+      "end": 545.0,
+      "text": "wrong to me and i'm a little leery of him"
+    },
+    {
+      "start": 546.07,
+      "end": 548.7,
+      "text": "the kid we chased out yesterday was one of his",
+      "para_break": true
+    },
+    {
+      "start": 548.7,
+      "end": 553.46,
+      "text": "friends yes luke he was and it was one of them"
+    },
+    {
+      "start": 553.52,
+      "end": 558.74,
+      "text": "that shoved miles across spade shook his head thursby killed miles"
+    },
+    {
+      "start": 559.88,
+      "end": 560.64,
+      "text": "and who killed him",
+      "para_break": true
+    },
+    {
+      "start": 561.856,
+      "end": 562.48,
+      "text": "Spade smiled.",
+      "para_break": true
+    },
+    {
+      "start": 563.776,
+      "end": 565.18,
+      "text": "\"'That's supposed to be a secret,",
+      "para_break": true
+    },
+    {
+      "start": 565.24,
+      "end": 565.52,
+      "text": "but,"
+    },
+    {
+      "start": 565.6,
+      "end": 566.52,
+      "text": "confidentially,"
+    },
+    {
+      "start": 566.66,
+      "end": 568.56,
+      "text": "I did,' he said,"
+    },
+    {
+      "start": 569.216,
+      "end": 570.592,
+      "text": "\"'according to the police.'"
+    },
+    {
+      "start": 571.7,
+      "end": 572.88,
+      "text": "Luke grunted and stood up,",
+      "para_break": true
+    },
+    {
+      "start": 572.94,
+      "end": 573.18,
+      "text": "saying,"
+    },
+    {
+      "start": 574.272,
+      "end": 575.64,
+      "text": "\"'You're a tough one to figure out,",
+      "para_break": true
+    },
+    {
+      "start": 575.7,
+      "end": 575.9,
+      "text": "Sam."
+    },
+    {
+      "start": 576.74,
+      "end": 577.2,
+      "text": "Come on,",
+      "para_break": true
+    },
+    {
+      "start": 577.22,
+      "end": 578.688,
+      "text": "we'll have that look-see.'"
+    },
+    {
+      "start": 579.4,
+      "end": 581.66,
+      "text": "They stopped at the desk long enough for Luke",
+      "para_break": true
+    },
+    {
+      "start": 581.66,
+      "end": 584.22,
+      "text": "to fix it up so we'll get a ring if he comes in,"
+    },
+    {
+      "start": 584.64,
+      "end": 586.26,
+      "text": "and then went up to Cairo's room."
+    },
+    {
+      "start": 587.936,
+      "end": 589.68,
+      "text": "Cairo's bed was smooth and trim,",
+      "para_break": true
+    },
+    {
+      "start": 589.88,
+      "end": 591.5,
+      "text": "but paper in the waste-basket,"
+    },
+    {
+      "start": 591.68,
+      "end": 593.3,
+      "text": "unevenly drawn blinds,"
+    },
+    {
+      "start": 593.3,
+      "end": 595.18,
+      "text": "and a couple of rumpled towels in the bathroom,"
+    },
+    {
+      "start": 595.32,
+      "end": 598.06,
+      "text": "showed that the chambermaid had not yet been in"
+    },
+    {
+      "start": 598.06,
+      "end": 598.64,
+      "text": "it that morning."
+    },
+    {
+      "start": 599.968,
+      "end": 601.8,
+      "text": "Cairo's luggage consisted of a square",
+      "para_break": true
+    },
+    {
+      "start": 601.8,
+      "end": 604.34,
+      "text": "trunk of a lease and a gladstone bag."
+    },
+    {
+      "start": 605.44,
+      "end": 608.43,
+      "text": "His bathroom cabinet was well stocked with cosmetics—boxes,",
+      "para_break": true
+    },
+    {
+      "start": 609.34,
+      "end": 609.64,
+      "text": "cans,",
+      "para_break": true
+    },
+    {
+      "start": 609.9,
+      "end": 610.12,
+      "text": "jars,"
+    },
+    {
+      "start": 610.3,
+      "end": 611.1,
+      "text": "and bottles of"
+    },
+    {
+      "start": 611.24,
+      "end": 611.62,
+      "text": "powders,"
+    },
+    {
+      "start": 611.66,
+      "end": 611.98,
+      "text": "creams,"
+    },
+    {
+      "start": 612.36,
+      "end": 613.1,
+      "text": "unguents,"
+    },
+    {
+      "start": 613.18,
+      "end": 613.86,
+      "text": "perfumes,"
+    },
+    {
+      "start": 613.86,
+      "end": 614.96,
+      "text": "lotions and tonics."
+    },
+    {
+      "start": 616.1,
+      "end": 617.78,
+      "text": "Two suits and an overcoat hung in",
+      "para_break": true
+    },
+    {
+      "start": 617.78,
+      "end": 620.44,
+      "text": "the closet over three pairs of carefully treed shoes."
+    },
+    {
+      "start": 621.35,
+      "end": 623.86,
+      "text": "The valise and gladstone bag were unlocked.",
+      "para_break": true
+    },
+    {
+      "start": 624.96,
+      "end": 626.6,
+      "text": "Luke had the trunk unlocked by the time",
+      "para_break": true
+    },
+    {
+      "start": 626.6,
+      "end": 628.18,
+      "text": "Spade had finished searching elsewhere."
+    },
+    {
+      "start": 629.92,
+      "end": 633.2,
+      "text": "\"'Like so far,' Spade said as they dug down into the trunk.",
+      "para_break": true
+    },
+    {
+      "start": 633.86,
+      "end": 636.08,
+      "text": "They found nothing there to interest them."
+    },
+    {
+      "start": 637.38,
+      "end": 639.24,
+      "text": "\"'Any particular thing we're looking for?'",
+      "para_break": true
+    },
+    {
+      "start": 639.34,
+      "end": 641.38,
+      "text": "Luke asked as he locked the trunk again."
+    },
+    {
+      "start": 642.43,
+      "end": 642.98,
+      "text": "\"'No.",
+      "para_break": true
+    },
+    {
+      "start": 643.21,
+      "end": 645.77,
+      "text": "He's supposed to have come here from Constantinople."
+    },
+    {
+      "start": 646.41,
+      "end": 647.84,
+      "text": "I'd like to know if he did."
+    },
+    {
+      "start": 648.7,
+      "end": 650.72,
+      "text": "I haven't seen anything that says he didn't.'",
+      "para_break": true
+    },
+    {
+      "start": 651.872,
+      "end": 652.51,
+      "text": "\"'What's his racket?'",
+      "para_break": true
+    },
+    {
+      "start": 653.568,
+      "end": 654.48,
+      "text": "Spade shook his head.",
+      "para_break": true
+    },
+    {
+      "start": 655.808,
+      "end": 657.696,
+      "text": "\"'That's something else I'd like to know.'",
+      "para_break": true
+    },
+    {
+      "start": 658.56,
+      "end": 660.93,
+      "text": "He crossed the room and bent down over the wastebasket.",
+      "para_break": true
+    },
+    {
+      "start": 661.62,
+      "end": 662.18,
+      "text": "\"'Well,"
+    },
+    {
+      "start": 662.32,
+      "end": 663.88,
+      "text": "this is our last shot.'"
+    },
+    {
+      "start": 664.36,
+      "end": 666.7,
+      "text": "He took a newspaper from the basket."
+    },
+    {
+      "start": 667.72,
+      "end": 670.12,
+      "text": "His eyes brightened when he saw it was the previous",
+      "para_break": true
+    },
+    {
+      "start": 670.18,
+      "end": 670.8,
+      "text": "day's call."
+    },
+    {
+      "start": 671.84,
+      "end": 674.76,
+      "text": "It was folded with the classified advertising page outside.",
+      "para_break": true
+    },
+    {
+      "start": 675.744,
+      "end": 676.72,
+      "text": "He opened it and",
+      "para_break": true
+    },
+    {
+      "start": 676.8,
+      "end": 677.76,
+      "text": "examined that page."
+    },
+    {
+      "start": 678.848,
+      "end": 680.12,
+      "text": "Nothing there stopped his eyes.",
+      "para_break": true
+    },
+    {
+      "start": 681.024,
+      "end": 682.66,
+      "text": "He turned the paper over and looked",
+      "para_break": true
+    },
+    {
+      "start": 682.76,
+      "end": 684.44,
+      "text": "at the page that had been folded inside,"
+    },
+    {
+      "start": 684.8,
+      "end": 687.36,
+      "text": "the page that held financial and shipping news,"
+    },
+    {
+      "start": 687.78,
+      "end": 688.18,
+      "text": "the weather,"
+    },
+    {
+      "start": 688.32,
+      "end": 688.88,
+      "text": "births,"
+    },
+    {
+      "start": 688.88,
+      "end": 689.88,
+      "text": "marriages and deaths."
+    },
+    {
+      "start": 691.12,
+      "end": 692.42,
+      "text": "From the lower left-hand corner,",
+      "para_break": true
+    },
+    {
+      "start": 692.64,
+      "end": 693.14,
+      "text": "a little"
+    },
+    {
+      "start": 693.24,
+      "end": 694.78,
+      "text": "more than two inches of the bottom of"
+    },
+    {
+      "start": 694.78,
+      "end": 696.44,
+      "text": "the second column had been torn out."
+    },
+    {
+      "start": 697.664,
+      "end": 699.98,
+      "text": "Immediately above the tear was a small caption,",
+      "para_break": true
+    },
+    {
+      "start": 700.608,
+      "end": 701.3,
+      "text": "ARRIVED TODAY,"
+    },
+    {
+      "start": 701.5,
+      "end": 702.36,
+      "text": "followed by,"
+    },
+    {
+      "start": 702.5,
+      "end": 704.24,
+      "text": "12.20 a.m.,"
+    },
+    {
+      "start": 704.24,
+      "end": 705.72,
+      "text": "K-Pack from Astoria,"
+    },
+    {
+      "start": 706.656,
+      "end": 707.88,
+      "text": "5.05 a.m.,",
+      "para_break": true
+    },
+    {
+      "start": 708.22,
+      "end": 708.5,
+      "text": "Helen P."
+    },
+    {
+      "start": 708.66,
+      "end": 709.68,
+      "text": "Drew from Greenwood,"
+    },
+    {
+      "start": 709.86,
+      "end": 711.6,
+      "text": "5.06 a.m.,"
+    },
+    {
+      "start": 711.6,
+      "end": 713.08,
+      "text": "Alvarado from Bandon."
+    },
+    {
+      "start": 714.22,
+      "end": 716.6,
+      "text": "The tear passed through the next line,",
+      "para_break": true
+    },
+    {
+      "start": 716.76,
+      "end": 718.98,
+      "text": "leaving only enough of its letters to make"
+    },
+    {
+      "start": 719.26,
+      "end": 720.88,
+      "text": "from Sydney Inferable."
+    },
+    {
+      "start": 722.304,
+      "end": 723.96,
+      "text": "Spade put the call down on the desk",
+      "para_break": true
+    },
+    {
+      "start": 723.96,
+      "end": 725.76,
+      "text": "and looked into the waste-basket again."
+    },
+    {
+      "start": 726.496,
+      "end": 728.66,
+      "text": "He found a small piece of wrapping paper,",
+      "para_break": true
+    },
+    {
+      "start": 728.86,
+      "end": 729.8,
+      "text": "a piece of string,"
+    },
+    {
+      "start": 730.04,
+      "end": 731.26,
+      "text": "two hosiery tags,"
+    },
+    {
+      "start": 731.54,
+      "end": 732.41,
+      "text": "a haberdasher"
+    },
+    {
+      "start": 732.5,
+      "end": 734.48,
+      "text": "sales-ticket for a half-dozen pair of socks,"
+    },
+    {
+      "start": 734.78,
+      "end": 737.68,
+      "text": "and in the bottom of the basket a piece of"
+    },
+    {
+      "start": 737.72,
+      "end": 739.38,
+      "text": "newspaper rolled into a tiny ball."
+    }
+  ]
+}

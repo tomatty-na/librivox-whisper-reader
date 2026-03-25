@@ -1,0 +1,614 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-06",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_06_hammett.mp3",
+  "chapter_title": "Chapter 6 - The Undersized Shadow",
+  "reader_name": "Mark Nelson",
+  "page_num": 2,
+  "page_total": 5,
+  "page_start_sec": 254.4,
+  "page_end_sec": 494.84,
+  "para_gap_threshold": 0.735,
+  "segments": [
+    {
+      "start": 254.4,
+      "end": 257.1,
+      "text": "He pressed three fourth-floor buttons together."
+    },
+    {
+      "start": 258.24,
+      "end": 259.64,
+      "text": "The street-door lock buzzed.",
+      "para_break": true
+    },
+    {
+      "start": 260.3,
+      "end": 260.68,
+      "text": "He entered,"
+    },
+    {
+      "start": 260.88,
+      "end": 262.22,
+      "text": "passed the elevator and stairs,"
+    },
+    {
+      "start": 262.56,
+      "end": 263.5,
+      "text": "went down a long,"
+    },
+    {
+      "start": 263.74,
+      "end": 265.66,
+      "text": "yellow-walled corridor to the rear of the building,"
+    },
+    {
+      "start": 266.112,
+      "end": 268.16,
+      "text": "found a back door fastened with a Yale"
+    },
+    {
+      "start": 268.26,
+      "end": 268.56,
+      "text": "lock,"
+    },
+    {
+      "start": 268.62,
+      "end": 269.14,
+      "text": "and,"
+    },
+    {
+      "start": 269.16,
+      "end": 270.4,
+      "text": "leaving the lock unlatched,"
+    },
+    {
+      "start": 270.58,
+      "end": 272.28,
+      "text": "let himself out into a narrow court."
+    },
+    {
+      "start": 273.07,
+      "end": 275.5,
+      "text": "The court led to a dark back street,",
+      "para_break": true
+    },
+    {
+      "start": 275.66,
+      "end": 277.82,
+      "text": "up which Spade walked for two blocks."
+    },
+    {
+      "start": 278.48,
+      "end": 281.98,
+      "text": "Then he crossed over to California Street and went to the Coronet."
+    },
+    {
+      "start": 282.64,
+      "end": 285.06,
+      "text": "It was not quite half-past nine o'clock."
+    },
+    {
+      "start": 286.86,
+      "end": 288.92,
+      "text": "The eagerness with which Bridget O'Shaughnessy",
+      "para_break": true
+    },
+    {
+      "start": 288.92,
+      "end": 291.28,
+      "text": "welcomed Spade suggested that she had not been"
+    },
+    {
+      "start": 291.36,
+      "end": 292.74,
+      "text": "entirely certain of his coming."
+    },
+    {
+      "start": 294.12,
+      "end": 297.54,
+      "text": "She had put on a satin gown of the blue shade called Artois that",
+      "para_break": true
+    },
+    {
+      "start": 297.72,
+      "end": 297.9,
+      "text": "season,"
+    },
+    {
+      "start": 298.1,
+      "end": 300.22,
+      "text": "with chalcedony shoulder-straps,"
+    },
+    {
+      "start": 300.28,
+      "end": 302.9,
+      "text": "and her stockings and slippers were artois."
+    },
+    {
+      "start": 303.67,
+      "end": 305.92,
+      "text": "The red-and-cream sitting-room had been brought",
+      "para_break": true
+    },
+    {
+      "start": 305.92,
+      "end": 308.18,
+      "text": "to order and livened with flowers and squat"
+    },
+    {
+      "start": 308.32,
+      "end": 310.14,
+      "text": "pottery vases of black and silver."
+    },
+    {
+      "start": 311.36,
+      "end": 313.86,
+      "text": "Three small rough-barked logs burned in the fireplace.",
+      "para_break": true
+    },
+    {
+      "start": 315.072,
+      "end": 317.96,
+      "text": "Spade watched them burn while she put away his hat and coat.",
+      "para_break": true
+    },
+    {
+      "start": 318.84,
+      "end": 321.66,
+      "text": "\"'Do you bring me good news?' she asked",
+      "para_break": true
+    },
+    {
+      "start": 321.66,
+      "end": 322.98,
+      "text": "when she came into the room again."
+    },
+    {
+      "start": 323.968,
+      "end": 326.78,
+      "text": "Anxiety looked through her smile and she held her breath.",
+      "para_break": true
+    },
+    {
+      "start": 328.16,
+      "end": 329.8,
+      "text": "We won't have to make anything public",
+      "para_break": true
+    },
+    {
+      "start": 329.8,
+      "end": 331.64,
+      "text": "that hasn't already been made public."
+    },
+    {
+      "start": 332.4,
+      "end": 334.52,
+      "text": "The police won't have to know about me?",
+      "para_break": true
+    },
+    {
+      "start": 334.88,
+      "end": 335.42,
+      "text": "No."
+    },
+    {
+      "start": 336.76,
+      "end": 339.46,
+      "text": "She sighed happily and sat on the walnut settee.",
+      "para_break": true
+    },
+    {
+      "start": 340.08,
+      "end": 342.36,
+      "text": "Her face relaxed and her body relaxed."
+    },
+    {
+      "start": 343.28,
+      "end": 345.3,
+      "text": "She smiled up at him with admiring eyes.",
+      "para_break": true
+    },
+    {
+      "start": 347.072,
+      "end": 348.28,
+      "text": "However did you manage it?",
+      "para_break": true
+    },
+    {
+      "start": 348.42,
+      "end": 349.26,
+      "text": "she asked,"
+    },
+    {
+      "start": 349.38,
+      "end": 351.0,
+      "text": "more in wonder than in curiosity."
+    },
+    {
+      "start": 352.672,
+      "end": 355.48,
+      "text": "Most things in San Francisco can be bought or taken.",
+      "para_break": true
+    },
+    {
+      "start": 356.54,
+      "end": 358.14,
+      "text": "And you won't get into trouble?",
+      "para_break": true
+    },
+    {
+      "start": 358.94,
+      "end": 359.74,
+      "text": "Do sit down.\"",
+      "para_break": true
+    },
+    {
+      "start": 360.6,
+      "end": 362.28,
+      "text": "She made room for him on the settee.",
+      "para_break": true
+    },
+    {
+      "start": 363.64,
+      "end": 365.74,
+      "text": "I don't mind a reasonable amount of trouble,",
+      "para_break": true
+    },
+    {
+      "start": 365.88,
+      "end": 366.72,
+      "text": "he said,"
+    },
+    {
+      "start": 366.88,
+      "end": 368.27,
+      "text": "with not too much complacence."
+    },
+    {
+      "start": 369.44,
+      "end": 371.26,
+      "text": "He stood beside the fireplace and",
+      "para_break": true
+    },
+    {
+      "start": 371.26,
+      "end": 373.0,
+      "text": "looked at her with eyes that studied,"
+    },
+    {
+      "start": 373.26,
+      "end": 373.66,
+      "text": "weighed,"
+    },
+    {
+      "start": 373.94,
+      "end": 374.76,
+      "text": "judged her"
+    },
+    {
+      "start": 374.76,
+      "end": 376.82,
+      "text": "without pretense that they were not studying,"
+    },
+    {
+      "start": 377.0,
+      "end": 377.36,
+      "text": "weighing,"
+    },
+    {
+      "start": 377.42,
+      "end": 378.06,
+      "text": "judging her."
+    },
+    {
+      "start": 378.752,
+      "end": 380.18,
+      "text": "She flushed slightly under"
+    },
+    {
+      "start": 380.18,
+      "end": 381.36,
+      "text": "the frankness of his scrutiny,"
+    },
+    {
+      "start": 381.6,
+      "end": 384.06,
+      "text": "but she seemed more sure of herself than before,"
+    },
+    {
+      "start": 384.38,
+      "end": 385.2,
+      "text": "though a"
+    },
+    {
+      "start": 385.36,
+      "end": 387.44,
+      "text": "becoming shyness had not left her eyes."
+    },
+    {
+      "start": 388.3,
+      "end": 390.34,
+      "text": "He stood there until it seemed",
+      "para_break": true
+    },
+    {
+      "start": 390.48,
+      "end": 392.08,
+      "text": "plain that he meant to ignore her"
+    },
+    {
+      "start": 392.08,
+      "end": 394.36,
+      "text": "invitation to sit beside her and then"
+    },
+    {
+      "start": 394.42,
+      "end": 395.54,
+      "text": "cross to the settee."
+    },
+    {
+      "start": 397.62,
+      "end": 400.08,
+      "text": "\"'You aren't,' he asked as he sat down,",
+      "para_break": true
+    },
+    {
+      "start": 400.52,
+      "end": 402.18,
+      "text": "\"'exactly the sort of person you"
+    },
+    {
+      "start": 402.24,
+      "end": 402.8,
+      "text": "pretend to be,"
+    },
+    {
+      "start": 402.86,
+      "end": 403.33,
+      "text": "are you?'"
+    },
+    {
+      "start": 404.8,
+      "end": 406.56,
+      "text": "\"'I'm not sure that I know what you mean,'",
+      "para_break": true
+    },
+    {
+      "start": 407.38,
+      "end": 408.74,
+      "text": "she said in her hushed voice,",
+      "para_break": true
+    },
+    {
+      "start": 409.1,
+      "end": 410.56,
+      "text": "looking at him with puzzled eyes."
+    },
+    {
+      "start": 411.936,
+      "end": 413.8,
+      "text": "\"'Schoolgirl manner,' he explained,",
+      "para_break": true
+    },
+    {
+      "start": 414.06,
+      "end": 414.92,
+      "text": "stammering,"
+    },
+    {
+      "start": 414.92,
+      "end": 415.9,
+      "text": "blushing and all that."
+    },
+    {
+      "start": 417.22,
+      "end": 419.06,
+      "text": "She blushed and replied hurriedly,",
+      "para_break": true
+    },
+    {
+      "start": 419.1,
+      "end": 420.34,
+      "text": "not looking at him now,"
+    },
+    {
+      "start": 421.36,
+      "end": 423.58,
+      "text": "\"'I told you this afternoon that I'd been bad,",
+      "para_break": true
+    },
+    {
+      "start": 423.74,
+      "end": 425.34,
+      "text": "worse than you could know.'"
+    },
+    {
+      "start": 426.464,
+      "end": 428.04,
+      "text": "\"'That's what I mean,' he said.",
+      "para_break": true
+    },
+    {
+      "start": 428.76,
+      "end": 431.34,
+      "text": "\"'You told me that this afternoon in the same words,"
+    },
+    {
+      "start": 431.5,
+      "end": 432.36,
+      "text": "same tone."
+    },
+    {
+      "start": 433.408,
+      "end": 435.04,
+      "text": "It's a speech you've practiced.'",
+      "para_break": true
+    },
+    {
+      "start": 436.608,
+      "end": 438.14,
+      "text": "After a moment in which she seemed",
+      "para_break": true
+    },
+    {
+      "start": 438.14,
+      "end": 439.96,
+      "text": "confused almost to the point of tears,"
+    },
+    {
+      "start": 440.3,
+      "end": 441.3,
+      "text": "she laughed and said,"
+    },
+    {
+      "start": 442.56,
+      "end": 442.96,
+      "text": "\"'Very well,",
+      "para_break": true
+    },
+    {
+      "start": 443.0,
+      "end": 443.2,
+      "text": "Mr."
+    },
+    {
+      "start": 443.28,
+      "end": 443.6,
+      "text": "Spade."
+    },
+    {
+      "start": 443.89,
+      "end": 446.46,
+      "text": "I'm not at all the sort of person I pretend to be."
+    },
+    {
+      "start": 447.12,
+      "end": 448.76,
+      "text": "I'm eighty years old,"
+    },
+    {
+      "start": 448.86,
+      "end": 450.14,
+      "text": "incredibly wicked,"
+    },
+    {
+      "start": 450.32,
+      "end": 452.16,
+      "text": "and an iron-moulder by trade."
+    },
+    {
+      "start": 453.14,
+      "end": 454.16,
+      "text": "But if it's a pose,",
+      "para_break": true
+    },
+    {
+      "start": 454.46,
+      "end": 455.46,
+      "text": "it's one I've grown into,"
+    },
+    {
+      "start": 455.7,
+      "end": 458.38,
+      "text": "so you won't expect me to drop it entirely,"
+    },
+    {
+      "start": 458.68,
+      "end": 459.22,
+      "text": "will you?'"
+    },
+    {
+      "start": 459.87,
+      "end": 460.52,
+      "text": "\"'Oh,"
+    },
+    {
+      "start": 460.52,
+      "end": 462.32,
+      "text": "it's all right,' he assured her."
+    },
+    {
+      "start": 462.69,
+      "end": 465.26,
+      "text": "\"'Only it wouldn't be all right if you were actually"
+    },
+    {
+      "start": 465.5,
+      "end": 465.92,
+      "text": "that innocent."
+    },
+    {
+      "start": 466.26,
+      "end": 468.256,
+      "text": "We'd never get anywhere.\""
+    },
+    {
+      "start": 469.5,
+      "end": 470.54,
+      "text": "I won't be innocent,",
+      "para_break": true
+    },
+    {
+      "start": 470.8,
+      "end": 473.12,
+      "text": "she promised with a hand on her heart."
+    },
+    {
+      "start": 474.29,
+      "end": 476.2,
+      "text": "I saw Joel Cairo to-night,",
+      "para_break": true
+    },
+    {
+      "start": 476.88,
+      "end": 479.37,
+      "text": "he said in the manner of one making polite conversation."
+    },
+    {
+      "start": 480.864,
+      "end": 482.26,
+      "text": "Gaiety went out of her face.",
+      "para_break": true
+    },
+    {
+      "start": 483.072,
+      "end": 483.62,
+      "text": "Her eyes,",
+      "para_break": true
+    },
+    {
+      "start": 483.86,
+      "end": 485.0,
+      "text": "focused on his profile,"
+    },
+    {
+      "start": 485.2,
+      "end": 485.94,
+      "text": "became frightened,"
+    },
+    {
+      "start": 486.16,
+      "end": 486.88,
+      "text": "then cautious."
+    },
+    {
+      "start": 487.78,
+      "end": 491.16,
+      "text": "He had stretched out his legs and was looking at his crossed feet.",
+      "para_break": true
+    },
+    {
+      "start": 492.16,
+      "end": 493.24,
+      "text": "His face did not indicate",
+      "para_break": true
+    },
+    {
+      "start": 493.54,
+      "end": 494.84,
+      "text": "that he was thinking about anything."
+    }
+  ]
+}

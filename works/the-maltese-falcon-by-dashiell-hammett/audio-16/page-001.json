@@ -1,0 +1,724 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-16",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_16_hammett.mp3",
+  "chapter_title": "Chapter 16 - The Third Murder",
+  "reader_name": "Mark Nelson",
+  "page_num": 1,
+  "page_total": 6,
+  "page_start_sec": 8.62,
+  "page_end_sec": 250.62,
+  "para_gap_threshold": 0.671,
+  "segments": [
+    {
+      "start": 8.62,
+      "end": 10.44,
+      "text": "CHAPTER XVI."
+    },
+    {
+      "start": 10.46,
+      "end": 12.2,
+      "text": "THE THIRD MURDER."
+    },
+    {
+      "start": 14.176,
+      "end": 17.14,
+      "text": "Spade went into the Hotel Sutter and telephoned the Alexandria.",
+      "para_break": true
+    },
+    {
+      "start": 18.496,
+      "end": 19.36,
+      "text": "Gutman was not in.",
+      "para_break": true
+    },
+    {
+      "start": 20.3,
+      "end": 20.7,
+      "text": "No member",
+      "para_break": true
+    },
+    {
+      "start": 20.7,
+      "end": 21.98,
+      "text": "of Gutman's party was in."
+    },
+    {
+      "start": 22.88,
+      "end": 24.24,
+      "text": "Spade telephoned the Belvedere.",
+      "para_break": true
+    },
+    {
+      "start": 25.184,
+      "end": 26.08,
+      "text": "Cairo was not in,",
+      "para_break": true
+    },
+    {
+      "start": 26.52,
+      "end": 27.0,
+      "text": "had not been"
+    },
+    {
+      "start": 27.14,
+      "end": 27.7,
+      "text": "in that day."
+    },
+    {
+      "start": 28.928,
+      "end": 30.02,
+      "text": "Spade went to his office.",
+      "para_break": true
+    },
+    {
+      "start": 31.18,
+      "end": 32.78,
+      "text": "A swart greasy man in notable",
+      "para_break": true
+    },
+    {
+      "start": 32.92,
+      "end": 34.68,
+      "text": "clothes was waiting in the outer room."
+    },
+    {
+      "start": 35.616,
+      "end": 36.1,
+      "text": "Effie Perrine,",
+      "para_break": true
+    },
+    {
+      "start": 36.28,
+      "end": 37.08,
+      "text": "indicating the"
+    },
+    {
+      "start": 37.14,
+      "end": 37.54,
+      "text": "swart man,"
+    },
+    {
+      "start": 37.68,
+      "end": 37.88,
+      "text": "said,"
+    },
+    {
+      "start": 38.9,
+      "end": 40.28,
+      "text": "This gentleman wishes to see you,",
+      "para_break": true
+    },
+    {
+      "start": 40.34,
+      "end": 40.5,
+      "text": "Mr."
+    },
+    {
+      "start": 40.56,
+      "end": 40.92,
+      "text": "Spade."
+    },
+    {
+      "start": 42.208,
+      "end": 44.54,
+      "text": "Spade smiled and bowed and opened the inner door.",
+      "para_break": true
+    },
+    {
+      "start": 45.5,
+      "end": 45.78,
+      "text": "Come in.",
+      "para_break": true
+    },
+    {
+      "start": 46.848,
+      "end": 48.0,
+      "text": "Before following the man in,",
+      "para_break": true
+    },
+    {
+      "start": 48.16,
+      "end": 49.62,
+      "text": "Spade asked Effie Perrine,"
+    },
+    {
+      "start": 50.48,
+      "end": 51.58,
+      "text": "Any news on that other matter?",
+      "para_break": true
+    },
+    {
+      "start": 52.28,
+      "end": 52.56,
+      "text": "No,",
+      "para_break": true
+    },
+    {
+      "start": 52.6,
+      "end": 52.74,
+      "text": "sir."
+    },
+    {
+      "start": 53.82,
+      "end": 56.82,
+      "text": "The sort man was the proprietor of a Market Street moving picture",
+      "para_break": true
+    },
+    {
+      "start": 56.98,
+      "end": 57.22,
+      "text": "theater."
+    },
+    {
+      "start": 58.14,
+      "end": 61.02,
+      "text": "He suspected one of his cashiers and a doorman of colluding",
+      "para_break": true
+    },
+    {
+      "start": 61.02,
+      "end": 61.78,
+      "text": "to defraud him."
+    },
+    {
+      "start": 62.816,
+      "end": 64.22,
+      "text": "Spade hurried him through the story,",
+      "para_break": true
+    },
+    {
+      "start": 64.42,
+      "end": 65.3,
+      "text": "promised to take"
+    },
+    {
+      "start": 65.3,
+      "end": 65.82,
+      "text": "care of it,"
+    },
+    {
+      "start": 66.272,
+      "end": 68.0,
+      "text": "asked for and received fifty dollars,"
+    },
+    {
+      "start": 68.22,
+      "end": 69.08,
+      "text": "and got rid of him"
+    },
+    {
+      "start": 69.08,
+      "end": 70.14,
+      "text": "in less than half an hour."
+    },
+    {
+      "start": 70.92,
+      "end": 73.78,
+      "text": "When the corridor door had closed behind the showman,",
+      "para_break": true
+    },
+    {
+      "start": 74.336,
+      "end": 74.98,
+      "text": "Effie Pryne came"
+    },
+    {
+      "start": 75.1,
+      "end": 75.86,
+      "text": "into the inner office."
+    },
+    {
+      "start": 76.2,
+      "end": 78.88,
+      "text": "Her sunburned face was worried and questioning."
+    },
+    {
+      "start": 79.06,
+      "end": 79.14,
+      "text": "meaning."
+    },
+    {
+      "start": 80.3,
+      "end": 82.12,
+      "text": "\"'You haven't found her?' she asked.",
+      "para_break": true
+    },
+    {
+      "start": 82.78,
+      "end": 85.44,
+      "text": "He shook his head and went on stroking his"
+    },
+    {
+      "start": 85.44,
+      "end": 87.74,
+      "text": "bruised temple lightly in circles with his"
+    },
+    {
+      "start": 87.84,
+      "end": 88.18,
+      "text": "fingertips."
+    },
+    {
+      "start": 89.632,
+      "end": 90.92,
+      "text": "\"'How is it?' she asked.",
+      "para_break": true
+    },
+    {
+      "start": 91.96,
+      "end": 92.32,
+      "text": "\"'All right,",
+      "para_break": true
+    },
+    {
+      "start": 92.38,
+      "end": 94.176,
+      "text": "but I've got plenty of headache.'"
+    },
+    {
+      "start": 95.58,
+      "end": 97.32,
+      "text": "She went around and stood behind him,",
+      "para_break": true
+    },
+    {
+      "start": 97.4,
+      "end": 98.68,
+      "text": "putting his hand down,"
+    },
+    {
+      "start": 98.86,
+      "end": 100.26,
+      "text": "stroking his temple with her"
+    },
+    {
+      "start": 100.32,
+      "end": 100.9,
+      "text": "thin fingers."
+    },
+    {
+      "start": 101.42,
+      "end": 103.8,
+      "text": "He leaned back until the back of his head,"
+    },
+    {
+      "start": 103.92,
+      "end": 104.8,
+      "text": "over the chair-top,"
+    },
+    {
+      "start": 105.0,
+      "end": 106.4,
+      "text": "rested against her breast,"
+    },
+    {
+      "start": 106.58,
+      "end": 107.12,
+      "text": "and said,"
+    },
+    {
+      "start": 108.192,
+      "end": 109.1,
+      "text": "You're an angel.\"",
+      "para_break": true
+    },
+    {
+      "start": 110.22,
+      "end": 113.24,
+      "text": "She bent her head forward over his and looked down at his face.",
+      "para_break": true
+    },
+    {
+      "start": 114.68,
+      "end": 115.56,
+      "text": "\"'You've got to find her,",
+      "para_break": true
+    },
+    {
+      "start": 115.64,
+      "end": 115.86,
+      "text": "Sam."
+    },
+    {
+      "start": 116.04,
+      "end": 117.48,
+      "text": "It's more than a day,"
+    },
+    {
+      "start": 117.56,
+      "end": 118.4,
+      "text": "and she—'"
+    },
+    {
+      "start": 119.02,
+      "end": 121.08,
+      "text": "He stirred impatiently and interrupted her."
+    },
+    {
+      "start": 122.08,
+      "end": 123.44,
+      "text": "\"'I haven't got to do anything.",
+      "para_break": true
+    },
+    {
+      "start": 124.24,
+      "end": 125.8,
+      "text": "But if you'll let me rest this damned",
+      "para_break": true
+    },
+    {
+      "start": 125.92,
+      "end": 128.288,
+      "text": "head a minute or two I'll go out and find her.'"
+    },
+    {
+      "start": 129.36,
+      "end": 129.94,
+      "text": "She murmured,",
+      "para_break": true
+    },
+    {
+      "start": 130.66,
+      "end": 131.18,
+      "text": "poor head,",
+      "para_break": true
+    },
+    {
+      "start": 131.56,
+      "end": 133.8,
+      "text": "and stroked it in silence for a little while."
+    },
+    {
+      "start": 134.7,
+      "end": 135.28,
+      "text": "Then she asked,",
+      "para_break": true
+    },
+    {
+      "start": 135.9,
+      "end": 137.344,
+      "text": "You know where she is?\""
+    },
+    {
+      "start": 137.71,
+      "end": 139.32,
+      "text": "The telephone bell rang."
+    },
+    {
+      "start": 139.968,
+      "end": 141.52,
+      "text": "Spade picked up the telephone and said,"
+    },
+    {
+      "start": 142.1,
+      "end": 142.64,
+      "text": "\"'Hello.'"
+    },
+    {
+      "start": 143.0,
+      "end": 143.6,
+      "text": "\"'Yes,"
+    },
+    {
+      "start": 143.6,
+      "end": 143.82,
+      "text": "Cid,"
+    },
+    {
+      "start": 143.92,
+      "end": 145.14,
+      "text": "it came out all right.'"
+    },
+    {
+      "start": 145.76,
+      "end": 146.04,
+      "text": "\"'No,"
+    },
+    {
+      "start": 146.04,
+      "end": 146.58,
+      "text": "sure."
+    },
+    {
+      "start": 147.48,
+      "end": 148.21,
+      "text": "He got snotty,",
+      "para_break": true
+    },
+    {
+      "start": 148.32,
+      "end": 149.16,
+      "text": "but so did I."
+    },
+    {
+      "start": 150.24,
+      "end": 151.32,
+      "text": "He's nursing a gambler's"
+    },
+    {
+      "start": 151.36,
+      "end": 152.38,
+      "text": "war-pipe dream.'"
+    },
+    {
+      "start": 153.02,
+      "end": 153.56,
+      "text": "\"'Well,"
+    },
+    {
+      "start": 153.68,
+      "end": 155.14,
+      "text": "we didn't kiss when we parted."
+    },
+    {
+      "start": 155.24,
+      "end": 156.92,
+      "text": "I declared my weight and walked"
+    },
+    {
+      "start": 156.92,
+      "end": 157.632,
+      "text": "out on him.'"
+    },
+    {
+      "start": 158.656,
+      "end": 160.06,
+      "text": "\"'That's something for you to worry about.",
+      "para_break": true
+    },
+    {
+      "start": 160.3,
+      "end": 160.88,
+      "text": "Right."
+    },
+    {
+      "start": 161.16,
+      "end": 161.71,
+      "text": "Bye.'"
+    },
+    {
+      "start": 163.22,
+      "end": 165.66,
+      "text": "He put the telephone down and leaned back in his chair again.",
+      "para_break": true
+    },
+    {
+      "start": 166.592,
+      "end": 169.24,
+      "text": "Effie Pryne came from behind him and stood at his side.",
+      "para_break": true
+    },
+    {
+      "start": 170.12,
+      "end": 170.54,
+      "text": "She demanded,",
+      "para_break": true
+    },
+    {
+      "start": 171.88,
+      "end": 173.38,
+      "text": "\"'Do you think you know where she is,",
+      "para_break": true
+    },
+    {
+      "start": 173.48,
+      "end": 173.88,
+      "text": "Sam?'"
+    },
+    {
+      "start": 175.0,
+      "end": 178.3,
+      "text": "\"'I know where she went,' he replied in a grudging tone.",
+      "para_break": true
+    },
+    {
+      "start": 179.0,
+      "end": 179.74,
+      "text": "\"'Where?'",
+      "para_break": true
+    },
+    {
+      "start": 180.5,
+      "end": 181.26,
+      "text": "She was excited.",
+      "para_break": true
+    },
+    {
+      "start": 182.272,
+      "end": 183.89,
+      "text": "\"'Down to the boat you saw burning.'",
+      "para_break": true
+    },
+    {
+      "start": 184.74,
+      "end": 188.04,
+      "text": "Her eyes opened until their brown was surrounded by white.",
+      "para_break": true
+    },
+    {
+      "start": 189.36,
+      "end": 190.46,
+      "text": "\"'You went down there?'",
+      "para_break": true
+    },
+    {
+      "start": 191.14,
+      "end": 192.18,
+      "text": "It was not a question.",
+      "para_break": true
+    },
+    {
+      "start": 193.14,
+      "end": 195.0,
+      "text": "\"'I did not,' Spade said.",
+      "para_break": true
+    },
+    {
+      "start": 196.128,
+      "end": 197.5,
+      "text": "Effie Perrine stamped her foot.",
+      "para_break": true
+    },
+    {
+      "start": 198.14,
+      "end": 200.48,
+      "text": "\"'Sam!' she cried angrily."
+    },
+    {
+      "start": 201.216,
+      "end": 201.94,
+      "text": "\"'She may be—'",
+      "para_break": true
+    },
+    {
+      "start": 202.24,
+      "end": 203.64,
+      "text": "\"'She went down there,'"
+    },
+    {
+      "start": 204.22,
+      "end": 205.56,
+      "text": "he said in a surly voice."
+    },
+    {
+      "start": 206.22,
+      "end": 207.1,
+      "text": "\"'She wasn't taken."
+    },
+    {
+      "start": 207.9,
+      "end": 209.58,
+      "text": "\"'She went down there instead of to your",
+      "para_break": true
+    },
+    {
+      "start": 209.58,
+      "end": 211.54,
+      "text": "house when she learned the boat had come in."
+    },
+    {
+      "start": 211.98,
+      "end": 212.56,
+      "text": "\"'Well,"
+    },
+    {
+      "start": 212.56,
+      "end": 213.18,
+      "text": "what the hell?"
+    },
+    {
+      "start": 213.8,
+      "end": 215.32,
+      "text": "\"'Am I supposed to run around after my"
+    },
+    {
+      "start": 215.32,
+      "end": 217.44,
+      "text": "clients begging them to let me help them?'"
+    },
+    {
+      "start": 217.96,
+      "end": 218.66,
+      "text": "\"'But,"
+    },
+    {
+      "start": 218.66,
+      "end": 219.0,
+      "text": "Sam,"
+    },
+    {
+      "start": 219.24,
+      "end": 221.6,
+      "text": "when I told you the boat was on fire—'"
+    },
+    {
+      "start": 222.44,
+      "end": 223.44,
+      "text": "That was at noon.",
+      "para_break": true
+    },
+    {
+      "start": 224.1,
+      "end": 227.06,
+      "text": "And I had a date with Polehouse and another with Brian to keep."
+    },
+    {
+      "start": 228.32,
+      "end": 230.32,
+      "text": "She glared at him between Titan lids.",
+      "para_break": true
+    },
+    {
+      "start": 231.52,
+      "end": 232.3,
+      "text": "Sam Spade,",
+      "para_break": true
+    },
+    {
+      "start": 232.44,
+      "end": 233.04,
+      "text": "she said,"
+    },
+    {
+      "start": 233.16,
+      "end": 236.54,
+      "text": "you're the most contemptible man God ever made when you want to be."
+    },
+    {
+      "start": 237.536,
+      "end": 239.52,
+      "text": "Because she did something without confiding in you,",
+      "para_break": true
+    },
+    {
+      "start": 239.74,
+      "end": 242.52,
+      "text": "you'd sit here and do nothing when you know she's in danger,"
+    },
+    {
+      "start": 243.2,
+      "end": 244.52,
+      "text": "when you know she might be—",
+      "para_break": true
+    },
+    {
+      "start": 245.12,
+      "end": 246.44,
+      "text": "Spade's face flushed."
+    },
+    {
+      "start": 246.68,
+      "end": 247.84,
+      "text": "He said stubbornly,"
+    },
+    {
+      "start": 248.608,
+      "end": 250.62,
+      "text": "She's pretty capable of taking care of herself.",
+      "para_break": true
+    }
+  ]
+}

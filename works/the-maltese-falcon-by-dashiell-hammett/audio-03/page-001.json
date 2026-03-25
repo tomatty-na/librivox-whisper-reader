@@ -1,0 +1,679 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-03",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_03_hammett.mp3",
+  "chapter_title": "Chapter 3 - Three Women",
+  "reader_name": "Mark Nelson",
+  "page_num": 1,
+  "page_total": 4,
+  "page_start_sec": 7.73,
+  "page_end_sec": 254.42,
+  "para_gap_threshold": 0.755,
+  "segments": [
+    {
+      "start": 7.73,
+      "end": 10.54,
+      "text": "CHAPTER III."
+    },
+    {
+      "start": 10.54,
+      "end": 11.96,
+      "text": "THREE WOMEN."
+    },
+    {
+      "start": 13.02,
+      "end": 16.18,
+      "text": "When Spade reached his office at ten the following morning,",
+      "para_break": true
+    },
+    {
+      "start": 16.54,
+      "end": 18.6,
+      "text": "Effie Perrine was at her desk opening"
+    },
+    {
+      "start": 18.6,
+      "end": 19.38,
+      "text": "the morning mail."
+    },
+    {
+      "start": 20.38,
+      "end": 22.7,
+      "text": "Her boy's face was paled under its sunburn.",
+      "para_break": true
+    },
+    {
+      "start": 23.56,
+      "end": 24.4,
+      "text": "She put down the handful",
+      "para_break": true
+    },
+    {
+      "start": 24.58,
+      "end": 26.92,
+      "text": "of envelopes and the paper-knife she held and said,"
+    },
+    {
+      "start": 28.0,
+      "end": 28.56,
+      "text": "She's in there.",
+      "para_break": true
+    },
+    {
+      "start": 29.08,
+      "end": 31.02,
+      "text": "Her voice was low when warning."
+    },
+    {
+      "start": 32.3,
+      "end": 33.7,
+      "text": "I asked you to keep her away,",
+      "para_break": true
+    },
+    {
+      "start": 34.04,
+      "end": 35.92,
+      "text": "Spade complained irritably,"
+    },
+    {
+      "start": 36.1,
+      "end": 38.14,
+      "text": "though he too kept his voice low."
+    },
+    {
+      "start": 39.616,
+      "end": 41.54,
+      "text": "Effie Perrine's brown eyes opened wide,",
+      "para_break": true
+    },
+    {
+      "start": 41.68,
+      "end": 43.5,
+      "text": "and her voice was sharp as his."
+    },
+    {
+      "start": 44.44,
+      "end": 44.86,
+      "text": "Yes,",
+      "para_break": true
+    },
+    {
+      "start": 44.96,
+      "end": 46.4,
+      "text": "but you didn't tell me how."
+    },
+    {
+      "start": 47.2,
+      "end": 50.48,
+      "text": "Her eyelids went together a little and her shoulders drooped.",
+      "para_break": true
+    },
+    {
+      "start": 51.296,
+      "end": 52.48,
+      "text": "Don't be cranky,",
+      "para_break": true
+    },
+    {
+      "start": 52.5,
+      "end": 52.76,
+      "text": "Sam,"
+    },
+    {
+      "start": 53.0,
+      "end": 54.14,
+      "text": "she said wearily."
+    },
+    {
+      "start": 54.58,
+      "end": 56.0,
+      "text": "I had her all night."
+    },
+    {
+      "start": 57.728,
+      "end": 59.88,
+      "text": "Spade came over and stood beside the girl,",
+      "para_break": true
+    },
+    {
+      "start": 60.02,
+      "end": 61.5,
+      "text": "putting a hand on her hair,"
+    },
+    {
+      "start": 62.04,
+      "end": 63.44,
+      "text": "smoothing it away from the part."
+    },
+    {
+      "start": 63.9,
+      "end": 64.7,
+      "text": "Sorry,"
+    },
+    {
+      "start": 64.8,
+      "end": 65.04,
+      "text": "Angel,"
+    },
+    {
+      "start": 65.2,
+      "end": 68.6,
+      "text": "I haven't—he broke off as the inner door opened."
+    },
+    {
+      "start": 69.58,
+      "end": 70.06,
+      "text": "Hello,",
+      "para_break": true
+    },
+    {
+      "start": 70.16,
+      "end": 70.36,
+      "text": "Iva,"
+    },
+    {
+      "start": 70.5,
+      "end": 72.44,
+      "text": "he said to the woman who had opened it."
+    },
+    {
+      "start": 72.92,
+      "end": 73.48,
+      "text": "Oh,"
+    },
+    {
+      "start": 73.48,
+      "end": 73.86,
+      "text": "Sam,"
+    },
+    {
+      "start": 74.2,
+      "end": 75.0,
+      "text": "she said."
+    },
+    {
+      "start": 76.1,
+      "end": 77.14,
+      "text": "She was a blonde woman",
+      "para_break": true
+    },
+    {
+      "start": 77.32,
+      "end": 78.8,
+      "text": "of a few years more than thirty."
+    },
+    {
+      "start": 79.66,
+      "end": 82.56,
+      "text": "Her facial prettiness was perhaps five years past its",
+      "para_break": true
+    },
+    {
+      "start": 82.7,
+      "end": 83.2,
+      "text": "best moment."
+    },
+    {
+      "start": 84.2,
+      "end": 84.68,
+      "text": "Her body,",
+      "para_break": true
+    },
+    {
+      "start": 84.84,
+      "end": 85.98,
+      "text": "for all its sturdiness,"
+    },
+    {
+      "start": 86.2,
+      "end": 87.84,
+      "text": "was finely modeled and exquisite."
+    },
+    {
+      "start": 88.82,
+      "end": 89.42,
+      "text": "She wore black",
+      "para_break": true
+    },
+    {
+      "start": 89.56,
+      "end": 90.92,
+      "text": "clothes from hat to shoes."
+    },
+    {
+      "start": 91.86,
+      "end": 94.16,
+      "text": "They had as morning an impromptu air.",
+      "para_break": true
+    },
+    {
+      "start": 95.78,
+      "end": 96.4,
+      "text": "Having spoken,",
+      "para_break": true
+    },
+    {
+      "start": 96.58,
+      "end": 99.6,
+      "text": "she stepped back from the door and stood waiting for Spade."
+    },
+    {
+      "start": 100.24,
+      "end": 102.3,
+      "text": "He took his hand from Effie Pryne's"
+    },
+    {
+      "start": 102.3,
+      "end": 103.84,
+      "text": "head and entered the inner office,"
+    },
+    {
+      "start": 104.04,
+      "end": 104.78,
+      "text": "shutting the door."
+    },
+    {
+      "start": 106.272,
+      "end": 107.66,
+      "text": "Iva came quickly to him,",
+      "para_break": true
+    },
+    {
+      "start": 107.74,
+      "end": 109.62,
+      "text": "raising her face for his kiss."
+    },
+    {
+      "start": 110.54,
+      "end": 112.32,
+      "text": "Her arms were around him before his",
+      "para_break": true
+    },
+    {
+      "start": 112.48,
+      "end": 112.88,
+      "text": "held her."
+    },
+    {
+      "start": 114.12,
+      "end": 117.18,
+      "text": "When they had kissed he made a little motion as if to release her,",
+      "para_break": true
+    },
+    {
+      "start": 117.26,
+      "end": 118.38,
+      "text": "but she pressed her"
+    },
+    {
+      "start": 118.46,
+      "end": 120.46,
+      "text": "face to his chest and began to sob."
+    },
+    {
+      "start": 121.16,
+      "end": 123.04,
+      "text": "He stroked her round back,"
+    },
+    {
+      "start": 123.22,
+      "end": 123.44,
+      "text": "saying,"
+    },
+    {
+      "start": 124.48,
+      "end": 125.08,
+      "text": "Poor darling.",
+      "para_break": true
+    },
+    {
+      "start": 126.68,
+      "end": 127.72,
+      "text": "His voice was tender.",
+      "para_break": true
+    },
+    {
+      "start": 128.44,
+      "end": 128.94,
+      "text": "His eyes,"
+    },
+    {
+      "start": 129.25,
+      "end": 131.58,
+      "text": "squinting at the desk that had been his partner's"
+    },
+    {
+      "start": 131.58,
+      "end": 132.86,
+      "text": "across the room from his own,"
+    },
+    {
+      "start": 132.94,
+      "end": 133.46,
+      "text": "were angry."
+    },
+    {
+      "start": 134.31,
+      "end": 137.24,
+      "text": "He drew his lips back over his teeth in an impatient",
+      "para_break": true
+    },
+    {
+      "start": 137.66,
+      "end": 139.94,
+      "text": "grimace and turned his chin aside to"
+    },
+    {
+      "start": 139.94,
+      "end": 142.0,
+      "text": "avoid contact with the crown of her hat."
+    },
+    {
+      "start": 143.68,
+      "end": 146.02,
+      "text": "\"'Did you send for Miles's brother?' he asked.",
+      "para_break": true
+    },
+    {
+      "start": 146.6,
+      "end": 147.18,
+      "text": "\"'Yes."
+    },
+    {
+      "start": 147.44,
+      "end": 149.1,
+      "text": "He came over this morning.'"
+    },
+    {
+      "start": 150.24,
+      "end": 153.4,
+      "text": "The words were blurred by her sobbing and his coat against her",
+      "para_break": true
+    },
+    {
+      "start": 153.5,
+      "end": 153.66,
+      "text": "mouth."
+    },
+    {
+      "start": 154.96,
+      "end": 157.18,
+      "text": "He grimaced again and bent his head for a",
+      "para_break": true
+    },
+    {
+      "start": 157.18,
+      "end": 159.38,
+      "text": "surreptitious look at the watch on his wrist."
+    },
+    {
+      "start": 160.18,
+      "end": 161.54,
+      "text": "His left arm was around her,",
+      "para_break": true
+    },
+    {
+      "start": 161.62,
+      "end": 163.14,
+      "text": "the hand on her left shoulder."
+    },
+    {
+      "start": 164.2,
+      "end": 165.94,
+      "text": "His cuff was pulled back far enough to",
+      "para_break": true
+    },
+    {
+      "start": 166.08,
+      "end": 167.0,
+      "text": "leave the watch exposed."
+    },
+    {
+      "start": 167.48,
+      "end": 169.24,
+      "text": "It showed ten-thirteen."
+    },
+    {
+      "start": 170.13,
+      "end": 173.06,
+      "text": "The woman stirred in his arms and raised her face",
+      "para_break": true
+    },
+    {
+      "start": 173.2,
+      "end": 173.34,
+      "text": "again."
+    },
+    {
+      "start": 174.32,
+      "end": 175.38,
+      "text": "Her blue eyes were wet,",
+      "para_break": true
+    },
+    {
+      "start": 175.54,
+      "end": 176.0,
+      "text": "round,"
+    },
+    {
+      "start": 176.12,
+      "end": 176.96,
+      "text": "and white-ringed."
+    },
+    {
+      "start": 177.62,
+      "end": 178.62,
+      "text": "Her mouth was moist."
+    },
+    {
+      "start": 179.82,
+      "end": 180.1,
+      "text": "\"'Oh,",
+      "para_break": true
+    },
+    {
+      "start": 180.24,
+      "end": 182.06,
+      "text": "Sam!' she moaned."
+    },
+    {
+      "start": 182.52,
+      "end": 183.648,
+      "text": "\"'Did you kill him?'"
+    },
+    {
+      "start": 184.992,
+      "end": 187.08,
+      "text": "Spade stared at her with bulging eyes.",
+      "para_break": true
+    },
+    {
+      "start": 188.02,
+      "end": 189.52,
+      "text": "His bony jaw sagged.",
+      "para_break": true
+    },
+    {
+      "start": 189.68,
+      "end": 191.52,
+      "text": "He took his arms from around her"
+    },
+    {
+      "start": 191.72,
+      "end": 193.38,
+      "text": "and stepped back out of her arms."
+    },
+    {
+      "start": 193.56,
+      "end": 196.02,
+      "text": "He scowled at her and cleared his throat."
+    },
+    {
+      "start": 197.34,
+      "end": 199.38,
+      "text": "She held her arms up as he had left them.",
+      "para_break": true
+    },
+    {
+      "start": 200.416,
+      "end": 201.72,
+      "text": "Anguish clouded her eyes,",
+      "para_break": true
+    },
+    {
+      "start": 201.94,
+      "end": 203.5,
+      "text": "partly closed them under"
+    },
+    {
+      "start": 203.58,
+      "end": 205.42,
+      "text": "eyebrows pulled up at the inner ends."
+    },
+    {
+      "start": 206.24,
+      "end": 206.72,
+      "text": "Her soft,",
+      "para_break": true
+    },
+    {
+      "start": 206.8,
+      "end": 208.24,
+      "text": "damp red lips trembled."
+    },
+    {
+      "start": 209.472,
+      "end": 210.64,
+      "text": "Spade laughed a harsh",
+      "para_break": true
+    },
+    {
+      "start": 210.78,
+      "end": 211.16,
+      "text": "syllable."
+    },
+    {
+      "start": 211.6,
+      "end": 212.3,
+      "text": "Ha!"
+    },
+    {
+      "start": 212.54,
+      "end": 214.62,
+      "text": "and went to the buff-curtain window."
+    },
+    {
+      "start": 215.36,
+      "end": 217.16,
+      "text": "He stood there with his back to her,"
+    },
+    {
+      "start": 217.472,
+      "end": 219.02,
+      "text": "looking through the curtain into the court,"
+    },
+    {
+      "start": 219.16,
+      "end": 220.94,
+      "text": "until she started toward him."
+    },
+    {
+      "start": 221.66,
+      "end": 224.38,
+      "text": "Then he turned quickly and went to his desk."
+    },
+    {
+      "start": 225.184,
+      "end": 226.02,
+      "text": "He sat down,",
+      "para_break": true
+    },
+    {
+      "start": 226.16,
+      "end": 227.64,
+      "text": "put his elbows on the desk,"
+    },
+    {
+      "start": 227.8,
+      "end": 228.06,
+      "text": "his"
+    },
+    {
+      "start": 228.12,
+      "end": 229.26,
+      "text": "chin between his fists,"
+    },
+    {
+      "start": 229.36,
+      "end": 230.16,
+      "text": "and looked at her."
+    },
+    {
+      "start": 231.18,
+      "end": 233.41,
+      "text": "His yellowish eyes glittered between narrowed",
+      "para_break": true
+    },
+    {
+      "start": 233.5,
+      "end": 233.78,
+      "text": "lids."
+    },
+    {
+      "start": 235.08,
+      "end": 237.24,
+      "text": "\"'Who?' he asked coldly.",
+      "para_break": true
+    },
+    {
+      "start": 237.8,
+      "end": 239.776,
+      "text": "\"'Put that bright idea into your head.'"
+    },
+    {
+      "start": 241.1,
+      "end": 241.7,
+      "text": "\"'I thought—'",
+      "para_break": true
+    },
+    {
+      "start": 242.76,
+      "end": 244.94,
+      "text": "She put a hand to her mouth and fresh tears",
+      "para_break": true
+    },
+    {
+      "start": 245.16,
+      "end": 245.88,
+      "text": "filled her eyes."
+    },
+    {
+      "start": 246.98,
+      "end": 248.68,
+      "text": "She came to stand beside the desk,",
+      "para_break": true
+    },
+    {
+      "start": 248.86,
+      "end": 249.72,
+      "text": "moving with easy,"
+    },
+    {
+      "start": 249.82,
+      "end": 250.58,
+      "text": "sure-footed grace"
+    },
+    {
+      "start": 250.8,
+      "end": 251.62,
+      "text": "in black slippers,"
+    },
+    {
+      "start": 251.88,
+      "end": 254.42,
+      "text": "whose smallness and heel height were extreme."
+    }
+  ]
+}

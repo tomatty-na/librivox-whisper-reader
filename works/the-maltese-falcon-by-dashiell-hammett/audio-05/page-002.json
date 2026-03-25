@@ -1,0 +1,594 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-05",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_05_hammett.mp3",
+  "chapter_title": "Chapter 5 - Cairo's Pockets",
+  "reader_name": "Mark Nelson",
+  "page_num": 2,
+  "page_total": 4,
+  "page_start_sec": 252.86,
+  "page_end_sec": 498.22,
+  "para_gap_threshold": 0.774,
+  "segments": [
+    {
+      "start": 252.86,
+      "end": 255.18,
+      "text": "There was a large wallet of dark soft leather.",
+      "para_break": true
+    },
+    {
+      "start": 255.42,
+      "end": 258.12,
+      "text": "The wallet contained three hundred and sixty-five"
+    },
+    {
+      "start": 258.3,
+      "end": 260.74,
+      "text": "dollars in United States bills of several sizes,"
+    },
+    {
+      "start": 261.22,
+      "end": 263.14,
+      "text": "three five-pound notes,"
+    },
+    {
+      "start": 263.4,
+      "end": 264.76,
+      "text": "a much-visited Greek"
+    },
+    {
+      "start": 264.9,
+      "end": 267.1,
+      "text": "passport bearing Cairo's name and portrait,"
+    },
+    {
+      "start": 268.128,
+      "end": 271.26,
+      "text": "five folded sheets of pinkish onion-skin paper covered",
+      "para_break": true
+    },
+    {
+      "start": 271.42,
+      "end": 272.94,
+      "text": "with what seemed to be Arabic writing,"
+    },
+    {
+      "start": 273.408,
+      "end": 276.84,
+      "text": "a raggedly clipped newspaper account of the finding of"
+    },
+    {
+      "start": 276.98,
+      "end": 278.34,
+      "text": "Archer's and Thursby's bodies,"
+    },
+    {
+      "start": 278.56,
+      "end": 282.48,
+      "text": "a postcard photograph of a dusky woman with bold,"
+    },
+    {
+      "start": 282.58,
+      "end": 282.82,
+      "text": "cruel"
+    },
+    {
+      "start": 283.04,
+      "end": 284.14,
+      "text": "eyes and a tender,"
+    },
+    {
+      "start": 284.2,
+      "end": 284.86,
+      "text": "drooping mouth,"
+    },
+    {
+      "start": 285.9,
+      "end": 287.18,
+      "text": "a large silk handkerchief,",
+      "para_break": true
+    },
+    {
+      "start": 287.42,
+      "end": 289.3,
+      "text": "yellow with age and somewhat cracked"
+    },
+    {
+      "start": 289.46,
+      "end": 290.26,
+      "text": "along its folds,"
+    },
+    {
+      "start": 291.52,
+      "end": 293.22,
+      "text": "an American Express receipt for a",
+      "para_break": true
+    },
+    {
+      "start": 293.22,
+      "end": 295.35,
+      "text": "package sent that day to Constantinople,"
+    },
+    {
+      "start": 296.04,
+      "end": 297.46,
+      "text": "and a thin sheaf of Mr."
+    },
+    {
+      "start": 297.66,
+      "end": 299.42,
+      "text": "Joel Cairo's engraved cards."
+    },
+    {
+      "start": 300.96,
+      "end": 302.44,
+      "text": "Besides the wallet and its contents,",
+      "para_break": true
+    },
+    {
+      "start": 302.8,
+      "end": 305.35,
+      "text": "there were three gaily colored silk handkerchiefs,"
+    },
+    {
+      "start": 305.48,
+      "end": 306.66,
+      "text": "fragrant of shipra."
+    },
+    {
+      "start": 307.84,
+      "end": 311.22,
+      "text": "A platinum longines watch on a platinum and red-gold chain,",
+      "para_break": true
+    },
+    {
+      "start": 311.56,
+      "end": 313.5,
+      "text": "attached at the other end to a"
+    },
+    {
+      "start": 313.54,
+      "end": 316.04,
+      "text": "small pear-shaped pendant of some white metal,"
+    },
+    {
+      "start": 316.2,
+      "end": 319.12,
+      "text": "which rattled when shaken and was intricately"
+    },
+    {
+      "start": 319.16,
+      "end": 321.04,
+      "text": "carved and inlaid with black and green"
+    },
+    {
+      "start": 321.04,
+      "end": 323.04,
+      "text": "in overlapping geometrical patterns."
+    },
+    {
+      "start": 324.46,
+      "end": 326.0,
+      "text": "A handful of United States,",
+      "para_break": true
+    },
+    {
+      "start": 326.18,
+      "end": 326.48,
+      "text": "British,"
+    },
+    {
+      "start": 326.7,
+      "end": 327.06,
+      "text": "French,"
+    },
+    {
+      "start": 327.06,
+      "end": 328.06,
+      "text": "and Chinese coins."
+    },
+    {
+      "start": 328.86,
+      "end": 330.46,
+      "text": "A ring holding half a dozen keys.",
+      "para_break": true
+    },
+    {
+      "start": 330.96,
+      "end": 333.18,
+      "text": "a silver and onyx fountain pen,"
+    },
+    {
+      "start": 333.36,
+      "end": 335.78,
+      "text": "a metal comb in a leatherette case,"
+    },
+    {
+      "start": 336.0,
+      "end": 337.84,
+      "text": "a nail file in a leatherette"
+    },
+    {
+      "start": 337.84,
+      "end": 338.22,
+      "text": "case,"
+    },
+    {
+      "start": 338.98,
+      "end": 340.8,
+      "text": "a small street guide to San Francisco,"
+    },
+    {
+      "start": 341.54,
+      "end": 343.88,
+      "text": "a ticket for an orchestra seat at the Geary that"
+    },
+    {
+      "start": 344.02,
+      "end": 344.24,
+      "text": "evening,"
+    },
+    {
+      "start": 344.44,
+      "end": 346.48,
+      "text": "a Southern Pacific baggage check,"
+    },
+    {
+      "start": 346.66,
+      "end": 349.14,
+      "text": "a half-filled package of violet pastilles,"
+    },
+    {
+      "start": 349.74,
+      "end": 352.02,
+      "text": "a Shanghai insurance broker's business card,"
+    },
+    {
+      "start": 352.12,
+      "end": 355.08,
+      "text": "and four sheets of Hotel Belvedere writing paper,"
+    },
+    {
+      "start": 355.44,
+      "end": 358.64,
+      "text": "on one of which was written in small precise letters"
+    },
+    {
+      "start": 358.92,
+      "end": 362.36,
+      "text": "Samuel Spade's name and his business and residential addresses."
+    },
+    {
+      "start": 364.48,
+      "end": 366.16,
+      "text": "Having examined these articles carefully",
+      "para_break": true
+    },
+    {
+      "start": 366.82,
+      "end": 368.56,
+      "text": "he even opened the back of the watch case"
+    },
+    {
+      "start": 368.74,
+      "end": 370.42,
+      "text": "to see that nothing was concealed inside."
+    },
+    {
+      "start": 371.04,
+      "end": 373.92,
+      "text": "Spade leaned over and took the unconscious man's wrist"
+    },
+    {
+      "start": 374.02,
+      "end": 375.16,
+      "text": "between finger and thumb,"
+    },
+    {
+      "start": 375.3,
+      "end": 376.22,
+      "text": "feeling his pulse."
+    },
+    {
+      "start": 377.56,
+      "end": 378.62,
+      "text": "Then he put the wrist down,",
+      "para_break": true
+    },
+    {
+      "start": 378.78,
+      "end": 379.84,
+      "text": "leaned back in his chair"
+    },
+    {
+      "start": 380.12,
+      "end": 381.82,
+      "text": "and rolled and lighted another cigarette."
+    },
+    {
+      "start": 383.03,
+      "end": 385.22,
+      "text": "His face while he smoked was,",
+      "para_break": true
+    },
+    {
+      "start": 385.48,
+      "end": 387.5,
+      "text": "except for occasional slight and apparently"
+    },
+    {
+      "start": 387.5,
+      "end": 389.24,
+      "text": "aimless movements of his lower lip,"
+    },
+    {
+      "start": 389.44,
+      "end": 392.6,
+      "text": "so still and reflective that it seemed stupid."
+    },
+    {
+      "start": 393.98,
+      "end": 396.58,
+      "text": "But when Cairo presently moaned and fluttered his eyelids,",
+      "para_break": true
+    },
+    {
+      "start": 397.06,
+      "end": 398.64,
+      "text": "Spade's face became bland,"
+    },
+    {
+      "start": 398.92,
+      "end": 402.84,
+      "text": "and he put the beginning of a friendly smile into his eyes and mouth."
+    },
+    {
+      "start": 404.34,
+      "end": 405.76,
+      "text": "Joel Cairo awakened slowly.",
+      "para_break": true
+    },
+    {
+      "start": 406.72,
+      "end": 407.76,
+      "text": "His eyes opened first,",
+      "para_break": true
+    },
+    {
+      "start": 408.02,
+      "end": 409.92,
+      "text": "but a full minute passed before they"
+    },
+    {
+      "start": 410.0,
+      "end": 412.52,
+      "text": "fixed their gaze on any definite part of the ceiling."
+    },
+    {
+      "start": 413.74,
+      "end": 415.24,
+      "text": "Then he shut his mouth and swallowed,",
+      "para_break": true
+    },
+    {
+      "start": 415.936,
+      "end": 417.88,
+      "text": "exhaling heavily through his nose afterward."
+    },
+    {
+      "start": 418.94,
+      "end": 421.46,
+      "text": "He drew in one foot and turned a hand over on his",
+      "para_break": true
+    },
+    {
+      "start": 421.56,
+      "end": 421.82,
+      "text": "thigh."
+    },
+    {
+      "start": 422.9,
+      "end": 424.8,
+      "text": "Then he raised his head from the chair back,",
+      "para_break": true
+    },
+    {
+      "start": 425.26,
+      "end": 426.64,
+      "text": "looked around the office in confusion,"
+    },
+    {
+      "start": 427.08,
+      "end": 428.18,
+      "text": "saw Spade,"
+    },
+    {
+      "start": 428.32,
+      "end": 429.1,
+      "text": "and sat up."
+    },
+    {
+      "start": 429.42,
+      "end": 431.54,
+      "text": "He opened his mouth to speak,"
+    },
+    {
+      "start": 431.76,
+      "end": 432.14,
+      "text": "started,"
+    },
+    {
+      "start": 432.49,
+      "end": 434.18,
+      "text": "clapped a hand to his face where"
+    },
+    {
+      "start": 434.26,
+      "end": 437.68,
+      "text": "Spade's fist had struck and where there was now a florid bruise."
+    },
+    {
+      "start": 438.82,
+      "end": 439.96,
+      "text": "He said through his teeth,",
+      "para_break": true
+    },
+    {
+      "start": 440.26,
+      "end": 440.54,
+      "text": "painfully,"
+    },
+    {
+      "start": 440.72,
+      "end": 442.82,
+      "text": "I could have shot you,"
+    },
+    {
+      "start": 442.86,
+      "end": 443.04,
+      "text": "Mr."
+    },
+    {
+      "start": 443.12,
+      "end": 443.56,
+      "text": "Spade."
+    },
+    {
+      "start": 443.74,
+      "end": 445.4,
+      "text": "You could have tried,"
+    },
+    {
+      "start": 445.68,
+      "end": 447.02,
+      "text": "Spade conceded."
+    },
+    {
+      "start": 447.7,
+      "end": 448.54,
+      "text": "I did not try."
+    },
+    {
+      "start": 449.13,
+      "end": 449.98,
+      "text": "I know."
+    },
+    {
+      "start": 451.16,
+      "end": 453.59,
+      "text": "Then why did you strike me after I was disarmed?",
+      "para_break": true
+    },
+    {
+      "start": 454.5,
+      "end": 454.94,
+      "text": "Sorry,",
+      "para_break": true
+    },
+    {
+      "start": 455.18,
+      "end": 457.26,
+      "text": "Spade grinned wolfishly,"
+    },
+    {
+      "start": 457.28,
+      "end": 458.56,
+      "text": "showing his jaw-teeth."
+    },
+    {
+      "start": 459.92,
+      "end": 461.92,
+      "text": "But imagine my embarrassment when",
+      "para_break": true
+    },
+    {
+      "start": 461.92,
+      "end": 464.74,
+      "text": "I found your $5,000 offer was just hooey."
+    },
+    {
+      "start": 466.14,
+      "end": 466.84,
+      "text": "You are mistaken,",
+      "para_break": true
+    },
+    {
+      "start": 467.12,
+      "end": 467.34,
+      "text": "Mr."
+    },
+    {
+      "start": 467.38,
+      "end": 467.82,
+      "text": "Spade."
+    },
+    {
+      "start": 467.92,
+      "end": 469.32,
+      "text": "That was and"
+    },
+    {
+      "start": 469.46,
+      "end": 470.64,
+      "text": "is a genuine offer."
+    },
+    {
+      "start": 471.9,
+      "end": 472.52,
+      "text": "What the hell?",
+      "para_break": true
+    },
+    {
+      "start": 473.664,
+      "end": 475.0,
+      "text": "Spade's surprise was genuine.",
+      "para_break": true
+    },
+    {
+      "start": 475.61,
+      "end": 479.94,
+      "text": "I am prepared to pay five thousand dollars for the figure's return."
+    },
+    {
+      "start": 481.408,
+      "end": 483.24,
+      "text": "Cairo took his hand away from his bruised",
+      "para_break": true
+    },
+    {
+      "start": 483.24,
+      "end": 485.68,
+      "text": "face and sat up prim and businesslike again."
+    },
+    {
+      "start": 486.52,
+      "end": 487.36,
+      "text": "You have it?",
+      "para_break": true
+    },
+    {
+      "start": 487.94,
+      "end": 488.42,
+      "text": "No."
+    },
+    {
+      "start": 490.24,
+      "end": 493.44,
+      "text": "If it is not here—Cairo was very politely",
+      "para_break": true
+    },
+    {
+      "start": 494.8,
+      "end": 496.08,
+      "text": "skeptical—why should you have risked serious",
+      "para_break": true
+    },
+    {
+      "start": 496.24,
+      "end": 498.22,
+      "text": "injury to prevent my searching for it?"
+    }
+  ]
+}

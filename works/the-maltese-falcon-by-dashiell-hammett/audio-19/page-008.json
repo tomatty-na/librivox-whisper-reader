@@ -1,0 +1,762 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-19",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_19_hammett.mp3",
+  "chapter_title": "Chapter 19 - The Russian's Hand",
+  "reader_name": "Mark Nelson",
+  "page_num": 8,
+  "page_total": 10,
+  "page_start_sec": 1715.12,
+  "page_end_sec": 1956.76,
+  "para_gap_threshold": 0.671,
+  "segments": [
+    {
+      "start": 1715.12,
+      "end": 1716.96,
+      "text": "The boy sat with his head in his hands",
+      "para_break": true
+    },
+    {
+      "start": 1716.96,
+      "end": 1718.58,
+      "text": "until a little after four o'clock."
+    },
+    {
+      "start": 1719.46,
+      "end": 1721.64,
+      "text": "Then he laid down with his feet toward Cairo,",
+      "para_break": true
+    },
+    {
+      "start": 1721.8,
+      "end": 1723.14,
+      "text": "turned his face to the window,"
+    },
+    {
+      "start": 1723.28,
+      "end": 1724.14,
+      "text": "and went to sleep."
+    },
+    {
+      "start": 1725.504,
+      "end": 1726.36,
+      "text": "Bridget O'Shaughnessy,",
+      "para_break": true
+    },
+    {
+      "start": 1726.44,
+      "end": 1727.06,
+      "text": "in the armchair,"
+    },
+    {
+      "start": 1727.26,
+      "end": 1727.84,
+      "text": "dozed,"
+    },
+    {
+      "start": 1727.94,
+      "end": 1729.58,
+      "text": "listened to the fat man's comments,"
+    },
+    {
+      "start": 1729.82,
+      "end": 1731.54,
+      "text": "and carried on a wide-spaced,"
+    },
+    {
+      "start": 1731.58,
+      "end": 1733.56,
+      "text": "desultory conversation with Spade."
+    },
+    {
+      "start": 1734.912,
+      "end": 1737.06,
+      "text": "Spade lolled and smoked cigarettes and moved,",
+      "para_break": true
+    },
+    {
+      "start": 1737.28,
+      "end": 1738.84,
+      "text": "without fidgeting or nervousness,"
+    },
+    {
+      "start": 1738.9,
+      "end": 1739.64,
+      "text": "around the room."
+    },
+    {
+      "start": 1740.32,
+      "end": 1742.8,
+      "text": "He sat sometimes on an arm of a girl's chair,",
+      "para_break": true
+    },
+    {
+      "start": 1743.0,
+      "end": 1743.96,
+      "text": "on the table corner,"
+    },
+    {
+      "start": 1744.18,
+      "end": 1745.54,
+      "text": "on the floor at her feet,"
+    },
+    {
+      "start": 1745.78,
+      "end": 1746.92,
+      "text": "on a straight-back chair."
+    },
+    {
+      "start": 1747.53,
+      "end": 1748.9,
+      "text": "He was wide awake,"
+    },
+    {
+      "start": 1749.12,
+      "end": 1749.5,
+      "text": "cheerful,"
+    },
+    {
+      "start": 1749.7,
+      "end": 1750.62,
+      "text": "and full of vigor."
+    },
+    {
+      "start": 1751.45,
+      "end": 1755.12,
+      "text": "At half-past five he went into the kitchen and made more coffee.",
+      "para_break": true
+    },
+    {
+      "start": 1756.1,
+      "end": 1757.46,
+      "text": "Half an hour later the boy",
+      "para_break": true
+    },
+    {
+      "start": 1757.6,
+      "end": 1757.94,
+      "text": "stirred,"
+    },
+    {
+      "start": 1758.16,
+      "end": 1758.58,
+      "text": "awakened,"
+    },
+    {
+      "start": 1758.62,
+      "end": 1759.62,
+      "text": "and sat up yawning."
+    },
+    {
+      "start": 1760.704,
+      "end": 1762.9,
+      "text": "Gutman looked at his watch and questioned Spade.",
+      "para_break": true
+    },
+    {
+      "start": 1764.3,
+      "end": 1765.06,
+      "text": "Can you get it now?",
+      "para_break": true
+    },
+    {
+      "start": 1766.22,
+      "end": 1767.02,
+      "text": "Give me another hour.",
+      "para_break": true
+    },
+    {
+      "start": 1768.32,
+      "end": 1770.74,
+      "text": "Gutman nodded and returned his attention to his book.",
+      "para_break": true
+    },
+    {
+      "start": 1771.78,
+      "end": 1773.52,
+      "text": "At seven o'clock Spade went to the",
+      "para_break": true
+    },
+    {
+      "start": 1773.52,
+      "end": 1775.52,
+      "text": "telephone and called Effie Pryne's number."
+    },
+    {
+      "start": 1776.37,
+      "end": 1776.92,
+      "text": "Hello,",
+      "para_break": true
+    },
+    {
+      "start": 1777.12,
+      "end": 1777.46,
+      "text": "Mrs."
+    },
+    {
+      "start": 1777.54,
+      "end": 1777.88,
+      "text": "Prine?"
+    },
+    {
+      "start": 1778.04,
+      "end": 1779.1,
+      "text": "This is Mr."
+    },
+    {
+      "start": 1779.22,
+      "end": 1779.54,
+      "text": "Spade."
+    },
+    {
+      "start": 1780.58,
+      "end": 1781.66,
+      "text": "Will you let me talk to Effie,",
+      "para_break": true
+    },
+    {
+      "start": 1781.72,
+      "end": 1782.07,
+      "text": "please?\""
+    },
+    {
+      "start": 1782.59,
+      "end": 1783.24,
+      "text": "Yes,"
+    },
+    {
+      "start": 1783.32,
+      "end": 1783.82,
+      "text": "it is."
+    },
+    {
+      "start": 1784.66,
+      "end": 1785.02,
+      "text": "Thanks.",
+      "para_break": true
+    },
+    {
+      "start": 1786.34,
+      "end": 1788.36,
+      "text": "He whistled two lines of Ancuba softly.",
+      "para_break": true
+    },
+    {
+      "start": 1789.58,
+      "end": 1789.98,
+      "text": "Hello,",
+      "para_break": true
+    },
+    {
+      "start": 1790.02,
+      "end": 1790.22,
+      "text": "Angel."
+    },
+    {
+      "start": 1790.51,
+      "end": 1791.6,
+      "text": "Sorry to get you up."
+    },
+    {
+      "start": 1792.4,
+      "end": 1792.84,
+      "text": "Yes,",
+      "para_break": true
+    },
+    {
+      "start": 1792.9,
+      "end": 1793.26,
+      "text": "very."
+    },
+    {
+      "start": 1794.208,
+      "end": 1794.7,
+      "text": "Here's the plot.",
+      "para_break": true
+    },
+    {
+      "start": 1795.52,
+      "end": 1797.68,
+      "text": "In our Holland box at the post-office you'll",
+      "para_break": true
+    },
+    {
+      "start": 1797.68,
+      "end": 1799.6,
+      "text": "find an envelope addressed in my scribble."
+    },
+    {
+      "start": 1800.736,
+      "end": 1802.86,
+      "text": "There's a Pickwick Stage parcel-room check in it,",
+      "para_break": true
+    },
+    {
+      "start": 1803.26,
+      "end": 1804.5,
+      "text": "for the bundle we got yesterday."
+    },
+    {
+      "start": 1805.41,
+      "end": 1807.16,
+      "text": "Will you get the bundle and bring it to me,",
+      "para_break": true
+    },
+    {
+      "start": 1807.24,
+      "end": 1807.58,
+      "text": "PDQ?"
+    },
+    {
+      "start": 1808.16,
+      "end": 1808.86,
+      "text": "Yes,"
+    },
+    {
+      "start": 1808.92,
+      "end": 1809.42,
+      "text": "I'm home."
+    },
+    {
+      "start": 1810.368,
+      "end": 1810.86,
+      "text": "That's the girl.",
+      "para_break": true
+    },
+    {
+      "start": 1811.2,
+      "end": 1811.48,
+      "text": "Hustle."
+    },
+    {
+      "start": 1812.62,
+      "end": 1812.84,
+      "text": "Bye.",
+      "para_break": true
+    },
+    {
+      "start": 1814.92,
+      "end": 1817.58,
+      "text": "The street doorbell rang at ten minutes of eight.",
+      "para_break": true
+    },
+    {
+      "start": 1818.4,
+      "end": 1820.0,
+      "text": "Spade went to the telephone box and",
+      "para_break": true
+    },
+    {
+      "start": 1820.0,
+      "end": 1821.64,
+      "text": "pressed the button that released the door."
+    },
+    {
+      "start": 1822.528,
+      "end": 1824.0,
+      "text": "Gutman put down his book and rose,",
+      "para_break": true
+    },
+    {
+      "start": 1824.12,
+      "end": 1824.52,
+      "text": "smiling."
+    },
+    {
+      "start": 1825.84,
+      "end": 1827.78,
+      "text": "You don't mind if I go to the door with you?",
+      "para_break": true
+    },
+    {
+      "start": 1827.88,
+      "end": 1828.52,
+      "text": "he asked."
+    },
+    {
+      "start": 1829.38,
+      "end": 1829.6,
+      "text": "Okay,",
+      "para_break": true
+    },
+    {
+      "start": 1829.8,
+      "end": 1830.8,
+      "text": "Spade told him."
+    },
+    {
+      "start": 1831.904,
+      "end": 1833.54,
+      "text": "Gutman followed him to the corridor door.",
+      "para_break": true
+    },
+    {
+      "start": 1833.92,
+      "end": 1835.08,
+      "text": "Spade opened it."
+    },
+    {
+      "start": 1835.712,
+      "end": 1836.88,
+      "text": "Presently Effie Perrine,"
+    },
+    {
+      "start": 1837.06,
+      "end": 1838.68,
+      "text": "carrying the brown-wrapped parcel,"
+    },
+    {
+      "start": 1838.86,
+      "end": 1839.78,
+      "text": "came from the elevator."
+    },
+    {
+      "start": 1840.52,
+      "end": 1842.72,
+      "text": "Her boyish face was gay and excited,",
+      "para_break": true
+    },
+    {
+      "start": 1842.92,
+      "end": 1844.34,
+      "text": "and she came forward quickly,"
+    },
+    {
+      "start": 1844.6,
+      "end": 1845.52,
+      "text": "almost trotting."
+    },
+    {
+      "start": 1846.56,
+      "end": 1849.06,
+      "text": "After one quick glance she did not look at Gutman.",
+      "para_break": true
+    },
+    {
+      "start": 1850.0,
+      "end": 1851.98,
+      "text": "She smiled at Spade and gave him the parcel.",
+      "para_break": true
+    },
+    {
+      "start": 1853.0,
+      "end": 1853.7,
+      "text": "He took it,",
+      "para_break": true
+    },
+    {
+      "start": 1853.74,
+      "end": 1853.94,
+      "text": "saying,"
+    },
+    {
+      "start": 1854.88,
+      "end": 1855.38,
+      "text": "\"'Thanks a lot,",
+      "para_break": true
+    },
+    {
+      "start": 1855.42,
+      "end": 1855.64,
+      "text": "lady."
+    },
+    {
+      "start": 1856.06,
+      "end": 1858.24,
+      "text": "I'm sorry to spoil your day of rest,"
+    },
+    {
+      "start": 1858.36,
+      "end": 1859.09,
+      "text": "but this—'"
+    },
+    {
+      "start": 1859.648,
+      "end": 1862.26,
+      "text": "\"'It's not the first one you've spoiled,' she replied,"
+    },
+    {
+      "start": 1862.36,
+      "end": 1862.68,
+      "text": "laughing,"
+    },
+    {
+      "start": 1863.04,
+      "end": 1863.58,
+      "text": "and then,"
+    },
+    {
+      "start": 1863.78,
+      "end": 1866.3,
+      "text": "when it was apparent that he was not going to invite her in,"
+    },
+    {
+      "start": 1866.62,
+      "end": 1866.86,
+      "text": "asked,"
+    },
+    {
+      "start": 1867.68,
+      "end": 1868.18,
+      "text": "Anything else?",
+      "para_break": true
+    },
+    {
+      "start": 1868.7,
+      "end": 1869.92,
+      "text": "He shook his head."
+    },
+    {
+      "start": 1870.44,
+      "end": 1870.76,
+      "text": "No,"
+    },
+    {
+      "start": 1870.8,
+      "end": 1871.06,
+      "text": "thanks."
+    },
+    {
+      "start": 1872.26,
+      "end": 1872.68,
+      "text": "She said,",
+      "para_break": true
+    },
+    {
+      "start": 1873.12,
+      "end": 1873.48,
+      "text": "Bye-bye,"
+    },
+    {
+      "start": 1873.64,
+      "end": 1875.28,
+      "text": "and went back to the elevator."
+    },
+    {
+      "start": 1876.736,
+      "end": 1879.4,
+      "text": "Spade shut the door and carried the parcel into the living room.",
+      "para_break": true
+    },
+    {
+      "start": 1880.288,
+      "end": 1882.74,
+      "text": "Gutman's face was red and his cheeks quivered.",
+      "para_break": true
+    },
+    {
+      "start": 1883.68,
+      "end": 1885.46,
+      "text": "Cairo and Bridget O'Shaughnessy came to",
+      "para_break": true
+    },
+    {
+      "start": 1885.46,
+      "end": 1887.32,
+      "text": "the table as Spade put the parcel there."
+    },
+    {
+      "start": 1888.26,
+      "end": 1888.76,
+      "text": "They were excited.",
+      "para_break": true
+    },
+    {
+      "start": 1889.16,
+      "end": 1890.46,
+      "text": "The boy rose,"
+    },
+    {
+      "start": 1890.7,
+      "end": 1891.6,
+      "text": "pale and tense,"
+    },
+    {
+      "start": 1891.78,
+      "end": 1893.22,
+      "text": "but he remained by the sofa,"
+    },
+    {
+      "start": 1893.4,
+      "end": 1895.14,
+      "text": "staring under curling lashes"
+    },
+    {
+      "start": 1895.14,
+      "end": 1895.88,
+      "text": "at the others."
+    },
+    {
+      "start": 1897.184,
+      "end": 1898.6,
+      "text": "Spade stepped back from the table,",
+      "para_break": true
+    },
+    {
+      "start": 1898.7,
+      "end": 1898.98,
+      "text": "saying,"
+    },
+    {
+      "start": 1899.98,
+      "end": 1900.78,
+      "text": "\"'There you are.'",
+      "para_break": true
+    },
+    {
+      "start": 1901.792,
+      "end": 1905.42,
+      "text": "Gutman's fat fingers made short work of cord and paper and excelsior,",
+      "para_break": true
+    },
+    {
+      "start": 1905.61,
+      "end": 1906.66,
+      "text": "and he had the black"
+    },
+    {
+      "start": 1906.74,
+      "end": 1907.74,
+      "text": "bird in his hands."
+    },
+    {
+      "start": 1908.5,
+      "end": 1910.94,
+      "text": "\"'Ah!' he said huskily.",
+      "para_break": true
+    },
+    {
+      "start": 1911.56,
+      "end": 1911.94,
+      "text": "\"'Now,"
+    },
+    {
+      "start": 1912.0,
+      "end": 1914.06,
+      "text": "after seventeen years—'"
+    },
+    {
+      "start": 1914.88,
+      "end": 1915.9,
+      "text": "His eyes were moist.",
+      "para_break": true
+    },
+    {
+      "start": 1917.46,
+      "end": 1919.62,
+      "text": "Carol licked his red lips and worked his hands together.",
+      "para_break": true
+    },
+    {
+      "start": 1920.48,
+      "end": 1920.88,
+      "text": "The girl's",
+      "para_break": true
+    },
+    {
+      "start": 1920.98,
+      "end": 1922.36,
+      "text": "lower lip was between her teeth."
+    },
+    {
+      "start": 1923.392,
+      "end": 1924.12,
+      "text": "She and Cairo,",
+      "para_break": true
+    },
+    {
+      "start": 1924.3,
+      "end": 1925.56,
+      "text": "like Gutman and like"
+    },
+    {
+      "start": 1925.64,
+      "end": 1926.44,
+      "text": "Spade and the boy,"
+    },
+    {
+      "start": 1926.6,
+      "end": 1927.46,
+      "text": "were breathing heavily."
+    },
+    {
+      "start": 1928.52,
+      "end": 1929.54,
+      "text": "The air in the room was",
+      "para_break": true
+    },
+    {
+      "start": 1929.62,
+      "end": 1932.02,
+      "text": "chilly and stale and heavy with tobacco smoke."
+    },
+    {
+      "start": 1933.536,
+      "end": 1936.6,
+      "text": "Gutman set the bird down on the table again and fumbled at a pocket.",
+      "para_break": true
+    },
+    {
+      "start": 1937.952,
+      "end": 1939.12,
+      "text": "\"'It's it,' he said.",
+      "para_break": true
+    },
+    {
+      "start": 1939.26,
+      "end": 1940.992,
+      "text": "\"'But we'll make sure'--\""
+    },
+    {
+      "start": 1941.92,
+      "end": 1943.7,
+      "text": "Sweat glistened on his round cheeks.",
+      "para_break": true
+    },
+    {
+      "start": 1944.6,
+      "end": 1946.12,
+      "text": "His fingers jerked as he took out",
+      "para_break": true
+    },
+    {
+      "start": 1946.2,
+      "end": 1947.64,
+      "text": "a gold pocket-knife and opened it."
+    },
+    {
+      "start": 1948.608,
+      "end": 1950.6,
+      "text": "Cairo and the girl stood close beside him,",
+      "para_break": true
+    },
+    {
+      "start": 1950.62,
+      "end": 1950.9,
+      "text": "on either"
+    },
+    {
+      "start": 1951.02,
+      "end": 1951.32,
+      "text": "side."
+    },
+    {
+      "start": 1952.58,
+      "end": 1953.96,
+      "text": "Spade stood back a little,",
+      "para_break": true
+    },
+    {
+      "start": 1954.1,
+      "end": 1956.32,
+      "text": "where he could watch the boy as well as the group at"
+    },
+    {
+      "start": 1956.32,
+      "end": 1956.76,
+      "text": "the table."
+    }
+  ]
+}

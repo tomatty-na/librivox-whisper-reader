@@ -1,0 +1,678 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-09",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_09_hammett.mp3",
+  "chapter_title": "Chapter 9 - The Liar",
+  "reader_name": "Mark Nelson",
+  "page_num": 3,
+  "page_total": 4,
+  "page_start_sec": 494.944,
+  "page_end_sec": 742.72,
+  "para_gap_threshold": 0.742,
+  "segments": [
+    {
+      "start": 494.944,
+      "end": 497.18,
+      "text": "Suppose I wouldn't tell you anything at all about it.",
+      "para_break": true
+    },
+    {
+      "start": 497.84,
+      "end": 498.1,
+      "text": "What would"
+    },
+    {
+      "start": 498.1,
+      "end": 498.72,
+      "text": "you do?\""
+    },
+    {
+      "start": 499.24,
+      "end": 500.94,
+      "text": "\"'You mean about the bird?'"
+    },
+    {
+      "start": 502.38,
+      "end": 504.0,
+      "text": "\"'I mean about the whole thing.'",
+      "para_break": true
+    },
+    {
+      "start": 505.5,
+      "end": 508.22,
+      "text": "\"'I wouldn't be too surprised,' he told her,",
+      "para_break": true
+    },
+    {
+      "start": 508.26,
+      "end": 510.38,
+      "text": "grinning so that the edges of his jaw-teeth"
+    },
+    {
+      "start": 510.38,
+      "end": 510.84,
+      "text": "were visible,"
+    },
+    {
+      "start": 511.64,
+      "end": 512.76,
+      "text": "to know what to do next.",
+      "para_break": true
+    },
+    {
+      "start": 514.272,
+      "end": 515.49,
+      "text": "\"'And what would that be?'",
+      "para_break": true
+    },
+    {
+      "start": 516.58,
+      "end": 519.46,
+      "text": "She transferred her attention from the sandwich to his face.",
+      "para_break": true
+    },
+    {
+      "start": 520.992,
+      "end": 522.08,
+      "text": "That's what I wanted to know.",
+      "para_break": true
+    },
+    {
+      "start": 522.4,
+      "end": 523.68,
+      "text": "What would you do next?\""
+    },
+    {
+      "start": 524.96,
+      "end": 525.7,
+      "text": "He shook his head.",
+      "para_break": true
+    },
+    {
+      "start": 526.848,
+      "end": 529.02,
+      "text": "Mockery rippled in a smile on her face.",
+      "para_break": true
+    },
+    {
+      "start": 530.24,
+      "end": 531.62,
+      "text": "Something wild and unpredictable?",
+      "para_break": true
+    },
+    {
+      "start": 532.82,
+      "end": 533.32,
+      "text": "Maybe.",
+      "para_break": true
+    },
+    {
+      "start": 534.32,
+      "end": 536.84,
+      "text": "But I don't see what you've got to gain by covering up now.",
+      "para_break": true
+    },
+    {
+      "start": 537.88,
+      "end": 539.46,
+      "text": "It's coming out bit by bit anyhow.",
+      "para_break": true
+    },
+    {
+      "start": 541.12,
+      "end": 542.64,
+      "text": "There's a lot of it that I don't know,",
+      "para_break": true
+    },
+    {
+      "start": 542.8,
+      "end": 544.26,
+      "text": "but there's some that I do,"
+    },
+    {
+      "start": 544.86,
+      "end": 546.4,
+      "text": "and some more that I can guess at."
+    },
+    {
+      "start": 546.63,
+      "end": 549.32,
+      "text": "and give me another day like this and I'll be"
+    },
+    {
+      "start": 549.32,
+      "end": 551.2,
+      "text": "knowing things about it that you don't know."
+    },
+    {
+      "start": 552.04,
+      "end": 553.84,
+      "text": "I suppose you do now,",
+      "para_break": true
+    },
+    {
+      "start": 554.06,
+      "end": 555.12,
+      "text": "she said,"
+    },
+    {
+      "start": 555.22,
+      "end": 556.5,
+      "text": "looking at her sandwich again,"
+    },
+    {
+      "start": 556.62,
+      "end": 557.72,
+      "text": "her face serious."
+    },
+    {
+      "start": 559.1,
+      "end": 559.56,
+      "text": "But,",
+      "para_break": true
+    },
+    {
+      "start": 559.6,
+      "end": 559.776,
+      "text": "oh,"
+    },
+    {
+      "start": 560.54,
+      "end": 564.6,
+      "text": "I'm so tired of it and I do so hate having to talk about it.",
+      "para_break": true
+    },
+    {
+      "start": 565.824,
+      "end": 566.16,
+      "text": "Wouldn't it,",
+      "para_break": true
+    },
+    {
+      "start": 566.68,
+      "end": 568.64,
+      "text": "wouldn't it be just as well to wait and"
+    },
+    {
+      "start": 568.64,
+      "end": 570.48,
+      "text": "let you learn about it as you say you will?"
+    },
+    {
+      "start": 570.62,
+      "end": 572.46,
+      "text": "Spade laughed."
+    },
+    {
+      "start": 573.4,
+      "end": 574.06,
+      "text": "I don't know.",
+      "para_break": true
+    },
+    {
+      "start": 574.98,
+      "end": 576.3,
+      "text": "You'll have to figure that out for yourself.",
+      "para_break": true
+    },
+    {
+      "start": 577.76,
+      "end": 579.86,
+      "text": "My way of learning is to heave a wild and",
+      "para_break": true
+    },
+    {
+      "start": 579.86,
+      "end": 581.8,
+      "text": "unpredictable monkey wrench into the machinery."
+    },
+    {
+      "start": 582.84,
+      "end": 583.6,
+      "text": "It's all right with me,",
+      "para_break": true
+    },
+    {
+      "start": 583.74,
+      "end": 586.32,
+      "text": "if you're sure none of the flying pieces will hurt you."
+    },
+    {
+      "start": 588.0,
+      "end": 589.73,
+      "text": "She moved her bare shoulders uneasily,",
+      "para_break": true
+    },
+    {
+      "start": 589.78,
+      "end": 590.66,
+      "text": "but said nothing."
+    },
+    {
+      "start": 591.36,
+      "end": 593.44,
+      "text": "For several minutes they ate in silence,"
+    },
+    {
+      "start": 593.7,
+      "end": 594.82,
+      "text": "he phlegmatically,"
+    },
+    {
+      "start": 595.08,
+      "end": 596.18,
+      "text": "she thoughtfully."
+    },
+    {
+      "start": 597.408,
+      "end": 599.42,
+      "text": "Then she said in a barely audible voice,",
+      "para_break": true
+    },
+    {
+      "start": 601.08,
+      "end": 601.98,
+      "text": "\"'I'm afraid of you,",
+      "para_break": true
+    },
+    {
+      "start": 602.42,
+      "end": 603.55,
+      "text": "and that's the truth.'"
+    },
+    {
+      "start": 604.52,
+      "end": 604.96,
+      "text": "He said,",
+      "para_break": true
+    },
+    {
+      "start": 605.12,
+      "end": 606.92,
+      "text": "\"'That's not the truth.'"
+    },
+    {
+      "start": 607.744,
+      "end": 610.76,
+      "text": "\"'It is,' she insisted in the same low voice.",
+      "para_break": true
+    },
+    {
+      "start": 612.26,
+      "end": 614.1,
+      "text": "\"'I know two men I'm afraid of,",
+      "para_break": true
+    },
+    {
+      "start": 614.12,
+      "end": 616.24,
+      "text": "and I've seen them both to-night.'"
+    },
+    {
+      "start": 616.86,
+      "end": 620.76,
+      "text": "\"'I can understand your being afraid of Cairo,' Spade said."
+    },
+    {
+      "start": 621.408,
+      "end": 622.55,
+      "text": "\"'He's out of your reach.'"
+    },
+    {
+      "start": 623.776,
+      "end": 624.38,
+      "text": "\"'And you aren't?'",
+      "para_break": true
+    },
+    {
+      "start": 625.408,
+      "end": 627.88,
+      "text": "\"'Not that way,' he said and grinned.",
+      "para_break": true
+    },
+    {
+      "start": 628.04,
+      "end": 629.86,
+      "text": "She blushed."
+    },
+    {
+      "start": 630.54,
+      "end": 632.22,
+      "text": "She picked up a slice of bread thickly"
+    },
+    {
+      "start": 632.22,
+      "end": 633.68,
+      "text": "encrusted with grey liverwurst."
+    },
+    {
+      "start": 634.54,
+      "end": 635.86,
+      "text": "She put it down on her plate.",
+      "para_break": true
+    },
+    {
+      "start": 636.84,
+      "end": 638.16,
+      "text": "She wrinkled her white forehead,",
+      "para_break": true
+    },
+    {
+      "start": 638.36,
+      "end": 639.08,
+      "text": "and she said,"
+    },
+    {
+      "start": 640.608,
+      "end": 641.64,
+      "text": "It's a black figure,",
+      "para_break": true
+    },
+    {
+      "start": 641.82,
+      "end": 642.44,
+      "text": "as you know,"
+    },
+    {
+      "start": 642.6,
+      "end": 644.0,
+      "text": "smooth and shiny,"
+    },
+    {
+      "start": 644.12,
+      "end": 644.92,
+      "text": "of a bird,"
+    },
+    {
+      "start": 645.08,
+      "end": 646.54,
+      "text": "a hawk or falcon,"
+    },
+    {
+      "start": 646.64,
+      "end": 647.58,
+      "text": "about that high."
+    },
+    {
+      "start": 648.68,
+      "end": 650.0,
+      "text": "She held her hands a foot apart.",
+      "para_break": true
+    },
+    {
+      "start": 651.66,
+      "end": 652.48,
+      "text": "What makes it important?",
+      "para_break": true
+    },
+    {
+      "start": 653.9,
+      "end": 656.22,
+      "text": "She sipped coffee and rum before she shook her head.",
+      "para_break": true
+    },
+    {
+      "start": 657.22,
+      "end": 657.76,
+      "text": "I don't know.",
+      "para_break": true
+    },
+    {
+      "start": 658.14,
+      "end": 658.54,
+      "text": "she said."
+    },
+    {
+      "start": 658.74,
+      "end": 659.96,
+      "text": "They'd never tell me."
+    },
+    {
+      "start": 660.8,
+      "end": 663.52,
+      "text": "They promised me five hundred pounds if I helped them get it.",
+      "para_break": true
+    },
+    {
+      "start": 664.48,
+      "end": 665.62,
+      "text": "Then Floyd said afterward,",
+      "para_break": true
+    },
+    {
+      "start": 665.84,
+      "end": 666.96,
+      "text": "after we'd left Joe,"
+    },
+    {
+      "start": 667.2,
+      "end": 669.32,
+      "text": "that he'd give me seven hundred and fifty."
+    },
+    {
+      "start": 670.8,
+      "end": 673.36,
+      "text": "So it must be worth more than seventy-five hundred dollars,",
+      "para_break": true
+    },
+    {
+      "start": 673.4,
+      "end": 673.74,
+      "text": "anyway."
+    },
+    {
+      "start": 674.82,
+      "end": 675.0,
+      "text": "Oh,",
+      "para_break": true
+    },
+    {
+      "start": 675.0,
+      "end": 675.6,
+      "text": "more than that,"
+    },
+    {
+      "start": 675.76,
+      "end": 676.58,
+      "text": "she said."
+    },
+    {
+      "start": 677.34,
+      "end": 679.7,
+      "text": "They didn't pretend that they were sharing it equally with me.",
+      "para_break": true
+    },
+    {
+      "start": 680.36,
+      "end": 682.02,
+      "text": "They were simply hiring me to help them."
+    },
+    {
+      "start": 683.1,
+      "end": 683.78,
+      "text": "To help them how?",
+      "para_break": true
+    },
+    {
+      "start": 684.87,
+      "end": 686.96,
+      "text": "She lifted the cup to her lips again.",
+      "para_break": true
+    },
+    {
+      "start": 687.52,
+      "end": 688.06,
+      "text": "Spade,"
+    },
+    {
+      "start": 688.24,
+      "end": 690.8,
+      "text": "not moving the domineering stare of his yellow-gray"
+    },
+    {
+      "start": 690.8,
+      "end": 691.8,
+      "text": "eyes from her face,"
+    },
+    {
+      "start": 692.04,
+      "end": 693.1,
+      "text": "began to make a cigarette."
+    },
+    {
+      "start": 694.24,
+      "end": 696.22,
+      "text": "Behind them the percolator bubbled on the",
+      "para_break": true
+    },
+    {
+      "start": 696.32,
+      "end": 696.56,
+      "text": "stove."
+    },
+    {
+      "start": 697.82,
+      "end": 700.52,
+      "text": "\"'To help them get it from the man who had it,'",
+      "para_break": true
+    },
+    {
+      "start": 701.22,
+      "end": 702.96,
+      "text": "she said slowly when she had lowered"
+    },
+    {
+      "start": 702.96,
+      "end": 703.46,
+      "text": "her cup."
+    },
+    {
+      "start": 704.8,
+      "end": 706.5,
+      "text": "\"'A Russian named Kamidov.'",
+      "para_break": true
+    },
+    {
+      "start": 706.84,
+      "end": 707.72,
+      "text": "\"'How?'"
+    },
+    {
+      "start": 708.1,
+      "end": 708.78,
+      "text": "\"'Oh,"
+    },
+    {
+      "start": 708.78,
+      "end": 711.14,
+      "text": "but that's not important,' she objected."
+    },
+    {
+      "start": 711.56,
+      "end": 712.56,
+      "text": "\"'And wouldn't help you.'"
+    },
+    {
+      "start": 713.62,
+      "end": 714.62,
+      "text": "She smiled impudently.",
+      "para_break": true
+    },
+    {
+      "start": 715.38,
+      "end": 717.11,
+      "text": "\"'And it's certainly none of your business.'",
+      "para_break": true
+    },
+    {
+      "start": 717.64,
+      "end": 719.74,
+      "text": "This was Unconstantinople."
+    },
+    {
+      "start": 720.86,
+      "end": 721.58,
+      "text": "She hesitated,",
+      "para_break": true
+    },
+    {
+      "start": 721.78,
+      "end": 722.38,
+      "text": "nodded,"
+    },
+    {
+      "start": 722.4,
+      "end": 722.8,
+      "text": "and said,"
+    },
+    {
+      "start": 723.34,
+      "end": 724.26,
+      "text": "\"'Marmora.'"
+    },
+    {
+      "start": 725.13,
+      "end": 727.26,
+      "text": "He waved his cigarette at her,",
+      "para_break": true
+    },
+    {
+      "start": 727.3,
+      "end": 727.66,
+      "text": "saying,"
+    },
+    {
+      "start": 728.28,
+      "end": 728.86,
+      "text": "\"'Well,"
+    },
+    {
+      "start": 728.86,
+      "end": 729.3,
+      "text": "go ahead."
+    },
+    {
+      "start": 729.64,
+      "end": 730.56,
+      "text": "What happened then?'"
+    },
+    {
+      "start": 731.54,
+      "end": 732.1,
+      "text": "\"'But that's all.",
+      "para_break": true
+    },
+    {
+      "start": 732.72,
+      "end": 733.3,
+      "text": "I've told you."
+    },
+    {
+      "start": 733.72,
+      "end": 736.28,
+      "text": "They promised me five hundred pounds to help them,"
+    },
+    {
+      "start": 736.36,
+      "end": 737.04,
+      "text": "and I did,"
+    },
+    {
+      "start": 737.6,
+      "end": 738.78,
+      "text": "and then we found that Joel"
+    },
+    {
+      "start": 738.86,
+      "end": 740.2,
+      "text": "Cairo meant to desert us,"
+    },
+    {
+      "start": 740.28,
+      "end": 742.72,
+      "text": "taking the Falcon with him and leaving us nothing."
+    }
+  ]
+}

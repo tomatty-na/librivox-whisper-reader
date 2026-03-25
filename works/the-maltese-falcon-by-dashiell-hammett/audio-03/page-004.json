@@ -1,0 +1,474 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-03",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_03_hammett.mp3",
+  "chapter_title": "Chapter 3 - Three Women",
+  "reader_name": "Mark Nelson",
+  "page_num": 4,
+  "page_total": 4,
+  "page_start_sec": 741.08,
+  "page_end_sec": 918.6,
+  "para_gap_threshold": 0.755,
+  "segments": [
+    {
+      "start": 741.08,
+      "end": 741.84,
+      "text": "Surely."
+    },
+    {
+      "start": 743.6,
+      "end": 745.58,
+      "text": "A Miss Wonderly checked out this morning.",
+      "para_break": true
+    },
+    {
+      "start": 746.592,
+      "end": 747.64,
+      "text": "I'd like to know the details.",
+      "para_break": true
+    },
+    {
+      "start": 749.28,
+      "end": 749.6,
+      "text": "Come along,",
+      "para_break": true
+    },
+    {
+      "start": 749.92,
+      "end": 750.64,
+      "text": "Freed said,"
+    },
+    {
+      "start": 750.79,
+      "end": 752.4,
+      "text": "and we'll see what we can learn."
+    },
+    {
+      "start": 754.208,
+      "end": 755.12,
+      "text": "Spade stood still,",
+      "para_break": true
+    },
+    {
+      "start": 755.26,
+      "end": 756.12,
+      "text": "shaking his head."
+    },
+    {
+      "start": 757.26,
+      "end": 758.64,
+      "text": "I don't want to show in it,",
+      "para_break": true
+    },
+    {
+      "start": 758.76,
+      "end": 759.46,
+      "text": "he said."
+    },
+    {
+      "start": 760.576,
+      "end": 763.36,
+      "text": "Freed nodded his sleek head and went out of the alcove.",
+      "para_break": true
+    },
+    {
+      "start": 764.064,
+      "end": 764.7,
+      "text": "In the lobby,"
+    },
+    {
+      "start": 764.86,
+      "end": 767.1,
+      "text": "he halted suddenly and returned to Spade."
+    },
+    {
+      "start": 768.64,
+      "end": 771.88,
+      "text": "\"'Berryman was the house detective on duty last night,' he said.",
+      "para_break": true
+    },
+    {
+      "start": 772.512,
+      "end": 773.84,
+      "text": "\"'He's sure to have seen Archer."
+    },
+    {
+      "start": 774.26,
+      "end": 776.576,
+      "text": "Shall I caution him not to mention it?'"
+    },
+    {
+      "start": 777.888,
+      "end": 780.24,
+      "text": "Spade looked at Freed from the corners of his eyes.",
+      "para_break": true
+    },
+    {
+      "start": 781.696,
+      "end": 782.06,
+      "text": "\"'Better not,",
+      "para_break": true
+    },
+    {
+      "start": 782.14,
+      "end": 782.5,
+      "text": "Freed."
+    },
+    {
+      "start": 783.04,
+      "end": 785.12,
+      "text": "That won't make any difference as long as"
+    },
+    {
+      "start": 785.12,
+      "end": 787.14,
+      "text": "there's no connection shown with this Wonderly."
+    },
+    {
+      "start": 788.096,
+      "end": 788.98,
+      "text": "Berryman's all right,",
+      "para_break": true
+    },
+    {
+      "start": 789.12,
+      "end": 790.48,
+      "text": "but he likes to talk,"
+    },
+    {
+      "start": 791.14,
+      "end": 794.02,
+      "text": "and I'd rather he didn't think there was anything to be kept quiet.'"
+    },
+    {
+      "start": 795.232,
+      "end": 796.78,
+      "text": "Freed nodded again and went away.",
+      "para_break": true
+    },
+    {
+      "start": 798.368,
+      "end": 799.84,
+      "text": "Fifteen minutes later he returned.",
+      "para_break": true
+    },
+    {
+      "start": 801.46,
+      "end": 802.82,
+      "text": "She came here last Tuesday,",
+      "para_break": true
+    },
+    {
+      "start": 803.04,
+      "end": 804.48,
+      "text": "registering from New York."
+    },
+    {
+      "start": 805.22,
+      "end": 806.16,
+      "text": "She hadn't a trunk,"
+    },
+    {
+      "start": 806.3,
+      "end": 807.14,
+      "text": "only some bags."
+    },
+    {
+      "start": 808.48,
+      "end": 810.7,
+      "text": "There were no phone calls charged to her room,",
+      "para_break": true
+    },
+    {
+      "start": 811.2,
+      "end": 813.38,
+      "text": "and she doesn't seem to have gotten much mail,"
+    },
+    {
+      "start": 813.44,
+      "end": 813.88,
+      "text": "if any."
+    },
+    {
+      "start": 814.88,
+      "end": 816.4,
+      "text": "The only visitor I could learn about",
+      "para_break": true
+    },
+    {
+      "start": 816.4,
+      "end": 819.2,
+      "text": "was a tall dark man of thirty-six or so."
+    },
+    {
+      "start": 820.32,
+      "end": 822.22,
+      "text": "They seemed to have been together a lot.",
+      "para_break": true
+    },
+    {
+      "start": 823.66,
+      "end": 825.78,
+      "text": "She went out at half-past nine this morning,",
+      "para_break": true
+    },
+    {
+      "start": 826.12,
+      "end": 827.52,
+      "text": "came back an hour later,"
+    },
+    {
+      "start": 827.7,
+      "end": 828.58,
+      "text": "paid her bill,"
+    },
+    {
+      "start": 828.78,
+      "end": 830.84,
+      "text": "and had her bags carried out to a car."
+    },
+    {
+      "start": 831.84,
+      "end": 834.58,
+      "text": "The boy who carried them says it was a Nash touring car,",
+      "para_break": true
+    },
+    {
+      "start": 835.328,
+      "end": 836.58,
+      "text": "probably a hired car."
+    },
+    {
+      "start": 837.44,
+      "end": 838.58,
+      "text": "She left a forwarding address,",
+      "para_break": true
+    },
+    {
+      "start": 838.88,
+      "end": 839.7,
+      "text": "the Ambassador,"
+    },
+    {
+      "start": 839.92,
+      "end": 840.46,
+      "text": "Los Angeles."
+    },
+    {
+      "start": 842.08,
+      "end": 842.56,
+      "text": "Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 843.44,
+      "end": 843.88,
+      "text": "Thanks a lot,",
+      "para_break": true
+    },
+    {
+      "start": 843.92,
+      "end": 844.22,
+      "text": "Freed,"
+    },
+    {
+      "start": 844.3,
+      "end": 845.54,
+      "text": "and left the St."
+    },
+    {
+      "start": 845.72,
+      "end": 845.94,
+      "text": "Mark."
+    },
+    {
+      "start": 847.67,
+      "end": 849.72,
+      "text": "When Spade returned to his office,",
+      "para_break": true
+    },
+    {
+      "start": 850.144,
+      "end": 852.4,
+      "text": "Effie Perrine stopped typing a letter to tell him,"
+    },
+    {
+      "start": 853.2,
+      "end": 854.22,
+      "text": "Your friend Dundee was in.",
+      "para_break": true
+    },
+    {
+      "start": 854.38,
+      "end": 856.46,
+      "text": "He wanted to look at your guns."
+    },
+    {
+      "start": 857.42,
+      "end": 857.74,
+      "text": "And?",
+      "para_break": true
+    },
+    {
+      "start": 858.26,
+      "end": 860.44,
+      "text": "I told him to come back when you were here."
+    },
+    {
+      "start": 861.38,
+      "end": 861.82,
+      "text": "Good girl.",
+      "para_break": true
+    },
+    {
+      "start": 862.6,
+      "end": 863.44,
+      "text": "If he comes back,",
+      "para_break": true
+    },
+    {
+      "start": 863.48,
+      "end": 864.4,
+      "text": "let him see them."
+    },
+    {
+      "start": 865.632,
+      "end": 867.2,
+      "text": "And Miss Wonderly called up.",
+      "para_break": true
+    },
+    {
+      "start": 868.384,
+      "end": 869.08,
+      "text": "It's about time.",
+      "para_break": true
+    },
+    {
+      "start": 869.54,
+      "end": 870.32,
+      "text": "What did she say?"
+    },
+    {
+      "start": 871.48,
+      "end": 872.94,
+      "text": "She wants you to come to see her.",
+      "para_break": true
+    },
+    {
+      "start": 873.696,
+      "end": 875.7,
+      "text": "The girl picked up a slip of paper from her",
+      "para_break": true
+    },
+    {
+      "start": 875.7,
+      "end": 877.94,
+      "text": "desk and read the memorandum penciled on it."
+    },
+    {
+      "start": 878.976,
+      "end": 881.0,
+      "text": "She's at the Coronet on California Street,",
+      "para_break": true
+    },
+    {
+      "start": 881.2,
+      "end": 882.32,
+      "text": "apartment 1001."
+    },
+    {
+      "start": 882.82,
+      "end": 885.888,
+      "text": "\"'You're to ask for Miss LeBlanc.'"
+    },
+    {
+      "start": 887.008,
+      "end": 887.52,
+      "text": "Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 888.32,
+      "end": 889.98,
+      "text": "\"'Give me,' and held out his hand.",
+      "para_break": true
+    },
+    {
+      "start": 891.42,
+      "end": 893.02,
+      "text": "When she had given him the memorandum,",
+      "para_break": true
+    },
+    {
+      "start": 893.18,
+      "end": 894.32,
+      "text": "he took out his lighter,"
+    },
+    {
+      "start": 894.48,
+      "end": 895.68,
+      "text": "snapped on the flame,"
+    },
+    {
+      "start": 896.192,
+      "end": 897.58,
+      "text": "applied it to the slip of paper,"
+    },
+    {
+      "start": 897.78,
+      "end": 901.5,
+      "text": "held the paper till all but one corner was curling black ash,"
+    },
+    {
+      "start": 902.176,
+      "end": 903.6,
+      "text": "dropped it on the linoleum floor,"
+    },
+    {
+      "start": 903.8,
+      "end": 905.54,
+      "text": "and mashed it under his shoe sole."
+    },
+    {
+      "start": 906.18,
+      "end": 908.46,
+      "text": "The girl watched him suspiciously."
+    },
+    {
+      "start": 909.58,
+      "end": 910.38,
+      "text": "He grinned at her,",
+      "para_break": true
+    },
+    {
+      "start": 910.56,
+      "end": 910.81,
+      "text": "said,"
+    },
+    {
+      "start": 911.872,
+      "end": 912.98,
+      "text": "that's just the way it is,",
+      "para_break": true
+    },
+    {
+      "start": 913.02,
+      "end": 913.2,
+      "text": "dear,"
+    },
+    {
+      "start": 914.06,
+      "end": 914.8,
+      "text": "and went out again.",
+      "para_break": true
+    },
+    {
+      "start": 917.7,
+      "end": 918.6,
+      "text": "End of chapter 3",
+      "para_break": true
+    }
+  ]
+}

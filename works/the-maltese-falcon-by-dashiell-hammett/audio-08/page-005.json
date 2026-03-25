@@ -1,0 +1,49 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-08",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_08_hammett.mp3",
+  "chapter_title": "Chapter 8 - Horsefeathers",
+  "reader_name": "Mark Nelson",
+  "page_num": 5,
+  "page_total": 5,
+  "page_start_sec": 979.46,
+  "page_end_sec": 993.62,
+  "para_gap_threshold": 0.672,
+  "segments": [
+    {
+      "start": 979.46,
+      "end": 980.12,
+      "text": "Got no response,",
+      "para_break": true
+    },
+    {
+      "start": 980.52,
+      "end": 981.26,
+      "text": "sighed,"
+    },
+    {
+      "start": 981.26,
+      "end": 982.44,
+      "text": "and followed the others out."
+    },
+    {
+      "start": 983.712,
+      "end": 986.61,
+      "text": "Spade went after them as far as the bend in the passageway,",
+      "para_break": true
+    },
+    {
+      "start": 987.04,
+      "end": 989.9,
+      "text": "where he stood until Tom had closed the corridor door."
+    },
+    {
+      "start": 992.78,
+      "end": 993.62,
+      "text": "End of chapter 8",
+      "para_break": true
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-02",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_02_hammett.mp3",
+  "chapter_title": "Chapter 2 - Death in the Fog",
+  "reader_name": "Mark Nelson",
+  "page_num": 4,
+  "page_total": 7,
+  "page_start_sec": 734.176,
+  "page_end_sec": 975.46,
+  "para_gap_threshold": 0.753,
+  "segments": [
+    {
+      "start": 734.176,
+      "end": 736.8,
+      "text": "Spade sighed again and moved toward the corridor door.",
+      "para_break": true
+    },
+    {
+      "start": 737.34,
+      "end": 737.99,
+      "text": "Soft,"
+    },
+    {
+      "start": 738.3,
+      "end": 740.76,
+      "text": "heavy footsteps sounded on the carpeted floor outside,"
+    },
+    {
+      "start": 741.14,
+      "end": 742.88,
+      "text": "the footsteps of two men."
+    },
+    {
+      "start": 743.84,
+      "end": 745.1,
+      "text": "Spade's face brightened.",
+      "para_break": true
+    },
+    {
+      "start": 745.78,
+      "end": 747.56,
+      "text": "His eyes were no longer harassed."
+    },
+    {
+      "start": 747.74,
+      "end": 749.2,
+      "text": "He opened the door quickly."
+    },
+    {
+      "start": 749.6,
+      "end": 749.7,
+      "text": "Hello,"
+    },
+    {
+      "start": 750.8,
+      "end": 751.06,
+      "text": "Tom,",
+      "para_break": true
+    },
+    {
+      "start": 751.24,
+      "end": 753.8,
+      "text": "he said to the barrel-bellied tall detective"
+    },
+    {
+      "start": 753.8,
+      "end": 755.62,
+      "text": "with whom he had talked in Burrett Street,"
+    },
+    {
+      "start": 756.26,
+      "end": 756.42,
+      "text": "and,"
+    },
+    {
+      "start": 756.44,
+      "end": 757.06,
+      "text": "hello,"
+    },
+    {
+      "start": 757.1,
+      "end": 757.4,
+      "text": "Lieutenant,"
+    },
+    {
+      "start": 757.96,
+      "end": 759.0,
+      "text": "to the man beside him."
+    },
+    {
+      "start": 759.64,
+      "end": 759.94,
+      "text": "Come in."
+    },
+    {
+      "start": 760.49,
+      "end": 761.98,
+      "text": "They nodded together,"
+    },
+    {
+      "start": 762.28,
+      "end": 763.52,
+      "text": "neither saying anything,"
+    },
+    {
+      "start": 763.72,
+      "end": 764.46,
+      "text": "and came in."
+    },
+    {
+      "start": 765.344,
+      "end": 767.92,
+      "text": "Spade shut the door and ushered them back into his bedroom.",
+      "para_break": true
+    },
+    {
+      "start": 769.152,
+      "end": 771.3,
+      "text": "Tom sat on an end of the sofa by the window,",
+      "para_break": true
+    },
+    {
+      "start": 771.48,
+      "end": 773.96,
+      "text": "the Lieutenant sat on a chair beside the table."
+    },
+    {
+      "start": 774.68,
+      "end": 778.16,
+      "text": "The lieutenant was a compactly built man with"
+    },
+    {
+      "start": 778.16,
+      "end": 780.52,
+      "text": "a round head under short-cut grizzled hair"
+    },
+    {
+      "start": 781.16,
+      "end": 783.94,
+      "text": "and a square face behind a short-cut grizzled mustache."
+    },
+    {
+      "start": 785.44,
+      "end": 787.92,
+      "text": "A five-dollar gold piece was pinned to his necktie,",
+      "para_break": true
+    },
+    {
+      "start": 788.58,
+      "end": 789.45,
+      "text": "and there was a small,"
+    },
+    {
+      "start": 789.54,
+      "end": 790.0,
+      "text": "elaborate,"
+    },
+    {
+      "start": 790.2,
+      "end": 793.0,
+      "text": "diamond-set Secret Society emblem on his lapel."
+    },
+    {
+      "start": 794.528,
+      "end": 796.66,
+      "text": "Spade brought two wine-glasses in from the kitchen,",
+      "para_break": true
+    },
+    {
+      "start": 796.86,
+      "end": 798.84,
+      "text": "filled them and his own with Bacardi,"
+    },
+    {
+      "start": 799.32,
+      "end": 801.06,
+      "text": "gave one to each of his guests,"
+    },
+    {
+      "start": 801.16,
+      "end": 803.48,
+      "text": "and sat down with his on the side of the bed."
+    },
+    {
+      "start": 804.64,
+      "end": 806.88,
+      "text": "Spade's face was placid and incurious.",
+      "para_break": true
+    },
+    {
+      "start": 807.616,
+      "end": 809.16,
+      "text": "He raised his glass and said,"
+    },
+    {
+      "start": 809.888,
+      "end": 810.82,
+      "text": "Success to crime,"
+    },
+    {
+      "start": 811.48,
+      "end": 812.32,
+      "text": "and drank it down."
+    },
+    {
+      "start": 813.6,
+      "end": 814.78,
+      "text": "Tom emptied his glass,",
+      "para_break": true
+    },
+    {
+      "start": 815.04,
+      "end": 816.5,
+      "text": "set it on the floor beside him,"
+    },
+    {
+      "start": 816.54,
+      "end": 818.98,
+      "text": "and wiped his mouth with the back of a muddy finger."
+    },
+    {
+      "start": 820.06,
+      "end": 822.06,
+      "text": "He stared to the foot of the bed as if",
+      "para_break": true
+    },
+    {
+      "start": 822.06,
+      "end": 823.36,
+      "text": "he were trying to remember something"
+    },
+    {
+      "start": 823.36,
+      "end": 825.22,
+      "text": "of which it vaguely reminded him."
+    },
+    {
+      "start": 826.4,
+      "end": 828.84,
+      "text": "The lieutenant looked at his glass for a dozen seconds,",
+      "para_break": true
+    },
+    {
+      "start": 829.08,
+      "end": 831.06,
+      "text": "took a very small sip of the rum,"
+    },
+    {
+      "start": 831.24,
+      "end": 833.32,
+      "text": "and put the glass on the table at his elbow."
+    },
+    {
+      "start": 833.9,
+      "end": 836.12,
+      "text": "He examined the room with hard,"
+    },
+    {
+      "start": 836.22,
+      "end": 836.98,
+      "text": "deliberate eyes"
+    },
+    {
+      "start": 837.2,
+      "end": 838.36,
+      "text": "and then looked at Tom."
+    },
+    {
+      "start": 839.872,
+      "end": 841.64,
+      "text": "Tom moved uncomfortably on the sofa",
+      "para_break": true
+    },
+    {
+      "start": 841.88,
+      "end": 843.22,
+      "text": "and without looking up asked,"
+    },
+    {
+      "start": 843.94,
+      "end": 846.04,
+      "text": "Did you break the news to Miles's wife,"
+    },
+    {
+      "start": 846.18,
+      "end": 846.36,
+      "text": "Sam?"
+    },
+    {
+      "start": 847.616,
+      "end": 848.14,
+      "text": "Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 848.32,
+      "end": 849.2,
+      "text": "Uh-huh."
+    },
+    {
+      "start": 850.432,
+      "end": 851.1,
+      "text": "How'd she take it?",
+      "para_break": true
+    },
+    {
+      "start": 852.192,
+      "end": 853.12,
+      "text": "Spade shook his head.",
+      "para_break": true
+    },
+    {
+      "start": 854.18,
+      "end": 855.7,
+      "text": "I don't know anything about women.",
+      "para_break": true
+    },
+    {
+      "start": 856.992,
+      "end": 857.98,
+      "text": "Tom said softly,",
+      "para_break": true
+    },
+    {
+      "start": 858.78,
+      "end": 859.9,
+      "text": "The hell you don't.",
+      "para_break": true
+    },
+    {
+      "start": 861.22,
+      "end": 864.08,
+      "text": "The lieutenant put his hands on his knees and leaned forward.",
+      "para_break": true
+    },
+    {
+      "start": 864.7,
+      "end": 865.36,
+      "text": "His"
+    },
+    {
+      "start": 865.5,
+      "end": 868.84,
+      "text": "greenish eyes looked at Spade with a peculiarly rigid stare,"
+    },
+    {
+      "start": 869.1,
+      "end": 869.78,
+      "text": "as if"
+    },
+    {
+      "start": 869.86,
+      "end": 871.72,
+      "text": "their focus was a matter of mechanics,"
+    },
+    {
+      "start": 872.04,
+      "end": 873.9,
+      "text": "to be changed only by pulling"
+    },
+    {
+      "start": 873.9,
+      "end": 875.44,
+      "text": "a lever or pressing a button."
+    },
+    {
+      "start": 877.1,
+      "end": 879.68,
+      "text": "\"'What kind of a gun do you carry?' he asked.",
+      "para_break": true
+    },
+    {
+      "start": 880.57,
+      "end": 881.02,
+      "text": "\"'None.",
+      "para_break": true
+    },
+    {
+      "start": 881.58,
+      "end": 882.52,
+      "text": "I don't like them much."
+    },
+    {
+      "start": 883.46,
+      "end": 884.42,
+      "text": "There are some in the office,",
+      "para_break": true
+    },
+    {
+      "start": 884.54,
+      "end": 884.68,
+      "text": "of"
+    },
+    {
+      "start": 884.78,
+      "end": 885.14,
+      "text": "course.'"
+    },
+    {
+      "start": 886.208,
+      "end": 888.52,
+      "text": "\"'I'd like to see one of them,' the lieutenant said.",
+      "para_break": true
+    },
+    {
+      "start": 889.02,
+      "end": 891.18,
+      "text": "You don't happen to have one here?\""
+    },
+    {
+      "start": 891.78,
+      "end": 892.12,
+      "text": "No."
+    },
+    {
+      "start": 892.74,
+      "end": 894.0,
+      "text": "You sure of that?"
+    },
+    {
+      "start": 895.12,
+      "end": 895.54,
+      "text": "Look around.",
+      "para_break": true
+    },
+    {
+      "start": 896.736,
+      "end": 899.2,
+      "text": "Spade smiled and waved his empty glass a little.",
+      "para_break": true
+    },
+    {
+      "start": 899.82,
+      "end": 901.62,
+      "text": "Turn the dump upside down if you want."
+    },
+    {
+      "start": 902.32,
+      "end": 903.24,
+      "text": "I won't squawk,"
+    },
+    {
+      "start": 903.38,
+      "end": 904.82,
+      "text": "if you've got a search warrant."
+    },
+    {
+      "start": 906.24,
+      "end": 907.18,
+      "text": "Tom protested.",
+      "para_break": true
+    },
+    {
+      "start": 907.8,
+      "end": 908.12,
+      "text": "Oh,"
+    },
+    {
+      "start": 908.12,
+      "end": 908.42,
+      "text": "hell,"
+    },
+    {
+      "start": 908.52,
+      "end": 908.78,
+      "text": "Sam!"
+    },
+    {
+      "start": 910.272,
+      "end": 913.68,
+      "text": "Spade put his glass on the table and stood up facing the lieutenant.",
+      "para_break": true
+    },
+    {
+      "start": 915.3,
+      "end": 916.04,
+      "text": "What do you want,",
+      "para_break": true
+    },
+    {
+      "start": 916.16,
+      "end": 916.44,
+      "text": "Dundee?"
+    },
+    {
+      "start": 916.64,
+      "end": 919.66,
+      "text": "He asked in a voice hard and cold as his eyes."
+    },
+    {
+      "start": 920.832,
+      "end": 922.22,
+      "text": "Lieutenant Dundee's eyes had moved",
+      "para_break": true
+    },
+    {
+      "start": 922.22,
+      "end": 924.18,
+      "text": "to maintain their focus on Spade's."
+    },
+    {
+      "start": 924.992,
+      "end": 926.2,
+      "text": "Only his eyes had moved.",
+      "para_break": true
+    },
+    {
+      "start": 927.46,
+      "end": 929.48,
+      "text": "Tom shifted his bulk on the sofa again,",
+      "para_break": true
+    },
+    {
+      "start": 929.98,
+      "end": 931.6,
+      "text": "blew a deep breath out through his nose,"
+    },
+    {
+      "start": 931.6,
+      "end": 932.74,
+      "text": "and growled plaintively,"
+    },
+    {
+      "start": 934.0,
+      "end": 935.28,
+      "text": "We're not wanting to make any trouble,",
+      "para_break": true
+    },
+    {
+      "start": 935.4,
+      "end": 935.62,
+      "text": "Sam."
+    },
+    {
+      "start": 936.66,
+      "end": 937.3,
+      "text": "Spade,",
+      "para_break": true
+    },
+    {
+      "start": 937.4,
+      "end": 938.14,
+      "text": "ignoring Tom,"
+    },
+    {
+      "start": 938.3,
+      "end": 939.0,
+      "text": "said to Dundee,"
+    },
+    {
+      "start": 939.6,
+      "end": 940.14,
+      "text": "Well,"
+    },
+    {
+      "start": 940.3,
+      "end": 941.28,
+      "text": "what do you want?"
+    },
+    {
+      "start": 942.08,
+      "end": 942.56,
+      "text": "Talk turkey.",
+      "para_break": true
+    },
+    {
+      "start": 943.22,
+      "end": 944.68,
+      "text": "Who in hell do you think you are,"
+    },
+    {
+      "start": 944.74,
+      "end": 946.34,
+      "text": "coming in here trying to rope me?"
+    },
+    {
+      "start": 947.94,
+      "end": 950.18,
+      "text": "\"'All right,' Dundee said in his chest.",
+      "para_break": true
+    },
+    {
+      "start": 950.92,
+      "end": 952.256,
+      "text": "\"'Now sit down and listen.'"
+    },
+    {
+      "start": 953.344,
+      "end": 957.06,
+      "text": "\"'I'll sit or stand as I damned please,' said Spade,",
+      "para_break": true
+    },
+    {
+      "start": 957.18,
+      "end": 957.76,
+      "text": "not moving."
+    },
+    {
+      "start": 959.22,
+      "end": 959.96,
+      "text": "\"'For God's sake,",
+      "para_break": true
+    },
+    {
+      "start": 960.04,
+      "end": 960.95,
+      "text": "be reasonable,'"
+    },
+    {
+      "start": 961.664,
+      "end": 962.14,
+      "text": "Tom begged."
+    },
+    {
+      "start": 962.752,
+      "end": 964.38,
+      "text": "\"'What's the use of us having a row?"
+    },
+    {
+      "start": 965.56,
+      "end": 967.52,
+      "text": "\"'If you want to know why we didn't talk turkey,",
+      "para_break": true
+    },
+    {
+      "start": 967.9,
+      "end": 968.56,
+      "text": "\"'it's because,"
+    },
+    {
+      "start": 968.72,
+      "end": 970.76,
+      "text": "when I asked you who this Thursby was,"
+    },
+    {
+      "start": 970.94,
+      "end": 973.04,
+      "text": "\"'you as good as told me it was none of my business."
+    },
+    {
+      "start": 974.02,
+      "end": 975.22,
+      "text": "\"'You can't treat us that way,",
+      "para_break": true
+    },
+    {
+      "start": 975.26,
+      "end": 975.46,
+      "text": "Sam."
+    }
+  ]
+}

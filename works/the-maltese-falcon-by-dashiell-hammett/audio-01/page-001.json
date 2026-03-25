@@ -1,0 +1,646 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-01",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_01_hammett.mp3",
+  "chapter_title": "Chapter 1 - Spade and Archer",
+  "reader_name": "Mark Nelson",
+  "page_num": 1,
+  "page_total": 4,
+  "page_start_sec": 17.37,
+  "page_end_sec": 265.06,
+  "para_gap_threshold": 0.74,
+  "segments": [
+    {
+      "start": 17.37,
+      "end": 18.54,
+      "text": "CHAPTER I."
+    },
+    {
+      "start": 18.54,
+      "end": 20.28,
+      "text": "SPADE AND ARCHER"
+    },
+    {
+      "start": 22.528,
+      "end": 24.66,
+      "text": "SAMUEL SPADE'S JAW WAS LONG AND BONY,",
+      "para_break": true
+    },
+    {
+      "start": 24.84,
+      "end": 28.58,
+      "text": "HIS CHIN A JUDDING VEE UNDER THE MORE FLEXIBLE VEE OF HIS"
+    },
+    {
+      "start": 28.72,
+      "end": 28.84,
+      "text": "mouth."
+    },
+    {
+      "start": 29.8,
+      "end": 31.62,
+      "text": "His nostrils curved back to make another,",
+      "para_break": true
+    },
+    {
+      "start": 31.7,
+      "end": 32.38,
+      "text": "smaller V."
+    },
+    {
+      "start": 33.42,
+      "end": 34.96,
+      "text": "His yellow-gray eyes were horizontal."
+    },
+    {
+      "start": 36.52,
+      "end": 39.22,
+      "text": "The V motif was picked up again by thickish brows",
+      "para_break": true
+    },
+    {
+      "start": 39.22,
+      "end": 42.0,
+      "text": "rising outward from twin creases above a hooked"
+    },
+    {
+      "start": 42.1,
+      "end": 42.3,
+      "text": "nose,"
+    },
+    {
+      "start": 42.6,
+      "end": 45.44,
+      "text": "and his pale brown hair grew down from high"
+    },
+    {
+      "start": 45.44,
+      "end": 47.92,
+      "text": "flat temples in a point on his forehead."
+    },
+    {
+      "start": 48.66,
+      "end": 51.3,
+      "text": "He looked rather pleasantly like a blonde Satan."
+    },
+    {
+      "start": 53.02,
+      "end": 54.24,
+      "text": "He said to Effie Perrine,",
+      "para_break": true
+    },
+    {
+      "start": 54.44,
+      "end": 54.592,
+      "text": "Yes,"
+    },
+    {
+      "start": 55.36,
+      "end": 56.064,
+      "text": "sweetheart?\"",
+      "para_break": true
+    },
+    {
+      "start": 57.08,
+      "end": 61.06,
+      "text": "She was a lanky sunburned girl whose tan dress of thin woolen stuff",
+      "para_break": true
+    },
+    {
+      "start": 61.24,
+      "end": 63.18,
+      "text": "clung to her with an effect of dampness."
+    },
+    {
+      "start": 63.66,
+      "end": 65.44,
+      "text": "Her eyes were brown and playful"
+    },
+    {
+      "start": 65.66,
+      "end": 67.02,
+      "text": "in a shiny boyish face."
+    },
+    {
+      "start": 68.28,
+      "end": 69.88,
+      "text": "She finished shutting the door behind her,",
+      "para_break": true
+    },
+    {
+      "start": 69.96,
+      "end": 70.92,
+      "text": "leaned against it,"
+    },
+    {
+      "start": 70.96,
+      "end": 71.4,
+      "text": "and said,"
+    },
+    {
+      "start": 72.64,
+      "end": 73.94,
+      "text": "\"'There's a girl wants to see you.",
+      "para_break": true
+    },
+    {
+      "start": 74.38,
+      "end": 75.4,
+      "text": "Her name's Wonderly.'"
+    },
+    {
+      "start": 76.38,
+      "end": 76.98,
+      "text": "\"'A customer?'",
+      "para_break": true
+    },
+    {
+      "start": 77.7,
+      "end": 78.26,
+      "text": "\"'I guess so."
+    },
+    {
+      "start": 78.72,
+      "end": 79.98,
+      "text": "You'll want to see her anyway."
+    },
+    {
+      "start": 80.3,
+      "end": 81.66,
+      "text": "She's a knock-out.'"
+    },
+    {
+      "start": 82.784,
+      "end": 83.36,
+      "text": "\"'Shoe her in,",
+      "para_break": true
+    },
+    {
+      "start": 83.46,
+      "end": 84.78,
+      "text": "darling,' said Spade."
+    },
+    {
+      "start": 85.28,
+      "end": 86.368,
+      "text": "\"'Shoe her in.'"
+    },
+    {
+      "start": 87.648,
+      "end": 89.16,
+      "text": "Effie Perrine opened the door again,",
+      "para_break": true
+    },
+    {
+      "start": 89.4,
+      "end": 91.36,
+      "text": "following it back into the outer office,"
+    },
+    {
+      "start": 91.74,
+      "end": 93.58,
+      "text": "standing with a hand on the knob while saying,"
+    },
+    {
+      "start": 94.5,
+      "end": 95.12,
+      "text": "\"'Will you come in,",
+      "para_break": true
+    },
+    {
+      "start": 95.16,
+      "end": 95.71,
+      "text": "Miss Wenderly?'"
+    },
+    {
+      "start": 95.96,
+      "end": 97.32,
+      "text": "A voice said,"
+    },
+    {
+      "start": 98.1,
+      "end": 100.66,
+      "text": "\"'Thank you,' so softly that only the",
+      "para_break": true
+    },
+    {
+      "start": 100.66,
+      "end": 102.82,
+      "text": "purest articulation made the words audible,"
+    },
+    {
+      "start": 103.32,
+      "end": 105.28,
+      "text": "and a young woman came through the doorway."
+    },
+    {
+      "start": 106.3,
+      "end": 107.22,
+      "text": "She advanced slowly,",
+      "para_break": true
+    },
+    {
+      "start": 107.42,
+      "end": 108.46,
+      "text": "with tentative steps,"
+    },
+    {
+      "start": 108.7,
+      "end": 110.92,
+      "text": "looking at Spade with cobalt-blue"
+    },
+    {
+      "start": 110.92,
+      "end": 113.28,
+      "text": "eyes that were both shy and probing."
+    },
+    {
+      "start": 114.38,
+      "end": 114.94,
+      "text": "She was tall.",
+      "para_break": true
+    },
+    {
+      "start": 115.7,
+      "end": 116.92,
+      "text": "She was pliantly slender.",
+      "para_break": true
+    },
+    {
+      "start": 117.76,
+      "end": 118.18,
+      "text": "Her erect,",
+      "para_break": true
+    },
+    {
+      "start": 118.34,
+      "end": 119.24,
+      "text": "high-breasted body,"
+    },
+    {
+      "start": 119.42,
+      "end": 120.44,
+      "text": "her long legs,"
+    },
+    {
+      "start": 120.6,
+      "end": 121.88,
+      "text": "her narrow hands and feet,"
+    },
+    {
+      "start": 121.96,
+      "end": 123.98,
+      "text": "had nowhere any angularity."
+    },
+    {
+      "start": 125.1,
+      "end": 126.84,
+      "text": "She wore two shades of blue that",
+      "para_break": true
+    },
+    {
+      "start": 126.94,
+      "end": 128.6,
+      "text": "had been selected because of her eyes."
+    },
+    {
+      "start": 129.65,
+      "end": 133.12,
+      "text": "The hair curling from under her blue hat was darkly red,",
+      "para_break": true
+    },
+    {
+      "start": 133.32,
+      "end": 135.64,
+      "text": "her full lips more brightly red."
+    },
+    {
+      "start": 136.72,
+      "end": 139.84,
+      "text": "White teeth glistened in the crescent her timid smile made.",
+      "para_break": true
+    },
+    {
+      "start": 141.216,
+      "end": 141.74,
+      "text": "Spade rose,",
+      "para_break": true
+    },
+    {
+      "start": 142.04,
+      "end": 143.8,
+      "text": "bowing and indicating with a thick"
+    },
+    {
+      "start": 143.8,
+      "end": 145.74,
+      "text": "-fingered hand the oaken armchair beside"
+    },
+    {
+      "start": 145.86,
+      "end": 146.4,
+      "text": "his desk."
+    },
+    {
+      "start": 147.42,
+      "end": 148.86,
+      "text": "He was quite six feet tall.",
+      "para_break": true
+    },
+    {
+      "start": 149.42,
+      "end": 150.78,
+      "text": "The steep,"
+    },
+    {
+      "start": 150.82,
+      "end": 153.66,
+      "text": "rounded slope of his shoulders made his body seem"
+    },
+    {
+      "start": 153.8,
+      "end": 154.58,
+      "text": "almost conical,"
+    },
+    {
+      "start": 154.72,
+      "end": 156.66,
+      "text": "no broader than it was thick,"
+    },
+    {
+      "start": 156.84,
+      "end": 159.7,
+      "text": "and kept his freshly pressed gray coat from fitting"
+    },
+    {
+      "start": 159.88,
+      "end": 160.36,
+      "text": "very well."
+    },
+    {
+      "start": 161.98,
+      "end": 162.94,
+      "text": "Miss Wonderly murmured,",
+      "para_break": true
+    },
+    {
+      "start": 163.36,
+      "end": 164.18,
+      "text": "Thank you,"
+    },
+    {
+      "start": 164.26,
+      "end": 165.58,
+      "text": "softly as before,"
+    },
+    {
+      "start": 165.86,
+      "end": 168.28,
+      "text": "and sat down on the edge of the chair's wooden seat."
+    },
+    {
+      "start": 169.568,
+      "end": 171.16,
+      "text": "Spade sank into his swivel-chair,",
+      "para_break": true
+    },
+    {
+      "start": 171.42,
+      "end": 173.02,
+      "text": "made a quarter-turn to face her,"
+    },
+    {
+      "start": 173.06,
+      "end": 174.0,
+      "text": "and smiled politely."
+    },
+    {
+      "start": 174.52,
+      "end": 177.12,
+      "text": "He smiled without separating his lips."
+    },
+    {
+      "start": 177.36,
+      "end": 179.76,
+      "text": "All the V's in his face grew longer."
+    },
+    {
+      "start": 181.36,
+      "end": 183.58,
+      "text": "The tappity-tap-tap and the thin bell and",
+      "para_break": true
+    },
+    {
+      "start": 183.58,
+      "end": 184.54,
+      "text": "muffled whir of F."
+    },
+    {
+      "start": 184.6,
+      "end": 184.68,
+      "text": "E."
+    },
+    {
+      "start": 184.7,
+      "end": 185.44,
+      "text": "Pryne's typewriting"
+    },
+    {
+      "start": 185.72,
+      "end": 187.22,
+      "text": "came through the closed door."
+    },
+    {
+      "start": 188.448,
+      "end": 191.1,
+      "text": "Somewhere in a neighboring office a power-driven machine",
+      "para_break": true
+    },
+    {
+      "start": 191.36,
+      "end": 192.22,
+      "text": "vibrated dully."
+    },
+    {
+      "start": 192.6,
+      "end": 195.82,
+      "text": "On Spade's desk a limp cigarette smoldered"
+    },
+    {
+      "start": 195.82,
+      "end": 197.66,
+      "text": "in a brass tray filled with the remains"
+    },
+    {
+      "start": 197.88,
+      "end": 198.52,
+      "text": "of limp cigarettes."
+    },
+    {
+      "start": 200.16,
+      "end": 201.96,
+      "text": "Ragged gray flakes of cigarette ash",
+      "para_break": true
+    },
+    {
+      "start": 201.96,
+      "end": 204.22,
+      "text": "dotted the yellow top of the desk and the"
+    },
+    {
+      "start": 204.26,
+      "end": 206.16,
+      "text": "green blotter and the papers that were there."
+    },
+    {
+      "start": 207.1,
+      "end": 207.98,
+      "text": "A buff curtain window,",
+      "para_break": true
+    },
+    {
+      "start": 208.34,
+      "end": 209.5,
+      "text": "eight or ten inches open,"
+    },
+    {
+      "start": 209.72,
+      "end": 213.16,
+      "text": "let in from the court a current of air faintly scented with ammonia."
+    },
+    {
+      "start": 213.98,
+      "end": 217.26,
+      "text": "The ashes on the desk twitched and crawled in the current.",
+      "para_break": true
+    },
+    {
+      "start": 218.6,
+      "end": 220.22,
+      "text": "Miss Wonderly watched the twitching",
+      "para_break": true
+    },
+    {
+      "start": 220.22,
+      "end": 222.0,
+      "text": "and crawling gray flakes uneasily."
+    },
+    {
+      "start": 222.8,
+      "end": 225.04,
+      "text": "She sat stiffly on the very edge of her chair,",
+      "para_break": true
+    },
+    {
+      "start": 225.48,
+      "end": 226.9,
+      "text": "her feet flat on the floor,"
+    },
+    {
+      "start": 227.06,
+      "end": 228.76,
+      "text": "as if she were about to rise."
+    },
+    {
+      "start": 229.8,
+      "end": 232.0,
+      "text": "Her hands in dark gloves clasped a flat,",
+      "para_break": true
+    },
+    {
+      "start": 232.14,
+      "end": 233.46,
+      "text": "dark handbag in her lap."
+    },
+    {
+      "start": 234.848,
+      "end": 236.6,
+      "text": "Spade rocked back in his chair and asked,",
+      "para_break": true
+    },
+    {
+      "start": 237.24,
+      "end": 237.58,
+      "text": "Now,"
+    },
+    {
+      "start": 238.06,
+      "end": 238.96,
+      "text": "what can I do for you,"
+    },
+    {
+      "start": 239.0,
+      "end": 239.5,
+      "text": "Miss Wonderly?"
+    },
+    {
+      "start": 240.42,
+      "end": 242.52,
+      "text": "She caught her breath and looked at him.",
+      "para_break": true
+    },
+    {
+      "start": 243.34,
+      "end": 245.08,
+      "text": "She swallowed and said hurriedly,",
+      "para_break": true
+    },
+    {
+      "start": 245.96,
+      "end": 246.06,
+      "text": "\"'Could",
+      "para_break": true
+    },
+    {
+      "start": 247.04,
+      "end": 249.52,
+      "text": "you—I thought—I—that is—'",
+      "para_break": true
+    },
+    {
+      "start": 250.64,
+      "end": 253.02,
+      "text": "Then she tortured her lower lip with glistening teeth",
+      "para_break": true
+    },
+    {
+      "start": 253.02,
+      "end": 253.88,
+      "text": "and said nothing."
+    },
+    {
+      "start": 255.008,
+      "end": 256.52,
+      "text": "Only her dark eyes spoke now,",
+      "para_break": true
+    },
+    {
+      "start": 256.74,
+      "end": 257.28,
+      "text": "pleading."
+    },
+    {
+      "start": 258.752,
+      "end": 260.82,
+      "text": "Spade nodded and smiled as if he",
+      "para_break": true
+    },
+    {
+      "start": 260.9,
+      "end": 261.54,
+      "text": "understood her,"
+    },
+    {
+      "start": 262.12,
+      "end": 262.7,
+      "text": "but pleasantly,"
+    },
+    {
+      "start": 262.88,
+      "end": 265.06,
+      "text": "as if nothing really serious were involved."
+    }
+  ]
+}

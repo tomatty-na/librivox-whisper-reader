@@ -1,0 +1,671 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-14",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_14_hammett.mp3",
+  "chapter_title": "Chapter 14 - La Paloma",
+  "reader_name": "Mark Nelson",
+  "page_num": 1,
+  "page_total": 5,
+  "page_start_sec": 8.62,
+  "page_end_sec": 250.74,
+  "para_gap_threshold": 0.707,
+  "segments": [
+    {
+      "start": 8.62,
+      "end": 10.88,
+      "text": "CHAPTER XIV."
+    },
+    {
+      "start": 11.58,
+      "end": 12.36,
+      "text": "LA PALOMA"
+    },
+    {
+      "start": 14.11,
+      "end": 14.76,
+      "text": "Spade,",
+      "para_break": true
+    },
+    {
+      "start": 14.88,
+      "end": 17.06,
+      "text": "coming around the corner from the elevator at"
+    },
+    {
+      "start": 17.06,
+      "end": 18.98,
+      "text": "a few minutes past six o'clock in the morning,"
+    },
+    {
+      "start": 19.3,
+      "end": 21.2,
+      "text": "saw yellow light glowing through the"
+    },
+    {
+      "start": 21.2,
+      "end": 22.9,
+      "text": "frosted glass of his office door."
+    },
+    {
+      "start": 23.78,
+      "end": 24.98,
+      "text": "He halted abruptly,",
+      "para_break": true
+    },
+    {
+      "start": 25.36,
+      "end": 26.44,
+      "text": "set his lips together,"
+    },
+    {
+      "start": 26.64,
+      "end": 27.84,
+      "text": "looked up and down the corridor,"
+    },
+    {
+      "start": 28.1,
+      "end": 30.18,
+      "text": "and advanced to the door with swift,"
+    },
+    {
+      "start": 30.34,
+      "end": 31.3,
+      "text": "silent strides."
+    },
+    {
+      "start": 32.81,
+      "end": 35.14,
+      "text": "He put his hand on the knob and turned it with",
+      "para_break": true
+    },
+    {
+      "start": 35.14,
+      "end": 37.48,
+      "text": "care that permitted neither rattle nor click."
+    },
+    {
+      "start": 38.08,
+      "end": 40.54,
+      "text": "He turned the knob until it would turn no farther."
+    },
+    {
+      "start": 41.26,
+      "end": 42.2,
+      "text": "The door was locked.",
+      "para_break": true
+    },
+    {
+      "start": 43.5,
+      "end": 44.62,
+      "text": "Holding the knob as it was,",
+      "para_break": true
+    },
+    {
+      "start": 44.78,
+      "end": 45.86,
+      "text": "he changed hands,"
+    },
+    {
+      "start": 46.08,
+      "end": 47.86,
+      "text": "taking it now in his left hand."
+    },
+    {
+      "start": 48.82,
+      "end": 51.4,
+      "text": "With his right hand he took his keys from his pocket,",
+      "para_break": true
+    },
+    {
+      "start": 51.84,
+      "end": 54.0,
+      "text": "carefully so they would not jingle against one another."
+    },
+    {
+      "start": 54.73,
+      "end": 57.24,
+      "text": "He separated the office key from the others,",
+      "para_break": true
+    },
+    {
+      "start": 57.4,
+      "end": 59.38,
+      "text": "and smothering the others together in his palm,"
+    },
+    {
+      "start": 59.77,
+      "end": 61.62,
+      "text": "inserted the office key in the lock."
+    },
+    {
+      "start": 61.98,
+      "end": 64.58,
+      "text": "The insertion was done without a sound."
+    },
+    {
+      "start": 65.18,
+      "end": 67.48,
+      "text": "He balanced himself on the balls of his feet,"
+    },
+    {
+      "start": 67.62,
+      "end": 68.72,
+      "text": "filled his lungs,"
+    },
+    {
+      "start": 68.9,
+      "end": 70.02,
+      "text": "then clicked the door open"
+    },
+    {
+      "start": 70.22,
+      "end": 70.82,
+      "text": "and went in."
+    },
+    {
+      "start": 72.384,
+      "end": 74.9,
+      "text": "Effie Perrine sat sleeping with her head on her forearms,",
+      "para_break": true
+    },
+    {
+      "start": 75.02,
+      "end": 76.6,
+      "text": "her forearms on her desk."
+    },
+    {
+      "start": 77.52,
+      "end": 79.58,
+      "text": "She wore her coat and had one of Spade's",
+      "para_break": true
+    },
+    {
+      "start": 79.58,
+      "end": 81.52,
+      "text": "overcoats wrapped cape-fashion around her."
+    },
+    {
+      "start": 82.816,
+      "end": 84.86,
+      "text": "Spade blew out his breath in a muffled laugh,",
+      "para_break": true
+    },
+    {
+      "start": 85.06,
+      "end": 86.38,
+      "text": "shut the door behind him,"
+    },
+    {
+      "start": 86.46,
+      "end": 87.36,
+      "text": "and crossed to the"
+    },
+    {
+      "start": 87.36,
+      "end": 88.18,
+      "text": "inner office door."
+    },
+    {
+      "start": 89.22,
+      "end": 90.26,
+      "text": "The inner office was empty.",
+      "para_break": true
+    },
+    {
+      "start": 90.89,
+      "end": 93.2,
+      "text": "He went over to the girl and put a hand on her"
+    },
+    {
+      "start": 93.3,
+      "end": 93.52,
+      "text": "shoulder."
+    },
+    {
+      "start": 94.72,
+      "end": 95.2,
+      "text": "She stirred,",
+      "para_break": true
+    },
+    {
+      "start": 95.44,
+      "end": 96.62,
+      "text": "raised her head drowsily,"
+    },
+    {
+      "start": 96.8,
+      "end": 98.4,
+      "text": "and her eyelids fluttered."
+    },
+    {
+      "start": 99.712,
+      "end": 101.26,
+      "text": "Suddenly she sat up straight,",
+      "para_break": true
+    },
+    {
+      "start": 101.48,
+      "end": 102.82,
+      "text": "opening her eyes wide."
+    },
+    {
+      "start": 103.8,
+      "end": 104.68,
+      "text": "She saw Spade,",
+      "para_break": true
+    },
+    {
+      "start": 104.88,
+      "end": 105.32,
+      "text": "smiled,"
+    },
+    {
+      "start": 105.7,
+      "end": 106.88,
+      "text": "leaned back in her chair,"
+    },
+    {
+      "start": 107.0,
+      "end": 109.58,
+      "text": "and rubbed her eyes with the pointed tips of her fingers."
+    },
+    {
+      "start": 109.9,
+      "end": 110.016,
+      "text": "So,"
+    },
+    {
+      "start": 111.62,
+      "end": 113.68,
+      "text": "you finally got back?\" she said.",
+      "para_break": true
+    },
+    {
+      "start": 114.36,
+      "end": 115.08,
+      "text": "What time is it?"
+    },
+    {
+      "start": 116.16,
+      "end": 116.76,
+      "text": "Six o'clock.",
+      "para_break": true
+    },
+    {
+      "start": 117.42,
+      "end": 118.2,
+      "text": "What are you doing here?"
+    },
+    {
+      "start": 119.22,
+      "end": 119.92,
+      "text": "She shivered,",
+      "para_break": true
+    },
+    {
+      "start": 119.94,
+      "end": 121.78,
+      "text": "drew Spade's coat closer around her,"
+    },
+    {
+      "start": 121.84,
+      "end": 122.42,
+      "text": "and yawned."
+    },
+    {
+      "start": 123.62,
+      "end": 126.3,
+      "text": "You told me to stay till you came back or phoned.",
+      "para_break": true
+    },
+    {
+      "start": 127.38,
+      "end": 127.6,
+      "text": "Oh,",
+      "para_break": true
+    },
+    {
+      "start": 127.78,
+      "end": 130.56,
+      "text": "you're the sister of the boy who stood on the burning deck."
+    },
+    {
+      "start": 132.0,
+      "end": 133.0,
+      "text": "I wasn't going to.",
+      "para_break": true
+    },
+    {
+      "start": 134.04,
+      "end": 135.28,
+      "text": "She broke off and stood up,",
+      "para_break": true
+    },
+    {
+      "start": 135.36,
+      "end": 137.82,
+      "text": "letting his coat slide down on the chair behind her."
+    },
+    {
+      "start": 138.18,
+      "end": 139.78,
+      "text": "She looked with dark,"
+    },
+    {
+      "start": 139.88,
+      "end": 142.96,
+      "text": "excited eyes under his hat-brim at his temple and exclaimed,"
+    },
+    {
+      "start": 143.56,
+      "end": 143.86,
+      "text": "\"'Oh,"
+    },
+    {
+      "start": 144.0,
+      "end": 144.86,
+      "text": "your head!"
+    },
+    {
+      "start": 145.6,
+      "end": 146.06,
+      "text": "What happened,",
+      "para_break": true
+    },
+    {
+      "start": 146.18,
+      "end": 146.62,
+      "text": "Sam?'"
+    },
+    {
+      "start": 147.66,
+      "end": 149.42,
+      "text": "His right temple was dark and swollen.",
+      "para_break": true
+    },
+    {
+      "start": 150.82,
+      "end": 153.28,
+      "text": "\"'I don't know whether I fell or was slugged.",
+      "para_break": true
+    },
+    {
+      "start": 154.0,
+      "end": 155.42,
+      "text": "I don't think it amounts to much,",
+      "para_break": true
+    },
+    {
+      "start": 155.5,
+      "end": 156.91,
+      "text": "but it hurts like hell.'"
+    },
+    {
+      "start": 157.88,
+      "end": 159.44,
+      "text": "He barely touched it with his fingers,",
+      "para_break": true
+    },
+    {
+      "start": 159.66,
+      "end": 160.21,
+      "text": "flinched,"
+    },
+    {
+      "start": 160.5,
+      "end": 162.32,
+      "text": "turned his grimace into a bitter smile,"
+    },
+    {
+      "start": 162.46,
+      "end": 163.0,
+      "text": "and explained."
+    },
+    {
+      "start": 163.66,
+      "end": 165.38,
+      "text": "I went visiting,"
+    },
+    {
+      "start": 165.6,
+      "end": 167.06,
+      "text": "was fed knockout drops,"
+    },
+    {
+      "start": 167.24,
+      "end": 167.94,
+      "text": "and came to,"
+    },
+    {
+      "start": 167.98,
+      "end": 168.84,
+      "text": "twelve hours later,"
+    },
+    {
+      "start": 168.98,
+      "end": 170.72,
+      "text": "all spread out on a man's floor."
+    },
+    {
+      "start": 172.5,
+      "end": 174.64,
+      "text": "She reached up and removed his hat from his head.",
+      "para_break": true
+    },
+    {
+      "start": 175.808,
+      "end": 177.26,
+      "text": "\"'It's terrible,' she said.",
+      "para_break": true
+    },
+    {
+      "start": 177.86,
+      "end": 178.86,
+      "text": "\"'You'll have to get a doctor."
+    },
+    {
+      "start": 179.26,
+      "end": 181.51,
+      "text": "You can't walk around with a head like that.'"
+    },
+    {
+      "start": 182.752,
+      "end": 184.1,
+      "text": "\"'It's not so bad as it looks,",
+      "para_break": true
+    },
+    {
+      "start": 184.24,
+      "end": 185.28,
+      "text": "except for the headache,"
+    },
+    {
+      "start": 185.46,
+      "end": 187.52,
+      "text": "and that might be mostly from the drops.'"
+    },
+    {
+      "start": 188.39,
+      "end": 190.64,
+      "text": "He went to the cabinet in the corner of the",
+      "para_break": true
+    },
+    {
+      "start": 190.64,
+      "end": 192.84,
+      "text": "office and ran cold water on a handkerchief."
+    },
+    {
+      "start": 194.272,
+      "end": 195.76,
+      "text": "\"'Anything turn up after I left?'",
+      "para_break": true
+    },
+    {
+      "start": 196.12,
+      "end": 198.4,
+      "text": "\"'The district attorney's office phoned."
+    },
+    {
+      "start": 198.8,
+      "end": 199.8,
+      "text": "He wants to see you.'"
+    },
+    {
+      "start": 200.48,
+      "end": 201.16,
+      "text": "\"'Himself?'"
+    },
+    {
+      "start": 201.97,
+      "end": 202.52,
+      "text": "\"'Yes,",
+      "para_break": true
+    },
+    {
+      "start": 202.52,
+      "end": 204.04,
+      "text": "that's the way I understood it."
+    },
+    {
+      "start": 204.544,
+      "end": 206.32,
+      "text": "And a boy came in with a message"
+    },
+    {
+      "start": 206.54,
+      "end": 207.14,
+      "text": "that Mr."
+    },
+    {
+      "start": 207.2,
+      "end": 210.04,
+      "text": "Gutman would be delighted to talk to you before five-thirty,"
+    },
+    {
+      "start": 210.52,
+      "end": 211.392,
+      "text": "just like that.'"
+    },
+    {
+      "start": 212.768,
+      "end": 213.84,
+      "text": "Spade turned off the water,",
+      "para_break": true
+    },
+    {
+      "start": 213.94,
+      "end": 215.12,
+      "text": "squeezed the handkerchief,"
+    },
+    {
+      "start": 215.3,
+      "end": 215.88,
+      "text": "and came away"
+    },
+    {
+      "start": 216.02,
+      "end": 218.18,
+      "text": "from the cabinet holding the handkerchief to his temple."
+    },
+    {
+      "start": 219.78,
+      "end": 221.14,
+      "text": "\"'I got that,' he said.",
+      "para_break": true
+    },
+    {
+      "start": 221.53,
+      "end": 222.9,
+      "text": "I met the boy downstairs,"
+    },
+    {
+      "start": 223.36,
+      "end": 224.32,
+      "text": "and talking to Mr."
+    },
+    {
+      "start": 224.38,
+      "end": 225.36,
+      "text": "Gutman got me this."
+    },
+    {
+      "start": 226.82,
+      "end": 228.18,
+      "text": "\"'Is that the G who phoned,",
+      "para_break": true
+    },
+    {
+      "start": 228.26,
+      "end": 228.68,
+      "text": "Sam?'"
+    },
+    {
+      "start": 229.16,
+      "end": 229.8,
+      "text": "\"'Yes.'"
+    },
+    {
+      "start": 230.1,
+      "end": 231.14,
+      "text": "\"'Well,"
+    },
+    {
+      "start": 231.14,
+      "end": 231.78,
+      "text": "what?'"
+    },
+    {
+      "start": 233.152,
+      "end": 235.46,
+      "text": "Spade stared through the girl and spoke as",
+      "para_break": true
+    },
+    {
+      "start": 235.46,
+      "end": 237.46,
+      "text": "if using speech to arrange his thoughts."
+    },
+    {
+      "start": 239.28,
+      "end": 241.48,
+      "text": "\"'He wants something he thinks I can get.",
+      "para_break": true
+    },
+    {
+      "start": 242.36,
+      "end": 244.66,
+      "text": "I persuaded him I could keep him from getting",
+      "para_break": true
+    },
+    {
+      "start": 244.66,
+      "end": 246.78,
+      "text": "it if he didn't make the deal with me before"
+    },
+    {
+      "start": 246.94,
+      "end": 247.5,
+      "text": "five-thirty."
+    },
+    {
+      "start": 248.42,
+      "end": 249.22,
+      "text": "Then—'",
+      "para_break": true
+    },
+    {
+      "start": 250.016,
+      "end": 250.32,
+      "text": "Uh-huh,",
+      "para_break": true
+    },
+    {
+      "start": 250.34,
+      "end": 250.74,
+      "text": "sure."
+    }
+  ]
+}

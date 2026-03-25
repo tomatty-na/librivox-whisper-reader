@@ -1,0 +1,130 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-16",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_16_hammett.mp3",
+  "chapter_title": "Chapter 16 - The Third Murder",
+  "reader_name": "Mark Nelson",
+  "page_num": 6,
+  "page_total": 6,
+  "page_start_sec": 1229.32,
+  "page_end_sec": 1266.9,
+  "para_gap_threshold": 0.671,
+  "segments": [
+    {
+      "start": 1229.32,
+      "end": 1229.74,
+      "text": "Hurry,",
+      "para_break": true
+    },
+    {
+      "start": 1229.88,
+      "end": 1230.1,
+      "text": "Sam,"
+    },
+    {
+      "start": 1230.78,
+      "end": 1231.38,
+      "text": "the girl begged.",
+      "para_break": true
+    },
+    {
+      "start": 1232.38,
+      "end": 1232.7,
+      "text": "Sure,",
+      "para_break": true
+    },
+    {
+      "start": 1232.92,
+      "end": 1234.84,
+      "text": "he promised absentmindedly."
+    },
+    {
+      "start": 1235.712,
+      "end": 1236.06,
+      "text": "I'll hurry.",
+      "para_break": true
+    },
+    {
+      "start": 1237.7,
+      "end": 1239.54,
+      "text": "Might not hurt to get those few scraps of",
+      "para_break": true
+    },
+    {
+      "start": 1239.54,
+      "end": 1241.62,
+      "text": "Excelsior off the floor before the police come."
+    },
+    {
+      "start": 1242.72,
+      "end": 1244.94,
+      "text": "And maybe you ought to try to get hold of Sid.",
+      "para_break": true
+    },
+    {
+      "start": 1245.92,
+      "end": 1246.18,
+      "text": "No.",
+      "para_break": true
+    },
+    {
+      "start": 1246.86,
+      "end": 1248.04,
+      "text": "He rubbed his chin.",
+      "para_break": true
+    },
+    {
+      "start": 1249.18,
+      "end": 1250.7,
+      "text": "We'll leave him out of it for a while.",
+      "para_break": true
+    },
+    {
+      "start": 1251.52,
+      "end": 1252.14,
+      "text": "It'll look better.",
+      "para_break": true
+    },
+    {
+      "start": 1253.26,
+      "end": 1254.74,
+      "text": "I'd keep the door locked till they come.",
+      "para_break": true
+    },
+    {
+      "start": 1255.51,
+      "end": 1258.66,
+      "text": "He took his hand away from his chin and rubbed her cheek.",
+      "para_break": true
+    },
+    {
+      "start": 1259.808,
+      "end": 1260.74,
+      "text": "You're a damn good man,",
+      "para_break": true
+    },
+    {
+      "start": 1260.92,
+      "end": 1261.12,
+      "text": "sister,"
+    },
+    {
+      "start": 1261.72,
+      "end": 1262.06,
+      "text": "he said,"
+    },
+    {
+      "start": 1262.24,
+      "end": 1263.2,
+      "text": "and went out."
+    },
+    {
+      "start": 1266.02,
+      "end": 1266.9,
+      "text": "End of chapter 16",
+      "para_break": true
+    }
+  ]
+}

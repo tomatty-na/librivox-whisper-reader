@@ -1,0 +1,114 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-07",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_07_hammett.mp3",
+  "chapter_title": "Chapter 7 - G in the Air",
+  "reader_name": "Mark Nelson",
+  "page_num": 7,
+  "page_total": 7,
+  "page_start_sec": 1477.312,
+  "page_end_sec": 1509.4,
+  "para_gap_threshold": 0.735,
+  "segments": [
+    {
+      "start": 1477.312,
+      "end": 1479.38,
+      "text": "Lieutenant Dundee stopped turning away from the door,",
+      "para_break": true
+    },
+    {
+      "start": 1479.76,
+      "end": 1480.7,
+      "text": "confronted Spade again,"
+    },
+    {
+      "start": 1480.82,
+      "end": 1482.02,
+      "text": "and said decisively,"
+    },
+    {
+      "start": 1482.78,
+      "end": 1484.36,
+      "text": "I guess we're going in.",
+      "para_break": true
+    },
+    {
+      "start": 1485.7,
+      "end": 1486.96,
+      "text": "The sounds of a brief struggle,",
+      "para_break": true
+    },
+    {
+      "start": 1487.1,
+      "end": 1487.7,
+      "text": "of a blow,"
+    },
+    {
+      "start": 1487.86,
+      "end": 1488.2,
+      "text": "of a"
+    },
+    {
+      "start": 1488.26,
+      "end": 1488.8,
+      "text": "subdued cry,"
+    },
+    {
+      "start": 1489.06,
+      "end": 1489.84,
+      "text": "came to the men."
+    },
+    {
+      "start": 1490.88,
+      "end": 1493.34,
+      "text": "Spade's face twisted into a smile that held",
+      "para_break": true
+    },
+    {
+      "start": 1493.54,
+      "end": 1494.12,
+      "text": "little of joy."
+    },
+    {
+      "start": 1495.46,
+      "end": 1495.82,
+      "text": "He said,",
+      "para_break": true
+    },
+    {
+      "start": 1496.64,
+      "end": 1497.52,
+      "text": "I guess you are,",
+      "para_break": true
+    },
+    {
+      "start": 1497.7,
+      "end": 1499.12,
+      "text": "and stood out of the way."
+    },
+    {
+      "start": 1500.84,
+      "end": 1502.38,
+      "text": "When the police detectives had entered,",
+      "para_break": true
+    },
+    {
+      "start": 1502.54,
+      "end": 1504.94,
+      "text": "he shut the corridor door and followed them back"
+    },
+    {
+      "start": 1505.08,
+      "end": 1505.76,
+      "text": "to the living room."
+    },
+    {
+      "start": 1508.52,
+      "end": 1509.4,
+      "text": "End of chapter 7",
+      "para_break": true
+    }
+  ]
+}

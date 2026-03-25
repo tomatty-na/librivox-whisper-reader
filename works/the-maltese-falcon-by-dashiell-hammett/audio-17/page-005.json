@@ -1,0 +1,777 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-17",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_17_hammett.mp3",
+  "chapter_title": "Chapter 17 - Saturday Night",
+  "reader_name": "Mark Nelson",
+  "page_num": 5,
+  "page_total": 6,
+  "page_start_sec": 1007.84,
+  "page_end_sec": 1248.1,
+  "para_gap_threshold": 0.729,
+  "segments": [
+    {
+      "start": 1007.84,
+      "end": 1008.58,
+      "text": "Good evening."
+    },
+    {
+      "start": 1009.632,
+      "end": 1011.8,
+      "text": "Spade drew the young man to one end of the desk.",
+      "para_break": true
+    },
+    {
+      "start": 1013.28,
+      "end": 1014.46,
+      "text": "His gutman's up in 12 C.",
+      "para_break": true
+    },
+    {
+      "start": 1014.72,
+      "end": 1015.68,
+      "text": "Are they in?\""
+    },
+    {
+      "start": 1015.82,
+      "end": 1017.36,
+      "text": "The young man replied,"
+    },
+    {
+      "start": 1017.98,
+      "end": 1018.64,
+      "text": "No,"
+    },
+    {
+      "start": 1018.94,
+      "end": 1021.58,
+      "text": "darting a quick sharp glance at Spade."
+    },
+    {
+      "start": 1022.07,
+      "end": 1023.16,
+      "text": "Then he looked away,"
+    },
+    {
+      "start": 1023.42,
+      "end": 1023.97,
+      "text": "hesitated,"
+    },
+    {
+      "start": 1024.4,
+      "end": 1025.5,
+      "text": "looked at Spade again,"
+    },
+    {
+      "start": 1025.64,
+      "end": 1026.26,
+      "text": "and murmured,"
+    },
+    {
+      "start": 1026.94,
+      "end": 1029.24,
+      "text": "\"'A funny thing happened a couple of hours ago."
+    },
+    {
+      "start": 1029.44,
+      "end": 1030.86,
+      "text": "Somebody called the"
+    },
+    {
+      "start": 1030.92,
+      "end": 1034.272,
+      "text": "emergency hospital and told them there was a sick girl up there.'"
+    },
+    {
+      "start": 1035.22,
+      "end": 1035.67,
+      "text": "And there wasn't?",
+      "para_break": true
+    },
+    {
+      "start": 1035.9,
+      "end": 1036.0,
+      "text": "Oh,"
+    },
+    {
+      "start": 1036.64,
+      "end": 1036.84,
+      "text": "no,"
+    },
+    {
+      "start": 1036.94,
+      "end": 1038.1,
+      "text": "there was nobody up there."
+    },
+    {
+      "start": 1038.45,
+      "end": 1039.44,
+      "text": "They went out"
+    },
+    {
+      "start": 1039.56,
+      "end": 1040.704,
+      "text": "earlier in the evening.\""
+    },
+    {
+      "start": 1042.04,
+      "end": 1042.14,
+      "text": "Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 1042.36,
+      "end": 1042.464,
+      "text": "\"'Well,"
+    },
+    {
+      "start": 1043.32,
+      "end": 1045.48,
+      "text": "these practical jokers have to have their fun.",
+      "para_break": true
+    },
+    {
+      "start": 1045.86,
+      "end": 1046.36,
+      "text": "Thanks.'"
+    },
+    {
+      "start": 1047.36,
+      "end": 1049.08,
+      "text": "He went to the telephone booth,",
+      "para_break": true
+    },
+    {
+      "start": 1049.28,
+      "end": 1049.92,
+      "text": "called a number,"
+    },
+    {
+      "start": 1049.94,
+      "end": 1050.32,
+      "text": "and said,"
+    },
+    {
+      "start": 1050.92,
+      "end": 1051.38,
+      "text": "\"'Hello."
+    },
+    {
+      "start": 1051.56,
+      "end": 1052.24,
+      "text": "Mrs."
+    },
+    {
+      "start": 1052.36,
+      "end": 1052.74,
+      "text": "Pryne?"
+    },
+    {
+      "start": 1053.44,
+      "end": 1053.98,
+      "text": "Is Effie there?"
+    },
+    {
+      "start": 1054.24,
+      "end": 1054.34,
+      "text": "Yes,"
+    },
+    {
+      "start": 1055.12,
+      "end": 1055.38,
+      "text": "please.",
+      "para_break": true
+    },
+    {
+      "start": 1055.7,
+      "end": 1055.8,
+      "text": "Thanks.'"
+    },
+    {
+      "start": 1057.42,
+      "end": 1058.0,
+      "text": "\"'Hello,",
+      "para_break": true
+    },
+    {
+      "start": 1058.06,
+      "end": 1058.26,
+      "text": "Angel."
+    },
+    {
+      "start": 1058.44,
+      "end": 1059.72,
+      "text": "What's the good word?'"
+    },
+    {
+      "start": 1060.36,
+      "end": 1060.76,
+      "text": "\"'Fine,"
+    },
+    {
+      "start": 1060.76,
+      "end": 1060.96,
+      "text": "fine."
+    },
+    {
+      "start": 1061.24,
+      "end": 1061.76,
+      "text": "Hold it."
+    },
+    {
+      "start": 1061.88,
+      "end": 1063.46,
+      "text": "I'll be out in twenty minutes.'"
+    },
+    {
+      "start": 1064.2,
+      "end": 1064.704,
+      "text": "\"'Right.'",
+      "para_break": true
+    },
+    {
+      "start": 1066.72,
+      "end": 1067.48,
+      "text": "Half an hour later,",
+      "para_break": true
+    },
+    {
+      "start": 1067.58,
+      "end": 1071.26,
+      "text": "Spade rang the doorbell of a two-story brick house in Seventh Avenue."
+    },
+    {
+      "start": 1071.79,
+      "end": 1073.46,
+      "text": "Effie Pryne opened the door."
+    },
+    {
+      "start": 1073.96,
+      "end": 1076.2,
+      "text": "Her boyish face was tired and smiling."
+    },
+    {
+      "start": 1077.28,
+      "end": 1078.1,
+      "text": "\"'Hello,",
+      "para_break": true
+    },
+    {
+      "start": 1078.18,
+      "end": 1079.16,
+      "text": "boss,' she said."
+    },
+    {
+      "start": 1079.62,
+      "end": 1080.1,
+      "text": "\"'Enter.'"
+    },
+    {
+      "start": 1081.16,
+      "end": 1082.68,
+      "text": "Then she said in a low voice,",
+      "para_break": true
+    },
+    {
+      "start": 1083.76,
+      "end": 1085.12,
+      "text": "\"'If Ma says anything to you,",
+      "para_break": true
+    },
+    {
+      "start": 1085.14,
+      "end": 1085.34,
+      "text": "Sam,"
+    },
+    {
+      "start": 1085.52,
+      "end": 1086.42,
+      "text": "be nice to her."
+    },
+    {
+      "start": 1087.04,
+      "end": 1088.27,
+      "text": "She's all up in the air.'"
+    },
+    {
+      "start": 1089.312,
+      "end": 1091.76,
+      "text": "Spade grinned reassuringly and patted her shoulder.",
+      "para_break": true
+    },
+    {
+      "start": 1093.02,
+      "end": 1094.48,
+      "text": "She put her hands on his arm.",
+      "para_break": true
+    },
+    {
+      "start": 1095.54,
+      "end": 1096.48,
+      "text": "\"'Miss O'Shaughnessy?'",
+      "para_break": true
+    },
+    {
+      "start": 1096.9,
+      "end": 1098.52,
+      "text": "\"'No,' he growled."
+    },
+    {
+      "start": 1098.94,
+      "end": 1099.88,
+      "text": "\"'I ran into a plant."
+    },
+    {
+      "start": 1100.55,
+      "end": 1102.34,
+      "text": "Are you sure it was her voice?"
+    },
+    {
+      "start": 1103.0,
+      "end": 1103.4,
+      "text": "Yes."
+    },
+    {
+      "start": 1104.13,
+      "end": 1106.08,
+      "text": "He made an unpleasant face.",
+      "para_break": true
+    },
+    {
+      "start": 1106.8,
+      "end": 1107.16,
+      "text": "Well,"
+    },
+    {
+      "start": 1107.36,
+      "end": 1108.26,
+      "text": "it was Huey."
+    },
+    {
+      "start": 1109.78,
+      "end": 1111.84,
+      "text": "She took him into a bright living-room,",
+      "para_break": true
+    },
+    {
+      "start": 1112.0,
+      "end": 1112.62,
+      "text": "sighed,"
+    },
+    {
+      "start": 1112.62,
+      "end": 1114.57,
+      "text": "and slumped down on one end of a Chesterfield,"
+    },
+    {
+      "start": 1115.232,
+      "end": 1117.34,
+      "text": "smiling cheerfully up at him through her weariness."
+    },
+    {
+      "start": 1118.0,
+      "end": 1119.92,
+      "text": "He sat beside her and asked,"
+    },
+    {
+      "start": 1120.768,
+      "end": 1121.52,
+      "text": "Everything went okay?",
+      "para_break": true
+    },
+    {
+      "start": 1122.144,
+      "end": 1123.32,
+      "text": "Nothing said about the bundle?"
+    },
+    {
+      "start": 1123.86,
+      "end": 1124.52,
+      "text": "Nothing."
+    },
+    {
+      "start": 1125.5,
+      "end": 1127.26,
+      "text": "I told them what you told me to tell them,",
+      "para_break": true
+    },
+    {
+      "start": 1127.32,
+      "end": 1128.88,
+      "text": "and they seemed to take it for granted"
+    },
+    {
+      "start": 1129.08,
+      "end": 1131.64,
+      "text": "that the telephone call had had something to do with him,"
+    },
+    {
+      "start": 1131.76,
+      "end": 1133.12,
+      "text": "and that you were off trying"
+    },
+    {
+      "start": 1133.12,
+      "end": 1133.86,
+      "text": "to clear it up."
+    },
+    {
+      "start": 1135.328,
+      "end": 1135.88,
+      "text": "\"'Dundee there?'",
+      "para_break": true
+    },
+    {
+      "start": 1136.33,
+      "end": 1136.88,
+      "text": "\"'No,"
+    },
+    {
+      "start": 1137.0,
+      "end": 1137.92,
+      "text": "Hoff and O'Gar,"
+    },
+    {
+      "start": 1138.08,
+      "end": 1139.34,
+      "text": "and some others I didn't know."
+    },
+    {
+      "start": 1139.56,
+      "end": 1140.92,
+      "text": "I talked to the captain,"
+    },
+    {
+      "start": 1141.04,
+      "end": 1141.536,
+      "text": "too.'"
+    },
+    {
+      "start": 1142.4,
+      "end": 1143.47,
+      "text": "\"'They took you down to the hall?'",
+      "para_break": true
+    },
+    {
+      "start": 1144.1,
+      "end": 1144.4,
+      "text": "\"'Oh,"
+    },
+    {
+      "start": 1144.4,
+      "end": 1144.66,
+      "text": "yes,"
+    },
+    {
+      "start": 1144.82,
+      "end": 1146.52,
+      "text": "and they asked me loads of questions."
+    },
+    {
+      "start": 1147.24,
+      "end": 1147.94,
+      "text": "But it was all,"
+    },
+    {
+      "start": 1148.12,
+      "end": 1148.76,
+      "text": "you know,"
+    },
+    {
+      "start": 1148.96,
+      "end": 1149.46,
+      "text": "routine.'"
+    },
+    {
+      "start": 1151.04,
+      "end": 1152.38,
+      "text": "Spade rubbed his palms together.",
+      "para_break": true
+    },
+    {
+      "start": 1153.38,
+      "end": 1154.92,
+      "text": "\"'Swell,' he said,",
+      "para_break": true
+    },
+    {
+      "start": 1155.04,
+      "end": 1155.94,
+      "text": "and then frowned."
+    },
+    {
+      "start": 1156.72,
+      "end": 1158.22,
+      "text": "though I guess they'll think up plenty",
+      "para_break": true
+    },
+    {
+      "start": 1158.22,
+      "end": 1160.56,
+      "text": "outside of routine to put to me when we meet."
+    },
+    {
+      "start": 1161.38,
+      "end": 1162.72,
+      "text": "That damned Dundee will anyway,",
+      "para_break": true
+    },
+    {
+      "start": 1162.94,
+      "end": 1163.92,
+      "text": "and Brian.\""
+    },
+    {
+      "start": 1164.44,
+      "end": 1165.58,
+      "text": "He shrugged."
+    },
+    {
+      "start": 1167.12,
+      "end": 1167.82,
+      "text": "\"'Anybody,",
+      "para_break": true
+    },
+    {
+      "start": 1167.9,
+      "end": 1168.28,
+      "text": "you know,"
+    },
+    {
+      "start": 1168.38,
+      "end": 1170.28,
+      "text": "outside of the coppers come around?'"
+    },
+    {
+      "start": 1170.86,
+      "end": 1171.68,
+      "text": "\"'Yes.'"
+    },
+    {
+      "start": 1172.38,
+      "end": 1173.2,
+      "text": "She sat up straight."
+    },
+    {
+      "start": 1174.28,
+      "end": 1174.72,
+      "text": "\"'That boy,",
+      "para_break": true
+    },
+    {
+      "start": 1174.94,
+      "end": 1176.98,
+      "text": "the one who brought the message from Gutman,"
+    },
+    {
+      "start": 1177.12,
+      "end": 1177.66,
+      "text": "was there."
+    },
+    {
+      "start": 1178.62,
+      "end": 1179.4,
+      "text": "He didn't come in,",
+      "para_break": true
+    },
+    {
+      "start": 1179.5,
+      "end": 1182.3,
+      "text": "but the police left the corridor door open when they came in"
+    },
+    {
+      "start": 1182.38,
+      "end": 1183.936,
+      "text": "and I saw him standing there.'"
+    },
+    {
+      "start": 1185.0,
+      "end": 1185.96,
+      "text": "\"'You didn't say anything?'",
+      "para_break": true
+    },
+    {
+      "start": 1186.06,
+      "end": 1186.176,
+      "text": "Oh,"
+    },
+    {
+      "start": 1186.88,
+      "end": 1187.06,
+      "text": "no,"
+    },
+    {
+      "start": 1187.22,
+      "end": 1188.36,
+      "text": "you had said not to."
+    },
+    {
+      "start": 1188.54,
+      "end": 1190.84,
+      "text": "So I didn't pay any attention to him,"
+    },
+    {
+      "start": 1191.2,
+      "end": 1193.05,
+      "text": "and the next time I looked he was gone.\""
+    },
+    {
+      "start": 1194.496,
+      "end": 1195.48,
+      "text": "Spade grinned at her.",
+      "para_break": true
+    },
+    {
+      "start": 1196.48,
+      "end": 1197.18,
+      "text": "\"'Damn lucky for you,",
+      "para_break": true
+    },
+    {
+      "start": 1197.28,
+      "end": 1197.56,
+      "text": "sister,"
+    },
+    {
+      "start": 1197.72,
+      "end": 1199.38,
+      "text": "that the coppers got there first.'"
+    },
+    {
+      "start": 1200.22,
+      "end": 1200.82,
+      "text": "\"'Why?'",
+      "para_break": true
+    },
+    {
+      "start": 1201.856,
+      "end": 1202.62,
+      "text": "\"'He's a bad egg,",
+      "para_break": true
+    },
+    {
+      "start": 1202.66,
+      "end": 1203.08,
+      "text": "that lad."
+    },
+    {
+      "start": 1203.32,
+      "end": 1203.86,
+      "text": "Poison."
+    },
+    {
+      "start": 1204.54,
+      "end": 1206.06,
+      "text": "Was the dead man Jacoby?'"
+    },
+    {
+      "start": 1206.7,
+      "end": 1207.4,
+      "text": "\"'Yes.'"
+    },
+    {
+      "start": 1207.88,
+      "end": 1209.74,
+      "text": "He pressed her hands and stood up."
+    },
+    {
+      "start": 1210.976,
+      "end": 1211.86,
+      "text": "\"'I'm going to run along.",
+      "para_break": true
+    },
+    {
+      "start": 1212.31,
+      "end": 1213.46,
+      "text": "You'd better hit the hay."
+    },
+    {
+      "start": 1213.72,
+      "end": 1214.44,
+      "text": "You're all in.'"
+    },
+    {
+      "start": 1214.46,
+      "end": 1214.56,
+      "text": "again."
+    },
+    {
+      "start": 1215.62,
+      "end": 1215.97,
+      "text": "She rose.",
+      "para_break": true
+    },
+    {
+      "start": 1216.84,
+      "end": 1217.44,
+      "text": "\"'Sam,",
+      "para_break": true
+    },
+    {
+      "start": 1217.72,
+      "end": 1221.12,
+      "text": "what is—' He stopped her words with a hand over her mouth."
+    },
+    {
+      "start": 1222.24,
+      "end": 1224.28,
+      "text": "\"'Keep your questions till Monday,' he said.",
+      "para_break": true
+    },
+    {
+      "start": 1225.44,
+      "end": 1227.6,
+      "text": "\"'I want to sneak out before your mother catches",
+      "para_break": true
+    },
+    {
+      "start": 1227.6,
+      "end": 1230.24,
+      "text": "me and gives me hell for dragging her lamb"
+    },
+    {
+      "start": 1230.24,
+      "end": 1231.2,
+      "text": "through gutters.'"
+    },
+    {
+      "start": 1234.304,
+      "end": 1237.18,
+      "text": "Midnight was a few minutes away when Spade reached his home.",
+      "para_break": true
+    },
+    {
+      "start": 1237.58,
+      "end": 1239.1,
+      "text": "He put his key into the"
+    },
+    {
+      "start": 1239.24,
+      "end": 1239.92,
+      "text": "street-doors lock."
+    },
+    {
+      "start": 1240.896,
+      "end": 1243.2,
+      "text": "Heels clicked rapidly on the sidewalk behind him.",
+      "para_break": true
+    },
+    {
+      "start": 1243.808,
+      "end": 1244.8,
+      "text": "He let go the key"
+    },
+    {
+      "start": 1244.8,
+      "end": 1245.5,
+      "text": "and wheeled."
+    },
+    {
+      "start": 1246.176,
+      "end": 1248.1,
+      "text": "Bridget O'Shaughnessy ran up the steps to him."
+    }
+  ]
+}

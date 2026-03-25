@@ -1,0 +1,716 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-16",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_16_hammett.mp3",
+  "chapter_title": "Chapter 16 - The Third Murder",
+  "reader_name": "Mark Nelson",
+  "page_num": 2,
+  "page_total": 6,
+  "page_start_sec": 251.62,
+  "page_end_sec": 492.16,
+  "para_gap_threshold": 0.671,
+  "segments": [
+    {
+      "start": 251.62,
+      "end": 254.02,
+      "text": "and she knows where to come when she thinks she needs help,",
+      "para_break": true
+    },
+    {
+      "start": 254.496,
+      "end": 255.58,
+      "text": "and when it suits her."
+    },
+    {
+      "start": 256.992,
+      "end": 257.536,
+      "text": "That's spite,",
+      "para_break": true
+    },
+    {
+      "start": 257.96,
+      "end": 258.96,
+      "text": "the girl cried,"
+    },
+    {
+      "start": 259.1,
+      "end": 260.5,
+      "text": "and that's all it is."
+    },
+    {
+      "start": 261.568,
+      "end": 263.5,
+      "text": "You're sore because she did something on her",
+      "para_break": true
+    },
+    {
+      "start": 263.5,
+      "end": 264.88,
+      "text": "own hook without telling you."
+    },
+    {
+      "start": 265.06,
+      "end": 266.28,
+      "text": "Why shouldn't she?"
+    },
+    {
+      "start": 266.54,
+      "end": 268.28,
+      "text": "You're not so damned honest,"
+    },
+    {
+      "start": 268.48,
+      "end": 269.4,
+      "text": "and you haven't been"
+    },
+    {
+      "start": 269.48,
+      "end": 272.09,
+      "text": "so much on the level with her that she could trust you implicitly."
+    },
+    {
+      "start": 273.44,
+      "end": 274.06,
+      "text": "Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 274.24,
+      "end": 275.5,
+      "text": "that's enough of that."
+    },
+    {
+      "start": 276.76,
+      "end": 278.2,
+      "text": "His tone brought a brief,",
+      "para_break": true
+    },
+    {
+      "start": 278.32,
+      "end": 280.18,
+      "text": "uneasy glint into her hot eyes,"
+    },
+    {
+      "start": 280.74,
+      "end": 281.88,
+      "text": "but she tossed her head and"
+    },
+    {
+      "start": 281.88,
+      "end": 282.68,
+      "text": "the glint vanished."
+    },
+    {
+      "start": 283.5,
+      "end": 285.7,
+      "text": "Her boyish mouth was drawn taut and small.",
+      "para_break": true
+    },
+    {
+      "start": 286.52,
+      "end": 286.86,
+      "text": "She said,",
+      "para_break": true
+    },
+    {
+      "start": 287.872,
+      "end": 289.86,
+      "text": "\"'If you don't go down there this very minute,",
+      "para_break": true
+    },
+    {
+      "start": 290.0,
+      "end": 290.68,
+      "text": "I will,"
+    },
+    {
+      "start": 291.18,
+      "end": 292.84,
+      "text": "and I'll take the police down there.'"
+    },
+    {
+      "start": 293.25,
+      "end": 295.66,
+      "text": "Her voice trembled on the last words,"
+    },
+    {
+      "start": 295.84,
+      "end": 296.22,
+      "text": "broke,"
+    },
+    {
+      "start": 296.38,
+      "end": 297.46,
+      "text": "and was thin and wailing."
+    },
+    {
+      "start": 298.04,
+      "end": 298.6,
+      "text": "\"'Oh,"
+    },
+    {
+      "start": 298.6,
+      "end": 298.9,
+      "text": "Sam,"
+    },
+    {
+      "start": 299.22,
+      "end": 302.18,
+      "text": "go!' He stood up,"
+    },
+    {
+      "start": 302.2,
+      "end": 302.78,
+      "text": "cursing her."
+    },
+    {
+      "start": 303.3,
+      "end": 303.76,
+      "text": "Then he said,"
+    },
+    {
+      "start": 303.9,
+      "end": 304.0,
+      "text": "\"'Eh!"
+    },
+    {
+      "start": 305.62,
+      "end": 307.14,
+      "text": "It'll be easier on my head than",
+      "para_break": true
+    },
+    {
+      "start": 307.14,
+      "end": 308.72,
+      "text": "sitting here listening to you squawk!'"
+    },
+    {
+      "start": 309.4,
+      "end": 310.7,
+      "text": "He looked at his watch.",
+      "para_break": true
+    },
+    {
+      "start": 311.7,
+      "end": 313.36,
+      "text": "\"'You might as well lock up and go home.'",
+      "para_break": true
+    },
+    {
+      "start": 314.18,
+      "end": 314.6,
+      "text": "She said,",
+      "para_break": true
+    },
+    {
+      "start": 315.28,
+      "end": 315.82,
+      "text": "\"'I won't.",
+      "para_break": true
+    },
+    {
+      "start": 315.88,
+      "end": 317.9,
+      "text": "I'm going to wait until you come back.'"
+    },
+    {
+      "start": 318.62,
+      "end": 319.24,
+      "text": "He said,",
+      "para_break": true
+    },
+    {
+      "start": 319.872,
+      "end": 321.04,
+      "text": "\"'Do as you damned please.'"
+    },
+    {
+      "start": 321.88,
+      "end": 322.6,
+      "text": "Put his hat on,",
+      "para_break": true
+    },
+    {
+      "start": 322.7,
+      "end": 323.3,
+      "text": "flinched,"
+    },
+    {
+      "start": 323.3,
+      "end": 324.1,
+      "text": "took it off,"
+    },
+    {
+      "start": 324.16,
+      "end": 325.85,
+      "text": "and went out carrying it in his hand.\""
+    },
+    {
+      "start": 327.68,
+      "end": 329.08,
+      "text": "An hour and a half later,",
+      "para_break": true
+    },
+    {
+      "start": 329.14,
+      "end": 330.68,
+      "text": "at twenty minutes past five,"
+    },
+    {
+      "start": 330.94,
+      "end": 331.8,
+      "text": "Spade returned."
+    },
+    {
+      "start": 332.8,
+      "end": 333.32,
+      "text": "He was cheerful.",
+      "para_break": true
+    },
+    {
+      "start": 334.04,
+      "end": 334.88,
+      "text": "He came in asking,",
+      "para_break": true
+    },
+    {
+      "start": 335.92,
+      "end": 337.82,
+      "text": "What makes you so hard to get along with,",
+      "para_break": true
+    },
+    {
+      "start": 337.9,
+      "end": 338.18,
+      "text": "sweetheart?"
+    },
+    {
+      "start": 339.14,
+      "end": 339.52,
+      "text": "Me?",
+      "para_break": true
+    },
+    {
+      "start": 339.84,
+      "end": 340.64,
+      "text": "Yes,"
+    },
+    {
+      "start": 340.68,
+      "end": 340.98,
+      "text": "you."
+    },
+    {
+      "start": 341.64,
+      "end": 345.18,
+      "text": "He put a finger on the tip of Effie Pryne's nose and flattened it."
+    },
+    {
+      "start": 345.6,
+      "end": 347.48,
+      "text": "He put his hands under her elbows,"
+    },
+    {
+      "start": 347.7,
+      "end": 349.68,
+      "text": "lifted her straight up and kissed her chin."
+    },
+    {
+      "start": 350.62,
+      "end": 352.58,
+      "text": "He set her down on the floor again and asked,",
+      "para_break": true
+    },
+    {
+      "start": 353.568,
+      "end": 354.88,
+      "text": "Anything happen while I was gone?",
+      "para_break": true
+    },
+    {
+      "start": 355.94,
+      "end": 356.44,
+      "text": "Luke,",
+      "para_break": true
+    },
+    {
+      "start": 356.52,
+      "end": 358.2,
+      "text": "what's-his-name at the Belvedere called"
+    },
+    {
+      "start": 358.2,
+      "end": 359.82,
+      "text": "up to tell you Cairo has returned."
+    },
+    {
+      "start": 360.24,
+      "end": 361.68,
+      "text": "That was about half an hour ago."
+    },
+    {
+      "start": 363.232,
+      "end": 364.52,
+      "text": "Spade snapped his mouth shut,",
+      "para_break": true
+    },
+    {
+      "start": 364.68,
+      "end": 366.04,
+      "text": "turned with a long step,"
+    },
+    {
+      "start": 366.08,
+      "end": 367.14,
+      "text": "and started for the door."
+    },
+    {
+      "start": 368.38,
+      "end": 370.34,
+      "text": "\"'Did you find her?' the girl called.",
+      "para_break": true
+    },
+    {
+      "start": 371.34,
+      "end": 373.12,
+      "text": "\"'Tell you about it when I'm back,' he",
+      "para_break": true
+    },
+    {
+      "start": 373.12,
+      "end": 375.4,
+      "text": "replied without pausing and hurried out."
+    },
+    {
+      "start": 377.66,
+      "end": 380.26,
+      "text": "A taxicab deposited Spade at the Belvedere within",
+      "para_break": true
+    },
+    {
+      "start": 380.26,
+      "end": 382.38,
+      "text": "ten minutes of his departure from his office."
+    },
+    {
+      "start": 383.0,
+      "end": 384.48,
+      "text": "He found Luke in the lobby."
+    },
+    {
+      "start": 385.36,
+      "end": 388.44,
+      "text": "The hotel detective came grinning and shaking his head to meet him.",
+      "para_break": true
+    },
+    {
+      "start": 389.728,
+      "end": 391.48,
+      "text": "\"'Fifteen minutes late,' he said.",
+      "para_break": true
+    },
+    {
+      "start": 392.06,
+      "end": 393.28,
+      "text": "Your bird has fluttered."
+    },
+    {
+      "start": 394.272,
+      "end": 394.9,
+      "text": "Spade cursed.",
+      "para_break": true
+    },
+    {
+      "start": 396.192,
+      "end": 396.6,
+      "text": "Checked out.",
+      "para_break": true
+    },
+    {
+      "start": 396.72,
+      "end": 398.1,
+      "text": "Gone bag and baggage,"
+    },
+    {
+      "start": 398.96,
+      "end": 399.34,
+      "text": "Luke said.",
+      "para_break": true
+    },
+    {
+      "start": 400.128,
+      "end": 402.26,
+      "text": "He took a battered memorandum book from a vest",
+      "para_break": true
+    },
+    {
+      "start": 402.3,
+      "end": 402.58,
+      "text": "pocket,"
+    },
+    {
+      "start": 402.74,
+      "end": 403.68,
+      "text": "licked his thumb,"
+    },
+    {
+      "start": 403.8,
+      "end": 404.54,
+      "text": "thumbed pages,"
+    },
+    {
+      "start": 404.8,
+      "end": 406.46,
+      "text": "and held the book out open to Spade."
+    },
+    {
+      "start": 407.936,
+      "end": 409.7,
+      "text": "There's the number of the taxi that hauled him.",
+      "para_break": true
+    },
+    {
+      "start": 410.24,
+      "end": 411.32,
+      "text": "I got that much for you."
+    },
+    {
+      "start": 412.22,
+      "end": 412.66,
+      "text": "Thanks.",
+      "para_break": true
+    },
+    {
+      "start": 413.1,
+      "end": 415.44,
+      "text": "Spade copied the number on the back of an envelope."
+    },
+    {
+      "start": 416.416,
+      "end": 417.24,
+      "text": "Any forwarding address?",
+      "para_break": true
+    },
+    {
+      "start": 417.62,
+      "end": 417.72,
+      "text": "No."
+    },
+    {
+      "start": 419.42,
+      "end": 420.9,
+      "text": "He'd just come in carrying a big suitcase,"
+    },
+    {
+      "start": 421.08,
+      "end": 421.28,
+      "text": "case,"
+    },
+    {
+      "start": 421.32,
+      "end": 424.3,
+      "text": "and went upstairs and packed and come down with his stuff,"
+    },
+    {
+      "start": 424.56,
+      "end": 425.04,
+      "text": "and"
+    },
+    {
+      "start": 425.16,
+      "end": 428.72,
+      "text": "paid his bill and got a taxi and went without anybody hearing what he"
+    },
+    {
+      "start": 428.72,
+      "end": 429.3,
+      "text": "told the driver."
+    },
+    {
+      "start": 430.72,
+      "end": 431.744,
+      "text": "How about his trunk?\"",
+      "para_break": true
+    },
+    {
+      "start": 432.704,
+      "end": 433.98,
+      "text": "Luke's lower lip sagged.",
+      "para_break": true
+    },
+    {
+      "start": 434.944,
+      "end": 436.08,
+      "text": "\"'By God!' he said.",
+      "para_break": true
+    },
+    {
+      "start": 436.54,
+      "end": 437.26,
+      "text": "\"'I forgot that."
+    },
+    {
+      "start": 437.92,
+      "end": 438.42,
+      "text": "Come on!'"
+    },
+    {
+      "start": 439.24,
+      "end": 440.52,
+      "text": "They went up to Cairo's room.",
+      "para_break": true
+    },
+    {
+      "start": 441.28,
+      "end": 442.04,
+      "text": "The trunk was there.",
+      "para_break": true
+    },
+    {
+      "start": 442.8,
+      "end": 444.34,
+      "text": "It was closed but not locked.",
+      "para_break": true
+    },
+    {
+      "start": 445.0,
+      "end": 445.96,
+      "text": "They raised the lid."
+    },
+    {
+      "start": 446.44,
+      "end": 447.26,
+      "text": "The trunk was empty."
+    },
+    {
+      "start": 448.48,
+      "end": 448.84,
+      "text": "Luke said,",
+      "para_break": true
+    },
+    {
+      "start": 449.7,
+      "end": 451.0,
+      "text": "What do you know about that?",
+      "para_break": true
+    },
+    {
+      "start": 452.32,
+      "end": 453.62,
+      "text": "Spade did not say anything.",
+      "para_break": true
+    },
+    {
+      "start": 456.736,
+      "end": 458.04,
+      "text": "Spade went back to his office.",
+      "para_break": true
+    },
+    {
+      "start": 458.816,
+      "end": 460.56,
+      "text": "Effie Pryne's eyes questioned him.",
+      "para_break": true
+    },
+    {
+      "start": 461.76,
+      "end": 462.08,
+      "text": "Missed him,",
+      "para_break": true
+    },
+    {
+      "start": 462.2,
+      "end": 463.04,
+      "text": "he grumbled,"
+    },
+    {
+      "start": 463.12,
+      "end": 464.62,
+      "text": "and passed into his private room."
+    },
+    {
+      "start": 465.7,
+      "end": 466.68,
+      "text": "She followed him in.",
+      "para_break": true
+    },
+    {
+      "start": 467.36,
+      "end": 469.5,
+      "text": "He sat in his chair and began to roll a cigarette.",
+      "para_break": true
+    },
+    {
+      "start": 470.4,
+      "end": 472.34,
+      "text": "She sat on the desk in front of him and",
+      "para_break": true
+    },
+    {
+      "start": 472.34,
+      "end": 474.4,
+      "text": "put her toes on a corner of his chair seat."
+    },
+    {
+      "start": 475.96,
+      "end": 477.12,
+      "text": "What about Miss O'Shaughnessy?",
+      "para_break": true
+    },
+    {
+      "start": 477.62,
+      "end": 477.94,
+      "text": "she demanded."
+    },
+    {
+      "start": 478.5,
+      "end": 479.82,
+      "text": "\"'I missed her,"
+    },
+    {
+      "start": 479.9,
+      "end": 480.98,
+      "text": "too,' he replied."
+    },
+    {
+      "start": 481.728,
+      "end": 482.86,
+      "text": "\"'But she had been there.'",
+      "para_break": true
+    },
+    {
+      "start": 484.06,
+      "end": 484.84,
+      "text": "\"'On the La Paloma?'",
+      "para_break": true
+    },
+    {
+      "start": 486.02,
+      "end": 488.64,
+      "text": "\"'The La is a lousy combination,' he said.",
+      "para_break": true
+    },
+    {
+      "start": 489.28,
+      "end": 489.8,
+      "text": "\"'Stop it."
+    },
+    {
+      "start": 490.28,
+      "end": 490.74,
+      "text": "Be nice,"
+    },
+    {
+      "start": 490.9,
+      "end": 491.04,
+      "text": "Sam."
+    },
+    {
+      "start": 491.24,
+      "end": 492.16,
+      "text": "Tell me.'"
+    }
+  ]
+}

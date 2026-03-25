@@ -1,0 +1,332 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-05",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_05_hammett.mp3",
+  "chapter_title": "Chapter 5 - Cairo's Pockets",
+  "reader_name": "Mark Nelson",
+  "page_num": 4,
+  "page_total": 4,
+  "page_start_sec": 740.96,
+  "page_end_sec": 868.52,
+  "para_gap_threshold": 0.774,
+  "segments": [
+    {
+      "start": 740.96,
+      "end": 742.26,
+      "text": "His voice was suave now.",
+      "para_break": true
+    },
+    {
+      "start": 743.3,
+      "end": 744.46,
+      "text": "\"'If you know more than I,",
+      "para_break": true
+    },
+    {
+      "start": 744.62,
+      "end": 746.48,
+      "text": "I shall profit by your knowledge,"
+    },
+    {
+      "start": 747.02,
+      "end": 750.1,
+      "text": "and so will you to the extent of five thousand dollars."
+    },
+    {
+      "start": 751.06,
+      "end": 751.72,
+      "text": "If you do not,",
+      "para_break": true
+    },
+    {
+      "start": 752.26,
+      "end": 754.04,
+      "text": "I have made a mistake in coming to you,"
+    },
+    {
+      "start": 754.18,
+      "end": 758.59,
+      "text": "and to do as you suggest would be simply to make that mistake worse.'"
+    },
+    {
+      "start": 760.192,
+      "end": 762.16,
+      "text": "Spade nodded indifferently and waved",
+      "para_break": true
+    },
+    {
+      "start": 762.16,
+      "end": 763.86,
+      "text": "his hand at the articles on the desk,"
+    },
+    {
+      "start": 763.96,
+      "end": 764.46,
+      "text": "saying,"
+    },
+    {
+      "start": 765.632,
+      "end": 766.34,
+      "text": "\"'There's your stuff.'",
+      "para_break": true
+    },
+    {
+      "start": 767.38,
+      "end": 767.74,
+      "text": "And then,",
+      "para_break": true
+    },
+    {
+      "start": 767.84,
+      "end": 770.22,
+      "text": "when Cairo was returning the articles to his pockets,"
+    },
+    {
+      "start": 771.44,
+      "end": 773.58,
+      "text": "\"'It's understood that you're to pay my expenses",
+      "para_break": true
+    },
+    {
+      "start": 773.58,
+      "end": 775.54,
+      "text": "while I'm getting this bird back for you,"
+    },
+    {
+      "start": 775.92,
+      "end": 777.86,
+      "text": "and five thousand dollars when it's done.'"
+    },
+    {
+      "start": 778.06,
+      "end": 778.16,
+      "text": "Yes,"
+    },
+    {
+      "start": 779.72,
+      "end": 780.0,
+      "text": "Mr.",
+      "para_break": true
+    },
+    {
+      "start": 780.08,
+      "end": 780.38,
+      "text": "Spade."
+    },
+    {
+      "start": 780.9,
+      "end": 781.26,
+      "text": "That is,"
+    },
+    {
+      "start": 781.4,
+      "end": 784.6,
+      "text": "five thousand less whatever monies have been advanced to you,"
+    },
+    {
+      "start": 784.88,
+      "end": 786.2,
+      "text": "five thousand in all."
+    },
+    {
+      "start": 787.12,
+      "end": 787.8,
+      "text": "Right,",
+      "para_break": true
+    },
+    {
+      "start": 788.02,
+      "end": 789.94,
+      "text": "and it's a legitimate proposition."
+    },
+    {
+      "start": 791.52,
+      "end": 792.78,
+      "text": "Spade's face was solemn,",
+      "para_break": true
+    },
+    {
+      "start": 792.96,
+      "end": 795.36,
+      "text": "except for wrinkles at the corners of his eyes."
+    },
+    {
+      "start": 796.58,
+      "end": 798.81,
+      "text": "You're not hiring me to do any murders or burglaries,",
+      "para_break": true
+    },
+    {
+      "start": 799.38,
+      "end": 800.62,
+      "text": "but simply to get it back,"
+    },
+    {
+      "start": 800.66,
+      "end": 801.26,
+      "text": "if possible,"
+    },
+    {
+      "start": 801.4,
+      "end": 802.96,
+      "text": "in an honest and lawful way."
+    },
+    {
+      "start": 804.288,
+      "end": 804.94,
+      "text": "If possible,",
+      "para_break": true
+    },
+    {
+      "start": 805.18,
+      "end": 806.36,
+      "text": "Cairo agreed."
+    },
+    {
+      "start": 806.88,
+      "end": 810.38,
+      "text": "His face also was solemn except for the eyes."
+    },
+    {
+      "start": 811.616,
+      "end": 813.48,
+      "text": "And in any event with discretion.",
+      "para_break": true
+    },
+    {
+      "start": 815.04,
+      "end": 816.42,
+      "text": "He rose and picked up his hat.",
+      "para_break": true
+    },
+    {
+      "start": 817.54,
+      "end": 820.78,
+      "text": "I am at the Hotel Belvedere when you wish to communicate with me,",
+      "para_break": true
+    },
+    {
+      "start": 820.94,
+      "end": 822.05,
+      "text": "room 635."
+    },
+    {
+      "start": 823.328,
+      "end": 824.88,
+      "text": "I'd confidently expect the greatest",
+      "para_break": true
+    },
+    {
+      "start": 824.88,
+      "end": 826.56,
+      "text": "mutual benefit from our association,"
+    },
+    {
+      "start": 826.8,
+      "end": 826.98,
+      "text": "Mr."
+    },
+    {
+      "start": 827.04,
+      "end": 827.4,
+      "text": "Spade."
+    },
+    {
+      "start": 828.78,
+      "end": 829.36,
+      "text": "He hesitated.",
+      "para_break": true
+    },
+    {
+      "start": 830.38,
+      "end": 831.38,
+      "text": "May I have my pistol?",
+      "para_break": true
+    },
+    {
+      "start": 832.1,
+      "end": 832.64,
+      "text": "Sure."
+    },
+    {
+      "start": 832.82,
+      "end": 833.76,
+      "text": "I'd forgotten it."
+    },
+    {
+      "start": 835.04,
+      "end": 838.16,
+      "text": "Spade took the pistol out of his coat pocket and handed it to Cairo.",
+      "para_break": true
+    },
+    {
+      "start": 839.296,
+      "end": 841.42,
+      "text": "Cairo pointed the pistol at Spade's chest.",
+      "para_break": true
+    },
+    {
+      "start": 842.92,
+      "end": 845.58,
+      "text": "\"'You will please keep your hands on the top of the desk,'",
+      "para_break": true
+    },
+    {
+      "start": 846.2,
+      "end": 847.02,
+      "text": "he said earnestly."
+    },
+    {
+      "start": 847.84,
+      "end": 849.74,
+      "text": "\"'I intend to search your offices.'",
+      "para_break": true
+    },
+    {
+      "start": 851.072,
+      "end": 851.66,
+      "text": "Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 852.416,
+      "end": 853.41,
+      "text": "\"'I'll be damned.'"
+    },
+    {
+      "start": 854.56,
+      "end": 856.18,
+      "text": "Then he laughed in his throat and said,",
+      "para_break": true
+    },
+    {
+      "start": 856.64,
+      "end": 857.04,
+      "text": "\"'All right."
+    },
+    {
+      "start": 857.58,
+      "end": 857.96,
+      "text": "Go ahead."
+    },
+    {
+      "start": 858.2,
+      "end": 859.84,
+      "text": "I won't stop you.'\""
+    },
+    {
+      "start": 862.4,
+      "end": 863.32,
+      "text": "End of Chapter 5",
+      "para_break": true
+    },
+    {
+      "start": 864.26,
+      "end": 868.52,
+      "text": "Thank you.",
+      "para_break": true
+    }
+  ]
+}

@@ -1,0 +1,518 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-13",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_13_hammett.mp3",
+  "chapter_title": "Chapter 13 - The Emperor's Gift",
+  "reader_name": "Mark Nelson",
+  "page_num": 5,
+  "page_total": 5,
+  "page_start_sec": 991.96,
+  "page_end_sec": 1180.6,
+  "para_gap_threshold": 0.673,
+  "segments": [
+    {
+      "start": 991.96,
+      "end": 992.76,
+      "text": "\"'In your own words,",
+      "para_break": true
+    },
+    {
+      "start": 992.96,
+      "end": 994.96,
+      "text": "why not?' he asked."
+    },
+    {
+      "start": 996.16,
+      "end": 998.54,
+      "text": "Spade emptied his glass and set it on the table.",
+      "para_break": true
+    },
+    {
+      "start": 999.3,
+      "end": 1000.72,
+      "text": "He put his cigar in his mouth,",
+      "para_break": true
+    },
+    {
+      "start": 1000.88,
+      "end": 1001.12,
+      "text": "took"
+    },
+    {
+      "start": 1001.12,
+      "end": 1001.46,
+      "text": "it out,"
+    },
+    {
+      "start": 1001.56,
+      "end": 1003.24,
+      "text": "looked at it and put it back in."
+    },
+    {
+      "start": 1004.22,
+      "end": 1006.16,
+      "text": "His yellow-gray eyes were faintly muddy.",
+      "para_break": true
+    },
+    {
+      "start": 1006.4,
+      "end": 1007.08,
+      "text": "He said,"
+    },
+    {
+      "start": 1008.288,
+      "end": 1009.84,
+      "text": "\"'That's a hell of a lot of dough.'",
+      "para_break": true
+    },
+    {
+      "start": 1010.94,
+      "end": 1011.76,
+      "text": "The fat man agreed.",
+      "para_break": true
+    },
+    {
+      "start": 1012.992,
+      "end": 1014.62,
+      "text": "\"'That's a hell of a lot of dough.'",
+      "para_break": true
+    },
+    {
+      "start": 1014.98,
+      "end": 1017.62,
+      "text": "He leaned forward and patted Spade's knee."
+    },
+    {
+      "start": 1018.88,
+      "end": 1021.18,
+      "text": "\"'That is the absolute rock-bottom minimum.",
+      "para_break": true
+    },
+    {
+      "start": 1022.04,
+      "end": 1024.88,
+      "text": "Lord Karelios Constantinides was a blithering idiot,",
+      "para_break": true
+    },
+    {
+      "start": 1025.1,
+      "end": 1026.464,
+      "text": "and he wasn't.'"
+    },
+    {
+      "start": 1028.128,
+      "end": 1030.1,
+      "text": "Spade removed the cigar from his mouth again,",
+      "para_break": true
+    },
+    {
+      "start": 1030.41,
+      "end": 1031.77,
+      "text": "frowned at it with distaste,"
+    },
+    {
+      "start": 1032.08,
+      "end": 1033.76,
+      "text": "and put it on the smoking-stand."
+    },
+    {
+      "start": 1034.5,
+      "end": 1035.9,
+      "text": "He shut his eyes hard,",
+      "para_break": true
+    },
+    {
+      "start": 1036.1,
+      "end": 1036.88,
+      "text": "opened them again."
+    },
+    {
+      "start": 1037.86,
+      "end": 1039.18,
+      "text": "Their muddiness had thickened.",
+      "para_break": true
+    },
+    {
+      "start": 1040.672,
+      "end": 1041.8,
+      "text": "\"'The—the minimum,",
+      "para_break": true
+    },
+    {
+      "start": 1041.98,
+      "end": 1042.18,
+      "text": "huh?'"
+    },
+    {
+      "start": 1043.26,
+      "end": 1044.06,
+      "text": "\"'And the maximum?'",
+      "para_break": true
+    },
+    {
+      "start": 1045.02,
+      "end": 1045.48,
+      "text": "he asked.",
+      "para_break": true
+    },
+    {
+      "start": 1046.44,
+      "end": 1050.16,
+      "text": "An unmistakable shh followed the X in maximum as he pronounced it.",
+      "para_break": true
+    },
+    {
+      "start": 1051.648,
+      "end": 1052.52,
+      "text": "\"'The maximum?'",
+      "para_break": true
+    },
+    {
+      "start": 1053.28,
+      "end": 1054.66,
+      "text": "Gutman held his empty hand out,",
+      "para_break": true
+    },
+    {
+      "start": 1054.76,
+      "end": 1055.32,
+      "text": "palm up."
+    },
+    {
+      "start": 1056.36,
+      "end": 1057.36,
+      "text": "\"'I refuse to guess.",
+      "para_break": true
+    },
+    {
+      "start": 1058.144,
+      "end": 1059.12,
+      "text": "You'd think me crazy.",
+      "para_break": true
+    },
+    {
+      "start": 1060.0,
+      "end": 1060.64,
+      "text": "I don't know.",
+      "para_break": true
+    },
+    {
+      "start": 1061.36,
+      "end": 1063.1,
+      "text": "There's no telling how high it could go,",
+      "para_break": true
+    },
+    {
+      "start": 1063.2,
+      "end": 1063.38,
+      "text": "sir,"
+    },
+    {
+      "start": 1063.52,
+      "end": 1066.048,
+      "text": "and that's the one and only truth about it.'"
+    },
+    {
+      "start": 1067.296,
+      "end": 1069.88,
+      "text": "Spade pulled his sagging lower lip tight against the upper.",
+      "para_break": true
+    },
+    {
+      "start": 1070.464,
+      "end": 1071.97,
+      "text": "He shook his head impatiently."
+    },
+    {
+      "start": 1072.576,
+      "end": 1073.1,
+      "text": "A sharp,"
+    },
+    {
+      "start": 1073.18,
+      "end": 1075.34,
+      "text": "frightened gleam awoke in his eyes and"
+    },
+    {
+      "start": 1075.34,
+      "end": 1077.1,
+      "text": "was smothered by the deepening muddiness."
+    },
+    {
+      "start": 1077.9,
+      "end": 1079.16,
+      "text": "He stood up,",
+      "para_break": true
+    },
+    {
+      "start": 1079.24,
+      "end": 1081.88,
+      "text": "helping himself with his hands on the arms of the chair."
+    },
+    {
+      "start": 1082.48,
+      "end": 1083.74,
+      "text": "He shook his head again,"
+    },
+    {
+      "start": 1083.96,
+      "end": 1085.58,
+      "text": "took an uncertain step forward,"
+    },
+    {
+      "start": 1085.78,
+      "end": 1086.8,
+      "text": "laughed thickly,"
+    },
+    {
+      "start": 1086.8,
+      "end": 1087.24,
+      "text": "and muttered,"
+    },
+    {
+      "start": 1088.544,
+      "end": 1089.26,
+      "text": "\"'Damn you!",
+      "para_break": true
+    },
+    {
+      "start": 1090.02,
+      "end": 1090.912,
+      "text": "The drops!'",
+      "para_break": true
+    },
+    {
+      "start": 1092.032,
+      "end": 1093.78,
+      "text": "Gutman jumped up and pushed his chair back.",
+      "para_break": true
+    },
+    {
+      "start": 1094.06,
+      "end": 1095.52,
+      "text": "His fat jiggled."
+    },
+    {
+      "start": 1096.22,
+      "end": 1098.24,
+      "text": "His eyes were dark holes in a bulbous",
+      "para_break": true
+    },
+    {
+      "start": 1098.36,
+      "end": 1098.9,
+      "text": "pink face."
+    },
+    {
+      "start": 1100.256,
+      "end": 1102.06,
+      "text": "Spade swung his head slowly from side",
+      "para_break": true
+    },
+    {
+      "start": 1102.06,
+      "end": 1104.14,
+      "text": "to side until his dull eyes were,"
+    },
+    {
+      "start": 1104.32,
+      "end": 1105.22,
+      "text": "if not focused"
+    },
+    {
+      "start": 1105.32,
+      "end": 1105.5,
+      "text": "on,"
+    },
+    {
+      "start": 1105.68,
+      "end": 1107.72,
+      "text": "at least pointed at the corridor door."
+    },
+    {
+      "start": 1108.22,
+      "end": 1110.24,
+      "text": "He took another unsteady step."
+    },
+    {
+      "start": 1111.4,
+      "end": 1112.28,
+      "text": "The fat man called",
+      "para_break": true
+    },
+    {
+      "start": 1112.44,
+      "end": 1112.74,
+      "text": "sharply."
+    },
+    {
+      "start": 1112.9,
+      "end": 1113.78,
+      "text": "Wilmer!"
+    },
+    {
+      "start": 1114.94,
+      "end": 1116.62,
+      "text": "A door opened and the boy came in.",
+      "para_break": true
+    },
+    {
+      "start": 1117.632,
+      "end": 1118.74,
+      "text": "Spade took a third step.",
+      "para_break": true
+    },
+    {
+      "start": 1119.56,
+      "end": 1120.78,
+      "text": "His face was grayish",
+      "para_break": true
+    },
+    {
+      "start": 1120.82,
+      "end": 1121.02,
+      "text": "now,"
+    },
+    {
+      "start": 1121.16,
+      "end": 1124.16,
+      "text": "with jaw muscles standing out like tumors under his ears."
+    },
+    {
+      "start": 1125.5,
+      "end": 1126.88,
+      "text": "His legs did not straighten again",
+      "para_break": true
+    },
+    {
+      "start": 1127.1,
+      "end": 1128.08,
+      "text": "after his fourth step,"
+    },
+    {
+      "start": 1128.22,
+      "end": 1131.2,
+      "text": "and his muddy eyes were almost covered by their lids."
+    },
+    {
+      "start": 1131.96,
+      "end": 1133.42,
+      "text": "He took the fifth step.",
+      "para_break": true
+    },
+    {
+      "start": 1134.3,
+      "end": 1136.4,
+      "text": "The boy walked over and stood close to Spade,",
+      "para_break": true
+    },
+    {
+      "start": 1136.62,
+      "end": 1137.92,
+      "text": "a little in front of him,"
+    },
+    {
+      "start": 1138.02,
+      "end": 1140.12,
+      "text": "but not directly between man and door."
+    },
+    {
+      "start": 1141.22,
+      "end": 1143.96,
+      "text": "The boy's right hand was inside his coat over his heart.",
+      "para_break": true
+    },
+    {
+      "start": 1144.7,
+      "end": 1146.62,
+      "text": "The corners of his mouth twitched.",
+      "para_break": true
+    },
+    {
+      "start": 1147.712,
+      "end": 1149.28,
+      "text": "Spade assayed his sixth step.",
+      "para_break": true
+    },
+    {
+      "start": 1150.08,
+      "end": 1153.08,
+      "text": "The boy's leg darted out across Spade's leg in front.",
+      "para_break": true
+    },
+    {
+      "start": 1153.984,
+      "end": 1155.68,
+      "text": "Spade tripped over the interfering leg",
+      "para_break": true
+    },
+    {
+      "start": 1155.9,
+      "end": 1157.76,
+      "text": "and crashed face down on the floor."
+    },
+    {
+      "start": 1158.94,
+      "end": 1159.3,
+      "text": "The boy,",
+      "para_break": true
+    },
+    {
+      "start": 1159.48,
+      "end": 1161.16,
+      "text": "keeping his right hand under his coat,"
+    },
+    {
+      "start": 1161.62,
+      "end": 1162.58,
+      "text": "looked down at Spade."
+    },
+    {
+      "start": 1163.712,
+      "end": 1164.78,
+      "text": "Spade tried to get up.",
+      "para_break": true
+    },
+    {
+      "start": 1165.68,
+      "end": 1167.4,
+      "text": "The boy drew his right foot far back",
+      "para_break": true
+    },
+    {
+      "start": 1167.68,
+      "end": 1169.06,
+      "text": "and kicked Spade's temple."
+    },
+    {
+      "start": 1170.22,
+      "end": 1172.14,
+      "text": "The kick rolled Spade over on his side.",
+      "para_break": true
+    },
+    {
+      "start": 1173.056,
+      "end": 1174.48,
+      "text": "Once more he tried to get up,",
+      "para_break": true
+    },
+    {
+      "start": 1174.88,
+      "end": 1175.24,
+      "text": "could not,"
+    },
+    {
+      "start": 1175.9,
+      "end": 1176.62,
+      "text": "and went to sleep."
+    },
+    {
+      "start": 1179.5,
+      "end": 1180.6,
+      "text": "End of chapter 13",
+      "para_break": true
+    }
+  ]
+}

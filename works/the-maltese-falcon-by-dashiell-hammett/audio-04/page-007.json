@@ -1,0 +1,285 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-04",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_04_hammett.mp3",
+  "chapter_title": "Chapter 4 - The Black Bird",
+  "reader_name": "Mark Nelson",
+  "page_num": 7,
+  "page_total": 7,
+  "page_start_sec": 1475.68,
+  "page_end_sec": 1573.8,
+  "para_gap_threshold": 0.737,
+  "segments": [
+    {
+      "start": 1475.68,
+      "end": 1477.696,
+      "text": "\"'The ornament is a statuette,'",
+      "para_break": true
+    },
+    {
+      "start": 1478.304,
+      "end": 1479.02,
+      "text": "Cairo went on,"
+    },
+    {
+      "start": 1479.06,
+      "end": 1480.98,
+      "text": "selecting and mouthing his words carefully."
+    },
+    {
+      "start": 1482.26,
+      "end": 1484.256,
+      "text": "\"'The black figure of a bird.'",
+      "para_break": true
+    },
+    {
+      "start": 1485.408,
+      "end": 1486.36,
+      "text": "Spade nodded again,",
+      "para_break": true
+    },
+    {
+      "start": 1486.56,
+      "end": 1487.66,
+      "text": "with courteous interest."
+    },
+    {
+      "start": 1489.14,
+      "end": 1490.32,
+      "text": "\"'I am prepared to pay,",
+      "para_break": true
+    },
+    {
+      "start": 1490.52,
+      "end": 1492.94,
+      "text": "on behalf of the figure's rightful owner,"
+    },
+    {
+      "start": 1493.18,
+      "end": 1495.34,
+      "text": "the sum of five thousand dollars"
+    },
+    {
+      "start": 1495.34,
+      "end": 1496.49,
+      "text": "for its recovery.'"
+    },
+    {
+      "start": 1498.08,
+      "end": 1500.12,
+      "text": "Cairo raised one hand from the desk and",
+      "para_break": true
+    },
+    {
+      "start": 1500.12,
+      "end": 1501.86,
+      "text": "touched a spot in the air with the broad"
+    },
+    {
+      "start": 1502.06,
+      "end": 1504.02,
+      "text": "nail tip of an ugly white forefinger."
+    },
+    {
+      "start": 1505.76,
+      "end": 1507.1,
+      "text": "\"'I am prepared to promise",
+      "para_break": true
+    },
+    {
+      "start": 1508.04,
+      "end": 1508.76,
+      "text": "that—what is the phrase?",
+      "para_break": true
+    },
+    {
+      "start": 1509.0,
+      "end": 1510.1,
+      "text": "No questions"
+    },
+    {
+      "start": 1510.28,
+      "end": 1511.14,
+      "text": "will be asked.'"
+    },
+    {
+      "start": 1511.75,
+      "end": 1515.74,
+      "text": "He put his hand on the desk beside the other and smiled blandly over"
+    },
+    {
+      "start": 1515.92,
+      "end": 1516.86,
+      "text": "them at the private detective."
+    },
+    {
+      "start": 1518.656,
+      "end": 1521.34,
+      "text": "\"'Five thousand is a lot of money,' Spade commented,",
+      "para_break": true
+    },
+    {
+      "start": 1521.52,
+      "end": 1521.76,
+      "text": "looking"
+    },
+    {
+      "start": 1521.94,
+      "end": 1523.22,
+      "text": "meditatively at Cairo."
+    },
+    {
+      "start": 1524.08,
+      "end": 1524.46,
+      "text": "It—'",
+      "para_break": true
+    },
+    {
+      "start": 1525.216,
+      "end": 1526.78,
+      "text": "Fingers drummed lightly on the door.",
+      "para_break": true
+    },
+    {
+      "start": 1527.52,
+      "end": 1528.44,
+      "text": "When Spade had called,",
+      "para_break": true
+    },
+    {
+      "start": 1528.6,
+      "end": 1528.96,
+      "text": "come in,"
+    },
+    {
+      "start": 1529.28,
+      "end": 1530.74,
+      "text": "the door opened far enough to admit"
+    },
+    {
+      "start": 1530.74,
+      "end": 1532.28,
+      "text": "Effie Perrine's head and shoulders."
+    },
+    {
+      "start": 1533.36,
+      "end": 1535.22,
+      "text": "She had put on a small dark felt hat",
+      "para_break": true
+    },
+    {
+      "start": 1535.22,
+      "end": 1537.2,
+      "text": "and a dark coat with a gray fur collar."
+    },
+    {
+      "start": 1538.68,
+      "end": 1539.54,
+      "text": "\"'Is there anything else,",
+      "para_break": true
+    },
+    {
+      "start": 1539.6,
+      "end": 1539.74,
+      "text": "Mr."
+    },
+    {
+      "start": 1539.82,
+      "end": 1541.04,
+      "text": "Spade?' she asked."
+    },
+    {
+      "start": 1541.68,
+      "end": 1542.14,
+      "text": "\"'No."
+    },
+    {
+      "start": 1542.18,
+      "end": 1542.74,
+      "text": "Good night."
+    },
+    {
+      "start": 1542.92,
+      "end": 1544.0,
+      "text": "Lock the door when you go,"
+    },
+    {
+      "start": 1544.08,
+      "end": 1544.48,
+      "text": "will you?'"
+    },
+    {
+      "start": 1545.44,
+      "end": 1546.44,
+      "text": "\"'Good night,' she said,",
+      "para_break": true
+    },
+    {
+      "start": 1546.54,
+      "end": 1548.2,
+      "text": "and disappeared behind the closing door."
+    },
+    {
+      "start": 1549.63,
+      "end": 1551.78,
+      "text": "Spade turned his chair to face Cairo again,",
+      "para_break": true
+    },
+    {
+      "start": 1551.9,
+      "end": 1552.22,
+      "text": "saying,"
+    },
+    {
+      "start": 1553.568,
+      "end": 1554.78,
+      "text": "\"'It interests me some.'",
+      "para_break": true
+    },
+    {
+      "start": 1555.44,
+      "end": 1557.48,
+      "text": "The sound of the corridor door closing"
+    },
+    {
+      "start": 1557.48,
+      "end": 1559.12,
+      "text": "behind Effie Perrine came to them."
+    },
+    {
+      "start": 1560.128,
+      "end": 1561.58,
+      "text": "Cairo smiled and took a short,",
+      "para_break": true
+    },
+    {
+      "start": 1561.66,
+      "end": 1562.04,
+      "text": "compact,"
+    },
+    {
+      "start": 1562.26,
+      "end": 1564.2,
+      "text": "flat black pistol out of an inner pocket."
+    },
+    {
+      "start": 1565.86,
+      "end": 1567.34,
+      "text": "\"'You will please,' he said,",
+      "para_break": true
+    },
+    {
+      "start": 1567.776,
+      "end": 1570.432,
+      "text": "\"'clasp your hands together at the back of your neck.'\""
+    },
+    {
+      "start": 1572.96,
+      "end": 1573.8,
+      "text": "End of chapter 4",
+      "para_break": true
+    }
+  ]
+}

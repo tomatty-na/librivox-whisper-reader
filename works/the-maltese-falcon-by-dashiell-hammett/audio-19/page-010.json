@@ -1,0 +1,505 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-19",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_19_hammett.mp3",
+  "chapter_title": "Chapter 19 - The Russian's Hand",
+  "reader_name": "Mark Nelson",
+  "page_num": 10,
+  "page_total": 10,
+  "page_start_sec": 2202.16,
+  "page_end_sec": 2379.5,
+  "para_gap_threshold": 0.671,
+  "segments": [
+    {
+      "start": 2202.16,
+      "end": 2202.44,
+      "text": "\"'But,"
+    },
+    {
+      "start": 2202.44,
+      "end": 2202.76,
+      "text": "well,"
+    },
+    {
+      "start": 2202.86,
+      "end": 2204.24,
+      "text": "we're none of us dead yet,"
+    },
+    {
+      "start": 2204.38,
+      "end": 2206.88,
+      "text": "and there's not a bit of use of thinking the world's"
+    },
+    {
+      "start": 2206.88,
+      "end": 2209.93,
+      "text": "come to an end just because we've run into a little setback.'"
+    },
+    {
+      "start": 2210.0,
+      "end": 2210.02,
+      "text": "back."
+    },
+    {
+      "start": 2211.15,
+      "end": 2214.34,
+      "text": "He brought his left hand from behind him and held it out at",
+      "para_break": true
+    },
+    {
+      "start": 2214.42,
+      "end": 2214.68,
+      "text": "Spade,"
+    },
+    {
+      "start": 2214.82,
+      "end": 2216.9,
+      "text": "pink smooth hilly palm up."
+    },
+    {
+      "start": 2218.36,
+      "end": 2219.88,
+      "text": "\"'I'll have to ask you for that envelope,",
+      "para_break": true
+    },
+    {
+      "start": 2220.06,
+      "end": 2220.48,
+      "text": "sir.'"
+    },
+    {
+      "start": 2221.6,
+      "end": 2222.64,
+      "text": "Spade did not move.",
+      "para_break": true
+    },
+    {
+      "start": 2223.36,
+      "end": 2224.3,
+      "text": "His face was wooden.",
+      "para_break": true
+    },
+    {
+      "start": 2224.832,
+      "end": 2225.34,
+      "text": "He said,"
+    },
+    {
+      "start": 2226.44,
+      "end": 2227.54,
+      "text": "\"'I held up my end.",
+      "para_break": true
+    },
+    {
+      "start": 2227.74,
+      "end": 2228.98,
+      "text": "You got your dingus."
+    },
+    {
+      "start": 2229.22,
+      "end": 2231.14,
+      "text": "It's your hard luck not mine"
+    },
+    {
+      "start": 2231.14,
+      "end": 2232.56,
+      "text": "that it wasn't what you wanted.'"
+    },
+    {
+      "start": 2233.632,
+      "end": 2234.22,
+      "text": "\"'Now come,",
+      "para_break": true
+    },
+    {
+      "start": 2234.38,
+      "end": 2236.9,
+      "text": "sir,' Gutman said persuasively."
+    },
+    {
+      "start": 2237.06,
+      "end": 2238.6,
+      "text": "\"'We've all failed,"
+    },
+    {
+      "start": 2238.74,
+      "end": 2239.18,
+      "text": "and"
+    },
+    {
+      "start": 2239.36,
+      "end": 2240.98,
+      "text": "There's no reason for expecting any"
+    },
+    {
+      "start": 2240.98,
+      "end": 2242.6,
+      "text": "one of us to bear the brunt of it."
+    },
+    {
+      "start": 2243.328,
+      "end": 2245.87,
+      "text": "It's simply one of those unfortunate happenings,",
+      "para_break": true
+    },
+    {
+      "start": 2245.98,
+      "end": 2246.83,
+      "text": "and—'"
+    },
+    {
+      "start": 2247.64,
+      "end": 2249.4,
+      "text": "He brought his right hand from behind him.",
+      "para_break": true
+    },
+    {
+      "start": 2249.96,
+      "end": 2251.48,
+      "text": "In the hand was a small pistol,"
+    },
+    {
+      "start": 2251.7,
+      "end": 2255.14,
+      "text": "an ornately engraved and inlaid affair of silver and gold"
+    },
+    {
+      "start": 2255.14,
+      "end": 2256.04,
+      "text": "and mother-of-pearl."
+    },
+    {
+      "start": 2257.38,
+      "end": 2257.84,
+      "text": "\"'In short,",
+      "para_break": true
+    },
+    {
+      "start": 2257.86,
+      "end": 2258.1,
+      "text": "sir,"
+    },
+    {
+      "start": 2258.22,
+      "end": 2261.4,
+      "text": "I must ask you to return my ten thousand dollars.'"
+    },
+    {
+      "start": 2262.88,
+      "end": 2264.48,
+      "text": "Spade's face did not change.",
+      "para_break": true
+    },
+    {
+      "start": 2265.0,
+      "end": 2268.42,
+      "text": "He shrugged phlegmatically and took the envelope from his pocket."
+    },
+    {
+      "start": 2269.34,
+      "end": 2270.86,
+      "text": "He started to hold it out to Gutman,",
+      "para_break": true
+    },
+    {
+      "start": 2271.08,
+      "end": 2272.02,
+      "text": "hesitated,"
+    },
+    {
+      "start": 2272.18,
+      "end": 2274.44,
+      "text": "opened the envelope and took out one thousand"
+    },
+    {
+      "start": 2274.56,
+      "end": 2275.02,
+      "text": "dollar bill."
+    },
+    {
+      "start": 2276.22,
+      "end": 2277.88,
+      "text": "He put that bill into his pants pocket.",
+      "para_break": true
+    },
+    {
+      "start": 2278.64,
+      "end": 2280.12,
+      "text": "He tucked the envelope's flap in over",
+      "para_break": true
+    },
+    {
+      "start": 2280.12,
+      "end": 2281.96,
+      "text": "the other bills and held them out to Gutman."
+    },
+    {
+      "start": 2283.36,
+      "end": 2284.94,
+      "text": "That'll take care of my time and expenses,",
+      "para_break": true
+    },
+    {
+      "start": 2285.38,
+      "end": 2286.02,
+      "text": "he said."
+    },
+    {
+      "start": 2286.26,
+      "end": 2286.36,
+      "text": "Gutman,"
+    },
+    {
+      "start": 2287.54,
+      "end": 2288.62,
+      "text": "after a little pause,",
+      "para_break": true
+    },
+    {
+      "start": 2288.96,
+      "end": 2291.84,
+      "text": "imitated Spade's shrug and accepted the envelope."
+    },
+    {
+      "start": 2292.54,
+      "end": 2292.82,
+      "text": "He said,",
+      "para_break": true
+    },
+    {
+      "start": 2293.67,
+      "end": 2294.22,
+      "text": "\"'Now,",
+      "para_break": true
+    },
+    {
+      "start": 2294.38,
+      "end": 2294.58,
+      "text": "sir,"
+    },
+    {
+      "start": 2295.04,
+      "end": 2296.28,
+      "text": "we will say good-bye to you,"
+    },
+    {
+      "start": 2296.4,
+      "end": 2296.95,
+      "text": "unless—'"
+    },
+    {
+      "start": 2297.88,
+      "end": 2300.02,
+      "text": "The fat puffs around his eyes crinkled.",
+      "para_break": true
+    },
+    {
+      "start": 2300.78,
+      "end": 2304.18,
+      "text": "\"'You care to undertake the Constantinople expedition with us?'",
+      "para_break": true
+    },
+    {
+      "start": 2304.68,
+      "end": 2305.22,
+      "text": "\"'You don't?"
+    },
+    {
+      "start": 2305.38,
+      "end": 2305.84,
+      "text": "Well,"
+    },
+    {
+      "start": 2305.94,
+      "end": 2306.16,
+      "text": "sir,"
+    },
+    {
+      "start": 2306.22,
+      "end": 2306.58,
+      "text": "frankly,"
+    },
+    {
+      "start": 2306.76,
+      "end": 2308.1,
+      "text": "I'd like to have you along."
+    },
+    {
+      "start": 2309.1,
+      "end": 2310.07,
+      "text": "You're a man to my liking,",
+      "para_break": true
+    },
+    {
+      "start": 2310.3,
+      "end": 2313.4,
+      "text": "a man of many resources and of nice judgment."
+    },
+    {
+      "start": 2314.26,
+      "end": 2316.34,
+      "text": "Because we know you're a man of nice judgment,",
+      "para_break": true
+    },
+    {
+      "start": 2316.84,
+      "end": 2318.92,
+      "text": "we know we can say good-bye with every assurance"
+    },
+    {
+      "start": 2319.14,
+      "end": 2321.74,
+      "text": "that you hold the details of our little enterprise in confidence."
+    },
+    {
+      "start": 2322.51,
+      "end": 2325.64,
+      "text": "We know we can count on you appreciating the fact that,",
+      "para_break": true
+    },
+    {
+      "start": 2325.68,
+      "end": 2327.36,
+      "text": "as the situation now stands,"
+    },
+    {
+      "start": 2328.02,
+      "end": 2330.16,
+      "text": "any legal difficulties that come to us"
+    },
+    {
+      "start": 2330.16,
+      "end": 2331.96,
+      "text": "in connection with these last few days"
+    },
+    {
+      "start": 2332.52,
+      "end": 2334.5,
+      "text": "would likewise and equally come to you"
+    },
+    {
+      "start": 2334.5,
+      "end": 2336.36,
+      "text": "and the charming Miss O'Shaughnessy."
+    },
+    {
+      "start": 2337.72,
+      "end": 2339.48,
+      "text": "You're too shrewd not to realize that,",
+      "para_break": true
+    },
+    {
+      "start": 2339.6,
+      "end": 2339.82,
+      "text": "sir,"
+    },
+    {
+      "start": 2339.94,
+      "end": 2340.76,
+      "text": "I'm sure.\""
+    },
+    {
+      "start": 2342.02,
+      "end": 2342.94,
+      "text": "I understand that,",
+      "para_break": true
+    },
+    {
+      "start": 2343.12,
+      "end": 2344.04,
+      "text": "Spade replied."
+    },
+    {
+      "start": 2344.37,
+      "end": 2345.82,
+      "text": "I was sure you would."
+    },
+    {
+      "start": 2346.15,
+      "end": 2347.58,
+      "text": "I'm also sure that,"
+    },
+    {
+      "start": 2347.74,
+      "end": 2349.14,
+      "text": "now there's no alternative,"
+    },
+    {
+      "start": 2349.46,
+      "end": 2352.928,
+      "text": "you'll somehow manage the police without giving them a fall guy.'"
+    },
+    {
+      "start": 2354.016,
+      "end": 2356.04,
+      "text": "\"'I'll make out all right,' Spade replied.",
+      "para_break": true
+    },
+    {
+      "start": 2356.74,
+      "end": 2357.86,
+      "text": "\"'I was sure you would.",
+      "para_break": true
+    },
+    {
+      "start": 2358.0,
+      "end": 2358.76,
+      "text": "Well,"
+    },
+    {
+      "start": 2358.82,
+      "end": 2359.02,
+      "text": "sir,"
+    },
+    {
+      "start": 2359.18,
+      "end": 2361.1,
+      "text": "the shortest farewells are the best."
+    },
+    {
+      "start": 2361.6,
+      "end": 2362.3,
+      "text": "Adieu.'"
+    },
+    {
+      "start": 2362.78,
+      "end": 2364.44,
+      "text": "He made a portly bow."
+    },
+    {
+      "start": 2365.36,
+      "end": 2365.84,
+      "text": "\"'And to you,",
+      "para_break": true
+    },
+    {
+      "start": 2365.88,
+      "end": 2366.64,
+      "text": "Miss O'Shaughnessy,"
+    },
+    {
+      "start": 2366.76,
+      "end": 2367.08,
+      "text": "adieu."
+    },
+    {
+      "start": 2367.62,
+      "end": 2371.67,
+      "text": "I leave you the Rara Avis on the table as a little memento.'\""
+    },
+    {
+      "start": 2374.4,
+      "end": 2375.28,
+      "text": "End of chapter 19",
+      "para_break": true
+    },
+    {
+      "start": 2376.02,
+      "end": 2379.5,
+      "text": "Thank you.",
+      "para_break": true
+    }
+  ]
+}

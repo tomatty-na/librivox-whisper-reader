@@ -1,0 +1,725 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-13",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_13_hammett.mp3",
+  "chapter_title": "Chapter 13 - The Emperor's Gift",
+  "reader_name": "Mark Nelson",
+  "page_num": 4,
+  "page_total": 5,
+  "page_start_sec": 748.96,
+  "page_end_sec": 990.88,
+  "para_gap_threshold": 0.673,
+  "segments": [
+    {
+      "start": 748.96,
+      "end": 750.56,
+      "text": "But his natural contrariness,",
+      "para_break": true
+    },
+    {
+      "start": 750.76,
+      "end": 753.24,
+      "text": "the natural contrariness of a Russian general,"
+    },
+    {
+      "start": 753.64,
+      "end": 756.2,
+      "text": "kept him from letting me have it when I made him an offer."
+    },
+    {
+      "start": 757.792,
+      "end": 759.73,
+      "text": "Maybe in my eagerness I was a little clumsy,",
+      "para_break": true
+    },
+    {
+      "start": 759.96,
+      "end": 760.98,
+      "text": "though not very."
+    },
+    {
+      "start": 761.98,
+      "end": 762.98,
+      "text": "I don't know about that,",
+      "para_break": true
+    },
+    {
+      "start": 763.18,
+      "end": 766.0,
+      "text": "but I do know I wanted it and I was afraid"
+    },
+    {
+      "start": 766.0,
+      "end": 768.18,
+      "text": "this stupid soldier might begin to investigate,"
+    },
+    {
+      "start": 768.66,
+      "end": 770.54,
+      "text": "might chip off some of the enamel."
+    },
+    {
+      "start": 770.73,
+      "end": 773.2,
+      "text": "So I sent some—ah,"
+    },
+    {
+      "start": 773.34,
+      "end": 774.5,
+      "text": "agents to get it."
+    },
+    {
+      "start": 775.06,
+      "end": 775.34,
+      "text": "Well,"
+    },
+    {
+      "start": 775.42,
+      "end": 775.64,
+      "text": "sir,"
+    },
+    {
+      "start": 775.78,
+      "end": 778.02,
+      "text": "they got it and I haven't got it."
+    },
+    {
+      "start": 778.77,
+      "end": 781.74,
+      "text": "He stood up and carried his empty glass to the table.",
+      "para_break": true
+    },
+    {
+      "start": 782.72,
+      "end": 783.96,
+      "text": "But I'm going to get it.",
+      "para_break": true
+    },
+    {
+      "start": 784.86,
+      "end": 785.26,
+      "text": "Your glass,",
+      "para_break": true
+    },
+    {
+      "start": 785.3,
+      "end": 785.54,
+      "text": "sir."
+    },
+    {
+      "start": 787.02,
+      "end": 788.76,
+      "text": "Then the bird doesn't belong to any of you,",
+      "para_break": true
+    },
+    {
+      "start": 789.088,
+      "end": 789.62,
+      "text": "Spade asked,"
+    },
+    {
+      "start": 790.16,
+      "end": 791.5,
+      "text": "but to a Russian named Kamidov?"
+    },
+    {
+      "start": 792.43,
+      "end": 795.62,
+      "text": "\"'Belong,' the fat man said jovially.",
+      "para_break": true
+    },
+    {
+      "start": 796.18,
+      "end": 796.42,
+      "text": "\"'Well,"
+    },
+    {
+      "start": 796.42,
+      "end": 796.66,
+      "text": "sir,"
+    },
+    {
+      "start": 796.82,
+      "end": 799.16,
+      "text": "you might say it belonged to the King of Spain,"
+    },
+    {
+      "start": 799.68,
+      "end": 801.42,
+      "text": "but I don't see how you can honestly"
+    },
+    {
+      "start": 801.42,
+      "end": 803.5,
+      "text": "grant anybody else clear title to it"
+    },
+    {
+      "start": 803.66,
+      "end": 805.632,
+      "text": "except by right of possession.'"
+    },
+    {
+      "start": 806.46,
+      "end": 807.36,
+      "text": "He clucked.",
+      "para_break": true
+    },
+    {
+      "start": 808.03,
+      "end": 810.1,
+      "text": "\"'An article of that value that is"
+    },
+    {
+      "start": 810.1,
+      "end": 812.04,
+      "text": "passed from hand to hand by such means"
+    },
+    {
+      "start": 812.34,
+      "end": 815.52,
+      "text": "is clearly the property of whoever can get hold of it.'"
+    },
+    {
+      "start": 816.864,
+      "end": 818.82,
+      "text": "\"'Then it is Miss O'Shaughnessy's now?'",
+      "para_break": true
+    },
+    {
+      "start": 819.12,
+      "end": 819.74,
+      "text": "\"'No,"
+    },
+    {
+      "start": 819.74,
+      "end": 819.94,
+      "text": "sir,"
+    },
+    {
+      "start": 820.04,
+      "end": 821.4,
+      "text": "except as my agent.'"
+    },
+    {
+      "start": 822.656,
+      "end": 823.12,
+      "text": "Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 823.3,
+      "end": 825.22,
+      "text": "\"'Oh?' ironically."
+    },
+    {
+      "start": 825.92,
+      "end": 826.78,
+      "text": "Gutman,",
+      "para_break": true
+    },
+    {
+      "start": 827.0,
+      "end": 828.68,
+      "text": "looking thoughtfully at the cork"
+    },
+    {
+      "start": 828.68,
+      "end": 830.04,
+      "text": "of the whiskey bottle in his hand,"
+    },
+    {
+      "start": 830.12,
+      "end": 830.38,
+      "text": "asked,"
+    },
+    {
+      "start": 831.904,
+      "end": 833.16,
+      "text": "\"'There's no doubt that she",
+      "para_break": true
+    },
+    {
+      "start": 833.16,
+      "end": 834.24,
+      "text": "has got it now?'"
+    },
+    {
+      "start": 835.008,
+      "end": 835.84,
+      "text": "\"'Not much.' \"'Where?'",
+      "para_break": true
+    },
+    {
+      "start": 838.0,
+      "end": 839.648,
+      "text": "\"'I don't know exactly.' The",
+      "para_break": true
+    },
+    {
+      "start": 840.38,
+      "end": 842.64,
+      "text": "fat man set the bottle on the table with a bang.",
+      "para_break": true
+    },
+    {
+      "start": 843.5,
+      "end": 844.16,
+      "text": "\"'But you said you",
+      "para_break": true
+    },
+    {
+      "start": 844.24,
+      "end": 845.84,
+      "text": "did,' he protested."
+    },
+    {
+      "start": 846.784,
+      "end": 848.96,
+      "text": "Spade made a careless gesture with one hand.",
+      "para_break": true
+    },
+    {
+      "start": 849.5,
+      "end": 850.36,
+      "text": "\"'I"
+    },
+    {
+      "start": 850.5,
+      "end": 853.27,
+      "text": "meant to say I know where to get it when the time comes.\""
+    },
+    {
+      "start": 854.18,
+      "end": 857.82,
+      "text": "The pink bulbs in Gutman's face arranged themselves more happily.",
+      "para_break": true
+    },
+    {
+      "start": 859.072,
+      "end": 860.54,
+      "text": "\"'And you do?' he asked.",
+      "para_break": true
+    },
+    {
+      "start": 861.28,
+      "end": 861.76,
+      "text": "\"'Yes.'",
+      "para_break": true
+    },
+    {
+      "start": 862.18,
+      "end": 862.92,
+      "text": "\"'Where?'"
+    },
+    {
+      "start": 863.872,
+      "end": 864.88,
+      "text": "Spade grinned and said,",
+      "para_break": true
+    },
+    {
+      "start": 865.0,
+      "end": 866.36,
+      "text": "\"'Leave that to me."
+    },
+    {
+      "start": 866.56,
+      "end": 867.86,
+      "text": "That's my end.'"
+    },
+    {
+      "start": 868.34,
+      "end": 869.08,
+      "text": "\"'When?'"
+    },
+    {
+      "start": 869.82,
+      "end": 870.55,
+      "text": "\"'When I'm ready.'",
+      "para_break": true
+    },
+    {
+      "start": 871.1,
+      "end": 873.74,
+      "text": "The fat man pursed his lips and smiling"
+    },
+    {
+      "start": 873.74,
+      "end": 875.54,
+      "text": "with only slight uneasiness asked,"
+    },
+    {
+      "start": 876.4,
+      "end": 876.5,
+      "text": "Mr.",
+      "para_break": true
+    },
+    {
+      "start": 877.06,
+      "end": 877.52,
+      "text": "Spade,"
+    },
+    {
+      "start": 877.7,
+      "end": 879.72,
+      "text": "where is Miss O'Shaughnessy now?"
+    },
+    {
+      "start": 881.1,
+      "end": 881.8,
+      "text": "In my hands,",
+      "para_break": true
+    },
+    {
+      "start": 881.92,
+      "end": 882.78,
+      "text": "safely put away."
+    },
+    {
+      "start": 884.48,
+      "end": 885.89,
+      "text": "Gutman smiled approvingly.",
+      "para_break": true
+    },
+    {
+      "start": 887.0,
+      "end": 887.7,
+      "text": "Trust you for that,",
+      "para_break": true
+    },
+    {
+      "start": 887.82,
+      "end": 887.98,
+      "text": "sir,"
+    },
+    {
+      "start": 888.54,
+      "end": 888.86,
+      "text": "he said."
+    },
+    {
+      "start": 889.54,
+      "end": 889.9,
+      "text": "Well now,",
+      "para_break": true
+    },
+    {
+      "start": 889.96,
+      "end": 890.16,
+      "text": "sir,"
+    },
+    {
+      "start": 890.48,
+      "end": 892.34,
+      "text": "before we sit down to talk prices,"
+    },
+    {
+      "start": 892.62,
+      "end": 893.6,
+      "text": "answer me this."
+    },
+    {
+      "start": 894.72,
+      "end": 895.96,
+      "text": "How soon can you,",
+      "para_break": true
+    },
+    {
+      "start": 896.04,
+      "end": 897.72,
+      "text": "or how soon are you willing to,"
+    },
+    {
+      "start": 897.8,
+      "end": 898.72,
+      "text": "produce the Falcon?"
+    },
+    {
+      "start": 900.1,
+      "end": 900.82,
+      "text": "A couple of days.",
+      "para_break": true
+    },
+    {
+      "start": 901.98,
+      "end": 902.94,
+      "text": "The fat man nodded.",
+      "para_break": true
+    },
+    {
+      "start": 903.62,
+      "end": 904.72,
+      "text": "That is satisfactory.",
+      "para_break": true
+    },
+    {
+      "start": 905.06,
+      "end": 905.06,
+      "text": "country."
+    },
+    {
+      "start": 906.32,
+      "end": 908.864,
+      "text": "We—but I forget our nourishment.\"",
+      "para_break": true
+    },
+    {
+      "start": 909.64,
+      "end": 910.6,
+      "text": "He turned to the table,",
+      "para_break": true
+    },
+    {
+      "start": 910.78,
+      "end": 911.46,
+      "text": "poured whiskey,"
+    },
+    {
+      "start": 911.76,
+      "end": 912.36,
+      "text": "squirted"
+    },
+    {
+      "start": 912.38,
+      "end": 913.42,
+      "text": "charged water into it,"
+    },
+    {
+      "start": 913.68,
+      "end": 915.2,
+      "text": "set a glass at Spade's elbow,"
+    },
+    {
+      "start": 915.4,
+      "end": 916.88,
+      "text": "and held his own aloft."
+    },
+    {
+      "start": 917.66,
+      "end": 918.22,
+      "text": "\"'Well,",
+      "para_break": true
+    },
+    {
+      "start": 918.22,
+      "end": 918.42,
+      "text": "sir,"
+    },
+    {
+      "start": 918.6,
+      "end": 922.816,
+      "text": "here's to a fair bargain and a profit large enough for both of us.'"
+    },
+    {
+      "start": 923.76,
+      "end": 924.2,
+      "text": "They drank.",
+      "para_break": true
+    },
+    {
+      "start": 924.6,
+      "end": 926.28,
+      "text": "The fat man sat down."
+    },
+    {
+      "start": 927.04,
+      "end": 927.6,
+      "text": "Spade asked,",
+      "para_break": true
+    },
+    {
+      "start": 928.768,
+      "end": 930.36,
+      "text": "\"'What's your idea of a fair bargain?'",
+      "para_break": true
+    },
+    {
+      "start": 931.776,
+      "end": 933.3,
+      "text": "Goodman held his glass to the light,",
+      "para_break": true
+    },
+    {
+      "start": 933.42,
+      "end": 935.2,
+      "text": "looked at it as if he liked it,"
+    },
+    {
+      "start": 935.46,
+      "end": 936.52,
+      "text": "took another long drink,"
+    },
+    {
+      "start": 936.52,
+      "end": 936.9,
+      "text": "and said,"
+    },
+    {
+      "start": 937.55,
+      "end": 939.82,
+      "text": "I have two proposals to make,"
+    },
+    {
+      "start": 939.9,
+      "end": 940.08,
+      "text": "sir,"
+    },
+    {
+      "start": 940.2,
+      "end": 941.44,
+      "text": "and either is fair."
+    },
+    {
+      "start": 942.5,
+      "end": 943.18,
+      "text": "Take your choice.",
+      "para_break": true
+    },
+    {
+      "start": 943.84,
+      "end": 944.92,
+      "text": "I will give you"
+    },
+    {
+      "start": 944.96,
+      "end": 947.52,
+      "text": "twenty-five thousand dollars when you deliver the Falcon,"
+    },
+    {
+      "start": 947.7,
+      "end": 949.94,
+      "text": "and another twenty-five thousand as soon"
+    },
+    {
+      "start": 949.94,
+      "end": 951.02,
+      "text": "as I get to New York,"
+    },
+    {
+      "start": 951.39,
+      "end": 953.3,
+      "text": "or I will give you one quarter,"
+    },
+    {
+      "start": 953.54,
+      "end": 954.7,
+      "text": "twenty-five percent,"
+    },
+    {
+      "start": 954.94,
+      "end": 956.06,
+      "text": "of what I realize"
+    },
+    {
+      "start": 956.28,
+      "end": 956.82,
+      "text": "on the Falcon."
+    },
+    {
+      "start": 957.84,
+      "end": 958.28,
+      "text": "There you are,",
+      "para_break": true
+    },
+    {
+      "start": 958.36,
+      "end": 958.52,
+      "text": "sir,"
+    },
+    {
+      "start": 958.7,
+      "end": 961.18,
+      "text": "an almost immediate fifty thousand dollars,"
+    },
+    {
+      "start": 961.4,
+      "end": 962.22,
+      "text": "or a vastly"
+    },
+    {
+      "start": 962.26,
+      "end": 963.26,
+      "text": "greater sum within,"
+    },
+    {
+      "start": 963.4,
+      "end": 963.72,
+      "text": "say,"
+    },
+    {
+      "start": 963.9,
+      "end": 965.312,
+      "text": "a couple of months.'"
+    },
+    {
+      "start": 966.592,
+      "end": 967.72,
+      "text": "Spade drank and asked,",
+      "para_break": true
+    },
+    {
+      "start": 968.56,
+      "end": 969.5,
+      "text": "\"'How much greater?'",
+      "para_break": true
+    },
+    {
+      "start": 970.52,
+      "end": 972.4,
+      "text": "\"'Vastly,' the fat man repeated.",
+      "para_break": true
+    },
+    {
+      "start": 973.56,
+      "end": 975.18,
+      "text": "\"'Will you believe me if I name the",
+      "para_break": true
+    },
+    {
+      "start": 975.18,
+      "end": 977.23,
+      "text": "amount that seems the probable minimum?'"
+    },
+    {
+      "start": 978.12,
+      "end": 978.68,
+      "text": "\"'Why not?'",
+      "para_break": true
+    },
+    {
+      "start": 979.9,
+      "end": 980.5,
+      "text": "\"'What would you say,",
+      "para_break": true
+    },
+    {
+      "start": 980.62,
+      "end": 980.86,
+      "text": "sir,"
+    },
+    {
+      "start": 980.98,
+      "end": 982.26,
+      "text": "to half a million?'"
+    },
+    {
+      "start": 983.392,
+      "end": 984.66,
+      "text": "Spade narrowed his eyes.",
+      "para_break": true
+    },
+    {
+      "start": 985.29,
+      "end": 988.35,
+      "text": "Then you think the dingus is worth two million?\""
+    },
+    {
+      "start": 989.44,
+      "end": 990.88,
+      "text": "Gutman smiled serenely.",
+      "para_break": true
+    }
+  ]
+}

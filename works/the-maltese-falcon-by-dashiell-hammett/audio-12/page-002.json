@@ -1,0 +1,653 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-12",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_12_hammett.mp3",
+  "chapter_title": "Chapter 12 - Merry-Go-Round",
+  "reader_name": "Mark Nelson",
+  "page_num": 2,
+  "page_total": 5,
+  "page_start_sec": 250.82,
+  "page_end_sec": 491.14,
+  "para_gap_threshold": 0.759,
+  "segments": [
+    {
+      "start": 250.82,
+      "end": 253.32,
+      "text": "She says she saw the girl with you last night,",
+      "para_break": true
+    },
+    {
+      "start": 253.55,
+      "end": 254.68,
+      "text": "and who had come out"
+    },
+    {
+      "start": 254.68,
+      "end": 255.44,
+      "text": "just ahead of him."
+    },
+    {
+      "start": 256.46,
+      "end": 257.94,
+      "text": "She knew then that he was working,",
+      "para_break": true
+    },
+    {
+      "start": 258.48,
+      "end": 259.28,
+      "text": "had been kidding her."
+    },
+    {
+      "start": 259.94,
+      "end": 262.0,
+      "text": "I suppose she was disappointed and mad."
+    },
+    {
+      "start": 262.82,
+      "end": 264.94,
+      "text": "She sounded that way when she told me about it.",
+      "para_break": true
+    },
+    {
+      "start": 265.54,
+      "end": 268.8,
+      "text": "She followed Miles long enough to be sure he was shadowing the pair,"
+    },
+    {
+      "start": 269.38,
+      "end": 271.0,
+      "text": "and then she went up to your rooms."
+    },
+    {
+      "start": 271.64,
+      "end": 272.34,
+      "text": "You weren't home."
+    },
+    {
+      "start": 273.12,
+      "end": 274.14,
+      "text": "What time was that?",
+      "para_break": true
+    },
+    {
+      "start": 274.688,
+      "end": 275.24,
+      "text": "Spade asked."
+    },
+    {
+      "start": 276.16,
+      "end": 277.06,
+      "text": "When she got to your place?",
+      "para_break": true
+    },
+    {
+      "start": 277.35,
+      "end": 279.5,
+      "text": "Between half-past nine and ten,"
+    },
+    {
+      "start": 279.66,
+      "end": 280.42,
+      "text": "the first time."
+    },
+    {
+      "start": 281.44,
+      "end": 282.28,
+      "text": "The first time?",
+      "para_break": true
+    },
+    {
+      "start": 282.76,
+      "end": 283.64,
+      "text": "Yes."
+    },
+    {
+      "start": 284.3,
+      "end": 286.62,
+      "text": "She drove around for half an hour or more after that,"
+    },
+    {
+      "start": 286.68,
+      "end": 287.84,
+      "text": "and then tried again."
+    },
+    {
+      "start": 288.6,
+      "end": 289.54,
+      "text": "That would make it,",
+      "para_break": true
+    },
+    {
+      "start": 289.58,
+      "end": 289.92,
+      "text": "say,"
+    },
+    {
+      "start": 290.06,
+      "end": 290.64,
+      "text": "ten-thirty."
+    },
+    {
+      "start": 291.58,
+      "end": 292.32,
+      "text": "You were still out,",
+      "para_break": true
+    },
+    {
+      "start": 292.4,
+      "end": 294.58,
+      "text": "so she drove back downtown and went to a"
+    },
+    {
+      "start": 294.58,
+      "end": 296.42,
+      "text": "movie to kill time until after midnight,"
+    },
+    {
+      "start": 296.8,
+      "end": 299.5,
+      "text": "when she thought she'd be more likely to find you in."
+    },
+    {
+      "start": 300.736,
+      "end": 301.52,
+      "text": "Spade frowned.",
+      "para_break": true
+    },
+    {
+      "start": 302.52,
+      "end": 304.14,
+      "text": "She went to a movie at ten-thirty?",
+      "para_break": true
+    },
+    {
+      "start": 305.14,
+      "end": 305.72,
+      "text": "So she said.",
+      "para_break": true
+    },
+    {
+      "start": 306.24,
+      "end": 309.3,
+      "text": "The one on Powell Street that stays open till one in the morning."
+    },
+    {
+      "start": 310.28,
+      "end": 311.36,
+      "text": "She didn't want to go home,",
+      "para_break": true
+    },
+    {
+      "start": 311.44,
+      "end": 311.8,
+      "text": "she said,"
+    },
+    {
+      "start": 311.88,
+      "end": 314.58,
+      "text": "because she didn't want to be there when Miles came home."
+    },
+    {
+      "start": 315.78,
+      "end": 317.14,
+      "text": "That always made him mad,",
+      "para_break": true
+    },
+    {
+      "start": 317.22,
+      "end": 317.64,
+      "text": "it seems,"
+    },
+    {
+      "start": 317.86,
+      "end": 319.86,
+      "text": "especially if it was around midnight."
+    },
+    {
+      "start": 321.34,
+      "end": 323.46,
+      "text": "She stayed in the movie until it closed.",
+      "para_break": true
+    },
+    {
+      "start": 325.152,
+      "end": 326.86,
+      "text": "Wise's words came out slower now,",
+      "para_break": true
+    },
+    {
+      "start": 327.04,
+      "end": 329.68,
+      "text": "and there was a sardonic glint in his tired eyes."
+    },
+    {
+      "start": 331.392,
+      "end": 334.76,
+      "text": "She says she had decided not to go back to your place then.",
+      "para_break": true
+    },
+    {
+      "start": 336.32,
+      "end": 339.88,
+      "text": "She says she didn't know whether you'd like having her drop in that",
+      "para_break": true
+    },
+    {
+      "start": 340.04,
+      "end": 340.2,
+      "text": "late."
+    },
+    {
+      "start": 340.44,
+      "end": 342.28,
+      "text": "So she went to Tate's,"
+    },
+    {
+      "start": 342.36,
+      "end": 343.42,
+      "text": "the one on Ellis Street,"
+    },
+    {
+      "start": 343.98,
+      "end": 344.62,
+      "text": "had something to"
+    },
+    {
+      "start": 344.62,
+      "end": 344.86,
+      "text": "eat,"
+    },
+    {
+      "start": 344.94,
+      "end": 346.26,
+      "text": "and then went home alone."
+    },
+    {
+      "start": 348.18,
+      "end": 351.14,
+      "text": "Wise rocked back in his chair and waited for Spade to speak.",
+      "para_break": true
+    },
+    {
+      "start": 351.66,
+      "end": 352.31,
+      "text": "Spade's"
+    },
+    {
+      "start": 352.72,
+      "end": 353.86,
+      "text": "face was expressionless."
+    },
+    {
+      "start": 354.58,
+      "end": 354.94,
+      "text": "He asked,"
+    },
+    {
+      "start": 355.27,
+      "end": 356.54,
+      "text": "You believe her?"
+    },
+    {
+      "start": 357.664,
+      "end": 358.0,
+      "text": "Don't you?",
+      "para_break": true
+    },
+    {
+      "start": 358.24,
+      "end": 359.18,
+      "text": "Wise replied."
+    },
+    {
+      "start": 360.04,
+      "end": 361.16,
+      "text": "How do I know?",
+      "para_break": true
+    },
+    {
+      "start": 361.58,
+      "end": 364.16,
+      "text": "How do I know it wasn't something you fixed up between"
+    },
+    {
+      "start": 364.26,
+      "end": 364.94,
+      "text": "you to tell me?"
+    },
+    {
+      "start": 366.112,
+      "end": 366.7,
+      "text": "Wise smiled.",
+      "para_break": true
+    },
+    {
+      "start": 368.08,
+      "end": 369.96,
+      "text": "You don't cash many checks for strangers,",
+      "para_break": true
+    },
+    {
+      "start": 370.08,
+      "end": 370.46,
+      "text": "do you,"
+    },
+    {
+      "start": 370.5,
+      "end": 370.76,
+      "text": "Sammy?"
+    },
+    {
+      "start": 372.02,
+      "end": 372.94,
+      "text": "Not basketfuls.",
+      "para_break": true
+    },
+    {
+      "start": 373.62,
+      "end": 373.84,
+      "text": "Well,"
+    },
+    {
+      "start": 374.04,
+      "end": 374.68,
+      "text": "then what?"
+    },
+    {
+      "start": 375.44,
+      "end": 376.26,
+      "text": "Miles wasn't home.",
+      "para_break": true
+    },
+    {
+      "start": 376.78,
+      "end": 378.64,
+      "text": "It was at least two o'clock by then."
+    },
+    {
+      "start": 380.0,
+      "end": 381.02,
+      "text": "Miles wasn't home,",
+      "para_break": true
+    },
+    {
+      "start": 381.2,
+      "end": 382.04,
+      "text": "Wise said."
+    },
+    {
+      "start": 383.104,
+      "end": 384.5,
+      "text": "That made her mad again,",
+      "para_break": true
+    },
+    {
+      "start": 385.184,
+      "end": 387.08,
+      "text": "because he didn't get home first to be"
+    },
+    {
+      "start": 387.08,
+      "end": 389.26,
+      "text": "made mad by her not being home first."
+    },
+    {
+      "start": 390.16,
+      "end": 391.68,
+      "text": "So she took the car out of the garage",
+      "para_break": true
+    },
+    {
+      "start": 391.68,
+      "end": 393.38,
+      "text": "again and went back to your place."
+    },
+    {
+      "start": 394.8,
+      "end": 395.6,
+      "text": "And I wasn't home.",
+      "para_break": true
+    },
+    {
+      "start": 395.94,
+      "end": 398.12,
+      "text": "I was down looking at Miles's corpse."
+    },
+    {
+      "start": 399.872,
+      "end": 402.52,
+      "text": "What a swell lot of merry-go-round writing!",
+      "para_break": true
+    },
+    {
+      "start": 403.74,
+      "end": 404.18,
+      "text": "What next?",
+      "para_break": true
+    },
+    {
+      "start": 405.58,
+      "end": 408.1,
+      "text": "She went home and her husband was still not there,",
+      "para_break": true
+    },
+    {
+      "start": 408.66,
+      "end": 409.92,
+      "text": "and while she was undressing,"
+    },
+    {
+      "start": 410.46,
+      "end": 412.58,
+      "text": "your messenger came with the news of his death."
+    },
+    {
+      "start": 414.4,
+      "end": 416.94,
+      "text": "Spade didn't speak until he had with great care",
+      "para_break": true
+    },
+    {
+      "start": 417.08,
+      "end": 418.66,
+      "text": "rolled and lighted another cigarette."
+    },
+    {
+      "start": 419.72,
+      "end": 420.24,
+      "text": "Then he said,",
+      "para_break": true
+    },
+    {
+      "start": 421.44,
+      "end": 422.8,
+      "text": "I think that's an all right spread.",
+      "para_break": true
+    },
+    {
+      "start": 423.6,
+      "end": 425.12,
+      "text": "It seems to click with the known facts.",
+      "para_break": true
+    },
+    {
+      "start": 426.14,
+      "end": 426.96,
+      "text": "It ought to hold.",
+      "para_break": true
+    },
+    {
+      "start": 428.512,
+      "end": 429.12,
+      "text": "Wise's fingers,",
+      "para_break": true
+    },
+    {
+      "start": 429.4,
+      "end": 430.54,
+      "text": "running through his hair again,"
+    },
+    {
+      "start": 430.86,
+      "end": 432.9,
+      "text": "combed more dandruff down on his shoulders."
+    },
+    {
+      "start": 433.7,
+      "end": 437.22,
+      "text": "He studied Spade's face with curious eyes and asked,",
+      "para_break": true
+    },
+    {
+      "start": 438.34,
+      "end": 439.48,
+      "text": "But you don't believe it?",
+      "para_break": true
+    },
+    {
+      "start": 440.704,
+      "end": 442.8,
+      "text": "Spade plucked the cigarette from between his lips.",
+      "para_break": true
+    },
+    {
+      "start": 443.57,
+      "end": 445.66,
+      "text": "I don't believe it or disbelieve it,",
+      "para_break": true
+    },
+    {
+      "start": 445.7,
+      "end": 445.88,
+      "text": "Sid."
+    },
+    {
+      "start": 446.5,
+      "end": 448.22,
+      "text": "I don't know a damn thing about it."
+    },
+    {
+      "start": 449.6,
+      "end": 451.7,
+      "text": "A wry smile twisted the lawyer's mouth.",
+      "para_break": true
+    },
+    {
+      "start": 452.48,
+      "end": 453.98,
+      "text": "He shrugged wearily and said,",
+      "para_break": true
+    },
+    {
+      "start": 455.2,
+      "end": 455.8,
+      "text": "That's right,",
+      "para_break": true
+    },
+    {
+      "start": 455.94,
+      "end": 457.28,
+      "text": "I'm selling you out."
+    },
+    {
+      "start": 458.26,
+      "end": 459.66,
+      "text": "Why don't you get an honest lawyer,",
+      "para_break": true
+    },
+    {
+      "start": 459.88,
+      "end": 460.76,
+      "text": "one you can trust?"
+    },
+    {
+      "start": 461.44,
+      "end": 462.0,
+      "text": "Oh,"
+    },
+    {
+      "start": 462.2,
+      "end": 463.22,
+      "text": "that fellow's dead."
+    },
+    {
+      "start": 464.32,
+      "end": 465.08,
+      "text": "Spade stood up.",
+      "para_break": true
+    },
+    {
+      "start": 465.74,
+      "end": 466.78,
+      "text": "He sneered at Wise."
+    },
+    {
+      "start": 468.096,
+      "end": 468.74,
+      "text": "Getting touchy,",
+      "para_break": true
+    },
+    {
+      "start": 468.74,
+      "end": 468.9,
+      "text": "huh?"
+    },
+    {
+      "start": 469.92,
+      "end": 471.38,
+      "text": "I haven't got enough to think about.",
+      "para_break": true
+    },
+    {
+      "start": 471.53,
+      "end": 473.28,
+      "text": "Now I've got to remember to be"
+    },
+    {
+      "start": 473.38,
+      "end": 474.08,
+      "text": "polite to you."
+    },
+    {
+      "start": 475.02,
+      "end": 475.62,
+      "text": "What did I do?",
+      "para_break": true
+    },
+    {
+      "start": 475.8,
+      "end": 477.94,
+      "text": "Forget to genuflect when I came in?"
+    },
+    {
+      "start": 479.424,
+      "end": 481.18,
+      "text": "Sid Wise smiled sheepishly.",
+      "para_break": true
+    },
+    {
+      "start": 482.528,
+      "end": 483.44,
+      "text": "\"'You're a son of a gun,",
+      "para_break": true
+    },
+    {
+      "start": 483.58,
+      "end": 484.88,
+      "text": "Sammy,' he said.\""
+    },
+    {
+      "start": 487.648,
+      "end": 489.26,
+      "text": "Effie Perrine was standing in the center",
+      "para_break": true
+    },
+    {
+      "start": 489.26,
+      "end": 491.14,
+      "text": "of Spade's outer office when he entered."
+    }
+  ]
+}

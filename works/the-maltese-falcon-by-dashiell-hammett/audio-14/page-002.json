@@ -1,0 +1,707 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-14",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_14_hammett.mp3",
+  "chapter_title": "Chapter 14 - La Paloma",
+  "reader_name": "Mark Nelson",
+  "page_num": 2,
+  "page_total": 5,
+  "page_start_sec": 251.62,
+  "page_end_sec": 492.68,
+  "para_gap_threshold": 0.707,
+  "segments": [
+    {
+      "start": 251.62,
+      "end": 253.16,
+      "text": "It was after I told him he'd have",
+      "para_break": true
+    },
+    {
+      "start": 253.16,
+      "end": 254.86,
+      "text": "to wait a couple of days that he fed"
+    },
+    {
+      "start": 254.86,
+      "end": 255.4,
+      "text": "me the junk."
+    },
+    {
+      "start": 256.52,
+      "end": 258.0,
+      "text": "It's not likely he thought I was dead.",
+      "para_break": true
+    },
+    {
+      "start": 259.072,
+      "end": 260.56,
+      "text": "He'd know I'd be up and around in",
+      "para_break": true
+    },
+    {
+      "start": 260.56,
+      "end": 261.48,
+      "text": "ten or twelve hours."
+    },
+    {
+      "start": 262.5,
+      "end": 266.38,
+      "text": "So maybe the answer's that he figured he could get it without my",
+      "para_break": true
+    },
+    {
+      "start": 266.5,
+      "end": 269.83,
+      "text": "help in that time if I was fixed up so I couldn't interfere.\""
+    },
+    {
+      "start": 270.66,
+      "end": 271.82,
+      "text": "He scowled.",
+      "para_break": true
+    },
+    {
+      "start": 272.94,
+      "end": 274.48,
+      "text": "I hoped he was wrong.",
+      "para_break": true
+    },
+    {
+      "start": 275.38,
+      "end": 277.24,
+      "text": "His stare became less distant.",
+      "para_break": true
+    },
+    {
+      "start": 278.496,
+      "end": 279.56,
+      "text": "Any word from O'Shaughnessy?",
+      "para_break": true
+    },
+    {
+      "start": 280.16,
+      "end": 282.34,
+      "text": "The girl shook her head no and asked,"
+    },
+    {
+      "start": 283.488,
+      "end": 285.26,
+      "text": "\"'Has this got anything to do with her?'",
+      "para_break": true
+    },
+    {
+      "start": 285.64,
+      "end": 286.44,
+      "text": "\"'Something.'"
+    },
+    {
+      "start": 287.68,
+      "end": 289.52,
+      "text": "\"'This thing he once belongs to her?'",
+      "para_break": true
+    },
+    {
+      "start": 290.336,
+      "end": 291.5,
+      "text": "\"'Or to the King of Spain.",
+      "para_break": true
+    },
+    {
+      "start": 292.12,
+      "end": 292.82,
+      "text": "Sweetheart,"
+    },
+    {
+      "start": 292.94,
+      "end": 294.78,
+      "text": "you've got an uncle that teaches history"
+    },
+    {
+      "start": 294.78,
+      "end": 296.5,
+      "text": "or something over at the university?'"
+    },
+    {
+      "start": 297.28,
+      "end": 297.66,
+      "text": "\"'A cousin.",
+      "para_break": true
+    },
+    {
+      "start": 297.76,
+      "end": 298.26,
+      "text": "Why?'"
+    },
+    {
+      "start": 299.48,
+      "end": 301.16,
+      "text": "\"'If we brighten his life with an alleged",
+      "para_break": true
+    },
+    {
+      "start": 301.16,
+      "end": 303.3,
+      "text": "historical secret four centuries old,"
+    },
+    {
+      "start": 303.6,
+      "end": 305.98,
+      "text": "can he be trusted to keep it dark a while?'"
+    },
+    {
+      "start": 306.36,
+      "end": 306.86,
+      "text": "\"'Oh,"
+    },
+    {
+      "start": 306.86,
+      "end": 307.06,
+      "text": "yes."
+    },
+    {
+      "start": 307.28,
+      "end": 308.36,
+      "text": "He's good people.'"
+    },
+    {
+      "start": 308.64,
+      "end": 308.74,
+      "text": "Fine."
+    },
+    {
+      "start": 309.94,
+      "end": 311.01,
+      "text": "Get your pencil and book.\"",
+      "para_break": true
+    },
+    {
+      "start": 312.1,
+      "end": 313.58,
+      "text": "She got them and sat in her chair.",
+      "para_break": true
+    },
+    {
+      "start": 314.496,
+      "end": 315.22,
+      "text": "Spade ran more",
+      "para_break": true
+    },
+    {
+      "start": 315.34,
+      "end": 316.58,
+      "text": "cold water on his handkerchief,"
+    },
+    {
+      "start": 316.84,
+      "end": 318.16,
+      "text": "and holding it to his temple,"
+    },
+    {
+      "start": 318.32,
+      "end": 319.82,
+      "text": "stood in front of her and"
+    },
+    {
+      "start": 319.94,
+      "end": 322.94,
+      "text": "dictated the story of the Falcon as he had heard it from Gutman."
+    },
+    {
+      "start": 323.904,
+      "end": 325.4,
+      "text": "From Charles V's grant",
+      "para_break": true
+    },
+    {
+      "start": 325.4,
+      "end": 326.2,
+      "text": "to the Hospitaller's,"
+    },
+    {
+      "start": 326.56,
+      "end": 326.96,
+      "text": "up to,"
+    },
+    {
+      "start": 327.18,
+      "end": 328.22,
+      "text": "but no further than,"
+    },
+    {
+      "start": 328.84,
+      "end": 330.54,
+      "text": "the enameled bird's arrival in Paris"
+    },
+    {
+      "start": 330.8,
+      "end": 332.42,
+      "text": "at the time of the Carlist influx."
+    },
+    {
+      "start": 333.84,
+      "end": 336.14,
+      "text": "He stumbled over the names of authors and their works",
+      "para_break": true
+    },
+    {
+      "start": 336.28,
+      "end": 337.26,
+      "text": "that Gutman had mentioned,"
+    },
+    {
+      "start": 337.44,
+      "end": 340.68,
+      "text": "Bud managed to achieve some sort of phonetic likeness."
+    },
+    {
+      "start": 341.4,
+      "end": 343.92,
+      "text": "The rest of the history he repeated with",
+      "para_break": true
+    },
+    {
+      "start": 343.92,
+      "end": 345.94,
+      "text": "the accuracy of a trained interviewer."
+    },
+    {
+      "start": 347.24,
+      "end": 348.0,
+      "text": "When he had finished,",
+      "para_break": true
+    },
+    {
+      "start": 348.38,
+      "end": 350.56,
+      "text": "the girl shut her notebook and raised a flushed,"
+    },
+    {
+      "start": 350.56,
+      "end": 351.66,
+      "text": "smiling face to him."
+    },
+    {
+      "start": 352.5,
+      "end": 352.92,
+      "text": "\"'Oh,",
+      "para_break": true
+    },
+    {
+      "start": 353.06,
+      "end": 354.96,
+      "text": "isn't this thrilling?' she said."
+    },
+    {
+      "start": 355.5,
+      "end": 356.44,
+      "text": "\"'It's—yes,"
+    },
+    {
+      "start": 356.66,
+      "end": 357.4,
+      "text": "or ridiculous."
+    },
+    {
+      "start": 358.71,
+      "end": 359.16,
+      "text": "Now,",
+      "para_break": true
+    },
+    {
+      "start": 359.76,
+      "end": 361.44,
+      "text": "will you take it over and read it to your"
+    },
+    {
+      "start": 361.44,
+      "end": 363.6,
+      "text": "cousin and ask him what he thinks of it?"
+    },
+    {
+      "start": 364.54,
+      "end": 366.28,
+      "text": "Has he ever run across anything that",
+      "para_break": true
+    },
+    {
+      "start": 366.28,
+      "end": 367.74,
+      "text": "might have some connection with it?"
+    },
+    {
+      "start": 368.38,
+      "end": 368.96,
+      "text": "Is it probable?"
+    },
+    {
+      "start": 369.74,
+      "end": 370.38,
+      "text": "Is it possible,",
+      "para_break": true
+    },
+    {
+      "start": 370.58,
+      "end": 371.9,
+      "text": "or even barely possible?"
+    },
+    {
+      "start": 372.8,
+      "end": 373.74,
+      "text": "Or is it the bunk?",
+      "para_break": true
+    },
+    {
+      "start": 374.82,
+      "end": 376.32,
+      "text": "If he wants more time to look it up,",
+      "para_break": true
+    },
+    {
+      "start": 376.42,
+      "end": 376.68,
+      "text": "okay,"
+    },
+    {
+      "start": 377.5,
+      "end": 379.7,
+      "text": "but get some sort of an opinion out of him now.",
+      "para_break": true
+    },
+    {
+      "start": 380.48,
+      "end": 383.0,
+      "text": "And for God's sake make him keep it under his hat.",
+      "para_break": true
+    },
+    {
+      "start": 384.16,
+      "end": 384.94,
+      "text": "I'll go right now,",
+      "para_break": true
+    },
+    {
+      "start": 385.12,
+      "end": 385.72,
+      "text": "she said,"
+    },
+    {
+      "start": 386.14,
+      "end": 387.88,
+      "text": "and you go see a doctor about that head."
+    },
+    {
+      "start": 389.34,
+      "end": 390.4,
+      "text": "We'll have breakfast first.",
+      "para_break": true
+    },
+    {
+      "start": 391.14,
+      "end": 391.38,
+      "text": "No,",
+      "para_break": true
+    },
+    {
+      "start": 391.52,
+      "end": 392.54,
+      "text": "I'll eat over in Berkeley."
+    },
+    {
+      "start": 392.86,
+      "end": 395.52,
+      "text": "I can't wait to hear what Ted thinks of this.\""
+    },
+    {
+      "start": 396.26,
+      "end": 396.5,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 396.74,
+      "end": 397.4,
+      "text": "Spade said,"
+    },
+    {
+      "start": 397.56,
+      "end": 399.98,
+      "text": "don't start boo-hooing if he laughs at you."
+    },
+    {
+      "start": 402.048,
+      "end": 403.82,
+      "text": "After a leisurely breakfast at the palace,",
+      "para_break": true
+    },
+    {
+      "start": 404.0,
+      "end": 406.0,
+      "text": "during which he read both morning papers,"
+    },
+    {
+      "start": 406.688,
+      "end": 407.4,
+      "text": "Spade went home,"
+    },
+    {
+      "start": 407.6,
+      "end": 408.04,
+      "text": "shaved,"
+    },
+    {
+      "start": 408.34,
+      "end": 408.9,
+      "text": "bathed,"
+    },
+    {
+      "start": 408.92,
+      "end": 410.52,
+      "text": "rubbed ice on his bruised temple,"
+    },
+    {
+      "start": 410.66,
+      "end": 411.92,
+      "text": "and put on fresh clothes."
+    },
+    {
+      "start": 412.68,
+      "end": 415.76,
+      "text": "He went to Brigitte O'Shaughnessy's apartment at the Coronet.",
+      "para_break": true
+    },
+    {
+      "start": 416.768,
+      "end": 417.86,
+      "text": "Nobody was in her apartment.",
+      "para_break": true
+    },
+    {
+      "start": 418.816,
+      "end": 421.24,
+      "text": "Nothing had been changed in it since his last visit.",
+      "para_break": true
+    },
+    {
+      "start": 422.13,
+      "end": 424.16,
+      "text": "He went to the Alexandria Hotel.",
+      "para_break": true
+    },
+    {
+      "start": 425.184,
+      "end": 426.06,
+      "text": "Gutman was not in.",
+      "para_break": true
+    },
+    {
+      "start": 426.94,
+      "end": 428.84,
+      "text": "None of the other occupants of Gutman's suite",
+      "para_break": true
+    },
+    {
+      "start": 428.84,
+      "end": 429.28,
+      "text": "was in."
+    },
+    {
+      "start": 430.272,
+      "end": 431.44,
+      "text": "Spade learned that these other",
+      "para_break": true
+    },
+    {
+      "start": 431.44,
+      "end": 433.16,
+      "text": "occupants were the fat man's secretary,"
+    },
+    {
+      "start": 433.64,
+      "end": 434.28,
+      "text": "Wilmer Cook,"
+    },
+    {
+      "start": 434.56,
+      "end": 435.72,
+      "text": "and his daughter Ria,"
+    },
+    {
+      "start": 435.9,
+      "end": 437.02,
+      "text": "a brown-eyed,"
+    },
+    {
+      "start": 437.1,
+      "end": 437.7,
+      "text": "fair-haired,"
+    },
+    {
+      "start": 437.78,
+      "end": 439.06,
+      "text": "smallish girl of seventeen,"
+    },
+    {
+      "start": 439.48,
+      "end": 440.8,
+      "text": "called beautiful by"
+    },
+    {
+      "start": 440.8,
+      "end": 441.58,
+      "text": "the hotel staff."
+    },
+    {
+      "start": 442.912,
+      "end": 444.92,
+      "text": "Spade was told that the Gutman party had",
+      "para_break": true
+    },
+    {
+      "start": 444.92,
+      "end": 446.88,
+      "text": "arrived at the hotel from New York ten"
+    },
+    {
+      "start": 447.04,
+      "end": 449.04,
+      "text": "days ago and had not checked out."
+    },
+    {
+      "start": 450.72,
+      "end": 452.46,
+      "text": "Spade went to the Belvedere and found",
+      "para_break": true
+    },
+    {
+      "start": 452.46,
+      "end": 454.02,
+      "text": "the hotel detective eating in the"
+    },
+    {
+      "start": 454.08,
+      "end": 454.56,
+      "text": "hotel café."
+    },
+    {
+      "start": 456.02,
+      "end": 456.62,
+      "text": "\"'Morning,",
+      "para_break": true
+    },
+    {
+      "start": 456.64,
+      "end": 456.84,
+      "text": "Sam."
+    },
+    {
+      "start": 457.1,
+      "end": 458.72,
+      "text": "Sit down and bite an egg.'"
+    },
+    {
+      "start": 459.32,
+      "end": 461.96,
+      "text": "The hotel detective stared at Spade's temple."
+    },
+    {
+      "start": 463.0,
+      "end": 463.44,
+      "text": "\"'My God!",
+      "para_break": true
+    },
+    {
+      "start": 463.68,
+      "end": 465.504,
+      "text": "Somebody maced you plenty!'"
+    },
+    {
+      "start": 466.32,
+      "end": 466.92,
+      "text": "\"'Thanks.",
+      "para_break": true
+    },
+    {
+      "start": 466.96,
+      "end": 467.96,
+      "text": "I've had mine,'"
+    },
+    {
+      "start": 468.768,
+      "end": 470.16,
+      "text": "Spade said as he sat down,",
+      "para_break": true
+    },
+    {
+      "start": 470.3,
+      "end": 470.74,
+      "text": "and then,"
+    },
+    {
+      "start": 470.84,
+      "end": 471.24,
+      "text": "referring"
+    },
+    {
+      "start": 471.24,
+      "end": 471.98,
+      "text": "to his temple,"
+    },
+    {
+      "start": 472.92,
+      "end": 474.42,
+      "text": "\"'It looks worse than it is.'",
+      "para_break": true
+    },
+    {
+      "start": 475.616,
+      "end": 476.8,
+      "text": "How's my Cairo's conduct?",
+      "para_break": true
+    },
+    {
+      "start": 477.74,
+      "end": 480.86,
+      "text": "He went out not more than half an hour behind you yesterday,",
+      "para_break": true
+    },
+    {
+      "start": 481.14,
+      "end": 482.36,
+      "text": "and I ain't seen him since."
+    },
+    {
+      "start": 482.84,
+      "end": 484.7,
+      "text": "He didn't sleep here again last night."
+    },
+    {
+      "start": 486.24,
+      "end": 487.26,
+      "text": "He's getting bad habits.",
+      "para_break": true
+    },
+    {
+      "start": 488.12,
+      "end": 488.34,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 488.54,
+      "end": 490.62,
+      "text": "a fellow like that alone in a big city."
+    },
+    {
+      "start": 491.22,
+      "end": 492.46,
+      "text": "Who put the slug to you,"
+    },
+    {
+      "start": 492.54,
+      "end": 492.68,
+      "text": "Sam?"
+    }
+  ]
+}

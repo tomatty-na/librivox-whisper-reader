@@ -1,0 +1,636 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-05",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_05_hammett.mp3",
+  "chapter_title": "Chapter 5 - Cairo's Pockets",
+  "reader_name": "Mark Nelson",
+  "page_num": 3,
+  "page_total": 4,
+  "page_start_sec": 499.616,
+  "page_end_sec": 740.04,
+  "para_gap_threshold": 0.774,
+  "segments": [
+    {
+      "start": 499.616,
+      "end": 502.4,
+      "text": "Spade flicked a finger at Cairo's possessions on the desk.",
+      "para_break": true
+    },
+    {
+      "start": 503.712,
+      "end": 504.8,
+      "text": "You've got my apartment address.",
+      "para_break": true
+    },
+    {
+      "start": 505.38,
+      "end": 506.24,
+      "text": "Been up there yet?'"
+    },
+    {
+      "start": 506.56,
+      "end": 507.26,
+      "text": "\"'Yes,"
+    },
+    {
+      "start": 507.26,
+      "end": 507.46,
+      "text": "Mr."
+    },
+    {
+      "start": 507.56,
+      "end": 507.84,
+      "text": "Spade."
+    },
+    {
+      "start": 508.22,
+      "end": 511.36,
+      "text": "I am ready to pay five thousand dollars for the figure's return,"
+    },
+    {
+      "start": 512.04,
+      "end": 512.52,
+      "text": "but surely"
+    },
+    {
+      "start": 513.06,
+      "end": 515.12,
+      "text": "it is natural enough that I should first"
+    },
+    {
+      "start": 515.12,
+      "end": 516.88,
+      "text": "try to spare the owner that expense,"
+    },
+    {
+      "start": 517.1,
+      "end": 517.84,
+      "text": "if possible.'"
+    },
+    {
+      "start": 518.78,
+      "end": 519.58,
+      "text": "\"'Who is he?'",
+      "para_break": true
+    },
+    {
+      "start": 520.672,
+      "end": 521.6,
+      "text": "Cairo shook his head.",
+      "para_break": true
+    },
+    {
+      "start": 522.944,
+      "end": 524.88,
+      "text": "\"'I cannot reveal his name.'",
+      "para_break": true
+    },
+    {
+      "start": 526.4,
+      "end": 529.18,
+      "text": "\"'The fellow you sent the package to Constantinople to?'",
+      "para_break": true
+    },
+    {
+      "start": 529.696,
+      "end": 530.76,
+      "text": "Spade asked carelessly."
+    },
+    {
+      "start": 531.616,
+      "end": 532.9,
+      "text": "\"'Incanopolis or something?'",
+      "para_break": true
+    },
+    {
+      "start": 534.08,
+      "end": 534.82,
+      "text": "Cairo hesitated.",
+      "para_break": true
+    },
+    {
+      "start": 535.24,
+      "end": 535.66,
+      "text": "then said,"
+    },
+    {
+      "start": 536.72,
+      "end": 538.22,
+      "text": "\"'That package will reach him,",
+      "para_break": true
+    },
+    {
+      "start": 538.34,
+      "end": 538.96,
+      "text": "yes?'"
+    },
+    {
+      "start": 540.04,
+      "end": 540.832,
+      "text": "\"'What was in it?'",
+      "para_break": true
+    },
+    {
+      "start": 541.856,
+      "end": 542.44,
+      "text": "Cairo smiled.",
+      "para_break": true
+    },
+    {
+      "start": 543.66,
+      "end": 546.26,
+      "text": "\"'You will have to forgive my not answering that.'",
+      "para_break": true
+    },
+    {
+      "start": 547.296,
+      "end": 547.8,
+      "text": "\"'Will I?'",
+      "para_break": true
+    },
+    {
+      "start": 548.8,
+      "end": 549.68,
+      "text": "Spade leaned forward,",
+      "para_break": true
+    },
+    {
+      "start": 549.92,
+      "end": 551.34,
+      "text": "smiling with tight lips."
+    },
+    {
+      "start": 552.736,
+      "end": 553.78,
+      "text": "\"'I've got you by the neck,",
+      "para_break": true
+    },
+    {
+      "start": 553.9,
+      "end": 554.18,
+      "text": "Cairo."
+    },
+    {
+      "start": 554.96,
+      "end": 556.66,
+      "text": "You walked in and tied yourself up,",
+      "para_break": true
+    },
+    {
+      "start": 557.26,
+      "end": 560.26,
+      "text": "plenty strong enough to suit the police with last night's killings."
+    },
+    {
+      "start": 561.16,
+      "end": 561.4,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 561.62,
+      "end": 563.96,
+      "text": "now you'll have to play with me or else.'"
+    },
+    {
+      "start": 564.18,
+      "end": 564.28,
+      "text": "Kairos'"
+    },
+    {
+      "start": 566.06,
+      "end": 568.64,
+      "text": "smile was demure but not in any way alarmed.",
+      "para_break": true
+    },
+    {
+      "start": 570.18,
+      "end": 572.84,
+      "text": "\"'I made somewhat extensive inquiries about",
+      "para_break": true
+    },
+    {
+      "start": 572.84,
+      "end": 575.48,
+      "text": "you before taking any action,' he said,"
+    },
+    {
+      "start": 576.16,
+      "end": 578.62,
+      "text": "and was assured that you were far too reasonable"
+    },
+    {
+      "start": 578.62,
+      "end": 581.24,
+      "text": "to allow other considerations to interfere with"
+    },
+    {
+      "start": 581.36,
+      "end": 583.232,
+      "text": "profitable business relations.'"
+    },
+    {
+      "start": 584.32,
+      "end": 585.14,
+      "text": "Spade shrugged.",
+      "para_break": true
+    },
+    {
+      "start": 585.96,
+      "end": 587.28,
+      "text": "\"'Where are they?' he asked.",
+      "para_break": true
+    },
+    {
+      "start": 588.672,
+      "end": 591.36,
+      "text": "\"'I have offered you five thousand dollars for the—'",
+      "para_break": true
+    },
+    {
+      "start": 592.064,
+      "end": 593.7,
+      "text": "Spade thumped Kairos' wallet with"
+    },
+    {
+      "start": 593.82,
+      "end": 595.22,
+      "text": "the backs of his fingers and said,"
+    },
+    {
+      "start": 595.55,
+      "end": 598.22,
+      "text": "\"'There's nothing like five thousand dollars here."
+    },
+    {
+      "start": 598.58,
+      "end": 599.28,
+      "text": "You're"
+    },
+    {
+      "start": 599.36,
+      "end": 600.16,
+      "text": "betting your eyes."
+    },
+    {
+      "start": 601.02,
+      "end": 601.92,
+      "text": "You come in and say,",
+      "para_break": true
+    },
+    {
+      "start": 602.08,
+      "end": 604.36,
+      "text": "I'll pay you a million for a purple elephant."
+    },
+    {
+      "start": 605.1,
+      "end": 605.58,
+      "text": "But what the"
+    },
+    {
+      "start": 605.62,
+      "end": 606.42,
+      "text": "hell would that mean?'"
+    },
+    {
+      "start": 608.04,
+      "end": 608.5,
+      "text": "\"'I see,",
+      "para_break": true
+    },
+    {
+      "start": 608.8,
+      "end": 610.06,
+      "text": "I see,'"
+    },
+    {
+      "start": 610.752,
+      "end": 612.0,
+      "text": "Cairo list thoughtfully,"
+    },
+    {
+      "start": 612.14,
+      "end": 613.26,
+      "text": "screwing up his eyes."
+    },
+    {
+      "start": 614.12,
+      "end": 617.06,
+      "text": "\"'You wish some assurance of my sincerity?'",
+      "para_break": true
+    },
+    {
+      "start": 618.08,
+      "end": 620.37,
+      "text": "He stroked his red lower lip with a fingertip.",
+      "para_break": true
+    },
+    {
+      "start": 620.51,
+      "end": 622.24,
+      "text": "A retainer,"
+    },
+    {
+      "start": 622.24,
+      "end": 623.14,
+      "text": "would that serve?"
+    },
+    {
+      "start": 624.38,
+      "end": 624.82,
+      "text": "It might.",
+      "para_break": true
+    },
+    {
+      "start": 626.304,
+      "end": 628.08,
+      "text": "Cairo put his hand out toward his wallet,",
+      "para_break": true
+    },
+    {
+      "start": 628.26,
+      "end": 629.06,
+      "text": "hesitated,"
+    },
+    {
+      "start": 629.34,
+      "end": 630.58,
+      "text": "withdrew the hand and said,"
+    },
+    {
+      "start": 631.25,
+      "end": 632.4,
+      "text": "Will you take,"
+    },
+    {
+      "start": 632.56,
+      "end": 632.82,
+      "text": "say,"
+    },
+    {
+      "start": 633.02,
+      "end": 633.94,
+      "text": "a hundred dollars?"
+    },
+    {
+      "start": 635.52,
+      "end": 637.88,
+      "text": "Spade picked up the wallet and took out a hundred dollars.",
+      "para_break": true
+    },
+    {
+      "start": 638.86,
+      "end": 639.64,
+      "text": "Then he frowned,",
+      "para_break": true
+    },
+    {
+      "start": 639.72,
+      "end": 639.96,
+      "text": "said,"
+    },
+    {
+      "start": 641.024,
+      "end": 642.04,
+      "text": "Better make it two hundred,",
+      "para_break": true
+    },
+    {
+      "start": 642.2,
+      "end": 643.02,
+      "text": "and did."
+    },
+    {
+      "start": 644.192,
+      "end": 645.04,
+      "text": "Cairo said nothing.",
+      "para_break": true
+    },
+    {
+      "start": 646.58,
+      "end": 648.42,
+      "text": "Your first guess was that I had the bird,",
+      "para_break": true
+    },
+    {
+      "start": 649.05,
+      "end": 651.0,
+      "text": "Spade said in a crisp voice,"
+    },
+    {
+      "start": 651.23,
+      "end": 654.12,
+      "text": "when he had put the two hundred dollars in his pocket and had"
+    },
+    {
+      "start": 654.2,
+      "end": 655.48,
+      "text": "returned the wallet to the desktop."
+    },
+    {
+      "start": 656.992,
+      "end": 657.74,
+      "text": "\"'There's nothing in that.",
+      "para_break": true
+    },
+    {
+      "start": 658.4,
+      "end": 658.85,
+      "text": "What's your second?'"
+    },
+    {
+      "start": 660.448,
+      "end": 661.62,
+      "text": "\"'That you know where it is,",
+      "para_break": true
+    },
+    {
+      "start": 661.82,
+      "end": 662.14,
+      "text": "or,"
+    },
+    {
+      "start": 662.2,
+      "end": 663.18,
+      "text": "if not exactly that,"
+    },
+    {
+      "start": 663.34,
+      "end": 665.952,
+      "text": "that you know it is where you can get it.'"
+    },
+    {
+      "start": 667.104,
+      "end": 669.02,
+      "text": "Spade neither denied nor affirmed this.",
+      "para_break": true
+    },
+    {
+      "start": 669.82,
+      "end": 671.34,
+      "text": "He seemed hardly to have heard it.",
+      "para_break": true
+    },
+    {
+      "start": 672.02,
+      "end": 672.36,
+      "text": "He asked,"
+    },
+    {
+      "start": 673.24,
+      "end": 675.86,
+      "text": "\"'What proof can you give me that your man is the owner?'",
+      "para_break": true
+    },
+    {
+      "start": 676.28,
+      "end": 677.46,
+      "text": "\"'Unfortunately,"
+    },
+    {
+      "start": 677.66,
+      "end": 678.6,
+      "text": "very little."
+    },
+    {
+      "start": 679.5,
+      "end": 680.56,
+      "text": "\"'There is this,",
+      "para_break": true
+    },
+    {
+      "start": 680.64,
+      "end": 680.88,
+      "text": "though."
+    },
+    {
+      "start": 681.696,
+      "end": 683.08,
+      "text": "\"'Nobody else can give you any",
+      "para_break": true
+    },
+    {
+      "start": 683.08,
+      "end": 685.04,
+      "text": "authentic evidence of ownership at all."
+    },
+    {
+      "start": 685.98,
+      "end": 688.56,
+      "text": "\"'And if you know as much about the affair as I suppose,",
+      "para_break": true
+    },
+    {
+      "start": 689.24,
+      "end": 690.36,
+      "text": "\"'or I should not be here,"
+    },
+    {
+      "start": 690.94,
+      "end": 693.7,
+      "text": "\"'you know that the means by which it was taken from him"
+    },
+    {
+      "start": 693.86,
+      "end": 696.8,
+      "text": "\"'showed that his right to it was more valid than anyone else's,"
+    },
+    {
+      "start": 697.504,
+      "end": 699.62,
+      "text": "\"'certainly more valid than Thursby's.'"
+    },
+    {
+      "start": 700.76,
+      "end": 701.74,
+      "text": "\"'What about his daughter?'",
+      "para_break": true
+    },
+    {
+      "start": 702.304,
+      "end": 702.86,
+      "text": "Spade asked."
+    },
+    {
+      "start": 704.16,
+      "end": 706.32,
+      "text": "Excitement opened Cairo's eyes and mouth,",
+      "para_break": true
+    },
+    {
+      "start": 706.48,
+      "end": 707.6,
+      "text": "turned his face pink,"
+    },
+    {
+      "start": 707.96,
+      "end": 709.24,
+      "text": "made his voice shrill."
+    },
+    {
+      "start": 710.144,
+      "end": 711.52,
+      "text": "He is not the owner!",
+      "para_break": true
+    },
+    {
+      "start": 713.312,
+      "end": 713.98,
+      "text": "Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 714.16,
+      "end": 714.272,
+      "text": "oh,"
+    },
+    {
+      "start": 715.02,
+      "end": 717.14,
+      "text": "mildly and ambiguously."
+    },
+    {
+      "start": 718.176,
+      "end": 720.16,
+      "text": "Is he here in San Francisco now?",
+      "para_break": true
+    },
+    {
+      "start": 721.312,
+      "end": 724.26,
+      "text": "Cairo asked in a less shrill but still excited voice.",
+      "para_break": true
+    },
+    {
+      "start": 725.376,
+      "end": 727.46,
+      "text": "Spade blinked his eyes sleepily and suggested,",
+      "para_break": true
+    },
+    {
+      "start": 728.18,
+      "end": 730.48,
+      "text": "\"'It might be better all around if"
+    },
+    {
+      "start": 730.48,
+      "end": 732.33,
+      "text": "we both put our cards on the table.'"
+    },
+    {
+      "start": 733.6,
+      "end": 735.86,
+      "text": "Cairo recovered composure with a tiny jerk.",
+      "para_break": true
+    },
+    {
+      "start": 737.3,
+      "end": 740.04,
+      "text": "\"'I do not think that would be better,' he said.",
+      "para_break": true
+    }
+  ]
+}

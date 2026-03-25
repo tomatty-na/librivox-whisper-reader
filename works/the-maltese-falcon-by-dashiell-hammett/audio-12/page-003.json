@@ -1,0 +1,632 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-12",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_12_hammett.mp3",
+  "chapter_title": "Chapter 12 - Merry-Go-Round",
+  "reader_name": "Mark Nelson",
+  "page_num": 3,
+  "page_total": 5,
+  "page_start_sec": 491.44,
+  "page_end_sec": 733.18,
+  "para_gap_threshold": 0.759,
+  "segments": [
+    {
+      "start": 491.44,
+      "end": 492.1,
+      "text": "She"
+    },
+    {
+      "start": 492.24,
+      "end": 494.34,
+      "text": "looked at him with worried brown eyes and asked,"
+    },
+    {
+      "start": 495.232,
+      "end": 495.96,
+      "text": "\"'What happened?'",
+      "para_break": true
+    },
+    {
+      "start": 497.024,
+      "end": 498.16,
+      "text": "Spade's face grew stiff.",
+      "para_break": true
+    },
+    {
+      "start": 499.68,
+      "end": 501.38,
+      "text": "\"'What happened where?' he demanded.",
+      "para_break": true
+    },
+    {
+      "start": 502.52,
+      "end": 503.648,
+      "text": "\"'Why didn't she come?'",
+      "para_break": true
+    },
+    {
+      "start": 504.64,
+      "end": 507.58,
+      "text": "Spade took two long steps and caught Effie Perrine by the shoulders.",
+      "para_break": true
+    },
+    {
+      "start": 508.9,
+      "end": 509.7,
+      "text": "She didn't get there?",
+      "para_break": true
+    },
+    {
+      "start": 510.44,
+      "end": 511.94,
+      "text": "He bawled into her frightened face."
+    },
+    {
+      "start": 513.12,
+      "end": 515.2,
+      "text": "She shook her head violently from side to side.",
+      "para_break": true
+    },
+    {
+      "start": 515.92,
+      "end": 517.16,
+      "text": "I waited and waited,"
+    },
+    {
+      "start": 517.42,
+      "end": 518.48,
+      "text": "but she didn't come,"
+    },
+    {
+      "start": 518.88,
+      "end": 520.28,
+      "text": "and I couldn't get you on the phone,"
+    },
+    {
+      "start": 520.42,
+      "end": 521.28,
+      "text": "so I came down."
+    },
+    {
+      "start": 523.008,
+      "end": 524.8,
+      "text": "Spade jerked his hands from her shoulders,",
+      "para_break": true
+    },
+    {
+      "start": 525.1,
+      "end": 527.36,
+      "text": "thrust them far down in his trouser pockets,"
+    },
+    {
+      "start": 527.6,
+      "end": 528.04,
+      "text": "said,"
+    },
+    {
+      "start": 528.896,
+      "end": 530.66,
+      "text": "Another merry-go-round ride,",
+      "para_break": true
+    },
+    {
+      "start": 530.82,
+      "end": 532.76,
+      "text": "in a loud and raged voice,"
+    },
+    {
+      "start": 533.04,
+      "end": 534.48,
+      "text": "and strode into his private office."
+    },
+    {
+      "start": 535.16,
+      "end": 536.44,
+      "text": "He came out again."
+    },
+    {
+      "start": 537.6,
+      "end": 539.32,
+      "text": "\"'Phone your mother,' he commanded her.",
+      "para_break": true
+    },
+    {
+      "start": 539.78,
+      "end": 540.88,
+      "text": "\"'See if she's come yet.'"
+    },
+    {
+      "start": 541.51,
+      "end": 544.7,
+      "text": "He walked up and down the office while the girl used the telephone."
+    },
+    {
+      "start": 545.74,
+      "end": 547.92,
+      "text": "\"'No,' she said when she had finished.",
+      "para_break": true
+    },
+    {
+      "start": 549.02,
+      "end": 550.68,
+      "text": "\"'Did—did you send her out in a taxi?'",
+      "para_break": true
+    },
+    {
+      "start": 551.86,
+      "end": 553.48,
+      "text": "His grunt probably meant yes.",
+      "para_break": true
+    },
+    {
+      "start": 554.8,
+      "end": 555.84,
+      "text": "\"'Are you sure she—'",
+      "para_break": true
+    },
+    {
+      "start": 556.384,
+      "end": 558.464,
+      "text": "\"'Somebody must have seen her and followed her.'"
+    },
+    {
+      "start": 559.328,
+      "end": 560.96,
+      "text": "Spade stopped pacing the floor.",
+      "para_break": true
+    },
+    {
+      "start": 561.54,
+      "end": 564.08,
+      "text": "He put his hands on his hips and glared at the girl."
+    },
+    {
+      "start": 564.72,
+      "end": 566.32,
+      "text": "He addressed her in a loud,"
+    },
+    {
+      "start": 566.42,
+      "end": 567.2,
+      "text": "savage voice."
+    },
+    {
+      "start": 568.512,
+      "end": 569.82,
+      "text": "\"'Nobody followed her.",
+      "para_break": true
+    },
+    {
+      "start": 570.304,
+      "end": 572.37,
+      "text": "Do you think I'm a damn schoolboy?"
+    },
+    {
+      "start": 572.95,
+      "end": 575.3,
+      "text": "I made sure of it before I put her in"
+    },
+    {
+      "start": 575.3,
+      "end": 575.74,
+      "text": "the cab."
+    },
+    {
+      "start": 575.98,
+      "end": 578.48,
+      "text": "I rode a dozen blocks with her to be more sure,"
+    },
+    {
+      "start": 578.68,
+      "end": 580.46,
+      "text": "and I checked her another half-dozen"
+    },
+    {
+      "start": 580.56,
+      "end": 582.18,
+      "text": "blocks after I got out.' \"'Well,"
+    },
+    {
+      "start": 583.66,
+      "end": 584.16,
+      "text": "but—'",
+      "para_break": true
+    },
+    {
+      "start": 584.544,
+      "end": 585.54,
+      "text": "\"'But she didn't get there."
+    },
+    {
+      "start": 585.74,
+      "end": 586.72,
+      "text": "You've told me that."
+    },
+    {
+      "start": 586.92,
+      "end": 587.92,
+      "text": "I know it.'"
+    },
+    {
+      "start": 588.36,
+      "end": 590.848,
+      "text": "\"'Do you think I think she got there?'"
+    },
+    {
+      "start": 591.968,
+      "end": 593.04,
+      "text": "Effie Perrine sniffed.",
+      "para_break": true
+    },
+    {
+      "start": 594.08,
+      "end": 597.66,
+      "text": "\"'You certainly act like a damned schoolboy,' she said.",
+      "para_break": true
+    },
+    {
+      "start": 598.688,
+      "end": 601.98,
+      "text": "Spade made a harsh noise in his throat and went to the corridor door.",
+      "para_break": true
+    },
+    {
+      "start": 603.38,
+      "end": 606.48,
+      "text": "\"'I'm going out and find her if I've to dig up sewers,' he said.",
+      "para_break": true
+    },
+    {
+      "start": 607.136,
+      "end": 609.32,
+      "text": "\"'Stay here till I'm back or you hear from me."
+    },
+    {
+      "start": 609.46,
+      "end": 610.92,
+      "text": "For God's sake,"
+    },
+    {
+      "start": 611.06,
+      "end": 612.49,
+      "text": "let's do something right!'"
+    },
+    {
+      "start": 613.2,
+      "end": 614.34,
+      "text": "He went out,"
+    },
+    {
+      "start": 614.46,
+      "end": 616.34,
+      "text": "walked half the distance to the elevators,"
+    },
+    {
+      "start": 616.42,
+      "end": 617.58,
+      "text": "and retraced his steps."
+    },
+    {
+      "start": 618.752,
+      "end": 621.44,
+      "text": "Effie Perrine was sitting at her desk when he opened the door.",
+      "para_break": true
+    },
+    {
+      "start": 622.02,
+      "end": 622.34,
+      "text": "He said,"
+    },
+    {
+      "start": 623.6,
+      "end": 627.0,
+      "text": "You ought to know better than to pay any attention to me when I talk",
+      "para_break": true
+    },
+    {
+      "start": 627.0,
+      "end": 627.5,
+      "text": "like that."
+    },
+    {
+      "start": 628.92,
+      "end": 630.9,
+      "text": "If you think I pay any attention to you,",
+      "para_break": true
+    },
+    {
+      "start": 630.98,
+      "end": 631.58,
+      "text": "you're crazy,"
+    },
+    {
+      "start": 632.44,
+      "end": 632.9,
+      "text": "she replied.",
+      "para_break": true
+    },
+    {
+      "start": 633.8,
+      "end": 634.5,
+      "text": "Only—",
+      "para_break": true
+    },
+    {
+      "start": 635.24,
+      "end": 637.1,
+      "text": "She crossed her arms and felt her shoulders,"
+    },
+    {
+      "start": 637.32,
+      "end": 638.62,
+      "text": "and her mouth twitched"
+    },
+    {
+      "start": 638.64,
+      "end": 639.22,
+      "text": "uncertainly."
+    },
+    {
+      "start": 639.79,
+      "end": 642.88,
+      "text": "I won't be able to wear an evening gown for two weeks,"
+    },
+    {
+      "start": 643.0,
+      "end": 643.84,
+      "text": "you big brute!"
+    },
+    {
+      "start": 644.62,
+      "end": 646.46,
+      "text": "He grinned apologetically,",
+      "para_break": true
+    },
+    {
+      "start": 646.6,
+      "end": 646.88,
+      "text": "said,"
+    },
+    {
+      "start": 647.936,
+      "end": 649.02,
+      "text": "I'm no damn good,",
+      "para_break": true
+    },
+    {
+      "start": 649.24,
+      "end": 652.18,
+      "text": "made an exaggerated bow and went out again."
+    },
+    {
+      "start": 654.45,
+      "end": 657.04,
+      "text": "Two yellow taxicabs were at the post at",
+      "para_break": true
+    },
+    {
+      "start": 657.04,
+      "end": 659.36,
+      "text": "Montgomery Street Stand when Spade stopped there."
+    },
+    {
+      "start": 659.74,
+      "end": 660.38,
+      "text": "Their"
+    },
+    {
+      "start": 660.48,
+      "end": 661.76,
+      "text": "chauffeurs were standing together,"
+    },
+    {
+      "start": 661.86,
+      "end": 662.24,
+      "text": "talking."
+    },
+    {
+      "start": 663.168,
+      "end": 663.64,
+      "text": "Spade asked,",
+      "para_break": true
+    },
+    {
+      "start": 664.512,
+      "end": 667.28,
+      "text": "\"'Where's the red-faced blonde driver that was here at noon?'",
+      "para_break": true
+    },
+    {
+      "start": 668.22,
+      "end": 668.65,
+      "text": "\"'Got a load?'",
+      "para_break": true
+    },
+    {
+      "start": 669.36,
+      "end": 670.44,
+      "text": "one of the chauffeurs said."
+    },
+    {
+      "start": 671.38,
+      "end": 672.15,
+      "text": "\"'Will he be back here?'",
+      "para_break": true
+    },
+    {
+      "start": 672.86,
+      "end": 673.6,
+      "text": "\"'I guess so.'"
+    },
+    {
+      "start": 674.58,
+      "end": 676.82,
+      "text": "One of his companions ducked his head toward the east.",
+      "para_break": true
+    },
+    {
+      "start": 677.46,
+      "end": 678.36,
+      "text": "\"'Here he comes now!'"
+    },
+    {
+      "start": 679.74,
+      "end": 680.96,
+      "text": "Spade walked down to the corner and",
+      "para_break": true
+    },
+    {
+      "start": 680.96,
+      "end": 682.9,
+      "text": "stood by the curb until the red-faced"
+    },
+    {
+      "start": 683.02,
+      "end": 685.4,
+      "text": "blond chauffeur had parked his cab and got out."
+    },
+    {
+      "start": 686.38,
+      "end": 687.6,
+      "text": "Then Spade went up to him",
+      "para_break": true
+    },
+    {
+      "start": 687.6,
+      "end": 687.92,
+      "text": "and said,"
+    },
+    {
+      "start": 689.02,
+      "end": 691.1,
+      "text": "\"'I got in your cab with the lady at noontime.",
+      "para_break": true
+    },
+    {
+      "start": 691.88,
+      "end": 692.71,
+      "text": "We went out Stockton",
+      "para_break": true
+    },
+    {
+      "start": 692.82,
+      "end": 695.4,
+      "text": "Street and up Sacramento to Jones where I got out.'"
+    },
+    {
+      "start": 696.18,
+      "end": 698.2,
+      "text": "\"'Sure,' the red-faced man said.",
+      "para_break": true
+    },
+    {
+      "start": 698.86,
+      "end": 699.7,
+      "text": "\"'I remember that.'"
+    },
+    {
+      "start": 700.84,
+      "end": 703.5,
+      "text": "\"'I told you to take her on to a Seventh Avenue number.",
+      "para_break": true
+    },
+    {
+      "start": 704.14,
+      "end": 704.78,
+      "text": "You didn't take"
+    },
+    {
+      "start": 704.78,
+      "end": 705.16,
+      "text": "her there."
+    },
+    {
+      "start": 705.38,
+      "end": 706.76,
+      "text": "Where did you take her?'"
+    },
+    {
+      "start": 708.08,
+      "end": 711.28,
+      "text": "The chauffeur looked doubtfully at Spade and rubbed his cheek with a",
+      "para_break": true
+    },
+    {
+      "start": 711.4,
+      "end": 711.92,
+      "text": "grimy hand."
+    },
+    {
+      "start": 713.312,
+      "end": 714.78,
+      "text": "\"'I don't know about this.'",
+      "para_break": true
+    },
+    {
+      "start": 715.648,
+      "end": 717.54,
+      "text": "\"'It's all right,' Spade assured him,",
+      "para_break": true
+    },
+    {
+      "start": 717.62,
+      "end": 718.92,
+      "text": "giving him one of his business"
+    },
+    {
+      "start": 719.02,
+      "end": 719.26,
+      "text": "cards."
+    },
+    {
+      "start": 720.672,
+      "end": 721.66,
+      "text": "\"'If you want to play safe,",
+      "para_break": true
+    },
+    {
+      "start": 721.74,
+      "end": 721.94,
+      "text": "though,"
+    },
+    {
+      "start": 722.02,
+      "end": 723.64,
+      "text": "we can ride up to your office and"
+    },
+    {
+      "start": 723.64,
+      "end": 725.32,
+      "text": "get your superintendents okay.'"
+    },
+    {
+      "start": 726.464,
+      "end": 727.58,
+      "text": "\"'I guess it's all right.'",
+      "para_break": true
+    },
+    {
+      "start": 727.98,
+      "end": 729.62,
+      "text": "I took her to the Ferry Building."
+    },
+    {
+      "start": 730.72,
+      "end": 731.42,
+      "text": "\"'By herself?'",
+      "para_break": true
+    },
+    {
+      "start": 731.62,
+      "end": 732.36,
+      "text": "\"'Yeah,"
+    },
+    {
+      "start": 732.5,
+      "end": 733.18,
+      "text": "sure.'"
+    }
+  ]
+}

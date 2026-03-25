@@ -1,0 +1,694 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-03",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_03_hammett.mp3",
+  "chapter_title": "Chapter 3 - Three Women",
+  "reader_name": "Mark Nelson",
+  "page_num": 3,
+  "page_total": 4,
+  "page_start_sec": 499.008,
+  "page_end_sec": 740.94,
+  "para_gap_threshold": 0.755,
+  "segments": [
+    {
+      "start": 499.008,
+      "end": 501.82,
+      "text": "\"'You're an angel,' he said tenderly through smoke.",
+      "para_break": true
+    },
+    {
+      "start": 502.5,
+      "end": 503.02,
+      "text": "A nice,"
+    },
+    {
+      "start": 503.06,
+      "end": 504.416,
+      "text": "rattle-brained angel.\""
+    },
+    {
+      "start": 505.48,
+      "end": 506.84,
+      "text": "She smiled a little wryly.",
+      "para_break": true
+    },
+    {
+      "start": 507.78,
+      "end": 508.24,
+      "text": "\"'Oh,",
+      "para_break": true
+    },
+    {
+      "start": 508.24,
+      "end": 508.78,
+      "text": "am I?"
+    },
+    {
+      "start": 508.99,
+      "end": 512.46,
+      "text": "Suppose I told you that your Iva hadn't"
+    },
+    {
+      "start": 512.46,
+      "end": 514.16,
+      "text": "been home very many minutes when I"
+    },
+    {
+      "start": 514.24,
+      "end": 516.55,
+      "text": "arrived to break the news at three o'clock this morning?'"
+    },
+    {
+      "start": 518.28,
+      "end": 519.42,
+      "text": "\"'Are you telling me?'",
+      "para_break": true
+    },
+    {
+      "start": 519.96,
+      "end": 520.4,
+      "text": "he asked."
+    },
+    {
+      "start": 520.98,
+      "end": 522.78,
+      "text": "His eyes had become alert,"
+    },
+    {
+      "start": 523.02,
+      "end": 525.0,
+      "text": "though his mouth continued to smile."
+    },
+    {
+      "start": 526.9,
+      "end": 529.9,
+      "text": "She kept me waiting at the door while she undressed or finished",
+      "para_break": true
+    },
+    {
+      "start": 530.1,
+      "end": 530.46,
+      "text": "undressing."
+    },
+    {
+      "start": 530.93,
+      "end": 533.34,
+      "text": "I saw her clothes where she had dumped them on a chair."
+    },
+    {
+      "start": 533.984,
+      "end": 535.54,
+      "text": "Her coat and hat were underneath."
+    },
+    {
+      "start": 536.224,
+      "end": 538.5,
+      "text": "Her singlet on top was still warm."
+    },
+    {
+      "start": 539.36,
+      "end": 540.52,
+      "text": "She said she had been asleep,",
+      "para_break": true
+    },
+    {
+      "start": 540.74,
+      "end": 541.56,
+      "text": "but she hadn't."
+    },
+    {
+      "start": 542.09,
+      "end": 543.18,
+      "text": "She had wrinkled up the"
+    },
+    {
+      "start": 543.18,
+      "end": 543.42,
+      "text": "bed,"
+    },
+    {
+      "start": 543.6,
+      "end": 545.28,
+      "text": "but the wrinkles weren't mashed down."
+    },
+    {
+      "start": 547.104,
+      "end": 548.92,
+      "text": "Spade took the girl's hand and patted it.",
+      "para_break": true
+    },
+    {
+      "start": 550.048,
+      "end": 550.78,
+      "text": "\"'You're a detective,",
+      "para_break": true
+    },
+    {
+      "start": 551.0,
+      "end": 551.3,
+      "text": "darling."
+    },
+    {
+      "start": 551.52,
+      "end": 552.32,
+      "text": "But--\""
+    },
+    {
+      "start": 552.94,
+      "end": 553.66,
+      "text": "He shook his head."
+    },
+    {
+      "start": 554.42,
+      "end": 555.328,
+      "text": "She didn't kill him.\"",
+      "para_break": true
+    },
+    {
+      "start": 556.544,
+      "end": 558.64,
+      "text": "Effie Perrine snatched her hand away from him.",
+      "para_break": true
+    },
+    {
+      "start": 559.84,
+      "end": 561.2,
+      "text": "\"'That louse wants to marry you,",
+      "para_break": true
+    },
+    {
+      "start": 561.28,
+      "end": 563.06,
+      "text": "Sam,' she said bitterly."
+    },
+    {
+      "start": 564.14,
+      "end": 566.74,
+      "text": "He made a careless gesture of dismissal with one hand.",
+      "para_break": true
+    },
+    {
+      "start": 567.56,
+      "end": 569.06,
+      "text": "She frowned at him and demanded,",
+      "para_break": true
+    },
+    {
+      "start": 570.22,
+      "end": 571.66,
+      "text": "\"'Did you see her last night?'",
+      "para_break": true
+    },
+    {
+      "start": 572.22,
+      "end": 572.7,
+      "text": "\"'No."
+    },
+    {
+      "start": 573.0,
+      "end": 573.58,
+      "text": "Honestly?"
+    },
+    {
+      "start": 574.14,
+      "end": 574.82,
+      "text": "Honestly."
+    },
+    {
+      "start": 575.872,
+      "end": 576.88,
+      "text": "Don't act like Dundee,",
+      "para_break": true
+    },
+    {
+      "start": 576.94,
+      "end": 577.28,
+      "text": "sweetheart."
+    },
+    {
+      "start": 578.0,
+      "end": 579.168,
+      "text": "It ill becomes you.'"
+    },
+    {
+      "start": 580.38,
+      "end": 581.68,
+      "text": "\"'Has Dundee been after you?'",
+      "para_break": true
+    },
+    {
+      "start": 582.464,
+      "end": 582.72,
+      "text": "\"'Uh-huh.",
+      "para_break": true
+    },
+    {
+      "start": 583.88,
+      "end": 586.54,
+      "text": "He and Tom Polehouse stopped in for a drink at four o'clock.",
+      "para_break": true
+    },
+    {
+      "start": 587.4,
+      "end": 590.42,
+      "text": "Do they really think you killed this what's-his-name?",
+      "para_break": true
+    },
+    {
+      "start": 591.0,
+      "end": 591.56,
+      "text": "Thursby."
+    },
+    {
+      "start": 592.45,
+      "end": 594.64,
+      "text": "He dropped what was left of his cigarette",
+      "para_break": true
+    },
+    {
+      "start": 594.64,
+      "end": 597.14,
+      "text": "into the brass tray and began to roll another."
+    },
+    {
+      "start": 598.32,
+      "end": 598.68,
+      "text": "Do they?",
+      "para_break": true
+    },
+    {
+      "start": 598.86,
+      "end": 599.76,
+      "text": "she insisted."
+    },
+    {
+      "start": 600.66,
+      "end": 601.2,
+      "text": "God knows.",
+      "para_break": true
+    },
+    {
+      "start": 602.36,
+      "end": 604.28,
+      "text": "His eyes were on the cigarette he was making.",
+      "para_break": true
+    },
+    {
+      "start": 605.46,
+      "end": 606.9,
+      "text": "They did have some such notion.",
+      "para_break": true
+    },
+    {
+      "start": 607.54,
+      "end": 609.62,
+      "text": "I don't know how far I talked them out of it."
+    },
+    {
+      "start": 610.976,
+      "end": 611.34,
+      "text": "Look at me,",
+      "para_break": true
+    },
+    {
+      "start": 611.38,
+      "end": 611.6,
+      "text": "Sam."
+    },
+    {
+      "start": 613.12,
+      "end": 614.46,
+      "text": "Dundee looked at her and laughed,",
+      "para_break": true
+    },
+    {
+      "start": 614.62,
+      "end": 617.5,
+      "text": "so that for the moment merriment mingled with the"
+    },
+    {
+      "start": 617.6,
+      "end": 618.82,
+      "text": "anxiety in her face."
+    },
+    {
+      "start": 620.5,
+      "end": 621.46,
+      "text": "\"'You worry me,'",
+      "para_break": true
+    },
+    {
+      "start": 622.016,
+      "end": 622.44,
+      "text": "she said,"
+    },
+    {
+      "start": 622.58,
+      "end": 625.4,
+      "text": "seriousness returning to her face as she talked."
+    },
+    {
+      "start": 626.272,
+      "end": 628.2,
+      "text": "\"'You always think you know what you're doing,",
+      "para_break": true
+    },
+    {
+      "start": 628.32,
+      "end": 630.18,
+      "text": "but you're too slick for your own good,"
+    },
+    {
+      "start": 630.32,
+      "end": 630.92,
+      "text": "and"
+    },
+    {
+      "start": 630.98,
+      "end": 633.344,
+      "text": "some day you're going to find it out.'"
+    },
+    {
+      "start": 633.74,
+      "end": 637.72,
+      "text": "He sighed mockingly and rubbed his cheek against her arm."
+    },
+    {
+      "start": 639.232,
+      "end": 640.22,
+      "text": "\"'That's what Dundee says.",
+      "para_break": true
+    },
+    {
+      "start": 641.12,
+      "end": 642.68,
+      "text": "But you keep Iva away from me,",
+      "para_break": true
+    },
+    {
+      "start": 642.68,
+      "end": 642.98,
+      "text": "sweet,"
+    },
+    {
+      "start": 643.1,
+      "end": 644.94,
+      "text": "and I'll manage to survive the"
+    },
+    {
+      "start": 644.94,
+      "end": 646.05,
+      "text": "rest of my troubles.'"
+    },
+    {
+      "start": 647.16,
+      "end": 648.7,
+      "text": "He stood up and put on his hat.",
+      "para_break": true
+    },
+    {
+      "start": 650.16,
+      "end": 651.98,
+      "text": "\"'Have the Spade and Archer taken off the",
+      "para_break": true
+    },
+    {
+      "start": 651.98,
+      "end": 652.24,
+      "text": "door,"
+    },
+    {
+      "start": 652.32,
+      "end": 654.26,
+      "text": "and Samuel Spade put in his place."
+    },
+    {
+      "start": 655.46,
+      "end": 656.44,
+      "text": "I'll be back in an hour,",
+      "para_break": true
+    },
+    {
+      "start": 656.54,
+      "end": 657.504,
+      "text": "or phone you.'"
+    },
+    {
+      "start": 659.296,
+      "end": 660.24,
+      "text": "Spade went through the St.",
+      "para_break": true
+    },
+    {
+      "start": 660.32,
+      "end": 661.42,
+      "text": "Mark's long purplish"
+    },
+    {
+      "start": 661.42,
+      "end": 663.92,
+      "text": "lobby to the desk and asked a blonde dandy if"
+    },
+    {
+      "start": 664.04,
+      "end": 664.94,
+      "text": "Miss Wonderly was in."
+    },
+    {
+      "start": 665.8,
+      "end": 668.48,
+      "text": "The dandy turned away from Spade and turned back to him,",
+      "para_break": true
+    },
+    {
+      "start": 668.52,
+      "end": 669.3,
+      "text": "shaking his head."
+    },
+    {
+      "start": 670.7,
+      "end": 671.84,
+      "text": "\"'She checked out this morning,",
+      "para_break": true
+    },
+    {
+      "start": 671.94,
+      "end": 672.1,
+      "text": "Mr."
+    },
+    {
+      "start": 672.18,
+      "end": 672.68,
+      "text": "Spade.'"
+    },
+    {
+      "start": 673.8,
+      "end": 674.4,
+      "text": "\"'Thanks.'",
+      "para_break": true
+    },
+    {
+      "start": 675.328,
+      "end": 677.98,
+      "text": "Spade walked past the desk to the alcove off the lobby,",
+      "para_break": true
+    },
+    {
+      "start": 678.14,
+      "end": 678.96,
+      "text": "where a plump,"
+    },
+    {
+      "start": 679.0,
+      "end": 680.82,
+      "text": "young middle-aged man in dark clothes"
+    },
+    {
+      "start": 680.82,
+      "end": 683.42,
+      "text": "sat at a flat-topped mahogany desk."
+    },
+    {
+      "start": 684.1,
+      "end": 685.78,
+      "text": "On the edge of the desk,"
+    },
+    {
+      "start": 685.82,
+      "end": 686.58,
+      "text": "facing the lobby,"
+    },
+    {
+      "start": 686.78,
+      "end": 690.14,
+      "text": "was a triangular prism of mahogany and brass inscribed"
+    },
+    {
+      "start": 690.46,
+      "end": 690.74,
+      "text": "Mr."
+    },
+    {
+      "start": 690.98,
+      "end": 691.36,
+      "text": "Freed."
+    },
+    {
+      "start": 692.46,
+      "end": 694.26,
+      "text": "The plump man got up from his chair and",
+      "para_break": true
+    },
+    {
+      "start": 694.26,
+      "end": 696.22,
+      "text": "came around the desk holding out his hand."
+    },
+    {
+      "start": 697.7,
+      "end": 699.88,
+      "text": "I was awfully sorry to hear about Archer,",
+      "para_break": true
+    },
+    {
+      "start": 699.88,
+      "end": 700.2,
+      "text": "Spade,"
+    },
+    {
+      "start": 701.0,
+      "end": 703.36,
+      "text": "he said in the tone of one trained to sympathize",
+      "para_break": true
+    },
+    {
+      "start": 703.56,
+      "end": 705.04,
+      "text": "readily without intrusiveness."
+    },
+    {
+      "start": 706.496,
+      "end": 707.76,
+      "text": "I've just seen it in the call.",
+      "para_break": true
+    },
+    {
+      "start": 708.64,
+      "end": 709.76,
+      "text": "He was in here last night,",
+      "para_break": true
+    },
+    {
+      "start": 709.78,
+      "end": 710.1,
+      "text": "you know."
+    },
+    {
+      "start": 711.04,
+      "end": 711.38,
+      "text": "Thanks,",
+      "para_break": true
+    },
+    {
+      "start": 711.46,
+      "end": 711.74,
+      "text": "Freed."
+    },
+    {
+      "start": 712.5,
+      "end": 713.38,
+      "text": "Were you talking to him?",
+      "para_break": true
+    },
+    {
+      "start": 713.62,
+      "end": 714.38,
+      "text": "No,"
+    },
+    {
+      "start": 714.58,
+      "end": 716.8,
+      "text": "he was sitting in the lobby when I came in early"
+    },
+    {
+      "start": 716.98,
+      "end": 717.41,
+      "text": "in the evening."
+    },
+    {
+      "start": 717.94,
+      "end": 718.52,
+      "text": "I didn't stop."
+    },
+    {
+      "start": 718.78,
+      "end": 720.2,
+      "text": "I thought he was working,"
+    },
+    {
+      "start": 720.4,
+      "end": 722.36,
+      "text": "and I know you fellows like to be let"
+    },
+    {
+      "start": 722.36,
+      "end": 723.28,
+      "text": "alone when you're busy."
+    },
+    {
+      "start": 724.46,
+      "end": 726.26,
+      "text": "Did that have anything to do with his?",
+      "para_break": true
+    },
+    {
+      "start": 727.34,
+      "end": 728.12,
+      "text": "I don't think so,",
+      "para_break": true
+    },
+    {
+      "start": 728.3,
+      "end": 729.24,
+      "text": "but we don't know"
+    },
+    {
+      "start": 729.32,
+      "end": 729.46,
+      "text": "yet."
+    },
+    {
+      "start": 729.86,
+      "end": 730.72,
+      "text": "Anyway,"
+    },
+    {
+      "start": 731.0,
+      "end": 733.48,
+      "text": "we won't mix the house up in it if we can help it."
+    },
+    {
+      "start": 733.9,
+      "end": 734.76,
+      "text": "Thanks."
+    },
+    {
+      "start": 735.1,
+      "end": 736.02,
+      "text": "That's all right."
+    },
+    {
+      "start": 737.16,
+      "end": 738.86,
+      "text": "Can you give me some information about an",
+      "para_break": true
+    },
+    {
+      "start": 738.86,
+      "end": 740.94,
+      "text": "ex-guest and then forget I asked for it?"
+    }
+  ]
+}

@@ -1,0 +1,724 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-18",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_18_hammett.mp3",
+  "chapter_title": "Chapter 18 - The Fall-Guy",
+  "reader_name": "Mark Nelson",
+  "page_num": 5,
+  "page_total": 9,
+  "page_start_sec": 984.72,
+  "page_end_sec": 1225.7,
+  "para_gap_threshold": 0.691,
+  "segments": [
+    {
+      "start": 984.72,
+      "end": 985.94,
+      "text": "What do you think of all this,",
+      "para_break": true
+    },
+    {
+      "start": 985.98,
+      "end": 986.26,
+      "text": "Wilmer?"
+    },
+    {
+      "start": 986.46,
+      "end": 987.36,
+      "text": "It's funny,"
+    },
+    {
+      "start": 987.42,
+      "end": 987.78,
+      "text": "eh?\""
+    },
+    {
+      "start": 989.0,
+      "end": 991.88,
+      "text": "The boy's eyes were cold hazel gleams under his lashes.",
+      "para_break": true
+    },
+    {
+      "start": 993.344,
+      "end": 994.74,
+      "text": "He said in a low,",
+      "para_break": true
+    },
+    {
+      "start": 994.86,
+      "end": 995.6,
+      "text": "distinct voice,"
+    },
+    {
+      "start": 996.28,
+      "end": 996.78,
+      "text": "Yes,"
+    },
+    {
+      "start": 996.94,
+      "end": 997.6,
+      "text": "it's funny,"
+    },
+    {
+      "start": 997.76,
+      "end": 999.78,
+      "text": "the blankety-blank-blink-blink."
+    },
+    {
+      "start": 1001.152,
+      "end": 1003.04,
+      "text": "Spade was talking to Bridget O'Shaughnessy.",
+      "para_break": true
+    },
+    {
+      "start": 1004.08,
+      "end": 1004.92,
+      "text": "How do you feel now,",
+      "para_break": true
+    },
+    {
+      "start": 1004.98,
+      "end": 1005.2,
+      "text": "Angel?"
+    },
+    {
+      "start": 1005.38,
+      "end": 1006.1,
+      "text": "Any better?"
+    },
+    {
+      "start": 1006.78,
+      "end": 1007.26,
+      "text": "Yes,"
+    },
+    {
+      "start": 1007.44,
+      "end": 1008.18,
+      "text": "much better."
+    },
+    {
+      "start": 1008.32,
+      "end": 1009.24,
+      "text": "Only----"
+    },
+    {
+      "start": 1009.84,
+      "end": 1011.58,
+      "text": "She reduced her voice until the last"
+    },
+    {
+      "start": 1011.58,
+      "end": 1013.46,
+      "text": "words were inaudible two feet away."
+    },
+    {
+      "start": 1014.58,
+      "end": 1015.06,
+      "text": "I'm frightened.",
+      "para_break": true
+    },
+    {
+      "start": 1016.512,
+      "end": 1018.26,
+      "text": "\"'Don't be,' he said carelessly,",
+      "para_break": true
+    },
+    {
+      "start": 1018.42,
+      "end": 1019.88,
+      "text": "and put a hand on her round,"
+    },
+    {
+      "start": 1019.98,
+      "end": 1020.88,
+      "text": "gray-stocking knee."
+    },
+    {
+      "start": 1022.112,
+      "end": 1023.4,
+      "text": "\"'Nothing very bad's going to happen.",
+      "para_break": true
+    },
+    {
+      "start": 1023.62,
+      "end": 1024.66,
+      "text": "Want a drink?'"
+    },
+    {
+      "start": 1025.504,
+      "end": 1025.86,
+      "text": "\"'Not now,",
+      "para_break": true
+    },
+    {
+      "start": 1025.92,
+      "end": 1028.9,
+      "text": "thanks.' Her voice became barely audible again."
+    },
+    {
+      "start": 1029.8,
+      "end": 1030.2,
+      "text": "\"'Be careful,",
+      "para_break": true
+    },
+    {
+      "start": 1030.34,
+      "end": 1030.88,
+      "text": "Sam.'"
+    },
+    {
+      "start": 1031.904,
+      "end": 1033.4,
+      "text": "Spade grinned and looked at Gutman,",
+      "para_break": true
+    },
+    {
+      "start": 1033.6,
+      "end": 1034.82,
+      "text": "who was looking at him."
+    },
+    {
+      "start": 1035.36,
+      "end": 1037.24,
+      "text": "The fat man smiled genially,"
+    },
+    {
+      "start": 1037.46,
+      "end": 1038.74,
+      "text": "saying nothing for a moment,"
+    },
+    {
+      "start": 1038.88,
+      "end": 1039.6,
+      "text": "and then asked,"
+    },
+    {
+      "start": 1040.39,
+      "end": 1041.14,
+      "text": "\"'How?'",
+      "para_break": true
+    },
+    {
+      "start": 1042.368,
+      "end": 1043.14,
+      "text": "Spade was stupid.",
+      "para_break": true
+    },
+    {
+      "start": 1044.224,
+      "end": 1044.62,
+      "text": "\"'How what?'",
+      "para_break": true
+    },
+    {
+      "start": 1044.82,
+      "end": 1047.86,
+      "text": "The fat man considered more laughter necessary,"
+    },
+    {
+      "start": 1047.96,
+      "end": 1048.42,
+      "text": "then,"
+    },
+    {
+      "start": 1048.46,
+      "end": 1049.6,
+      "text": "and an explanation."
+    },
+    {
+      "start": 1050.68,
+      "end": 1051.04,
+      "text": "\"'Well,",
+      "para_break": true
+    },
+    {
+      "start": 1051.08,
+      "end": 1051.34,
+      "text": "sir,"
+    },
+    {
+      "start": 1051.5,
+      "end": 1055.78,
+      "text": "if you're really serious about this—this suggestion of yours,"
+    },
+    {
+      "start": 1056.2,
+      "end": 1057.32,
+      "text": "the least we can do,"
+    },
+    {
+      "start": 1057.44,
+      "end": 1058.5,
+      "text": "in common politeness,"
+    },
+    {
+      "start": 1058.62,
+      "end": 1059.54,
+      "text": "is to hear you out."
+    },
+    {
+      "start": 1059.8,
+      "end": 1059.9,
+      "text": "Now,"
+    },
+    {
+      "start": 1061.34,
+      "end": 1062.42,
+      "text": "how are you going",
+      "para_break": true
+    },
+    {
+      "start": 1062.52,
+      "end": 1064.25,
+      "text": "about fixing it so that Wilmer—'"
+    },
+    {
+      "start": 1065.06,
+      "end": 1066.76,
+      "text": "he paused here to laugh again—",
+      "para_break": true
+    },
+    {
+      "start": 1066.76,
+      "end": 1069.16,
+      "text": "'won't be able to do us any harm?'"
+    },
+    {
+      "start": 1069.26,
+      "end": 1069.44,
+      "text": "arm.\""
+    },
+    {
+      "start": 1070.464,
+      "end": 1071.42,
+      "text": "Spade shook his head.",
+      "para_break": true
+    },
+    {
+      "start": 1072.22,
+      "end": 1072.54,
+      "text": "No,",
+      "para_break": true
+    },
+    {
+      "start": 1072.86,
+      "end": 1073.48,
+      "text": "he said."
+    },
+    {
+      "start": 1074.26,
+      "end": 1076.88,
+      "text": "I wouldn't want to take advantage of anybody's politeness,",
+      "para_break": true
+    },
+    {
+      "start": 1077.12,
+      "end": 1078.72,
+      "text": "no matter how common like that."
+    },
+    {
+      "start": 1078.92,
+      "end": 1079.84,
+      "text": "Forget it."
+    },
+    {
+      "start": 1080.3,
+      "end": 1082.9,
+      "text": "The fat man puckered up his facial bulbs."
+    },
+    {
+      "start": 1083.86,
+      "end": 1084.06,
+      "text": "Now,",
+      "para_break": true
+    },
+    {
+      "start": 1084.22,
+      "end": 1084.58,
+      "text": "come,"
+    },
+    {
+      "start": 1084.74,
+      "end": 1084.98,
+      "text": "come,"
+    },
+    {
+      "start": 1085.6,
+      "end": 1086.4,
+      "text": "he protested."
+    },
+    {
+      "start": 1086.88,
+      "end": 1088.66,
+      "text": "You make me feel decidedly uncomfortable,"
+    },
+    {
+      "start": 1089.02,
+      "end": 1089.38,
+      "text": "sir."
+    },
+    {
+      "start": 1089.64,
+      "end": 1091.84,
+      "text": "I shouldn't have laughed,"
+    },
+    {
+      "start": 1091.96,
+      "end": 1094.3,
+      "text": "and I apologize most humbly and"
+    },
+    {
+      "start": 1094.38,
+      "end": 1094.74,
+      "text": "sincerely."
+    },
+    {
+      "start": 1095.9,
+      "end": 1098.54,
+      "text": "I wouldn't want to seem to ridicule anything you'd suggest,",
+      "para_break": true
+    },
+    {
+      "start": 1099.0,
+      "end": 1099.22,
+      "text": "Spade,"
+    },
+    {
+      "start": 1099.3,
+      "end": 1101.9,
+      "text": "regardless of how much I disagreed with you,"
+    },
+    {
+      "start": 1102.01,
+      "end": 1104.4,
+      "text": "for you must know that I have the greatest"
+    },
+    {
+      "start": 1104.5,
+      "end": 1107.14,
+      "text": "amount of respect and admiration for your astuteness."
+    },
+    {
+      "start": 1107.74,
+      "end": 1108.34,
+      "text": "Now,"
+    },
+    {
+      "start": 1108.44,
+      "end": 1108.88,
+      "text": "mind you,"
+    },
+    {
+      "start": 1109.12,
+      "end": 1109.88,
+      "text": "I don't see how"
+    },
+    {
+      "start": 1110.02,
+      "end": 1112.48,
+      "text": "this suggestion of yours can be in any way practical,"
+    },
+    {
+      "start": 1112.76,
+      "end": 1115.04,
+      "text": "even leaving out the fact that I"
+    },
+    {
+      "start": 1115.12,
+      "end": 1116.34,
+      "text": "couldn't feel any different toward"
+    },
+    {
+      "start": 1116.34,
+      "end": 1118.46,
+      "text": "Wilmer if he was my own flesh and blood."
+    },
+    {
+      "start": 1118.76,
+      "end": 1120.62,
+      "text": "But I'll consider it"
+    },
+    {
+      "start": 1120.62,
+      "end": 1121.4,
+      "text": "a personal favour,"
+    },
+    {
+      "start": 1121.56,
+      "end": 1121.74,
+      "text": "sir,"
+    },
+    {
+      "start": 1121.92,
+      "end": 1124.82,
+      "text": "as well as a sign that you've accepted my apology,"
+    },
+    {
+      "start": 1125.12,
+      "end": 1126.28,
+      "text": "if you'll go ahead"
+    },
+    {
+      "start": 1126.44,
+      "end": 1127.744,
+      "text": "and tell me the rest of it.'"
+    },
+    {
+      "start": 1129.18,
+      "end": 1130.64,
+      "text": "\"'Fair enough,' Spade said.",
+      "para_break": true
+    },
+    {
+      "start": 1131.872,
+      "end": 1133.8,
+      "text": "\"'Brian is like most district attorneys.",
+      "para_break": true
+    },
+    {
+      "start": 1134.36,
+      "end": 1137.0,
+      "text": "He's more interested in how his record will look on"
+    },
+    {
+      "start": 1137.0,
+      "end": 1138.56,
+      "text": "paper than in anything else."
+    },
+    {
+      "start": 1139.54,
+      "end": 1142.46,
+      "text": "He'd rather drop a doubtful case than try it and have it go against",
+      "para_break": true
+    },
+    {
+      "start": 1142.58,
+      "end": 1142.78,
+      "text": "him."
+    },
+    {
+      "start": 1143.42,
+      "end": 1145.2,
+      "text": "I don't know that he ever deliberately"
+    },
+    {
+      "start": 1145.2,
+      "end": 1146.9,
+      "text": "framed anyone he believed innocent,"
+    },
+    {
+      "start": 1147.18,
+      "end": 1148.14,
+      "text": "but I can't"
+    },
+    {
+      "start": 1148.14,
+      "end": 1150.22,
+      "text": "imagine his letting himself believe them innocent"
+    },
+    {
+      "start": 1150.22,
+      "end": 1152.92,
+      "text": "if he could scrape up or twist into shape proof"
+    },
+    {
+      "start": 1153.16,
+      "end": 1153.7,
+      "text": "of their guilt."
+    },
+    {
+      "start": 1154.98,
+      "end": 1156.58,
+      "text": "To be sure of convicting one man,",
+      "para_break": true
+    },
+    {
+      "start": 1156.78,
+      "end": 1158.66,
+      "text": "he'll let half a dozen equally guilty"
+    },
+    {
+      "start": 1158.78,
+      "end": 1159.9,
+      "text": "accomplices go free,"
+    },
+    {
+      "start": 1160.22,
+      "end": 1162.86,
+      "text": "if trying to nail them all might confuse his case."
+    },
+    {
+      "start": 1164.32,
+      "end": 1164.98,
+      "text": "That's the choice",
+      "para_break": true
+    },
+    {
+      "start": 1165.06,
+      "end": 1165.6,
+      "text": "we'll give him,"
+    },
+    {
+      "start": 1165.66,
+      "end": 1166.9,
+      "text": "and he'll gobble it up."
+    },
+    {
+      "start": 1167.4,
+      "end": 1169.22,
+      "text": "He wouldn't want to know about the Falcon."
+    },
+    {
+      "start": 1169.66,
+      "end": 1170.16,
+      "text": "He'll"
+    },
+    {
+      "start": 1170.26,
+      "end": 1172.48,
+      "text": "be tickled to death to persuade himself that"
+    },
+    {
+      "start": 1172.48,
+      "end": 1174.66,
+      "text": "anything the punk tells him about it is a lot"
+    },
+    {
+      "start": 1174.66,
+      "end": 1175.06,
+      "text": "of hooey,"
+    },
+    {
+      "start": 1175.2,
+      "end": 1177.12,
+      "text": "and attempt to muddle things up."
+    },
+    {
+      "start": 1177.92,
+      "end": 1178.82,
+      "text": "Leave that end to me.",
+      "para_break": true
+    },
+    {
+      "start": 1180.2,
+      "end": 1181.76,
+      "text": "I can show him that if he starts",
+      "para_break": true
+    },
+    {
+      "start": 1182.14,
+      "end": 1183.8,
+      "text": "fooling around trying to gather up everybody,"
+    },
+    {
+      "start": 1184.29,
+      "end": 1185.14,
+      "text": "he's going to have a"
+    },
+    {
+      "start": 1185.24,
+      "end": 1188.62,
+      "text": "tangled case that no jury will be able to make heads or tails of,"
+    },
+    {
+      "start": 1189.04,
+      "end": 1191.1,
+      "text": "while if he sticks to the punk he"
+    },
+    {
+      "start": 1191.104,
+      "end": 1192.84,
+      "text": "can get a conviction standing on his"
+    },
+    {
+      "start": 1193.08,
+      "end": 1193.376,
+      "text": "head.'"
+    },
+    {
+      "start": 1194.624,
+      "end": 1196.68,
+      "text": "Gutman wagged his head sideways in a slow,",
+      "para_break": true
+    },
+    {
+      "start": 1196.8,
+      "end": 1198.32,
+      "text": "smiling gesture of benign"
+    },
+    {
+      "start": 1198.38,
+      "end": 1198.98,
+      "text": "disapproval."
+    },
+    {
+      "start": 1199.62,
+      "end": 1200.54,
+      "text": "\"'No,"
+    },
+    {
+      "start": 1200.54,
+      "end": 1201.56,
+      "text": "sir,' he said."
+    },
+    {
+      "start": 1201.86,
+      "end": 1203.62,
+      "text": "\"'I'm afraid that won't do."
+    },
+    {
+      "start": 1204.0,
+      "end": 1204.96,
+      "text": "Won't do at all."
+    },
+    {
+      "start": 1205.5,
+      "end": 1209.56,
+      "text": "I don't see how even this district attorney of yours could link"
+    },
+    {
+      "start": 1209.68,
+      "end": 1212.82,
+      "text": "Thursby and Jacoby and Wilmer together without having to—'"
+    },
+    {
+      "start": 1213.38,
+      "end": 1215.15,
+      "text": "\"'You don't know district attorneys,'"
+    },
+    {
+      "start": 1215.68,
+      "end": 1216.38,
+      "text": "Spade told him."
+    },
+    {
+      "start": 1216.82,
+      "end": 1218.46,
+      "text": "\"'The Thursby angle is easy."
+    },
+    {
+      "start": 1219.22,
+      "end": 1219.94,
+      "text": "He was a gunman,",
+      "para_break": true
+    },
+    {
+      "start": 1220.06,
+      "end": 1220.98,
+      "text": "and so's your punk."
+    },
+    {
+      "start": 1221.888,
+      "end": 1223.78,
+      "text": "Brian's already got a theory about that.",
+      "para_break": true
+    },
+    {
+      "start": 1224.64,
+      "end": 1225.7,
+      "text": "There'll be no catch there.'",
+      "para_break": true
+    }
+  ]
+}

@@ -1,0 +1,626 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-15",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_15_hammett.mp3",
+  "chapter_title": "Chapter 15 - Officials",
+  "reader_name": "Mark Nelson",
+  "page_num": 4,
+  "page_total": 6,
+  "page_start_sec": 734.42,
+  "page_end_sec": 981.26,
+  "para_gap_threshold": 0.734,
+  "segments": [
+    {
+      "start": 734.42,
+      "end": 736.54,
+      "text": "\"'I don't say your client killed Thursby,",
+      "para_break": true
+    },
+    {
+      "start": 737.08,
+      "end": 737.96,
+      "text": "or had him killed."
+    },
+    {
+      "start": 738.42,
+      "end": 739.66,
+      "text": "But I do say that,"
+    },
+    {
+      "start": 739.76,
+      "end": 742.06,
+      "text": "knowing who your client is or was,"
+    },
+    {
+      "start": 742.14,
+      "end": 743.64,
+      "text": "I'll mighty soon know who killed"
+    },
+    {
+      "start": 743.9,
+      "end": 744.18,
+      "text": "Thursby."
+    },
+    {
+      "start": 745.856,
+      "end": 746.98,
+      "text": "Spade lighted his cigarette,",
+      "para_break": true
+    },
+    {
+      "start": 747.2,
+      "end": 748.32,
+      "text": "removed it from his lips,"
+    },
+    {
+      "start": 748.48,
+      "end": 749.58,
+      "text": "blew his lungs empty of"
+    },
+    {
+      "start": 749.64,
+      "end": 751.34,
+      "text": "smoke and spoke as if puzzled."
+    },
+    {
+      "start": 752.78,
+      "end": 754.54,
+      "text": "\"'I don't exactly get that.'",
+      "para_break": true
+    },
+    {
+      "start": 755.48,
+      "end": 756.04,
+      "text": "\"'You don't?",
+      "para_break": true
+    },
+    {
+      "start": 756.74,
+      "end": 758.22,
+      "text": "Then suppose I put it this way."
+    },
+    {
+      "start": 758.4,
+      "end": 760.62,
+      "text": "Where is Dixie Monaghan?'"
+    },
+    {
+      "start": 761.824,
+      "end": 764.0,
+      "text": "Spade's face retained its puzzled look.",
+      "para_break": true
+    },
+    {
+      "start": 765.344,
+      "end": 767.6,
+      "text": "\"'Putting it that way doesn't help much,' he said.",
+      "para_break": true
+    },
+    {
+      "start": 768.06,
+      "end": 769.28,
+      "text": "\"'I still don't get it.'"
+    },
+    {
+      "start": 770.68,
+      "end": 772.14,
+      "text": "The district attorney took his glasses",
+      "para_break": true
+    },
+    {
+      "start": 772.14,
+      "end": 773.96,
+      "text": "off and shook them a little for emphasis."
+    },
+    {
+      "start": 774.74,
+      "end": 775.12,
+      "text": "He said,",
+      "para_break": true
+    },
+    {
+      "start": 776.16,
+      "end": 778.44,
+      "text": "We know Thursby was Monaghan's bodyguard,",
+      "para_break": true
+    },
+    {
+      "start": 778.58,
+      "end": 780.88,
+      "text": "and went with him when Monaghan found it wise"
+    },
+    {
+      "start": 780.88,
+      "end": 782.08,
+      "text": "to vanish from Chicago."
+    },
+    {
+      "start": 783.36,
+      "end": 785.1,
+      "text": "We know Monaghan welshed on something",
+      "para_break": true
+    },
+    {
+      "start": 785.1,
+      "end": 786.54,
+      "text": "like two hundred thousand dollars"
+    },
+    {
+      "start": 786.66,
+      "end": 787.96,
+      "text": "worth of bets when he vanished."
+    },
+    {
+      "start": 789.06,
+      "end": 789.7,
+      "text": "We don't know,",
+      "para_break": true
+    },
+    {
+      "start": 789.84,
+      "end": 790.58,
+      "text": "not yet,"
+    },
+    {
+      "start": 791.08,
+      "end": 792.3,
+      "text": "who his creditors were."
+    },
+    {
+      "start": 793.22,
+      "end": 796.22,
+      "text": "He put his glasses on again and smiled grimly.",
+      "para_break": true
+    },
+    {
+      "start": 797.1,
+      "end": 799.22,
+      "text": "But we all know what's likely to happen to",
+      "para_break": true
+    },
+    {
+      "start": 799.32,
+      "end": 800.34,
+      "text": "a gambler who welches,"
+    },
+    {
+      "start": 800.54,
+      "end": 803.66,
+      "text": "and to his bodyguard when his creditors find him."
+    },
+    {
+      "start": 804.7,
+      "end": 805.78,
+      "text": "It's happened before.\"",
+      "para_break": true
+    },
+    {
+      "start": 807.04,
+      "end": 809.06,
+      "text": "Spade ran his tongue over his lips and pulled",
+      "para_break": true
+    },
+    {
+      "start": 809.06,
+      "end": 811.34,
+      "text": "his lips back over his teeth in an ugly grin."
+    },
+    {
+      "start": 812.36,
+      "end": 814.46,
+      "text": "His eyes glittered under pulled-down brows.",
+      "para_break": true
+    },
+    {
+      "start": 815.46,
+      "end": 817.96,
+      "text": "His reddening neck bulged over the rim of his collar.",
+      "para_break": true
+    },
+    {
+      "start": 818.6,
+      "end": 820.88,
+      "text": "His voice was low and hoarse and passionate."
+    },
+    {
+      "start": 821.94,
+      "end": 822.2,
+      "text": "\"'Well,",
+      "para_break": true
+    },
+    {
+      "start": 822.38,
+      "end": 823.28,
+      "text": "what do you think?"
+    },
+    {
+      "start": 823.86,
+      "end": 825.21,
+      "text": "Did I kill him for his creditors,"
+    },
+    {
+      "start": 825.8,
+      "end": 828.2,
+      "text": "or just find him and let them do their own killing?'"
+    },
+    {
+      "start": 828.32,
+      "end": 828.42,
+      "text": "No,"
+    },
+    {
+      "start": 829.62,
+      "end": 829.92,
+      "text": "no,",
+      "para_break": true
+    },
+    {
+      "start": 830.1,
+      "end": 832.34,
+      "text": "the district attorney protested."
+    },
+    {
+      "start": 832.36,
+      "end": 833.98,
+      "text": "You misunderstand me."
+    },
+    {
+      "start": 834.68,
+      "end": 836.36,
+      "text": "I hope to—I do,"
+    },
+    {
+      "start": 836.66,
+      "end": 837.56,
+      "text": "Spade said."
+    },
+    {
+      "start": 838.28,
+      "end": 839.74,
+      "text": "He didn't mean that,"
+    },
+    {
+      "start": 839.98,
+      "end": 840.94,
+      "text": "Thomas said."
+    },
+    {
+      "start": 841.98,
+      "end": 842.98,
+      "text": "Then what did he mean?",
+      "para_break": true
+    },
+    {
+      "start": 843.14,
+      "end": 844.12,
+      "text": "Spade asked."
+    },
+    {
+      "start": 845.28,
+      "end": 846.22,
+      "text": "Brian waved a hand.",
+      "para_break": true
+    },
+    {
+      "start": 847.18,
+      "end": 849.02,
+      "text": "I only meant that you might have been",
+      "para_break": true
+    },
+    {
+      "start": 849.02,
+      "end": 851.22,
+      "text": "involved in it without knowing what it was."
+    },
+    {
+      "start": 852.288,
+      "end": 853.0,
+      "text": "That could—",
+      "para_break": true
+    },
+    {
+      "start": 853.536,
+      "end": 854.16,
+      "text": "I see,"
+    },
+    {
+      "start": 854.54,
+      "end": 855.68,
+      "text": "Spade sneered."
+    },
+    {
+      "start": 855.8,
+      "end": 857.26,
+      "text": "You don't think I'm naughty."
+    },
+    {
+      "start": 857.7,
+      "end": 859.03,
+      "text": "You just think I'm dumb.\""
+    },
+    {
+      "start": 859.88,
+      "end": 860.74,
+      "text": "Nonsense,",
+      "para_break": true
+    },
+    {
+      "start": 861.2,
+      "end": 862.16,
+      "text": "Brian insisted."
+    },
+    {
+      "start": 863.392,
+      "end": 866.88,
+      "text": "Suppose someone came to you and engaged you to find Monaghan,",
+      "para_break": true
+    },
+    {
+      "start": 867.24,
+      "end": 869.7,
+      "text": "telling you they had reason to think he was in the city."
+    },
+    {
+      "start": 870.7,
+      "end": 873.34,
+      "text": "The someone might give you a completely false story.",
+      "para_break": true
+    },
+    {
+      "start": 874.24,
+      "end": 875.92,
+      "text": "Any one of a dozen or more would do.",
+      "para_break": true
+    },
+    {
+      "start": 876.6,
+      "end": 878.46,
+      "text": "Or might say he was a debtor who had"
+    },
+    {
+      "start": 878.46,
+      "end": 880.44,
+      "text": "run away without giving you the details."
+    },
+    {
+      "start": 881.78,
+      "end": 883.38,
+      "text": "How could you tell what was behind it?",
+      "para_break": true
+    },
+    {
+      "start": 884.26,
+      "end": 887.34,
+      "text": "How would you know it wasn't an ordinary piece of detective work?",
+      "para_break": true
+    },
+    {
+      "start": 888.26,
+      "end": 889.46,
+      "text": "And under those circumstances,",
+      "para_break": true
+    },
+    {
+      "start": 890.12,
+      "end": 893.14,
+      "text": "you certainly couldn't be held responsible for your part in it."
+    },
+    {
+      "start": 893.9,
+      "end": 894.82,
+      "text": "Unless...",
+      "para_break": true
+    },
+    {
+      "start": 895.11,
+      "end": 897.86,
+      "text": "His voice sank to a more impressive note,"
+    },
+    {
+      "start": 897.96,
+      "end": 900.46,
+      "text": "and his words came out spaced and distinct."
+    },
+    {
+      "start": 901.8,
+      "end": 904.36,
+      "text": "You made yourself an accomplice by concealing",
+      "para_break": true
+    },
+    {
+      "start": 904.36,
+      "end": 906.0,
+      "text": "your knowledge of the murderer's identity,"
+    },
+    {
+      "start": 906.76,
+      "end": 909.04,
+      "text": "or any information that would lead to his capture.",
+      "para_break": true
+    },
+    {
+      "start": 911.072,
+      "end": 912.72,
+      "text": "Anger was leaving Spade's face.",
+      "para_break": true
+    },
+    {
+      "start": 913.74,
+      "end": 915.76,
+      "text": "No anger remained in his voice when he asked,",
+      "para_break": true
+    },
+    {
+      "start": 916.896,
+      "end": 917.76,
+      "text": "\"'That's what you meant?'",
+      "para_break": true
+    },
+    {
+      "start": 918.0,
+      "end": 919.14,
+      "text": "\"'Exactly.'"
+    },
+    {
+      "start": 920.256,
+      "end": 920.56,
+      "text": "\"'All right.",
+      "para_break": true
+    },
+    {
+      "start": 920.74,
+      "end": 922.39,
+      "text": "Then there's no hard feelings.'"
+    },
+    {
+      "start": 923.36,
+      "end": 923.94,
+      "text": "\"'But you're wrong.",
+      "para_break": true
+    },
+    {
+      "start": 924.992,
+      "end": 925.45,
+      "text": "Show me.'",
+      "para_break": true
+    },
+    {
+      "start": 926.368,
+      "end": 927.24,
+      "text": "Spade shook his head.",
+      "para_break": true
+    },
+    {
+      "start": 928.192,
+      "end": 929.32,
+      "text": "\"'I can't show you now.",
+      "para_break": true
+    },
+    {
+      "start": 930.02,
+      "end": 931.08,
+      "text": "I can tell you.'"
+    },
+    {
+      "start": 932.096,
+      "end": 932.6,
+      "text": "\"'Tell me.'",
+      "para_break": true
+    },
+    {
+      "start": 933.696,
+      "end": 936.992,
+      "text": "\"'Nobody ever hired me to do anything about Dixie Monaghan.'",
+      "para_break": true
+    },
+    {
+      "start": 938.32,
+      "end": 940.22,
+      "text": "Brian and Thomas exchanged glances.",
+      "para_break": true
+    },
+    {
+      "start": 940.89,
+      "end": 943.44,
+      "text": "Brian's eyes came back to Spade and he said,"
+    },
+    {
+      "start": 944.896,
+      "end": 947.0,
+      "text": "But by your own admission to the police,",
+      "para_break": true
+    },
+    {
+      "start": 947.616,
+      "end": 950.44,
+      "text": "somebody did hire you to do something about Thursby,"
+    },
+    {
+      "start": 950.56,
+      "end": 951.28,
+      "text": "his bodyguard."
+    },
+    {
+      "start": 951.98,
+      "end": 952.64,
+      "text": "Yes,"
+    },
+    {
+      "start": 952.74,
+      "end": 953.58,
+      "text": "about Thursby,"
+    },
+    {
+      "start": 953.74,
+      "end": 954.94,
+      "text": "his ex-bodyguard."
+    },
+    {
+      "start": 955.88,
+      "end": 956.22,
+      "text": "Ex?",
+      "para_break": true
+    },
+    {
+      "start": 956.64,
+      "end": 957.42,
+      "text": "Yes,"
+    },
+    {
+      "start": 957.48,
+      "end": 957.98,
+      "text": "ex."
+    },
+    {
+      "start": 959.64,
+      "end": 962.88,
+      "text": "You know that Thursby was no longer associated with Monaghan?",
+      "para_break": true
+    },
+    {
+      "start": 963.5,
+      "end": 964.4,
+      "text": "You know that positively?"
+    },
+    {
+      "start": 966.336,
+      "end": 968.48,
+      "text": "Spade stretched out his hand and dropped the",
+      "para_break": true
+    },
+    {
+      "start": 968.48,
+      "end": 970.68,
+      "text": "stub of his cigarette into a tray on the desk."
+    },
+    {
+      "start": 971.62,
+      "end": 972.62,
+      "text": "He spoke carelessly.",
+      "para_break": true
+    },
+    {
+      "start": 974.12,
+      "end": 975.06,
+      "text": "I don't know anything,",
+      "para_break": true
+    },
+    {
+      "start": 975.24,
+      "end": 975.68,
+      "text": "positively,"
+    },
+    {
+      "start": 975.9,
+      "end": 978.72,
+      "text": "except that my client wasn't interested in Monaghan,"
+    },
+    {
+      "start": 979.32,
+      "end": 981.26,
+      "text": "had never been interested in Monaghan."
+    }
+  ]
+}

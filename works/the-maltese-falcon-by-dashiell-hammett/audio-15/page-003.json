@@ -1,0 +1,616 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-15",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_15_hammett.mp3",
+  "chapter_title": "Chapter 15 - Officials",
+  "reader_name": "Mark Nelson",
+  "page_num": 3,
+  "page_total": 6,
+  "page_start_sec": 493.312,
+  "page_end_sec": 733.54,
+  "para_gap_threshold": 0.734,
+  "segments": [
+    {
+      "start": 493.312,
+      "end": 495.04,
+      "text": "District Attorney Brian stood up and",
+      "para_break": true
+    },
+    {
+      "start": 495.04,
+      "end": 496.78,
+      "text": "held his hand out across his desk."
+    },
+    {
+      "start": 497.42,
+      "end": 499.82,
+      "text": "He was a blond man of medium stature,"
+    },
+    {
+      "start": 500.0,
+      "end": 501.82,
+      "text": "perhaps forty-five years old,"
+    },
+    {
+      "start": 501.94,
+      "end": 503.1,
+      "text": "with aggressive blue"
+    },
+    {
+      "start": 503.22,
+      "end": 505.5,
+      "text": "eyes behind black-rimmed nose-glasses,"
+    },
+    {
+      "start": 505.7,
+      "end": 508.44,
+      "text": "the over-large mouth of an orator and a wide,"
+    },
+    {
+      "start": 508.72,
+      "end": 509.2,
+      "text": "dimpled chin."
+    },
+    {
+      "start": 510.48,
+      "end": 510.94,
+      "text": "When he said,",
+      "para_break": true
+    },
+    {
+      "start": 511.42,
+      "end": 512.1,
+      "text": "How do you do,"
+    },
+    {
+      "start": 512.2,
+      "end": 512.5,
+      "text": "Spade?"
+    },
+    {
+      "start": 513.28,
+      "end": 515.46,
+      "text": "his voice was resonant with latent power.",
+      "para_break": true
+    },
+    {
+      "start": 516.62,
+      "end": 518.06,
+      "text": "They shook hands and sat down.",
+      "para_break": true
+    },
+    {
+      "start": 519.42,
+      "end": 521.26,
+      "text": "The district attorney put his finger on one",
+      "para_break": true
+    },
+    {
+      "start": 521.26,
+      "end": 523.26,
+      "text": "of the pearl buttons in a battery of four"
+    },
+    {
+      "start": 523.26,
+      "end": 523.96,
+      "text": "on his desk,"
+    },
+    {
+      "start": 524.12,
+      "end": 526.64,
+      "text": "said to the lathy youth who opened the door again,"
+    },
+    {
+      "start": 527.15,
+      "end": 528.06,
+      "text": "asked Mr."
+    },
+    {
+      "start": 528.22,
+      "end": 529.02,
+      "text": "Thomas and Healy"
+    },
+    {
+      "start": 529.02,
+      "end": 529.58,
+      "text": "to come in,"
+    },
+    {
+      "start": 530.42,
+      "end": 530.82,
+      "text": "and then,",
+      "para_break": true
+    },
+    {
+      "start": 530.84,
+      "end": 532.14,
+      "text": "rocking back in his chair,"
+    },
+    {
+      "start": 532.3,
+      "end": 533.9,
+      "text": "addressed Spade pleasantly,"
+    },
+    {
+      "start": 535.264,
+      "end": 538.02,
+      "text": "\"'You and the police haven't been hitting it off so well,",
+      "para_break": true
+    },
+    {
+      "start": 538.12,
+      "end": 538.64,
+      "text": "have you?'"
+    },
+    {
+      "start": 540.0,
+      "end": 543.18,
+      "text": "Spade made a negligent gesture with the fingers of his right hand.",
+      "para_break": true
+    },
+    {
+      "start": 544.288,
+      "end": 546.24,
+      "text": "\"'Nothing serious,' he said lightly.",
+      "para_break": true
+    },
+    {
+      "start": 547.008,
+      "end": 548.48,
+      "text": "Dundee gets too enthusiastic.",
+      "para_break": true
+    },
+    {
+      "start": 549.6,
+      "end": 552.32,
+      "text": "The door opened once more to admit two men.",
+      "para_break": true
+    },
+    {
+      "start": 553.18,
+      "end": 555.1,
+      "text": "The one to whom Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 555.64,
+      "end": 555.92,
+      "text": "Hello,"
+    },
+    {
+      "start": 556.04,
+      "end": 556.3,
+      "text": "Thomas,"
+    },
+    {
+      "start": 557.12,
+      "end": 559.14,
+      "text": "was a sunburned stocky man of thirty,",
+      "para_break": true
+    },
+    {
+      "start": 559.44,
+      "end": 561.9,
+      "text": "with clothing and hair of a kindred unruliness."
+    },
+    {
+      "start": 562.82,
+      "end": 565.14,
+      "text": "He clapped Spade on the shoulder with a freckled hand,",
+      "para_break": true
+    },
+    {
+      "start": 565.44,
+      "end": 565.7,
+      "text": "asked,"
+    },
+    {
+      "start": 566.336,
+      "end": 566.72,
+      "text": "How's tricks?"
+    },
+    {
+      "start": 567.52,
+      "end": 568.76,
+      "text": "and sat down beside him.",
+      "para_break": true
+    },
+    {
+      "start": 569.96,
+      "end": 571.94,
+      "text": "The second man was younger and colorless.",
+      "para_break": true
+    },
+    {
+      "start": 572.56,
+      "end": 574.62,
+      "text": "He took a seat a little apart from the three"
+    },
+    {
+      "start": 574.88,
+      "end": 577.34,
+      "text": "and balanced a stenographer's notebook on his knee,"
+    },
+    {
+      "start": 577.54,
+      "end": 579.34,
+      "text": "holding a green pencil over it."
+    },
+    {
+      "start": 580.608,
+      "end": 581.82,
+      "text": "Spade glanced his way,",
+      "para_break": true
+    },
+    {
+      "start": 582.0,
+      "end": 582.5,
+      "text": "chuckled,"
+    },
+    {
+      "start": 582.5,
+      "end": 583.16,
+      "text": "and asked Brian,"
+    },
+    {
+      "start": 584.416,
+      "end": 586.24,
+      "text": "Anything I say will be used against me?",
+      "para_break": true
+    },
+    {
+      "start": 587.4,
+      "end": 588.66,
+      "text": "The district attorney smiled.",
+      "para_break": true
+    },
+    {
+      "start": 590.52,
+      "end": 591.74,
+      "text": "That always holds good.",
+      "para_break": true
+    },
+    {
+      "start": 592.54,
+      "end": 594.06,
+      "text": "He took his glasses off,",
+      "para_break": true
+    },
+    {
+      "start": 594.24,
+      "end": 594.9,
+      "text": "looked at them,"
+    },
+    {
+      "start": 594.94,
+      "end": 596.46,
+      "text": "and set them on his nose again."
+    },
+    {
+      "start": 597.2,
+      "end": 599.36,
+      "text": "He looked through them at Spade and asked,",
+      "para_break": true
+    },
+    {
+      "start": 599.88,
+      "end": 601.42,
+      "text": "Who killed Thursby?"
+    },
+    {
+      "start": 602.624,
+      "end": 603.16,
+      "text": "Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 603.38,
+      "end": 604.82,
+      "text": "I don't know."
+    },
+    {
+      "start": 606.66,
+      "end": 608.44,
+      "text": "Brian rubbed his black eyeglass ribbon",
+      "para_break": true
+    },
+    {
+      "start": 608.44,
+      "end": 610.82,
+      "text": "between thumb and fingers and said knowingly,"
+    },
+    {
+      "start": 612.128,
+      "end": 613.3,
+      "text": "Perhaps you don't,",
+      "para_break": true
+    },
+    {
+      "start": 613.3,
+      "end": 616.12,
+      "text": "but you certainly could make an excellent guess."
+    },
+    {
+      "start": 617.24,
+      "end": 617.64,
+      "text": "Maybe,",
+      "para_break": true
+    },
+    {
+      "start": 617.82,
+      "end": 618.82,
+      "text": "but I wouldn't."
+    },
+    {
+      "start": 620.0,
+      "end": 621.84,
+      "text": "The district attorney raised his eyebrows.",
+      "para_break": true
+    },
+    {
+      "start": 623.42,
+      "end": 624.14,
+      "text": "I wouldn't,",
+      "para_break": true
+    },
+    {
+      "start": 624.14,
+      "end": 625.3,
+      "text": "Spade repeated."
+    },
+    {
+      "start": 626.16,
+      "end": 626.84,
+      "text": "He was tranquil.",
+      "para_break": true
+    },
+    {
+      "start": 628.26,
+      "end": 629.64,
+      "text": "My guess might be excellent,",
+      "para_break": true
+    },
+    {
+      "start": 629.84,
+      "end": 631.16,
+      "text": "or it might be crummy,"
+    },
+    {
+      "start": 631.38,
+      "end": 632.4,
+      "text": "But Mrs."
+    },
+    {
+      "start": 632.54,
+      "end": 634.42,
+      "text": "Spade didn't raise any children dippy"
+    },
+    {
+      "start": 634.42,
+      "end": 636.48,
+      "text": "enough to make guesses in front of a district"
+    },
+    {
+      "start": 636.64,
+      "end": 637.0,
+      "text": "attorney,"
+    },
+    {
+      "start": 637.16,
+      "end": 638.86,
+      "text": "an assistant district attorney,"
+    },
+    {
+      "start": 638.98,
+      "end": 639.94,
+      "text": "and a stenographer."
+    },
+    {
+      "start": 641.32,
+      "end": 642.0,
+      "text": "Why shouldn't you,",
+      "para_break": true
+    },
+    {
+      "start": 642.12,
+      "end": 643.22,
+      "text": "if you've nothing to conceal?"
+    },
+    {
+      "start": 644.5,
+      "end": 647.08,
+      "text": "\"'Everybody,' Spade blandly responded,",
+      "para_break": true
+    },
+    {
+      "start": 647.76,
+      "end": 649.16,
+      "text": "\"'has something to conceal.'"
+    },
+    {
+      "start": 650.272,
+      "end": 651.05,
+      "text": "\"'And you have?'",
+      "para_break": true
+    },
+    {
+      "start": 651.74,
+      "end": 652.28,
+      "text": "\"'My guesses,"
+    },
+    {
+      "start": 652.38,
+      "end": 653.344,
+      "text": "for one thing.'"
+    },
+    {
+      "start": 654.66,
+      "end": 656.76,
+      "text": "The district attorney looked down at his desk,",
+      "para_break": true
+    },
+    {
+      "start": 656.9,
+      "end": 658.2,
+      "text": "then up at Spade,"
+    },
+    {
+      "start": 658.36,
+      "end": 660.06,
+      "text": "settled his glasses more firmly"
+    },
+    {
+      "start": 660.24,
+      "end": 661.28,
+      "text": "on his nose and said,"
+    },
+    {
+      "start": 662.46,
+      "end": 664.88,
+      "text": "\"'If you'd prefer not having this stenographer here,",
+      "para_break": true
+    },
+    {
+      "start": 665.0,
+      "end": 666.04,
+      "text": "we can dismiss him."
+    },
+    {
+      "start": 666.52,
+      "end": 669.952,
+      "text": "It was simply as a matter of convenience that I brought him in.'"
+    },
+    {
+      "start": 671.2,
+      "end": 673.88,
+      "text": "\"'I don't mind him a damned bit,' Spade replied.",
+      "para_break": true
+    },
+    {
+      "start": 675.328,
+      "end": 677.5,
+      "text": "\"'I'm willing to have anything I say put down,",
+      "para_break": true
+    },
+    {
+      "start": 677.58,
+      "end": 678.88,
+      "text": "and I'm willing to sign it.'"
+    },
+    {
+      "start": 680.128,
+      "end": 681.76,
+      "text": "\"'We've no intention of asking you",
+      "para_break": true
+    },
+    {
+      "start": 681.76,
+      "end": 684.14,
+      "text": "to sign anything,' Brian assured him."
+    },
+    {
+      "start": 685.26,
+      "end": 688.34,
+      "text": "\"'I wish you wouldn't regard this as a formal inquiry at all.",
+      "para_break": true
+    },
+    {
+      "start": 688.59,
+      "end": 692.76,
+      "text": "And please don't think that I have any confidence or even belief in"
+    },
+    {
+      "start": 692.96,
+      "end": 695.136,
+      "text": "those theories the police seem to have formed.\""
+    },
+    {
+      "start": 695.84,
+      "end": 696.08,
+      "text": "No."
+    },
+    {
+      "start": 697.06,
+      "end": 697.64,
+      "text": "Not a particle.",
+      "para_break": true
+    },
+    {
+      "start": 699.296,
+      "end": 701.08,
+      "text": "Spade sighed and crossed his legs.",
+      "para_break": true
+    },
+    {
+      "start": 702.336,
+      "end": 703.16,
+      "text": "I'm glad of that.",
+      "para_break": true
+    },
+    {
+      "start": 704.096,
+      "end": 706.94,
+      "text": "He felt in his pockets for tobacco and cigarette papers.",
+      "para_break": true
+    },
+    {
+      "start": 707.968,
+      "end": 708.64,
+      "text": "What's your theory?",
+      "para_break": true
+    },
+    {
+      "start": 710.02,
+      "end": 713.84,
+      "text": "Brian leaned forward in his chair and his eyes were hard and shiny as",
+      "para_break": true
+    },
+    {
+      "start": 713.84,
+      "end": 714.76,
+      "text": "the lenses over them."
+    },
+    {
+      "start": 716.24,
+      "end": 718.46,
+      "text": "\"'Tell me who Archer was shadowing Thursby for,",
+      "para_break": true
+    },
+    {
+      "start": 718.62,
+      "end": 720.93,
+      "text": "and I'll tell you who killed Thursby.'"
+    },
+    {
+      "start": 722.112,
+      "end": 724.16,
+      "text": "Spade's laugh was brief and scornful.",
+      "para_break": true
+    },
+    {
+      "start": 725.344,
+      "end": 727.72,
+      "text": "\"'You're as wrong as Dundee,' he said.",
+      "para_break": true
+    },
+    {
+      "start": 728.992,
+      "end": 730.24,
+      "text": "\"'Don't misunderstand me,",
+      "para_break": true
+    },
+    {
+      "start": 730.28,
+      "end": 730.88,
+      "text": "Spade.'"
+    },
+    {
+      "start": 731.8,
+      "end": 733.54,
+      "text": "Brian knocked on the desk with his knuckles.",
+      "para_break": true
+    }
+  ]
+}

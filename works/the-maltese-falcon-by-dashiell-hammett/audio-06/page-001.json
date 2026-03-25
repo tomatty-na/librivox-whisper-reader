@@ -1,0 +1,629 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-06",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_06_hammett.mp3",
+  "chapter_title": "Chapter 6 - The Undersized Shadow",
+  "reader_name": "Mark Nelson",
+  "page_num": 1,
+  "page_total": 5,
+  "page_start_sec": 7.8,
+  "page_end_sec": 254.02,
+  "para_gap_threshold": 0.735,
+  "segments": [
+    {
+      "start": 7.8,
+      "end": 10.2,
+      "text": "CHAPTER VI."
+    },
+    {
+      "start": 10.24,
+      "end": 12.36,
+      "text": "THE UNDERSIZED SHADOW"
+    },
+    {
+      "start": 14.56,
+      "end": 16.82,
+      "text": "For half an hour after Joel Cairo had gone,",
+      "para_break": true
+    },
+    {
+      "start": 17.376,
+      "end": 18.2,
+      "text": "Spade sat alone,"
+    },
+    {
+      "start": 18.52,
+      "end": 19.8,
+      "text": "still and frowning,"
+    },
+    {
+      "start": 19.82,
+      "end": 20.38,
+      "text": "in his office."
+    },
+    {
+      "start": 21.42,
+      "end": 22.34,
+      "text": "Then he said aloud,",
+      "para_break": true
+    },
+    {
+      "start": 22.62,
+      "end": 24.22,
+      "text": "in the tone of one dismissing a problem,"
+    },
+    {
+      "start": 24.72,
+      "end": 25.28,
+      "text": "Well,"
+    },
+    {
+      "start": 25.52,
+      "end": 26.54,
+      "text": "they're paying for it,"
+    },
+    {
+      "start": 27.14,
+      "end": 28.6,
+      "text": "and took a bottle of Manhattan cocktail"
+    },
+    {
+      "start": 28.96,
+      "end": 30.94,
+      "text": "and a paper drinking-cup from a desk drawer."
+    },
+    {
+      "start": 31.58,
+      "end": 33.44,
+      "text": "He filled the cup two-thirds full,"
+    },
+    {
+      "start": 33.94,
+      "end": 34.12,
+      "text": "drank,"
+    },
+    {
+      "start": 34.56,
+      "end": 35.76,
+      "text": "put the bottle back in the drawer,"
+    },
+    {
+      "start": 36.32,
+      "end": 37.9,
+      "text": "tossed the cup into the waste-basket,"
+    },
+    {
+      "start": 38.36,
+      "end": 39.62,
+      "text": "put on his hat and overcoat,"
+    },
+    {
+      "start": 39.968,
+      "end": 40.92,
+      "text": "switched off the lights,"
+    },
+    {
+      "start": 41.1,
+      "end": 42.62,
+      "text": "and went down to the night-lit street."
+    },
+    {
+      "start": 44.54,
+      "end": 47.08,
+      "text": "An undersized youth of twenty or twenty-one,",
+      "para_break": true
+    },
+    {
+      "start": 47.34,
+      "end": 48.98,
+      "text": "in a neat gray cap and overcoat,"
+    },
+    {
+      "start": 49.34,
+      "end": 52.18,
+      "text": "was standing idly on the corner below Spade's building."
+    },
+    {
+      "start": 53.632,
+      "end": 55.38,
+      "text": "Spade walked up Sutter Street to Kearney,",
+      "para_break": true
+    },
+    {
+      "start": 55.58,
+      "end": 58.68,
+      "text": "where he went into a cigar store to buy two sacks of"
+    },
+    {
+      "start": 58.68,
+      "end": 59.14,
+      "text": "Bull Durham."
+    },
+    {
+      "start": 60.36,
+      "end": 61.12,
+      "text": "When he came out,",
+      "para_break": true
+    },
+    {
+      "start": 61.24,
+      "end": 64.4,
+      "text": "the youth was one of the four people waiting for a streetcar on the"
+    },
+    {
+      "start": 64.44,
+      "end": 65.04,
+      "text": "opposite corner."
+    },
+    {
+      "start": 66.56,
+      "end": 69.04,
+      "text": "Spade went to Herbert's Grill in Powell Street for dinner.",
+      "para_break": true
+    },
+    {
+      "start": 70.04,
+      "end": 70.78,
+      "text": "When he left the grill",
+      "para_break": true
+    },
+    {
+      "start": 70.94,
+      "end": 71.72,
+      "text": "at quarter to eight,"
+    },
+    {
+      "start": 71.88,
+      "end": 74.86,
+      "text": "the youth was looking into a nearby haberdasher's window."
+    },
+    {
+      "start": 76.096,
+      "end": 76.74,
+      "text": "Spade went to the",
+      "para_break": true
+    },
+    {
+      "start": 76.88,
+      "end": 77.72,
+      "text": "Hotel Belvedere,"
+    },
+    {
+      "start": 77.86,
+      "end": 79.48,
+      "text": "asking at the desk for Mr."
+    },
+    {
+      "start": 79.62,
+      "end": 79.88,
+      "text": "Cairo."
+    },
+    {
+      "start": 80.96,
+      "end": 81.88,
+      "text": "He was told that Mr.",
+      "para_break": true
+    },
+    {
+      "start": 82.04,
+      "end": 83.04,
+      "text": "Cairo was not in."
+    },
+    {
+      "start": 84.1,
+      "end": 87.32,
+      "text": "The youth sat in a chair in a far corner of the hotel lobby.",
+      "para_break": true
+    },
+    {
+      "start": 88.96,
+      "end": 90.38,
+      "text": "Spade went to the Geary Theatre,",
+      "para_break": true
+    },
+    {
+      "start": 91.104,
+      "end": 92.46,
+      "text": "failed to see Cairo in the lobby,"
+    },
+    {
+      "start": 92.64,
+      "end": 94.2,
+      "text": "and posted himself on the"
+    },
+    {
+      "start": 94.3,
+      "end": 94.94,
+      "text": "curb in front,"
+    },
+    {
+      "start": 95.1,
+      "end": 96.0,
+      "text": "facing the theatre."
+    },
+    {
+      "start": 97.24,
+      "end": 99.95,
+      "text": "The youth loitered with other loiterers before Marquardt's",
+      "para_break": true
+    },
+    {
+      "start": 100.14,
+      "end": 100.8,
+      "text": "restaurant below."
+    },
+    {
+      "start": 102.22,
+      "end": 103.38,
+      "text": "At ten minutes past eight,",
+      "para_break": true
+    },
+    {
+      "start": 103.58,
+      "end": 104.6,
+      "text": "Joel Cairo appeared,"
+    },
+    {
+      "start": 104.9,
+      "end": 106.2,
+      "text": "walking up Geary Street"
+    },
+    {
+      "start": 106.44,
+      "end": 108.16,
+      "text": "with his little mincing bobbing steps."
+    },
+    {
+      "start": 109.44,
+      "end": 111.38,
+      "text": "Apparently he did not see Spade",
+      "para_break": true
+    },
+    {
+      "start": 111.52,
+      "end": 113.56,
+      "text": "until the private detective touched his shoulder."
+    },
+    {
+      "start": 114.28,
+      "end": 117.56,
+      "text": "He seemed moderately surprised for a moment and then said,"
+    },
+    {
+      "start": 118.12,
+      "end": 118.66,
+      "text": "Oh,"
+    },
+    {
+      "start": 118.76,
+      "end": 118.98,
+      "text": "yes,"
+    },
+    {
+      "start": 119.12,
+      "end": 119.56,
+      "text": "of course."
+    },
+    {
+      "start": 120.1,
+      "end": 120.88,
+      "text": "You saw the ticket."
+    },
+    {
+      "start": 122.2,
+      "end": 122.54,
+      "text": "Uh-huh.",
+      "para_break": true
+    },
+    {
+      "start": 123.05,
+      "end": 124.9,
+      "text": "I've got something I want to show you."
+    },
+    {
+      "start": 125.92,
+      "end": 127.72,
+      "text": "Spade drew Cairo back toward the curb,",
+      "para_break": true
+    },
+    {
+      "start": 127.84,
+      "end": 130.28,
+      "text": "a little away from the other waiting theater-goers."
+    },
+    {
+      "start": 131.48,
+      "end": 133.23,
+      "text": "The kid in the cap down by Marquardt's.",
+      "para_break": true
+    },
+    {
+      "start": 134.88,
+      "end": 135.56,
+      "text": "Cairo murmured,",
+      "para_break": true
+    },
+    {
+      "start": 135.95,
+      "end": 136.9,
+      "text": "I'll see,"
+    },
+    {
+      "start": 137.1,
+      "end": 138.78,
+      "text": "and looked at his watch."
+    },
+    {
+      "start": 139.648,
+      "end": 140.92,
+      "text": "He looked up Geary Street.",
+      "para_break": true
+    },
+    {
+      "start": 141.34,
+      "end": 143.46,
+      "text": "He looked at a theater sign in front of him"
+    },
+    {
+      "start": 143.5,
+      "end": 146.3,
+      "text": "on which George Arliss was shown costumed as Shylock,"
+    },
+    {
+      "start": 147.08,
+      "end": 150.1,
+      "text": "and then his dark eyes crawled sideways in their sockets",
+      "para_break": true
+    },
+    {
+      "start": 150.3,
+      "end": 152.2,
+      "text": "until they were looking at the kid in the cap,"
+    },
+    {
+      "start": 152.9,
+      "end": 156.4,
+      "text": "at his cool pale face with curling lashes hiding lowered eyes."
+    },
+    {
+      "start": 157.7,
+      "end": 158.22,
+      "text": "Who is he?",
+      "para_break": true
+    },
+    {
+      "start": 158.72,
+      "end": 159.26,
+      "text": "Spade asked."
+    },
+    {
+      "start": 160.384,
+      "end": 161.76,
+      "text": "Cairo smiled up at Spade.",
+      "para_break": true
+    },
+    {
+      "start": 162.64,
+      "end": 163.72,
+      "text": "I do not know him.",
+      "para_break": true
+    },
+    {
+      "start": 164.32,
+      "end": 166.912,
+      "text": "He's been tailing me around town.'"
+    },
+    {
+      "start": 167.936,
+      "end": 170.14,
+      "text": "Cairo wet his lower lip with his tongue and asked,",
+      "para_break": true
+    },
+    {
+      "start": 171.14,
+      "end": 172.38,
+      "text": "\"'Do you think it was wise,",
+      "para_break": true
+    },
+    {
+      "start": 172.46,
+      "end": 172.72,
+      "text": "then,"
+    },
+    {
+      "start": 172.72,
+      "end": 174.05,
+      "text": "to let him see us together?'"
+    },
+    {
+      "start": 174.9,
+      "end": 176.6,
+      "text": "\"'How do I know?' Spade replied.",
+      "para_break": true
+    },
+    {
+      "start": 177.28,
+      "end": 177.68,
+      "text": "\"'Anyway,"
+    },
+    {
+      "start": 177.68,
+      "end": 178.58,
+      "text": "it's done.'"
+    },
+    {
+      "start": 179.712,
+      "end": 182.76,
+      "text": "Cairo took off his hat and smoothed his hair with a gloved hand.",
+      "para_break": true
+    },
+    {
+      "start": 183.84,
+      "end": 186.16,
+      "text": "Then he replaced his hat carefully and said,",
+      "para_break": true
+    },
+    {
+      "start": 186.28,
+      "end": 187.8,
+      "text": "with every appearance of candor,"
+    },
+    {
+      "start": 188.9,
+      "end": 190.92,
+      "text": "\"'I give you my word I do not know him,",
+      "para_break": true
+    },
+    {
+      "start": 190.94,
+      "end": 191.14,
+      "text": "Mr."
+    },
+    {
+      "start": 191.18,
+      "end": 191.48,
+      "text": "Spade."
+    },
+    {
+      "start": 191.75,
+      "end": 194.66,
+      "text": "I give you my word I have nothing to do with him."
+    },
+    {
+      "start": 195.82,
+      "end": 197.71,
+      "text": "I have asked nobody's assistance except",
+      "para_break": true
+    },
+    {
+      "start": 197.8,
+      "end": 199.456,
+      "text": "yours on my word of honor.\""
+    },
+    {
+      "start": 200.76,
+      "end": 201.88,
+      "text": "Then he's one of the others?",
+      "para_break": true
+    },
+    {
+      "start": 203.0,
+      "end": 203.6,
+      "text": "That may be.",
+      "para_break": true
+    },
+    {
+      "start": 204.96,
+      "end": 206.04,
+      "text": "I just wanted to know,",
+      "para_break": true
+    },
+    {
+      "start": 206.2,
+      "end": 209.1,
+      "text": "because if he gets to be a nuisance I may have to hurt him."
+    },
+    {
+      "start": 210.28,
+      "end": 211.46,
+      "text": "Do as you think best.",
+      "para_break": true
+    },
+    {
+      "start": 211.69,
+      "end": 213.42,
+      "text": "He is not a friend of mine."
+    },
+    {
+      "start": 214.624,
+      "end": 215.04,
+      "text": "That's good.",
+      "para_break": true
+    },
+    {
+      "start": 215.96,
+      "end": 216.56,
+      "text": "There goes the curtain.",
+      "para_break": true
+    },
+    {
+      "start": 217.44,
+      "end": 218.82,
+      "text": "\"'Good night,' Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 219.0,
+      "end": 221.5,
+      "text": "and crossed the street to board a westbound street car."
+    },
+    {
+      "start": 222.35,
+      "end": 225.16,
+      "text": "The youth in the cap boarded the same car.",
+      "para_break": true
+    },
+    {
+      "start": 226.656,
+      "end": 229.4,
+      "text": "Spade left the car at Hyde Street and went up to his apartment.",
+      "para_break": true
+    },
+    {
+      "start": 230.24,
+      "end": 231.86,
+      "text": "His rooms were not greatly upset,",
+      "para_break": true
+    },
+    {
+      "start": 232.12,
+      "end": 234.84,
+      "text": "but showed unmistakably that they had been searched."
+    },
+    {
+      "start": 236.4,
+      "end": 239.0,
+      "text": "When Spade had washed and put on a fresh shirt and collar,",
+      "para_break": true
+    },
+    {
+      "start": 239.38,
+      "end": 240.16,
+      "text": "he went out again,"
+    },
+    {
+      "start": 240.36,
+      "end": 241.6,
+      "text": "walked up to Sutter Street,"
+    },
+    {
+      "start": 241.8,
+      "end": 243.56,
+      "text": "and boarded a westbound car."
+    },
+    {
+      "start": 244.64,
+      "end": 245.92,
+      "text": "The youth boarded it also.",
+      "para_break": true
+    },
+    {
+      "start": 247.66,
+      "end": 249.54,
+      "text": "Within half a dozen blocks of the Coronet,",
+      "para_break": true
+    },
+    {
+      "start": 249.85,
+      "end": 252.47,
+      "text": "Spade left the car and went into the vestibule"
+    },
+    {
+      "start": 252.56,
+      "end": 254.02,
+      "text": "of a tall brown apartment building."
+    }
+  ]
+}

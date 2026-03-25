@@ -1,0 +1,657 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-08",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_08_hammett.mp3",
+  "chapter_title": "Chapter 8 - Horsefeathers",
+  "reader_name": "Mark Nelson",
+  "page_num": 1,
+  "page_total": 5,
+  "page_start_sec": 7.6,
+  "page_end_sec": 248.5,
+  "para_gap_threshold": 0.672,
+  "segments": [
+    {
+      "start": 7.6,
+      "end": 10.16,
+      "text": "CHAPTER VIII."
+    },
+    {
+      "start": 10.16,
+      "end": 11.52,
+      "text": "HORSE-FEATHERS."
+    },
+    {
+      "start": 12.55,
+      "end": 15.92,
+      "text": "Bridget O'Shaughnessy was huddled in the armchair by the table.",
+      "para_break": true
+    },
+    {
+      "start": 16.24,
+      "end": 18.06,
+      "text": "Her forearms were up over her"
+    },
+    {
+      "start": 18.28,
+      "end": 18.4,
+      "text": "cheeks,"
+    },
+    {
+      "start": 18.88,
+      "end": 21.62,
+      "text": "her knees drawn up until they hid the lower part of her face."
+    },
+    {
+      "start": 22.1,
+      "end": 23.14,
+      "text": "Her eyes were"
+    },
+    {
+      "start": 23.2,
+      "end": 24.42,
+      "text": "white-circled and terrified."
+    },
+    {
+      "start": 25.792,
+      "end": 27.32,
+      "text": "Joel Cairo stood in front of her,",
+      "para_break": true
+    },
+    {
+      "start": 27.38,
+      "end": 28.24,
+      "text": "bending over her,"
+    },
+    {
+      "start": 28.38,
+      "end": 28.94,
+      "text": "holding"
+    },
+    {
+      "start": 28.94,
+      "end": 31.5,
+      "text": "in one hand the pistol Spade had taken from him."
+    },
+    {
+      "start": 32.28,
+      "end": 33.94,
+      "text": "His other hand was clapped to his forehead.",
+      "para_break": true
+    },
+    {
+      "start": 34.96,
+      "end": 37.74,
+      "text": "Blood ran through its fingers and down under them to his eyes.",
+      "para_break": true
+    },
+    {
+      "start": 38.8,
+      "end": 39.98,
+      "text": "A smaller trickle from his",
+      "para_break": true
+    },
+    {
+      "start": 40.1,
+      "end": 42.84,
+      "text": "cut lip made three wavy red lines across his chin."
+    },
+    {
+      "start": 44.96,
+      "end": 46.6,
+      "text": "Cairo did not heed the detectives.",
+      "para_break": true
+    },
+    {
+      "start": 46.72,
+      "end": 49.4,
+      "text": "He was glaring at the girl huddled before him."
+    },
+    {
+      "start": 49.82,
+      "end": 50.3,
+      "text": "His"
+    },
+    {
+      "start": 50.42,
+      "end": 51.93,
+      "text": "lips were working spasmodically,"
+    },
+    {
+      "start": 52.1,
+      "end": 54.6,
+      "text": "but no coherent sound came from between them."
+    },
+    {
+      "start": 55.48,
+      "end": 56.06,
+      "text": "Dundee,",
+      "para_break": true
+    },
+    {
+      "start": 56.22,
+      "end": 58.12,
+      "text": "the first of the three into the room,"
+    },
+    {
+      "start": 58.24,
+      "end": 59.78,
+      "text": "moved swiftly to Cairo's side,"
+    },
+    {
+      "start": 60.04,
+      "end": 61.06,
+      "text": "put a hand"
+    },
+    {
+      "start": 61.06,
+      "end": 62.76,
+      "text": "on his own hip under his overcoat,"
+    },
+    {
+      "start": 63.2,
+      "end": 65.3,
+      "text": "a hand on the Levantine's wrist and growled,"
+    },
+    {
+      "start": 66.0,
+      "end": 66.99,
+      "text": "\"'What are you up to here?'",
+      "para_break": true
+    },
+    {
+      "start": 68.192,
+      "end": 70.24,
+      "text": "Cairo took the red-smeared hand from his forehead",
+      "para_break": true
+    },
+    {
+      "start": 70.24,
+      "end": 72.46,
+      "text": "and waved it close to the lieutenant's face."
+    },
+    {
+      "start": 73.824,
+      "end": 74.7,
+      "text": "Uncovered by the hand,",
+      "para_break": true
+    },
+    {
+      "start": 74.86,
+      "end": 77.24,
+      "text": "his forehead showed a three-inch ragged tear."
+    },
+    {
+      "start": 78.336,
+      "end": 80.52,
+      "text": "\"'This is what she did!' he cried.",
+      "para_break": true
+    },
+    {
+      "start": 80.88,
+      "end": 81.66,
+      "text": "\"'Look at it!'"
+    },
+    {
+      "start": 82.36,
+      "end": 84.08,
+      "text": "The girl put her feet down on the",
+      "para_break": true
+    },
+    {
+      "start": 84.08,
+      "end": 86.08,
+      "text": "floor and looked warily from Dundee,"
+    },
+    {
+      "start": 86.18,
+      "end": 87.04,
+      "text": "holding Cairo's"
+    },
+    {
+      "start": 87.14,
+      "end": 87.38,
+      "text": "wrist,"
+    },
+    {
+      "start": 87.48,
+      "end": 88.64,
+      "text": "to Tom Polehouse,"
+    },
+    {
+      "start": 88.88,
+      "end": 90.24,
+      "text": "standing a little behind them,"
+    },
+    {
+      "start": 90.4,
+      "end": 91.2,
+      "text": "to Spade,"
+    },
+    {
+      "start": 91.38,
+      "end": 92.48,
+      "text": "leaning against the"
+    },
+    {
+      "start": 92.56,
+      "end": 92.9,
+      "text": "door-frame."
+    },
+    {
+      "start": 94.112,
+      "end": 95.58,
+      "text": "Spade's face was placid.",
+      "para_break": true
+    },
+    {
+      "start": 96.82,
+      "end": 97.98,
+      "text": "When his gaze met hers,",
+      "para_break": true
+    },
+    {
+      "start": 98.2,
+      "end": 101.62,
+      "text": "his yellow-gray eyes glinted for an instant with malicious humor"
+    },
+    {
+      "start": 101.88,
+      "end": 104.0,
+      "text": "and then became expressionless again."
+    },
+    {
+      "start": 105.5,
+      "end": 107.72,
+      "text": "\"'Did you do that?' Dunny asked the girl,",
+      "para_break": true
+    },
+    {
+      "start": 107.76,
+      "end": 109.18,
+      "text": "nodding at Cairo's cut head."
+    },
+    {
+      "start": 110.48,
+      "end": 111.7,
+      "text": "She looked at Spade again.",
+      "para_break": true
+    },
+    {
+      "start": 112.7,
+      "end": 115.52,
+      "text": "He did not in any way respond to the appeal in her eyes.",
+      "para_break": true
+    },
+    {
+      "start": 116.06,
+      "end": 118.4,
+      "text": "He leaned against the door-frame and observed"
+    },
+    {
+      "start": 118.4,
+      "end": 120.7,
+      "text": "the occupants of the room with the polite air"
+    },
+    {
+      "start": 120.84,
+      "end": 122.14,
+      "text": "of an invited spectator."
+    },
+    {
+      "start": 123.42,
+      "end": 125.18,
+      "text": "The girl turned her eyes up to Dundee's.",
+      "para_break": true
+    },
+    {
+      "start": 125.3,
+      "end": 127.32,
+      "text": "Her eyes were wide and dark"
+    },
+    {
+      "start": 127.32,
+      "end": 127.86,
+      "text": "and earnest."
+    },
+    {
+      "start": 128.84,
+      "end": 129.96,
+      "text": "I had to,",
+      "para_break": true
+    },
+    {
+      "start": 130.08,
+      "end": 131.64,
+      "text": "she said in a low,"
+    },
+    {
+      "start": 131.66,
+      "end": 132.14,
+      "text": "throaty,"
+    },
+    {
+      "start": 132.14,
+      "end": 133.48,
+      "text": "almost sobbing voice."
+    },
+    {
+      "start": 134.28,
+      "end": 135.82,
+      "text": "I was all alone in here with",
+      "para_break": true
+    },
+    {
+      "start": 135.82,
+      "end": 137.06,
+      "text": "him when he attacked me."
+    },
+    {
+      "start": 137.26,
+      "end": 138.4,
+      "text": "I couldn't..."
+    },
+    {
+      "start": 138.4,
+      "end": 139.96,
+      "text": "I tried to keep him off."
+    },
+    {
+      "start": 140.26,
+      "end": 140.98,
+      "text": "I..."
+    },
+    {
+      "start": 140.98,
+      "end": 142.46,
+      "text": "I couldn't make myself shoot"
+    },
+    {
+      "start": 142.56,
+      "end": 142.74,
+      "text": "him."
+    },
+    {
+      "start": 143.22,
+      "end": 144.02,
+      "text": "Oh,"
+    },
+    {
+      "start": 144.04,
+      "end": 144.64,
+      "text": "you liar!"
+    },
+    {
+      "start": 145.06,
+      "end": 146.08,
+      "text": "Cairo cried,"
+    },
+    {
+      "start": 146.32,
+      "end": 148.7,
+      "text": "trying unsuccessfully to pull the arm that held the"
+    },
+    {
+      "start": 148.84,
+      "end": 150.02,
+      "text": "pistol out of Dundee's grip."
+    },
+    {
+      "start": 150.2,
+      "end": 150.9,
+      "text": "Oh,"
+    },
+    {
+      "start": 151.0,
+      "end": 151.54,
+      "text": "you dirty,"
+    },
+    {
+      "start": 151.64,
+      "end": 152.46,
+      "text": "filthy liar!"
+    },
+    {
+      "start": 152.86,
+      "end": 155.4,
+      "text": "He squirmed around to face Dundee."
+    },
+    {
+      "start": 156.19,
+      "end": 157.7,
+      "text": "She's lying awfully.",
+      "para_break": true
+    },
+    {
+      "start": 158.04,
+      "end": 161.26,
+      "text": "I came here in good faith and was attacked by both of them,"
+    },
+    {
+      "start": 161.62,
+      "end": 163.84,
+      "text": "and when you came he went out to talk to you,"
+    },
+    {
+      "start": 163.92,
+      "end": 165.72,
+      "text": "leaving her here with this pistol,"
+    },
+    {
+      "start": 165.86,
+      "end": 167.14,
+      "text": "and then she"
+    },
+    {
+      "start": 167.26,
+      "end": 169.32,
+      "text": "said they were going to kill me after you left,"
+    },
+    {
+      "start": 169.44,
+      "end": 171.86,
+      "text": "and I called for help so you wouldn't leave me"
+    },
+    {
+      "start": 171.86,
+      "end": 172.62,
+      "text": "here to be murdered,"
+    },
+    {
+      "start": 172.82,
+      "end": 174.88,
+      "text": "and then she struck me with the pistol."
+    },
+    {
+      "start": 175.16,
+      "end": 175.26,
+      "text": "Here,"
+    },
+    {
+      "start": 176.22,
+      "end": 177.02,
+      "text": "give me this thing,",
+      "para_break": true
+    },
+    {
+      "start": 177.18,
+      "end": 178.06,
+      "text": "Dundee said,"
+    },
+    {
+      "start": 178.3,
+      "end": 180.16,
+      "text": "and took the pistol from Cairo's hand."
+    },
+    {
+      "start": 181.02,
+      "end": 181.54,
+      "text": "Now,",
+      "para_break": true
+    },
+    {
+      "start": 181.64,
+      "end": 182.56,
+      "text": "let's get this straight."
+    },
+    {
+      "start": 183.38,
+      "end": 184.38,
+      "text": "What did you come here for?",
+      "para_break": true
+    },
+    {
+      "start": 185.44,
+      "end": 186.4,
+      "text": "He sent for me.",
+      "para_break": true
+    },
+    {
+      "start": 187.328,
+      "end": 190.08,
+      "text": "Cairo twisted his head around to stare defiantly at Spade.",
+      "para_break": true
+    },
+    {
+      "start": 190.848,
+      "end": 193.48,
+      "text": "He called me up on the phone and asked me to come here.",
+      "para_break": true
+    },
+    {
+      "start": 194.784,
+      "end": 197.74,
+      "text": "Spade blinked sleepily at the Levantine and said nothing.",
+      "para_break": true
+    },
+    {
+      "start": 198.88,
+      "end": 199.3,
+      "text": "Dundee asked.",
+      "para_break": true
+    },
+    {
+      "start": 200.42,
+      "end": 201.3,
+      "text": "What did he want you for?",
+      "para_break": true
+    },
+    {
+      "start": 202.528,
+      "end": 203.62,
+      "text": "Cairo withheld his reply",
+      "para_break": true
+    },
+    {
+      "start": 203.84,
+      "end": 206.04,
+      "text": "until he had mopped his bloody forehead and chin"
+    },
+    {
+      "start": 206.22,
+      "end": 208.12,
+      "text": "with a lavender-barred silk handkerchief."
+    },
+    {
+      "start": 208.68,
+      "end": 211.14,
+      "text": "By then some of the indignation in his"
+    },
+    {
+      "start": 211.14,
+      "end": 212.82,
+      "text": "manner had been replaced by caution."
+    },
+    {
+      "start": 213.96,
+      "end": 215.72,
+      "text": "He said he wanted,",
+      "para_break": true
+    },
+    {
+      "start": 215.88,
+      "end": 216.72,
+      "text": "they wanted,"
+    },
+    {
+      "start": 216.86,
+      "end": 217.44,
+      "text": "to see me."
+    },
+    {
+      "start": 217.86,
+      "end": 219.14,
+      "text": "I didn't know what about."
+    },
+    {
+      "start": 220.86,
+      "end": 221.9,
+      "text": "Tom lowered his head,",
+      "para_break": true
+    },
+    {
+      "start": 222.06,
+      "end": 223.56,
+      "text": "sniffed the odor of the sheepra"
+    },
+    {
+      "start": 223.56,
+      "end": 225.96,
+      "text": "that the mopping handkerchief had released into the air,"
+    },
+    {
+      "start": 226.28,
+      "end": 229.32,
+      "text": "and then turned his head to scowl interrogatively at Spade."
+    },
+    {
+      "start": 230.368,
+      "end": 232.96,
+      "text": "Spade winked an eye at him and went on rolling a cigarette.",
+      "para_break": true
+    },
+    {
+      "start": 234.272,
+      "end": 234.76,
+      "text": "Dundee asked,",
+      "para_break": true
+    },
+    {
+      "start": 234.98,
+      "end": 235.66,
+      "text": "Well,"
+    },
+    {
+      "start": 235.9,
+      "end": 236.72,
+      "text": "what happened then?"
+    },
+    {
+      "start": 237.856,
+      "end": 238.9,
+      "text": "Then they attacked me.",
+      "para_break": true
+    },
+    {
+      "start": 239.488,
+      "end": 240.74,
+      "text": "She struck me first,"
+    },
+    {
+      "start": 240.94,
+      "end": 244.3,
+      "text": "and then he choked me and took the pistol out of my pocket."
+    },
+    {
+      "start": 244.82,
+      "end": 246.5,
+      "text": "I don't know what they would have done"
+    },
+    {
+      "start": 246.5,
+      "end": 248.5,
+      "text": "next if you hadn't arrived at that moment."
+    }
+  ]
+}

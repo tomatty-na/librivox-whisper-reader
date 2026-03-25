@@ -1,0 +1,772 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-20",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_20_hammett.mp3",
+  "chapter_title": "Chapter 20 - If They Hang You",
+  "reader_name": "Mark Nelson",
+  "page_num": 4,
+  "page_total": 7,
+  "page_start_sec": 739.9,
+  "page_end_sec": 982.5,
+  "para_gap_threshold": 0.648,
+  "segments": [
+    {
+      "start": 739.9,
+      "end": 741.74,
+      "text": "Her face was wild-eyed,"
+    },
+    {
+      "start": 741.96,
+      "end": 742.46,
+      "text": "haggard."
+    },
+    {
+      "start": 743.04,
+      "end": 744.58,
+      "text": "Her dry mouth opened and closed."
+    },
+    {
+      "start": 744.92,
+      "end": 746.02,
+      "text": "She said in a"
+    },
+    {
+      "start": 746.18,
+      "end": 746.26,
+      "text": "small,"
+    },
+    {
+      "start": 746.48,
+      "end": 747.14,
+      "text": "parched voice."
+    },
+    {
+      "start": 748.544,
+      "end": 749.06,
+      "text": "\"'You're not—'",
+      "para_break": true
+    },
+    {
+      "start": 750.02,
+      "end": 751.54,
+      "text": "She could not get more words out.",
+      "para_break": true
+    },
+    {
+      "start": 752.608,
+      "end": 754.46,
+      "text": "Spade's face was yellow-white now.",
+      "para_break": true
+    },
+    {
+      "start": 754.82,
+      "end": 755.94,
+      "text": "His mouth smiled,"
+    },
+    {
+      "start": 756.12,
+      "end": 757.62,
+      "text": "and there were smile wrinkles around"
+    },
+    {
+      "start": 757.74,
+      "end": 758.58,
+      "text": "his glittering eyes."
+    },
+    {
+      "start": 758.96,
+      "end": 760.42,
+      "text": "His voice was soft,"
+    },
+    {
+      "start": 760.66,
+      "end": 761.08,
+      "text": "gentle."
+    },
+    {
+      "start": 761.3,
+      "end": 762.0,
+      "text": "He said,"
+    },
+    {
+      "start": 763.424,
+      "end": 764.48,
+      "text": "\"'I'm going to send you over.",
+      "para_break": true
+    },
+    {
+      "start": 765.38,
+      "end": 767.38,
+      "text": "The chances are you'll get off with life.",
+      "para_break": true
+    },
+    {
+      "start": 768.2,
+      "end": 769.04,
+      "text": "That means you'll",
+      "para_break": true
+    },
+    {
+      "start": 769.04,
+      "end": 770.42,
+      "text": "be out again in twenty years."
+    },
+    {
+      "start": 771.552,
+      "end": 772.18,
+      "text": "You're an angel.",
+      "para_break": true
+    },
+    {
+      "start": 772.38,
+      "end": 773.96,
+      "text": "I'll be waiting for you.'"
+    },
+    {
+      "start": 774.76,
+      "end": 775.82,
+      "text": "He cleared his throat.",
+      "para_break": true
+    },
+    {
+      "start": 776.9,
+      "end": 777.82,
+      "text": "\"'If they hang you,",
+      "para_break": true
+    },
+    {
+      "start": 777.94,
+      "end": 779.456,
+      "text": "I'll always remember you.'"
+    },
+    {
+      "start": 781.1,
+      "end": 782.64,
+      "text": "She dropped her hands and stood erect.",
+      "para_break": true
+    },
+    {
+      "start": 783.24,
+      "end": 785.36,
+      "text": "Her face became smooth and untroubled,"
+    },
+    {
+      "start": 785.5,
+      "end": 786.98,
+      "text": "except for the faintest of"
+    },
+    {
+      "start": 787.12,
+      "end": 788.38,
+      "text": "dubious glints in her eyes."
+    },
+    {
+      "start": 789.62,
+      "end": 791.02,
+      "text": "She smiled back at him gently.",
+      "para_break": true
+    },
+    {
+      "start": 792.1,
+      "end": 792.7,
+      "text": "\"'Don't,",
+      "para_break": true
+    },
+    {
+      "start": 792.7,
+      "end": 792.94,
+      "text": "Sam,"
+    },
+    {
+      "start": 793.08,
+      "end": 794.16,
+      "text": "don't say that,"
+    },
+    {
+      "start": 794.2,
+      "end": 794.94,
+      "text": "even in fun."
+    },
+    {
+      "start": 795.62,
+      "end": 795.8,
+      "text": "Oh,",
+      "para_break": true
+    },
+    {
+      "start": 795.94,
+      "end": 797.22,
+      "text": "you frighten me for a moment."
+    },
+    {
+      "start": 797.98,
+      "end": 798.78,
+      "text": "I really thought",
+      "para_break": true
+    },
+    {
+      "start": 799.78,
+      "end": 800.12,
+      "text": "you—you know,",
+      "para_break": true
+    },
+    {
+      "start": 800.24,
+      "end": 801.96,
+      "text": "you do such wild and unpredictable"
+    },
+    {
+      "start": 802.28,
+      "end": 802.96,
+      "text": "things that—'"
+    },
+    {
+      "start": 803.98,
+      "end": 804.7,
+      "text": "She broke off,",
+      "para_break": true
+    },
+    {
+      "start": 804.82,
+      "end": 807.62,
+      "text": "thrust her face forward and stared deep into his eyes."
+    },
+    {
+      "start": 808.352,
+      "end": 811.12,
+      "text": "Her cheeks and the flesh around her mouth shivered,",
+      "para_break": true
+    },
+    {
+      "start": 811.12,
+      "end": 812.96,
+      "text": "and fear came back in her eyes."
+    },
+    {
+      "start": 813.82,
+      "end": 814.36,
+      "text": "What?",
+      "para_break": true
+    },
+    {
+      "start": 814.64,
+      "end": 815.6,
+      "text": "Sam!"
+    },
+    {
+      "start": 817.06,
+      "end": 819.94,
+      "text": "She put her hands to her throat again and lost her erectness.",
+      "para_break": true
+    },
+    {
+      "start": 820.96,
+      "end": 821.64,
+      "text": "Spade laughed.",
+      "para_break": true
+    },
+    {
+      "start": 822.52,
+      "end": 824.6,
+      "text": "His yellow-white face was damp with sweat,",
+      "para_break": true
+    },
+    {
+      "start": 824.78,
+      "end": 826.4,
+      "text": "and though he held his smile,"
+    },
+    {
+      "start": 826.72,
+      "end": 828.68,
+      "text": "he could not keep softness in his voice."
+    },
+    {
+      "start": 829.48,
+      "end": 829.9,
+      "text": "He croaked,",
+      "para_break": true
+    },
+    {
+      "start": 830.98,
+      "end": 831.56,
+      "text": "Don't be silly.",
+      "para_break": true
+    },
+    {
+      "start": 831.82,
+      "end": 833.2,
+      "text": "You're taking the fall."
+    },
+    {
+      "start": 834.0,
+      "end": 835.16,
+      "text": "One of us has got to take it,",
+      "para_break": true
+    },
+    {
+      "start": 835.54,
+      "end": 837.44,
+      "text": "after the talking Gutman and Cairo will do."
+    },
+    {
+      "start": 837.83,
+      "end": 838.88,
+      "text": "They'd hang me,"
+    },
+    {
+      "start": 838.94,
+      "end": 839.2,
+      "text": "sure."
+    },
+    {
+      "start": 839.48,
+      "end": 839.98,
+      "text": "You're"
+    },
+    {
+      "start": 840.26,
+      "end": 841.46,
+      "text": "likely to get a better break."
+    },
+    {
+      "start": 841.78,
+      "end": 842.34,
+      "text": "Well?"
+    },
+    {
+      "start": 842.89,
+      "end": 843.74,
+      "text": "But,"
+    },
+    {
+      "start": 843.86,
+      "end": 844.5,
+      "text": "but,"
+    },
+    {
+      "start": 844.52,
+      "end": 844.86,
+      "text": "Sam,"
+    },
+    {
+      "start": 845.06,
+      "end": 846.04,
+      "text": "you can't."
+    },
+    {
+      "start": 846.06,
+      "end": 848.12,
+      "text": "After what we've been to each other,"
+    },
+    {
+      "start": 848.2,
+      "end": 848.64,
+      "text": "you"
+    },
+    {
+      "start": 848.74,
+      "end": 849.14,
+      "text": "can't."
+    },
+    {
+      "start": 849.16,
+      "end": 850.38,
+      "text": "Like hell I can't."
+    },
+    {
+      "start": 851.44,
+      "end": 852.22,
+      "text": "She took a long,",
+      "para_break": true
+    },
+    {
+      "start": 852.26,
+      "end": 852.96,
+      "text": "trembling breath."
+    },
+    {
+      "start": 854.336,
+      "end": 855.36,
+      "text": "You've been playing with me?",
+      "para_break": true
+    },
+    {
+      "start": 856.128,
+      "end": 857.34,
+      "text": "Only pretending you cared?",
+      "para_break": true
+    },
+    {
+      "start": 857.56,
+      "end": 858.82,
+      "text": "You didn't,"
+    },
+    {
+      "start": 858.82,
+      "end": 858.94,
+      "text": "at"
+    },
+    {
+      "start": 859.1,
+      "end": 859.12,
+      "text": "all?"
+    },
+    {
+      "start": 860.0,
+      "end": 860.1,
+      "text": "You",
+      "para_break": true
+    },
+    {
+      "start": 860.98,
+      "end": 862.55,
+      "text": "didn't—you don't—love me?\"",
+      "para_break": true
+    },
+    {
+      "start": 863.96,
+      "end": 865.74,
+      "text": "\"'I think I do,' Spade said.",
+      "para_break": true
+    },
+    {
+      "start": 865.94,
+      "end": 867.08,
+      "text": "\"'What of it?'"
+    },
+    {
+      "start": 868.0,
+      "end": 870.8,
+      "text": "The muscles holding his smile in place stood out like whales.",
+      "para_break": true
+    },
+    {
+      "start": 872.096,
+      "end": 872.8,
+      "text": "\"'I'm not Thursby.",
+      "para_break": true
+    },
+    {
+      "start": 872.98,
+      "end": 874.0,
+      "text": "I'm not Jacoby."
+    },
+    {
+      "start": 874.76,
+      "end": 876.38,
+      "text": "I won't play the sap for you.'",
+      "para_break": true
+    },
+    {
+      "start": 877.504,
+      "end": 879.48,
+      "text": "\"'That is not just,' she cried.",
+      "para_break": true
+    },
+    {
+      "start": 879.7,
+      "end": 881.38,
+      "text": "Tears glistened in her eyes."
+    },
+    {
+      "start": 881.856,
+      "end": 882.86,
+      "text": "\"'It's unfair."
+    },
+    {
+      "start": 883.24,
+      "end": 884.92,
+      "text": "It's contemptible of you."
+    },
+    {
+      "start": 885.64,
+      "end": 886.86,
+      "text": "You know it was not that.",
+      "para_break": true
+    },
+    {
+      "start": 887.46,
+      "end": 888.46,
+      "text": "You can't say that."
+    },
+    {
+      "start": 889.66,
+      "end": 891.66,
+      "text": "\"'Like hell I can't,' Spade said.",
+      "para_break": true
+    },
+    {
+      "start": 892.7,
+      "end": 895.48,
+      "text": "\"'You came into my bed to stop me from asking questions.",
+      "para_break": true
+    },
+    {
+      "start": 896.26,
+      "end": 897.94,
+      "text": "You led me out for Gutman and Cairo",
+      "para_break": true
+    },
+    {
+      "start": 898.06,
+      "end": 899.86,
+      "text": "yesterday with that phony call for help."
+    },
+    {
+      "start": 900.84,
+      "end": 903.16,
+      "text": "Last night you came here with them and waited for",
+      "para_break": true
+    },
+    {
+      "start": 903.16,
+      "end": 904.9,
+      "text": "me outside and came in with me."
+    },
+    {
+      "start": 905.82,
+      "end": 907.8,
+      "text": "You were in my arms when the trap was sprung,",
+      "para_break": true
+    },
+    {
+      "start": 907.86,
+      "end": 908.88,
+      "text": "so that I couldn't"
+    },
+    {
+      "start": 908.88,
+      "end": 910.62,
+      "text": "have gone for a gun if I'd had one on me,"
+    },
+    {
+      "start": 910.76,
+      "end": 913.14,
+      "text": "and couldn't have made a fight of it until too late"
+    },
+    {
+      "start": 913.14,
+      "end": 913.98,
+      "text": "if I had wanted to."
+    },
+    {
+      "start": 914.92,
+      "end": 916.54,
+      "text": "And if they didn't take you away with them,",
+      "para_break": true
+    },
+    {
+      "start": 916.66,
+      "end": 918.14,
+      "text": "it was only because Gutman's got"
+    },
+    {
+      "start": 918.28,
+      "end": 919.56,
+      "text": "too much sense to trust you,"
+    },
+    {
+      "start": 919.7,
+      "end": 921.82,
+      "text": "except for short periods when he has to,"
+    },
+    {
+      "start": 922.02,
+      "end": 923.08,
+      "text": "and because he thought"
+    },
+    {
+      "start": 923.18,
+      "end": 924.4,
+      "text": "I'd play the sap for you,"
+    },
+    {
+      "start": 924.54,
+      "end": 926.68,
+      "text": "and not wanting to do anything to hurt you,"
+    },
+    {
+      "start": 926.84,
+      "end": 928.06,
+      "text": "I couldn't do anything to"
+    },
+    {
+      "start": 928.06,
+      "end": 928.8,
+      "text": "hurt him.\""
+    },
+    {
+      "start": 930.336,
+      "end": 932.04,
+      "text": "Bridget O'Shaughnessy blinked her tears away.",
+      "para_break": true
+    },
+    {
+      "start": 932.94,
+      "end": 934.68,
+      "text": "She took a step toward him and stood there",
+      "para_break": true
+    },
+    {
+      "start": 934.76,
+      "end": 935.76,
+      "text": "looking him in the eyes,"
+    },
+    {
+      "start": 935.94,
+      "end": 936.94,
+      "text": "strayed and proud."
+    },
+    {
+      "start": 938.52,
+      "end": 940.24,
+      "text": "\"'You've called me a liar,' she said.",
+      "para_break": true
+    },
+    {
+      "start": 940.68,
+      "end": 941.44,
+      "text": "\"'Now you're lying."
+    },
+    {
+      "start": 942.14,
+      "end": 943.32,
+      "text": "You're lying if you say that,",
+      "para_break": true
+    },
+    {
+      "start": 943.46,
+      "end": 944.88,
+      "text": "in spite of anything I've done."
+    },
+    {
+      "start": 945.74,
+      "end": 948.544,
+      "text": "down in your heart you don't know I love you.\"",
+      "para_break": true
+    },
+    {
+      "start": 949.856,
+      "end": 950.82,
+      "text": "Spade made a short,",
+      "para_break": true
+    },
+    {
+      "start": 950.92,
+      "end": 951.62,
+      "text": "abrupt bow."
+    },
+    {
+      "start": 952.08,
+      "end": 953.96,
+      "text": "His eyes were becoming bloodshot,"
+    },
+    {
+      "start": 954.06,
+      "end": 955.12,
+      "text": "but there was no other"
+    },
+    {
+      "start": 955.18,
+      "end": 956.78,
+      "text": "change in his damp and yellowish,"
+    },
+    {
+      "start": 956.84,
+      "end": 958.12,
+      "text": "fixedly smiling face."
+    },
+    {
+      "start": 959.84,
+      "end": 961.3,
+      "text": "\"'Maybe I do,' he said.",
+      "para_break": true
+    },
+    {
+      "start": 961.54,
+      "end": 962.4,
+      "text": "\"'What of it?"
+    },
+    {
+      "start": 963.12,
+      "end": 963.9,
+      "text": "I should trust you?",
+      "para_break": true
+    },
+    {
+      "start": 964.14,
+      "end": 964.84,
+      "text": "You,"
+    },
+    {
+      "start": 964.98,
+      "end": 966.22,
+      "text": "who arranged that nice little"
+    },
+    {
+      "start": 966.3,
+      "end": 966.5,
+      "text": "trick"
+    },
+    {
+      "start": 967.28,
+      "end": 968.0,
+      "text": "for—for my predecessor,",
+      "para_break": true
+    },
+    {
+      "start": 968.22,
+      "end": 968.62,
+      "text": "Thursby?"
+    },
+    {
+      "start": 968.84,
+      "end": 968.94,
+      "text": "You,"
+    },
+    {
+      "start": 970.02,
+      "end": 971.2,
+      "text": "who knocked off Miles,",
+      "para_break": true
+    },
+    {
+      "start": 971.82,
+      "end": 972.72,
+      "text": "a man you had nothing"
+    },
+    {
+      "start": 972.92,
+      "end": 973.12,
+      "text": "against,"
+    },
+    {
+      "start": 973.42,
+      "end": 975.66,
+      "text": "in cold blood just like swatting a"
+    },
+    {
+      "start": 975.66,
+      "end": 977.56,
+      "text": "fly for the sake of ruining Thursby?"
+    },
+    {
+      "start": 977.8,
+      "end": 978.5,
+      "text": "You,"
+    },
+    {
+      "start": 978.96,
+      "end": 980.8,
+      "text": "who've never played square with me for half"
+    },
+    {
+      "start": 980.8,
+      "end": 982.5,
+      "text": "an hour at a stretch since I've known you?"
+    }
+  ]
+}

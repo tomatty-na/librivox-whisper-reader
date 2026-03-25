@@ -1,0 +1,191 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-14",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_14_hammett.mp3",
+  "chapter_title": "Chapter 14 - La Paloma",
+  "reader_name": "Mark Nelson",
+  "page_num": 5,
+  "page_total": 5,
+  "page_start_sec": 983.23,
+  "page_end_sec": 1047.62,
+  "para_gap_threshold": 0.707,
+  "segments": [
+    {
+      "start": 983.23,
+      "end": 983.78,
+      "text": "Oh,",
+      "para_break": true
+    },
+    {
+      "start": 983.9,
+      "end": 984.62,
+      "text": "he wouldn't,"
+    },
+    {
+      "start": 984.62,
+      "end": 985.34,
+      "text": "not Ted."
+    },
+    {
+      "start": 985.6,
+      "end": 987.54,
+      "text": "He's too good at his stuff for that."
+    },
+    {
+      "start": 989.0,
+      "end": 989.38,
+      "text": "Uh-huh,",
+      "para_break": true
+    },
+    {
+      "start": 989.46,
+      "end": 991.744,
+      "text": "the whole damn Perrine family's wonderful,\""
+    },
+    {
+      "start": 992.288,
+      "end": 992.76,
+      "text": "Spade said,"
+    },
+    {
+      "start": 992.94,
+      "end": 995.0,
+      "text": "including you and the smudge of"
+    },
+    {
+      "start": 995.08,
+      "end": 995.92,
+      "text": "soot on your nose."
+    },
+    {
+      "start": 997.472,
+      "end": 998.28,
+      "text": "He's not a Perrine.",
+      "para_break": true
+    },
+    {
+      "start": 998.44,
+      "end": 999.16,
+      "text": "He's a Christie."
+    },
+    {
+      "start": 1000.42,
+      "end": 1003.16,
+      "text": "She bent her head to look at her nose in her vanity case mirror.",
+      "para_break": true
+    },
+    {
+      "start": 1003.98,
+      "end": 1005.88,
+      "text": "I must have got that from the fire.",
+      "para_break": true
+    },
+    {
+      "start": 1006.98,
+      "end": 1009.15,
+      "text": "She scrubbed the smudge with the corner of a handkerchief.",
+      "para_break": true
+    },
+    {
+      "start": 1010.6,
+      "end": 1013.14,
+      "text": "The Perrine-Christie enthusiasm ignite Berkeley?",
+      "para_break": true
+    },
+    {
+      "start": 1013.8,
+      "end": 1014.22,
+      "text": "he asked."
+    },
+    {
+      "start": 1015.24,
+      "end": 1017.12,
+      "text": "She made a face at him while patting",
+      "para_break": true
+    },
+    {
+      "start": 1017.12,
+      "end": 1018.74,
+      "text": "her nose with a powdered pink disc."
+    },
+    {
+      "start": 1020.12,
+      "end": 1021.96,
+      "text": "There was a boat on fire when I came back.",
+      "para_break": true
+    },
+    {
+      "start": 1022.33,
+      "end": 1024.08,
+      "text": "They were towing it out from the pier,"
+    },
+    {
+      "start": 1024.62,
+      "end": 1026.48,
+      "text": "and the smoke blew all over our ferry-boat."
+    },
+    {
+      "start": 1027.904,
+      "end": 1029.8,
+      "text": "Spade put his hands on the arms of his chair.",
+      "para_break": true
+    },
+    {
+      "start": 1031.16,
+      "end": 1033.2,
+      "text": "Were you near enough to see the name of the boat?",
+      "para_break": true
+    },
+    {
+      "start": 1033.34,
+      "end": 1034.0,
+      "text": "He asked."
+    },
+    {
+      "start": 1034.62,
+      "end": 1035.1,
+      "text": "Yes."
+    },
+    {
+      "start": 1035.24,
+      "end": 1036.08,
+      "text": "La Paloma."
+    },
+    {
+      "start": 1036.24,
+      "end": 1036.58,
+      "text": "Why?"
+    },
+    {
+      "start": 1038.144,
+      "end": 1039.5,
+      "text": "Spade smiled ruefully.",
+      "para_break": true
+    },
+    {
+      "start": 1040.832,
+      "end": 1042.14,
+      "text": "I'm damned if I know why,",
+      "para_break": true
+    },
+    {
+      "start": 1042.3,
+      "end": 1042.58,
+      "text": "sister,"
+    },
+    {
+      "start": 1043.36,
+      "end": 1043.78,
+      "text": "he said.",
+      "para_break": true
+    },
+    {
+      "start": 1046.6,
+      "end": 1047.62,
+      "text": "End of chapter 14",
+      "para_break": true
+    }
+  ]
+}

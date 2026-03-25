@@ -1,0 +1,680 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-19",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_19_hammett.mp3",
+  "chapter_title": "Chapter 19 - The Russian's Hand",
+  "reader_name": "Mark Nelson",
+  "page_num": 5,
+  "page_total": 10,
+  "page_start_sec": 984.544,
+  "page_end_sec": 1226.03,
+  "para_gap_threshold": 0.671,
+  "segments": [
+    {
+      "start": 984.544,
+      "end": 986.72,
+      "text": "Cairo leaned over and muttered in the boy's ear.",
+      "para_break": true
+    },
+    {
+      "start": 987.46,
+      "end": 987.86,
+      "text": "The boy,",
+      "para_break": true
+    },
+    {
+      "start": 988.0,
+      "end": 988.52,
+      "text": "keeping his"
+    },
+    {
+      "start": 988.6,
+      "end": 990.4,
+      "text": "cold hazel eyes on Gutman's face,"
+    },
+    {
+      "start": 990.6,
+      "end": 992.58,
+      "text": "sat down on the sofa again."
+    },
+    {
+      "start": 993.54,
+      "end": 994.74,
+      "text": "The Levantine sat beside",
+      "para_break": true
+    },
+    {
+      "start": 994.96,
+      "end": 995.08,
+      "text": "him."
+    },
+    {
+      "start": 996.384,
+      "end": 999.1,
+      "text": "Gutman's sigh did not affect the benignity of his smile.",
+      "para_break": true
+    },
+    {
+      "start": 999.96,
+      "end": 1000.72,
+      "text": "He said to Spade,",
+      "para_break": true
+    },
+    {
+      "start": 1001.64,
+      "end": 1004.704,
+      "text": "\"'When you're young you simply don't understand things.'",
+      "para_break": true
+    },
+    {
+      "start": 1005.984,
+      "end": 1007.52,
+      "text": "Cairo had an arm around the boy's",
+      "para_break": true
+    },
+    {
+      "start": 1007.52,
+      "end": 1009.58,
+      "text": "shoulder again and was whispering to him."
+    },
+    {
+      "start": 1010.624,
+      "end": 1011.28,
+      "text": "Spade grinned",
+      "para_break": true
+    },
+    {
+      "start": 1011.28,
+      "end": 1013.6,
+      "text": "at Gutman and addressed Brigid O'Shaughnessy."
+    },
+    {
+      "start": 1014.39,
+      "end": 1016.6,
+      "text": "I think it'd be swell if you'd see",
+      "para_break": true
+    },
+    {
+      "start": 1016.6,
+      "end": 1017.92,
+      "text": "where you can find us to eat in the"
+    },
+    {
+      "start": 1017.92,
+      "end": 1018.16,
+      "text": "kitchen,"
+    },
+    {
+      "start": 1018.34,
+      "end": 1019.44,
+      "text": "with plenty of coffee."
+    },
+    {
+      "start": 1020.08,
+      "end": 1020.34,
+      "text": "Will you?"
+    },
+    {
+      "start": 1020.74,
+      "end": 1022.24,
+      "text": "I don't like to leave my"
+    },
+    {
+      "start": 1022.34,
+      "end": 1023.008,
+      "text": "guests.\""
+    },
+    {
+      "start": 1023.78,
+      "end": 1025.1,
+      "text": "\"'Surely,' she said,",
+      "para_break": true
+    },
+    {
+      "start": 1025.24,
+      "end": 1026.5,
+      "text": "and started toward the door."
+    },
+    {
+      "start": 1027.84,
+      "end": 1028.86,
+      "text": "Gutman stopped rocking.",
+      "para_break": true
+    },
+    {
+      "start": 1029.81,
+      "end": 1030.8,
+      "text": "\"'Just a moment,",
+      "para_break": true
+    },
+    {
+      "start": 1030.88,
+      "end": 1031.6,
+      "text": "my dear.'"
+    },
+    {
+      "start": 1032.26,
+      "end": 1033.44,
+      "text": "He held up a thick hand."
+    },
+    {
+      "start": 1034.56,
+      "end": 1036.32,
+      "text": "\"'Hadn't you better leave the envelope in here?",
+      "para_break": true
+    },
+    {
+      "start": 1036.71,
+      "end": 1037.7,
+      "text": "You don't want to get"
+    },
+    {
+      "start": 1037.78,
+      "end": 1038.88,
+      "text": "grease-spots on it.'"
+    },
+    {
+      "start": 1039.12,
+      "end": 1041.58,
+      "text": "The girl's eyes questioned Spade,"
+    },
+    {
+      "start": 1041.76,
+      "end": 1042.38,
+      "text": "who said,"
+    },
+    {
+      "start": 1042.6,
+      "end": 1043.58,
+      "text": "in an indifferent tone,"
+    },
+    {
+      "start": 1044.22,
+      "end": 1045.26,
+      "text": "It's still his."
+    },
+    {
+      "start": 1046.56,
+      "end": 1047.98,
+      "text": "She put a hand inside her coat,",
+      "para_break": true
+    },
+    {
+      "start": 1048.12,
+      "end": 1049.04,
+      "text": "took out the envelope,"
+    },
+    {
+      "start": 1049.16,
+      "end": 1050.14,
+      "text": "and gave it to Spade."
+    },
+    {
+      "start": 1051.136,
+      "end": 1052.88,
+      "text": "Spade tossed it into Gutman's lap,",
+      "para_break": true
+    },
+    {
+      "start": 1052.98,
+      "end": 1053.2,
+      "text": "saying,"
+    },
+    {
+      "start": 1054.048,
+      "end": 1055.82,
+      "text": "Sit on it if you're afraid of losing it.",
+      "para_break": true
+    },
+    {
+      "start": 1056.58,
+      "end": 1058.18,
+      "text": "You misunderstand me,",
+      "para_break": true
+    },
+    {
+      "start": 1058.36,
+      "end": 1060.36,
+      "text": "Gutman replied suavely."
+    },
+    {
+      "start": 1060.992,
+      "end": 1062.18,
+      "text": "It's not that at all."
+    },
+    {
+      "start": 1062.7,
+      "end": 1065.66,
+      "text": "But business should be transacted in a businesslike manner."
+    },
+    {
+      "start": 1066.92,
+      "end": 1068.34,
+      "text": "He opened the flap of the envelope,",
+      "para_break": true
+    },
+    {
+      "start": 1068.52,
+      "end": 1070.06,
+      "text": "took out the thousand-dollar bills,"
+    },
+    {
+      "start": 1070.496,
+      "end": 1070.92,
+      "text": "counted them,"
+    },
+    {
+      "start": 1071.04,
+      "end": 1073.2,
+      "text": "and chuckled so that his belly bounced."
+    },
+    {
+      "start": 1074.04,
+      "end": 1074.52,
+      "text": "For instance,",
+      "para_break": true
+    },
+    {
+      "start": 1074.74,
+      "end": 1076.88,
+      "text": "there are only nine bills here now."
+    },
+    {
+      "start": 1077.6,
+      "end": 1080.28,
+      "text": "He spread them out on his fat knees and thighs.",
+      "para_break": true
+    },
+    {
+      "start": 1081.4,
+      "end": 1083.26,
+      "text": "There were ten when I handed it to you,",
+      "para_break": true
+    },
+    {
+      "start": 1083.36,
+      "end": 1084.18,
+      "text": "as you well know."
+    },
+    {
+      "start": 1085.02,
+      "end": 1087.9,
+      "text": "His smile was broad and jovial and triumphant.",
+      "para_break": true
+    },
+    {
+      "start": 1088.86,
+      "end": 1089.48,
+      "text": "Spade,",
+      "para_break": true
+    },
+    {
+      "start": 1089.6,
+      "end": 1091.04,
+      "text": "looking at Bridget O'Shaughnessy,"
+    },
+    {
+      "start": 1091.08,
+      "end": 1091.36,
+      "text": "asked,"
+    },
+    {
+      "start": 1092.08,
+      "end": 1092.36,
+      "text": "Well?",
+      "para_break": true
+    },
+    {
+      "start": 1093.66,
+      "end": 1095.48,
+      "text": "She shook her head sidewise with emphasis.",
+      "para_break": true
+    },
+    {
+      "start": 1096.56,
+      "end": 1097.78,
+      "text": "She did not say anything,",
+      "para_break": true
+    },
+    {
+      "start": 1098.02,
+      "end": 1099.5,
+      "text": "though her lips moved slightly,"
+    },
+    {
+      "start": 1099.78,
+      "end": 1101.32,
+      "text": "as if she had tried to."
+    },
+    {
+      "start": 1101.88,
+      "end": 1103.14,
+      "text": "Her face was frightened."
+    },
+    {
+      "start": 1104.448,
+      "end": 1106.02,
+      "text": "Spade held his hand out to Gutman,",
+      "para_break": true
+    },
+    {
+      "start": 1106.58,
+      "end": 1108.28,
+      "text": "and the fat man put the money into it."
+    },
+    {
+      "start": 1109.12,
+      "end": 1110.18,
+      "text": "Spade counted the money,",
+      "para_break": true
+    },
+    {
+      "start": 1110.4,
+      "end": 1111.76,
+      "text": "nine thousand dollar bills,"
+    },
+    {
+      "start": 1112.0,
+      "end": 1113.26,
+      "text": "and returned it to Gutman."
+    },
+    {
+      "start": 1114.36,
+      "end": 1117.34,
+      "text": "Then Spade stood up and his face was dull and placid.",
+      "para_break": true
+    },
+    {
+      "start": 1118.24,
+      "end": 1120.12,
+      "text": "He picked up the three pistols on the table.",
+      "para_break": true
+    },
+    {
+      "start": 1120.64,
+      "end": 1122.66,
+      "text": "He spoke in a matter-of-fact voice."
+    },
+    {
+      "start": 1123.95,
+      "end": 1125.62,
+      "text": "I want to know about this.",
+      "para_break": true
+    },
+    {
+      "start": 1126.34,
+      "end": 1126.62,
+      "text": "We,",
+      "para_break": true
+    },
+    {
+      "start": 1126.88,
+      "end": 1129.04,
+      "text": "he nodded slightly to indicate the girl,"
+    },
+    {
+      "start": 1129.54,
+      "end": 1130.54,
+      "text": "are going in the bathroom."
+    },
+    {
+      "start": 1131.3,
+      "end": 1133.54,
+      "text": "The door will be open and I'll be facing it.",
+      "para_break": true
+    },
+    {
+      "start": 1134.36,
+      "end": 1136.56,
+      "text": "Unless you want a three-story drop from the windows,",
+      "para_break": true
+    },
+    {
+      "start": 1136.78,
+      "end": 1138.28,
+      "text": "there's no way out of the room except"
+    },
+    {
+      "start": 1138.38,
+      "end": 1139.44,
+      "text": "past the bathroom door."
+    },
+    {
+      "start": 1140.448,
+      "end": 1141.536,
+      "text": "Don't try to make it.\"",
+      "para_break": true
+    },
+    {
+      "start": 1142.5,
+      "end": 1143.0,
+      "text": "\"'Really,",
+      "para_break": true
+    },
+    {
+      "start": 1143.0,
+      "end": 1145.12,
+      "text": "sir,' Gutman protested."
+    },
+    {
+      "start": 1145.14,
+      "end": 1146.68,
+      "text": "\"'It's not necessary,"
+    },
+    {
+      "start": 1147.1,
+      "end": 1149.26,
+      "text": "and certainly not very polite of"
+    },
+    {
+      "start": 1149.26,
+      "end": 1150.7,
+      "text": "you to threaten us in this manner."
+    },
+    {
+      "start": 1150.94,
+      "end": 1154.39,
+      "text": "You must know that we've not the least desire to leave.'"
+    },
+    {
+      "start": 1155.712,
+      "end": 1156.88,
+      "text": "\"'I'll know when I'm through.'",
+      "para_break": true
+    },
+    {
+      "start": 1157.856,
+      "end": 1159.48,
+      "text": "Spade was patient but resolute.",
+      "para_break": true
+    },
+    {
+      "start": 1160.04,
+      "end": 1161.84,
+      "text": "This trick upsets things."
+    },
+    {
+      "start": 1162.68,
+      "end": 1163.76,
+      "text": "I've got to find the answer.",
+      "para_break": true
+    },
+    {
+      "start": 1164.44,
+      "end": 1165.47,
+      "text": "It won't take long.\"",
+      "para_break": true
+    },
+    {
+      "start": 1166.0,
+      "end": 1167.44,
+      "text": "He touched the girl's elbow."
+    },
+    {
+      "start": 1168.256,
+      "end": 1168.832,
+      "text": "\"'Come on.'\"",
+      "para_break": true
+    },
+    {
+      "start": 1169.98,
+      "end": 1170.62,
+      "text": "In the bathroom,",
+      "para_break": true
+    },
+    {
+      "start": 1170.78,
+      "end": 1172.38,
+      "text": "Bridget O'Shaughnessy found words."
+    },
+    {
+      "start": 1173.24,
+      "end": 1174.14,
+      "text": "She put her hands up",
+      "para_break": true
+    },
+    {
+      "start": 1174.22,
+      "end": 1177.62,
+      "text": "flat on Spade's chest and her face up close to his and whispered,"
+    },
+    {
+      "start": 1178.26,
+      "end": 1179.52,
+      "text": "\"'I did not take that pill,"
+    },
+    {
+      "start": 1179.6,
+      "end": 1180.04,
+      "text": "Sam.'"
+    },
+    {
+      "start": 1181.18,
+      "end": 1183.12,
+      "text": "\"'I don't think you did,' Spade said.",
+      "para_break": true
+    },
+    {
+      "start": 1183.68,
+      "end": 1184.6,
+      "text": "\"'But I've got to know."
+    },
+    {
+      "start": 1185.36,
+      "end": 1186.432,
+      "text": "Take your clothes off.'",
+      "para_break": true
+    },
+    {
+      "start": 1187.46,
+      "end": 1188.8,
+      "text": "\"'You won't take my word for it?'",
+      "para_break": true
+    },
+    {
+      "start": 1189.3,
+      "end": 1189.4,
+      "text": "No."
+    },
+    {
+      "start": 1189.9,
+      "end": 1191.24,
+      "text": "Take your clothes off."
+    },
+    {
+      "start": 1192.64,
+      "end": 1193.3,
+      "text": "I won't.",
+      "para_break": true
+    },
+    {
+      "start": 1194.22,
+      "end": 1194.54,
+      "text": "All right.",
+      "para_break": true
+    },
+    {
+      "start": 1195.3,
+      "end": 1196.52,
+      "text": "We'll go back to the other room,",
+      "para_break": true
+    },
+    {
+      "start": 1196.56,
+      "end": 1198.0,
+      "text": "and I'll have them taken off."
+    },
+    {
+      "start": 1198.64,
+      "end": 1201.04,
+      "text": "She stepped back with her hands to her mouth."
+    },
+    {
+      "start": 1201.3,
+      "end": 1202.98,
+      "text": "Her eyes were round with horror."
+    },
+    {
+      "start": 1204.1,
+      "end": 1204.48,
+      "text": "You would?",
+      "para_break": true
+    },
+    {
+      "start": 1205.12,
+      "end": 1206.32,
+      "text": "she asked through her fingers."
+    },
+    {
+      "start": 1207.36,
+      "end": 1207.76,
+      "text": "I will,",
+      "para_break": true
+    },
+    {
+      "start": 1207.96,
+      "end": 1208.56,
+      "text": "he said."
+    },
+    {
+      "start": 1208.84,
+      "end": 1210.96,
+      "text": "I've got to know what happened to that bill,"
+    },
+    {
+      "start": 1211.14,
+      "end": 1214.54,
+      "text": "and I'm not going to be held up by anybody's maidenly modesty."
+    },
+    {
+      "start": 1215.38,
+      "end": 1216.1,
+      "text": "Oh,",
+      "para_break": true
+    },
+    {
+      "start": 1216.12,
+      "end": 1216.7,
+      "text": "it isn't that."
+    },
+    {
+      "start": 1217.49,
+      "end": 1220.64,
+      "text": "She came close to him and put her hands on his chest again.",
+      "para_break": true
+    },
+    {
+      "start": 1221.824,
+      "end": 1223.36,
+      "text": "\"'Can't you see that if you make me,",
+      "para_break": true
+    },
+    {
+      "start": 1223.705,
+      "end": 1226.03,
+      "text": "you'll—you'll be killing something?'"
+    }
+  ]
+}

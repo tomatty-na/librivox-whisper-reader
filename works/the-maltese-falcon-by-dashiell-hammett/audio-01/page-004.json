@@ -1,0 +1,604 @@
+{
+  "work_slug": "the-maltese-falcon-by-dashiell-hammett",
+  "work_title": "Maltese Falcon, Original Serialized Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-01",
+  "audio_url": "https://archive.org/download/maltesefalcon_2511_librivox/maltesefalcon_01_hammett.mp3",
+  "chapter_title": "Chapter 1 - Spade and Archer",
+  "reader_name": "Mark Nelson",
+  "page_num": 4,
+  "page_total": 4,
+  "page_start_sec": 751.104,
+  "page_end_sec": 956.26,
+  "para_gap_threshold": 0.74,
+  "segments": [
+    {
+      "start": 751.104,
+      "end": 752.08,
+      "text": "He's thirty-five,",
+      "para_break": true
+    },
+    {
+      "start": 752.08,
+      "end": 752.38,
+      "text": "perhaps,"
+    },
+    {
+      "start": 752.62,
+      "end": 753.68,
+      "text": "and as tall as you,"
+    },
+    {
+      "start": 753.8,
+      "end": 756.72,
+      "text": "and either naturally dark or quite sunburned."
+    },
+    {
+      "start": 757.98,
+      "end": 758.86,
+      "text": "His hair is dark,",
+      "para_break": true
+    },
+    {
+      "start": 758.94,
+      "end": 759.18,
+      "text": "too,"
+    },
+    {
+      "start": 759.42,
+      "end": 760.68,
+      "text": "and he has thick eyebrows."
+    },
+    {
+      "start": 761.14,
+      "end": 763.2,
+      "text": "He talks in a rather loud,"
+    },
+    {
+      "start": 763.3,
+      "end": 764.02,
+      "text": "blustery way,"
+    },
+    {
+      "start": 764.68,
+      "end": 765.38,
+      "text": "and has a nervous,"
+    },
+    {
+      "start": 765.56,
+      "end": 766.34,
+      "text": "irritable manner."
+    },
+    {
+      "start": 767.14,
+      "end": 768.82,
+      "text": "He gives an impression of being...",
+      "para_break": true
+    },
+    {
+      "start": 769.42,
+      "end": 769.92,
+      "text": "of violence."
+    },
+    {
+      "start": 771.26,
+      "end": 771.96,
+      "text": "Spade,",
+      "para_break": true
+    },
+    {
+      "start": 772.08,
+      "end": 773.12,
+      "text": "scribbling on the pad,"
+    },
+    {
+      "start": 773.3,
+      "end": 774.4,
+      "text": "asked without looking up,"
+    },
+    {
+      "start": 775.42,
+      "end": 776.06,
+      "text": "What color eyes?",
+      "para_break": true
+    },
+    {
+      "start": 777.504,
+      "end": 779.38,
+      "text": "They're bluish-gray and watery,",
+      "para_break": true
+    },
+    {
+      "start": 779.62,
+      "end": 781.3,
+      "text": "though not in a weak way."
+    },
+    {
+      "start": 782.1,
+      "end": 782.42,
+      "text": "And,",
+      "para_break": true
+    },
+    {
+      "start": 782.54,
+      "end": 783.38,
+      "text": "oh yes,"
+    },
+    {
+      "start": 783.96,
+      "end": 785.58,
+      "text": "he has a marked cleft in his chin."
+    },
+    {
+      "start": 786.7,
+      "end": 787.28,
+      "text": "Thin,",
+      "para_break": true
+    },
+    {
+      "start": 787.28,
+      "end": 787.66,
+      "text": "medium,"
+    },
+    {
+      "start": 787.76,
+      "end": 788.48,
+      "text": "or heavy-built?"
+    },
+    {
+      "start": 790.06,
+      "end": 790.68,
+      "text": "Quite athletic.",
+      "para_break": true
+    },
+    {
+      "start": 791.74,
+      "end": 793.84,
+      "text": "He's broad-shouldered and carries himself erect.",
+      "para_break": true
+    },
+    {
+      "start": 794.64,
+      "end": 797.0,
+      "text": "What you would call a decidedly military carriage.",
+      "para_break": true
+    },
+    {
+      "start": 798.3,
+      "end": 800.18,
+      "text": "He had on a light gray suit and a",
+      "para_break": true
+    },
+    {
+      "start": 800.18,
+      "end": 801.92,
+      "text": "gray hat when I saw him this morning."
+    },
+    {
+      "start": 803.54,
+      "end": 804.56,
+      "text": "What does he do for a living?",
+      "para_break": true
+    },
+    {
+      "start": 805.408,
+      "end": 808.3,
+      "text": "Spade asked as he pushed the pad back and laid down the pencil.",
+      "para_break": true
+    },
+    {
+      "start": 809.46,
+      "end": 810.02,
+      "text": "I don't know,",
+      "para_break": true
+    },
+    {
+      "start": 810.22,
+      "end": 810.98,
+      "text": "she said."
+    },
+    {
+      "start": 811.68,
+      "end": 813.04,
+      "text": "I've never had the slightest idea."
+    },
+    {
+      "start": 814.88,
+      "end": 815.92,
+      "text": "When's he coming to see you?",
+      "para_break": true
+    },
+    {
+      "start": 816.9,
+      "end": 817.66,
+      "text": "At eight this evening.",
+      "para_break": true
+    },
+    {
+      "start": 818.98,
+      "end": 819.34,
+      "text": "All right,",
+      "para_break": true
+    },
+    {
+      "start": 819.36,
+      "end": 819.9,
+      "text": "Miss Wonderly."
+    },
+    {
+      "start": 820.37,
+      "end": 821.5,
+      "text": "We'll have a man there."
+    },
+    {
+      "start": 822.464,
+      "end": 823.34,
+      "text": "It'll help if—",
+      "para_break": true
+    },
+    {
+      "start": 823.54,
+      "end": 824.08,
+      "text": "Mr."
+    },
+    {
+      "start": 824.22,
+      "end": 824.56,
+      "text": "Spade,"
+    },
+    {
+      "start": 824.74,
+      "end": 826.4,
+      "text": "could either you or Mr."
+    },
+    {
+      "start": 826.58,
+      "end": 827.136,
+      "text": "Archer—"
+    },
+    {
+      "start": 828.02,
+      "end": 830.3,
+      "text": "She made an appealing gesture with both hands.",
+      "para_break": true
+    },
+    {
+      "start": 831.58,
+      "end": 833.7,
+      "text": "Could either of you look after it personally?",
+      "para_break": true
+    },
+    {
+      "start": 834.33,
+      "end": 836.7,
+      "text": "I don't mean that the man you would send wouldn't"
+    },
+    {
+      "start": 836.7,
+      "end": 837.14,
+      "text": "be capable,"
+    },
+    {
+      "start": 837.34,
+      "end": 838.64,
+      "text": "but—oh,"
+    },
+    {
+      "start": 838.8,
+      "end": 841.02,
+      "text": "I am so afraid of what might happen to Corinne."
+    },
+    {
+      "start": 841.08,
+      "end": 842.38,
+      "text": "I'm afraid of him."
+    },
+    {
+      "start": 843.1,
+      "end": 843.44,
+      "text": "Could you?"
+    },
+    {
+      "start": 843.7,
+      "end": 845.74,
+      "text": "I'd expect to be charged more,"
+    },
+    {
+      "start": 845.82,
+      "end": 846.12,
+      "text": "of course."
+    },
+    {
+      "start": 846.8,
+      "end": 849.18,
+      "text": "She opened her handbag with nervous"
+    },
+    {
+      "start": 849.18,
+      "end": 851.04,
+      "text": "fingers and put two hundred-dollar"
+    },
+    {
+      "start": 851.1,
+      "end": 852.36,
+      "text": "bills on Spade's desk."
+    },
+    {
+      "start": 853.64,
+      "end": 855.0,
+      "text": "\"'Will that be enough now?'",
+      "para_break": true
+    },
+    {
+      "start": 855.3,
+      "end": 857.26,
+      "text": "\"'Yeah,' Archer said."
+    },
+    {
+      "start": 858.1,
+      "end": 859.26,
+      "text": "\"'And I'll handle it myself.'",
+      "para_break": true
+    },
+    {
+      "start": 860.88,
+      "end": 861.96,
+      "text": "Miss Wonderly stood up,",
+      "para_break": true
+    },
+    {
+      "start": 862.34,
+      "end": 864.14,
+      "text": "impulsively holding a hand out to him."
+    },
+    {
+      "start": 864.992,
+      "end": 865.52,
+      "text": "\"'Thank you,",
+      "para_break": true
+    },
+    {
+      "start": 865.6,
+      "end": 869.2,
+      "text": "thank you,' she exclaimed and then gave Spade the hand,"
+    },
+    {
+      "start": 869.44,
+      "end": 869.72,
+      "text": "repeating,"
+    },
+    {
+      "start": 869.84,
+      "end": 870.9,
+      "text": "\"'Thank you.'"
+    },
+    {
+      "start": 872.064,
+      "end": 874.26,
+      "text": "\"'Not at all,' Spade said over it.",
+      "para_break": true
+    },
+    {
+      "start": 874.944,
+      "end": 875.5,
+      "text": "\"'Glad to.'"
+    },
+    {
+      "start": 876.48,
+      "end": 878.66,
+      "text": "It'll help some if you either wait for Thursby",
+      "para_break": true
+    },
+    {
+      "start": 878.66,
+      "end": 881.29,
+      "text": "downstairs or come down with him when he leaves.\""
+    },
+    {
+      "start": 882.3,
+      "end": 883.72,
+      "text": "\"'I will,' she promised,",
+      "para_break": true
+    },
+    {
+      "start": 883.92,
+      "end": 885.2,
+      "text": "and thanked the partners again."
+    },
+    {
+      "start": 886.944,
+      "end": 889.44,
+      "text": "\"'And don't look for me,' Archer cautioned her.",
+      "para_break": true
+    },
+    {
+      "start": 890.048,
+      "end": 890.62,
+      "text": "\"'I'll see you,"
+    },
+    {
+      "start": 890.72,
+      "end": 891.42,
+      "text": "all right.'"
+    },
+    {
+      "start": 892.832,
+      "end": 895.06,
+      "text": "Spade went to the outer door with Miss Wonderly.",
+      "para_break": true
+    },
+    {
+      "start": 896.45,
+      "end": 898.16,
+      "text": "When he came back to his desk,",
+      "para_break": true
+    },
+    {
+      "start": 898.28,
+      "end": 900.46,
+      "text": "Archer nodded at the hundred-dollar bills there,"
+    },
+    {
+      "start": 900.96,
+      "end": 901.9,
+      "text": "growled complacently."
+    },
+    {
+      "start": 902.94,
+      "end": 903.66,
+      "text": "\"'They're right enough.'",
+      "para_break": true
+    },
+    {
+      "start": 903.68,
+      "end": 903.78,
+      "text": "off,"
+    },
+    {
+      "start": 903.94,
+      "end": 904.98,
+      "text": "picked one up,"
+    },
+    {
+      "start": 905.08,
+      "end": 907.1,
+      "text": "folded it and tucked it in a vest pocket."
+    },
+    {
+      "start": 908.096,
+      "end": 908.48,
+      "text": "And they",
+      "para_break": true
+    },
+    {
+      "start": 908.48,
+      "end": 909.58,
+      "text": "had brothers in her bag."
+    },
+    {
+      "start": 911.232,
+      "end": 913.78,
+      "text": "Spade pocketed the other bill before he sat down.",
+      "para_break": true
+    },
+    {
+      "start": 914.62,
+      "end": 915.06,
+      "text": "Then he said,",
+      "para_break": true
+    },
+    {
+      "start": 915.58,
+      "end": 916.08,
+      "text": "\"'Well,"
+    },
+    {
+      "start": 916.3,
+      "end": 918.16,
+      "text": "don't dynamite her too much."
+    },
+    {
+      "start": 919.1,
+      "end": 920.128,
+      "text": "What do you think of her?'",
+      "para_break": true
+    },
+    {
+      "start": 920.8,
+      "end": 921.96,
+      "text": "\"'She's a sweet job."
+    },
+    {
+      "start": 922.24,
+      "end": 924.832,
+      "text": "And you telling me not to dynamite her?'"
+    },
+    {
+      "start": 925.92,
+      "end": 927.08,
+      "text": "Archer guffawed suddenly,",
+      "para_break": true
+    },
+    {
+      "start": 927.22,
+      "end": 928.16,
+      "text": "without merriment."
+    },
+    {
+      "start": 929.536,
+      "end": 930.62,
+      "text": "\"'Maybe you saw her first,",
+      "para_break": true
+    },
+    {
+      "start": 930.68,
+      "end": 930.94,
+      "text": "Sam,"
+    },
+    {
+      "start": 931.12,
+      "end": 932.56,
+      "text": "but I spoke first.'"
+    },
+    {
+      "start": 933.03,
+      "end": 935.24,
+      "text": "He put his hands in his pants' pockets"
+    },
+    {
+      "start": 935.24,
+      "end": 936.88,
+      "text": "and teetered back on his heels."
+    },
+    {
+      "start": 938.3,
+      "end": 939.44,
+      "text": "\"'You play hell with her,",
+      "para_break": true
+    },
+    {
+      "start": 939.52,
+      "end": 940.22,
+      "text": "you will.'"
+    },
+    {
+      "start": 941.312,
+      "end": 942.84,
+      "text": "Spade grinned wolfishly,",
+      "para_break": true
+    },
+    {
+      "start": 942.88,
+      "end": 945.58,
+      "text": "showing the edge of teeth far back in his jaw."
+    },
+    {
+      "start": 947.04,
+      "end": 947.8,
+      "text": "\"'You've got brains,",
+      "para_break": true
+    },
+    {
+      "start": 948.16,
+      "end": 948.56,
+      "text": "yes,"
+    },
+    {
+      "start": 948.62,
+      "end": 949.58,
+      "text": "you have.'"
+    },
+    {
+      "start": 950.88,
+      "end": 952.26,
+      "text": "He began making a cigarette.",
+      "para_break": true
+    },
+    {
+      "start": 955.38,
+      "end": 956.26,
+      "text": "End of chapter 1",
+      "para_break": true
+    }
+  ]
+}
