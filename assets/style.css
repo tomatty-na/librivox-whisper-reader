@@ -475,6 +475,14 @@ a:hover { text-decoration: underline; }
   color: #b94a48;
   border-color: #b94a48;
   pointer-events: auto;
+  position: fixed;
+  top: 52px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: calc(100% - 2 * var(--pad));
+  max-width: var(--max-w);
+  margin-bottom: 0;
+  z-index: 60;
 }
 
 /* ── Settings panel ── */
