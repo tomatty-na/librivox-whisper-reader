@@ -89,7 +89,10 @@
     }, { once: true });
 
     audio.addEventListener('error', () => {
-      console.warn('[LVR] Audio error — check URL or CORS:', audio.src);
+      const code = audio.error ? audio.error.code : 0;
+      const msg = 'Audio failed to load. Internet Archive may be temporarily offline. (code ' + code + ')';
+      console.warn('[LVR] Audio error (code ' + code + '):', audio.src);
+      showAudioError(msg);
     });
 
     audio.addEventListener('timeupdate', onTimeUpdate);
@@ -414,6 +417,13 @@
         showResumeBanner(bm.time - pageData.page_start_sec);
       }
     } catch (e) {}
+  }
+
+  function showAudioError(msg) {
+    const banner = document.getElementById('resume-banner');
+    if (!banner) return;
+    banner.textContent = msg;
+    banner.classList.add('visible', 'error');
   }
 
   function showResumeBanner(elapsedSec) {

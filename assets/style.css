@@ -471,6 +471,11 @@ a:hover { text-decoration: underline; }
   pointer-events: none;
 }
 .resume-banner.visible { opacity: 1; }
+.resume-banner.error {
+  color: #b94a48;
+  border-color: #b94a48;
+  pointer-events: auto;
+}
 
 /* ── Settings panel ── */
 .settings-panel {
