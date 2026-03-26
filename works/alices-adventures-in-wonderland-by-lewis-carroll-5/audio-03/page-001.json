@@ -20,13 +20,38 @@
     {
       "start": 9.12,
       "end": 11.18,
-      "text": "A CAUCUS RACE AND A LONG TALE."
+      "text": "A CAUCUS-RACE AND A LONG TALE."
+    },
+    {
+      "start": 12.94,
+      "end": 17.82,
+      "text": " They were indeed a queer-looking party that assembled on the bank--the birds with draggled",
+      "para_break": true
+    },
+    {
+      "start": 17.82,
+      "end": 22.94,
+      "text": " feathers, the animals with their fur clinging close to them, and all dripping wet, cross,"
+    },
+    {
+      "start": 23.16,
+      "end": 23.82,
+      "text": " and uncomfortable."
+    },
+    {
+      "start": 24.72,
+      "end": 27.58,
+      "text": " The first question of course was, how to get dry again: they had a"
+    },
+    {
+      "start": 27.58,
+      "end": 30.96,
+      "text": " consultation about this, and after a few minutes"
     },
     {
       "start": 30.0,
       "end": 32.3,
-      "text": "after a few minutes it seemed quite natural to",
-      "para_break": true
+      "text": "it seemed quite natural to"
     },
     {
       "start": 32.3,
@@ -56,32 +81,32 @@
     {
       "start": 39.84,
       "end": 40.0,
-      "text": "lorry,"
+      "text": "Lory,"
     },
     {
       "start": 40.18,
       "end": 42.28,
-      "text": "who at last turned sulky and would only say,"
+      "text": "who at last turned sulky, and would only say,"
     },
     {
       "start": 42.42,
       "end": 43.8,
-      "text": "I'm older than you,"
+      "text": "\"I am older than you,"
     },
     {
       "start": 43.96,
       "end": 44.8,
-      "text": "and must know better."
+      "text": "and must know better;\""
     },
     {
       "start": 45.9,
       "end": 48.88,
-      "text": "And this Alice would not allow without knowing how old it was,"
+      "text": "and this Alice would not allow without knowing how old it was,"
     },
     {
       "start": 49.1,
       "end": 50.48,
-      "text": "and as the lorry positively"
+      "text": "and, as the Lory positively"
     },
     {
       "start": 50.84,
@@ -96,7 +121,8 @@
     {
       "start": 54.72,
       "end": 55.66,
-      "text": "At last the mouse,"
+      "text": "At last the Mouse,",
+      "para_break": true
     },
     {
       "start": 55.76,
@@ -116,7 +142,7 @@
     {
       "start": 58.86,
       "end": 59.44,
-      "text": "Sit down,"
+      "text": "\"Sit down,"
     },
     {
       "start": 59.58,
@@ -126,17 +152,17 @@
     {
       "start": 60.1,
       "end": 60.76,
-      "text": "and listen to me."
+      "text": "and listen to me!"
     },
     {
       "start": 60.94,
       "end": 61.7,
-      "text": "I'll soon"
+      "text": "_I'll_ soon"
     },
     {
       "start": 61.76,
       "end": 62.74,
-      "text": "make you dry enough."
+      "text": "make you dry enough!\""
     },
     {
       "start": 63.31,
@@ -151,7 +177,7 @@
     {
       "start": 66.02,
       "end": 67.08,
-      "text": "with the mouse in the middle."
+      "text": "with the Mouse in the middle."
     },
     {
       "start": 67.872,
@@ -171,17 +197,18 @@
     {
       "start": 74.48,
       "end": 74.9,
-      "text": "Ahem,"
+      "text": "\"Ahem!\"",
+      "para_break": true
     },
     {
       "start": 75.1,
       "end": 76.92,
-      "text": "said the mouse with an important air."
+      "text": "said the Mouse with an important air."
     },
     {
       "start": 77.96,
       "end": 78.56,
-      "text": "Are you all ready?"
+      "text": "\"Are you all ready?"
     },
     {
       "start": 78.74,
@@ -201,12 +228,12 @@
     {
       "start": 82.52,
       "end": 83.04,
-      "text": "if you please."
+      "text": "if you please!"
     },
     {
       "start": 85.024,
       "end": 86.24,
-      "text": "William the Conqueror,",
+      "text": "'William the Conqueror,",
       "para_break": true
     },
     {
@@ -217,7 +244,7 @@
     {
       "start": 86.88,
       "end": 88.28,
-      "text": "was favoured by the Pope,"
+      "text": "was favoured by the pope,"
     },
     {
       "start": 88.48,
@@ -242,77 +269,79 @@
     {
       "start": 96.768,
       "end": 97.58,
-      "text": "Edwin and Morcor,"
+      "text": "Edwin and Morcar,'"
     },
     {
       "start": 97.8,
       "end": 99.78,
-      "text": "the earls of Mercia and Northumbria"
+      "text": "the earls of Mercia and Northumbria--'"
     },
     {
       "start": 100.3,
       "end": 100.54,
-      "text": "—"
+      "text": "\"Ugh!\""
     },
     {
       "start": 100.54,
       "end": 100.86,
-      "text": "ah!"
+      "text": "said the Lory,"
     },
     {
       "start": 101.02,
       "end": 102.6,
-      "text": "said the lorry with a shiver."
+      "text": "with a shiver.",
+      "para_break": true
     },
     {
       "start": 103.5,
       "end": 104.98,
-      "text": "I beg your pardon,"
+      "text": "\"I beg your pardon!\""
     },
     {
       "start": 105.16,
       "end": 105.8,
-      "text": "said the mouse,"
+      "text": "said the Mouse,"
     },
     {
       "start": 105.92,
       "end": 107.26,
-      "text": "frowning but very politely,"
+      "text": "frowning, but very politely."
     },
     {
       "start": 107.34,
       "end": 108.16,
-      "text": "Did you speak?"
+      "text": "\"Did you speak?\""
     },
     {
       "start": 109.152,
       "end": 109.48,
-      "text": "Not I,"
+      "text": "\"Not I!\""
     },
     {
       "start": 109.84,
       "end": 111.02,
-      "text": "said the lorry hastily."
+      "text": "said the Lory hastily.",
+      "para_break": true
     },
     {
       "start": 111.78,
       "end": 112.92,
-      "text": "I thought you did,"
+      "text": "\"I thought you did,\""
     },
     {
       "start": 113.14,
       "end": 113.66,
-      "text": "said the mouse."
+      "text": "said the Mouse."
     },
     {
       "start": 114.38,
       "end": 114.76,
-      "text": "I proceed."
+      "text": "\"--I proceed."
     },
     {
       "start": 116.096,
       "end": 117.1,
-      "text": "Edwin and Morker,"
+      "text": "'Edwin and Morcar,"
     },
     {
       "start": 117.22,
@@ -322,67 +351,69 @@
     {
       "start": 119.46,
       "end": 120.3,
-      "text": "declared for him,"
+      "text": "declared for him:"
     },
     {
       "start": 120.7,
       "end": 121.78,
-      "text": "and even Stagand,"
+      "text": "and even Stigand,"
     },
     {
       "start": 121.8,
       "end": 124.0,
-      "text": "the patriotic archbishop of Canterbury,"
+      "text": "the patriotic Archbishop of Canterbury,"
     },
     {
       "start": 124.18,
       "end": 125.06,
-      "text": "found it advisable."
+      "text": "found it advisable--'"
     },
     {
       "start": 125.92,
       "end": 126.32,
-      "text": "Found what?"
+      "text": "\"Found _what_?\""
     },
     {
       "start": 126.56,
       "end": 127.2,
-      "text": "said the duck."
+      "text": "said the Duck.",
+      "para_break": true
     },
     {
       "start": 128.0,
       "end": 128.34,
-      "text": "Found it,"
+      "text": "\"Found _it_,\""
     },
     {
       "start": 128.56,
       "end": 130.12,
-      "text": "the mouse replied rather crossly."
+      "text": "the Mouse replied rather crossly:"
     },
     {
       "start": 130.2,
       "end": 131.0,
-      "text": "Of course you know what"
+      "text": "\"of course you know what"
     },
     {
       "start": 131.16,
       "end": 131.56,
-      "text": "it means."
+      "text": "'it' means.\""
     },
     {
       "start": 132.58,
       "end": 135.68,
-      "text": "I know what it means well enough when I find a thing,"
+      "text": "\"I know what 'it' means well enough, when _I_ find a thing,\"",
+      "para_break": true
     },
     {
       "start": 135.9,
       "end": 136.48,
-      "text": "said the duck."
+      "text": "said the Duck;"
     },
     {
       "start": 136.62,
       "end": 138.3,
-      "text": "It's generally a frog"
+      "text": "\"it's generally a frog"
     },
     {
       "start": 138.54,
@@ -397,22 +428,23 @@
     {
       "start": 140.44,
       "end": 141.98,
-      "text": "what did the archbishop find?"
+      "text": "what did the archbishop find?\""
     },
     {
       "start": 143.14,
       "end": 144.72,
-      "text": "The mouse did not notice this question,"
+      "text": "The Mouse did not notice this question,",
+      "para_break": true
     },
     {
       "start": 144.94,
       "end": 146.02,
-      "text": "but hurriedly went on."
+      "text": "but hurriedly went on,"
     },
     {
       "start": 146.848,
       "end": 148.96,
-      "text": "Found it advisable to go with Edgar"
+      "text": "'--found it advisable to go with Edgar"
     },
     {
       "start": 148.96,
@@ -427,53 +459,54 @@
     {
       "start": 151.82,
       "end": 154.34,
-      "text": "William's conduct at first was moderate,"
+      "text": "William's conduct at first was moderate."
     },
     {
       "start": 155.08,
       "end": 156.75,
-      "text": "but the insolence of his Normans..."
+      "text": "But the insolence of his Normans--'"
     },
     {
       "start": 157.22,
       "end": 158.24,
-      "text": "How are you getting on now,"
+      "text": "\"How are you getting on now,"
     },
     {
       "start": 158.34,
       "end": 158.72,
-      "text": "my dear?"
+      "text": "my dear?\""
     },
     {
       "start": 159.3,
       "end": 161.32,
-      "text": "It continued turning to Alice as it spoke."
+      "text": "it continued, turning to Alice as it spoke."
     },
     {
       "start": 162.5,
       "end": 163.3,
-      "text": "As wet as ever,"
+      "text": "\"As wet as ever,\"",
+      "para_break": true
     },
     {
       "start": 163.44,
       "end": 165.1,
-      "text": "said Alice in a melancholy tone,"
+      "text": "said Alice in a melancholy tone;"
     },
     {
       "start": 165.39,
       "end": 167.24,
-      "text": "doesn't seem to dry me at all."
+      "text": "\"doesn't seem to dry me at all.\""
     },
     {
       "start": 168.82,
       "end": 169.55,
-      "text": "In that case,",
+      "text": "\"In that case,\"",
       "para_break": true
     },
     {
       "start": 169.78,
       "end": 171.3,
-      "text": "said the dodo solemnly,"
+      "text": "said the Dodo solemnly,"
     },
     {
       "start": 171.3,
@@ -483,75 +516,75 @@
     {
       "start": 172.64,
       "end": 175.08,
-      "text": "I move that the meeting adjourn for the"
+      "text": "\"I move that the meeting adjourn, for the"
     },
     {
       "start": 175.08,
       "end": 177.84,
-      "text": "immediate adoption of more energetic remedies."
+      "text": "immediate adoption of more energetic remedies----\""
     },
     {
       "start": 179.872,
       "end": 180.68,
-      "text": "Speak English,",
+      "text": "\"Speak English!\"",
       "para_break": true
     },
     {
       "start": 180.92,
       "end": 181.72,
-      "text": "said the eaglet."
+      "text": "said the Eaglet."
     },
     {
       "start": 182.3,
       "end": 185.16,
-      "text": "I don't know the meaning of half those long words,"
+      "text": "\"I don't know the meaning of half those long words,"
     },
     {
       "start": 185.22,
       "end": 185.74,
-      "text": "and what's more,"
+      "text": "and, what's more,"
     },
     {
       "start": 185.82,
       "end": 187.46,
-      "text": "I don't believe you do either."
+      "text": "I don't believe you do either!\""
     },
     {
       "start": 188.58,
       "end": 191.08,
-      "text": "And the eaglet bent down its head to hide a smile."
+      "text": "And the Eaglet bent down its head to hide a smile:"
     },
     {
       "start": 191.28,
       "end": 193.14,
-      "text": "Some of the other birds tittered audibly."
+      "text": "some of the other birds tittered audibly."
     },
     {
       "start": 194.96,
       "end": 196.24,
-      "text": "What I was going to say,",
+      "text": "\"What I was going to say,\"",
       "para_break": true
     },
     {
       "start": 196.46,
       "end": 198.34,
-      "text": "said the dodo in an offended tone,"
+      "text": "said the Dodo in an offended tone,"
     },
     {
       "start": 199.36,
       "end": 202.92,
-      "text": "was that the best thing to get us dry would be a caucus race."
+      "text": "\"was that the best thing to get us dry would be a Caucus-race.\""
     },
     {
       "start": 204.96,
       "end": 205.98,
-      "text": "What is a caucus race,",
+      "text": "\"What _is_ a Caucus-race?\"",
       "para_break": true
     },
     {
       "start": 206.2,
       "end": 206.76,
-      "text": "said Alice,"
+      "text": "said Alice;"
     },
     {
       "start": 206.94,
@@ -561,12 +594,12 @@
     {
       "start": 208.64,
       "end": 210.52,
-      "text": "but the dodo had paused as if it"
+      "text": "but the Dodo had paused as if it"
     },
     {
       "start": 210.52,
       "end": 212.1,
-      "text": "thought that somebody ought to speak,"
+      "text": "thought that _somebody_ ought to speak,"
     },
     {
       "start": 212.24,
@@ -581,22 +614,22 @@
     {
       "start": 215.34,
       "end": 216.08,
-      "text": "Why,"
+      "text": "\"Why,\""
     },
     {
       "start": 216.32,
       "end": 217.14,
-      "text": "said the dodo,"
+      "text": "said the Dodo,"
     },
     {
       "start": 217.26,
       "end": 219.96,
-      "text": "the best way to explain it is to do it."
+      "text": "\"the best way to explain it is to do it.\""
     },
     {
       "start": 220.8,
       "end": 221.26,
-      "text": "And as you"
+      "text": "(And, as you"
     },
     {
       "start": 221.26,
@@ -606,37 +639,38 @@
     {
       "start": 223.64,
       "end": 225.64,
-      "text": "I will tell you how the dodo managed it."
+      "text": "I will tell you how the Dodo managed it.)"
     },
     {
       "start": 226.32,
       "end": 226.92,
-      "text": "First,"
+      "text": "First",
+      "para_break": true
     },
     {
       "start": 227.06,
       "end": 229.4,
-      "text": "it marked out a race course in a sort of circle."
+      "text": "it marked out a race-course, in a sort of circle,"
     },
     {
       "start": 230.08,
       "end": 231.68,
-      "text": "The exact shape doesn't matter,"
+      "text": "(\"the exact shape doesn't matter,\""
     },
     {
       "start": 231.88,
       "end": 232.3,
-      "text": "it said."
+      "text": "it said,)"
     },
     {
       "start": 232.8,
       "end": 235.86,
-      "text": "And then all the party were placed along the course here and there."
+      "text": "and then all the party were placed along the course, here and there."
     },
     {
       "start": 236.54,
       "end": 237.72,
-      "text": "There was no one,"
+      "text": "There was no \"One,"
     },
     {
       "start": 237.9,
@@ -651,7 +685,7 @@
     {
       "start": 238.58,
       "end": 239.04,
-      "text": "and away,"
+      "text": "and away,\""
     },
     {
       "start": 239.26,
@@ -691,12 +725,12 @@
     {
       "start": 251.52,
       "end": 252.8,
-      "text": "the dodo suddenly called,"
+      "text": "the Dodo suddenly called"
     },
     {
       "start": 253.34,
       "end": 254.28,
-      "text": "The race is over!"
+      "text": "\"The race is over!\""
     }
   ]
 }

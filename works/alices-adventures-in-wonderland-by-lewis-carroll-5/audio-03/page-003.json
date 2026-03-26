@@ -15,33 +15,34 @@
     {
       "start": 496.0,
       "end": 496.7,
-      "text": "Hold your tongue,"
+      "text": "\"Hold your tongue,",
+      "para_break": true
     },
     {
       "start": 496.72,
       "end": 496.84,
-      "text": "ma,"
+      "text": "Ma!\""
     },
     {
       "start": 497.04,
       "end": 498.67,
-      "text": "said the young crab a little snappishly."
+      "text": "said the young Crab, a little snappishly."
     },
     {
       "start": 499.392,
       "end": 501.22,
-      "text": "You're enough to try the patience of an oyster."
+      "text": "\"You're enough to try the patience of an oyster!\""
     },
     {
       "start": 502.99,
       "end": 504.9,
-      "text": "I wish I had our diner here.",
+      "text": "\"I wish I had our Dinah here,",
       "para_break": true
     },
     {
       "start": 505.0,
       "end": 505.74,
-      "text": "I know I do,"
+      "text": "I know I do!\""
     },
     {
       "start": 506.0,
@@ -56,48 +57,49 @@
     {
       "start": 509.408,
       "end": 510.32,
-      "text": "She'd soon fetch it back."
+      "text": "\"She'd soon fetch it back!\""
     },
     {
       "start": 511.96,
       "end": 512.94,
-      "text": "And who is Dinah,",
+      "text": "\"And who is Dinah,",
       "para_break": true
     },
     {
       "start": 513.08,
       "end": 515.04,
-      "text": "if I might venture to ask the question,"
+      "text": "if I might venture to ask the question?\""
     },
     {
       "start": 515.45,
       "end": 516.38,
-      "text": "said the lorry."
+      "text": "said the Lory."
     },
     {
       "start": 517.536,
       "end": 518.66,
-      "text": "Alice replied eagerly,"
+      "text": "Alice replied eagerly,",
+      "para_break": true
     },
     {
       "start": 518.66,
       "end": 520.88,
-      "text": "for she was always ready to talk about her pet."
+      "text": "for she was always ready to talk about her pet:"
     },
     {
       "start": 521.792,
       "end": 522.54,
-      "text": "Dinah's our cat,"
+      "text": "\"Dinah's our cat."
     },
     {
       "start": 522.68,
       "end": 525.02,
-      "text": "and she's such a capital one for catching mice,"
+      "text": "And she's such a capital one for catching mice,"
     },
     {
       "start": 525.06,
       "end": 525.8,
-      "text": "you can't think."
+      "text": "you ca'n't think!"
     },
     {
       "start": 526.4,
@@ -107,7 +109,7 @@
     {
       "start": 526.72,
       "end": 528.52,
-      "text": "I wish you could see her after the birds."
+      "text": "I wish you could see her after the birds!"
     },
     {
       "start": 528.76,
@@ -117,22 +119,23 @@
     {
       "start": 529.02,
       "end": 531.22,
-      "text": "she'll eat a little bird as soon as look at it."
+      "text": "she'll eat a little bird as soon as look at it!\""
     },
     {
       "start": 532.2,
       "end": 535.14,
-      "text": "This speech caused a remarkable sensation among the party."
+      "text": "This speech caused a remarkable sensation among the party.",
+      "para_break": true
     },
     {
       "start": 535.48,
       "end": 537.0,
-      "text": "Some of the birds hurried off at once."
+      "text": "Some of the birds hurried off at once;"
     },
     {
       "start": 537.4,
       "end": 540.54,
-      "text": "One old magpie began wrapping itself up very carefully,"
+      "text": "one old Magpie began wrapping itself up very carefully,"
     },
     {
       "start": 540.74,
@@ -142,37 +145,37 @@
     {
       "start": 541.5,
       "end": 543.48,
-      "text": "I really must be getting home,"
+      "text": "\"I really must be getting home;"
     },
     {
       "start": 543.6,
       "end": 545.34,
-      "text": "the night air doesn't suit my throat."
+      "text": "the night-air doesn't suit my throat!\""
     },
     {
       "start": 546.08,
       "end": 548.9,
-      "text": "And a canary called out in a trembling voice to its children,"
+      "text": "and a Canary called out in a trembling voice to its children,"
     },
     {
       "start": 549.64,
       "end": 549.96,
-      "text": "Come away,"
+      "text": "\"Come away,"
     },
     {
       "start": 550.06,
       "end": 550.58,
-      "text": "my dears,"
+      "text": "my dears!"
     },
     {
       "start": 550.69,
       "end": 552.56,
-      "text": "it's a high time you were all in bed."
+      "text": "It's high time you were all in bed!\""
     },
     {
       "start": 553.64,
       "end": 554.72,
-      "text": "On various pretexts,"
+      "text": "On various pretexts"
     },
     {
       "start": 554.84,
@@ -187,7 +190,8 @@
     {
       "start": 557.92,
       "end": 559.64,
-      "text": "I wish I hadn't mentioned Dinah,"
+      "text": "\"I wish I hadn't mentioned Dinah!\"",
+      "para_break": true
     },
     {
       "start": 559.66,
@@ -197,12 +201,12 @@
     {
       "start": 562.24,
       "end": 563.82,
-      "text": "Nobody seems to like her down here,"
+      "text": "\"Nobody seems to like her, down here,"
     },
     {
       "start": 563.94,
       "end": 565.88,
-      "text": "and I'm sure she's the best cat in the world."
+      "text": "and I'm sure she's the best cat in the world!"
     },
     {
       "start": 566.42,
@@ -212,12 +216,12 @@
     {
       "start": 566.88,
       "end": 567.82,
-      "text": "my dear Dinah,"
+      "text": "my dear Dinah!"
     },
     {
       "start": 567.86,
       "end": 569.9,
-      "text": "I wonder if I shall ever see you any more."
+      "text": "I wonder if I shall ever see you any more!\""
     },
     {
       "start": 570.78,
@@ -252,7 +256,7 @@
     {
       "start": 581.6,
       "end": 584.02,
-      "text": "half hoping that the mouse had changed his mind,"
+      "text": "half hoping that the Mouse had changed his mind,"
     },
     {
       "start": 584.1,
@@ -262,8 +266,7 @@
     {
       "start": 587.52,
       "end": 588.38,
-      "text": "End of chapter 3",
-      "para_break": true
+      "text": "End of chapter 3"
     }
   ]
 }

@@ -20,17 +20,18 @@
     {
       "start": 256.4,
       "end": 257.3,
-      "text": "panting and asking,"
+      "text": "panting, and asking,"
     },
     {
       "start": 257.46,
       "end": 258.36,
-      "text": "But who has won?"
+      "text": "\"But who has won?\""
     },
     {
       "start": 259.44,
       "end": 260.82,
-      "text": "This question the dodo could not"
+      "text": "This question the Dodo could not",
+      "para_break": true
     },
     {
       "start": 260.82,
@@ -45,17 +46,17 @@
     {
       "start": 264.16,
       "end": 266.26,
-      "text": "time with one finger pressed upon its forehead,"
+      "text": "time with one finger pressed upon its forehead"
     },
     {
       "start": 266.76,
       "end": 268.88,
-      "text": "the position in which you usually see Shakespeare"
+      "text": "(the position in which you usually see Shakespeare,"
     },
     {
       "start": 268.88,
       "end": 270.02,
-      "text": "in the pictures of him,"
+      "text": "in the pictures of him),"
     },
     {
       "start": 270.94,
@@ -65,22 +66,22 @@
     {
       "start": 272.69,
       "end": 274.38,
-      "text": "At last the dodo said,"
+      "text": "At last the Dodo said"
     },
     {
       "start": 275.22,
       "end": 276.1,
-      "text": "Everybody has won,"
+      "text": "\"_Everybody_ has won,"
     },
     {
       "start": 276.3,
       "end": 277.88,
-      "text": "and all must have prizes."
+      "text": "and _all_ must have prizes.\""
     },
     {
       "start": 279.45,
       "end": 281.06,
-      "text": "But who is to give the prizes?",
+      "text": "\"But who is to give the prizes?\"",
       "para_break": true
     },
     {
@@ -91,27 +92,27 @@
     {
       "start": 284.08,
       "end": 284.38,
-      "text": "Why,"
+      "text": "\"Why,"
     },
     {
       "start": 284.46,
       "end": 284.66,
-      "text": "she,"
+      "text": "_she_,"
     },
     {
       "start": 284.84,
       "end": 285.3,
-      "text": "of course,"
+      "text": "of course,\""
     },
     {
       "start": 285.5,
       "end": 286.36,
-      "text": "said the dodo,"
+      "text": "said the Dodo,"
     },
     {
       "start": 286.4,
       "end": 288.04,
-      "text": "pointing to Alice with one finger,"
+      "text": "pointing to Alice with one finger;"
     },
     {
       "start": 288.12,
@@ -131,32 +132,33 @@
     {
       "start": 292.72,
       "end": 293.08,
-      "text": "Prizes!"
+      "text": "\"Prizes!"
     },
     {
       "start": 293.24,
       "end": 293.92,
-      "text": "Prizes!"
+      "text": "Prizes!\""
     },
     {
       "start": 295.46,
       "end": 297.08,
-      "text": "Alice had no idea what to do,"
+      "text": "Alice had no idea what to do,",
+      "para_break": true
     },
     {
       "start": 297.2,
       "end": 300.06,
-      "text": "and in despair she put her hand in her pocket and pulled"
+      "text": "and in despair she put her hand in her pocket, and pulled"
     },
     {
       "start": 300.06,
       "end": 301.24,
-      "text": "out a box of confit."
+      "text": "out a box of comfits"
     },
     {
       "start": 301.36,
       "end": 303.86,
-      "text": "Luckily the saltwater had not got into it,"
+      "text": "(luckily the salt water had not got into it),"
     },
     {
       "start": 303.9,
@@ -171,47 +173,48 @@
     {
       "start": 305.76,
       "end": 308.06,
-      "text": "There was exactly one piece all round."
+      "text": "There was exactly one apiece all round."
     },
     {
       "start": 309.5,
       "end": 310.88,
-      "text": "But she must have a prize herself,"
+      "text": "\"But she must have a prize herself,",
+      "para_break": true
     },
     {
       "start": 310.98,
       "end": 311.34,
-      "text": "you know,"
+      "text": "you know,\""
     },
     {
       "start": 311.5,
       "end": 312.34,
-      "text": "said the mouse."
+      "text": "said the Mouse."
     },
     {
       "start": 313.376,
       "end": 313.8,
-      "text": "Of course,"
+      "text": "\"Of course,\""
     },
     {
       "start": 314.3,
       "end": 316.06,
-      "text": "the dodo replied very gravely."
+      "text": "the Dodo replied very gravely."
     },
     {
       "start": 316.75,
       "end": 319.14,
-      "text": "What else have you got in your pocket?"
+      "text": "\"What else have you got in your pocket?\""
     },
     {
       "start": 319.44,
       "end": 320.96,
-      "text": "it went on turning to Alice."
+      "text": "it went on, turning to Alice."
     },
     {
       "start": 321.888,
       "end": 322.56,
-      "text": "Only a thimble,"
+      "text": "\"Only a thimble,\""
     },
     {
       "start": 322.68,
@@ -221,12 +224,12 @@
     {
       "start": 324.06,
       "end": 324.8,
-      "text": "Hand it over here,"
+      "text": "\"Hand it over here,\""
     },
     {
       "start": 325.02,
       "end": 325.74,
-      "text": "said the dodo."
+      "text": "said the Dodo."
     },
     {
       "start": 327.62,
@@ -237,7 +240,7 @@
     {
       "start": 329.64,
       "end": 332.38,
-      "text": "while the dodo solemnly presented the thimble,"
+      "text": "while the Dodo solemnly presented the thimble,"
     },
     {
       "start": 332.46,
@@ -247,12 +250,12 @@
     {
       "start": 333.28,
       "end": 336.58,
-      "text": "We beg your acceptance of this elegant thimble."
+      "text": "\"We beg your acceptance of this elegant thimble;\""
     },
     {
       "start": 337.1,
       "end": 338.94,
-      "text": "And when it had finished this short speech,"
+      "text": "and, when it had finished this short speech,"
     },
     {
       "start": 339.1,
@@ -262,22 +265,23 @@
     {
       "start": 340.8,
       "end": 342.57,
-      "text": "Alice thought the whole thing very absurd,"
+      "text": "Alice thought the whole thing very absurd,",
+      "para_break": true
     },
     {
       "start": 342.68,
       "end": 345.48,
-      "text": "but they all looked so grave that she did not dare to laugh,"
+      "text": "but they all looked so grave that she did not dare to laugh;"
     },
     {
       "start": 346.02,
       "end": 348.1,
-      "text": "and as she could not think of anything to say,"
+      "text": "and, as she could not think of anything to say,"
     },
     {
       "start": 348.7,
       "end": 350.54,
-      "text": "she simply bowed and took the thimble,"
+      "text": "she simply bowed, and took the thimble,"
     },
     {
       "start": 350.66,
@@ -287,12 +291,13 @@
     {
       "start": 353.65,
       "end": 355.86,
-      "text": "The next thing was to eat the comfey."
+      "text": "The next thing was to eat the comfits;",
+      "para_break": true
     },
     {
       "start": 356.38,
       "end": 357.96,
-      "text": "This caused some noise and confusion,"
+      "text": "this caused some noise and confusion,"
     },
     {
       "start": 358.24,
@@ -317,22 +322,23 @@
     {
       "start": 366.38,
       "end": 368.08,
-      "text": "and they sat down again in a ring"
+      "text": "and they sat down again in a ring,"
     },
     {
       "start": 368.26,
       "end": 370.18,
-      "text": "and begged the mouse to tell them something more."
+      "text": "and begged the Mouse to tell them something more."
     },
     {
       "start": 371.34,
       "end": 372.72,
-      "text": "You promised to tell me your history,"
+      "text": "\"You promised to tell me your history,",
+      "para_break": true
     },
     {
       "start": 372.84,
       "end": 373.14,
-      "text": "you know,"
+      "text": "you know,\""
     },
     {
       "start": 373.24,
@@ -342,7 +348,7 @@
     {
       "start": 374.48,
       "end": 377.27,
-      "text": "And why it is you hate C and D,"
+      "text": "\"and why it is you hate--C and D,\""
     },
     {
       "start": 377.62,
@@ -357,12 +363,13 @@
     {
       "start": 381.94,
       "end": 383.48,
-      "text": "Mine is a long and sad tale,"
+      "text": "\"Mine is a long and sad tale!\"",
+      "para_break": true
     },
     {
       "start": 383.72,
       "end": 384.3,
-      "text": "said the mouse,"
+      "text": "said the Mouse,"
     },
     {
       "start": 384.42,
@@ -372,12 +379,13 @@
     {
       "start": 386.72,
       "end": 387.6,
-      "text": "It is a long tale,"
+      "text": "\"It _is_ a long tail,",
+      "para_break": true
     },
     {
       "start": 387.62,
       "end": 387.96,
-      "text": "certainly,"
+      "text": "certainly,\""
     },
     {
       "start": 388.18,
@@ -387,38 +395,38 @@
     {
       "start": 388.9,
       "end": 391.0,
-      "text": "looking down with wonder at the mouse's tail."
+      "text": "looking down with wonder at the Mouse's tail;"
     },
     {
       "start": 391.78,
       "end": 392.92,
-      "text": "But why do you call it sad?"
+      "text": "\"but why do you call it sad?\""
     },
     {
       "start": 393.76,
       "end": 396.46,
-      "text": "And she kept on puzzling about it while the mouse was speaking,"
+      "text": "And she kept on puzzling about it while the Mouse was speaking,"
     },
     {
       "start": 396.7,
       "end": 399.68,
-      "text": "so that her idea of the tale was something like this."
+      "text": "so that her idea of the tale was something like this:--"
     },
     {
       "start": 401.632,
       "end": 404.76,
-      "text": "Fury said to a mouse that he met in the house,",
+      "text": "\"Fury said to a mouse, That he met in the house,",
       "para_break": true
     },
     {
       "start": 404.92,
       "end": 406.4,
-      "text": "Let us both go to law,"
+      "text": "'Let us both go to law:"
     },
     {
       "start": 406.98,
       "end": 408.06,
-      "text": "I will prosecute you."
+      "text": "_I_ will prose-cute _you_.--"
     },
     {
       "start": 409.14,
@@ -428,17 +436,17 @@
     {
       "start": 410.02,
       "end": 411.2,
-      "text": "I'll take no denial,"
+      "text": "I'll take no de-nial:"
     },
     {
       "start": 411.36,
       "end": 412.56,
-      "text": "we must have the trial,"
+      "text": "We must have the trial;"
     },
     {
       "start": 413.12,
       "end": 415.4,
-      "text": "For really this morning I've nothing to do,"
+      "text": "For really this morn-ing I've nothing to do.'"
     },
     {
       "start": 416.2,
@@ -448,7 +456,7 @@
     {
       "start": 417.72,
       "end": 418.86,
-      "text": "such a trial,"
+      "text": "'Such a trial,"
     },
     {
       "start": 419.0,
@@ -463,77 +471,81 @@
     {
       "start": 421.34,
       "end": 422.8,
-      "text": "would be wasting our breath."
+      "text": "would be wast-ing our breath.'"
     },
     {
       "start": 424.288,
       "end": 424.84,
-      "text": "I'll be judge,"
+      "text": "'I'll be judge,"
     },
     {
       "start": 424.98,
       "end": 425.7,
-      "text": "I'll be jury,"
+      "text": "I'll be jury,'"
     },
     {
       "start": 425.88,
       "end": 427.32,
-      "text": "said cunning old Fury."
+      "text": "said cun-ning old Fury:"
     },
     {
       "start": 428.08,
       "end": 430.7,
-      "text": "I'll try the whole cause and condemn you to death."
+      "text": "'I'll try the whole cause, and con-demn you to death.'"
     },
     {
       "start": 431.8,
       "end": 432.4,
-      "text": "You're not attending,"
+      "text": "\"You are not attending!\"",
+      "para_break": true
     },
     {
       "start": 432.8,
       "end": 434.4,
-      "text": "said the mouse to Alice severely."
+      "text": "said the Mouse to Alice severely."
     },
     {
       "start": 435.5,
       "end": 436.4,
-      "text": "What are you thinking of?"
+      "text": "\"What are you thinking of?\""
     },
     {
       "start": 437.56,
       "end": 438.94,
-      "text": "I beg your pardon,"
+      "text": "\"I beg your pardon,\"",
+      "para_break": true
     },
     {
       "start": 439.06,
       "end": 440.26,
-      "text": "said Alice very humbly."
+      "text": "said Alice very humbly:"
     },
     {
       "start": 440.32,
       "end": 441.76,
-      "text": "You had got to the fifth bend,"
+      "text": "\"you had got to the fifth bend,"
     },
     {
       "start": 441.92,
       "end": 442.24,
-      "text": "I think."
+      "text": "I think?\""
     },
     {
       "start": 442.74,
       "end": 443.3,
-      "text": "I had not,"
+      "text": "\"I had _not_!\"",
+      "para_break": true
     },
     {
       "start": 443.58,
       "end": 444.89,
-      "text": "cried the mouse angrily."
+      "text": "cried the Mouse, angrily."
     },
     {
       "start": 445.64,
       "end": 445.9,
-      "text": "A not,"
+      "text": "\"A knot!\"",
+      "para_break": true
     },
     {
       "start": 446.1,
@@ -553,73 +565,81 @@
     {
       "start": 451.08,
       "end": 451.28,
-      "text": "Oh,"
+      "text": "\"Oh,"
     },
     {
       "start": 451.34,
       "end": 452.86,
-      "text": "do let me help to undo it."
+      "text": "do let me help to undo it!\""
     },
     {
       "start": 454.14,
       "end": 456.28,
-      "text": "\"'I shall do nothing of the sort,' said the mouse,"
+      "text": "\"I shall do nothing of the sort,\"",
+      "para_break": true
     },
     {
       "start": 456.44,
       "end": 457.68,
-      "text": "getting up and walking away."
+      "text": "said the Mouse, getting up and walking away."
     },
     {
       "start": 458.28,
       "end": 460.49,
-      "text": "\"'You insult me by talking such nonsense.'"
+      "text": "\"You insult me by talking such nonsense!\""
     },
     {
       "start": 461.64,
       "end": 463.48,
-      "text": "\"'I didn't mean it,' pleaded poor Alice."
+      "text": "\"I didn't mean it!\"",
+      "para_break": true
     },
     {
       "start": 463.84,
       "end": 465.02,
-      "text": "\"'But you're so easily offended,"
+      "text": "pleaded poor Alice."
     },
     {
       "start": 465.22,
       "end": 465.85,
-      "text": "you know.'"
+      "text": "\"But you're so easily offended,"
+    },
+    {
+      "start": 465.85,
+      "end": 466.2,
+      "text": "you know!\""
     },
     {
       "start": 466.68,
       "end": 468.82,
-      "text": "The mouse only growled in reply."
+      "text": "The Mouse only growled in reply.",
+      "para_break": true
     },
     {
       "start": 470.432,
       "end": 473.5,
-      "text": "\"'Please come back and finish your story,' Alice called after it,",
+      "text": "\"Please come back and finish your story!\" Alice called after it,",
       "para_break": true
     },
     {
       "start": 473.88,
       "end": 475.68,
-      "text": "and the others all joined in chorus."
+      "text": "and the others all joined in chorus,"
     },
     {
       "start": 476.02,
       "end": 476.16,
-      "text": "\"'Yes,"
+      "text": "\"Yes,"
     },
     {
       "start": 476.18,
       "end": 477.0,
-      "text": "please do!'"
+      "text": "please do!\""
     },
     {
       "start": 477.56,
       "end": 479.06,
-      "text": "But the mouse only shook its head"
+      "text": "but the Mouse only shook its head"
     },
     {
       "start": 479.25,
@@ -629,38 +649,38 @@
     {
       "start": 483.0,
       "end": 484.34,
-      "text": "What a pity it wouldn't stay,",
+      "text": "\"What a pity it wouldn't stay!\"",
       "para_break": true
     },
     {
       "start": 484.74,
       "end": 485.5,
-      "text": "sighed the lorry,"
+      "text": "sighed the Lory,"
     },
     {
       "start": 485.64,
       "end": 487.22,
-      "text": "as soon as it was quite out of sight,"
+      "text": "as soon as it was quite out of sight;"
     },
     {
       "start": 487.34,
       "end": 490.5,
-      "text": "and an old crab took the opportunity of saying to her daughter,"
+      "text": "and an old Crab took the opportunity of saying to her daughter,"
     },
     {
       "start": 490.82,
       "end": 490.92,
-      "text": "Ah,"
+      "text": "\"Ah,"
     },
     {
       "start": 491.48,
       "end": 491.9,
-      "text": "my dear,"
+      "text": "my dear!"
     },
     {
       "start": 492.08,
       "end": 495.2,
-      "text": "let this be a lesson to you never to lose your temper."
+      "text": "Let this be a lesson to you never to lose _your_ temper!\""
     }
   ]
 }
