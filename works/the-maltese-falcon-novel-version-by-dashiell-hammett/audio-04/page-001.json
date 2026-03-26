@@ -1,0 +1,717 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-04",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_04_hammett.mp3",
+  "chapter_title": "The Black Bird",
+  "reader_name": "NLizer",
+  "page_num": 1,
+  "page_total": 7,
+  "page_start_sec": 0.992,
+  "page_end_sec": 241.16,
+  "para_gap_threshold": 0.657,
+  "segments": [
+    {
+      "start": 0.992,
+      "end": 4.34,
+      "text": "Chapter 4 of The Maltese Falcon by Dashiell Hammett."
+    },
+    {
+      "start": 5.2,
+      "end": 7.22,
+      "text": "This LibriVox recording is in the public domain.",
+      "para_break": true
+    },
+    {
+      "start": 8.42,
+      "end": 9.04,
+      "text": "The Blackbird",
+      "para_break": true
+    },
+    {
+      "start": 10.2,
+      "end": 10.88,
+      "text": "Miss Wonderly,",
+      "para_break": true
+    },
+    {
+      "start": 10.9,
+      "end": 12.84,
+      "text": "in a belted green crepe silk dress,"
+    },
+    {
+      "start": 13.06,
+      "end": 16.9,
+      "text": "opened the door of Apartment 1001 at the Coronet."
+    },
+    {
+      "start": 17.48,
+      "end": 18.84,
+      "text": "Her face was flushed."
+    },
+    {
+      "start": 19.28,
+      "end": 21.8,
+      "text": "Her dark red hair parted on the left side,"
+    },
+    {
+      "start": 21.96,
+      "end": 24.78,
+      "text": "swept back in loose waves over her right temple,"
+    },
+    {
+      "start": 25.46,
+      "end": 26.42,
+      "text": "was somewhat tousled.",
+      "para_break": true
+    },
+    {
+      "start": 27.904,
+      "end": 29.34,
+      "text": "Spade took off his hat and said,",
+      "para_break": true
+    },
+    {
+      "start": 29.76,
+      "end": 30.32,
+      "text": "Good morning."
+    },
+    {
+      "start": 31.58,
+      "end": 33.72,
+      "text": "His smile brought a fainter smile to her face.",
+      "para_break": true
+    },
+    {
+      "start": 34.46,
+      "end": 34.96,
+      "text": "Her eyes,",
+      "para_break": true
+    },
+    {
+      "start": 35.08,
+      "end": 36.56,
+      "text": "of blue that was almost violet,"
+    },
+    {
+      "start": 37.12,
+      "end": 38.5,
+      "text": "did not lose their troubled look."
+    },
+    {
+      "start": 39.38,
+      "end": 41.38,
+      "text": "She lowered her head and said in a hushed,",
+      "para_break": true
+    },
+    {
+      "start": 41.38,
+      "end": 42.06,
+      "text": "timid voice,"
+    },
+    {
+      "start": 43.14,
+      "end": 43.44,
+      "text": "Come in,",
+      "para_break": true
+    },
+    {
+      "start": 43.48,
+      "end": 43.68,
+      "text": "Mr."
+    },
+    {
+      "start": 43.78,
+      "end": 44.14,
+      "text": "Spade."
+    },
+    {
+      "start": 45.5,
+      "end": 46.88,
+      "text": "She led him past open kitchen,",
+      "para_break": true
+    },
+    {
+      "start": 47.08,
+      "end": 47.72,
+      "text": "bathroom,"
+    },
+    {
+      "start": 47.82,
+      "end": 48.62,
+      "text": "and bedroom doors"
+    },
+    {
+      "start": 48.88,
+      "end": 50.96,
+      "text": "into a cream and red living room,"
+    },
+    {
+      "start": 51.36,
+      "end": 52.98,
+      "text": "apologizing for its confusion."
+    },
+    {
+      "start": 54.32,
+      "end": 55.48,
+      "text": "Everything is upside down.",
+      "para_break": true
+    },
+    {
+      "start": 55.7,
+      "end": 57.5,
+      "text": "I haven't even finished unpacking."
+    },
+    {
+      "start": 58.62,
+      "end": 62.06,
+      "text": "She laid his hat on a table and sat down on a walnut settee.",
+      "para_break": true
+    },
+    {
+      "start": 62.78,
+      "end": 66.06,
+      "text": "He sat on a brocaded oval-backed chair facing her.",
+      "para_break": true
+    },
+    {
+      "start": 67.0,
+      "end": 67.9,
+      "text": "She looked at her fingers,",
+      "para_break": true
+    },
+    {
+      "start": 68.14,
+      "end": 69.24,
+      "text": "working them together,"
+    },
+    {
+      "start": 69.28,
+      "end": 69.76,
+      "text": "and said,"
+    },
+    {
+      "start": 70.26,
+      "end": 70.9,
+      "text": "Mr."
+    },
+    {
+      "start": 71.0,
+      "end": 71.38,
+      "text": "Spade,"
+    },
+    {
+      "start": 71.6,
+      "end": 72.76,
+      "text": "I've a terrible,"
+    },
+    {
+      "start": 72.92,
+      "end": 74.52,
+      "text": "terrible confession to make."
+    },
+    {
+      "start": 75.584,
+      "end": 76.96,
+      "text": "Spade smiled a polite smile,",
+      "para_break": true
+    },
+    {
+      "start": 77.18,
+      "end": 79.2,
+      "text": "which she did not lift her eyes to see,"
+    },
+    {
+      "start": 79.74,
+      "end": 80.3,
+      "text": "and said nothing."
+    },
+    {
+      "start": 81.72,
+      "end": 86.06,
+      "text": "That story I told you yesterday was all a story,",
+      "para_break": true
+    },
+    {
+      "start": 86.6,
+      "end": 87.32,
+      "text": "she stammered,"
+    },
+    {
+      "start": 87.6,
+      "end": 89.37,
+      "text": "and looked up at him now with miserable,"
+    },
+    {
+      "start": 89.72,
+      "end": 90.52,
+      "text": "frightened eyes."
+    },
+    {
+      "start": 91.48,
+      "end": 91.62,
+      "text": "Oh,",
+      "para_break": true
+    },
+    {
+      "start": 91.72,
+      "end": 92.02,
+      "text": "that,"
+    },
+    {
+      "start": 92.608,
+      "end": 93.44,
+      "text": "Spade said lightly."
+    },
+    {
+      "start": 94.02,
+      "end": 96.14,
+      "text": "We didn't exactly believe your story."
+    },
+    {
+      "start": 97.472,
+      "end": 102.28,
+      "text": "Then perplexity was added to the misery and frightened her eyes.",
+      "para_break": true
+    },
+    {
+      "start": 103.42,
+      "end": 104.54,
+      "text": "We believed you were $200.",
+      "para_break": true
+    },
+    {
+      "start": 106.08,
+      "end": 106.74,
+      "text": "You mean...",
+      "para_break": true
+    },
+    {
+      "start": 107.58,
+      "end": 109.22,
+      "text": "She seemed to not know what he meant.",
+      "para_break": true
+    },
+    {
+      "start": 109.76,
+      "end": 113.5,
+      "text": "I mean that you paid us more than if you'd been telling the truth,"
+    },
+    {
+      "start": 113.7,
+      "end": 114.92,
+      "text": "he explained blandly,"
+    },
+    {
+      "start": 115.32,
+      "end": 117.02,
+      "text": "and enough more to make it all right."
+    },
+    {
+      "start": 117.3,
+      "end": 119.68,
+      "text": "Her eyes suddenly lighted up."
+    },
+    {
+      "start": 120.3,
+      "end": 121.4,
+      "text": "She lifted herself a few"
+    },
+    {
+      "start": 121.48,
+      "end": 122.5,
+      "text": "inches from the settee,"
+    },
+    {
+      "start": 122.64,
+      "end": 123.96,
+      "text": "settled down again,"
+    },
+    {
+      "start": 124.18,
+      "end": 125.28,
+      "text": "smoothed her skirt,"
+    },
+    {
+      "start": 126.04,
+      "end": 127.04,
+      "text": "leaned forward and spoke",
+      "para_break": true
+    },
+    {
+      "start": 127.24,
+      "end": 127.82,
+      "text": "eagerly."
+    },
+    {
+      "start": 128.64,
+      "end": 130.62,
+      "text": "And even now you'd be willing to?",
+      "para_break": true
+    },
+    {
+      "start": 131.776,
+      "end": 134.64,
+      "text": "Spade stopped her with a palm-up motion of one hand.",
+      "para_break": true
+    },
+    {
+      "start": 135.16,
+      "end": 137.18,
+      "text": "The upper part of his face frowned."
+    },
+    {
+      "start": 137.18,
+      "end": 138.38,
+      "text": "The lower part smiled."
+    },
+    {
+      "start": 139.44,
+      "end": 139.84,
+      "text": "That depends,",
+      "para_break": true
+    },
+    {
+      "start": 140.22,
+      "end": 140.76,
+      "text": "he said."
+    },
+    {
+      "start": 141.86,
+      "end": 142.66,
+      "text": "The hell of it is,",
+      "para_break": true
+    },
+    {
+      "start": 142.9,
+      "end": 143.06,
+      "text": "miss."
+    },
+    {
+      "start": 144.3,
+      "end": 145.9,
+      "text": "Is your name Wonderly or LeBlanc?",
+      "para_break": true
+    },
+    {
+      "start": 147.06,
+      "end": 148.16,
+      "text": "She blushed and murmured.",
+      "para_break": true
+    },
+    {
+      "start": 148.32,
+      "end": 149.87,
+      "text": "It's really O'Shaughnessy."
+    },
+    {
+      "start": 150.72,
+      "end": 151.96,
+      "text": "Brigid O'Shaughnessy.",
+      "para_break": true
+    },
+    {
+      "start": 153.18,
+      "end": 153.98,
+      "text": "The hell of it is,",
+      "para_break": true
+    },
+    {
+      "start": 154.02,
+      "end": 155.16,
+      "text": "miss O'Shaughnessy,"
+    },
+    {
+      "start": 155.16,
+      "end": 156.46,
+      "text": "that a couple of murders,"
+    },
+    {
+      "start": 157.38,
+      "end": 157.98,
+      "text": "she winced.",
+      "para_break": true
+    },
+    {
+      "start": 158.14,
+      "end": 159.88,
+      "text": "Coming together like this,"
+    },
+    {
+      "start": 159.92,
+      "end": 161.16,
+      "text": "get everybody stirred up."
+    },
+    {
+      "start": 161.28,
+      "end": 162.48,
+      "text": "Make the police think"
+    },
+    {
+      "start": 162.64,
+      "end": 163.54,
+      "text": "they can go the limit,"
+    },
+    {
+      "start": 164.18,
+      "end": 166.04,
+      "text": "make everybody hard to handle and expensive."
+    },
+    {
+      "start": 166.58,
+      "end": 167.64,
+      "text": "It's not."
+    },
+    {
+      "start": 167.8,
+      "end": 169.58,
+      "text": "He stopped talking"
+    },
+    {
+      "start": 169.72,
+      "end": 173.18,
+      "text": "because she had stopped listening and was waiting for him to finish."
+    },
+    {
+      "start": 173.98,
+      "end": 174.68,
+      "text": "Mr.",
+      "para_break": true
+    },
+    {
+      "start": 174.84,
+      "end": 175.12,
+      "text": "Spade,"
+    },
+    {
+      "start": 175.2,
+      "end": 175.94,
+      "text": "tell me the truth."
+    },
+    {
+      "start": 176.4,
+      "end": 178.6,
+      "text": "Her voice quivered on the verge of hysteria."
+    },
+    {
+      "start": 178.76,
+      "end": 181.92,
+      "text": "Her face had become haggard around desperate eyes."
+    },
+    {
+      "start": 183.14,
+      "end": 184.12,
+      "text": "Am I to blame for,",
+      "para_break": true
+    },
+    {
+      "start": 184.24,
+      "end": 185.62,
+      "text": "for last night?"
+    },
+    {
+      "start": 186.88,
+      "end": 187.76,
+      "text": "Spade shook his head.",
+      "para_break": true
+    },
+    {
+      "start": 188.74,
+      "end": 190.14,
+      "text": "Not unless there are things I don't",
+      "para_break": true
+    },
+    {
+      "start": 190.24,
+      "end": 190.54,
+      "text": "know about,"
+    },
+    {
+      "start": 190.8,
+      "end": 191.26,
+      "text": "he said."
+    },
+    {
+      "start": 191.59,
+      "end": 194.14,
+      "text": "You warned us that Thursby was dangerous."
+    },
+    {
+      "start": 195.1,
+      "end": 196.32,
+      "text": "Of course you lied to us about",
+      "para_break": true
+    },
+    {
+      "start": 196.32,
+      "end": 197.2,
+      "text": "your sister and all,"
+    },
+    {
+      "start": 197.44,
+      "end": 198.28,
+      "text": "but that doesn't count."
+    },
+    {
+      "start": 198.92,
+      "end": 199.76,
+      "text": "We didn't believe you."
+    },
+    {
+      "start": 200.02,
+      "end": 201.64,
+      "text": "He shrugged his sloping"
+    },
+    {
+      "start": 201.7,
+      "end": 201.92,
+      "text": "shoulders."
+    },
+    {
+      "start": 202.94,
+      "end": 204.26,
+      "text": "I wouldn't say it was your fault.",
+      "para_break": true
+    },
+    {
+      "start": 205.42,
+      "end": 205.84,
+      "text": "She said,",
+      "para_break": true
+    },
+    {
+      "start": 205.98,
+      "end": 206.74,
+      "text": "thank you,"
+    },
+    {
+      "start": 206.84,
+      "end": 207.86,
+      "text": "very softly,"
+    },
+    {
+      "start": 208.08,
+      "end": 209.08,
+      "text": "and then moved her"
+    },
+    {
+      "start": 209.08,
+      "end": 210.38,
+      "text": "head from side to side."
+    },
+    {
+      "start": 211.34,
+      "end": 212.76,
+      "text": "But I'll always blame myself.",
+      "para_break": true
+    },
+    {
+      "start": 213.98,
+      "end": 215.16,
+      "text": "She put a hand to her throat.",
+      "para_break": true
+    },
+    {
+      "start": 215.46,
+      "end": 216.32,
+      "text": "Mr."
+    },
+    {
+      "start": 216.38,
+      "end": 216.66,
+      "text": "Archer"
+    },
+    {
+      "start": 216.82,
+      "end": 217.3,
+      "text": "was so,"
+    },
+    {
+      "start": 217.44,
+      "end": 219.8,
+      "text": "so alive yesterday afternoon,"
+    },
+    {
+      "start": 220.72,
+      "end": 222.32,
+      "text": "so solid and hearty and...",
+      "para_break": true
+    },
+    {
+      "start": 222.74,
+      "end": 223.76,
+      "text": "Stop it,"
+    },
+    {
+      "start": 224.224,
+      "end": 224.78,
+      "text": "Spade commanded."
+    },
+    {
+      "start": 225.14,
+      "end": 225.88,
+      "text": "He knew"
+    },
+    {
+      "start": 225.88,
+      "end": 226.72,
+      "text": "what he was doing."
+    },
+    {
+      "start": 227.78,
+      "end": 228.96,
+      "text": "There are the chances we take.",
+      "para_break": true
+    },
+    {
+      "start": 229.68,
+      "end": 230.38,
+      "text": "Was,",
+      "para_break": true
+    },
+    {
+      "start": 231.14,
+      "end": 231.73,
+      "text": "was he married?",
+      "para_break": true
+    },
+    {
+      "start": 232.02,
+      "end": 232.12,
+      "text": "Yes,"
+    },
+    {
+      "start": 233.84,
+      "end": 234.88,
+      "text": "with 10,000 insurance,",
+      "para_break": true
+    },
+    {
+      "start": 235.42,
+      "end": 236.0,
+      "text": "no children,"
+    },
+    {
+      "start": 236.12,
+      "end": 237.68,
+      "text": "and a wife who didn't like him."
+    },
+    {
+      "start": 238.36,
+      "end": 239.1,
+      "text": "Oh,",
+      "para_break": true
+    },
+    {
+      "start": 239.18,
+      "end": 240.2,
+      "text": "please don't,"
+    },
+    {
+      "start": 240.2,
+      "end": 241.16,
+      "text": "she whispered."
+    }
+  ]
+}

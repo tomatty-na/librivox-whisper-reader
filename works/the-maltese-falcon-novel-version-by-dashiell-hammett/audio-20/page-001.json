@@ -1,0 +1,689 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-20",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_20_hammett.mp3",
+  "chapter_title": "If They Hang You",
+  "reader_name": "NLizer",
+  "page_num": 1,
+  "page_total": 6,
+  "page_start_sec": 0.736,
+  "page_end_sec": 242.08,
+  "para_gap_threshold": 0.529,
+  "segments": [
+    {
+      "start": 0.736,
+      "end": 4.0,
+      "text": "CHAPTER XX OF THE MALTESE FALCON BY DASHELL HAMMET"
+    },
+    {
+      "start": 4.7,
+      "end": 7.06,
+      "text": "This LibriVox recording is in the public domain.",
+      "para_break": true
+    },
+    {
+      "start": 8.12,
+      "end": 9.0,
+      "text": "IF THEY HANG YOU",
+      "para_break": true
+    },
+    {
+      "start": 10.22,
+      "end": 12.4,
+      "text": "For all of five minutes after the outer door",
+      "para_break": true
+    },
+    {
+      "start": 12.4,
+      "end": 15.0,
+      "text": "had closed behind Caspar Gutman and Joel Cairo,"
+    },
+    {
+      "start": 15.38,
+      "end": 15.98,
+      "text": "Spade,"
+    },
+    {
+      "start": 16.02,
+      "end": 16.8,
+      "text": "motionless,"
+    },
+    {
+      "start": 16.96,
+      "end": 20.22,
+      "text": "stood staring at the knob of the open living-room door."
+    },
+    {
+      "start": 21.18,
+      "end": 23.8,
+      "text": "His eyes were gloomy under a forehead drawn down.",
+      "para_break": true
+    },
+    {
+      "start": 24.72,
+      "end": 27.5,
+      "text": "The clefts at the root of his nose were deep and red.",
+      "para_break": true
+    },
+    {
+      "start": 28.18,
+      "end": 29.96,
+      "text": "His lips protruded loosely,",
+      "para_break": true
+    },
+    {
+      "start": 30.26,
+      "end": 30.66,
+      "text": "pouting."
+    },
+    {
+      "start": 31.16,
+      "end": 35.38,
+      "text": "He drew them in to make a hard V and went to the telephone."
+    },
+    {
+      "start": 35.95,
+      "end": 38.33,
+      "text": "He had not looked at Bridget O'Shaughnessy,",
+      "para_break": true
+    },
+    {
+      "start": 38.62,
+      "end": 41.66,
+      "text": "who stood by the table looking with uneasy eyes at him."
+    },
+    {
+      "start": 42.5,
+      "end": 43.44,
+      "text": "He picked up the telephone,",
+      "para_break": true
+    },
+    {
+      "start": 43.68,
+      "end": 45.24,
+      "text": "set it on its shelf again,"
+    },
+    {
+      "start": 45.84,
+      "end": 47.34,
+      "text": "and bent to look into the telephone",
+      "para_break": true
+    },
+    {
+      "start": 47.34,
+      "end": 49.74,
+      "text": "directory hanging from a corner of the shelf."
+    },
+    {
+      "start": 50.78,
+      "end": 53.64,
+      "text": "He turned the pages rapidly until he found the one he wanted,",
+      "para_break": true
+    },
+    {
+      "start": 54.12,
+      "end": 55.54,
+      "text": "ran his finger down a column,"
+    },
+    {
+      "start": 55.68,
+      "end": 56.62,
+      "text": "straightened up,"
+    },
+    {
+      "start": 56.9,
+      "end": 58.88,
+      "text": "and lifted the telephone from the shelf again."
+    },
+    {
+      "start": 59.2,
+      "end": 60.9,
+      "text": "He called a number and said,"
+    },
+    {
+      "start": 61.66,
+      "end": 61.9,
+      "text": "Hello,",
+      "para_break": true
+    },
+    {
+      "start": 62.46,
+      "end": 63.78,
+      "text": "is Sergeant Polhas there?",
+      "para_break": true
+    },
+    {
+      "start": 64.78,
+      "end": 65.46,
+      "text": "Will you call him,",
+      "para_break": true
+    },
+    {
+      "start": 65.54,
+      "end": 65.78,
+      "text": "please?"
+    },
+    {
+      "start": 66.64,
+      "end": 67.9,
+      "text": "This is Samuel Spade.",
+      "para_break": true
+    },
+    {
+      "start": 68.42,
+      "end": 69.96,
+      "text": "He stared into space,"
+    },
+    {
+      "start": 70.04,
+      "end": 70.42,
+      "text": "waiting."
+    },
+    {
+      "start": 70.72,
+      "end": 71.52,
+      "text": "Hello,"
+    },
+    {
+      "start": 71.6,
+      "end": 71.88,
+      "text": "Tom."
+    },
+    {
+      "start": 72.16,
+      "end": 74.04,
+      "text": "I've got something for you."
+    },
+    {
+      "start": 74.28,
+      "end": 74.38,
+      "text": "Yes,"
+    },
+    {
+      "start": 75.28,
+      "end": 75.66,
+      "text": "plenty.",
+      "para_break": true
+    },
+    {
+      "start": 76.58,
+      "end": 77.14,
+      "text": "Here it is.",
+      "para_break": true
+    },
+    {
+      "start": 77.952,
+      "end": 80.74,
+      "text": "Thursby and Jacoby were shot by a kid named Wilmer Cook.",
+      "para_break": true
+    },
+    {
+      "start": 80.98,
+      "end": 82.96,
+      "text": "He described the boy minutely."
+    },
+    {
+      "start": 83.76,
+      "end": 85.72,
+      "text": "He's working for a man named Casper Gutman.",
+      "para_break": true
+    },
+    {
+      "start": 86.14,
+      "end": 87.44,
+      "text": "He described Gutman."
+    },
+    {
+      "start": 88.36,
+      "end": 90.96,
+      "text": "That fellow Cairo you met here is in with them too.",
+      "para_break": true
+    },
+    {
+      "start": 91.58,
+      "end": 91.9,
+      "text": "Yes,",
+      "para_break": true
+    },
+    {
+      "start": 92.0,
+      "end": 92.58,
+      "text": "that's it."
+    },
+    {
+      "start": 93.536,
+      "end": 95.02,
+      "text": "Gutman's staying at the Alexandria,",
+      "para_break": true
+    },
+    {
+      "start": 95.46,
+      "end": 96.26,
+      "text": "Sweet 12C,"
+    },
+    {
+      "start": 96.42,
+      "end": 96.96,
+      "text": "or was."
+    },
+    {
+      "start": 98.14,
+      "end": 100.06,
+      "text": "They've just left here and they're blowing town,",
+      "para_break": true
+    },
+    {
+      "start": 100.52,
+      "end": 101.73,
+      "text": "so you'll have to move fast."
+    },
+    {
+      "start": 102.42,
+      "end": 104.2,
+      "text": "But I don't think they're expecting a pinch.",
+      "para_break": true
+    },
+    {
+      "start": 105.152,
+      "end": 106.12,
+      "text": "There's a girl in it too,",
+      "para_break": true
+    },
+    {
+      "start": 106.3,
+      "end": 107.16,
+      "text": "Gutman's daughter."
+    },
+    {
+      "start": 107.98,
+      "end": 109.22,
+      "text": "He described Raya Gutman.",
+      "para_break": true
+    },
+    {
+      "start": 110.06,
+      "end": 111.84,
+      "text": "Watch yourself when you go up against the kid.",
+      "para_break": true
+    },
+    {
+      "start": 112.6,
+      "end": 114.26,
+      "text": "He's supposed to be pretty good with the gun.",
+      "para_break": true
+    },
+    {
+      "start": 115.04,
+      "end": 115.34,
+      "text": "That's right,",
+      "para_break": true
+    },
+    {
+      "start": 115.36,
+      "end": 115.6,
+      "text": "Tom,"
+    },
+    {
+      "start": 115.8,
+      "end": 117.58,
+      "text": "and I've got some stuff here for you."
+    },
+    {
+      "start": 117.98,
+      "end": 119.8,
+      "text": "I think I've got the guns he used."
+    },
+    {
+      "start": 120.384,
+      "end": 120.7,
+      "text": "That's right.",
+      "para_break": true
+    },
+    {
+      "start": 120.8,
+      "end": 121.84,
+      "text": "Step on it,"
+    },
+    {
+      "start": 121.88,
+      "end": 122.98,
+      "text": "and luck to you."
+    },
+    {
+      "start": 124.096,
+      "end": 126.56,
+      "text": "Spade slowly replaced receiver on prong,",
+      "para_break": true
+    },
+    {
+      "start": 126.64,
+      "end": 127.68,
+      "text": "telephone on shelf."
+    },
+    {
+      "start": 128.22,
+      "end": 130.84,
+      "text": "He wet his lips and looked down at his hands.",
+      "para_break": true
+    },
+    {
+      "start": 131.28,
+      "end": 132.38,
+      "text": "Their palms were wet."
+    },
+    {
+      "start": 133.34,
+      "end": 134.74,
+      "text": "He filled his deep chest with air.",
+      "para_break": true
+    },
+    {
+      "start": 135.24,
+      "end": 137.72,
+      "text": "His eyes were glittering between straightened lids."
+    },
+    {
+      "start": 138.48,
+      "end": 139.74,
+      "text": "He turned and took three long,",
+      "para_break": true
+    },
+    {
+      "start": 139.76,
+      "end": 141.4,
+      "text": "swift steps into the living room."
+    },
+    {
+      "start": 142.46,
+      "end": 143.28,
+      "text": "Bridget O'Shaughnessy,",
+      "para_break": true
+    },
+    {
+      "start": 143.34,
+      "end": 145.1,
+      "text": "startled by the suddenness of his approach,"
+    },
+    {
+      "start": 145.34,
+      "end": 148.58,
+      "text": "let her breath out in a little laughing gasp."
+    },
+    {
+      "start": 149.16,
+      "end": 149.66,
+      "text": "Spade,",
+      "para_break": true
+    },
+    {
+      "start": 149.66,
+      "end": 150.56,
+      "text": "face to face with her,"
+    },
+    {
+      "start": 150.6,
+      "end": 151.48,
+      "text": "very close to her,"
+    },
+    {
+      "start": 151.58,
+      "end": 152.0,
+      "text": "tall,"
+    },
+    {
+      "start": 152.18,
+      "end": 153.56,
+      "text": "big-boned and thick-muscled,"
+    },
+    {
+      "start": 153.72,
+      "end": 154.74,
+      "text": "coldly smiling,"
+    },
+    {
+      "start": 155.16,
+      "end": 156.78,
+      "text": "heart of jaw and eyes,"
+    },
+    {
+      "start": 156.82,
+      "end": 157.2,
+      "text": "said,"
+    },
+    {
+      "start": 157.98,
+      "end": 160.32,
+      "text": "They'll talk when they're nailed about us.",
+      "para_break": true
+    },
+    {
+      "start": 161.46,
+      "end": 163.16,
+      "text": "We're sitting on dynamite and we've only",
+      "para_break": true
+    },
+    {
+      "start": 163.16,
+      "end": 165.08,
+      "text": "got minutes to get set for the police."
+    },
+    {
+      "start": 166.0,
+      "end": 166.78,
+      "text": "Give me all of it,",
+      "para_break": true
+    },
+    {
+      "start": 166.82,
+      "end": 167.27,
+      "text": "fast."
+    },
+    {
+      "start": 168.416,
+      "end": 170.48,
+      "text": "Gutman sent you and Cairo to Constantinople?",
+      "para_break": true
+    },
+    {
+      "start": 170.89,
+      "end": 174.5,
+      "text": "she started to speak hesitated and bit her lip"
+    },
+    {
+      "start": 174.91,
+      "end": 178.26,
+      "text": "he put a hand on her shoulder god damn you talk"
+    },
+    {
+      "start": 178.68,
+      "end": 181.66,
+      "text": "he said i'm in this with you and you're not going"
+    },
+    {
+      "start": 181.66,
+      "end": 185.38,
+      "text": "to gum it talk he sent you to constantinople"
+    },
+    {
+      "start": 186.48,
+      "end": 190.16,
+      "text": "yeah yes he sent me i met joe there and",
+      "para_break": true
+    },
+    {
+      "start": 190.3,
+      "end": 193.27,
+      "text": "and asked him to help me then we wait"
+    },
+    {
+      "start": 194.5,
+      "end": 195.48,
+      "text": "you asked cairo to",
+      "para_break": true
+    },
+    {
+      "start": 195.6,
+      "end": 197.17,
+      "text": "help you get it from Kimidoff?"
+    },
+    {
+      "start": 197.52,
+      "end": 197.62,
+      "text": "Yes,"
+    },
+    {
+      "start": 198.58,
+      "end": 199.56,
+      "text": "for Gutman.",
+      "para_break": true
+    },
+    {
+      "start": 200.7,
+      "end": 201.68,
+      "text": "She hesitated again,",
+      "para_break": true
+    },
+    {
+      "start": 201.94,
+      "end": 203.3,
+      "text": "squirmed under the hard,"
+    },
+    {
+      "start": 203.5,
+      "end": 204.64,
+      "text": "angry glare of his eyes,"
+    },
+    {
+      "start": 204.72,
+      "end": 205.56,
+      "text": "swallowed and said,"
+    },
+    {
+      "start": 205.76,
+      "end": 206.46,
+      "text": "no,"
+    },
+    {
+      "start": 206.6,
+      "end": 207.26,
+      "text": "not then."
+    },
+    {
+      "start": 207.94,
+      "end": 209.88,
+      "text": "We thought we would get it for ourselves.",
+      "para_break": true
+    },
+    {
+      "start": 211.06,
+      "end": 211.42,
+      "text": "All right,",
+      "para_break": true
+    },
+    {
+      "start": 211.64,
+      "end": 211.744,
+      "text": "then?"
+    },
+    {
+      "start": 212.84,
+      "end": 212.94,
+      "text": "Oh,",
+      "para_break": true
+    },
+    {
+      "start": 213.9,
+      "end": 217.18,
+      "text": "then I began to be afraid that Joe wouldn't play fair with me,",
+      "para_break": true
+    },
+    {
+      "start": 217.24,
+      "end": 217.4,
+      "text": "so,"
+    },
+    {
+      "start": 217.64,
+      "end": 219.9,
+      "text": "so I asked Floyd Thursby to help me."
+    },
+    {
+      "start": 220.8,
+      "end": 221.34,
+      "text": "And he did?",
+      "para_break": true
+    },
+    {
+      "start": 221.58,
+      "end": 221.68,
+      "text": "Well?"
+    },
+    {
+      "start": 223.11,
+      "end": 223.66,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 223.72,
+      "end": 225.48,
+      "text": "we got it and went to Hong Kong"
+    },
+    {
+      "start": 226.3,
+      "end": 226.82,
+      "text": "with Kyra.",
+      "para_break": true
+    },
+    {
+      "start": 227.14,
+      "end": 229.46,
+      "text": "Or had you ditched him before that?"
+    },
+    {
+      "start": 230.1,
+      "end": 230.64,
+      "text": "Yes.",
+      "para_break": true
+    },
+    {
+      "start": 231.24,
+      "end": 232.76,
+      "text": "We left him in Constantinople,"
+    },
+    {
+      "start": 233.2,
+      "end": 233.58,
+      "text": "in jail,"
+    },
+    {
+      "start": 234.0,
+      "end": 234.88,
+      "text": "something about a check?"
+    },
+    {
+      "start": 236.12,
+      "end": 237.8,
+      "text": "Something you fixed up to hold him there?",
+      "para_break": true
+    },
+    {
+      "start": 238.78,
+      "end": 240.3,
+      "text": "She looked shamefacedly at",
+      "para_break": true
+    },
+    {
+      "start": 240.4,
+      "end": 241.6,
+      "text": "Spade and whispered,"
+    },
+    {
+      "start": 241.6,
+      "end": 242.08,
+      "text": "yes."
+    }
+  ]
+}

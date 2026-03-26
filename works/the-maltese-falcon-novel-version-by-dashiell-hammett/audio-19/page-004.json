@@ -1,0 +1,713 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-19",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_19_hammett.mp3",
+  "chapter_title": "The Russian's Hand",
+  "reader_name": "NLizer",
+  "page_num": 4,
+  "page_total": 10,
+  "page_start_sec": 753.16,
+  "page_end_sec": 993.72,
+  "para_gap_threshold": 0.559,
+  "segments": [
+    {
+      "start": 753.16,
+      "end": 756.14,
+      "text": "That was a difficult situation to handle but Wilmer did",
+      "para_break": true
+    },
+    {
+      "start": 756.32,
+      "end": 757.82,
+      "text": "every bit as well as he could."
+    },
+    {
+      "start": 758.02,
+      "end": 760.3,
+      "text": "He shot Jacoby more than once,"
+    },
+    {
+      "start": 760.46,
+      "end": 762.64,
+      "text": "but Jacoby was too tough to either fall"
+    },
+    {
+      "start": 762.64,
+      "end": 763.58,
+      "text": "or drop the falcon,"
+    },
+    {
+      "start": 763.72,
+      "end": 766.68,
+      "text": "and he was too close for Wilmer to keep out of his way."
+    },
+    {
+      "start": 767.54,
+      "end": 768.68,
+      "text": "He knocked Wilmer down and",
+      "para_break": true
+    },
+    {
+      "start": 768.68,
+      "end": 769.22,
+      "text": "ran on,"
+    },
+    {
+      "start": 769.9,
+      "end": 771.1,
+      "text": "and this was in broad daylight,",
+      "para_break": true
+    },
+    {
+      "start": 771.28,
+      "end": 771.82,
+      "text": "you understand,"
+    },
+    {
+      "start": 772.12,
+      "end": 772.82,
+      "text": "in the afternoon."
+    },
+    {
+      "start": 773.82,
+      "end": 774.78,
+      "text": "When Wilmer got up,",
+      "para_break": true
+    },
+    {
+      "start": 775.0,
+      "end": 777.46,
+      "text": "he could see a policeman coming up from the block below,"
+    },
+    {
+      "start": 778.22,
+      "end": 779.38,
+      "text": "so he had to give it up.",
+      "para_break": true
+    },
+    {
+      "start": 779.58,
+      "end": 781.1,
+      "text": "He dodged into the"
+    },
+    {
+      "start": 781.26,
+      "end": 783.44,
+      "text": "open back door of the building next the coronet,"
+    },
+    {
+      "start": 783.58,
+      "end": 784.94,
+      "text": "through into the street,"
+    },
+    {
+      "start": 785.1,
+      "end": 786.36,
+      "text": "and then up to join us,"
+    },
+    {
+      "start": 786.74,
+      "end": 788.38,
+      "text": "and very fortunate he was,"
+    },
+    {
+      "start": 788.42,
+      "end": 788.62,
+      "text": "sir,"
+    },
+    {
+      "start": 788.76,
+      "end": 790.22,
+      "text": "to make it without being seen."
+    },
+    {
+      "start": 790.56,
+      "end": 791.42,
+      "text": "Well,"
+    },
+    {
+      "start": 791.48,
+      "end": 791.68,
+      "text": "sir,"
+    },
+    {
+      "start": 791.84,
+      "end": 792.62,
+      "text": "there we were,"
+    },
+    {
+      "start": 792.82,
+      "end": 793.36,
+      "text": "stumped"
+    },
+    {
+      "start": 793.38,
+      "end": 793.52,
+      "text": "again."
+    },
+    {
+      "start": 794.62,
+      "end": 796.66,
+      "text": "Miss O'Shaughnessy had opened the door for",
+      "para_break": true
+    },
+    {
+      "start": 796.66,
+      "end": 796.82,
+      "text": "Mr."
+    },
+    {
+      "start": 796.98,
+      "end": 799.52,
+      "text": "Cairo and me after she had shut the window"
+    },
+    {
+      "start": 799.62,
+      "end": 801.1,
+      "text": "behind Jacoby and she..."
+    },
+    {
+      "start": 801.1,
+      "end": 803.78,
+      "text": "He broke off to smile at a memory."
+    },
+    {
+      "start": 804.06,
+      "end": 805.3,
+      "text": "We persuaded,"
+    },
+    {
+      "start": 805.94,
+      "end": 806.58,
+      "text": "that is the word,",
+      "para_break": true
+    },
+    {
+      "start": 806.66,
+      "end": 806.86,
+      "text": "sir,"
+    },
+    {
+      "start": 807.16,
+      "end": 811.22,
+      "text": "her to tell us that she had told Jacoby to take the falcon to you."
+    },
+    {
+      "start": 812.12,
+      "end": 813.46,
+      "text": "It seemed very unlikely that",
+      "para_break": true
+    },
+    {
+      "start": 813.46,
+      "end": 814.74,
+      "text": "he lived to go that far,"
+    },
+    {
+      "start": 814.92,
+      "end": 816.86,
+      "text": "even if the police didn't pick him up,"
+    },
+    {
+      "start": 817.32,
+      "end": 818.9,
+      "text": "but that was the only chance we had,"
+    },
+    {
+      "start": 819.04,
+      "end": 819.22,
+      "text": "sir,"
+    },
+    {
+      "start": 820.02,
+      "end": 821.94,
+      "text": "and so once more we persuaded Miss",
+      "para_break": true
+    },
+    {
+      "start": 822.18,
+      "end": 824.12,
+      "text": "O'Shaughnessy to give us a little assistance."
+    },
+    {
+      "start": 825.12,
+      "end": 825.42,
+      "text": "We,",
+      "para_break": true
+    },
+    {
+      "start": 825.48,
+      "end": 825.9,
+      "text": "well,"
+    },
+    {
+      "start": 826.1,
+      "end": 828.7,
+      "text": "persuaded her to phone your office in an attempt"
+    },
+    {
+      "start": 828.7,
+      "end": 830.94,
+      "text": "to draw you away before Jacoby got there,"
+    },
+    {
+      "start": 831.22,
+      "end": 832.94,
+      "text": "and we sent Wilmer after him."
+    },
+    {
+      "start": 833.24,
+      "end": 834.28,
+      "text": "Unfortunately,"
+    },
+    {
+      "start": 834.68,
+      "end": 837.68,
+      "text": "it had taken us too long to decide and to persuade"
+    },
+    {
+      "start": 837.8,
+      "end": 838.0,
+      "text": "Mr."
+    },
+    {
+      "start": 838.02,
+      "end": 838.96,
+      "text": "Shaughnessy to..."
+    },
+    {
+      "start": 839.3,
+      "end": 842.62,
+      "text": "The boy on the sofa groaned and rolled over on his side."
+    },
+    {
+      "start": 843.42,
+      "end": 844.44,
+      "text": "His eyes opened and",
+      "para_break": true
+    },
+    {
+      "start": 844.52,
+      "end": 845.48,
+      "text": "closed several times."
+    },
+    {
+      "start": 846.24,
+      "end": 849.5,
+      "text": "The girl stood up and moved into the angle of table and wall again.",
+      "para_break": true
+    },
+    {
+      "start": 850.688,
+      "end": 851.64,
+      "text": "Cooperate with us,",
+      "para_break": true
+    },
+    {
+      "start": 851.76,
+      "end": 853.42,
+      "text": "Gutman concluded hurriedly."
+    },
+    {
+      "start": 854.18,
+      "end": 856.46,
+      "text": "And so you had the falcon before we could reach you.",
+      "para_break": true
+    },
+    {
+      "start": 857.24,
+      "end": 859.06,
+      "text": "The boy put one foot on the floor,",
+      "para_break": true
+    },
+    {
+      "start": 859.22,
+      "end": 860.76,
+      "text": "raised himself on an elbow,"
+    },
+    {
+      "start": 861.568,
+      "end": 862.56,
+      "text": "opened his eyes wide,",
+      "para_break": true
+    },
+    {
+      "start": 862.8,
+      "end": 864.16,
+      "text": "put the other foot down,"
+    },
+    {
+      "start": 864.32,
+      "end": 865.46,
+      "text": "sat up and looked around."
+    },
+    {
+      "start": 866.52,
+      "end": 868.08,
+      "text": "When his eyes focused on Spade,",
+      "para_break": true
+    },
+    {
+      "start": 868.23,
+      "end": 869.54,
+      "text": "bewilderment went out of them."
+    },
+    {
+      "start": 870.72,
+      "end": 872.98,
+      "text": "Cairo left his armchair and went over to the boy.",
+      "para_break": true
+    },
+    {
+      "start": 873.92,
+      "end": 876.8,
+      "text": "He put his arm on the boy's shoulders and started to say something.",
+      "para_break": true
+    },
+    {
+      "start": 877.64,
+      "end": 879.32,
+      "text": "The boy rose quickly to his feet,",
+      "para_break": true
+    },
+    {
+      "start": 879.4,
+      "end": 881.0,
+      "text": "shaking Cairo's arm off."
+    },
+    {
+      "start": 882.0,
+      "end": 883.54,
+      "text": "He glanced around the room once and",
+      "para_break": true
+    },
+    {
+      "start": 883.54,
+      "end": 885.08,
+      "text": "then fixed his eyes on Spade again."
+    },
+    {
+      "start": 885.49,
+      "end": 887.32,
+      "text": "His face was set hard,"
+    },
+    {
+      "start": 887.84,
+      "end": 891.38,
+      "text": "and he held his body so tense that it seemed drawn in and shrunken."
+    },
+    {
+      "start": 892.4,
+      "end": 893.1,
+      "text": "Spade,",
+      "para_break": true
+    },
+    {
+      "start": 893.14,
+      "end": 894.52,
+      "text": "sitting on the corner of the table,"
+    },
+    {
+      "start": 894.58,
+      "end": 896.06,
+      "text": "swinging his legs carelessly,"
+    },
+    {
+      "start": 896.12,
+      "end": 896.46,
+      "text": "said,"
+    },
+    {
+      "start": 897.26,
+      "end": 897.76,
+      "text": "Now listen,",
+      "para_break": true
+    },
+    {
+      "start": 897.92,
+      "end": 898.16,
+      "text": "kid."
+    },
+    {
+      "start": 899.08,
+      "end": 901.16,
+      "text": "If you come over here and start cutting up,",
+      "para_break": true
+    },
+    {
+      "start": 901.3,
+      "end": 902.96,
+      "text": "I'm going to kick you in the face."
+    },
+    {
+      "start": 903.8,
+      "end": 905.3,
+      "text": "Sit down and shut up and behave,",
+      "para_break": true
+    },
+    {
+      "start": 905.86,
+      "end": 906.86,
+      "text": "and you'll last longer.",
+      "para_break": true
+    },
+    {
+      "start": 907.82,
+      "end": 908.86,
+      "text": "The boy looked at Gutman.",
+      "para_break": true
+    },
+    {
+      "start": 910.112,
+      "end": 912.0,
+      "text": "Gutman smiled benignly at him and said,",
+      "para_break": true
+    },
+    {
+      "start": 912.22,
+      "end": 912.352,
+      "text": "Well,"
+    },
+    {
+      "start": 913.14,
+      "end": 913.52,
+      "text": "Wilmer,",
+      "para_break": true
+    },
+    {
+      "start": 913.66,
+      "end": 915.64,
+      "text": "I'm sorry indeed to lose you,"
+    },
+    {
+      "start": 915.78,
+      "end": 917.8,
+      "text": "and I want you to know that I couldn't be"
+    },
+    {
+      "start": 917.8,
+      "end": 920.36,
+      "text": "any fonder of you if you were my own son."
+    },
+    {
+      "start": 921.24,
+      "end": 921.68,
+      "text": "But,",
+      "para_break": true
+    },
+    {
+      "start": 921.72,
+      "end": 922.46,
+      "text": "well,"
+    },
+    {
+      "start": 922.58,
+      "end": 923.22,
+      "text": "by gad,"
+    },
+    {
+      "start": 924.04,
+      "end": 924.88,
+      "text": "if you lose a son,",
+      "para_break": true
+    },
+    {
+      "start": 924.98,
+      "end": 926.18,
+      "text": "it's possible to get another,"
+    },
+    {
+      "start": 926.78,
+      "end": 928.64,
+      "text": "and there's only one Maltese falcon.",
+      "para_break": true
+    },
+    {
+      "start": 929.824,
+      "end": 930.34,
+      "text": "Spade laughed.",
+      "para_break": true
+    },
+    {
+      "start": 931.84,
+      "end": 934.08,
+      "text": "Cairo moved over and whispered in the boy's ear.",
+      "para_break": true
+    },
+    {
+      "start": 934.82,
+      "end": 935.12,
+      "text": "The boy,",
+      "para_break": true
+    },
+    {
+      "start": 935.18,
+      "end": 937.72,
+      "text": "keeping his cold hazel eyes on Gutman's face,"
+    },
+    {
+      "start": 937.88,
+      "end": 939.52,
+      "text": "sat down on the sofa again."
+    },
+    {
+      "start": 939.82,
+      "end": 942.14,
+      "text": "The Levantine sat beside him."
+    },
+    {
+      "start": 943.136,
+      "end": 946.02,
+      "text": "Gutman's sigh did not affect the benignity of his smile.",
+      "para_break": true
+    },
+    {
+      "start": 946.48,
+      "end": 947.44,
+      "text": "He said to Spade,"
+    },
+    {
+      "start": 948.26,
+      "end": 948.9,
+      "text": "When you're young,",
+      "para_break": true
+    },
+    {
+      "start": 948.9,
+      "end": 950.46,
+      "text": "you simply don't understand things."
+    },
+    {
+      "start": 951.424,
+      "end": 952.82,
+      "text": "Cairo had an arm around the boy's",
+      "para_break": true
+    },
+    {
+      "start": 952.82,
+      "end": 954.72,
+      "text": "shoulders again and was whispering to him."
+    },
+    {
+      "start": 955.552,
+      "end": 958.14,
+      "text": "Spade grinned at Gutman and addressed Bridget O'Shaughnessy.",
+      "para_break": true
+    },
+    {
+      "start": 959.06,
+      "end": 960.94,
+      "text": "I think it'd be swell if you'd see what",
+      "para_break": true
+    },
+    {
+      "start": 960.94,
+      "end": 962.52,
+      "text": "you can find us to eat in the kitchen,"
+    },
+    {
+      "start": 963.08,
+      "end": 964.06,
+      "text": "with plenty of coffee.",
+      "para_break": true
+    },
+    {
+      "start": 964.64,
+      "end": 964.98,
+      "text": "Will you?",
+      "para_break": true
+    },
+    {
+      "start": 965.96,
+      "end": 967.32,
+      "text": "I don't like to leave my guests.",
+      "para_break": true
+    },
+    {
+      "start": 967.6,
+      "end": 967.712,
+      "text": "Surely,"
+    },
+    {
+      "start": 968.92,
+      "end": 969.56,
+      "text": "she said,",
+      "para_break": true
+    },
+    {
+      "start": 969.96,
+      "end": 971.44,
+      "text": "and started towards the door."
+    },
+    {
+      "start": 972.48,
+      "end": 973.4,
+      "text": "Gutman stopped rocking.",
+      "para_break": true
+    },
+    {
+      "start": 974.18,
+      "end": 974.74,
+      "text": "Just a moment,",
+      "para_break": true
+    },
+    {
+      "start": 974.78,
+      "end": 975.22,
+      "text": "my dear."
+    },
+    {
+      "start": 975.76,
+      "end": 977.06,
+      "text": "He held up a thick hand."
+    },
+    {
+      "start": 977.984,
+      "end": 979.74,
+      "text": "Hadn't you better leave the envelope in here?",
+      "para_break": true
+    },
+    {
+      "start": 980.52,
+      "end": 982.54,
+      "text": "You don't want to get grease spots on it.",
+      "para_break": true
+    },
+    {
+      "start": 983.54,
+      "end": 985.28,
+      "text": "The girl's eyes questioned Spade.",
+      "para_break": true
+    },
+    {
+      "start": 986.06,
+      "end": 987.38,
+      "text": "He said in an indifferent tone,",
+      "para_break": true
+    },
+    {
+      "start": 988.32,
+      "end": 988.88,
+      "text": "It's still his.",
+      "para_break": true
+    },
+    {
+      "start": 990.28,
+      "end": 991.66,
+      "text": "She put her hand inside her coat,",
+      "para_break": true
+    },
+    {
+      "start": 991.82,
+      "end": 992.68,
+      "text": "took out the envelope,"
+    },
+    {
+      "start": 992.74,
+      "end": 993.72,
+      "text": "and gave it to Spade."
+    }
+  ]
+}

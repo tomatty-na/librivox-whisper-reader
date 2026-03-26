@@ -1,0 +1,747 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-09",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_09_hammett.mp3",
+  "chapter_title": "Brigid",
+  "reader_name": "NLizer",
+  "page_num": 1,
+  "page_total": 4,
+  "page_start_sec": 0.7,
+  "page_end_sec": 243.76,
+  "para_gap_threshold": 0.559,
+  "segments": [
+    {
+      "start": 0.7,
+      "end": 3.56,
+      "text": "Chapter 9 of The Maltese Falcon by Dashiell Hammett."
+    },
+    {
+      "start": 4.3,
+      "end": 6.5,
+      "text": "This LibriVox recording is in the public domain.",
+      "para_break": true
+    },
+    {
+      "start": 7.55,
+      "end": 8.1,
+      "text": "Brigid.",
+      "para_break": true
+    },
+    {
+      "start": 9.152,
+      "end": 12.2,
+      "text": "Spade returned to the living room and sat on an end of the sofa,",
+      "para_break": true
+    },
+    {
+      "start": 12.896,
+      "end": 13.58,
+      "text": "elbows on knees,",
+      "para_break": true
+    },
+    {
+      "start": 13.96,
+      "end": 14.72,
+      "text": "cheeks in hands,"
+    },
+    {
+      "start": 15.28,
+      "end": 17.66,
+      "text": "looking at the floor and not at Brigid O'Shaughnessy,",
+      "para_break": true
+    },
+    {
+      "start": 17.76,
+      "end": 19.38,
+      "text": "smiling weakly at him from"
+    },
+    {
+      "start": 19.5,
+      "end": 20.08,
+      "text": "the armchair."
+    },
+    {
+      "start": 21.18,
+      "end": 22.16,
+      "text": "His eyes were sultry.",
+      "para_break": true
+    },
+    {
+      "start": 22.36,
+      "end": 25.56,
+      "text": "The creases between brows over his nose were deep."
+    },
+    {
+      "start": 25.72,
+      "end": 25.82,
+      "text": "His"
+    },
+    {
+      "start": 26.58,
+      "end": 28.68,
+      "text": "nostrils moved in and out with his breathing.",
+      "para_break": true
+    },
+    {
+      "start": 29.664,
+      "end": 30.52,
+      "text": "Brigid O'Shaughnessy,",
+      "para_break": true
+    },
+    {
+      "start": 30.64,
+      "end": 31.72,
+      "text": "when it became apparent"
+    },
+    {
+      "start": 31.72,
+      "end": 33.5,
+      "text": "that he was not going to look up at her,"
+    },
+    {
+      "start": 33.66,
+      "end": 36.83,
+      "text": "stopped smiling and regarded him with growing uneasiness."
+    },
+    {
+      "start": 37.76,
+      "end": 39.92,
+      "text": "Red rage came suddenly into his face,",
+      "para_break": true
+    },
+    {
+      "start": 40.06,
+      "end": 41.82,
+      "text": "and he began to talk in a harsh,"
+    },
+    {
+      "start": 41.94,
+      "end": 42.64,
+      "text": "guttural voice."
+    },
+    {
+      "start": 43.68,
+      "end": 45.46,
+      "text": "Holding his maddened face in his hands,",
+      "para_break": true
+    },
+    {
+      "start": 45.58,
+      "end": 46.58,
+      "text": "glaring at the floor,"
+    },
+    {
+      "start": 46.74,
+      "end": 48.66,
+      "text": "he cursed Dundee for five minutes"
+    },
+    {
+      "start": 48.74,
+      "end": 49.34,
+      "text": "without break,"
+    },
+    {
+      "start": 49.58,
+      "end": 51.08,
+      "text": "cursed him obscenely,"
+    },
+    {
+      "start": 51.14,
+      "end": 52.28,
+      "text": "blasphemously,"
+    },
+    {
+      "start": 52.56,
+      "end": 53.5,
+      "text": "repetitiously,"
+    },
+    {
+      "start": 53.68,
+      "end": 54.8,
+      "text": "in a harsh,"
+    },
+    {
+      "start": 54.92,
+      "end": 55.6,
+      "text": "guttural voice."
+    },
+    {
+      "start": 56.5,
+      "end": 58.12,
+      "text": "Then he took his face out of his hands,",
+      "para_break": true
+    },
+    {
+      "start": 58.24,
+      "end": 59.16,
+      "text": "looked at the girl,"
+    },
+    {
+      "start": 59.3,
+      "end": 60.76,
+      "text": "grinned sheepishly,"
+    },
+    {
+      "start": 60.76,
+      "end": 61.2,
+      "text": "and said,"
+    },
+    {
+      "start": 61.76,
+      "end": 62.36,
+      "text": "Childish,",
+      "para_break": true
+    },
+    {
+      "start": 62.36,
+      "end": 62.52,
+      "text": "huh?"
+    },
+    {
+      "start": 63.4,
+      "end": 63.74,
+      "text": "I know,",
+      "para_break": true
+    },
+    {
+      "start": 63.84,
+      "end": 64.14,
+      "text": "but,"
+    },
+    {
+      "start": 64.14,
+      "end": 64.98,
+      "text": "by God,"
+    },
+    {
+      "start": 65.18,
+      "end": 67.28,
+      "text": "I do hate being hit without hitting back."
+    },
+    {
+      "start": 67.96,
+      "end": 70.0,
+      "text": "He touched his chin with careful fingers,",
+      "para_break": true
+    },
+    {
+      "start": 70.22,
+      "end": 72.92,
+      "text": "not that it was so much of a suck at that."
+    },
+    {
+      "start": 73.46,
+      "end": 75.46,
+      "text": "He laughed and lounged back on the sofa,"
+    },
+    {
+      "start": 75.62,
+      "end": 76.52,
+      "text": "crossing his legs."
+    },
+    {
+      "start": 77.18,
+      "end": 78.8,
+      "text": "A cheap enough price to pay for winning,",
+      "para_break": true
+    },
+    {
+      "start": 79.42,
+      "end": 81.7,
+      "text": "his brows came together in a fleeting scowl.",
+      "para_break": true
+    },
+    {
+      "start": 81.86,
+      "end": 83.46,
+      "text": "though I'll remember it."
+    },
+    {
+      "start": 84.16,
+      "end": 84.5,
+      "text": "The girl,",
+      "para_break": true
+    },
+    {
+      "start": 84.56,
+      "end": 85.24,
+      "text": "smiling again,"
+    },
+    {
+      "start": 85.36,
+      "end": 87.54,
+      "text": "left her chair and sat on the sofa beside him."
+    },
+    {
+      "start": 88.512,
+      "end": 91.5,
+      "text": "You're absolutely the wildest person I've ever known,",
+      "para_break": true
+    },
+    {
+      "start": 91.66,
+      "end": 92.08,
+      "text": "she said."
+    },
+    {
+      "start": 92.36,
+      "end": 94.58,
+      "text": "Do you always carry on so high"
+    },
+    {
+      "start": 94.92,
+      "end": 95.08,
+      "text": "handed?"
+    },
+    {
+      "start": 95.69,
+      "end": 96.84,
+      "text": "I let him hit me,",
+      "para_break": true
+    },
+    {
+      "start": 96.88,
+      "end": 97.3,
+      "text": "didn't I?"
+    },
+    {
+      "start": 97.44,
+      "end": 98.34,
+      "text": "Oh,"
+    },
+    {
+      "start": 98.36,
+      "end": 98.6,
+      "text": "yes,"
+    },
+    {
+      "start": 98.78,
+      "end": 100.04,
+      "text": "but a police official."
+    },
+    {
+      "start": 100.38,
+      "end": 101.76,
+      "text": "It wasn't that,"
+    },
+    {
+      "start": 102.208,
+      "end": 102.76,
+      "text": "Spade explained."
+    },
+    {
+      "start": 103.52,
+      "end": 106.08,
+      "text": "It was that in losing his head and slugging me,",
+      "para_break": true
+    },
+    {
+      "start": 106.16,
+      "end": 107.38,
+      "text": "he overplayed his hand."
+    },
+    {
+      "start": 108.06,
+      "end": 109.22,
+      "text": "If I'd mixed it with him,",
+      "para_break": true
+    },
+    {
+      "start": 109.36,
+      "end": 111.94,
+      "text": "then he couldn't have backed down he'd have had"
+    },
+    {
+      "start": 111.94,
+      "end": 114.32,
+      "text": "to go through with it and we'd have had to tell"
+    },
+    {
+      "start": 114.32,
+      "end": 117.04,
+      "text": "that goofy story at headquarters he stared"
+    },
+    {
+      "start": 117.04,
+      "end": 119.86,
+      "text": "thoughtfully at the girl and asked what did"
+    },
+    {
+      "start": 119.86,
+      "end": 123.5,
+      "text": "you do to Cairo nothing her face became flushed"
+    },
+    {
+      "start": 123.5,
+      "end": 125.88,
+      "text": "I tried to frighten him into keeping still until"
+    },
+    {
+      "start": 125.88,
+      "end": 126.5,
+      "text": "they had gone"
+    },
+    {
+      "start": 127.06,
+      "end": 129.56,
+      "text": "and he either got too frightened or stubborn and yelled",
+      "para_break": true
+    },
+    {
+      "start": 130.36,
+      "end": 131.28,
+      "text": "and then you smacked him",
+      "para_break": true
+    },
+    {
+      "start": 131.38,
+      "end": 134.22,
+      "text": "with the gun I had to he attacked me"
+    },
+    {
+      "start": 135.26,
+      "end": 138.14,
+      "text": "you don't know what you're doing Spade's smile did not hide",
+      "para_break": true
+    },
+    {
+      "start": 138.3,
+      "end": 139.02,
+      "text": "his annoyance."
+    },
+    {
+      "start": 139.776,
+      "end": 140.96,
+      "text": "It's just what I told you.",
+      "para_break": true
+    },
+    {
+      "start": 141.08,
+      "end": 143.6,
+      "text": "You're fumbling along by guess and by God."
+    },
+    {
+      "start": 144.608,
+      "end": 145.08,
+      "text": "I'm sorry,",
+      "para_break": true
+    },
+    {
+      "start": 145.34,
+      "end": 146.0,
+      "text": "she said,"
+    },
+    {
+      "start": 146.2,
+      "end": 148.1,
+      "text": "face and voice soft with contrition."
+    },
+    {
+      "start": 148.18,
+      "end": 148.9,
+      "text": "Sam?"
+    },
+    {
+      "start": 149.27,
+      "end": 150.48,
+      "text": "Sure you are."
+    },
+    {
+      "start": 150.68,
+      "end": 151.76,
+      "text": "He took tobacco"
+    },
+    {
+      "start": 151.76,
+      "end": 154.16,
+      "text": "and papers from his pockets and began to make a cigarette."
+    },
+    {
+      "start": 154.92,
+      "end": 156.46,
+      "text": "Now you've had your talk with Cairo.",
+      "para_break": true
+    },
+    {
+      "start": 156.82,
+      "end": 157.82,
+      "text": "Now you can talk to me."
+    },
+    {
+      "start": 158.84,
+      "end": 160.4,
+      "text": "She put a fingertip to her mouth,",
+      "para_break": true
+    },
+    {
+      "start": 160.896,
+      "end": 162.38,
+      "text": "staring across the room at nothing,"
+    },
+    {
+      "start": 162.7,
+      "end": 164.18,
+      "text": "with widened eyes and then,"
+    },
+    {
+      "start": 164.38,
+      "end": 165.74,
+      "text": "with narrower eyes,"
+    },
+    {
+      "start": 165.92,
+      "end": 167.16,
+      "text": "glanced quickly at Spade."
+    },
+    {
+      "start": 167.38,
+      "end": 168.74,
+      "text": "He was engrossed in"
+    },
+    {
+      "start": 168.74,
+      "end": 169.64,
+      "text": "the making of his cigarette."
+    },
+    {
+      "start": 169.98,
+      "end": 170.68,
+      "text": "Oh,"
+    },
+    {
+      "start": 170.78,
+      "end": 171.18,
+      "text": "yes,"
+    },
+    {
+      "start": 171.42,
+      "end": 171.98,
+      "text": "she began."
+    },
+    {
+      "start": 173.06,
+      "end": 173.46,
+      "text": "Of course.",
+      "para_break": true
+    },
+    {
+      "start": 174.5,
+      "end": 176.12,
+      "text": "She took the finger away from her mouth",
+      "para_break": true
+    },
+    {
+      "start": 176.12,
+      "end": 178.1,
+      "text": "and smoothed her blue dress over her knees."
+    },
+    {
+      "start": 178.3,
+      "end": 179.88,
+      "text": "She frowned at her knees."
+    },
+    {
+      "start": 180.96,
+      "end": 181.94,
+      "text": "Spade licked his cigarette,",
+      "para_break": true
+    },
+    {
+      "start": 182.34,
+      "end": 182.72,
+      "text": "sealed it,"
+    },
+    {
+      "start": 182.8,
+      "end": 183.34,
+      "text": "and asked,"
+    },
+    {
+      "start": 183.48,
+      "end": 184.0,
+      "text": "well?"
+    },
+    {
+      "start": 185.02,
+      "end": 186.16,
+      "text": "While he felt for his lighter.",
+      "para_break": true
+    },
+    {
+      "start": 187.36,
+      "end": 188.0,
+      "text": "But I didn't,",
+      "para_break": true
+    },
+    {
+      "start": 188.0,
+      "end": 188.5,
+      "text": "she said,"
+    },
+    {
+      "start": 189.024,
+      "end": 192.34,
+      "text": "pausing between words as if she were selecting them with great care."
+    },
+    {
+      "start": 193.16,
+      "end": 194.7,
+      "text": "Have time to finish talking to him.",
+      "para_break": true
+    },
+    {
+      "start": 195.6,
+      "end": 197.98,
+      "text": "She stopped frowning at her knees and looked at Spade with",
+      "para_break": true
+    },
+    {
+      "start": 198.1,
+      "end": 198.22,
+      "text": "clear,"
+    },
+    {
+      "start": 198.28,
+      "end": 198.96,
+      "text": "candid eyes."
+    },
+    {
+      "start": 199.24,
+      "end": 202.02,
+      "text": "We were interrupted almost before we had begun."
+    },
+    {
+      "start": 203.008,
+      "end": 204.14,
+      "text": "Spade lighted his cigarette",
+      "para_break": true
+    },
+    {
+      "start": 204.38,
+      "end": 206.24,
+      "text": "and laughed his mouth empty of smoke."
+    },
+    {
+      "start": 207.06,
+      "end": 208.84,
+      "text": "Want me to phone him and ask him to come back?",
+      "para_break": true
+    },
+    {
+      "start": 209.84,
+      "end": 210.5,
+      "text": "She shook her head,",
+      "para_break": true
+    },
+    {
+      "start": 210.58,
+      "end": 211.2,
+      "text": "not smiling."
+    },
+    {
+      "start": 211.54,
+      "end": 215.06,
+      "text": "Her eyes moved back and forth between her lids as she shook her"
+    },
+    {
+      "start": 215.2,
+      "end": 215.38,
+      "text": "head,"
+    },
+    {
+      "start": 215.46,
+      "end": 217.78,
+      "text": "maintaining their focus on Spade's eyes."
+    },
+    {
+      "start": 218.02,
+      "end": 219.72,
+      "text": "Her eyes were inquisitive."
+    },
+    {
+      "start": 220.64,
+      "end": 221.56,
+      "text": "Spade put an arm across",
+      "para_break": true
+    },
+    {
+      "start": 221.66,
+      "end": 222.08,
+      "text": "her back,"
+    },
+    {
+      "start": 222.12,
+      "end": 223.4,
+      "text": "cupping his hand over the smooth,"
+    },
+    {
+      "start": 223.48,
+      "end": 225.2,
+      "text": "bare white shoulder farthest from him."
+    },
+    {
+      "start": 225.96,
+      "end": 226.6,
+      "text": "She leaned back",
+      "para_break": true
+    },
+    {
+      "start": 226.74,
+      "end": 227.92,
+      "text": "into the bend of his arm."
+    },
+    {
+      "start": 228.12,
+      "end": 228.84,
+      "text": "He said,"
+    },
+    {
+      "start": 229.06,
+      "end": 229.184,
+      "text": "well,"
+    },
+    {
+      "start": 229.82,
+      "end": 230.74,
+      "text": "I'm listening.",
+      "para_break": true
+    },
+    {
+      "start": 231.02,
+      "end": 233.54,
+      "text": "She twisted her head around to smile"
+    },
+    {
+      "start": 233.68,
+      "end": 235.25,
+      "text": "up at him with playful insolence,"
+    },
+    {
+      "start": 235.58,
+      "end": 236.0,
+      "text": "asking,"
+    },
+    {
+      "start": 236.34,
+      "end": 238.3,
+      "text": "do you need your arm there for that?"
+    },
+    {
+      "start": 238.62,
+      "end": 239.52,
+      "text": "No."
+    },
+    {
+      "start": 239.76,
+      "end": 241.0,
+      "text": "He removed his"
+    },
+    {
+      "start": 241.16,
+      "end": 243.76,
+      "text": "hand from her shoulder and let his arm drop down behind her."
+    }
+  ]
+}

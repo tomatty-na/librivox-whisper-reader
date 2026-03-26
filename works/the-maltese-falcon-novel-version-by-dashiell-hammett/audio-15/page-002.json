@@ -1,0 +1,708 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-15",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_15_hammett.mp3",
+  "chapter_title": "Every Crackpot",
+  "reader_name": "NLizer",
+  "page_num": 2,
+  "page_total": 6,
+  "page_start_sec": 246.04,
+  "page_end_sec": 498.8,
+  "para_gap_threshold": 0.639,
+  "segments": [
+    {
+      "start": 246.04,
+      "end": 248.52,
+      "text": "You mean that you tried to pull on me,"
+    },
+    {
+      "start": 248.6,
+      "end": 248.84,
+      "text": "Tom?"
+    },
+    {
+      "start": 249.02,
+      "end": 249.78,
+      "text": "Just tried."
+    },
+    {
+      "start": 250.88,
+      "end": 252.46,
+      "text": "Polhaus swore under his breath and",
+      "para_break": true
+    },
+    {
+      "start": 252.46,
+      "end": 254.2,
+      "text": "attacked the remainder of his pig's foot."
+    },
+    {
+      "start": 254.944,
+      "end": 255.4,
+      "text": "Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 255.92,
+      "end": 256.36,
+      "text": "All right."
+    },
+    {
+      "start": 257.2,
+      "end": 258.02,
+      "text": "You know it's out,",
+      "para_break": true
+    },
+    {
+      "start": 258.08,
+      "end": 259.2,
+      "text": "and I know it's out."
+    },
+    {
+      "start": 259.58,
+      "end": 260.52,
+      "text": "What does Dundee know?"
+    },
+    {
+      "start": 261.48,
+      "end": 262.5,
+      "text": "He knows it's out.",
+      "para_break": true
+    },
+    {
+      "start": 263.4,
+      "end": 264.28,
+      "text": "What woke him up?",
+      "para_break": true
+    },
+    {
+      "start": 265.06,
+      "end": 265.22,
+      "text": "Aw,",
+      "para_break": true
+    },
+    {
+      "start": 265.28,
+      "end": 265.6,
+      "text": "Sam,"
+    },
+    {
+      "start": 265.9,
+      "end": 267.54,
+      "text": "he never really thought you'd..."
+    },
+    {
+      "start": 268.384,
+      "end": 268.86,
+      "text": "Spade smiled,",
+      "para_break": true
+    },
+    {
+      "start": 269.08,
+      "end": 269.8,
+      "text": "checked Polhaus."
+    },
+    {
+      "start": 270.42,
+      "end": 272.66,
+      "text": "He left the sentence incomplete and said,"
+    },
+    {
+      "start": 273.42,
+      "end": 274.8,
+      "text": "We dug up a record on Thursday.",
+      "para_break": true
+    },
+    {
+      "start": 275.72,
+      "end": 275.82,
+      "text": "Yes?",
+      "para_break": true
+    },
+    {
+      "start": 276.36,
+      "end": 277.16,
+      "text": "Who was he?"
+    },
+    {
+      "start": 278.368,
+      "end": 281.16,
+      "text": "Polehouse's shrewd small brown eyes studied Spade's face.",
+      "para_break": true
+    },
+    {
+      "start": 281.856,
+      "end": 283.48,
+      "text": "Spade exclaimed irritably,",
+      "para_break": true
+    },
+    {
+      "start": 283.68,
+      "end": 287.66,
+      "text": "I wish to God I knew half as much about this business as you smart"
+    },
+    {
+      "start": 287.76,
+      "end": 288.58,
+      "text": "guys think I do."
+    },
+    {
+      "start": 289.6,
+      "end": 290.66,
+      "text": "I wish we all did,",
+      "para_break": true
+    },
+    {
+      "start": 290.78,
+      "end": 291.6,
+      "text": "Polehouse grumbled."
+    },
+    {
+      "start": 291.89,
+      "end": 292.54,
+      "text": "Well,"
+    },
+    {
+      "start": 292.78,
+      "end": 293.84,
+      "text": "he was a St."
+    },
+    {
+      "start": 293.88,
+      "end": 294.6,
+      "text": "Louis gunman,"
+    },
+    {
+      "start": 294.68,
+      "end": 295.86,
+      "text": "the first we hear of him."
+    },
+    {
+      "start": 296.02,
+      "end": 299.36,
+      "text": "He was picked up a lot of times back there for this and that,"
+    },
+    {
+      "start": 299.66,
+      "end": 301.16,
+      "text": "but he belonged to the Egan mob,"
+    },
+    {
+      "start": 301.36,
+      "end": 303.92,
+      "text": "so nothing much was ever done about any of it."
+    },
+    {
+      "start": 304.24,
+      "end": 306.52,
+      "text": "I don't know how come he left that shelter,"
+    },
+    {
+      "start": 306.68,
+      "end": 309.14,
+      "text": "but they got him once in New York for knocking over"
+    },
+    {
+      "start": 309.14,
+      "end": 310.4,
+      "text": "a row of stuff games."
+    },
+    {
+      "start": 311.22,
+      "end": 312.4,
+      "text": "His twist turned him up,",
+      "para_break": true
+    },
+    {
+      "start": 313.02,
+      "end": 315.75,
+      "text": "and he was in a year before Fallon got him sprung."
+    },
+    {
+      "start": 316.66,
+      "end": 317.72,
+      "text": "A couple of years later,",
+      "para_break": true
+    },
+    {
+      "start": 317.72,
+      "end": 321.12,
+      "text": "he did a short hitch in Joliet for pistol whipping another twist"
+    },
+    {
+      "start": 321.54,
+      "end": 322.82,
+      "text": "that had given him the needle,"
+    },
+    {
+      "start": 322.96,
+      "end": 326.7,
+      "text": "but after that he took up with Dixie Monaghan and didn't have"
+    },
+    {
+      "start": 326.8,
+      "end": 329.64,
+      "text": "any trouble getting out whenever he happened to get in."
+    },
+    {
+      "start": 330.5,
+      "end": 332.4,
+      "text": "That was when Dixie was almost as big a",
+      "para_break": true
+    },
+    {
+      "start": 332.58,
+      "end": 335.14,
+      "text": "shot as Nick the Greek in Chicago gambling."
+    },
+    {
+      "start": 335.96,
+      "end": 337.72,
+      "text": "This Thursby was Dixie's bodyguard,",
+      "para_break": true
+    },
+    {
+      "start": 337.88,
+      "end": 338.76,
+      "text": "and he took the"
+    },
+    {
+      "start": 338.76,
+      "end": 341.34,
+      "text": "run out with him when Dixie got in wrong with the"
+    },
+    {
+      "start": 341.34,
+      "end": 343.7,
+      "text": "rest of the boys over some debts he couldn't or"
+    },
+    {
+      "start": 343.8,
+      "end": 344.7,
+      "text": "wouldn't pay off."
+    },
+    {
+      "start": 345.48,
+      "end": 346.8,
+      "text": "That was a couple of years back,",
+      "para_break": true
+    },
+    {
+      "start": 347.11,
+      "end": 349.84,
+      "text": "about the time the Newport Beach Boating Club was"
+    },
+    {
+      "start": 349.9,
+      "end": 350.26,
+      "text": "shut up."
+    },
+    {
+      "start": 351.26,
+      "end": 353.28,
+      "text": "I don't know if Dixie had any part in that.",
+      "para_break": true
+    },
+    {
+      "start": 353.7,
+      "end": 354.3,
+      "text": "Anyways,"
+    },
+    {
+      "start": 354.62,
+      "end": 356.1,
+      "text": "this is the first time him or"
+    },
+    {
+      "start": 356.36,
+      "end": 357.88,
+      "text": "Thursby's been seen since."
+    },
+    {
+      "start": 358.944,
+      "end": 359.84,
+      "text": "Dixie's been seen?",
+      "para_break": true
+    },
+    {
+      "start": 360.08,
+      "end": 360.94,
+      "text": "Spade asked."
+    },
+    {
+      "start": 362.112,
+      "end": 362.96,
+      "text": "Polehouse shook his head.",
+      "para_break": true
+    },
+    {
+      "start": 363.12,
+      "end": 363.66,
+      "text": "No."
+    },
+    {
+      "start": 363.86,
+      "end": 364.064,
+      "text": "His"
+    },
+    {
+      "start": 364.6,
+      "end": 365.76,
+      "text": "small eyes became sharp,"
+    },
+    {
+      "start": 365.88,
+      "end": 366.36,
+      "text": "prying."
+    },
+    {
+      "start": 367.24,
+      "end": 369.84,
+      "text": "Not unless you've seen him or know somebody's seen him.",
+      "para_break": true
+    },
+    {
+      "start": 370.752,
+      "end": 373.46,
+      "text": "Spade lounged back in his chair and began to make a cigarette.",
+      "para_break": true
+    },
+    {
+      "start": 374.592,
+      "end": 375.26,
+      "text": "I haven't,",
+      "para_break": true
+    },
+    {
+      "start": 375.26,
+      "end": 376.2,
+      "text": "he said mildly."
+    },
+    {
+      "start": 376.7,
+      "end": 378.08,
+      "text": "This is all new stuff to me."
+    },
+    {
+      "start": 379.34,
+      "end": 380.04,
+      "text": "I guess it is,",
+      "para_break": true
+    },
+    {
+      "start": 380.12,
+      "end": 380.98,
+      "text": "Polehouse snorted."
+    },
+    {
+      "start": 381.76,
+      "end": 383.1,
+      "text": "Spade grinned at him and asked,",
+      "para_break": true
+    },
+    {
+      "start": 383.968,
+      "end": 385.9,
+      "text": "Where'd you pick up all this news about Thursby?",
+      "para_break": true
+    },
+    {
+      "start": 387.02,
+      "end": 388.08,
+      "text": "Some of it's on the records.",
+      "para_break": true
+    },
+    {
+      "start": 388.32,
+      "end": 388.84,
+      "text": "The rest,"
+    },
+    {
+      "start": 389.06,
+      "end": 389.46,
+      "text": "well,"
+    },
+    {
+      "start": 389.76,
+      "end": 391.32,
+      "text": "we got it here and there."
+    },
+    {
+      "start": 392.34,
+      "end": 392.98,
+      "text": "From Cairo,",
+      "para_break": true
+    },
+    {
+      "start": 393.02,
+      "end": 393.54,
+      "text": "for instance?"
+    },
+    {
+      "start": 394.72,
+      "end": 396.78,
+      "text": "Now Spade's eyes held the prying gleam.",
+      "para_break": true
+    },
+    {
+      "start": 397.856,
+      "end": 400.24,
+      "text": "Polehouse put down his coffee cup and shook his head.",
+      "para_break": true
+    },
+    {
+      "start": 400.96,
+      "end": 401.82,
+      "text": "Not a word of it.",
+      "para_break": true
+    },
+    {
+      "start": 401.98,
+      "end": 403.56,
+      "text": "You poisoned that guy for us."
+    },
+    {
+      "start": 404.448,
+      "end": 405.16,
+      "text": "Spade laughed.",
+      "para_break": true
+    },
+    {
+      "start": 406.26,
+      "end": 409.0,
+      "text": "You mean a couple of high-class sleuths like you and Dundee",
+      "para_break": true
+    },
+    {
+      "start": 409.14,
+      "end": 412.4,
+      "text": "worked on that lily of the valley all night and couldn't crack him?"
+    },
+    {
+      "start": 413.34,
+      "end": 414.38,
+      "text": "What do you mean all night?",
+      "para_break": true
+    },
+    {
+      "start": 414.944,
+      "end": 415.96,
+      "text": "Polehouse protested."
+    },
+    {
+      "start": 416.24,
+      "end": 418.56,
+      "text": "We worked on him for less than a couple of hours."
+    },
+    {
+      "start": 419.46,
+      "end": 421.8,
+      "text": "We saw he wasn't getting nowhere and let him go.",
+      "para_break": true
+    },
+    {
+      "start": 422.88,
+      "end": 424.66,
+      "text": "Spade laughed again and looked at his watch.",
+      "para_break": true
+    },
+    {
+      "start": 425.34,
+      "end": 427.38,
+      "text": "He caught John's eye and asked for the check.",
+      "para_break": true
+    },
+    {
+      "start": 428.42,
+      "end": 430.11,
+      "text": "I've got a date with the DA this afternoon,",
+      "para_break": true
+    },
+    {
+      "start": 430.3,
+      "end": 431.2,
+      "text": "he told Polehouse"
+    },
+    {
+      "start": 431.68,
+      "end": 432.98,
+      "text": "while they waited for his change."
+    },
+    {
+      "start": 433.96,
+      "end": 434.64,
+      "text": "He send for you?",
+      "para_break": true
+    },
+    {
+      "start": 435.1,
+      "end": 435.78,
+      "text": "Yes."
+    },
+    {
+      "start": 436.8,
+      "end": 439.2,
+      "text": "Polehouse pushed his chair back and stood up,",
+      "para_break": true
+    },
+    {
+      "start": 439.52,
+      "end": 440.8,
+      "text": "a barrel-bellied tall man,"
+    },
+    {
+      "start": 440.92,
+      "end": 442.12,
+      "text": "solid and phlegmatic."
+    },
+    {
+      "start": 442.66,
+      "end": 444.72,
+      "text": "You won't be doing me any favor,"
+    },
+    {
+      "start": 444.86,
+      "end": 445.26,
+      "text": "he said,"
+    },
+    {
+      "start": 445.4,
+      "end": 447.48,
+      "text": "by telling him I've talked to you like this."
+    },
+    {
+      "start": 448.3,
+      "end": 450.66,
+      "text": "A lazy youth with salient ears ushered",
+      "para_break": true
+    },
+    {
+      "start": 450.66,
+      "end": 452.74,
+      "text": "Spade into the district attorney's office."
+    },
+    {
+      "start": 453.536,
+      "end": 454.98,
+      "text": "Spade went in smiling easily,",
+      "para_break": true
+    },
+    {
+      "start": 455.14,
+      "end": 456.08,
+      "text": "saying easily,"
+    },
+    {
+      "start": 456.66,
+      "end": 456.82,
+      "text": "Hello,"
+    },
+    {
+      "start": 456.94,
+      "end": 457.22,
+      "text": "Brian."
+    },
+    {
+      "start": 458.24,
+      "end": 460.1,
+      "text": "District attorney Brian stood up and",
+      "para_break": true
+    },
+    {
+      "start": 460.1,
+      "end": 462.16,
+      "text": "held his hand out across his desk."
+    },
+    {
+      "start": 463.0,
+      "end": 464.88,
+      "text": "He was a blonde man of medium stature,",
+      "para_break": true
+    },
+    {
+      "start": 465.04,
+      "end": 466.84,
+      "text": "perhaps 45 years old,"
+    },
+    {
+      "start": 467.22,
+      "end": 470.04,
+      "text": "with aggressive blue eyes behind black ribbon nose glasses."
+    },
+    {
+      "start": 470.67,
+      "end": 474.52,
+      "text": "the over-large mouth of an orator and a wide dimpled chin."
+    },
+    {
+      "start": 475.78,
+      "end": 476.3,
+      "text": "When he said,",
+      "para_break": true
+    },
+    {
+      "start": 476.66,
+      "end": 477.26,
+      "text": "How do you do,"
+    },
+    {
+      "start": 477.36,
+      "end": 477.7,
+      "text": "Spade?"
+    },
+    {
+      "start": 478.12,
+      "end": 480.24,
+      "text": "His voice was resonant with latent power."
+    },
+    {
+      "start": 481.22,
+      "end": 482.6,
+      "text": "They shook hands and sat down.",
+      "para_break": true
+    },
+    {
+      "start": 483.62,
+      "end": 486.02,
+      "text": "The district attorney put his finger on one of the",
+      "para_break": true
+    },
+    {
+      "start": 486.02,
+      "end": 488.68,
+      "text": "pearl buttons in a battery of four on his desk,"
+    },
+    {
+      "start": 489.02,
+      "end": 491.64,
+      "text": "said to the lady youth who opened the door again,"
+    },
+    {
+      "start": 491.86,
+      "end": 492.7,
+      "text": "Ask Mr."
+    },
+    {
+      "start": 492.96,
+      "end": 494.44,
+      "text": "Thomas and Healy to come in,"
+    },
+    {
+      "start": 494.84,
+      "end": 495.36,
+      "text": "and then,"
+    },
+    {
+      "start": 495.62,
+      "end": 497.16,
+      "text": "rocking back in his chair,"
+    },
+    {
+      "start": 497.38,
+      "end": 498.8,
+      "text": "addressed Spade pleasantly."
+    }
+  ]
+}

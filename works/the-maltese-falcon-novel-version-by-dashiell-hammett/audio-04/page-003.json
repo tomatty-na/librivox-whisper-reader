@@ -1,0 +1,695 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-04",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_04_hammett.mp3",
+  "chapter_title": "The Black Bird",
+  "reader_name": "NLizer",
+  "page_num": 3,
+  "page_total": 7,
+  "page_start_sec": 489.34,
+  "page_end_sec": 732.94,
+  "para_gap_threshold": 0.657,
+  "segments": [
+    {
+      "start": 489.34,
+      "end": 490.66,
+      "text": "She jumped up on her feet.",
+      "para_break": true
+    },
+    {
+      "start": 490.8,
+      "end": 492.26,
+      "text": "Her face crimsoned"
+    },
+    {
+      "start": 492.54,
+      "end": 492.94,
+      "text": "painfully,"
+    },
+    {
+      "start": 493.44,
+      "end": 495.38,
+      "text": "but she held her head erect and she"
+    },
+    {
+      "start": 495.38,
+      "end": 496.82,
+      "text": "looked Spade straight in the eyes."
+    },
+    {
+      "start": 497.8,
+      "end": 498.54,
+      "text": "I deserve that,",
+      "para_break": true
+    },
+    {
+      "start": 498.66,
+      "end": 499.34,
+      "text": "she said."
+    },
+    {
+      "start": 499.5,
+      "end": 500.58,
+      "text": "I deserve it."
+    },
+    {
+      "start": 500.68,
+      "end": 500.78,
+      "text": "But,"
+    },
+    {
+      "start": 501.18,
+      "end": 501.66,
+      "text": "oh,"
+    },
+    {
+      "start": 501.84,
+      "end": 504.12,
+      "text": "I did want your help so much."
+    },
+    {
+      "start": 504.16,
+      "end": 505.56,
+      "text": "I do want it and need"
+    },
+    {
+      "start": 505.56,
+      "end": 506.66,
+      "text": "it so much."
+    },
+    {
+      "start": 507.42,
+      "end": 509.18,
+      "text": "And the lie was in the way I said it,",
+      "para_break": true
+    },
+    {
+      "start": 509.78,
+      "end": 511.56,
+      "text": "and not at all in what I said."
+    },
+    {
+      "start": 512.5,
+      "end": 513.18,
+      "text": "She turned away,",
+      "para_break": true
+    },
+    {
+      "start": 513.62,
+      "end": 515.18,
+      "text": "no longer holding herself erect."
+    },
+    {
+      "start": 515.48,
+      "end": 518.48,
+      "text": "It is my own fault that you can't believe me now."
+    },
+    {
+      "start": 519.52,
+      "end": 520.96,
+      "text": "Spade's face reddened,",
+      "para_break": true
+    },
+    {
+      "start": 520.96,
+      "end": 522.28,
+      "text": "and he looked down at the floor,"
+    },
+    {
+      "start": 522.34,
+      "end": 522.72,
+      "text": "muttering,"
+    },
+    {
+      "start": 523.38,
+      "end": 523.78,
+      "text": "Now,",
+      "para_break": true
+    },
+    {
+      "start": 524.42,
+      "end": 525.38,
+      "text": "you are dangerous."
+    },
+    {
+      "start": 526.432,
+      "end": 529.1,
+      "text": "Rigid O'Shaughnessy went to the table and picked up his hat.",
+      "para_break": true
+    },
+    {
+      "start": 529.98,
+      "end": 531.56,
+      "text": "She came back and stood in front of him,",
+      "para_break": true
+    },
+    {
+      "start": 531.58,
+      "end": 532.3,
+      "text": "holding the hat,"
+    },
+    {
+      "start": 532.84,
+      "end": 534.0,
+      "text": "not offering it to him,"
+    },
+    {
+      "start": 534.12,
+      "end": 536.46,
+      "text": "but holding it for him to take if he wished."
+    },
+    {
+      "start": 537.44,
+      "end": 538.86,
+      "text": "Her face was white and thin.",
+      "para_break": true
+    },
+    {
+      "start": 540.192,
+      "end": 541.8,
+      "text": "Spade looked at his hat and asked,",
+      "para_break": true
+    },
+    {
+      "start": 542.24,
+      "end": 543.52,
+      "text": "What happened last night?"
+    },
+    {
+      "start": 545.152,
+      "end": 546.88,
+      "text": "Floyd came to the hotel at nine o'clock,",
+      "para_break": true
+    },
+    {
+      "start": 546.94,
+      "end": 548.12,
+      "text": "and we went out for a walk."
+    },
+    {
+      "start": 548.76,
+      "end": 550.38,
+      "text": "I suggested that so Mr."
+    },
+    {
+      "start": 550.52,
+      "end": 551.62,
+      "text": "Archer could see him."
+    },
+    {
+      "start": 551.98,
+      "end": 554.4,
+      "text": "We stopped at a restaurant in Gary Street,"
+    },
+    {
+      "start": 554.64,
+      "end": 555.86,
+      "text": "I think it was,"
+    },
+    {
+      "start": 556.08,
+      "end": 557.84,
+      "text": "for supper and to dance,"
+    },
+    {
+      "start": 558.36,
+      "end": 561.52,
+      "text": "and came back to the hotel at about half past twelve."
+    },
+    {
+      "start": 562.784,
+      "end": 564.04,
+      "text": "Floyd left me at the door,",
+      "para_break": true
+    },
+    {
+      "start": 564.06,
+      "end": 565.82,
+      "text": "and I stood inside and watched Mr."
+    },
+    {
+      "start": 566.04,
+      "end": 566.3,
+      "text": "Archer"
+    },
+    {
+      "start": 566.3,
+      "end": 568.7,
+      "text": "follow him down the street on the other side."
+    },
+    {
+      "start": 569.64,
+      "end": 570.0,
+      "text": "Down?",
+      "para_break": true
+    },
+    {
+      "start": 570.3,
+      "end": 572.22,
+      "text": "You mean towards Market Street?"
+    },
+    {
+      "start": 572.96,
+      "end": 573.48,
+      "text": "Yes.",
+      "para_break": true
+    },
+    {
+      "start": 574.3,
+      "end": 576.72,
+      "text": "Do you know what they'd be doing in the neighborhood",
+      "para_break": true
+    },
+    {
+      "start": 576.72,
+      "end": 578.82,
+      "text": "of Bush and Stockton where Archer was shot?"
+    },
+    {
+      "start": 580.416,
+      "end": 582.0,
+      "text": "Isn't that near where Floyd lived?",
+      "para_break": true
+    },
+    {
+      "start": 582.98,
+      "end": 583.58,
+      "text": "No,",
+      "para_break": true
+    },
+    {
+      "start": 583.7,
+      "end": 585.9,
+      "text": "it would be nearly a dozen blocks out of his"
+    },
+    {
+      "start": 585.9,
+      "end": 588.34,
+      "text": "way if he was going from your hotel to his."
+    },
+    {
+      "start": 589.06,
+      "end": 589.36,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 590.16,
+      "end": 591.76,
+      "text": "what did you do after they had gone?",
+      "para_break": true
+    },
+    {
+      "start": 592.96,
+      "end": 593.64,
+      "text": "I went to bed,",
+      "para_break": true
+    },
+    {
+      "start": 594.34,
+      "end": 596.0,
+      "text": "and this morning when I went out for breakfast,",
+      "para_break": true
+    },
+    {
+      "start": 596.08,
+      "end": 598.34,
+      "text": "I saw the headlines in the papers and read about,"
+    },
+    {
+      "start": 598.54,
+      "end": 599.44,
+      "text": "you know."
+    },
+    {
+      "start": 600.26,
+      "end": 602.04,
+      "text": "Then I went up to Union Square,",
+      "para_break": true
+    },
+    {
+      "start": 602.32,
+      "end": 604.42,
+      "text": "where I had seen automobiles for hire,"
+    },
+    {
+      "start": 605.08,
+      "end": 607.32,
+      "text": "and got one and went to the hotel for my luggage.",
+      "para_break": true
+    },
+    {
+      "start": 608.38,
+      "end": 610.58,
+      "text": "After I found my room had been searched yesterday,",
+      "para_break": true
+    },
+    {
+      "start": 610.8,
+      "end": 612.34,
+      "text": "I knew I would have to move,"
+    },
+    {
+      "start": 612.96,
+      "end": 614.78,
+      "text": "and I had found this place yesterday afternoon,"
+    },
+    {
+      "start": 615.26,
+      "end": 617.76,
+      "text": "so I came up here and then telephoned your office."
+    },
+    {
+      "start": 619.22,
+      "end": 620.06,
+      "text": "Your room at the St.",
+      "para_break": true
+    },
+    {
+      "start": 620.18,
+      "end": 621.0,
+      "text": "Mark was searched?"
+    },
+    {
+      "start": 621.24,
+      "end": 621.92,
+      "text": "he asked."
+    },
+    {
+      "start": 623.05,
+      "end": 623.4,
+      "text": "Yes,",
+      "para_break": true
+    },
+    {
+      "start": 623.4,
+      "end": 624.81,
+      "text": "while I was at your office,"
+    },
+    {
+      "start": 625.6,
+      "end": 626.28,
+      "text": "she bit her lip.",
+      "para_break": true
+    },
+    {
+      "start": 627.22,
+      "end": 628.34,
+      "text": "I didn't mean to tell you that.",
+      "para_break": true
+    },
+    {
+      "start": 629.74,
+      "end": 632.3,
+      "text": "That means I'm not supposed to question you about it.",
+      "para_break": true
+    },
+    {
+      "start": 633.2,
+      "end": 634.28,
+      "text": "She nodded shyly.",
+      "para_break": true
+    },
+    {
+      "start": 634.66,
+      "end": 635.54,
+      "text": "He frowned."
+    },
+    {
+      "start": 636.54,
+      "end": 638.24,
+      "text": "She moved his hat a little in her hands.",
+      "para_break": true
+    },
+    {
+      "start": 638.94,
+      "end": 640.78,
+      "text": "He laughed impatiently and said,",
+      "para_break": true
+    },
+    {
+      "start": 641.72,
+      "end": 643.42,
+      "text": "Stop waving the hat in my face.",
+      "para_break": true
+    },
+    {
+      "start": 644.256,
+      "end": 645.96,
+      "text": "Haven't I offered to do what I can?",
+      "para_break": true
+    },
+    {
+      "start": 647.26,
+      "end": 648.34,
+      "text": "She smiled contritely,",
+      "para_break": true
+    },
+    {
+      "start": 648.54,
+      "end": 650.06,
+      "text": "returned the hat to the table,"
+    },
+    {
+      "start": 650.18,
+      "end": 652.44,
+      "text": "and sat beside him on the settee again."
+    },
+    {
+      "start": 653.42,
+      "end": 653.82,
+      "text": "He said,",
+      "para_break": true
+    },
+    {
+      "start": 654.54,
+      "end": 656.46,
+      "text": "I've got nothing against trusting you blindly,",
+      "para_break": true
+    },
+    {
+      "start": 656.96,
+      "end": 658.92,
+      "text": "except that I won't be able to do you much good"
+    },
+    {
+      "start": 659.32,
+      "end": 661.64,
+      "text": "if I haven't some idea of what it's all about."
+    },
+    {
+      "start": 661.94,
+      "end": 662.86,
+      "text": "For instance,"
+    },
+    {
+      "start": 663.31,
+      "end": 665.46,
+      "text": "I've got to have some sort of a line"
+    },
+    {
+      "start": 665.6,
+      "end": 666.9,
+      "text": "on your Floyd Thursby."
+    },
+    {
+      "start": 667.73,
+      "end": 669.08,
+      "text": "I met him in the Orient,",
+      "para_break": true
+    },
+    {
+      "start": 669.34,
+      "end": 670.2,
+      "text": "she spoke slowly,"
+    },
+    {
+      "start": 670.52,
+      "end": 672.26,
+      "text": "looking down at a pointed finger"
+    },
+    {
+      "start": 672.44,
+      "end": 674.46,
+      "text": "tracing eights on the settee between them."
+    },
+    {
+      "start": 674.96,
+      "end": 677.4,
+      "text": "We came here from Hong Kong last week."
+    },
+    {
+      "start": 678.22,
+      "end": 678.54,
+      "text": "He was,",
+      "para_break": true
+    },
+    {
+      "start": 678.96,
+      "end": 680.52,
+      "text": "he had promised to help me."
+    },
+    {
+      "start": 681.5,
+      "end": 683.12,
+      "text": "He took advantage of my helplessness",
+      "para_break": true
+    },
+    {
+      "start": 683.12,
+      "end": 685.06,
+      "text": "and dependence on him to betray me."
+    },
+    {
+      "start": 686.08,
+      "end": 686.68,
+      "text": "Betray you how?",
+      "para_break": true
+    },
+    {
+      "start": 688.1,
+      "end": 689.48,
+      "text": "She shook her head and said nothing.",
+      "para_break": true
+    },
+    {
+      "start": 690.14,
+      "end": 690.98,
+      "text": "Spade,",
+      "para_break": true
+    },
+    {
+      "start": 691.02,
+      "end": 692.18,
+      "text": "frowning with impatience,"
+    },
+    {
+      "start": 692.24,
+      "end": 692.58,
+      "text": "asked,"
+    },
+    {
+      "start": 693.14,
+      "end": 694.78,
+      "text": "Why did you want him shadowed?"
+    },
+    {
+      "start": 696.16,
+      "end": 698.04,
+      "text": "I wanted to learn how far he had gone.",
+      "para_break": true
+    },
+    {
+      "start": 698.56,
+      "end": 700.76,
+      "text": "He wouldn't even let me know where he was staying."
+    },
+    {
+      "start": 701.7,
+      "end": 703.36,
+      "text": "I wanted to find out what he was doing,",
+      "para_break": true
+    },
+    {
+      "start": 704.1,
+      "end": 704.86,
+      "text": "whom he was meeting,",
+      "para_break": true
+    },
+    {
+      "start": 705.06,
+      "end": 705.94,
+      "text": "things like that."
+    },
+    {
+      "start": 707.28,
+      "end": 708.12,
+      "text": "Did he kill Archer?",
+      "para_break": true
+    },
+    {
+      "start": 709.38,
+      "end": 710.3,
+      "text": "She looked up at him,",
+      "para_break": true
+    },
+    {
+      "start": 710.4,
+      "end": 710.84,
+      "text": "surprised."
+    },
+    {
+      "start": 711.78,
+      "end": 712.3,
+      "text": "Yes,",
+      "para_break": true
+    },
+    {
+      "start": 712.3,
+      "end": 712.7,
+      "text": "certainly,"
+    },
+    {
+      "start": 713.32,
+      "end": 713.68,
+      "text": "she said."
+    },
+    {
+      "start": 714.18,
+      "end": 716.52,
+      "text": "He had a luger in his shoulder holster."
+    },
+    {
+      "start": 717.056,
+      "end": 718.48,
+      "text": "Archer wasn't shot with a luger."
+    },
+    {
+      "start": 719.26,
+      "end": 721.64,
+      "text": "He had a revolver in his overcoat pocket,",
+      "para_break": true
+    },
+    {
+      "start": 721.82,
+      "end": 722.24,
+      "text": "she said."
+    },
+    {
+      "start": 723.02,
+      "end": 723.7,
+      "text": "You saw it?",
+      "para_break": true
+    },
+    {
+      "start": 724.44,
+      "end": 724.76,
+      "text": "Oh,",
+      "para_break": true
+    },
+    {
+      "start": 724.84,
+      "end": 725.78,
+      "text": "I've seen it often."
+    },
+    {
+      "start": 726.56,
+      "end": 728.22,
+      "text": "I know he always carries one there.",
+      "para_break": true
+    },
+    {
+      "start": 729.1,
+      "end": 730.26,
+      "text": "I didn't see it last night,",
+      "para_break": true
+    },
+    {
+      "start": 730.7,
+      "end": 732.94,
+      "text": "but I know he never wears an overcoat without it."
+    }
+  ]
+}

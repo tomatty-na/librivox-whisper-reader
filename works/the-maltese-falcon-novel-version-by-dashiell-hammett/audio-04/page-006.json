@@ -1,0 +1,712 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-04",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_04_hammett.mp3",
+  "chapter_title": "The Black Bird",
+  "reader_name": "NLizer",
+  "page_num": 6,
+  "page_total": 7,
+  "page_start_sec": 1219.38,
+  "page_end_sec": 1463.28,
+  "para_gap_threshold": 0.657,
+  "segments": [
+    {
+      "start": 1219.38,
+      "end": 1220.22,
+      "text": "He chuckled."
+    },
+    {
+      "start": 1220.46,
+      "end": 1221.16,
+      "text": "Anyway,"
+    },
+    {
+      "start": 1221.36,
+      "end": 1221.86,
+      "text": "she's given"
+    },
+    {
+      "start": 1221.86,
+      "end": 1225.14,
+      "text": "up 700 smacks in two days and that's all right."
+    },
+    {
+      "start": 1226.272,
+      "end": 1227.86,
+      "text": "Effie Perrine sat up straight and said,",
+      "para_break": true
+    },
+    {
+      "start": 1228.48,
+      "end": 1228.94,
+      "text": "Sam,"
+    },
+    {
+      "start": 1229.34,
+      "end": 1231.2,
+      "text": "if that girl's in trouble and you let her"
+    },
+    {
+      "start": 1231.2,
+      "end": 1233.88,
+      "text": "down or take advantage of it to bleed her,"
+    },
+    {
+      "start": 1234.5,
+      "end": 1235.58,
+      "text": "I'll never forgive you,"
+    },
+    {
+      "start": 1235.7,
+      "end": 1238.86,
+      "text": "never have any respect for you as long as I live."
+    },
+    {
+      "start": 1240.192,
+      "end": 1241.24,
+      "text": "Spade smiled unnaturally,",
+      "para_break": true
+    },
+    {
+      "start": 1241.56,
+      "end": 1242.62,
+      "text": "Then he frowned."
+    },
+    {
+      "start": 1242.74,
+      "end": 1244.1,
+      "text": "The frown was unnatural."
+    },
+    {
+      "start": 1244.53,
+      "end": 1246.18,
+      "text": "He opened his mouth to speak,"
+    },
+    {
+      "start": 1246.26,
+      "end": 1246.98,
+      "text": "but the sound of"
+    },
+    {
+      "start": 1247.02,
+      "end": 1249.58,
+      "text": "someone's entrance through the corridor door stopped him."
+    },
+    {
+      "start": 1250.752,
+      "end": 1252.18,
+      "text": "Effie Perrine rose and went into",
+      "para_break": true
+    },
+    {
+      "start": 1252.18,
+      "end": 1252.96,
+      "text": "the outer office."
+    },
+    {
+      "start": 1253.824,
+      "end": 1255.98,
+      "text": "Spade took off his hat and sat in his chair.",
+      "para_break": true
+    },
+    {
+      "start": 1256.43,
+      "end": 1258.54,
+      "text": "The girl returned with an engraved"
+    },
+    {
+      "start": 1258.6,
+      "end": 1258.8,
+      "text": "card."
+    },
+    {
+      "start": 1259.1,
+      "end": 1259.92,
+      "text": "Mr."
+    },
+    {
+      "start": 1260.02,
+      "end": 1260.9,
+      "text": "Joel Cairo."
+    },
+    {
+      "start": 1261.9,
+      "end": 1262.64,
+      "text": "This guy is queer,",
+      "para_break": true
+    },
+    {
+      "start": 1262.8,
+      "end": 1263.24,
+      "text": "she said."
+    },
+    {
+      "start": 1264.24,
+      "end": 1264.74,
+      "text": "In with him,",
+      "para_break": true
+    },
+    {
+      "start": 1264.8,
+      "end": 1264.96,
+      "text": "then,"
+    },
+    {
+      "start": 1265.0,
+      "end": 1265.32,
+      "text": "darling,"
+    },
+    {
+      "start": 1265.48,
+      "end": 1266.04,
+      "text": "said Spade."
+    },
+    {
+      "start": 1266.8,
+      "end": 1267.4,
+      "text": "Mr.",
+      "para_break": true
+    },
+    {
+      "start": 1267.48,
+      "end": 1270.52,
+      "text": "Joel Cairo was a small-boned dark man of medium height."
+    },
+    {
+      "start": 1271.04,
+      "end": 1273.32,
+      "text": "His hair was black and smooth and very glossy."
+    },
+    {
+      "start": 1274.16,
+      "end": 1275.64,
+      "text": "His features were Levantin.",
+      "para_break": true
+    },
+    {
+      "start": 1276.62,
+      "end": 1277.58,
+      "text": "A square-cut ruby,",
+      "para_break": true
+    },
+    {
+      "start": 1277.6,
+      "end": 1280.06,
+      "text": "its sides paralleled by four baguette diamonds,"
+    },
+    {
+      "start": 1280.38,
+      "end": 1283.16,
+      "text": "gleamed against the deep green of his cravat."
+    },
+    {
+      "start": 1284.16,
+      "end": 1284.84,
+      "text": "His black coat,",
+      "para_break": true
+    },
+    {
+      "start": 1285.52,
+      "end": 1286.92,
+      "text": "cut tight to narrow shoulders,",
+      "para_break": true
+    },
+    {
+      "start": 1287.552,
+      "end": 1289.44,
+      "text": "flared a little over slightly plump hips."
+    },
+    {
+      "start": 1290.46,
+      "end": 1292.7,
+      "text": "His trousers fitted his round legs more",
+      "para_break": true
+    },
+    {
+      "start": 1292.704,
+      "end": 1294.3,
+      "text": "snugly than was the current fashion."
+    },
+    {
+      "start": 1295.44,
+      "end": 1298.6,
+      "text": "The uppers of his patent leather shoes were hidden by fawn spats.",
+      "para_break": true
+    },
+    {
+      "start": 1299.06,
+      "end": 1302.14,
+      "text": "He held a black derby hat and a chamois-gloved hand"
+    },
+    {
+      "start": 1302.36,
+      "end": 1304.08,
+      "text": "and came toward Spade with short,"
+    },
+    {
+      "start": 1304.32,
+      "end": 1304.92,
+      "text": "menacing,"
+    },
+    {
+      "start": 1305.0,
+      "end": 1305.72,
+      "text": "bobbing steps."
+    },
+    {
+      "start": 1306.7,
+      "end": 1309.1,
+      "text": "The fragrance of chypre came with him.",
+      "para_break": true
+    },
+    {
+      "start": 1310.272,
+      "end": 1313.0,
+      "text": "Spade inclined his head at his visitor and then at a chair,",
+      "para_break": true
+    },
+    {
+      "start": 1313.1,
+      "end": 1313.38,
+      "text": "saying,"
+    },
+    {
+      "start": 1313.98,
+      "end": 1314.32,
+      "text": "Sit down,"
+    },
+    {
+      "start": 1314.46,
+      "end": 1314.62,
+      "text": "Mr."
+    },
+    {
+      "start": 1314.74,
+      "end": 1315.1,
+      "text": "Cairo."
+    },
+    {
+      "start": 1316.544,
+      "end": 1318.66,
+      "text": "Cairo bowed elaborately over his hat,",
+      "para_break": true
+    },
+    {
+      "start": 1318.82,
+      "end": 1319.46,
+      "text": "said,"
+    },
+    {
+      "start": 1319.9,
+      "end": 1320.48,
+      "text": "I thank you,"
+    },
+    {
+      "start": 1320.56,
+      "end": 1321.48,
+      "text": "in a high-pitched,"
+    },
+    {
+      "start": 1321.48,
+      "end": 1322.0,
+      "text": "thin voice,"
+    },
+    {
+      "start": 1322.04,
+      "end": 1322.62,
+      "text": "and sat down."
+    },
+    {
+      "start": 1323.18,
+      "end": 1324.8,
+      "text": "He sat down primly,"
+    },
+    {
+      "start": 1324.82,
+      "end": 1325.8,
+      "text": "crossing his ankles,"
+    },
+    {
+      "start": 1325.96,
+      "end": 1327.68,
+      "text": "placing his hat on his knees,"
+    },
+    {
+      "start": 1328.24,
+      "end": 1330.0,
+      "text": "and began to draw off his yellow gloves."
+    },
+    {
+      "start": 1331.2,
+      "end": 1333.26,
+      "text": "Spade rocked back in his chair and asked,",
+      "para_break": true
+    },
+    {
+      "start": 1333.62,
+      "end": 1334.9,
+      "text": "Now what can I do for you,"
+    },
+    {
+      "start": 1335.0,
+      "end": 1335.18,
+      "text": "Mr."
+    },
+    {
+      "start": 1335.32,
+      "end": 1335.64,
+      "text": "Cairo?"
+    },
+    {
+      "start": 1336.6,
+      "end": 1338.5,
+      "text": "The amiable negligence of his tone,",
+      "para_break": true
+    },
+    {
+      "start": 1338.64,
+      "end": 1339.92,
+      "text": "his motion in the chair,"
+    },
+    {
+      "start": 1340.26,
+      "end": 1341.64,
+      "text": "were precisely as they had been"
+    },
+    {
+      "start": 1341.84,
+      "end": 1343.84,
+      "text": "when he had addressed the same question to"
+    },
+    {
+      "start": 1343.84,
+      "end": 1346.14,
+      "text": "Bridget O'Shaughnessy on the previous day."
+    },
+    {
+      "start": 1347.1,
+      "end": 1348.8,
+      "text": "Cairo turned his hat over,",
+      "para_break": true
+    },
+    {
+      "start": 1348.92,
+      "end": 1350.6,
+      "text": "dropping his gloves into it,"
+    },
+    {
+      "start": 1350.64,
+      "end": 1352.8,
+      "text": "and placed it bottom up on the corner"
+    },
+    {
+      "start": 1352.8,
+      "end": 1354.02,
+      "text": "of the desk nearest him."
+    },
+    {
+      "start": 1355.168,
+      "end": 1358.14,
+      "text": "Diamonds twinkled on the second and fourth fingers of his left hand,",
+      "para_break": true
+    },
+    {
+      "start": 1358.94,
+      "end": 1361.28,
+      "text": "a ruby that matched the one in his tie even to",
+      "para_break": true
+    },
+    {
+      "start": 1361.28,
+      "end": 1363.32,
+      "text": "the surrounding diamonds on the third finger"
+    },
+    {
+      "start": 1363.46,
+      "end": 1364.26,
+      "text": "of his right hand."
+    },
+    {
+      "start": 1364.77,
+      "end": 1367.04,
+      "text": "His hands were soft and well cared for,"
+    },
+    {
+      "start": 1367.29,
+      "end": 1368.64,
+      "text": "though they were not large."
+    },
+    {
+      "start": 1369.26,
+      "end": 1371.5,
+      "text": "Their flaccid bluntness made them seem clumsy."
+    },
+    {
+      "start": 1371.94,
+      "end": 1374.98,
+      "text": "He rubbed his palms together and said over the"
+    },
+    {
+      "start": 1375.12,
+      "end": 1376.18,
+      "text": "whispering sound they made."
+    },
+    {
+      "start": 1376.32,
+      "end": 1378.86,
+      "text": "May a stranger offer condolences for"
+    },
+    {
+      "start": 1378.86,
+      "end": 1380.4,
+      "text": "your partner's unfortunate death."
+    },
+    {
+      "start": 1381.18,
+      "end": 1381.98,
+      "text": "Thanks.",
+      "para_break": true
+    },
+    {
+      "start": 1382.41,
+      "end": 1383.76,
+      "text": "May I ask,"
+    },
+    {
+      "start": 1383.8,
+      "end": 1383.98,
+      "text": "Mr."
+    },
+    {
+      "start": 1384.08,
+      "end": 1384.38,
+      "text": "Spade,"
+    },
+    {
+      "start": 1384.58,
+      "end": 1385.26,
+      "text": "if there was,"
+    },
+    {
+      "start": 1385.5,
+      "end": 1387.11,
+      "text": "as the newspapers inferred,"
+    },
+    {
+      "start": 1387.16,
+      "end": 1387.84,
+      "text": "a certain,"
+    },
+    {
+      "start": 1387.98,
+      "end": 1388.56,
+      "text": "uh,"
+    },
+    {
+      "start": 1389.0,
+      "end": 1391.52,
+      "text": "relationship between that unfortunate happening"
+    },
+    {
+      "start": 1392.08,
+      "end": 1394.2,
+      "text": "and the death a little later of the man Thursby?"
+    },
+    {
+      "start": 1395.488,
+      "end": 1397.1,
+      "text": "Spade said nothing in a blank-faced,",
+      "para_break": true
+    },
+    {
+      "start": 1397.2,
+      "end": 1397.8,
+      "text": "definite way."
+    },
+    {
+      "start": 1398.976,
+      "end": 1400.14,
+      "text": "Cairo rose and bowed.",
+      "para_break": true
+    },
+    {
+      "start": 1400.22,
+      "end": 1401.44,
+      "text": "I beg your pardon,"
+    },
+    {
+      "start": 1401.82,
+      "end": 1404.3,
+      "text": "He sat down and placed his hands side by side,"
+    },
+    {
+      "start": 1404.36,
+      "end": 1405.0,
+      "text": "palms down,"
+    },
+    {
+      "start": 1405.1,
+      "end": 1406.26,
+      "text": "on the corner of the desk."
+    },
+    {
+      "start": 1406.86,
+      "end": 1409.24,
+      "text": "More than idle curiosity made me ask that,"
+    },
+    {
+      "start": 1409.36,
+      "end": 1409.52,
+      "text": "Mr."
+    },
+    {
+      "start": 1409.66,
+      "end": 1409.94,
+      "text": "Spade."
+    },
+    {
+      "start": 1410.45,
+      "end": 1412.54,
+      "text": "I am trying to recover an,"
+    },
+    {
+      "start": 1412.54,
+      "end": 1412.768,
+      "text": "uh,"
+    },
+    {
+      "start": 1413.44,
+      "end": 1413.96,
+      "text": "ornament",
+      "para_break": true
+    },
+    {
+      "start": 1414.54,
+      "end": 1415.14,
+      "text": "that has been,"
+    },
+    {
+      "start": 1415.18,
+      "end": 1416.0,
+      "text": "shall we say,"
+    },
+    {
+      "start": 1416.22,
+      "end": 1416.87,
+      "text": "mislaid?"
+    },
+    {
+      "start": 1418.4,
+      "end": 1420.16,
+      "text": "I thought and hoped you could assist me.",
+      "para_break": true
+    },
+    {
+      "start": 1421.216,
+      "end": 1424.26,
+      "text": "Spade nodded with eyebrows lifted to indicate attentiveness.",
+      "para_break": true
+    },
+    {
+      "start": 1425.52,
+      "end": 1427.02,
+      "text": "The ornament is a statuette,",
+      "para_break": true
+    },
+    {
+      "start": 1427.52,
+      "end": 1428.24,
+      "text": "Cairo went on,"
+    },
+    {
+      "start": 1428.36,
+      "end": 1430.52,
+      "text": "selecting and mouthing his words carefully."
+    },
+    {
+      "start": 1431.6,
+      "end": 1433.0,
+      "text": "the black figure of a bird.",
+      "para_break": true
+    },
+    {
+      "start": 1434.208,
+      "end": 1436.04,
+      "text": "Spade nodded again with courteous interest.",
+      "para_break": true
+    },
+    {
+      "start": 1437.12,
+      "end": 1438.24,
+      "text": "I am prepared to pay,",
+      "para_break": true
+    },
+    {
+      "start": 1438.44,
+      "end": 1440.32,
+      "text": "on behalf of the figure's rightful owner,"
+    },
+    {
+      "start": 1440.52,
+      "end": 1443.06,
+      "text": "the sum of $5,000 for its recovery."
+    },
+    {
+      "start": 1444.32,
+      "end": 1446.46,
+      "text": "Kyra raised one hand from the desk corner and",
+      "para_break": true
+    },
+    {
+      "start": 1446.46,
+      "end": 1449.02,
+      "text": "touched a spot in the air with the broad-nailed"
+    },
+    {
+      "start": 1449.1,
+      "end": 1450.51,
+      "text": "tip of an ugly forefinger."
+    },
+    {
+      "start": 1451.58,
+      "end": 1453.0,
+      "text": "I am prepared to promise that.",
+      "para_break": true
+    },
+    {
+      "start": 1453.88,
+      "end": 1454.6,
+      "text": "What is the phrase?",
+      "para_break": true
+    },
+    {
+      "start": 1455.72,
+      "end": 1456.06,
+      "text": "No questions",
+      "para_break": true
+    },
+    {
+      "start": 1456.44,
+      "end": 1457.1,
+      "text": "will be asked."
+    },
+    {
+      "start": 1457.82,
+      "end": 1460.12,
+      "text": "He put his hand on the desk again beside",
+      "para_break": true
+    },
+    {
+      "start": 1460.12,
+      "end": 1462.56,
+      "text": "the other and smiled blandly over them at"
+    },
+    {
+      "start": 1462.56,
+      "end": 1463.28,
+      "text": "the private detective."
+    }
+  ]
+}

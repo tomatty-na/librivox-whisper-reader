@@ -1,0 +1,340 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-09",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_09_hammett.mp3",
+  "chapter_title": "Brigid",
+  "reader_name": "NLizer",
+  "page_num": 4,
+  "page_total": 4,
+  "page_start_sec": 729.42,
+  "page_end_sec": 836.02,
+  "para_gap_threshold": 0.559,
+  "segments": [
+    {
+      "start": 729.42,
+      "end": 730.72,
+      "text": "I've never touched it."
+    },
+    {
+      "start": 730.82,
+      "end": 732.34,
+      "text": "I've only seen it once for"
+    },
+    {
+      "start": 732.34,
+      "end": 732.98,
+      "text": "a few minutes."
+    },
+    {
+      "start": 733.74,
+      "end": 736.08,
+      "text": "Floyd showed it to me when we first got hold of it.",
+      "para_break": true
+    },
+    {
+      "start": 737.152,
+      "end": 738.08,
+      "text": "Spade mashed the end of",
+      "para_break": true
+    },
+    {
+      "start": 738.08,
+      "end": 740.14,
+      "text": "his cigarette in his plate and made one"
+    },
+    {
+      "start": 740.14,
+      "end": 742.32,
+      "text": "draft of the coffee and brandy in his cup."
+    },
+    {
+      "start": 743.14,
+      "end": 743.66,
+      "text": "His scowl had",
+      "para_break": true
+    },
+    {
+      "start": 743.66,
+      "end": 744.26,
+      "text": "gone away."
+    },
+    {
+      "start": 744.44,
+      "end": 746.3,
+      "text": "He wiped his lips with his napkin,"
+    },
+    {
+      "start": 746.42,
+      "end": 748.16,
+      "text": "dropped it crumpled on the table,"
+    },
+    {
+      "start": 748.28,
+      "end": 748.84,
+      "text": "and spoke"
+    },
+    {
+      "start": 748.96,
+      "end": 749.42,
+      "text": "casually,"
+    },
+    {
+      "start": 750.24,
+      "end": 750.34,
+      "text": "you",
+      "para_break": true
+    },
+    {
+      "start": 751.02,
+      "end": 751.54,
+      "text": "are a liar.",
+      "para_break": true
+    },
+    {
+      "start": 752.05,
+      "end": 754.32,
+      "text": "She got up and stood at the end of the table,"
+    },
+    {
+      "start": 754.46,
+      "end": 755.52,
+      "text": "looking down at him with"
+    },
+    {
+      "start": 755.66,
+      "end": 757.88,
+      "text": "dark abashed eyes and a pinkening face."
+    },
+    {
+      "start": 758.84,
+      "end": 759.58,
+      "text": "I am a liar,",
+      "para_break": true
+    },
+    {
+      "start": 759.7,
+      "end": 760.1,
+      "text": "she said."
+    },
+    {
+      "start": 760.3,
+      "end": 762.04,
+      "text": "I have always been a liar."
+    },
+    {
+      "start": 763.1,
+      "end": 763.94,
+      "text": "Don't brag about it.",
+      "para_break": true
+    },
+    {
+      "start": 763.98,
+      "end": 764.64,
+      "text": "It's childish."
+    },
+    {
+      "start": 765.18,
+      "end": 766.48,
+      "text": "His voice was good-humored."
+    },
+    {
+      "start": 766.83,
+      "end": 768.88,
+      "text": "He came out from between table"
+    },
+    {
+      "start": 768.88,
+      "end": 769.36,
+      "text": "and bench."
+    },
+    {
+      "start": 770.24,
+      "end": 772.12,
+      "text": "Was there any truth at all in that yarn?",
+      "para_break": true
+    },
+    {
+      "start": 773.06,
+      "end": 773.78,
+      "text": "She hung her head.",
+      "para_break": true
+    },
+    {
+      "start": 773.98,
+      "end": 775.46,
+      "text": "Dampness glistened on"
+    },
+    {
+      "start": 775.46,
+      "end": 776.18,
+      "text": "her dark lashes."
+    },
+    {
+      "start": 776.52,
+      "end": 776.62,
+      "text": "Some,"
+    },
+    {
+      "start": 777.54,
+      "end": 778.5,
+      "text": "she whispered.",
+      "para_break": true
+    },
+    {
+      "start": 779.38,
+      "end": 779.86,
+      "text": "How much?",
+      "para_break": true
+    },
+    {
+      "start": 781.056,
+      "end": 782.54,
+      "text": "Not very much.",
+      "para_break": true
+    },
+    {
+      "start": 783.648,
+      "end": 785.0,
+      "text": "Spade put a hand under her chin",
+      "para_break": true
+    },
+    {
+      "start": 785.18,
+      "end": 785.98,
+      "text": "and lifted her head."
+    },
+    {
+      "start": 786.12,
+      "end": 788.48,
+      "text": "He laughed into her wet eyes and said,"
+    },
+    {
+      "start": 789.52,
+      "end": 791.2,
+      "text": "we've got all night before us.",
+      "para_break": true
+    },
+    {
+      "start": 791.74,
+      "end": 794.76,
+      "text": "I'll put some more brandy and some more coffee and we'll try again."
+    },
+    {
+      "start": 795.14,
+      "end": 797.16,
+      "text": "Her eyelids drooped."
+    },
+    {
+      "start": 797.3,
+      "end": 797.4,
+      "text": "Oh,"
+    },
+    {
+      "start": 798.28,
+      "end": 799.28,
+      "text": "I'm so tired,",
+      "para_break": true
+    },
+    {
+      "start": 799.36,
+      "end": 800.36,
+      "text": "she said tremulously."
+    },
+    {
+      "start": 801.22,
+      "end": 802.34,
+      "text": "So tired of it all,",
+      "para_break": true
+    },
+    {
+      "start": 802.48,
+      "end": 803.18,
+      "text": "of myself,"
+    },
+    {
+      "start": 803.52,
+      "end": 805.5,
+      "text": "of lying and thinking up lies"
+    },
+    {
+      "start": 806.14,
+      "end": 808.8,
+      "text": "and of not knowing what is a lie and what is the truth.",
+      "para_break": true
+    },
+    {
+      "start": 809.23,
+      "end": 810.5,
+      "text": "I wish I..."
+    },
+    {
+      "start": 811.52,
+      "end": 812.48,
+      "text": "She put her hands up to"
+    },
+    {
+      "start": 812.72,
+      "end": 813.18,
+      "text": "Spade's cheeks,"
+    },
+    {
+      "start": 813.48,
+      "end": 816.1,
+      "text": "put her open mouth hard against his mouth,"
+    },
+    {
+      "start": 816.22,
+      "end": 818.1,
+      "text": "her body flat against his body."
+    },
+    {
+      "start": 819.008,
+      "end": 820.28,
+      "text": "Spade's arms went around her,",
+      "para_break": true
+    },
+    {
+      "start": 820.34,
+      "end": 821.24,
+      "text": "holding her to him,"
+    },
+    {
+      "start": 821.44,
+      "end": 823.68,
+      "text": "muscles bulging his blue sleeves,"
+    },
+    {
+      "start": 824.02,
+      "end": 825.5,
+      "text": "a hand cradling her head,"
+    },
+    {
+      "start": 825.68,
+      "end": 827.96,
+      "text": "its fingers half lost among red hair,"
+    },
+    {
+      "start": 828.1,
+      "end": 829.2,
+      "text": "a hand moving,"
+    },
+    {
+      "start": 829.5,
+      "end": 831.54,
+      "text": "groping fingers over her slim back."
+    },
+    {
+      "start": 831.72,
+      "end": 833.78,
+      "text": "His eyes burned yellowly."
+    },
+    {
+      "start": 834.94,
+      "end": 836.02,
+      "text": "End of chapter nine.",
+      "para_break": true
+    }
+  ]
+}

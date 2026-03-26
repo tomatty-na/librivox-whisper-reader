@@ -1,0 +1,832 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-20",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_20_hammett.mp3",
+  "chapter_title": "If They Hang You",
+  "reader_name": "NLizer",
+  "page_num": 5,
+  "page_total": 6,
+  "page_start_sec": 975.38,
+  "page_end_sec": 1268.74,
+  "para_gap_threshold": 0.529,
+  "segments": [
+    {
+      "start": 975.38,
+      "end": 975.78,
+      "text": "If you've been",
+      "para_break": true
+    },
+    {
+      "start": 975.94,
+      "end": 976.56,
+      "text": "playing with me?"
+    },
+    {
+      "start": 977.04,
+      "end": 978.16,
+      "text": "If you do not love me,"
+    },
+    {
+      "start": 978.26,
+      "end": 979.7,
+      "text": "there is no answer to that."
+    },
+    {
+      "start": 980.46,
+      "end": 980.96,
+      "text": "If you did,",
+      "para_break": true
+    },
+    {
+      "start": 981.18,
+      "end": 982.1,
+      "text": "no answer would be"
+    },
+    {
+      "start": 982.18,
+      "end": 982.44,
+      "text": "needed."
+    },
+    {
+      "start": 983.58,
+      "end": 985.3,
+      "text": "Blood streaked Spade's eyeballs now,",
+      "para_break": true
+    },
+    {
+      "start": 985.46,
+      "end": 988.36,
+      "text": "and his long-held smile had become a frightful grimace."
+    },
+    {
+      "start": 988.66,
+      "end": 990.86,
+      "text": "He cleared his throat huskily and said,"
+    },
+    {
+      "start": 991.08,
+      "end": 993.78,
+      "text": "Making speeches is no damn good now."
+    },
+    {
+      "start": 994.0,
+      "end": 995.12,
+      "text": "He put a hand on"
+    },
+    {
+      "start": 995.12,
+      "end": 995.62,
+      "text": "your shoulder."
+    },
+    {
+      "start": 996.1,
+      "end": 997.44,
+      "text": "The hand shook and jerked."
+    },
+    {
+      "start": 997.46,
+      "end": 999.5,
+      "text": "I don't care who loves who."
+    },
+    {
+      "start": 999.7,
+      "end": 1001.3,
+      "text": "I'm not going to play the sap"
+    },
+    {
+      "start": 1001.48,
+      "end": 1001.76,
+      "text": "for you."
+    },
+    {
+      "start": 1002.54,
+      "end": 1005.98,
+      "text": "I won't walk in Thursby's and Christ knows who else's footsteps.",
+      "para_break": true
+    },
+    {
+      "start": 1006.34,
+      "end": 1007.74,
+      "text": "You killed Miles and"
+    },
+    {
+      "start": 1007.74,
+      "end": 1009.02,
+      "text": "you're going over for it."
+    },
+    {
+      "start": 1009.76,
+      "end": 1013.08,
+      "text": "I could have helped you by letting the others go and standing off the",
+      "para_break": true
+    },
+    {
+      "start": 1013.08,
+      "end": 1014.34,
+      "text": "police the best way I could."
+    },
+    {
+      "start": 1015.12,
+      "end": 1016.22,
+      "text": "It's too late for that now.",
+      "para_break": true
+    },
+    {
+      "start": 1016.44,
+      "end": 1019.08,
+      "text": "I can't help you now and I wouldn't if"
+    },
+    {
+      "start": 1019.08,
+      "end": 1019.42,
+      "text": "I could."
+    },
+    {
+      "start": 1020.4,
+      "end": 1022.52,
+      "text": "She put a hand on his hand on her shoulder.",
+      "para_break": true
+    },
+    {
+      "start": 1023.296,
+      "end": 1024.0,
+      "text": "Don't help me then,",
+      "para_break": true
+    },
+    {
+      "start": 1024.12,
+      "end": 1024.84,
+      "text": "she whispered,"
+    },
+    {
+      "start": 1024.84,
+      "end": 1025.5,
+      "text": "but don't hurt"
+    },
+    {
+      "start": 1025.68,
+      "end": 1025.86,
+      "text": "me."
+    },
+    {
+      "start": 1025.9,
+      "end": 1027.38,
+      "text": "Let me go away now."
+    },
+    {
+      "start": 1027.64,
+      "end": 1027.74,
+      "text": "No,"
+    },
+    {
+      "start": 1028.74,
+      "end": 1029.44,
+      "text": "he said.",
+      "para_break": true
+    },
+    {
+      "start": 1029.85,
+      "end": 1033.16,
+      "text": "I'm sunk if I haven't got you to hand over to the police when"
+    },
+    {
+      "start": 1033.16,
+      "end": 1033.46,
+      "text": "they come."
+    },
+    {
+      "start": 1033.86,
+      "end": 1035.58,
+      "text": "That's the only thing that can keep"
+    },
+    {
+      "start": 1035.58,
+      "end": 1037.02,
+      "text": "me from going down with the others."
+    },
+    {
+      "start": 1037.94,
+      "end": 1038.68,
+      "text": "You won't do that",
+      "para_break": true
+    },
+    {
+      "start": 1038.68,
+      "end": 1039.08,
+      "text": "for me."
+    },
+    {
+      "start": 1039.94,
+      "end": 1041.52,
+      "text": "I won't play the sap for you.",
+      "para_break": true
+    },
+    {
+      "start": 1041.78,
+      "end": 1043.18,
+      "text": "Don't say that,"
+    },
+    {
+      "start": 1043.28,
+      "end": 1043.6,
+      "text": "please."
+    },
+    {
+      "start": 1044.6,
+      "end": 1046.0,
+      "text": "She took his hand from her shoulder",
+      "para_break": true
+    },
+    {
+      "start": 1046.2,
+      "end": 1047.32,
+      "text": "and held it to her face."
+    },
+    {
+      "start": 1048.12,
+      "end": 1049.46,
+      "text": "Why must you do this to me,",
+      "para_break": true
+    },
+    {
+      "start": 1049.54,
+      "end": 1049.78,
+      "text": "Sam?"
+    },
+    {
+      "start": 1050.08,
+      "end": 1051.14,
+      "text": "Surely Mr."
+    },
+    {
+      "start": 1051.36,
+      "end": 1053.0,
+      "text": "Archer wasn't as much to you"
+    },
+    {
+      "start": 1053.62,
+      "end": 1054.54,
+      "text": "as Miles,",
+      "para_break": true
+    },
+    {
+      "start": 1055.02,
+      "end": 1056.18,
+      "text": "Spade said hoarsely,"
+    },
+    {
+      "start": 1056.3,
+      "end": 1057.62,
+      "text": "was a son of a bitch."
+    },
+    {
+      "start": 1058.03,
+      "end": 1060.24,
+      "text": "I found that out the first week we were"
+    },
+    {
+      "start": 1060.24,
+      "end": 1061.06,
+      "text": "in business together,"
+    },
+    {
+      "start": 1061.24,
+      "end": 1063.78,
+      "text": "and I meant to kick him out as soon as the year was up."
+    },
+    {
+      "start": 1064.42,
+      "end": 1065.26,
+      "text": "You didn't do me a",
+      "para_break": true
+    },
+    {
+      "start": 1065.34,
+      "end": 1066.78,
+      "text": "damn bit of harm by killing him."
+    },
+    {
+      "start": 1067.5,
+      "end": 1067.92,
+      "text": "Then what?",
+      "para_break": true
+    },
+    {
+      "start": 1068.96,
+      "end": 1070.54,
+      "text": "Spade pulled his hand out of hers.",
+      "para_break": true
+    },
+    {
+      "start": 1070.76,
+      "end": 1071.8,
+      "text": "He no longer either"
+    },
+    {
+      "start": 1071.9,
+      "end": 1073.08,
+      "text": "smiled or grimaced."
+    },
+    {
+      "start": 1073.78,
+      "end": 1076.26,
+      "text": "His wet yellow face was set hard and deeply lined.",
+      "para_break": true
+    },
+    {
+      "start": 1076.52,
+      "end": 1078.36,
+      "text": "His eyes burned madly."
+    },
+    {
+      "start": 1078.5,
+      "end": 1079.52,
+      "text": "He said,"
+    },
+    {
+      "start": 1079.74,
+      "end": 1080.52,
+      "text": "listen,"
+    },
+    {
+      "start": 1081.46,
+      "end": 1082.9,
+      "text": "this isn't a damn bit of good.",
+      "para_break": true
+    },
+    {
+      "start": 1083.6,
+      "end": 1084.92,
+      "text": "You'll never understand me,",
+      "para_break": true
+    },
+    {
+      "start": 1085.32,
+      "end": 1087.74,
+      "text": "but I'll try once more and then we'll give it up."
+    },
+    {
+      "start": 1088.36,
+      "end": 1088.78,
+      "text": "Listen,",
+      "para_break": true
+    },
+    {
+      "start": 1089.78,
+      "end": 1091.16,
+      "text": "when a man's partner is killed,",
+      "para_break": true
+    },
+    {
+      "start": 1091.24,
+      "end": 1092.94,
+      "text": "he's supposed to do something about it."
+    },
+    {
+      "start": 1093.4,
+      "end": 1095.76,
+      "text": "It doesn't make any difference what you thought of him."
+    },
+    {
+      "start": 1096.3,
+      "end": 1099.24,
+      "text": "He was your partner and you're supposed to do something about it.",
+      "para_break": true
+    },
+    {
+      "start": 1099.9,
+      "end": 1101.98,
+      "text": "Then it happens we were in the detective business.",
+      "para_break": true
+    },
+    {
+      "start": 1102.58,
+      "end": 1102.78,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 1102.96,
+      "end": 1105.38,
+      "text": "when one of your organization gets killed,"
+    },
+    {
+      "start": 1105.98,
+      "end": 1108.54,
+      "text": "it's bad business to let the killer get away with it.",
+      "para_break": true
+    },
+    {
+      "start": 1109.12,
+      "end": 1110.18,
+      "text": "It's bad all around.",
+      "para_break": true
+    },
+    {
+      "start": 1110.42,
+      "end": 1111.86,
+      "text": "Bad for that one organization."
+    },
+    {
+      "start": 1112.56,
+      "end": 1114.08,
+      "text": "Bad for every detective everywhere.",
+      "para_break": true
+    },
+    {
+      "start": 1115.0,
+      "end": 1115.3,
+      "text": "Third,",
+      "para_break": true
+    },
+    {
+      "start": 1115.52,
+      "end": 1116.42,
+      "text": "I'm a detective"
+    },
+    {
+      "start": 1116.9,
+      "end": 1118.86,
+      "text": "and expecting me to run criminals down"
+    },
+    {
+      "start": 1119.1,
+      "end": 1120.44,
+      "text": "and then let them go free"
+    },
+    {
+      "start": 1120.64,
+      "end": 1123.52,
+      "text": "is like asking a dog to catch a rabbit and let it go."
+    },
+    {
+      "start": 1124.56,
+      "end": 1125.6,
+      "text": "It can be done all right",
+      "para_break": true
+    },
+    {
+      "start": 1125.78,
+      "end": 1127.08,
+      "text": "and sometimes it is done"
+    },
+    {
+      "start": 1127.34,
+      "end": 1129.02,
+      "text": "but it's not the natural thing."
+    },
+    {
+      "start": 1130.02,
+      "end": 1131.62,
+      "text": "The only way I could have let you go",
+      "para_break": true
+    },
+    {
+      "start": 1131.74,
+      "end": 1133.92,
+      "text": "was by letting Gutman and Cairo and the kid go."
+    },
+    {
+      "start": 1134.66,
+      "end": 1134.86,
+      "text": "that's",
+      "para_break": true
+    },
+    {
+      "start": 1135.78,
+      "end": 1138.66,
+      "text": "you're not serious she said you don't",
+      "para_break": true
+    },
+    {
+      "start": 1138.66,
+      "end": 1140.6,
+      "text": "expect me to think that these things you're"
+    },
+    {
+      "start": 1140.6,
+      "end": 1142.78,
+      "text": "saying are sufficient reason for sending me to"
+    },
+    {
+      "start": 1142.78,
+      "end": 1145.9,
+      "text": "the wait till I'm through and then you can talk"
+    },
+    {
+      "start": 1146.912,
+      "end": 1147.06,
+      "text": "fourth",
+      "para_break": true
+    },
+    {
+      "start": 1147.6,
+      "end": 1150.08,
+      "text": "no matter what I wanted to do now it would",
+      "para_break": true
+    },
+    {
+      "start": 1150.08,
+      "end": 1152.96,
+      "text": "be absolutely impossible for me to let you go"
+    },
+    {
+      "start": 1153.08,
+      "end": 1155.36,
+      "text": "without having myself dragged to the gallows with"
+    },
+    {
+      "start": 1155.36,
+      "end": 1159.4,
+      "text": "the others next I've no reason in God's world to"
+    },
+    {
+      "start": 1159.52,
+      "end": 1160.5,
+      "text": "think I can trust you,"
+    },
+    {
+      "start": 1160.88,
+      "end": 1163.04,
+      "text": "and if I did this and got away with it,"
+    },
+    {
+      "start": 1163.15,
+      "end": 1164.82,
+      "text": "you'd have something on me that you"
+    },
+    {
+      "start": 1164.82,
+      "end": 1166.76,
+      "text": "could use whenever you happen to want to."
+    },
+    {
+      "start": 1167.03,
+      "end": 1168.34,
+      "text": "That's five of them."
+    },
+    {
+      "start": 1168.96,
+      "end": 1170.56,
+      "text": "The sixth would be that,",
+      "para_break": true
+    },
+    {
+      "start": 1170.66,
+      "end": 1171.56,
+      "text": "since I've"
+    },
+    {
+      "start": 1171.64,
+      "end": 1173.04,
+      "text": "also got something on you,"
+    },
+    {
+      "start": 1173.5,
+      "end": 1176.66,
+      "text": "I couldn't be sure you wouldn't decide to shoot a hole in me someday."
+    },
+    {
+      "start": 1177.72,
+      "end": 1178.12,
+      "text": "Seventh,",
+      "para_break": true
+    },
+    {
+      "start": 1178.26,
+      "end": 1180.4,
+      "text": "I don't even like the idea of thinking"
+    },
+    {
+      "start": 1180.4,
+      "end": 1182.44,
+      "text": "that there might be one chance in a hundred"
+    },
+    {
+      "start": 1182.74,
+      "end": 1184.5,
+      "text": "that you'd played me for a sucker."
+    },
+    {
+      "start": 1185.24,
+      "end": 1185.76,
+      "text": "An eighth?",
+      "para_break": true
+    },
+    {
+      "start": 1186.58,
+      "end": 1187.28,
+      "text": "But that's enough.",
+      "para_break": true
+    },
+    {
+      "start": 1188.256,
+      "end": 1189.7,
+      "text": "All those on one side.",
+      "para_break": true
+    },
+    {
+      "start": 1189.92,
+      "end": 1190.7,
+      "text": "Maybe some"
+    },
+    {
+      "start": 1190.7,
+      "end": 1191.7,
+      "text": "of them are unimportant."
+    },
+    {
+      "start": 1192.16,
+      "end": 1193.52,
+      "text": "I won't argue about that."
+    },
+    {
+      "start": 1194.06,
+      "end": 1195.28,
+      "text": "But look at the number of them.",
+      "para_break": true
+    },
+    {
+      "start": 1195.8,
+      "end": 1196.36,
+      "text": "Now on the other"
+    },
+    {
+      "start": 1196.44,
+      "end": 1196.6,
+      "text": "side,"
+    },
+    {
+      "start": 1196.74,
+      "end": 1197.46,
+      "text": "we've got what?"
+    },
+    {
+      "start": 1198.28,
+      "end": 1199.88,
+      "text": "All we've got is the fact that maybe",
+      "para_break": true
+    },
+    {
+      "start": 1199.88,
+      "end": 1201.92,
+      "text": "you love me and maybe I love you."
+    },
+    {
+      "start": 1202.82,
+      "end": 1203.12,
+      "text": "You know,",
+      "para_break": true
+    },
+    {
+      "start": 1203.3,
+      "end": 1204.08,
+      "text": "she whispered,"
+    },
+    {
+      "start": 1204.08,
+      "end": 1205.38,
+      "text": "whether you do or not,"
+    },
+    {
+      "start": 1206.2,
+      "end": 1206.88,
+      "text": "I don't.",
+      "para_break": true
+    },
+    {
+      "start": 1207.04,
+      "end": 1209.18,
+      "text": "It's easy enough to be nuts about you."
+    },
+    {
+      "start": 1209.58,
+      "end": 1212.3,
+      "text": "he looked hungrily from her hair to her feet and"
+    },
+    {
+      "start": 1212.3,
+      "end": 1215.2,
+      "text": "up to her eyes again but i don't know what that"
+    },
+    {
+      "start": 1215.34,
+      "end": 1215.86,
+      "text": "amounts to"
+    },
+    {
+      "start": 1216.62,
+      "end": 1217.58,
+      "text": "does anybody ever",
+      "para_break": true
+    },
+    {
+      "start": 1218.4,
+      "end": 1220.82,
+      "text": "but i suppose i do what of it",
+      "para_break": true
+    },
+    {
+      "start": 1221.62,
+      "end": 1223.7,
+      "text": "maybe next month i won't i've been",
+      "para_break": true
+    },
+    {
+      "start": 1223.8,
+      "end": 1226.12,
+      "text": "through it before when it lasted that long"
+    },
+    {
+      "start": 1226.86,
+      "end": 1227.34,
+      "text": "then what",
+      "para_break": true
+    },
+    {
+      "start": 1228.22,
+      "end": 1229.62,
+      "text": "then i'll think i played the sap",
+      "para_break": true
+    },
+    {
+      "start": 1230.42,
+      "end": 1231.04,
+      "text": "and if i did",
+      "para_break": true
+    },
+    {
+      "start": 1231.16,
+      "end": 1234.14,
+      "text": "it and got sent over then i'd be sure i was the sap"
+    },
+    {
+      "start": 1234.92,
+      "end": 1237.46,
+      "text": "well if i send you over i'll be sorry as hell",
+      "para_break": true
+    },
+    {
+      "start": 1237.64,
+      "end": 1240.08,
+      "text": "I'll have some rotten nights but that'll pass"
+    },
+    {
+      "start": 1241.02,
+      "end": 1243.7,
+      "text": "listen he took her by the shoulders and bent her",
+      "para_break": true
+    },
+    {
+      "start": 1243.7,
+      "end": 1244.92,
+      "text": "back leaning over her"
+    },
+    {
+      "start": 1245.48,
+      "end": 1249.18,
+      "text": "if that doesn't mean anything to you forget it and we'll make it this",
+      "para_break": true
+    },
+    {
+      "start": 1249.43,
+      "end": 1253.22,
+      "text": "I won't because all of me wants to wants to say to"
+    },
+    {
+      "start": 1253.22,
+      "end": 1255.66,
+      "text": "hell with the consequences and do it and because"
+    },
+    {
+      "start": 1256.36,
+      "end": 1259.06,
+      "text": "god damn you you've counted on that with me",
+      "para_break": true
+    },
+    {
+      "start": 1259.06,
+      "end": 1261.32,
+      "text": "the same as you counted on that with the others"
+    },
+    {
+      "start": 1261.87,
+      "end": 1265.16,
+      "text": "he took his hands from her shoulders and let them fall to his sides",
+      "para_break": true
+    },
+    {
+      "start": 1266.0,
+      "end": 1267.14,
+      "text": "she put her hands up to his",
+      "para_break": true
+    },
+    {
+      "start": 1267.26,
+      "end": 1268.74,
+      "text": "cheeks and drew his face down again."
+    }
+  ]
+}

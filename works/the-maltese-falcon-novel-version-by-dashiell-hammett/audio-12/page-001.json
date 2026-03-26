@@ -1,0 +1,698 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-12",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_12_hammett.mp3",
+  "chapter_title": "Merry-Go-Round",
+  "reader_name": "NLizer",
+  "page_num": 1,
+  "page_total": 5,
+  "page_start_sec": 0.76,
+  "page_end_sec": 243.16,
+  "para_gap_threshold": 0.597,
+  "segments": [
+    {
+      "start": 0.76,
+      "end": 4.04,
+      "text": "Chapter 12 of The Maltese Falcon by Dashiell Hammett."
+    },
+    {
+      "start": 4.76,
+      "end": 7.24,
+      "text": "This LibriVox recording is in the public domain.",
+      "para_break": true
+    },
+    {
+      "start": 8.48,
+      "end": 9.06,
+      "text": "Merry-go-round.",
+      "para_break": true
+    },
+    {
+      "start": 10.368,
+      "end": 13.12,
+      "text": "Spade rode down from Gutman's floor in an elevator.",
+      "para_break": true
+    },
+    {
+      "start": 13.8,
+      "end": 17.26,
+      "text": "His lips were dry and rough and a face otherwise pale and damp.",
+      "para_break": true
+    },
+    {
+      "start": 18.22,
+      "end": 20.1,
+      "text": "When he took out his handkerchief to wipe his face,",
+      "para_break": true
+    },
+    {
+      "start": 20.18,
+      "end": 21.41,
+      "text": "he saw his hand trembling."
+    },
+    {
+      "start": 22.5,
+      "end": 23.58,
+      "text": "He grinned at it and said,",
+      "para_break": true
+    },
+    {
+      "start": 24.16,
+      "end": 24.36,
+      "text": "Phew!"
+    },
+    {
+      "start": 25.42,
+      "end": 27.9,
+      "text": "So loudly that the elevator operator turned",
+      "para_break": true
+    },
+    {
+      "start": 27.9,
+      "end": 29.56,
+      "text": "his head over his shoulder and asked,"
+    },
+    {
+      "start": 30.0,
+      "end": 30.1,
+      "text": "Sir?"
+    },
+    {
+      "start": 31.744,
+      "end": 34.0,
+      "text": "Spade walked down Gary Street to the Palace Hotel,",
+      "para_break": true
+    },
+    {
+      "start": 34.26,
+      "end": 35.32,
+      "text": "where he ate luncheon."
+    },
+    {
+      "start": 36.2,
+      "end": 37.04,
+      "text": "His face had lost",
+      "para_break": true
+    },
+    {
+      "start": 37.16,
+      "end": 37.74,
+      "text": "its pallor,"
+    },
+    {
+      "start": 37.92,
+      "end": 38.9,
+      "text": "his lips their dryness,"
+    },
+    {
+      "start": 39.04,
+      "end": 41.98,
+      "text": "and his hand is trembling by the time he had sat down."
+    },
+    {
+      "start": 42.58,
+      "end": 46.38,
+      "text": "He ate hungrily without haste and then went to Sid Wise's office.",
+      "para_break": true
+    },
+    {
+      "start": 46.62,
+      "end": 47.96,
+      "text": "When Spade entered,"
+    },
+    {
+      "start": 48.24,
+      "end": 50.72,
+      "text": "Wise was biting a fingernail and staring at the window."
+    },
+    {
+      "start": 51.33,
+      "end": 52.92,
+      "text": "He took his hand from his mouth,",
+      "para_break": true
+    },
+    {
+      "start": 53.36,
+      "end": 55.42,
+      "text": "screwed his chair around to face Spade and said,"
+    },
+    {
+      "start": 55.82,
+      "end": 55.92,
+      "text": "Hello."
+    },
+    {
+      "start": 57.14,
+      "end": 57.85,
+      "text": "Push a chair up.",
+      "para_break": true
+    },
+    {
+      "start": 59.072,
+      "end": 60.7,
+      "text": "Spade moved a chair to the side of",
+      "para_break": true
+    },
+    {
+      "start": 60.7,
+      "end": 62.62,
+      "text": "the big paper-laden desk and sat down."
+    },
+    {
+      "start": 63.62,
+      "end": 63.94,
+      "text": "Mrs.",
+      "para_break": true
+    },
+    {
+      "start": 64.02,
+      "end": 64.7,
+      "text": "Archer come in?"
+    },
+    {
+      "start": 64.84,
+      "end": 65.48,
+      "text": "he asked."
+    },
+    {
+      "start": 66.38,
+      "end": 66.58,
+      "text": "Yes.",
+      "para_break": true
+    },
+    {
+      "start": 67.68,
+      "end": 69.66,
+      "text": "The famous of lights flickered in Wise's eyes.",
+      "para_break": true
+    },
+    {
+      "start": 70.7,
+      "end": 71.5,
+      "text": "Going to marry the lady,",
+      "para_break": true
+    },
+    {
+      "start": 71.6,
+      "end": 71.84,
+      "text": "Sammy?"
+    },
+    {
+      "start": 72.96,
+      "end": 74.96,
+      "text": "Spade sighed irritably through his nose.",
+      "para_break": true
+    },
+    {
+      "start": 75.58,
+      "end": 76.08,
+      "text": "Christ,",
+      "para_break": true
+    },
+    {
+      "start": 76.52,
+      "end": 77.38,
+      "text": "now you start that,"
+    },
+    {
+      "start": 77.58,
+      "end": 78.12,
+      "text": "he grumbled."
+    },
+    {
+      "start": 79.22,
+      "end": 81.92,
+      "text": "A brief tired smile lifted the corners of the lawyer's mouth.",
+      "para_break": true
+    },
+    {
+      "start": 82.55,
+      "end": 83.54,
+      "text": "If you don't,",
+      "para_break": true
+    },
+    {
+      "start": 83.74,
+      "end": 84.1,
+      "text": "he said,"
+    },
+    {
+      "start": 84.7,
+      "end": 86.46,
+      "text": "you're going to have a job on your hands.",
+      "para_break": true
+    },
+    {
+      "start": 87.456,
+      "end": 90.48,
+      "text": "Spade looked up from the cigarette he was making and spoke sourly.",
+      "para_break": true
+    },
+    {
+      "start": 91.26,
+      "end": 92.0,
+      "text": "You mean you are?",
+      "para_break": true
+    },
+    {
+      "start": 92.7,
+      "end": 93.22,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 93.4,
+      "end": 94.5,
+      "text": "that's what you're for."
+    },
+    {
+      "start": 95.54,
+      "end": 96.42,
+      "text": "What did she tell you?",
+      "para_break": true
+    },
+    {
+      "start": 97.48,
+      "end": 97.88,
+      "text": "About you?",
+      "para_break": true
+    },
+    {
+      "start": 99.232,
+      "end": 100.84,
+      "text": "About anything I ought to know.",
+      "para_break": true
+    },
+    {
+      "start": 102.3,
+      "end": 103.74,
+      "text": "Wise ran fingers through his hair,",
+      "para_break": true
+    },
+    {
+      "start": 103.82,
+      "end": 105.78,
+      "text": "sprinkling dandruff down on his shoulders."
+    },
+    {
+      "start": 107.04,
+      "end": 109.98,
+      "text": "She told me she had tried to get a divorce from Miles so she could.",
+      "para_break": true
+    },
+    {
+      "start": 110.32,
+      "end": 111.94,
+      "text": "I know all that,"
+    },
+    {
+      "start": 112.2,
+      "end": 113.26,
+      "text": "Spade interrupted him."
+    },
+    {
+      "start": 113.98,
+      "end": 114.68,
+      "text": "You can skip it.",
+      "para_break": true
+    },
+    {
+      "start": 114.75,
+      "end": 116.28,
+      "text": "Get to the part I don't know."
+    },
+    {
+      "start": 117.04,
+      "end": 118.84,
+      "text": "How do I know how much she...",
+      "para_break": true
+    },
+    {
+      "start": 118.84,
+      "end": 120.5,
+      "text": "Quit stalling,"
+    },
+    {
+      "start": 120.5,
+      "end": 120.78,
+      "text": "Sid."
+    },
+    {
+      "start": 122.048,
+      "end": 124.12,
+      "text": "Spade held the flame of his lighter to the end of"
+    },
+    {
+      "start": 124.12,
+      "end": 124.52,
+      "text": "his cigarette."
+    },
+    {
+      "start": 125.38,
+      "end": 128.16,
+      "text": "What did she tell you that she wanted kept from me?",
+      "para_break": true
+    },
+    {
+      "start": 129.248,
+      "end": 130.54,
+      "text": "Wise looked reprovingly at",
+      "para_break": true
+    },
+    {
+      "start": 130.64,
+      "end": 130.96,
+      "text": "Spade."
+    },
+    {
+      "start": 131.1,
+      "end": 131.2,
+      "text": "Now,"
+    },
+    {
+      "start": 132.22,
+      "end": 132.68,
+      "text": "Sammy,",
+      "para_break": true
+    },
+    {
+      "start": 132.88,
+      "end": 133.36,
+      "text": "he began,"
+    },
+    {
+      "start": 133.58,
+      "end": 134.44,
+      "text": "that's not..."
+    },
+    {
+      "start": 135.232,
+      "end": 137.84,
+      "text": "Spade looked heavenward at the ceiling and groaned.",
+      "para_break": true
+    },
+    {
+      "start": 138.6,
+      "end": 139.36,
+      "text": "Dear God,",
+      "para_break": true
+    },
+    {
+      "start": 139.6,
+      "end": 142.58,
+      "text": "he's my own lawyer that's got rich off me,"
+    },
+    {
+      "start": 142.94,
+      "end": 146.54,
+      "text": "and I have to get down on my knees and beg him to tell me things."
+    },
+    {
+      "start": 147.26,
+      "end": 148.56,
+      "text": "He lowered at Wise.",
+      "para_break": true
+    },
+    {
+      "start": 149.9,
+      "end": 152.5,
+      "text": "What in hell do you think I sent her to you for?",
+      "para_break": true
+    },
+    {
+      "start": 153.76,
+      "end": 155.04,
+      "text": "Wise made a weary grimace.",
+      "para_break": true
+    },
+    {
+      "start": 156.2,
+      "end": 157.5,
+      "text": "Just one more client like you,",
+      "para_break": true
+    },
+    {
+      "start": 157.62,
+      "end": 158.12,
+      "text": "he complained,"
+    },
+    {
+      "start": 158.74,
+      "end": 161.54,
+      "text": "and I'd be in a sanitarium or San Quentin.",
+      "para_break": true
+    },
+    {
+      "start": 162.54,
+      "end": 163.81,
+      "text": "You'd be with most of your clients.",
+      "para_break": true
+    },
+    {
+      "start": 164.86,
+      "end": 167.2,
+      "text": "Did she tell you where she was the night he was killed?",
+      "para_break": true
+    },
+    {
+      "start": 167.92,
+      "end": 168.02,
+      "text": "Yes.",
+      "para_break": true
+    },
+    {
+      "start": 168.54,
+      "end": 168.64,
+      "text": "Where?"
+    },
+    {
+      "start": 171.168,
+      "end": 171.7,
+      "text": "Following him.",
+      "para_break": true
+    },
+    {
+      "start": 173.024,
+      "end": 174.46,
+      "text": "Spade sat up straight and blinked.",
+      "para_break": true
+    },
+    {
+      "start": 174.54,
+      "end": 176.32,
+      "text": "He exclaimed incredulously,"
+    },
+    {
+      "start": 177.06,
+      "end": 177.78,
+      "text": "Jesus,",
+      "para_break": true
+    },
+    {
+      "start": 178.04,
+      "end": 178.7,
+      "text": "these women."
+    },
+    {
+      "start": 179.76,
+      "end": 180.4,
+      "text": "Then he laughed,",
+      "para_break": true
+    },
+    {
+      "start": 180.54,
+      "end": 181.1,
+      "text": "relaxed,"
+    },
+    {
+      "start": 181.6,
+      "end": 182.1,
+      "text": "and asked,"
+    },
+    {
+      "start": 182.24,
+      "end": 182.9,
+      "text": "well,"
+    },
+    {
+      "start": 183.44,
+      "end": 184.2,
+      "text": "what did she see?"
+    },
+    {
+      "start": 185.42,
+      "end": 186.3,
+      "text": "Wise shook his head.",
+      "para_break": true
+    },
+    {
+      "start": 186.46,
+      "end": 187.4,
+      "text": "Nothing much."
+    },
+    {
+      "start": 188.33,
+      "end": 190.32,
+      "text": "When he came home for dinner that evening,",
+      "para_break": true
+    },
+    {
+      "start": 190.36,
+      "end": 191.28,
+      "text": "he told her he had"
+    },
+    {
+      "start": 191.28,
+      "end": 192.58,
+      "text": "a date with a girl at the St."
+    },
+    {
+      "start": 192.64,
+      "end": 192.92,
+      "text": "Mark,"
+    },
+    {
+      "start": 193.06,
+      "end": 193.8,
+      "text": "ragging her,"
+    },
+    {
+      "start": 193.99,
+      "end": 196.48,
+      "text": "telling her that was her chance to get the divorce"
+    },
+    {
+      "start": 196.62,
+      "end": 197.02,
+      "text": "she wanted."
+    },
+    {
+      "start": 197.98,
+      "end": 200.32,
+      "text": "She thought at first he was just trying to get under her skin.",
+      "para_break": true
+    },
+    {
+      "start": 201.64,
+      "end": 202.02,
+      "text": "He knew.",
+      "para_break": true
+    },
+    {
+      "start": 202.32,
+      "end": 203.84,
+      "text": "I know"
+    },
+    {
+      "start": 203.84,
+      "end": 204.48,
+      "text": "the family history,"
+    },
+    {
+      "start": 204.7,
+      "end": 205.18,
+      "text": "Spade said."
+    },
+    {
+      "start": 205.38,
+      "end": 205.9,
+      "text": "Skip it."
+    },
+    {
+      "start": 206.22,
+      "end": 207.16,
+      "text": "Tell me what she did."
+    },
+    {
+      "start": 208.54,
+      "end": 210.24,
+      "text": "I will if you'll give me a chance.",
+      "para_break": true
+    },
+    {
+      "start": 211.552,
+      "end": 212.52,
+      "text": "After he had gone out,",
+      "para_break": true
+    },
+    {
+      "start": 212.58,
+      "end": 215.52,
+      "text": "she began to think that maybe he might have had that date."
+    },
+    {
+      "start": 216.48,
+      "end": 217.1,
+      "text": "You know Miles.",
+      "para_break": true
+    },
+    {
+      "start": 217.58,
+      "end": 219.26,
+      "text": "It would have been like him too."
+    },
+    {
+      "start": 220.36,
+      "end": 222.0,
+      "text": "You can skip Miles's character too.",
+      "para_break": true
+    },
+    {
+      "start": 222.93,
+      "end": 225.18,
+      "text": "I oughtn't to tell you a damn thing,",
+      "para_break": true
+    },
+    {
+      "start": 225.32,
+      "end": 226.0,
+      "text": "the lawyer said."
+    },
+    {
+      "start": 227.04,
+      "end": 228.9,
+      "text": "So she got their car from the garage",
+      "para_break": true
+    },
+    {
+      "start": 228.9,
+      "end": 230.08,
+      "text": "and drove down to the St."
+    },
+    {
+      "start": 230.14,
+      "end": 230.56,
+      "text": "Mark's,"
+    },
+    {
+      "start": 230.56,
+      "end": 232.08,
+      "text": "sitting in the car across the street."
+    },
+    {
+      "start": 232.94,
+      "end": 234.24,
+      "text": "She saw him come out of the hotel,",
+      "para_break": true
+    },
+    {
+      "start": 234.3,
+      "end": 237.14,
+      "text": "and she saw that he was shadowing a man and a girl."
+    },
+    {
+      "start": 238.04,
+      "end": 240.26,
+      "text": "She says she saw the same girl with you last night,",
+      "para_break": true
+    },
+    {
+      "start": 240.92,
+      "end": 243.16,
+      "text": "who had come out just ahead of him.",
+      "para_break": true
+    }
+  ]
+}

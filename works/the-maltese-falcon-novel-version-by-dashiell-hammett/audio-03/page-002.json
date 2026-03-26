@@ -1,0 +1,670 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-03",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_03_hammett.mp3",
+  "chapter_title": "Three Women",
+  "reader_name": "NLizer",
+  "page_num": 2,
+  "page_total": 4,
+  "page_start_sec": 241.78,
+  "page_end_sec": 482.4,
+  "para_gap_threshold": 0.658,
+  "segments": [
+    {
+      "start": 241.78,
+      "end": 243.22,
+      "text": "She came to stand beside the desk,",
+      "para_break": true
+    },
+    {
+      "start": 243.32,
+      "end": 244.26,
+      "text": "moving with easy,"
+    },
+    {
+      "start": 244.44,
+      "end": 246.64,
+      "text": "surf-rooted grace in black slippers,"
+    },
+    {
+      "start": 247.28,
+      "end": 249.18,
+      "text": "whose smallness and heel height were extreme."
+    },
+    {
+      "start": 250.04,
+      "end": 251.22,
+      "text": "Be kind to me,",
+      "para_break": true
+    },
+    {
+      "start": 251.28,
+      "end": 251.5,
+      "text": "Sam,"
+    },
+    {
+      "start": 251.78,
+      "end": 252.88,
+      "text": "she said humbly."
+    },
+    {
+      "start": 253.65,
+      "end": 254.92,
+      "text": "He laughed at her,",
+      "para_break": true
+    },
+    {
+      "start": 255.4,
+      "end": 256.7,
+      "text": "his eyes still glittering."
+    },
+    {
+      "start": 257.16,
+      "end": 258.46,
+      "text": "You killed my husband,"
+    },
+    {
+      "start": 258.58,
+      "end": 258.84,
+      "text": "Sam."
+    },
+    {
+      "start": 258.98,
+      "end": 259.88,
+      "text": "Be kind to me."
+    },
+    {
+      "start": 260.22,
+      "end": 262.82,
+      "text": "He clapped his palms together and said,"
+    },
+    {
+      "start": 263.552,
+      "end": 264.4,
+      "text": "Jesus Christ.",
+      "para_break": true
+    },
+    {
+      "start": 265.66,
+      "end": 266.98,
+      "text": "She began to cry audibly,",
+      "para_break": true
+    },
+    {
+      "start": 267.16,
+      "end": 269.14,
+      "text": "holding a white handkerchief to her face."
+    },
+    {
+      "start": 269.97,
+      "end": 272.1,
+      "text": "He got up and stood close behind her.",
+      "para_break": true
+    },
+    {
+      "start": 272.68,
+      "end": 273.84,
+      "text": "He put his arms around her."
+    },
+    {
+      "start": 274.29,
+      "end": 276.34,
+      "text": "He kissed her neck between ear"
+    },
+    {
+      "start": 276.58,
+      "end": 277.19,
+      "text": "and coat collar."
+    },
+    {
+      "start": 278.14,
+      "end": 278.48,
+      "text": "He said,",
+      "para_break": true
+    },
+    {
+      "start": 279.34,
+      "end": 280.0,
+      "text": "now Iva,",
+      "para_break": true
+    },
+    {
+      "start": 280.08,
+      "end": 280.98,
+      "text": "don't."
+    },
+    {
+      "start": 281.02,
+      "end": 283.2,
+      "text": "His face was expressionless."
+    },
+    {
+      "start": 283.9,
+      "end": 284.96,
+      "text": "When she had stopped crying,",
+      "para_break": true
+    },
+    {
+      "start": 285.18,
+      "end": 287.26,
+      "text": "he put his mouth to her ear and murmured,"
+    },
+    {
+      "start": 287.4,
+      "end": 289.48,
+      "text": "you shouldn't have come here today,"
+    },
+    {
+      "start": 289.64,
+      "end": 290.0,
+      "text": "precious."
+    },
+    {
+      "start": 290.44,
+      "end": 291.54,
+      "text": "It wasn't wise."
+    },
+    {
+      "start": 292.02,
+      "end": 293.42,
+      "text": "You can't stay."
+    },
+    {
+      "start": 294.16,
+      "end": 295.12,
+      "text": "You ought to be home.",
+      "para_break": true
+    },
+    {
+      "start": 295.95,
+      "end": 298.28,
+      "text": "She turned around in his arms to face him",
+      "para_break": true
+    },
+    {
+      "start": 298.38,
+      "end": 298.76,
+      "text": "and asked,"
+    },
+    {
+      "start": 299.54,
+      "end": 300.28,
+      "text": "you'll come tonight?",
+      "para_break": true
+    },
+    {
+      "start": 301.0,
+      "end": 302.48,
+      "text": "He shook his head gently.",
+      "para_break": true
+    },
+    {
+      "start": 302.64,
+      "end": 303.72,
+      "text": "Not tonight."
+    },
+    {
+      "start": 304.14,
+      "end": 305.26,
+      "text": "Soon?"
+    },
+    {
+      "start": 305.62,
+      "end": 306.68,
+      "text": "Yes."
+    },
+    {
+      "start": 307.0,
+      "end": 308.66,
+      "text": "How soon?"
+    },
+    {
+      "start": 309.88,
+      "end": 311.02,
+      "text": "As soon as I can.",
+      "para_break": true
+    },
+    {
+      "start": 311.67,
+      "end": 313.0,
+      "text": "He kissed her mouth,"
+    },
+    {
+      "start": 313.56,
+      "end": 314.38,
+      "text": "led her to the door,"
+    },
+    {
+      "start": 314.54,
+      "end": 315.22,
+      "text": "opened it,"
+    },
+    {
+      "start": 315.34,
+      "end": 316.54,
+      "text": "said goodbye,"
+    },
+    {
+      "start": 316.78,
+      "end": 317.12,
+      "text": "Iva,"
+    },
+    {
+      "start": 318.08,
+      "end": 318.7,
+      "text": "bowed her out,",
+      "para_break": true
+    },
+    {
+      "start": 319.2,
+      "end": 321.14,
+      "text": "shut the door and returned to his desk."
+    },
+    {
+      "start": 321.52,
+      "end": 323.98,
+      "text": "He took tobacco and cigarette papers from"
+    },
+    {
+      "start": 324.14,
+      "end": 324.72,
+      "text": "his vest pockets,"
+    },
+    {
+      "start": 325.38,
+      "end": 326.46,
+      "text": "but did not roll a cigarette.",
+      "para_break": true
+    },
+    {
+      "start": 326.78,
+      "end": 329.18,
+      "text": "He sat holding the papers in one hand,"
+    },
+    {
+      "start": 329.32,
+      "end": 329.82,
+      "text": "the tobacco"
+    },
+    {
+      "start": 329.92,
+      "end": 330.42,
+      "text": "in the other,"
+    },
+    {
+      "start": 330.9,
+      "end": 334.08,
+      "text": "and looked with brooding eyes at his dead partner's desk."
+    },
+    {
+      "start": 335.424,
+      "end": 336.64,
+      "text": "Effie Perrine opened the door",
+      "para_break": true
+    },
+    {
+      "start": 336.64,
+      "end": 337.2,
+      "text": "and came in."
+    },
+    {
+      "start": 337.36,
+      "end": 338.96,
+      "text": "Her brown eyes were uneasy."
+    },
+    {
+      "start": 339.32,
+      "end": 340.68,
+      "text": "Her voice was careless."
+    },
+    {
+      "start": 341.58,
+      "end": 342.08,
+      "text": "She asked,",
+      "para_break": true
+    },
+    {
+      "start": 342.26,
+      "end": 343.04,
+      "text": "well?"
+    },
+    {
+      "start": 344.544,
+      "end": 345.36,
+      "text": "Spade said nothing.",
+      "para_break": true
+    },
+    {
+      "start": 345.92,
+      "end": 348.52,
+      "text": "His brooding gaze did not move from his partner's desk."
+    },
+    {
+      "start": 349.19,
+      "end": 351.64,
+      "text": "The girl frowned and came around to his side.",
+      "para_break": true
+    },
+    {
+      "start": 351.98,
+      "end": 352.096,
+      "text": "Well,"
+    },
+    {
+      "start": 353.84,
+      "end": 355.16,
+      "text": "she asked in a louder voice,",
+      "para_break": true
+    },
+    {
+      "start": 356.1,
+      "end": 357.92,
+      "text": "how did you and the widow make out?",
+      "para_break": true
+    },
+    {
+      "start": 358.75,
+      "end": 360.18,
+      "text": "She thinks I shot Miles,",
+      "para_break": true
+    },
+    {
+      "start": 360.52,
+      "end": 360.94,
+      "text": "he said,"
+    },
+    {
+      "start": 361.12,
+      "end": 362.58,
+      "text": "only his lips moved."
+    },
+    {
+      "start": 363.88,
+      "end": 364.88,
+      "text": "So you could marry her?",
+      "para_break": true
+    },
+    {
+      "start": 366.048,
+      "end": 367.8,
+      "text": "Spade made no reply to that.",
+      "para_break": true
+    },
+    {
+      "start": 368.8,
+      "end": 371.54,
+      "text": "The girl took his hat from his head and put it on the desk.",
+      "para_break": true
+    },
+    {
+      "start": 372.3,
+      "end": 374.06,
+      "text": "Then she leaned over and took the tobacco",
+      "para_break": true
+    },
+    {
+      "start": 374.06,
+      "end": 376.48,
+      "text": "sack and the papers from his inert fingers."
+    },
+    {
+      "start": 377.78,
+      "end": 379.26,
+      "text": "The police think I shot Thursby,",
+      "para_break": true
+    },
+    {
+      "start": 379.36,
+      "end": 379.74,
+      "text": "he said."
+    },
+    {
+      "start": 380.17,
+      "end": 383.66,
+      "text": "who is he she asked separating a cigarette paper"
+    },
+    {
+      "start": 383.66,
+      "end": 387.06,
+      "text": "from the packet sifting tobacco into it who do"
+    },
+    {
+      "start": 387.06,
+      "end": 388.76,
+      "text": "you think i shot he asked"
+    },
+    {
+      "start": 389.82,
+      "end": 393.84,
+      "text": "when she ignored that question he said thursby's the guy miles was",
+      "para_break": true
+    },
+    {
+      "start": 393.92,
+      "end": 395.88,
+      "text": "supposed to be tailing for the wonderly girl"
+    },
+    {
+      "start": 396.88,
+      "end": 398.88,
+      "text": "her thin fingers finished shaping the cigarette",
+      "para_break": true
+    },
+    {
+      "start": 399.48,
+      "end": 402.54,
+      "text": "she licked it smoothed it twisted its ends and"
+    },
+    {
+      "start": 402.56,
+      "end": 406.08,
+      "text": "placed it between spade's lips he said thanks"
+    },
+    {
+      "start": 406.6,
+      "end": 406.76,
+      "text": "honey,"
+    },
+    {
+      "start": 407.04,
+      "end": 408.88,
+      "text": "put an arm around her slim waist,"
+    },
+    {
+      "start": 409.04,
+      "end": 411.46,
+      "text": "and rested his cheek wearily against her hip,"
+    },
+    {
+      "start": 411.86,
+      "end": 412.58,
+      "text": "shutting his eyes."
+    },
+    {
+      "start": 414.02,
+      "end": 415.58,
+      "text": "Are you going to marry Iva,",
+      "para_break": true
+    },
+    {
+      "start": 415.68,
+      "end": 416.4,
+      "text": "she asked,"
+    },
+    {
+      "start": 416.54,
+      "end": 418.48,
+      "text": "looking down at his pale brown hair."
+    },
+    {
+      "start": 419.808,
+      "end": 420.48,
+      "text": "Don't be silly,",
+      "para_break": true
+    },
+    {
+      "start": 420.74,
+      "end": 421.36,
+      "text": "he muttered."
+    },
+    {
+      "start": 422.32,
+      "end": 424.94,
+      "text": "The unlighted cigarette bobbed up and down with the movement",
+      "para_break": true
+    },
+    {
+      "start": 425.02,
+      "end": 425.7,
+      "text": "of his lips."
+    },
+    {
+      "start": 426.62,
+      "end": 427.76,
+      "text": "She doesn't think it's silly.",
+      "para_break": true
+    },
+    {
+      "start": 428.42,
+      "end": 428.98,
+      "text": "Why should she,",
+      "para_break": true
+    },
+    {
+      "start": 429.1,
+      "end": 431.1,
+      "text": "the way you've played around with her?"
+    },
+    {
+      "start": 431.69,
+      "end": 433.24,
+      "text": "He sighed and said,"
+    },
+    {
+      "start": 433.48,
+      "end": 436.2,
+      "text": "I wish to Christ I'd never seen her."
+    },
+    {
+      "start": 437.34,
+      "end": 438.22,
+      "text": "Maybe you do now,",
+      "para_break": true
+    },
+    {
+      "start": 438.42,
+      "end": 441.38,
+      "text": "a trace of spitefulness came into the girl's voice,"
+    },
+    {
+      "start": 442.06,
+      "end": 442.93,
+      "text": "but there was a time.",
+      "para_break": true
+    },
+    {
+      "start": 443.94,
+      "end": 447.16,
+      "text": "I never know what to do or say to women except that way,",
+      "para_break": true
+    },
+    {
+      "start": 447.34,
+      "end": 447.92,
+      "text": "he grumbled,"
+    },
+    {
+      "start": 448.48,
+      "end": 449.72,
+      "text": "and then I didn't like Miles."
+    },
+    {
+      "start": 451.008,
+      "end": 451.56,
+      "text": "That's a lie,",
+      "para_break": true
+    },
+    {
+      "start": 451.74,
+      "end": 452.02,
+      "text": "Sam,"
+    },
+    {
+      "start": 452.48,
+      "end": 453.1,
+      "text": "the girl said."
+    },
+    {
+      "start": 454.14,
+      "end": 455.9,
+      "text": "You know I think she's a louse,",
+      "para_break": true
+    },
+    {
+      "start": 456.06,
+      "end": 459.42,
+      "text": "and I'd be a louse too if it would give me a body like hers."
+    },
+    {
+      "start": 460.608,
+      "end": 462.94,
+      "text": "Spade rubbed his face impatiently against her hip,",
+      "para_break": true
+    },
+    {
+      "start": 463.26,
+      "end": 463.9,
+      "text": "but said nothing."
+    },
+    {
+      "start": 465.056,
+      "end": 466.3,
+      "text": "Effie Perrine bit her lip,",
+      "para_break": true
+    },
+    {
+      "start": 466.816,
+      "end": 467.64,
+      "text": "wrinkled her forehead,"
+    },
+    {
+      "start": 468.18,
+      "end": 468.4,
+      "text": "and,"
+    },
+    {
+      "start": 468.64,
+      "end": 470.96,
+      "text": "bending over for a better view of his face,"
+    },
+    {
+      "start": 471.1,
+      "end": 471.64,
+      "text": "asked,"
+    },
+    {
+      "start": 472.2,
+      "end": 474.1,
+      "text": "Do you suppose she could have killed him?"
+    },
+    {
+      "start": 475.232,
+      "end": 478.3,
+      "text": "Spade sat up straight and took his arm from her waist.",
+      "para_break": true
+    },
+    {
+      "start": 479.18,
+      "end": 480.04,
+      "text": "He smiled at her.",
+      "para_break": true
+    },
+    {
+      "start": 480.14,
+      "end": 482.4,
+      "text": "His smile held nothing but amusement."
+    }
+  ]
+}

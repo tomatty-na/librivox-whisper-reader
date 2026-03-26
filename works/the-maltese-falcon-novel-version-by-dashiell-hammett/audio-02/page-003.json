@@ -1,0 +1,696 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-02",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_02_hammett.mp3",
+  "chapter_title": "Death in the Fog",
+  "reader_name": "NLizer",
+  "page_num": 3,
+  "page_total": 6,
+  "page_start_sec": 491.2,
+  "page_end_sec": 733.24,
+  "para_gap_threshold": 0.738,
+  "segments": [
+    {
+      "start": 491.2,
+      "end": 492.5,
+      "text": "Didn't anybody hear the shot?",
+      "para_break": true
+    },
+    {
+      "start": 493.48,
+      "end": 494.84,
+      "text": "For the love of God,",
+      "para_break": true
+    },
+    {
+      "start": 495.06,
+      "end": 495.34,
+      "text": "Sam,"
+    },
+    {
+      "start": 495.5,
+      "end": 497.06,
+      "text": "we only just got here."
+    },
+    {
+      "start": 498.336,
+      "end": 499.52,
+      "text": "Somebody must have heard it.",
+      "para_break": true
+    },
+    {
+      "start": 500.06,
+      "end": 500.88,
+      "text": "When we find them,"
+    },
+    {
+      "start": 501.31,
+      "end": 503.24,
+      "text": "He turned and put a leg over the fence."
+    },
+    {
+      "start": 504.32,
+      "end": 506.42,
+      "text": "Coming down for a look at him before he's moved?",
+      "para_break": true
+    },
+    {
+      "start": 507.488,
+      "end": 508.0,
+      "text": "Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 508.22,
+      "end": 508.32,
+      "text": "no."
+    },
+    {
+      "start": 510.4,
+      "end": 512.1,
+      "text": "Tom halted astride the fence and looked",
+      "para_break": true
+    },
+    {
+      "start": 512.1,
+      "end": 514.02,
+      "text": "back at Spade with surprised small eyes."
+    },
+    {
+      "start": 515.072,
+      "end": 515.56,
+      "text": "Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 515.78,
+      "end": 516.92,
+      "text": "you've seen him."
+    },
+    {
+      "start": 517.38,
+      "end": 518.44,
+      "text": "You'd see everything I could."
+    },
+    {
+      "start": 519.38,
+      "end": 520.08,
+      "text": "Tom,",
+      "para_break": true
+    },
+    {
+      "start": 520.14,
+      "end": 521.16,
+      "text": "still looking at Spade,"
+    },
+    {
+      "start": 521.24,
+      "end": 523.82,
+      "text": "nodded doubtfully and withdrew his leg over the fence."
+    },
+    {
+      "start": 524.98,
+      "end": 526.44,
+      "text": "His gun was tucked away on his hip,",
+      "para_break": true
+    },
+    {
+      "start": 526.52,
+      "end": 526.86,
+      "text": "he said."
+    },
+    {
+      "start": 527.26,
+      "end": 528.28,
+      "text": "It hadn't been fired."
+    },
+    {
+      "start": 529.3,
+      "end": 530.56,
+      "text": "His overcoat was buttoned.",
+      "para_break": true
+    },
+    {
+      "start": 531.36,
+      "end": 533.4,
+      "text": "There's 160-some bucks in his clothes.",
+      "para_break": true
+    },
+    {
+      "start": 533.88,
+      "end": 534.86,
+      "text": "Was he working,"
+    },
+    {
+      "start": 534.96,
+      "end": 535.18,
+      "text": "Sam?"
+    },
+    {
+      "start": 536.2,
+      "end": 537.0,
+      "text": "Spade,",
+      "para_break": true
+    },
+    {
+      "start": 537.08,
+      "end": 538.06,
+      "text": "after a moment's hesitation,"
+    },
+    {
+      "start": 538.36,
+      "end": 538.78,
+      "text": "nodded."
+    },
+    {
+      "start": 539.78,
+      "end": 540.2,
+      "text": "Tom asked,",
+      "para_break": true
+    },
+    {
+      "start": 540.74,
+      "end": 540.92,
+      "text": "Well?"
+    },
+    {
+      "start": 541.86,
+      "end": 544.96,
+      "text": "He was supposed to be tailing a fellow named Floyd Thursby,",
+      "para_break": true
+    },
+    {
+      "start": 545.62,
+      "end": 546.0,
+      "text": "Spade said,"
+    },
+    {
+      "start": 546.16,
+      "end": 549.36,
+      "text": "and described Thursby as Miss Wonderly had described him."
+    },
+    {
+      "start": 550.464,
+      "end": 550.74,
+      "text": "What for?",
+      "para_break": true
+    },
+    {
+      "start": 552.256,
+      "end": 554.12,
+      "text": "Spade put his hands into his overcoat",
+      "para_break": true
+    },
+    {
+      "start": 554.12,
+      "end": 556.2,
+      "text": "pockets and blinked sleepy eyes at Tom."
+    },
+    {
+      "start": 557.376,
+      "end": 558.55,
+      "text": "Tom repeated impatiently,",
+      "para_break": true
+    },
+    {
+      "start": 559.424,
+      "end": 560.032,
+      "text": "What for?",
+      "para_break": true
+    },
+    {
+      "start": 561.6,
+      "end": 562.88,
+      "text": "\"'He was an Englishman,",
+      "para_break": true
+    },
+    {
+      "start": 562.9,
+      "end": 563.18,
+      "text": "maybe."
+    },
+    {
+      "start": 563.32,
+      "end": 565.12,
+      "text": "I don't know what his game was exactly."
+    },
+    {
+      "start": 565.98,
+      "end": 567.77,
+      "text": "We were trying to find out where he lived.'",
+      "para_break": true
+    },
+    {
+      "start": 568.64,
+      "end": 570.44,
+      "text": "Spade grinned faintly and took a hand",
+      "para_break": true
+    },
+    {
+      "start": 570.44,
+      "end": 572.18,
+      "text": "from his pocket to pat Tom's shoulder."
+    },
+    {
+      "start": 573.344,
+      "end": 574.06,
+      "text": "\"'Don't crowd me.'",
+      "para_break": true
+    },
+    {
+      "start": 574.68,
+      "end": 576.54,
+      "text": "He put the hand in his pocket again."
+    },
+    {
+      "start": 577.5,
+      "end": 579.79,
+      "text": "\"'I'm going out to break the news to Miles's wife.'",
+      "para_break": true
+    },
+    {
+      "start": 580.2,
+      "end": 580.86,
+      "text": "He turned away."
+    },
+    {
+      "start": 581.8,
+      "end": 582.5,
+      "text": "Tom,",
+      "para_break": true
+    },
+    {
+      "start": 582.6,
+      "end": 583.12,
+      "text": "scowling,"
+    },
+    {
+      "start": 583.2,
+      "end": 583.96,
+      "text": "opened his mouth,"
+    },
+    {
+      "start": 584.72,
+      "end": 586.04,
+      "text": "closed it without having said anything,",
+      "para_break": true
+    },
+    {
+      "start": 586.7,
+      "end": 587.4,
+      "text": "cleared his throat,"
+    },
+    {
+      "start": 587.6,
+      "end": 589.52,
+      "text": "put the scowl off his face,"
+    },
+    {
+      "start": 589.94,
+      "end": 591.86,
+      "text": "and spoke with a husky sort of gentleness."
+    },
+    {
+      "start": 593.08,
+      "end": 593.56,
+      "text": "It's tough,",
+      "para_break": true
+    },
+    {
+      "start": 594.06,
+      "end": 595.08,
+      "text": "him getting it like that."
+    },
+    {
+      "start": 595.96,
+      "end": 597.84,
+      "text": "Miles had his faults same as the rest of us,",
+      "para_break": true
+    },
+    {
+      "start": 598.06,
+      "end": 600.1,
+      "text": "but I guess he must have had some good points,"
+    },
+    {
+      "start": 600.2,
+      "end": 600.46,
+      "text": "too."
+    },
+    {
+      "start": 601.44,
+      "end": 601.98,
+      "text": "I guess so,",
+      "para_break": true
+    },
+    {
+      "start": 602.22,
+      "end": 603.02,
+      "text": "Spade agreed,"
+    },
+    {
+      "start": 603.32,
+      "end": 604.69,
+      "text": "in a tone that was utterly meaningless,"
+    },
+    {
+      "start": 605.08,
+      "end": 606.54,
+      "text": "and went out of the alley."
+    },
+    {
+      "start": 607.66,
+      "end": 610.4,
+      "text": "In an all-night drugstore on the corner of Bush and Taylor Streets,",
+      "para_break": true
+    },
+    {
+      "start": 610.4,
+      "end": 611.44,
+      "text": "Spade used a telephone."
+    },
+    {
+      "start": 612.76,
+      "end": 613.24,
+      "text": "Precious,",
+      "para_break": true
+    },
+    {
+      "start": 613.62,
+      "end": 616.34,
+      "text": "he said into it a little while after he had given a number."
+    },
+    {
+      "start": 617.52,
+      "end": 618.3,
+      "text": "Miles has been shot.",
+      "para_break": true
+    },
+    {
+      "start": 618.96,
+      "end": 619.32,
+      "text": "Yes,"
+    },
+    {
+      "start": 619.56,
+      "end": 620.32,
+      "text": "he's dead."
+    },
+    {
+      "start": 621.24,
+      "end": 622.08,
+      "text": "Now don't get excited.",
+      "para_break": true
+    },
+    {
+      "start": 623.12,
+      "end": 623.52,
+      "text": "Yes,",
+      "para_break": true
+    },
+    {
+      "start": 624.48,
+      "end": 625.64,
+      "text": "you'll have to break it to Iva.",
+      "para_break": true
+    },
+    {
+      "start": 626.28,
+      "end": 626.86,
+      "text": "No,"
+    },
+    {
+      "start": 626.9,
+      "end": 628.36,
+      "text": "I'm damned if I will."
+    },
+    {
+      "start": 629.472,
+      "end": 630.46,
+      "text": "You've got to do it.",
+      "para_break": true
+    },
+    {
+      "start": 631.2,
+      "end": 632.02,
+      "text": "That's a good girl.",
+      "para_break": true
+    },
+    {
+      "start": 632.78,
+      "end": 634.06,
+      "text": "And keep her away from the office.",
+      "para_break": true
+    },
+    {
+      "start": 635.1,
+      "end": 636.04,
+      "text": "Tell her I'll see her,",
+      "para_break": true
+    },
+    {
+      "start": 636.22,
+      "end": 636.66,
+      "text": "uh,"
+    },
+    {
+      "start": 636.92,
+      "end": 637.42,
+      "text": "sometime."
+    },
+    {
+      "start": 638.65,
+      "end": 639.1,
+      "text": "Yes,",
+      "para_break": true
+    },
+    {
+      "start": 639.1,
+      "end": 640.32,
+      "text": "but don't tie me up to anything."
+    },
+    {
+      "start": 641.44,
+      "end": 642.16,
+      "text": "That's the stuff.",
+      "para_break": true
+    },
+    {
+      "start": 642.72,
+      "end": 643.26,
+      "text": "You're an angel."
+    },
+    {
+      "start": 643.96,
+      "end": 644.18,
+      "text": "Bye."
+    },
+    {
+      "start": 645.632,
+      "end": 647.74,
+      "text": "Spade's tinny alarm clock said 3.40",
+      "para_break": true
+    },
+    {
+      "start": 648.22,
+      "end": 650.48,
+      "text": "when he turned on the light in the suspended bowl again."
+    },
+    {
+      "start": 651.62,
+      "end": 654.76,
+      "text": "He dropped his hat and overcoat on the bed and went into his kitchen,",
+      "para_break": true
+    },
+    {
+      "start": 655.584,
+      "end": 657.26,
+      "text": "returning to the bedroom with a wine",
+      "para_break": true
+    },
+    {
+      "start": 657.26,
+      "end": 659.22,
+      "text": "glass and a tall bottle of Bacardi."
+    },
+    {
+      "start": 660.32,
+      "end": 661.84,
+      "text": "He poured a drink and drank it standing.",
+      "para_break": true
+    },
+    {
+      "start": 662.72,
+      "end": 664.76,
+      "text": "He put bottle and glass on the table,",
+      "para_break": true
+    },
+    {
+      "start": 665.34,
+      "end": 667.06,
+      "text": "sat on the side of the bed facing them,"
+    },
+    {
+      "start": 667.14,
+      "end": 668.2,
+      "text": "and rolled a cigarette."
+    },
+    {
+      "start": 668.85,
+      "end": 671.68,
+      "text": "He had drunk his third glass of Bacardi and was lighting"
+    },
+    {
+      "start": 671.68,
+      "end": 674.34,
+      "text": "his fifth cigarette when the street doorbell rang."
+    },
+    {
+      "start": 674.88,
+      "end": 677.52,
+      "text": "The hands of the alarm clock registered 4.30."
+    },
+    {
+      "start": 678.624,
+      "end": 679.54,
+      "text": "Spade sighed,",
+      "para_break": true
+    },
+    {
+      "start": 679.54,
+      "end": 680.78,
+      "text": "rose from the bed,"
+    },
+    {
+      "start": 681.06,
+      "end": 683.66,
+      "text": "and went to the telephone box beside his bathroom door."
+    },
+    {
+      "start": 684.74,
+      "end": 686.82,
+      "text": "He pressed the button that released the street door lock.",
+      "para_break": true
+    },
+    {
+      "start": 687.32,
+      "end": 687.76,
+      "text": "He muttered,"
+    },
+    {
+      "start": 687.88,
+      "end": 688.84,
+      "text": "damn her,"
+    },
+    {
+      "start": 689.6,
+      "end": 691.64,
+      "text": "and stood scowling at the black telephone box,",
+      "para_break": true
+    },
+    {
+      "start": 692.256,
+      "end": 693.28,
+      "text": "breathing irregularly"
+    },
+    {
+      "start": 693.8,
+      "end": 695.72,
+      "text": "while a dull flush grew in his cheeks."
+    },
+    {
+      "start": 696.23,
+      "end": 699.02,
+      "text": "The grating and rattling of the elevator door"
+    },
+    {
+      "start": 699.02,
+      "end": 701.0,
+      "text": "opening and closing came from the corridor."
+    },
+    {
+      "start": 702.08,
+      "end": 704.46,
+      "text": "Spade sighed again and moved towards the corridor door.",
+      "para_break": true
+    },
+    {
+      "start": 705.44,
+      "end": 705.84,
+      "text": "Soft,",
+      "para_break": true
+    },
+    {
+      "start": 706.0,
+      "end": 708.62,
+      "text": "heavy footsteps sounded on the carpeted floor outside."
+    },
+    {
+      "start": 709.7,
+      "end": 710.92,
+      "text": "The footsteps of two men.",
+      "para_break": true
+    },
+    {
+      "start": 712.064,
+      "end": 713.56,
+      "text": "Spade's face brightened.",
+      "para_break": true
+    },
+    {
+      "start": 714.48,
+      "end": 716.13,
+      "text": "His eyes were no longer harassed.",
+      "para_break": true
+    },
+    {
+      "start": 716.64,
+      "end": 717.8,
+      "text": "He opened the door quickly."
+    },
+    {
+      "start": 718.76,
+      "end": 719.1,
+      "text": "Hello,",
+      "para_break": true
+    },
+    {
+      "start": 719.16,
+      "end": 719.42,
+      "text": "Tom,"
+    },
+    {
+      "start": 719.58,
+      "end": 722.08,
+      "text": "he said to the barrel-bellied tall detective"
+    },
+    {
+      "start": 722.56,
+      "end": 724.42,
+      "text": "with whom he had talked in Burritt Street."
+    },
+    {
+      "start": 725.12,
+      "end": 727.88,
+      "text": "and hello lieutenant to the man beside Tom."
+    },
+    {
+      "start": 728.56,
+      "end": 728.86,
+      "text": "Come in."
+    },
+    {
+      "start": 730.02,
+      "end": 732.16,
+      "text": "They nodded together neither saying anything",
+      "para_break": true
+    },
+    {
+      "start": 732.46,
+      "end": 733.24,
+      "text": "and came in."
+    }
+  ]
+}

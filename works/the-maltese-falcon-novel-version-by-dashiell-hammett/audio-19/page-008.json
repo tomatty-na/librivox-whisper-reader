@@ -1,0 +1,778 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-19",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_19_hammett.mp3",
+  "chapter_title": "The Russian's Hand",
+  "reader_name": "NLizer",
+  "page_num": 8,
+  "page_total": 10,
+  "page_start_sec": 1738.29,
+  "page_end_sec": 1996.92,
+  "para_gap_threshold": 0.559,
+  "segments": [
+    {
+      "start": 1738.29,
+      "end": 1740.44,
+      "text": "You don't mind if I go to the door with you,",
+      "para_break": true
+    },
+    {
+      "start": 1740.54,
+      "end": 1741.06,
+      "text": "he asked."
+    },
+    {
+      "start": 1741.26,
+      "end": 1742.0,
+      "text": "Okay,"
+    },
+    {
+      "start": 1742.28,
+      "end": 1743.34,
+      "text": "Spade told him."
+    },
+    {
+      "start": 1744.416,
+      "end": 1745.18,
+      "text": "Gutman followed him",
+      "para_break": true
+    },
+    {
+      "start": 1745.18,
+      "end": 1746.1,
+      "text": "to the corridor door."
+    },
+    {
+      "start": 1746.38,
+      "end": 1747.6,
+      "text": "Spade opened it."
+    },
+    {
+      "start": 1747.74,
+      "end": 1748.64,
+      "text": "Presently,"
+    },
+    {
+      "start": 1748.68,
+      "end": 1749.38,
+      "text": "Effie Perrine,"
+    },
+    {
+      "start": 1749.48,
+      "end": 1751.0,
+      "text": "carrying the brown wrapped parcel,"
+    },
+    {
+      "start": 1751.12,
+      "end": 1752.04,
+      "text": "came from the elevator."
+    },
+    {
+      "start": 1752.32,
+      "end": 1754.84,
+      "text": "Her boyish face was gay and bright,"
+    },
+    {
+      "start": 1755.14,
+      "end": 1756.1,
+      "text": "and she came forward quickly,"
+    },
+    {
+      "start": 1756.46,
+      "end": 1757.22,
+      "text": "almost trotting."
+    },
+    {
+      "start": 1757.45,
+      "end": 1758.5,
+      "text": "After one glance,"
+    },
+    {
+      "start": 1758.6,
+      "end": 1759.8,
+      "text": "she did not look at Gutman."
+    },
+    {
+      "start": 1760.03,
+      "end": 1761.74,
+      "text": "She smiled at Spade and gave him"
+    },
+    {
+      "start": 1761.84,
+      "end": 1762.12,
+      "text": "the parcel."
+    },
+    {
+      "start": 1762.71,
+      "end": 1763.66,
+      "text": "He took it,",
+      "para_break": true
+    },
+    {
+      "start": 1763.68,
+      "end": 1763.92,
+      "text": "saying,"
+    },
+    {
+      "start": 1764.08,
+      "end": 1764.82,
+      "text": "Thanks a lot,"
+    },
+    {
+      "start": 1764.88,
+      "end": 1765.1,
+      "text": "lady."
+    },
+    {
+      "start": 1765.34,
+      "end": 1768.0,
+      "text": "I'm sorry to spoil your day of rest,"
+    },
+    {
+      "start": 1768.1,
+      "end": 1768.58,
+      "text": "but this,"
+    },
+    {
+      "start": 1769.38,
+      "end": 1770.77,
+      "text": "it's not the first one you've spoiled,",
+      "para_break": true
+    },
+    {
+      "start": 1770.94,
+      "end": 1771.36,
+      "text": "she replied,"
+    },
+    {
+      "start": 1771.7,
+      "end": 1772.24,
+      "text": "laughing,"
+    },
+    {
+      "start": 1772.34,
+      "end": 1772.7,
+      "text": "and then,"
+    },
+    {
+      "start": 1773.1,
+      "end": 1773.72,
+      "text": "when it was apparent"
+    },
+    {
+      "start": 1773.72,
+      "end": 1775.58,
+      "text": "that he was not going to invite her in,"
+    },
+    {
+      "start": 1775.66,
+      "end": 1776.0,
+      "text": "asked,"
+    },
+    {
+      "start": 1776.68,
+      "end": 1777.28,
+      "text": "Anything else?",
+      "para_break": true
+    },
+    {
+      "start": 1777.74,
+      "end": 1778.78,
+      "text": "He shook his head."
+    },
+    {
+      "start": 1778.98,
+      "end": 1779.42,
+      "text": "No,"
+    },
+    {
+      "start": 1779.42,
+      "end": 1779.7,
+      "text": "thanks."
+    },
+    {
+      "start": 1780.58,
+      "end": 1780.96,
+      "text": "She said,",
+      "para_break": true
+    },
+    {
+      "start": 1781.06,
+      "end": 1781.58,
+      "text": "Bye-bye,"
+    },
+    {
+      "start": 1781.8,
+      "end": 1783.34,
+      "text": "and went back to the elevator."
+    },
+    {
+      "start": 1784.544,
+      "end": 1786.52,
+      "text": "Spade shut the door and carried the parcel into",
+      "para_break": true
+    },
+    {
+      "start": 1786.66,
+      "end": 1787.26,
+      "text": "the living room."
+    },
+    {
+      "start": 1788.032,
+      "end": 1790.26,
+      "text": "Gutman's face was red and his cheeks quivered.",
+      "para_break": true
+    },
+    {
+      "start": 1791.168,
+      "end": 1792.52,
+      "text": "Cairo and Bridget O'Shaughnessy",
+      "para_break": true
+    },
+    {
+      "start": 1792.52,
+      "end": 1794.62,
+      "text": "came to the table as Spade put the parcel there."
+    },
+    {
+      "start": 1795.28,
+      "end": 1795.96,
+      "text": "They were excited.",
+      "para_break": true
+    },
+    {
+      "start": 1797.12,
+      "end": 1797.76,
+      "text": "The boy rose,",
+      "para_break": true
+    },
+    {
+      "start": 1797.94,
+      "end": 1798.66,
+      "text": "pale and tense,"
+    },
+    {
+      "start": 1798.9,
+      "end": 1800.22,
+      "text": "but he remained by the sofa,"
+    },
+    {
+      "start": 1800.3,
+      "end": 1802.52,
+      "text": "staring under curling lashes at the others."
+    },
+    {
+      "start": 1803.552,
+      "end": 1804.9,
+      "text": "Spade stepped back from the table,",
+      "para_break": true
+    },
+    {
+      "start": 1804.96,
+      "end": 1805.22,
+      "text": "saying,"
+    },
+    {
+      "start": 1805.9,
+      "end": 1806.44,
+      "text": "There you are.",
+      "para_break": true
+    },
+    {
+      "start": 1807.648,
+      "end": 1809.52,
+      "text": "Gutman's fat fingers made short work of",
+      "para_break": true
+    },
+    {
+      "start": 1809.54,
+      "end": 1811.22,
+      "text": "cord and paper and excelsior,"
+    },
+    {
+      "start": 1811.32,
+      "end": 1813.5,
+      "text": "and he had the black bird in his hands."
+    },
+    {
+      "start": 1813.88,
+      "end": 1814.48,
+      "text": "Ah,"
+    },
+    {
+      "start": 1814.74,
+      "end": 1815.62,
+      "text": "he said huskily,"
+    },
+    {
+      "start": 1815.9,
+      "end": 1817.78,
+      "text": "now after 17 years."
+    },
+    {
+      "start": 1818.76,
+      "end": 1819.68,
+      "text": "His eyes were moist.",
+      "para_break": true
+    },
+    {
+      "start": 1820.544,
+      "end": 1823.16,
+      "text": "Cairo licked his red lips and worked his hands together.",
+      "para_break": true
+    },
+    {
+      "start": 1823.92,
+      "end": 1825.7,
+      "text": "The girl's lower lip was between her teeth.",
+      "para_break": true
+    },
+    {
+      "start": 1826.42,
+      "end": 1827.08,
+      "text": "She and Cairo,",
+      "para_break": true
+    },
+    {
+      "start": 1827.16,
+      "end": 1829.04,
+      "text": "like Gutman and like Spade and the boy,"
+    },
+    {
+      "start": 1829.38,
+      "end": 1830.26,
+      "text": "were breathing heavily."
+    },
+    {
+      "start": 1830.77,
+      "end": 1832.58,
+      "text": "The air in the room was chilly and"
+    },
+    {
+      "start": 1832.58,
+      "end": 1834.74,
+      "text": "stale and thick with tobacco smoke."
+    },
+    {
+      "start": 1835.84,
+      "end": 1837.38,
+      "text": "Gutman set the bird down on the table",
+      "para_break": true
+    },
+    {
+      "start": 1837.38,
+      "end": 1838.74,
+      "text": "again and fumbled at her pocket."
+    },
+    {
+      "start": 1839.16,
+      "end": 1839.98,
+      "text": "Is it?"
+    },
+    {
+      "start": 1840.12,
+      "end": 1840.82,
+      "text": "he said."
+    },
+    {
+      "start": 1841.62,
+      "end": 1842.52,
+      "text": "But we'll make sure.",
+      "para_break": true
+    },
+    {
+      "start": 1843.776,
+      "end": 1845.54,
+      "text": "Sweat glistened on his round cheeks.",
+      "para_break": true
+    },
+    {
+      "start": 1845.78,
+      "end": 1846.66,
+      "text": "His fingers"
+    },
+    {
+      "start": 1846.78,
+      "end": 1849.44,
+      "text": "twitched as he took out a gold pocket knife and opened it."
+    },
+    {
+      "start": 1850.4,
+      "end": 1852.04,
+      "text": "Cairo and the girl stood close to him,",
+      "para_break": true
+    },
+    {
+      "start": 1852.12,
+      "end": 1853.12,
+      "text": "one on either side."
+    },
+    {
+      "start": 1854.176,
+      "end": 1857.32,
+      "text": "Spade stood back a little where he could watch the boy as well as the",
+      "para_break": true
+    },
+    {
+      "start": 1857.34,
+      "end": 1858.08,
+      "text": "group at the table."
+    },
+    {
+      "start": 1859.232,
+      "end": 1860.8,
+      "text": "Gutman turned the bird upside down and",
+      "para_break": true
+    },
+    {
+      "start": 1860.8,
+      "end": 1862.32,
+      "text": "scraped an edge of its base with his"
+    },
+    {
+      "start": 1862.46,
+      "end": 1862.64,
+      "text": "knife."
+    },
+    {
+      "start": 1862.97,
+      "end": 1865.38,
+      "text": "Black enamel came off in tiny curls,"
+    },
+    {
+      "start": 1865.6,
+      "end": 1867.46,
+      "text": "exposing blackened metal beneath."
+    },
+    {
+      "start": 1868.1,
+      "end": 1868.88,
+      "text": "Gutman's",
+      "para_break": true
+    },
+    {
+      "start": 1868.88,
+      "end": 1870.46,
+      "text": "knife blade bit into the metal,"
+    },
+    {
+      "start": 1870.62,
+      "end": 1872.3,
+      "text": "turning back a thin,"
+    },
+    {
+      "start": 1872.34,
+      "end": 1873.22,
+      "text": "curved shaving."
+    },
+    {
+      "start": 1874.1,
+      "end": 1875.06,
+      "text": "The inside of the shaving",
+      "para_break": true
+    },
+    {
+      "start": 1875.2,
+      "end": 1877.14,
+      "text": "and the narrow plane its removal had"
+    },
+    {
+      "start": 1877.14,
+      "end": 1879.28,
+      "text": "left had the soft gray sheen of lead."
+    },
+    {
+      "start": 1880.416,
+      "end": 1881.42,
+      "text": "Gutman's breath hissed",
+      "para_break": true
+    },
+    {
+      "start": 1881.42,
+      "end": 1882.16,
+      "text": "between his teeth."
+    },
+    {
+      "start": 1882.74,
+      "end": 1884.68,
+      "text": "His face became turgid with hot blood.",
+      "para_break": true
+    },
+    {
+      "start": 1884.98,
+      "end": 1887.02,
+      "text": "He twisted the bird around and hacked"
+    },
+    {
+      "start": 1887.18,
+      "end": 1887.7,
+      "text": "at its head."
+    },
+    {
+      "start": 1887.98,
+      "end": 1890.64,
+      "text": "There too the edge of his knife bared lead."
+    },
+    {
+      "start": 1891.78,
+      "end": 1894.1,
+      "text": "He let knife and bird bang down on the table",
+      "para_break": true
+    },
+    {
+      "start": 1894.24,
+      "end": 1895.86,
+      "text": "where he wheeled to confront Spade."
+    },
+    {
+      "start": 1896.08,
+      "end": 1897.28,
+      "text": "It's a fake,"
+    },
+    {
+      "start": 1897.5,
+      "end": 1898.56,
+      "text": "he said hoarsely."
+    },
+    {
+      "start": 1899.68,
+      "end": 1901.2,
+      "text": "Spade's face had become somber.",
+      "para_break": true
+    },
+    {
+      "start": 1902.06,
+      "end": 1902.96,
+      "text": "His nod was slow,",
+      "para_break": true
+    },
+    {
+      "start": 1903.12,
+      "end": 1905.24,
+      "text": "but there was no slowness in his hands"
+    },
+    {
+      "start": 1905.24,
+      "end": 1907.16,
+      "text": "going out to catch Bridget O'Shaughnessy's"
+    },
+    {
+      "start": 1907.34,
+      "end": 1907.56,
+      "text": "wrist."
+    },
+    {
+      "start": 1908.58,
+      "end": 1911.4,
+      "text": "He pulled her to him and grasped her chin with his other hand,",
+      "para_break": true
+    },
+    {
+      "start": 1911.62,
+      "end": 1912.7,
+      "text": "raising her face roughly."
+    },
+    {
+      "start": 1913.54,
+      "end": 1913.9,
+      "text": "All right,",
+      "para_break": true
+    },
+    {
+      "start": 1914.28,
+      "end": 1915.36,
+      "text": "he growled into her face."
+    },
+    {
+      "start": 1915.54,
+      "end": 1917.66,
+      "text": "You've had your little joke."
+    },
+    {
+      "start": 1918.3,
+      "end": 1919.34,
+      "text": "Now tell us about it.",
+      "para_break": true
+    },
+    {
+      "start": 1920.28,
+      "end": 1920.78,
+      "text": "She cried.",
+      "para_break": true
+    },
+    {
+      "start": 1921.02,
+      "end": 1921.54,
+      "text": "No,"
+    },
+    {
+      "start": 1921.6,
+      "end": 1921.88,
+      "text": "Sam,"
+    },
+    {
+      "start": 1922.06,
+      "end": 1922.3,
+      "text": "no."
+    },
+    {
+      "start": 1922.76,
+      "end": 1925.1,
+      "text": "That is the one I got from Timidoff."
+    },
+    {
+      "start": 1925.68,
+      "end": 1926.16,
+      "text": "I swear.",
+      "para_break": true
+    },
+    {
+      "start": 1927.6,
+      "end": 1928.68,
+      "text": "Joel Cairo thrust himself",
+      "para_break": true
+    },
+    {
+      "start": 1928.92,
+      "end": 1932.06,
+      "text": "between Spade and Gutman and began to emit words in a shrill,"
+    },
+    {
+      "start": 1932.06,
+      "end": 1932.8,
+      "text": "sputtering stream."
+    },
+    {
+      "start": 1933.792,
+      "end": 1934.26,
+      "text": "That's it.",
+      "para_break": true
+    },
+    {
+      "start": 1934.48,
+      "end": 1935.12,
+      "text": "That's"
+    },
+    {
+      "start": 1935.2,
+      "end": 1935.36,
+      "text": "it."
+    },
+    {
+      "start": 1935.76,
+      "end": 1936.58,
+      "text": "It was the Russian."
+    },
+    {
+      "start": 1937.48,
+      "end": 1938.36,
+      "text": "I should have known.",
+      "para_break": true
+    },
+    {
+      "start": 1939.32,
+      "end": 1942.5,
+      "text": "What a fool we thought him and what fools he made of us.",
+      "para_break": true
+    },
+    {
+      "start": 1943.42,
+      "end": 1945.68,
+      "text": "tears ran down the levantine's cheeks and he",
+      "para_break": true
+    },
+    {
+      "start": 1945.68,
+      "end": 1948.96,
+      "text": "danced up and down you bungled it he screamed"
+    },
+    {
+      "start": 1948.96,
+      "end": 1952.6,
+      "text": "at gutman you and your stupid attempt to buy it from him"
+    },
+    {
+      "start": 1953.22,
+      "end": 1956.18,
+      "text": "you fat fool you let him know it was",
+      "para_break": true
+    },
+    {
+      "start": 1956.28,
+      "end": 1960.36,
+      "text": "valuable and he found out how valuable and made a duplicate for us"
+    },
+    {
+      "start": 1961.32,
+      "end": 1962.48,
+      "text": "no wonder we had so little",
+      "para_break": true
+    },
+    {
+      "start": 1962.58,
+      "end": 1965.32,
+      "text": "trouble stealing it no wonder he was so willing"
+    },
+    {
+      "start": 1965.32,
+      "end": 1968.1,
+      "text": "to send me off around the world looking for it"
+    },
+    {
+      "start": 1968.68,
+      "end": 1972.9,
+      "text": "you imbecile you bloated idiot he put his hands",
+      "para_break": true
+    },
+    {
+      "start": 1972.9,
+      "end": 1976.64,
+      "text": "to his face and blubbered gutman's jaw sagged"
+    },
+    {
+      "start": 1977.12,
+      "end": 1978.3,
+      "text": "he blinked vacant eyes"
+    },
+    {
+      "start": 1979.38,
+      "end": 1980.36,
+      "text": "then he shook himself",
+      "para_break": true
+    },
+    {
+      "start": 1980.98,
+      "end": 1983.68,
+      "text": "and was by the time his bulbs had stopped jouncing",
+      "para_break": true
+    },
+    {
+      "start": 1983.84,
+      "end": 1985.62,
+      "text": "again a jovial fat man"
+    },
+    {
+      "start": 1986.62,
+      "end": 1990.04,
+      "text": "come sir he said good-naturedly there's no need of going on like",
+      "para_break": true
+    },
+    {
+      "start": 1990.18,
+      "end": 1993.02,
+      "text": "that everybody airs at times and you may be"
+    },
+    {
+      "start": 1993.02,
+      "end": 1995.42,
+      "text": "sure this is every bit as severe a blow to me"
+    },
+    {
+      "start": 1995.84,
+      "end": 1996.92,
+      "text": "as to anyone else."
+    }
+  ]
+}

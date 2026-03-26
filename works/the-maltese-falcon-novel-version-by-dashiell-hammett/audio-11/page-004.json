@@ -1,0 +1,764 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-11",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_11_hammett.mp3",
+  "chapter_title": "The Fat Man",
+  "reader_name": "NLizer",
+  "page_num": 4,
+  "page_total": 6,
+  "page_start_sec": 724.74,
+  "page_end_sec": 965.88,
+  "para_gap_threshold": 0.574,
+  "segments": [
+    {
+      "start": 724.74,
+      "end": 725.44,
+      "text": "Mr."
+    },
+    {
+      "start": 725.56,
+      "end": 725.96,
+      "text": "Spade,"
+    },
+    {
+      "start": 726.12,
+      "end": 727.4,
+      "text": "have you any conception"
+    },
+    {
+      "start": 728.04,
+      "end": 730.74,
+      "text": "of how much money can be made out of that black bird?",
+      "para_break": true
+    },
+    {
+      "start": 731.06,
+      "end": 732.1,
+      "text": "No."
+    },
+    {
+      "start": 732.3,
+      "end": 733.8,
+      "text": "The fat man"
+    },
+    {
+      "start": 733.92,
+      "end": 735.58,
+      "text": "leaned forward again and put a bloated"
+    },
+    {
+      "start": 735.58,
+      "end": 737.66,
+      "text": "pink hand on the arm of Spade's chair."
+    },
+    {
+      "start": 738.02,
+      "end": 738.86,
+      "text": "Well,"
+    },
+    {
+      "start": 738.86,
+      "end": 739.14,
+      "text": "sir,"
+    },
+    {
+      "start": 739.32,
+      "end": 740.26,
+      "text": "if I told"
+    },
+    {
+      "start": 740.42,
+      "end": 740.64,
+      "text": "you,"
+    },
+    {
+      "start": 740.64,
+      "end": 741.4,
+      "text": "by God,"
+    },
+    {
+      "start": 741.72,
+      "end": 743.14,
+      "text": "if I told you half,"
+    },
+    {
+      "start": 743.34,
+      "end": 744.58,
+      "text": "you'd call me a liar."
+    },
+    {
+      "start": 745.792,
+      "end": 746.28,
+      "text": "Spade smiled.",
+      "para_break": true
+    },
+    {
+      "start": 746.8,
+      "end": 747.54,
+      "text": "No,"
+    },
+    {
+      "start": 747.72,
+      "end": 748.42,
+      "text": "he said,"
+    },
+    {
+      "start": 749.0,
+      "end": 749.66,
+      "text": "not even if I",
+      "para_break": true
+    },
+    {
+      "start": 749.72,
+      "end": 750.1,
+      "text": "thought it."
+    },
+    {
+      "start": 750.7,
+      "end": 752.08,
+      "text": "But if you won't take the risk,",
+      "para_break": true
+    },
+    {
+      "start": 752.2,
+      "end": 754.6,
+      "text": "just tell me what it is and I'll figure out the profits."
+    },
+    {
+      "start": 754.88,
+      "end": 756.64,
+      "text": "The fat man laughed."
+    },
+    {
+      "start": 757.34,
+      "end": 758.08,
+      "text": "You couldn't do it,",
+      "para_break": true
+    },
+    {
+      "start": 758.12,
+      "end": 758.32,
+      "text": "sir."
+    },
+    {
+      "start": 759.04,
+      "end": 761.52,
+      "text": "Nobody could do it that hadn't had a world",
+      "para_break": true
+    },
+    {
+      "start": 761.52,
+      "end": 763.3,
+      "text": "of experience with things of that sort."
+    },
+    {
+      "start": 763.936,
+      "end": 766.1,
+      "text": "And he paused impressively.",
+      "para_break": true
+    },
+    {
+      "start": 766.86,
+      "end": 768.74,
+      "text": "There aren't any other things of that sort.",
+      "para_break": true
+    },
+    {
+      "start": 769.7,
+      "end": 772.32,
+      "text": "His bulbs jostled one another as he laughed again.",
+      "para_break": true
+    },
+    {
+      "start": 773.14,
+      "end": 774.24,
+      "text": "He stopped laughing abruptly.",
+      "para_break": true
+    },
+    {
+      "start": 775.2,
+      "end": 777.8,
+      "text": "His fleshy lips hung open as laughter had left them.",
+      "para_break": true
+    },
+    {
+      "start": 778.46,
+      "end": 781.8,
+      "text": "He stared at Spade with an intentness that suggested myopia.",
+      "para_break": true
+    },
+    {
+      "start": 782.28,
+      "end": 783.14,
+      "text": "He asked,"
+    },
+    {
+      "start": 783.36,
+      "end": 785.8,
+      "text": "you mean you don't know what it is?"
+    },
+    {
+      "start": 786.752,
+      "end": 788.94,
+      "text": "Amazement took the throatiness out of his voice.",
+      "para_break": true
+    },
+    {
+      "start": 789.76,
+      "end": 791.92,
+      "text": "Spade made a careless gesture with his cigar.",
+      "para_break": true
+    },
+    {
+      "start": 792.64,
+      "end": 792.82,
+      "text": "Oh,",
+      "para_break": true
+    },
+    {
+      "start": 792.88,
+      "end": 793.1,
+      "text": "hell,"
+    },
+    {
+      "start": 793.34,
+      "end": 793.9,
+      "text": "he said lightly."
+    },
+    {
+      "start": 794.42,
+      "end": 796.44,
+      "text": "I know what it's supposed to look like."
+    },
+    {
+      "start": 796.94,
+      "end": 799.12,
+      "text": "I know the value in life you people put on it."
+    },
+    {
+      "start": 799.74,
+      "end": 801.0,
+      "text": "I don't know what it is.",
+      "para_break": true
+    },
+    {
+      "start": 802.12,
+      "end": 803.02,
+      "text": "She didn't tell you.",
+      "para_break": true
+    },
+    {
+      "start": 804.18,
+      "end": 804.92,
+      "text": "Miss O'Shaughnessy?",
+      "para_break": true
+    },
+    {
+      "start": 805.51,
+      "end": 806.22,
+      "text": "Yes,",
+      "para_break": true
+    },
+    {
+      "start": 806.4,
+      "end": 807.3,
+      "text": "a lovely girl,"
+    },
+    {
+      "start": 807.4,
+      "end": 807.66,
+      "text": "sir."
+    },
+    {
+      "start": 808.896,
+      "end": 809.34,
+      "text": "Uh-huh.",
+      "para_break": true
+    },
+    {
+      "start": 809.84,
+      "end": 810.12,
+      "text": "No."
+    },
+    {
+      "start": 810.84,
+      "end": 813.38,
+      "text": "The fat man's eyes were dark gleams and",
+      "para_break": true
+    },
+    {
+      "start": 813.38,
+      "end": 815.12,
+      "text": "ambushed behind pink puffs of flesh."
+    },
+    {
+      "start": 815.62,
+      "end": 817.0,
+      "text": "He said indistinctly,"
+    },
+    {
+      "start": 817.0,
+      "end": 818.24,
+      "text": "she must know."
+    },
+    {
+      "start": 818.94,
+      "end": 819.24,
+      "text": "And then,",
+      "para_break": true
+    },
+    {
+      "start": 820.2,
+      "end": 821.26,
+      "text": "and Cairo didn't either?",
+      "para_break": true
+    },
+    {
+      "start": 822.272,
+      "end": 823.28,
+      "text": "Cairo is cagey.",
+      "para_break": true
+    },
+    {
+      "start": 823.74,
+      "end": 824.72,
+      "text": "He's willing to buy it,"
+    },
+    {
+      "start": 824.74,
+      "end": 827.56,
+      "text": "but he won't risk telling me anything I don't know already."
+    },
+    {
+      "start": 828.56,
+      "end": 830.52,
+      "text": "The fat man moistened his lips with his tongue.",
+      "para_break": true
+    },
+    {
+      "start": 831.24,
+      "end": 832.7,
+      "text": "How much is he willing to buy it for,",
+      "para_break": true
+    },
+    {
+      "start": 832.78,
+      "end": 833.26,
+      "text": "he asked."
+    },
+    {
+      "start": 834.3,
+      "end": 834.92,
+      "text": "$10,000.",
+      "para_break": true
+    },
+    {
+      "start": 836.22,
+      "end": 837.48,
+      "text": "The fat man laughed scornfully.",
+      "para_break": true
+    },
+    {
+      "start": 838.04,
+      "end": 840.32,
+      "text": "Ten thousand and dollars,"
+    },
+    {
+      "start": 840.5,
+      "end": 841.0,
+      "text": "mind you,"
+    },
+    {
+      "start": 841.0,
+      "end": 841.8,
+      "text": "not even pounds?"
+    },
+    {
+      "start": 842.752,
+      "end": 843.82,
+      "text": "That's the Greek for you.",
+      "para_break": true
+    },
+    {
+      "start": 844.36,
+      "end": 844.62,
+      "text": "Humph."
+    },
+    {
+      "start": 845.3,
+      "end": 846.48,
+      "text": "And what did you say to that?",
+      "para_break": true
+    },
+    {
+      "start": 847.56,
+      "end": 849.12,
+      "text": "I said if I turned it over to him,",
+      "para_break": true
+    },
+    {
+      "start": 849.16,
+      "end": 850.51,
+      "text": "I'd expect the ten thousand."
+    },
+    {
+      "start": 851.62,
+      "end": 851.82,
+      "text": "Ah,",
+      "para_break": true
+    },
+    {
+      "start": 851.92,
+      "end": 852.28,
+      "text": "yes,"
+    },
+    {
+      "start": 852.52,
+      "end": 852.82,
+      "text": "if."
+    },
+    {
+      "start": 853.856,
+      "end": 854.28,
+      "text": "Nicely put,",
+      "para_break": true
+    },
+    {
+      "start": 854.4,
+      "end": 854.64,
+      "text": "sir."
+    },
+    {
+      "start": 855.42,
+      "end": 858.26,
+      "text": "The fat man's forehead squirmed in a flesh-blurred frown.",
+      "para_break": true
+    },
+    {
+      "start": 859.34,
+      "end": 860.0,
+      "text": "They must know,",
+      "para_break": true
+    },
+    {
+      "start": 860.18,
+      "end": 862.04,
+      "text": "he said only partly aloud then."
+    },
+    {
+      "start": 862.56,
+      "end": 862.9,
+      "text": "Do they?"
+    },
+    {
+      "start": 863.86,
+      "end": 865.22,
+      "text": "Do they know what the bird is,",
+      "para_break": true
+    },
+    {
+      "start": 865.32,
+      "end": 865.52,
+      "text": "sir?"
+    },
+    {
+      "start": 866.2,
+      "end": 866.84,
+      "text": "What was your impression?",
+      "para_break": true
+    },
+    {
+      "start": 867.85,
+      "end": 870.02,
+      "text": "\"'I can't help you there,' Spade confessed.",
+      "para_break": true
+    },
+    {
+      "start": 870.58,
+      "end": 871.62,
+      "text": "\"'There's not much to go by."
+    },
+    {
+      "start": 872.224,
+      "end": 873.6,
+      "text": "\"'Cairo didn't say he did,",
+      "para_break": true
+    },
+    {
+      "start": 873.76,
+      "end": 875.14,
+      "text": "and he didn't say he didn't."
+    },
+    {
+      "start": 875.7,
+      "end": 876.74,
+      "text": "\"'She said she didn't,"
+    },
+    {
+      "start": 877.12,
+      "end": 879.14,
+      "text": "\"'but I took it for granted that she was lying."
+    },
+    {
+      "start": 880.04,
+      "end": 883.32,
+      "text": "\"'That was not an injudicious thing to do,' the fat man said,",
+      "para_break": true
+    },
+    {
+      "start": 883.88,
+      "end": 886.16,
+      "text": "\"'but his mind was obviously not on his words."
+    },
+    {
+      "start": 886.96,
+      "end": 887.86,
+      "text": "\"'He scratched his head.",
+      "para_break": true
+    },
+    {
+      "start": 888.24,
+      "end": 890.46,
+      "text": "\"'He frowned until his forehead was marked by raw,"
+    },
+    {
+      "start": 890.58,
+      "end": 891.5,
+      "text": "red creases."
+    },
+    {
+      "start": 892.34,
+      "end": 894.78,
+      "text": "\"'He fidgeted in his chair as much as his size",
+      "para_break": true
+    },
+    {
+      "start": 894.92,
+      "end": 896.61,
+      "text": "\"'and the size of the chair permitted fidgeting."
+    },
+    {
+      "start": 896.96,
+      "end": 898.56,
+      "text": "He shut his eyes,"
+    },
+    {
+      "start": 898.72,
+      "end": 900.34,
+      "text": "opened them suddenly wide,"
+    },
+    {
+      "start": 900.7,
+      "end": 901.86,
+      "text": "and said to Spade,"
+    },
+    {
+      "start": 902.74,
+      "end": 903.76,
+      "text": "maybe they don't.",
+      "para_break": true
+    },
+    {
+      "start": 904.64,
+      "end": 906.82,
+      "text": "His bulbous pink face slowly lost its worried",
+      "para_break": true
+    },
+    {
+      "start": 906.82,
+      "end": 909.5,
+      "text": "frown and then more quickly took on an expression"
+    },
+    {
+      "start": 909.78,
+      "end": 911.46,
+      "text": "of ineffable happiness."
+    },
+    {
+      "start": 912.58,
+      "end": 913.2,
+      "text": "If they don't,",
+      "para_break": true
+    },
+    {
+      "start": 913.2,
+      "end": 913.62,
+      "text": "he cried,"
+    },
+    {
+      "start": 913.84,
+      "end": 914.54,
+      "text": "and again,"
+    },
+    {
+      "start": 914.74,
+      "end": 915.94,
+      "text": "if they don't,"
+    },
+    {
+      "start": 915.94,
+      "end": 917.62,
+      "text": "I'm the only one in the"
+    },
+    {
+      "start": 917.86,
+      "end": 919.84,
+      "text": "whole wide sweet world who does."
+    },
+    {
+      "start": 920.63,
+      "end": 922.84,
+      "text": "Spade drew his lips back in a tight smile.",
+      "para_break": true
+    },
+    {
+      "start": 923.76,
+      "end": 924.54,
+      "text": "I'm glad I came to",
+      "para_break": true
+    },
+    {
+      "start": 924.64,
+      "end": 925.1,
+      "text": "the right place,"
+    },
+    {
+      "start": 925.18,
+      "end": 925.54,
+      "text": "he said."
+    },
+    {
+      "start": 926.33,
+      "end": 927.74,
+      "text": "The fat man smiled too,",
+      "para_break": true
+    },
+    {
+      "start": 927.82,
+      "end": 928.75,
+      "text": "but some went vaguely."
+    },
+    {
+      "start": 928.98,
+      "end": 930.66,
+      "text": "Happiness had gone out of"
+    },
+    {
+      "start": 930.66,
+      "end": 931.16,
+      "text": "his face,"
+    },
+    {
+      "start": 931.5,
+      "end": 932.76,
+      "text": "though he continued to smile,"
+    },
+    {
+      "start": 932.96,
+      "end": 934.88,
+      "text": "and caution had come into his eyes."
+    },
+    {
+      "start": 935.72,
+      "end": 936.89,
+      "text": "His face was a watchful",
+      "para_break": true
+    },
+    {
+      "start": 936.96,
+      "end": 939.9,
+      "text": "eyed smiling mask held up between his thoughts and Spade."
+    },
+    {
+      "start": 940.76,
+      "end": 941.12,
+      "text": "His eyes,",
+      "para_break": true
+    },
+    {
+      "start": 941.14,
+      "end": 941.92,
+      "text": "avoiding Spade,"
+    },
+    {
+      "start": 941.96,
+      "end": 942.52,
+      "text": "shifted to"
+    },
+    {
+      "start": 942.52,
+      "end": 943.72,
+      "text": "the glass at Spade's elbow."
+    },
+    {
+      "start": 944.44,
+      "end": 945.38,
+      "text": "His face brightened.",
+      "para_break": true
+    },
+    {
+      "start": 945.66,
+      "end": 946.36,
+      "text": "By God,"
+    },
+    {
+      "start": 946.38,
+      "end": 946.66,
+      "text": "sir,"
+    },
+    {
+      "start": 946.9,
+      "end": 947.5,
+      "text": "he said,"
+    },
+    {
+      "start": 947.94,
+      "end": 948.82,
+      "text": "your glass is empty."
+    },
+    {
+      "start": 949.58,
+      "end": 951.46,
+      "text": "He got up and went to the table and",
+      "para_break": true
+    },
+    {
+      "start": 951.46,
+      "end": 953.44,
+      "text": "clattered glasses and siphon and bottle,"
+    },
+    {
+      "start": 953.5,
+      "end": 954.34,
+      "text": "mixing two drinks."
+    },
+    {
+      "start": 955.36,
+      "end": 957.8,
+      "text": "Spade was immobile in his chair until the fat man,",
+      "para_break": true
+    },
+    {
+      "start": 957.96,
+      "end": 960.54,
+      "text": "with a flourish and a bow and a jocular,"
+    },
+    {
+      "start": 960.6,
+      "end": 961.28,
+      "text": "ah sir,"
+    },
+    {
+      "start": 961.54,
+      "end": 963.62,
+      "text": "this kind of medicine will never hurt you,"
+    },
+    {
+      "start": 963.74,
+      "end": 965.88,
+      "text": "had handed him his refilled glass."
+    }
+  ]
+}

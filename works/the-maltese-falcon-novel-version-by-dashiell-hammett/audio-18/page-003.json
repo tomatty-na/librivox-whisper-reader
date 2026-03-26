@@ -1,0 +1,806 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-18",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_18_hammett.mp3",
+  "chapter_title": "The Fall Guy",
+  "reader_name": "NLizer",
+  "page_num": 3,
+  "page_total": 8,
+  "page_start_sec": 501.72,
+  "page_end_sec": 745.36,
+  "para_gap_threshold": 0.553,
+  "segments": [
+    {
+      "start": 501.72,
+      "end": 502.32,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 502.34,
+      "end": 502.58,
+      "text": "sir,"
+    },
+    {
+      "start": 502.74,
+      "end": 505.3,
+      "text": "I grant you that's one way of doing it,"
+    },
+    {
+      "start": 505.32,
+      "end": 505.97,
+      "text": "but..."
+    },
+    {
+      "start": 506.8,
+      "end": 507.16,
+      "text": "But hell,",
+      "para_break": true
+    },
+    {
+      "start": 507.4,
+      "end": 508.06,
+      "text": "Spade said,"
+    },
+    {
+      "start": 508.26,
+      "end": 509.58,
+      "text": "it's the only way."
+    },
+    {
+      "start": 509.8,
+      "end": 512.9,
+      "text": "His eyes were hot and earnest under a reddening forehead."
+    },
+    {
+      "start": 513.16,
+      "end": 513.3,
+      "text": "head."
+    },
+    {
+      "start": 513.92,
+      "end": 515.76,
+      "text": "The bruise on his temple was liver-colored.",
+      "para_break": true
+    },
+    {
+      "start": 516.48,
+      "end": 517.9,
+      "text": "I know what I'm talking about.",
+      "para_break": true
+    },
+    {
+      "start": 518.29,
+      "end": 519.2,
+      "text": "I've been through"
+    },
+    {
+      "start": 519.2,
+      "end": 521.38,
+      "text": "it all before and expect to go through it again."
+    },
+    {
+      "start": 522.18,
+      "end": 523.2,
+      "text": "At one time or another,",
+      "para_break": true
+    },
+    {
+      "start": 523.42,
+      "end": 524.74,
+      "text": "I've had to tell everybody"
+    },
+    {
+      "start": 524.74,
+      "end": 527.0,
+      "text": "from the Supreme Court down to go to hell,"
+    },
+    {
+      "start": 527.4,
+      "end": 528.56,
+      "text": "and I've got away with it."
+    },
+    {
+      "start": 528.76,
+      "end": 530.3,
+      "text": "I got away with it because"
+    },
+    {
+      "start": 530.42,
+      "end": 533.72,
+      "text": "I never let myself forget that a day of reckoning was coming."
+    },
+    {
+      "start": 534.24,
+      "end": 536.32,
+      "text": "I never forget that when the day of"
+    },
+    {
+      "start": 536.42,
+      "end": 536.98,
+      "text": "reckoning comes,"
+    },
+    {
+      "start": 537.6,
+      "end": 539.72,
+      "text": "I want to be all set to march into headquarters,",
+      "para_break": true
+    },
+    {
+      "start": 540.04,
+      "end": 541.4,
+      "text": "pushing a victim in front of me,"
+    },
+    {
+      "start": 541.52,
+      "end": 541.78,
+      "text": "saying,"
+    },
+    {
+      "start": 542.3,
+      "end": 544.2,
+      "text": "here you chumps is your criminal."
+    },
+    {
+      "start": 545.16,
+      "end": 546.28,
+      "text": "As long as I can do that,",
+      "para_break": true
+    },
+    {
+      "start": 546.34,
+      "end": 547.88,
+      "text": "I can put my thumb to my nose"
+    },
+    {
+      "start": 547.88,
+      "end": 550.5,
+      "text": "and wriggle my fingers at all the laws in the book."
+    },
+    {
+      "start": 550.74,
+      "end": 552.42,
+      "text": "The first time I can't do it,"
+    },
+    {
+      "start": 552.46,
+      "end": 553.38,
+      "text": "my name's mud."
+    },
+    {
+      "start": 554.06,
+      "end": 555.64,
+      "text": "There hasn't been a first time yet.",
+      "para_break": true
+    },
+    {
+      "start": 556.12,
+      "end": 557.14,
+      "text": "This isn't going to be it."
+    },
+    {
+      "start": 557.28,
+      "end": 558.18,
+      "text": "That's flat."
+    },
+    {
+      "start": 559.424,
+      "end": 560.44,
+      "text": "Gutman's eyes flickered",
+      "para_break": true
+    },
+    {
+      "start": 560.88,
+      "end": 562.42,
+      "text": "and their sleekness became dubious,"
+    },
+    {
+      "start": 562.94,
+      "end": 565.54,
+      "text": "but he held his other features in their bulbous pink smiling"
+    },
+    {
+      "start": 566.08,
+      "end": 566.66,
+      "text": "complacent cast,"
+    },
+    {
+      "start": 566.86,
+      "end": 569.52,
+      "text": "and there was nothing of uneasiness in his voice."
+    },
+    {
+      "start": 570.36,
+      "end": 570.74,
+      "text": "He said,",
+      "para_break": true
+    },
+    {
+      "start": 570.98,
+      "end": 572.38,
+      "text": "that's a system that's got"
+    },
+    {
+      "start": 572.38,
+      "end": 573.82,
+      "text": "a lot to recommend it,"
+    },
+    {
+      "start": 573.92,
+      "end": 574.12,
+      "text": "sir,"
+    },
+    {
+      "start": 574.24,
+      "end": 575.5,
+      "text": "by gad it has."
+    },
+    {
+      "start": 576.32,
+      "end": 578.6,
+      "text": "And if it was any way practical this time,",
+      "para_break": true
+    },
+    {
+      "start": 578.8,
+      "end": 579.48,
+      "text": "I'd be the"
+    },
+    {
+      "start": 579.56,
+      "end": 580.22,
+      "text": "first to say,"
+    },
+    {
+      "start": 580.34,
+      "end": 581.82,
+      "text": "stick to it by all means,"
+    },
+    {
+      "start": 581.96,
+      "end": 582.22,
+      "text": "sir."
+    },
+    {
+      "start": 583.06,
+      "end": 585.36,
+      "text": "But this just happens to be a case where it's not",
+      "para_break": true
+    },
+    {
+      "start": 585.48,
+      "end": 585.88,
+      "text": "possible."
+    },
+    {
+      "start": 586.29,
+      "end": 588.96,
+      "text": "That's the way it is with the best of systems."
+    },
+    {
+      "start": 589.88,
+      "end": 591.3,
+      "text": "There comes a time when you've got to",
+      "para_break": true
+    },
+    {
+      "start": 591.42,
+      "end": 591.96,
+      "text": "make exceptions,"
+    },
+    {
+      "start": 592.18,
+      "end": 594.62,
+      "text": "and a wise man just goes ahead and makes them."
+    },
+    {
+      "start": 595.16,
+      "end": 595.42,
+      "text": "Well,"
+    },
+    {
+      "start": 595.46,
+      "end": 595.68,
+      "text": "sir,"
+    },
+    {
+      "start": 595.84,
+      "end": 597.2,
+      "text": "that's just the way it"
+    },
+    {
+      "start": 597.2,
+      "end": 598.04,
+      "text": "is in this case,"
+    },
+    {
+      "start": 598.44,
+      "end": 600.14,
+      "text": "and I don't mind telling you that I think"
+    },
+    {
+      "start": 600.14,
+      "end": 602.26,
+      "text": "you're being very well paid for making an"
+    },
+    {
+      "start": 602.32,
+      "end": 602.62,
+      "text": "exception."
+    },
+    {
+      "start": 603.78,
+      "end": 605.54,
+      "text": "Now maybe it will be a little more trouble",
+      "para_break": true
+    },
+    {
+      "start": 605.54,
+      "end": 607.64,
+      "text": "to you than if you had your victim to"
+    },
+    {
+      "start": 607.64,
+      "end": 608.8,
+      "text": "hand over to the police,"
+    },
+    {
+      "start": 608.98,
+      "end": 609.08,
+      "text": "but,"
+    },
+    {
+      "start": 609.64,
+      "end": 611.36,
+      "text": "he laughed and spread his hands,",
+      "para_break": true
+    },
+    {
+      "start": 611.83,
+      "end": 613.76,
+      "text": "you're not a man that's afraid of a"
+    },
+    {
+      "start": 613.76,
+      "end": 614.5,
+      "text": "little bit of trouble."
+    },
+    {
+      "start": 614.92,
+      "end": 616.66,
+      "text": "You know how to do things,"
+    },
+    {
+      "start": 617.0,
+      "end": 619.24,
+      "text": "and you know you'll land on your feet in the end,"
+    },
+    {
+      "start": 619.52,
+      "end": 620.56,
+      "text": "no matter what happens."
+    },
+    {
+      "start": 621.24,
+      "end": 623.48,
+      "text": "He pursed his lips and partly closed one eye.",
+      "para_break": true
+    },
+    {
+      "start": 623.72,
+      "end": 624.86,
+      "text": "You'll manage that,"
+    },
+    {
+      "start": 625.02,
+      "end": 625.28,
+      "text": "sir."
+    },
+    {
+      "start": 626.56,
+      "end": 628.1,
+      "text": "Spade's eyes had lost their warmth.",
+      "para_break": true
+    },
+    {
+      "start": 628.3,
+      "end": 630.3,
+      "text": "His face was dull and lumpy."
+    },
+    {
+      "start": 630.58,
+      "end": 632.24,
+      "text": "I know what I'm talking about,"
+    },
+    {
+      "start": 632.42,
+      "end": 633.4,
+      "text": "he said in a low,"
+    },
+    {
+      "start": 633.54,
+      "end": 635.1,
+      "text": "consciously patient tone."
+    },
+    {
+      "start": 635.53,
+      "end": 637.46,
+      "text": "This is my city and my game."
+    },
+    {
+      "start": 638.34,
+      "end": 639.44,
+      "text": "I could manage to land",
+      "para_break": true
+    },
+    {
+      "start": 639.52,
+      "end": 640.16,
+      "text": "on my feet,"
+    },
+    {
+      "start": 640.24,
+      "end": 640.6,
+      "text": "sure,"
+    },
+    {
+      "start": 640.76,
+      "end": 641.3,
+      "text": "this time."
+    },
+    {
+      "start": 641.92,
+      "end": 644.44,
+      "text": "But the next time I tried to put over a fast one,",
+      "para_break": true
+    },
+    {
+      "start": 644.56,
+      "end": 645.6,
+      "text": "they'd stop me so"
+    },
+    {
+      "start": 645.78,
+      "end": 646.08,
+      "text": "fast,"
+    },
+    {
+      "start": 646.12,
+      "end": 647.58,
+      "text": "I'd swallow my teeth."
+    },
+    {
+      "start": 648.62,
+      "end": 649.14,
+      "text": "Hell with that.",
+      "para_break": true
+    },
+    {
+      "start": 649.4,
+      "end": 652.44,
+      "text": "Few birds will be in New York or Constantinople or"
+    },
+    {
+      "start": 652.5,
+      "end": 653.14,
+      "text": "someplace else."
+    },
+    {
+      "start": 653.32,
+      "end": 654.58,
+      "text": "I'm in business here."
+    },
+    {
+      "start": 655.46,
+      "end": 655.82,
+      "text": "But surely,",
+      "para_break": true
+    },
+    {
+      "start": 656.04,
+      "end": 656.66,
+      "text": "Gutman began,"
+    },
+    {
+      "start": 656.82,
+      "end": 657.14,
+      "text": "you can."
+    },
+    {
+      "start": 657.38,
+      "end": 658.74,
+      "text": "I can't,"
+    },
+    {
+      "start": 658.76,
+      "end": 659.56,
+      "text": "Spade said"
+    },
+    {
+      "start": 659.68,
+      "end": 660.06,
+      "text": "earnestly."
+    },
+    {
+      "start": 660.28,
+      "end": 661.52,
+      "text": "I won't."
+    },
+    {
+      "start": 662.06,
+      "end": 662.66,
+      "text": "I mean it."
+    },
+    {
+      "start": 662.8,
+      "end": 663.9,
+      "text": "He sat up straight."
+    },
+    {
+      "start": 664.14,
+      "end": 666.52,
+      "text": "A pleasant smile illuminated his face,"
+    },
+    {
+      "start": 666.64,
+      "end": 667.24,
+      "text": "erasing its"
+    },
+    {
+      "start": 667.34,
+      "end": 668.16,
+      "text": "dull lumpishness."
+    },
+    {
+      "start": 668.94,
+      "end": 670.82,
+      "text": "He spoke rapidly in an agreeable,",
+      "para_break": true
+    },
+    {
+      "start": 670.88,
+      "end": 671.8,
+      "text": "persuasive tone."
+    },
+    {
+      "start": 672.8,
+      "end": 673.22,
+      "text": "Listen to me,",
+      "para_break": true
+    },
+    {
+      "start": 673.26,
+      "end": 673.56,
+      "text": "Gutman."
+    },
+    {
+      "start": 673.76,
+      "end": 674.5,
+      "text": "I'm telling"
+    },
+    {
+      "start": 674.7,
+      "end": 676.14,
+      "text": "you what's best for all of us."
+    },
+    {
+      "start": 676.32,
+      "end": 678.4,
+      "text": "If we don't give the police a fall guy,"
+    },
+    {
+      "start": 678.62,
+      "end": 679.6,
+      "text": "it's ten to one,"
+    },
+    {
+      "start": 679.7,
+      "end": 679.96,
+      "text": "they'll"
+    },
+    {
+      "start": 679.98,
+      "end": 682.48,
+      "text": "sooner or later stumble on information about the falcon."
+    },
+    {
+      "start": 683.18,
+      "end": 685.32,
+      "text": "Then you'll have to duck for cover with it",
+      "para_break": true
+    },
+    {
+      "start": 685.42,
+      "end": 686.72,
+      "text": "no matter where you are,"
+    },
+    {
+      "start": 687.5,
+      "end": 689.98,
+      "text": "and that's not going to help you make a fortune off it.",
+      "para_break": true
+    },
+    {
+      "start": 690.7,
+      "end": 691.38,
+      "text": "Give them a fall",
+      "para_break": true
+    },
+    {
+      "start": 691.38,
+      "end": 693.0,
+      "text": "guy and they'll stop right there."
+    },
+    {
+      "start": 693.7,
+      "end": 694.3,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 694.3,
+      "end": 694.54,
+      "text": "sir,"
+    },
+    {
+      "start": 694.72,
+      "end": 695.84,
+      "text": "that's just the point,"
+    },
+    {
+      "start": 696.352,
+      "end": 696.88,
+      "text": "Gutman replied,"
+    },
+    {
+      "start": 697.46,
+      "end": 698.0,
+      "text": "and still only",
+      "para_break": true
+    },
+    {
+      "start": 698.3,
+      "end": 701.18,
+      "text": "in his eyes was uneasiness faintly apparent."
+    },
+    {
+      "start": 702.14,
+      "end": 703.18,
+      "text": "Will they stop right there?",
+      "para_break": true
+    },
+    {
+      "start": 703.86,
+      "end": 704.5,
+      "text": "Or won't the fall",
+      "para_break": true
+    },
+    {
+      "start": 704.6,
+      "end": 707.3,
+      "text": "guy be a fresh clue that as likely as not will"
+    },
+    {
+      "start": 707.3,
+      "end": 709.4,
+      "text": "lead them to information about the falcon?"
+    },
+    {
+      "start": 710.08,
+      "end": 711.12,
+      "text": "And on the other hand,",
+      "para_break": true
+    },
+    {
+      "start": 711.18,
+      "end": 713.58,
+      "text": "wouldn't you say they were stopped right now,"
+    },
+    {
+      "start": 714.26,
+      "end": 715.36,
+      "text": "and that the best thing for us",
+      "para_break": true
+    },
+    {
+      "start": 715.36,
+      "end": 716.86,
+      "text": "to do is leave well enough alone?"
+    },
+    {
+      "start": 717.86,
+      "end": 720.7,
+      "text": "A forked vein began to swell in Spade's forehead.",
+      "para_break": true
+    },
+    {
+      "start": 721.04,
+      "end": 721.14,
+      "text": "Jesus,"
+    },
+    {
+      "start": 721.92,
+      "end": 722.12,
+      "text": "you",
+      "para_break": true
+    },
+    {
+      "start": 722.32,
+      "end": 723.66,
+      "text": "don't know what it's all about either,"
+    },
+    {
+      "start": 723.84,
+      "end": 725.34,
+      "text": "he said in a restrained tone."
+    },
+    {
+      "start": 726.12,
+      "end": 726.76,
+      "text": "They're not asleep,",
+      "para_break": true
+    },
+    {
+      "start": 727.02,
+      "end": 727.38,
+      "text": "Gutman."
+    },
+    {
+      "start": 727.56,
+      "end": 728.7,
+      "text": "They're lying low,"
+    },
+    {
+      "start": 728.94,
+      "end": 729.28,
+      "text": "waiting."
+    },
+    {
+      "start": 730.24,
+      "end": 731.12,
+      "text": "Try to get that.",
+      "para_break": true
+    },
+    {
+      "start": 731.904,
+      "end": 733.86,
+      "text": "I'm in it up to my neck and they know it.",
+      "para_break": true
+    },
+    {
+      "start": 734.4,
+      "end": 737.05,
+      "text": "That's all right as long as I do something when the time comes."
+    },
+    {
+      "start": 737.76,
+      "end": 739.32,
+      "text": "But it won't be all right if I don't.",
+      "para_break": true
+    },
+    {
+      "start": 739.96,
+      "end": 741.52,
+      "text": "His voice became persuasive again.",
+      "para_break": true
+    },
+    {
+      "start": 742.2,
+      "end": 742.5,
+      "text": "Listen,",
+      "para_break": true
+    },
+    {
+      "start": 742.6,
+      "end": 742.9,
+      "text": "Gutman,"
+    },
+    {
+      "start": 743.06,
+      "end": 745.36,
+      "text": "we've absolutely got to give them a victim."
+    }
+  ]
+}

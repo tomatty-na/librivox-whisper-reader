@@ -15,37 +15,40 @@
     {
       "start": 491.53,
       "end": 493.38,
-      "text": "I can't go no lower,"
+      "text": "\"I can't go no lower,\"",
+      "para_break": true
     },
     {
       "start": 493.5,
       "end": 494.12,
-      "text": "said the hatter."
+      "text": "said the Hatter:"
     },
     {
       "start": 494.2,
       "end": 495.08,
-      "text": "I'm on the floor"
+      "text": "\"I'm on the floor"
     },
     {
       "start": 495.24,
       "end": 495.78,
-      "text": "as it is."
+      "text": "as it is.\""
     },
     {
       "start": 496.72,
       "end": 497.54,
-      "text": "Then you may sit down,"
+      "text": "\"Then you may _sit_ down,\"",
+      "para_break": true
     },
     {
       "start": 497.78,
       "end": 498.72,
-      "text": "the king replied."
+      "text": "the King replied."
     },
     {
       "start": 499.76,
       "end": 501.58,
-      "text": "Here the other guinea pig cheered and was"
+      "text": "Here the other guinea-pig cheered, and was",
+      "para_break": true
     },
     {
       "start": 501.76,
@@ -55,12 +58,12 @@
     {
       "start": 502.28,
       "end": 502.38,
-      "text": "Come,"
+      "text": "\"Come,"
     },
     {
       "start": 503.92,
       "end": 505.16,
-      "text": "that finishes the guinea pigs,",
+      "text": "that finishes the guinea-pigs!\"",
       "para_break": true
     },
     {
@@ -71,12 +74,12 @@
     {
       "start": 505.88,
       "end": 507.24,
-      "text": "Now we shall get on better."
+      "text": "\"Now we shall get on better.\""
     },
     {
       "start": 509.34,
       "end": 510.44,
-      "text": "I'd rather finish my tea,",
+      "text": "\"I'd rather finish my tea,\"",
       "para_break": true
     },
     {
@@ -102,12 +105,13 @@
     {
       "start": 515.64,
       "end": 516.1,
-      "text": "You may go,"
+      "text": "\"You may go,\"",
+      "para_break": true
     },
     {
       "start": 516.42,
       "end": 517.12,
-      "text": "said the King,"
+      "text": "said the King;"
     },
     {
       "start": 517.26,
@@ -127,7 +131,8 @@
     {
       "start": 522.02,
       "end": 523.7,
-      "text": "And just take his head off outside,"
+      "text": "\"--and just take his head off outside,\"",
+      "para_break": true
     },
     {
       "start": 524.48,
@@ -137,7 +142,7 @@
     {
       "start": 525.76,
       "end": 526.04,
-      "text": "officers,"
+      "text": "officers;"
     },
     {
       "start": 526.28,
@@ -152,22 +157,24 @@
     {
       "start": 530.96,
       "end": 531.78,
-      "text": "Call the next witness,"
+      "text": "\"Call the next witness!\"",
+      "para_break": true
     },
     {
       "start": 532.06,
       "end": 532.8,
-      "text": "said the king."
+      "text": "said the King."
     },
     {
       "start": 533.76,
       "end": 535.62,
-      "text": "The next witness was the duchess's cook."
+      "text": "The next witness was the Duchess's cook.",
+      "para_break": true
     },
     {
       "start": 536.0,
       "end": 537.78,
-      "text": "She carried the pepper box in her hand,"
+      "text": "She carried the pepper-box in her hand,"
     },
     {
       "start": 537.9,
@@ -187,18 +194,19 @@
     {
       "start": 545.856,
       "end": 546.38,
-      "text": "Give your evidence,",
+      "text": "\"Give your evidence,\"",
       "para_break": true
     },
     {
       "start": 546.68,
       "end": 547.46,
-      "text": "said the king."
+      "text": "said the King."
     },
     {
       "start": 548.5,
       "end": 548.82,
-      "text": "Shant,"
+      "text": "\"Sha'n't,\"",
+      "para_break": true
     },
     {
       "start": 549.06,
@@ -208,7 +216,8 @@
     {
       "start": 550.4,
       "end": 552.34,
-      "text": "The king looked anxiously at the white rabbit,"
+      "text": "The King looked anxiously at the White Rabbit,",
+      "para_break": true
     },
     {
       "start": 552.42,
@@ -218,12 +227,13 @@
     {
       "start": 554.36,
       "end": 556.66,
-      "text": "Your majesty must cross-examine this witness."
+      "text": "\"Your Majesty must cross-examine _this_ witness.\""
     },
     {
       "start": 557.68,
       "end": 558.08,
-      "text": "Well,"
+      "text": "\"Well,",
+      "para_break": true
     },
     {
       "start": 558.14,
@@ -233,17 +243,17 @@
     {
       "start": 558.82,
       "end": 559.16,
-      "text": "I must."
+      "text": "I must,\""
     },
     {
       "start": 559.9,
       "end": 561.64,
-      "text": "the king said with a melancholy air,"
+      "text": "the King said with a melancholy air,"
     },
     {
       "start": 561.74,
       "end": 564.52,
-      "text": "and after folding his arms and frowning at the cook,"
+      "text": "and, after folding his arms and frowning at the cook"
     },
     {
       "start": 564.66,
@@ -258,17 +268,18 @@
     {
       "start": 569.06,
       "end": 570.58,
-      "text": "What are tarts made of?"
+      "text": "\"What are tarts made of?\""
     },
     {
       "start": 570.82,
       "end": 571.58,
-      "text": "Pepper,"
+      "text": "\"Pepper,",
+      "para_break": true
     },
     {
       "start": 571.76,
       "end": 572.2,
-      "text": "mostly,"
+      "text": "mostly,\""
     },
     {
       "start": 572.52,
@@ -278,7 +289,8 @@
     {
       "start": 574.06,
       "end": 574.6,
-      "text": "Treacle,"
+      "text": "\"Treacle,\"",
+      "para_break": true
     },
     {
       "start": 574.9,
@@ -288,47 +300,49 @@
     {
       "start": 577.984,
       "end": 578.98,
-      "text": "Color that dormouse,"
+      "text": "\"Collar that Dormouse,\"",
+      "para_break": true
     },
     {
       "start": 579.24,
       "end": 580.6,
-      "text": "the queen shrieked out."
+      "text": "the Queen shrieked out."
     },
     {
       "start": 580.68,
       "end": 581.86,
-      "text": "Behead that dormouse,"
+      "text": "\"Behead that Dormouse!"
     },
     {
       "start": 581.98,
       "end": 583.26,
-      "text": "turn that dormouse out"
+      "text": "Turn that Dormouse out"
     },
     {
       "start": 583.26,
       "end": 583.72,
-      "text": "of the court,"
+      "text": "of court!"
     },
     {
       "start": 583.84,
       "end": 584.44,
-      "text": "suppress him,"
+      "text": "Suppress him!"
     },
     {
       "start": 584.54,
       "end": 584.98,
-      "text": "pinch him,"
+      "text": "Pinch him!"
     },
     {
       "start": 585.12,
       "end": 585.92,
-      "text": "offer these whiskers."
+      "text": "Off with his whiskers.\""
     },
     {
       "start": 586.58,
       "end": 587.76,
-      "text": "For some minutes,"
+      "text": "For some minutes",
+      "para_break": true
     },
     {
       "start": 587.82,
@@ -343,12 +357,12 @@
     {
       "start": 589.58,
       "end": 590.98,
-      "text": "getting the dormouse turned out,"
+      "text": "getting the Dormouse turned out,"
     },
     {
       "start": 591.06,
       "end": 593.56,
-      "text": "and by the time they had settled down again,"
+      "text": "and, by the time they had settled down again,"
     },
     {
       "start": 593.74,
@@ -358,13 +372,13 @@
     {
       "start": 596.7,
       "end": 597.04,
-      "text": "Never mind,",
+      "text": "\"Never mind!\"",
       "para_break": true
     },
     {
       "start": 597.3,
       "end": 597.84,
-      "text": "said the king,"
+      "text": "said the King,"
     },
     {
       "start": 597.98,
@@ -374,17 +388,17 @@
     {
       "start": 599.92,
       "end": 600.74,
-      "text": "Call the next witness,"
+      "text": "\"Call the next witness.\""
     },
     {
       "start": 601.68,
       "end": 603.62,
-      "text": "and he added in an undertone to the queen."
+      "text": "And he added in an undertone to the Queen,"
     },
     {
       "start": 604.3,
       "end": 604.8,
-      "text": "Really,"
+      "text": "\"Really,"
     },
     {
       "start": 604.92,
@@ -394,22 +408,23 @@
     {
       "start": 605.38,
       "end": 607.4,
-      "text": "you must cross-examine this next witness."
+      "text": "_you_ must cross-examine the next witness."
     },
     {
       "start": 607.56,
       "end": 609.48,
-      "text": "It quite makes my forehead ache."
+      "text": "It quite makes my forehead ache!\""
     },
     {
       "start": 610.368,
       "end": 611.2,
-      "text": "Alice watched the"
+      "text": "Alice watched the",
+      "para_break": true
     },
     {
       "start": 611.26,
       "end": 613.2,
-      "text": "white rabbit as he fumbled over the list,"
+      "text": "White Rabbit as he fumbled over the list,"
     },
     {
       "start": 613.36,
@@ -419,12 +434,12 @@
     {
       "start": 616.14,
       "end": 616.4,
-      "text": "be like."
+      "text": "be like,"
     },
     {
       "start": 617.8,
       "end": 619.46,
-      "text": "For they haven't got much evidence yet,"
+      "text": "\"--for they haven't got much evidence _yet_,\""
     },
     {
       "start": 619.64,
@@ -434,23 +449,22 @@
     {
       "start": 620.78,
       "end": 622.6,
-      "text": "Imagine her surprise when"
+      "text": "Imagine her surprise, when"
     },
     {
       "start": 622.6,
       "end": 624.44,
-      "text": "the white rabbit read out at the top of"
+      "text": "the White Rabbit read out, at the top of"
     },
     {
       "start": 624.44,
       "end": 626.5,
-      "text": "his shrill little voice the name Alice."
+      "text": "his shrill little voice, the name \"Alice!\""
     },
     {
       "start": 630.44,
       "end": 631.38,
-      "text": "End of chapter 11",
-      "para_break": true
+      "text": "End of chapter 11"
     }
   ]
 }

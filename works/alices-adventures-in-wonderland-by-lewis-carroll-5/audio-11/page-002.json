@@ -15,12 +15,13 @@
     {
       "start": 251.16,
       "end": 252.2,
-      "text": "Write that down,"
+      "text": "\"Write that down,\"",
+      "para_break": true
     },
     {
       "start": 252.42,
       "end": 253.76,
-      "text": "the king said to the jury,"
+      "text": "the King said to the jury,"
     },
     {
       "start": 253.86,
@@ -40,32 +41,35 @@
     {
       "start": 261.38,
       "end": 262.14,
-      "text": "Take off your hat,"
+      "text": "\"Take off your hat,\"",
+      "para_break": true
     },
     {
       "start": 262.32,
       "end": 263.66,
-      "text": "the king said to the hatter."
+      "text": "the King said to the Hatter."
     },
     {
       "start": 264.46,
       "end": 265.06,
-      "text": "It isn't mine,"
+      "text": "\"It isn't mine,\"",
+      "para_break": true
     },
     {
       "start": 265.34,
       "end": 266.16,
-      "text": "said the hatter."
+      "text": "said the Hatter."
     },
     {
       "start": 266.9,
       "end": 267.36,
-      "text": "Stolen,"
+      "text": "\"_Stolen!_\"",
+      "para_break": true
     },
     {
       "start": 267.66,
       "end": 268.7,
-      "text": "the king exclaimed,"
+      "text": "the King exclaimed,"
     },
     {
       "start": 268.7,
@@ -80,33 +84,34 @@
     {
       "start": 273.28,
       "end": 274.34,
-      "text": "I keep them to sell,"
+      "text": "\"I keep them to sell,\"",
+      "para_break": true
     },
     {
       "start": 274.6,
       "end": 276.22,
-      "text": "the hatter added as an explanation."
+      "text": "the Hatter added as an explanation:"
     },
     {
       "start": 276.52,
       "end": 277.78,
-      "text": "I've none of my own."
+      "text": "\"I've none of my own."
     },
     {
       "start": 277.86,
       "end": 278.58,
-      "text": "I'm a hatter."
+      "text": "I'm a hatter.\""
     },
     {
       "start": 280.16,
       "end": 281.94,
-      "text": "Here the queen put on her spectacles,",
+      "text": "Here the Queen put on her spectacles,",
       "para_break": true
     },
     {
       "start": 282.0,
       "end": 284.18,
-      "text": "and began staring hard at the hatter,"
+      "text": "and began staring hard at the Hatter,"
     },
     {
       "start": 284.26,
@@ -116,37 +121,39 @@
     {
       "start": 287.24,
       "end": 287.86,
-      "text": "Give your evidence,"
+      "text": "\"Give your evidence,\"",
+      "para_break": true
     },
     {
       "start": 288.18,
       "end": 289.0,
-      "text": "said the king,"
+      "text": "said the King;"
     },
     {
       "start": 289.12,
       "end": 290.04,
-      "text": "and don't be nervous,"
+      "text": "\"and don't be nervous,"
     },
     {
       "start": 290.34,
       "end": 291.86,
-      "text": "or I'll have you executed on the spot."
+      "text": "or I'll have you executed on the spot.\""
     },
     {
       "start": 292.8,
       "end": 294.9,
-      "text": "This did not seem to encourage the witness at all."
+      "text": "This did not seem to encourage the witness at all:",
+      "para_break": true
     },
     {
       "start": 294.96,
       "end": 297.14,
-      "text": "He kept shifting from one foot to the other,"
+      "text": "he kept shifting from one foot to the other,"
     },
     {
       "start": 297.24,
       "end": 298.8,
-      "text": "looking uneasily at the queen,"
+      "text": "looking uneasily at the Queen,"
     },
     {
       "start": 299.18,
@@ -156,12 +163,13 @@
     {
       "start": 301.42,
       "end": 303.26,
-      "text": "of his teacup instead of the bread and butter."
+      "text": "of his teacup instead of the bread-and-butter."
     },
     {
       "start": 304.48,
       "end": 305.36,
-      "text": "Just at this moment,"
+      "text": "Just at this moment",
+      "para_break": true
     },
     {
       "start": 305.52,
@@ -176,12 +184,12 @@
     {
       "start": 309.62,
       "end": 310.7,
-      "text": "she made out what it was."
+      "text": "she made out what it was:"
     },
     {
       "start": 310.96,
       "end": 313.0,
-      "text": "She was beginning to grow larger again,"
+      "text": "she was beginning to grow larger again,"
     },
     {
       "start": 313.16,
@@ -191,7 +199,7 @@
     {
       "start": 314.44,
       "end": 315.62,
-      "text": "would get up and leave the court,"
+      "text": "would get up and leave the court;"
     },
     {
       "start": 316.14,
@@ -206,7 +214,8 @@
     {
       "start": 321.18,
       "end": 323.24,
-      "text": "I wish you wouldn't squeeze so,"
+      "text": "\"I wish you wouldn't squeeze so,\"",
+      "para_break": true
     },
     {
       "start": 323.46,
@@ -226,27 +235,28 @@
     {
       "start": 325.54,
       "end": 326.66,
-      "text": "I can hardly breathe."
+      "text": "\"I can hardly breathe.\""
     },
     {
       "start": 327.14,
       "end": 328.58,
-      "text": "I can't help it,"
+      "text": "\"I can't help it,\"",
+      "para_break": true
     },
     {
       "start": 328.66,
       "end": 329.9,
-      "text": "said Alice very meekly."
+      "text": "said Alice very meekly:"
     },
     {
       "start": 329.9,
       "end": 330.36,
-      "text": "I'm growing."
+      "text": "\"I'm growing.\""
     },
     {
       "start": 332.02,
       "end": 333.08,
-      "text": "You've no right to grow here,",
+      "text": "\"You've no right to grow _here_,\"",
       "para_break": true
     },
     {
@@ -257,37 +267,39 @@
     {
       "start": 335.392,
       "end": 336.22,
-      "text": "Don't talk nonsense,"
+      "text": "\"Don't talk nonsense,\"",
+      "para_break": true
     },
     {
       "start": 336.62,
       "end": 337.8,
-      "text": "said Alice more boldly."
+      "text": "said Alice more boldly:"
     },
     {
       "start": 338.54,
       "end": 339.7,
-      "text": "You know you're growing too."
+      "text": "\"you know you're growing too.\""
     },
     {
       "start": 340.52,
       "end": 340.78,
-      "text": "Yes,"
+      "text": "\"Yes,",
+      "para_break": true
     },
     {
       "start": 340.82,
       "end": 342.42,
-      "text": "but I grow at a reasonable pace,"
+      "text": "but _I_ grow at a reasonable pace,\""
     },
     {
       "start": 342.7,
       "end": 343.68,
-      "text": "said the Dormouse."
+      "text": "said the Dormouse;"
     },
     {
       "start": 344.256,
       "end": 345.6,
-      "text": "Not in that ridiculous fashion."
+      "text": "\"not in that ridiculous fashion.\""
     },
     {
       "start": 346.38,
@@ -308,7 +320,7 @@
     {
       "start": 355.34,
       "end": 357.28,
-      "text": "and just as the Dormouse crossed the court,"
+      "text": "and, just as the Dormouse crossed the court,"
     },
     {
       "start": 357.72,
@@ -318,7 +330,7 @@
     {
       "start": 360.11,
       "end": 363.46,
-      "text": "Bring me the list of the singers in the last concert,"
+      "text": "\"Bring me the list of the singers in the last concert!\""
     },
     {
       "start": 364.36,
@@ -328,130 +340,134 @@
     {
       "start": 366.0,
       "end": 368.18,
-      "text": "so that he shook off both of his shoes."
+      "text": "so, that he shook off both his shoes."
     },
     {
       "start": 369.88,
       "end": 370.46,
-      "text": "Give your evidence,",
+      "text": "\"Give your evidence,\"",
       "para_break": true
     },
     {
       "start": 370.76,
       "end": 372.28,
-      "text": "the king repeated angrily,"
+      "text": "the King repeated angrily,"
     },
     {
       "start": 372.3,
       "end": 373.34,
-      "text": "or I'll have you executed,"
+      "text": "\"or I'll have you executed,"
     },
     {
       "start": 373.56,
       "end": 374.74,
-      "text": "whether you're nervous or not."
+      "text": "whether you're nervous or not.\""
     },
     {
       "start": 376.5,
       "end": 377.22,
-      "text": "I'm a poor man,",
+      "text": "\"I'm a poor man,",
       "para_break": true
     },
     {
       "start": 377.4,
       "end": 377.82,
-      "text": "your majesty,"
+      "text": "your Majesty,\""
     },
     {
       "start": 378.6,
       "end": 380.26,
-      "text": "the Hatter began in a trembling voice,"
+      "text": "the Hatter began, in a trembling voice,"
     },
     {
       "start": 380.38,
       "end": 382.38,
-      "text": "and I hadn't begun my tea,"
+      "text": "\"--and I hadn't begun my tea--"
     },
     {
       "start": 382.56,
       "end": 383.92,
-      "text": "not above a week or so,"
+      "text": "not above a week or so--"
     },
     {
       "start": 384.4,
       "end": 386.8,
-      "text": "and what with the bread and butter getting so thin,"
+      "text": "and what with the bread-and-butter getting so thin--"
     },
     {
       "start": 386.92,
       "end": 388.32,
-      "text": "and the twinkling of the tea."
+      "text": "and the twinkling of the tea----\""
     },
     {
       "start": 389.02,
       "end": 390.06,
-      "text": "The twinkling of the what?"
+      "text": "\"The twinkling of _what_?\"",
+      "para_break": true
     },
     {
       "start": 390.29,
       "end": 391.08,
-      "text": "said the king."
+      "text": "said the King."
     },
     {
       "start": 392.42,
       "end": 393.76,
-      "text": "It began with the tea,"
+      "text": "\"It _began_ with the tea,\"",
+      "para_break": true
     },
     {
       "start": 394.56,
       "end": 395.16,
-      "text": "the hatter replied."
+      "text": "the Hatter replied."
     },
     {
       "start": 396.26,
       "end": 398.02,
-      "text": "Of course twinkling begins with a tea,"
+      "text": "\"Of course twinkling _begins_ with a T!\"",
+      "para_break": true
     },
     {
       "start": 398.26,
       "end": 399.12,
-      "text": "said the king sharply."
+      "text": "said the King sharply."
     },
     {
       "start": 399.46,
       "end": 400.48,
-      "text": "Do you take me for a dunce?"
+      "text": "\"Do you take me for a dunce?"
     },
     {
       "start": 400.98,
       "end": 401.26,
-      "text": "Go on."
+      "text": "Go on!\""
     },
     {
       "start": 402.816,
       "end": 403.56,
-      "text": "I'm a poor man,",
+      "text": "\"I'm a poor man,\"",
       "para_break": true
     },
     {
       "start": 404.06,
       "end": 404.82,
-      "text": "the hatter went on,"
+      "text": "the Hatter went on,"
     },
     {
       "start": 404.92,
       "end": 407.0,
-      "text": "and most things twinkled after that."
+      "text": "\"and most things twinkled after that--"
     },
     {
       "start": 407.32,
       "end": 408.46,
-      "text": "Only the March Hare said."
+      "text": "only the March Hare said----\""
     },
     {
       "start": 409.24,
       "end": 409.82,
-      "text": "I didn't,"
+      "text": "\"I didn't!\"",
+      "para_break": true
     },
     {
       "start": 409.82,
@@ -461,17 +477,19 @@
     {
       "start": 412.52,
       "end": 412.82,
-      "text": "You did,"
+      "text": "\"You did!\"",
+      "para_break": true
     },
     {
       "start": 413.08,
       "end": 413.84,
-      "text": "said the hatter."
+      "text": "said the Hatter."
     },
     {
       "start": 414.34,
       "end": 415.04,
-      "text": "I deny it,"
+      "text": "\"I deny it!\"",
+      "para_break": true
     },
     {
       "start": 415.12,
@@ -481,22 +499,24 @@
     {
       "start": 416.7,
       "end": 417.84,
-      "text": "He denies it,"
+      "text": "\"He denies it,\"",
+      "para_break": true
     },
     {
       "start": 417.92,
       "end": 418.52,
-      "text": "said the King."
+      "text": "said the King:"
     },
     {
       "start": 418.7,
       "end": 419.6,
-      "text": "Leave out that part."
+      "text": "\"leave out that part.\""
     },
     {
       "start": 420.32,
       "end": 420.58,
-      "text": "Well,"
+      "text": "\"Well,",
+      "para_break": true
     },
     {
       "start": 420.7,
@@ -506,7 +526,7 @@
     {
       "start": 421.48,
       "end": 422.38,
-      "text": "the Dormouse said,"
+      "text": "the Dormouse said----\""
     },
     {
       "start": 422.54,
@@ -516,7 +536,7 @@
     {
       "start": 423.62,
       "end": 426.12,
-      "text": "looking anxiously round to see if he would deny it too,"
+      "text": "looking anxiously round to see if he would deny it too:"
     },
     {
       "start": 426.4,
@@ -531,7 +551,8 @@
     {
       "start": 430.08,
       "end": 430.48,
-      "text": "After that,"
+      "text": "\"After that,\"",
+      "para_break": true
     },
     {
       "start": 430.7,
@@ -541,12 +562,13 @@
     {
       "start": 431.68,
       "end": 433.12,
-      "text": "I cut some more bread and butter."
+      "text": "\"I cut some more bread-and-butter----\""
     },
     {
       "start": 434.22,
       "end": 435.56,
-      "text": "But what did the Dormouse say,"
+      "text": "\"But what did the Dormouse say?\"",
+      "para_break": true
     },
     {
       "start": 435.72,
@@ -556,7 +578,8 @@
     {
       "start": 437.568,
       "end": 438.5,
-      "text": "That I can't remember,"
+      "text": "\"That I can't remember,\"",
+      "para_break": true
     },
     {
       "start": 438.72,
@@ -566,7 +589,8 @@
     {
       "start": 440.28,
       "end": 441.02,
-      "text": "You must remember,"
+      "text": "\"You _must_ remember,\"",
+      "para_break": true
     },
     {
       "start": 441.34,
@@ -576,57 +600,60 @@
     {
       "start": 442.1,
       "end": 443.36,
-      "text": "or I'll have you executed."
+      "text": "\"or I'll have you executed.\""
     },
     {
       "start": 444.62,
       "end": 447.6,
-      "text": "the miserable hatter dropped his tea-cup and bread and"
+      "text": "The miserable Hatter dropped his teacup and bread-and-",
+      "para_break": true
     },
     {
       "start": 447.6,
       "end": 451.54,
-      "text": "butter and went down on one knee i'm a poor man your"
+      "text": "butter, and went down on one knee. \"I'm a poor man, your"
     },
     {
       "start": 451.54,
       "end": 455.88,
-      "text": "majesty he began you're a very poor speaker said the king"
+      "text": "Majesty,\" he began. \"You're a _very_ poor _speaker_,\" said the King."
     },
     {
       "start": 457.02,
       "end": 459.14,
-      "text": "here one of the guinea-pigs cheered and was"
+      "text": "Here one of the guinea-pigs cheered, and was",
+      "para_break": true
     },
     {
       "start": 459.14,
       "end": 461.64,
-      "text": "immediately suppressed by the officers of the court"
+      "text": "immediately suppressed by the officers of the court."
     },
     {
       "start": 462.58,
       "end": 464.4,
-      "text": "as that is rather a hard word i will"
+      "text": "(As that is rather a hard word, I will"
     },
     {
       "start": 464.4,
       "end": 465.96,
-      "text": "just explain to you how it was done"
+      "text": "just explain to you how it was done."
     },
     {
       "start": 466.56,
       "end": 469.7,
-      "text": "they had a large canvas bag which tied up at the mouth with strings"
+      "text": "They had a large canvas bag, which tied up at the mouth with strings:"
     },
     {
       "start": 469.83,
       "end": 473.18,
-      "text": "into this they slipped the guinea-pig head first and then sat upon it"
+      "text": "into this they slipped the guinea-pig, head first, and then sat upon it.)"
     },
     {
       "start": 473.88,
       "end": 475.04,
-      "text": "I'm glad I've seen that done,"
+      "text": "\"I'm glad I've seen that done,\"",
+      "para_break": true
     },
     {
       "start": 475.22,
@@ -636,12 +663,12 @@
     {
       "start": 475.88,
       "end": 478.72,
-      "text": "I've so often read in the newspapers at the end of"
+      "text": "\"I've so often read in the newspapers, at the end of"
     },
     {
       "start": 478.8,
       "end": 481.22,
-      "text": "trials there was some attempt at applause which"
+      "text": "trials, 'There was some attempt at applause, which"
     },
     {
       "start": 481.22,
@@ -651,28 +678,28 @@
     {
       "start": 483.48,
       "end": 483.88,
-      "text": "the court,"
+      "text": "the court,'"
     },
     {
       "start": 484.0,
       "end": 485.98,
-      "text": "and I never understood what it meant till now."
+      "text": "and I never understood what it meant till now.\""
     },
     {
       "start": 487.75,
       "end": 489.42,
-      "text": "If that's all you know about it,",
+      "text": "\"If that's all you know about it,",
       "para_break": true
     },
     {
       "start": 489.46,
       "end": 490.26,
-      "text": "you may stand down,"
+      "text": "you may stand down,\""
     },
     {
       "start": 490.38,
       "end": 491.28,
-      "text": "continued the king."
+      "text": "continued the King."
     }
   ]
 }

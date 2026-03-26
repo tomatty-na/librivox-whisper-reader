@@ -20,7 +20,8 @@
     {
       "start": 9.52,
       "end": 12.14,
-      "text": "CURIOUSER AND CURIOUSER,"
+      "text": "CURIOUSER AND CURIOUSER,",
+      "para_break": true
     },
     {
       "start": 12.2,
@@ -40,7 +41,7 @@
     {
       "start": 17.58,
       "end": 20.46,
-      "text": "Now I'm opening out like the largest telescope that ever was.",
+      "text": "Now I'm opening out like the largest telescope that ever was!",
       "para_break": true
     },
     {
@@ -56,8 +57,7 @@
     {
       "start": 22.82,
       "end": 24.12,
-      "text": "For when she looked down at her feet",
-      "para_break": true
+      "text": "For when she looked down at her feet"
     },
     {
       "start": 24.12,
@@ -77,8 +77,7 @@
     {
       "start": 28.68,
       "end": 29.74,
-      "text": "my poor little feet!",
-      "para_break": true
+      "text": "my poor little feet!"
     },
     {
       "start": 30.18,
@@ -88,12 +87,12 @@
     {
       "start": 32.82,
       "end": 33.12,
-      "text": "dears."
+      "text": "dears?"
     },
     {
       "start": 34.0,
       "end": 35.14,
-      "text": "I'm sure I shan't be able.",
+      "text": "I'm sure _I_ sha'n't be able!",
       "para_break": true
     },
     {
@@ -104,14 +103,12 @@
     {
       "start": 38.94,
       "end": 40.48,
-      "text": "You must manage the best way you can.",
-      "para_break": true
+      "text": "You must manage the best way you can."
     },
     {
       "start": 41.02,
       "end": 42.02,
-      "text": "But I must be kind to them,",
-      "para_break": true
+      "text": "But I must be kind to them,"
     },
     {
       "start": 42.1,
@@ -121,19 +118,17 @@
     {
       "start": 42.74,
       "end": 44.86,
-      "text": "or perhaps they won't walk the way I want to go."
+      "text": "or perhaps they won't walk the way I want to go!"
     },
     {
       "start": 45.56,
       "end": 46.04,
-      "text": "Let me see.",
-      "para_break": true
+      "text": "Let me see:"
     },
     {
       "start": 46.52,
       "end": 48.45,
-      "text": "I'll give them a new pair of boots every Christmas.",
-      "para_break": true
+      "text": "I'll give them a new pair of boots every Christmas."
     },
     {
       "start": 49.16,
@@ -160,12 +155,12 @@
     {
       "start": 57.02,
       "end": 58.54,
-      "text": "and how odd the directions will look."
+      "text": "and how odd the directions will look!"
     },
     {
       "start": 59.616,
       "end": 60.46,
-      "text": "Alice's right foot,",
+      "text": "Alice's Right Foot,",
       "para_break": true
     },
     {
@@ -176,17 +171,17 @@
     {
       "start": 61.26,
       "end": 61.9,
-      "text": "hearth-rug,"
+      "text": "Hearthrug,"
     },
     {
       "start": 62.02,
       "end": 62.6,
-      "text": "near the fender,"
+      "text": "near the Fender,"
     },
     {
       "start": 62.78,
       "end": 63.74,
-      "text": "with Alice's love."
+      "text": "(with Alice's love)."
     },
     {
       "start": 65.16,
@@ -197,7 +192,7 @@
     {
       "start": 65.82,
       "end": 67.1,
-      "text": "what nonsense I'm talking."
+      "text": "what nonsense I'm talking!"
     },
     {
       "start": 68.14,
@@ -213,7 +208,7 @@
     {
       "start": 70.6,
       "end": 71.3,
-      "text": "In fact,"
+      "text": "in fact,"
     },
     {
       "start": 71.3,
@@ -269,7 +264,7 @@
     {
       "start": 89.26,
       "end": 90.74,
-      "text": "You ought to be ashamed of yourself,",
+      "text": "\"You ought to be ashamed of yourself,",
       "para_break": true
     },
     {
@@ -285,12 +280,12 @@
     {
       "start": 92.96,
       "end": 94.28,
-      "text": "she might as well say this,"
+      "text": "she might well say this,"
     },
     {
       "start": 94.72,
       "end": 96.16,
-      "text": "to go on crying in this way."
+      "text": "to go on crying in this way!"
     },
     {
       "start": 96.3,
@@ -300,7 +295,7 @@
     {
       "start": 97.22,
       "end": 97.7,
-      "text": "I tell you."
+      "text": "I tell you!"
     },
     {
       "start": 97.76,
@@ -346,13 +341,12 @@
     {
       "start": 113.32,
       "end": 114.4,
-      "text": "It was the white rabbit returning,",
-      "para_break": true
+      "text": "It was the White Rabbit returning,"
     },
     {
       "start": 114.76,
       "end": 116.66,
-      "text": "splendidly dressed with a pair of white kid"
+      "text": "splendidly dressed, with a pair of white kid"
     },
     {
       "start": 116.66,
@@ -362,8 +356,7 @@
     {
       "start": 119.58,
       "end": 121.42,
-      "text": "He came trotting along in a great hurry,",
-      "para_break": true
+      "text": "He came trotting along in a great hurry,"
     },
     {
       "start": 121.52,
@@ -373,7 +366,7 @@
     {
       "start": 123.28,
       "end": 123.38,
-      "text": "Oh,"
+      "text": "Oh!"
     },
     {
       "start": 123.66,
@@ -383,7 +376,7 @@
     {
       "start": 124.36,
       "end": 124.98,
-      "text": "the Duchess,"
+      "text": "the Duchess!"
     },
     {
       "start": 125.04,
@@ -393,13 +386,12 @@
     {
       "start": 128.16,
       "end": 131.36,
-      "text": "Alice felt so desperate that she was ready to ask help of anyone,",
-      "para_break": true
+      "text": "Alice felt so desperate that she was ready to ask help of any one,"
     },
     {
       "start": 131.78,
       "end": 134.16,
-      "text": "so when the rabbit came near her she began in a low,"
+      "text": "so when the Rabbit came near her she began in a low,"
     },
     {
       "start": 134.2,
@@ -409,8 +401,7 @@
     {
       "start": 135.34,
       "end": 135.9,
-      "text": "If you please,",
-      "para_break": true
+      "text": "If you please,"
     },
     {
       "start": 135.98,
@@ -420,7 +411,7 @@
     {
       "start": 136.82,
       "end": 139.82,
-      "text": "The rabbit started violently dropping the white kid gloves in the fan",
+      "text": "The Rabbit started violently, dropped the white kid gloves and the fan",
       "para_break": true
     },
     {
@@ -446,8 +437,7 @@
     {
       "start": 149.16,
       "end": 149.36,
-      "text": "Dear,",
-      "para_break": true
+      "text": "Dear,"
     },
     {
       "start": 149.52,
@@ -457,37 +447,32 @@
     {
       "start": 149.9,
       "end": 151.26,
-      "text": "how queer everything is today."
+      "text": "How queer everything is to-day!"
     },
     {
       "start": 151.84,
       "end": 153.64,
-      "text": "And yesterday things went on just as usual.",
-      "para_break": true
+      "text": "And yesterday things went on just as usual."
     },
     {
       "start": 154.36,
       "end": 156.16,
-      "text": "I wonder if I've been changed during the night.",
-      "para_break": true
+      "text": "I wonder if I've been changed during the night."
     },
     {
       "start": 156.66,
       "end": 157.14,
-      "text": "Let me think.",
-      "para_break": true
+      "text": "Let me think."
     },
     {
       "start": 157.92,
       "end": 159.62,
-      "text": "Was I the same when I got up this morning?",
-      "para_break": true
+      "text": "_was_ I the same when I got up this morning?"
     },
     {
       "start": 160.22,
       "end": 162.44,
-      "text": "I almost think I can remember feeling a little different,",
-      "para_break": true
+      "text": "I almost think I can remember feeling a little different,"
     },
     {
       "start": 162.76,
@@ -507,13 +492,12 @@
     {
       "start": 166.86,
       "end": 167.02,
-      "text": "Ah,",
-      "para_break": true
+      "text": "Ah,"
     },
     {
       "start": 167.02,
       "end": 167.8,
-      "text": "that's a great puzzle."
+      "text": "_that's_ the great puzzle!"
     },
     {
       "start": 168.512,
@@ -524,7 +508,7 @@
     {
       "start": 170.28,
       "end": 172.32,
-      "text": "she knew that were of the same age as herself."
+      "text": "she knew that were of the same age as herself,"
     },
     {
       "start": 172.62,
@@ -534,7 +518,7 @@
     {
       "start": 175.22,
       "end": 176.18,
-      "text": "I'm sure I'm not Ada,",
+      "text": "\"I'm sure I'm not Ada,",
       "para_break": true
     },
     {
@@ -555,8 +539,7 @@
     {
       "start": 181.12,
       "end": 182.46,
-      "text": "And I'm sure I can't be Mabel,",
-      "para_break": true
+      "text": "and I'm sure I can't be Mabel,"
     },
     {
       "start": 182.58,
@@ -571,56 +554,52 @@
     {
       "start": 184.38,
       "end": 184.7,
-      "text": "oh,"
+      "text": "oh!"
     },
     {
       "start": 184.86,
       "end": 186.48,
-      "text": "she knows such very little."
+      "text": "she knows such a very little!"
     },
     {
       "start": 187.14,
       "end": 187.38,
-      "text": "Besides,",
-      "para_break": true
+      "text": "Besides,"
     },
     {
       "start": 187.56,
       "end": 188.06,
-      "text": "she's she,"
+      "text": "_she's_ she,"
     },
     {
       "start": 188.18,
       "end": 188.84,
-      "text": "and I'm I."
+      "text": "and _I'm_ I,"
     },
     {
       "start": 189.74,
       "end": 190.24,
-      "text": "And oh dear,",
-      "para_break": true
+      "text": "and oh dear,"
     },
     {
       "start": 190.32,
       "end": 191.46,
-      "text": "how puzzling it all is."
+      "text": "how puzzling it all is!"
     },
     {
       "start": 192.14,
       "end": 194.04,
-      "text": "I'll try if I know all the things I used to know.",
-      "para_break": true
+      "text": "I'll try if I know all the things I used to know."
     },
     {
       "start": 194.76,
       "end": 195.2,
-      "text": "Let me see.",
-      "para_break": true
+      "text": "Let me see:"
     },
     {
       "start": 195.616,
       "end": 196.8,
-      "text": "Four times five is twelve,"
+      "text": "four times five is twelve,"
     },
     {
       "start": 197.02,
@@ -630,40 +609,37 @@
     {
       "start": 199.0,
       "end": 200.6,
-      "text": "and four times seven is..."
+      "text": "and four times seven is--"
     },
     {
       "start": 200.9,
       "end": 201.38,
-      "text": "Oh dear,"
+      "text": "oh dear!"
     },
     {
       "start": 201.54,
       "end": 203.14,
-      "text": "I shall never get to twenty at that rate."
+      "text": "I shall never get to twenty at that rate!"
     },
     {
       "start": 203.62,
       "end": 203.98,
-      "text": "However,",
-      "para_break": true
+      "text": "However,"
     },
     {
       "start": 204.1,
       "end": 206.04,
-      "text": "the multiplication table doesn't signify."
+      "text": "the Multiplication Table doesn't signify."
     },
     {
       "start": 206.752,
       "end": 207.54,
-      "text": "Let's try geography.",
-      "para_break": true
+      "text": "Let's try Geography."
     },
     {
       "start": 208.96,
       "end": 210.4,
-      "text": "London is the capital of Paris,",
-      "para_break": true
+      "text": "London is the capital of Paris,"
     },
     {
       "start": 210.58,
@@ -673,34 +649,32 @@
     {
       "start": 212.44,
       "end": 213.26,
-      "text": "and Rome..."
+      "text": "and Rome--"
     },
     {
       "start": 213.26,
       "end": 213.5,
-      "text": "No,"
+      "text": "no,"
     },
     {
       "start": 213.62,
       "end": 214.32,
-      "text": "that's all wrong,"
+      "text": "_that's_ all wrong,"
     },
     {
       "start": 214.46,
       "end": 214.92,
-      "text": "I'm certain."
+      "text": "I'm certain!"
     },
     {
       "start": 215.54,
       "end": 217.12,
-      "text": "I must have been changed from Mabel.",
-      "para_break": true
+      "text": "I must have been changed for Mabel!"
     },
     {
       "start": 217.64,
       "end": 219.08,
-      "text": "I'll try and say how doth the little.",
-      "para_break": true
+      "text": "I'll try and say '_How doth the little----_'"
     },
     {
       "start": 219.9,
@@ -721,64 +695,65 @@
     {
       "start": 226.16,
       "end": 228.46,
-      "text": "and the words did not come the same as they used to do."
+      "text": "and the words did not come the same as they used to do:--"
     },
     {
       "start": 228.6,
       "end": 232.56,
-      "text": "How doth the little crocodile improve his shining tail"
+      "text": "How doth the little crocodile Improve his shining tail,",
+      "para_break": true
     },
     {
       "start": 232.86,
       "end": 236.38,
-      "text": "And pour the waters of the Nile on every golden scale"
+      "text": "And pour the waters of the Nile On every golden scale!"
     },
     {
       "start": 236.78,
       "end": 239.04,
-      "text": "How cheerfully he seems to grin"
+      "text": "How cheerfully he seems to grin,",
+      "para_break": true
     },
     {
       "start": 239.24,
       "end": 240.92,
-      "text": "How neatly spreads his claws"
+      "text": "How neatly spreads his claws,"
     },
     {
       "start": 241.46,
       "end": 244.44,
-      "text": "And welcomes little fishes in with gently smiling jaws",
-      "para_break": true
+      "text": "And welcomes little fishes in, With gently smiling jaws!"
     },
     {
       "start": 246.0,
       "end": 247.38,
-      "text": "I'm sure those are not the right words,",
+      "text": "\"I'm sure those are not the right words,",
       "para_break": true
     },
     {
       "start": 247.46,
       "end": 248.14,
-      "text": "said poor Alice"
+      "text": "said poor Alice,"
     },
     {
       "start": 248.34,
       "end": 250.68,
-      "text": "And her eyes filled with tears again as she went on"
+      "text": "and her eyes filled with tears again as she went on."
     },
     {
       "start": 250.84,
       "end": 253.18,
-      "text": "I must be Mabel after all"
+      "text": "I must be Mabel, after all,"
     },
     {
       "start": 253.32,
       "end": 255.92,
-      "text": "And I shall have to go and live in that pokey little house"
+      "text": "and I shall have to go and live in that poky little house,"
     },
     {
       "start": 256.2,
       "end": 257.78,
-      "text": "And have next to no toys to play with"
+      "text": "and have next to no toys to play with,"
     },
     {
       "start": 257.96,
@@ -788,12 +763,12 @@
     {
       "start": 258.14,
       "end": 258.4,
-      "text": "oh,"
+      "text": "oh!"
     },
     {
       "start": 258.54,
       "end": 260.22,
-      "text": "ever so many lessons to learn."
+      "text": "ever so many lessons to learn!"
     }
   ]
 }

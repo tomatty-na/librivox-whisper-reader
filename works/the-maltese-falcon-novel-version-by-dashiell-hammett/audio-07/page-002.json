@@ -1,0 +1,617 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-07",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_07_hammett.mp3",
+  "chapter_title": "G in the Air",
+  "reader_name": "NLizer",
+  "page_num": 2,
+  "page_total": 6,
+  "page_start_sec": 242.3,
+  "page_end_sec": 484.44,
+  "para_gap_threshold": 0.77,
+  "segments": [
+    {
+      "start": 242.3,
+      "end": 244.06,
+      "text": "They talked in Spade's room at the Davenport.",
+      "para_break": true
+    },
+    {
+      "start": 244.832,
+      "end": 246.56,
+      "text": "Flitcraft had no feeling of guilt.",
+      "para_break": true
+    },
+    {
+      "start": 247.4,
+      "end": 249.52,
+      "text": "He had left his first family well provided for,",
+      "para_break": true
+    },
+    {
+      "start": 249.92,
+      "end": 252.4,
+      "text": "and what he had done seemed to him perfectly reasonable."
+    },
+    {
+      "start": 253.02,
+      "end": 256.0,
+      "text": "The only thing that bothered him was a doubt that"
+    },
+    {
+      "start": 256.032,
+      "end": 258.48,
+      "text": "he could make that reasonableness clear to Spade."
+    },
+    {
+      "start": 259.14,
+      "end": 261.54,
+      "text": "He had never told anybody his story before,"
+    },
+    {
+      "start": 261.72,
+      "end": 265.24,
+      "text": "and thus had not had to attempt to make its reasonableness explicit."
+    },
+    {
+      "start": 265.94,
+      "end": 266.84,
+      "text": "He tried now."
+    },
+    {
+      "start": 268.22,
+      "end": 269.0,
+      "text": "I got it all right,",
+      "para_break": true
+    },
+    {
+      "start": 269.18,
+      "end": 270.94,
+      "text": "Spade told Bridget O'Shaughnessy,"
+    },
+    {
+      "start": 271.4,
+      "end": 271.74,
+      "text": "but Mrs."
+    },
+    {
+      "start": 271.86,
+      "end": 272.84,
+      "text": "Flitcraft never did."
+    },
+    {
+      "start": 273.52,
+      "end": 274.5,
+      "text": "She thought it was silly."
+    },
+    {
+      "start": 274.78,
+      "end": 275.82,
+      "text": "Maybe it was."
+    },
+    {
+      "start": 276.58,
+      "end": 277.14,
+      "text": "Anyway,"
+    },
+    {
+      "start": 277.64,
+      "end": 278.58,
+      "text": "it came out all right."
+    },
+    {
+      "start": 278.86,
+      "end": 280.36,
+      "text": "She didn't want any scandal,"
+    },
+    {
+      "start": 280.66,
+      "end": 283.04,
+      "text": "and after the trick he had played on her,"
+    },
+    {
+      "start": 283.38,
+      "end": 284.48,
+      "text": "the way she looked at it,"
+    },
+    {
+      "start": 284.68,
+      "end": 285.44,
+      "text": "she didn't want him."
+    },
+    {
+      "start": 286.38,
+      "end": 287.78,
+      "text": "So they were divorced on the quiet,",
+      "para_break": true
+    },
+    {
+      "start": 287.86,
+      "end": 289.64,
+      "text": "and everything was swell all around."
+    },
+    {
+      "start": 290.848,
+      "end": 291.9,
+      "text": "Here's what had happened to him.",
+      "para_break": true
+    },
+    {
+      "start": 292.72,
+      "end": 293.28,
+      "text": "Going to lunch,",
+      "para_break": true
+    },
+    {
+      "start": 293.3,
+      "end": 295.46,
+      "text": "he passed an office building that was being put up,"
+    },
+    {
+      "start": 295.54,
+      "end": 296.54,
+      "text": "just a skeleton."
+    },
+    {
+      "start": 297.44,
+      "end": 299.24,
+      "text": "A beam or something fell eight or ten stories",
+      "para_break": true
+    },
+    {
+      "start": 299.24,
+      "end": 301.42,
+      "text": "down and smacked the sidewalk alongside him."
+    },
+    {
+      "start": 302.3,
+      "end": 303.66,
+      "text": "It brushed pretty close to him,",
+      "para_break": true
+    },
+    {
+      "start": 303.7,
+      "end": 304.68,
+      "text": "but didn't touch him,"
+    },
+    {
+      "start": 304.94,
+      "end": 306.6,
+      "text": "though a piece of the sidewalk was"
+    },
+    {
+      "start": 306.6,
+      "end": 308.62,
+      "text": "chipped off and flew up and hit his cheek."
+    },
+    {
+      "start": 309.0,
+      "end": 310.72,
+      "text": "It only took a piece of skin off,"
+    },
+    {
+      "start": 311.2,
+      "end": 313.0,
+      "text": "but he still had the scar when I saw him."
+    },
+    {
+      "start": 313.6,
+      "end": 314.96,
+      "text": "He rubbed it with his finger,"
+    },
+    {
+      "start": 315.1,
+      "end": 315.5,
+      "text": "well,"
+    },
+    {
+      "start": 315.6,
+      "end": 316.42,
+      "text": "affectionately,"
+    },
+    {
+      "start": 317.0,
+      "end": 317.98,
+      "text": "when he told me about it."
+    },
+    {
+      "start": 318.52,
+      "end": 319.54,
+      "text": "He was scared stiff,"
+    },
+    {
+      "start": 319.68,
+      "end": 320.02,
+      "text": "of course,"
+    },
+    {
+      "start": 320.06,
+      "end": 320.46,
+      "text": "he said,"
+    },
+    {
+      "start": 320.6,
+      "end": 322.6,
+      "text": "but he was more shocked than really frightened."
+    },
+    {
+      "start": 323.36,
+      "end": 324.88,
+      "text": "He felt like somebody had taken the lid"
+    },
+    {
+      "start": 324.88,
+      "end": 326.6,
+      "text": "off life and let him look at the works."
+    },
+    {
+      "start": 327.808,
+      "end": 330.82,
+      "text": "Flitcraft had been a good citizen and a good husband and father,",
+      "para_break": true
+    },
+    {
+      "start": 331.34,
+      "end": 334.22,
+      "text": "not by any outer compulsion but simply because"
+    },
+    {
+      "start": 334.22,
+      "end": 336.76,
+      "text": "he was a man who was most comfortable in step"
+    },
+    {
+      "start": 336.76,
+      "end": 339.22,
+      "text": "with his surroundings he had been raised"
+    },
+    {
+      "start": 339.22,
+      "end": 341.62,
+      "text": "that way the people he knew were like that"
+    },
+    {
+      "start": 342.26,
+      "end": 342.94,
+      "text": "the life he knew"
+    },
+    {
+      "start": 342.94,
+      "end": 345.06,
+      "text": "was a clean orderly sane responsible"
+    },
+    {
+      "start": 345.06,
+      "end": 348.12,
+      "text": "affair now a falling beam had shown him"
+    },
+    {
+      "start": 348.7,
+      "end": 349.312,
+      "text": "that life was"
+    },
+    {
+      "start": 349.64,
+      "end": 352.76,
+      "text": "fundamentally none of these things he the good"
+    },
+    {
+      "start": 352.76,
+      "end": 355.38,
+      "text": "citizen husband father could be wiped out between"
+    },
+    {
+      "start": 355.6,
+      "end": 358.66,
+      "text": "office and restaurant by the accident of a falling bean."
+    },
+    {
+      "start": 359.66,
+      "end": 361.3,
+      "text": "He knew then that men died at",
+      "para_break": true
+    },
+    {
+      "start": 361.42,
+      "end": 365.1,
+      "text": "haphazard like that and lived only while blind chance spared them."
+    },
+    {
+      "start": 365.86,
+      "end": 367.16,
+      "text": "It was not primarily the"
+    },
+    {
+      "start": 367.22,
+      "end": 369.16,
+      "text": "injustice of it that disturbed him."
+    },
+    {
+      "start": 369.4,
+      "end": 371.86,
+      "text": "He accepted that after the first shock."
+    },
+    {
+      "start": 372.78,
+      "end": 373.62,
+      "text": "What disturbed him",
+      "para_break": true
+    },
+    {
+      "start": 373.74,
+      "end": 375.08,
+      "text": "was the discovery that,"
+    },
+    {
+      "start": 375.14,
+      "end": 377.14,
+      "text": "insensibly ordering his affairs,"
+    },
+    {
+      "start": 377.4,
+      "end": 379.7,
+      "text": "he had got out of step and not"
+    },
+    {
+      "start": 379.76,
+      "end": 380.66,
+      "text": "into step with life."
+    },
+    {
+      "start": 381.64,
+      "end": 384.58,
+      "text": "He said he knew before he had gone twenty feet from the fallen bean",
+      "para_break": true
+    },
+    {
+      "start": 384.82,
+      "end": 387.56,
+      "text": "that he would never know peace again until he"
+    },
+    {
+      "start": 387.56,
+      "end": 390.46,
+      "text": "had adjusted himself to this new glimpse of life."
+    },
+    {
+      "start": 391.17,
+      "end": 393.42,
+      "text": "By the time he had eaten his luncheon,"
+    },
+    {
+      "start": 393.46,
+      "end": 395.34,
+      "text": "he had found his means of adjustment."
+    },
+    {
+      "start": 396.28,
+      "end": 398.94,
+      "text": "Life could be ended for him at random by a falling beam.",
+      "para_break": true
+    },
+    {
+      "start": 399.12,
+      "end": 401.74,
+      "text": "He would change his life at random by simply"
+    },
+    {
+      "start": 401.84,
+      "end": 402.36,
+      "text": "going away."
+    },
+    {
+      "start": 402.68,
+      "end": 404.34,
+      "text": "He loved his family,"
+    },
+    {
+      "start": 404.44,
+      "end": 404.82,
+      "text": "he said,"
+    },
+    {
+      "start": 405.0,
+      "end": 406.92,
+      "text": "as much as he supposed was usual,"
+    },
+    {
+      "start": 407.7,
+      "end": 408.52,
+      "text": "but he knew he was",
+      "para_break": true
+    },
+    {
+      "start": 408.6,
+      "end": 410.44,
+      "text": "leaving them adequately provided for,"
+    },
+    {
+      "start": 410.98,
+      "end": 413.82,
+      "text": "and his love for them was not of the sort that would make"
+    },
+    {
+      "start": 414.0,
+      "end": 414.66,
+      "text": "absence painful."
+    },
+    {
+      "start": 415.27,
+      "end": 417.36,
+      "text": "He went to Seattle that afternoon,"
+    },
+    {
+      "start": 417.6,
+      "end": 418.14,
+      "text": "Spade said,"
+    },
+    {
+      "start": 418.74,
+      "end": 420.6,
+      "text": "and from there by boat to San Francisco."
+    },
+    {
+      "start": 421.3,
+      "end": 423.76,
+      "text": "For a couple of years he wandered around and"
+    },
+    {
+      "start": 423.76,
+      "end": 426.68,
+      "text": "then drifted back to the northwest and settled in"
+    },
+    {
+      "start": 426.78,
+      "end": 427.84,
+      "text": "Spokane and got married."
+    },
+    {
+      "start": 428.78,
+      "end": 430.56,
+      "text": "His second wife didn't look like the first,",
+      "para_break": true
+    },
+    {
+      "start": 431.02,
+      "end": 432.12,
+      "text": "but they were more alike than"
+    },
+    {
+      "start": 432.12,
+      "end": 432.73,
+      "text": "they were different."
+    },
+    {
+      "start": 432.9,
+      "end": 433.62,
+      "text": "You know,"
+    },
+    {
+      "start": 433.68,
+      "end": 437.18,
+      "text": "the kind of women that play fair games of golf and bridge and like"
+    },
+    {
+      "start": 437.18,
+      "end": 438.16,
+      "text": "new salad recipes."
+    },
+    {
+      "start": 438.61,
+      "end": 440.82,
+      "text": "He wasn't sorry for what he had done."
+    },
+    {
+      "start": 441.0,
+      "end": 442.74,
+      "text": "It seemed reasonable enough to him."
+    },
+    {
+      "start": 443.18,
+      "end": 446.14,
+      "text": "I don't think he even knew he had settled back"
+    },
+    {
+      "start": 446.14,
+      "end": 448.8,
+      "text": "naturally into the same groove he had jumped out"
+    },
+    {
+      "start": 448.8,
+      "end": 449.5,
+      "text": "of in Tacoma."
+    },
+    {
+      "start": 450.5,
+      "end": 452.28,
+      "text": "But that's the part of it I always liked.",
+      "para_break": true
+    },
+    {
+      "start": 452.48,
+      "end": 454.48,
+      "text": "He adjusted himself to beams falling,"
+    },
+    {
+      "start": 454.92,
+      "end": 456.16,
+      "text": "and then no more of them fell."
+    },
+    {
+      "start": 456.96,
+      "end": 458.94,
+      "text": "And he adjusted himself to them not falling.",
+      "para_break": true
+    },
+    {
+      "start": 459.66,
+      "end": 460.88,
+      "text": "How perfectly fascinating,"
+    },
+    {
+      "start": 461.36,
+      "end": 462.58,
+      "text": "Bridget O'Shaughnessy said."
+    },
+    {
+      "start": 462.87,
+      "end": 464.7,
+      "text": "She left her chair and stood in front of"
+    },
+    {
+      "start": 464.7,
+      "end": 465.1,
+      "text": "him close."
+    },
+    {
+      "start": 465.34,
+      "end": 467.18,
+      "text": "Her eyes were wide and deep."
+    },
+    {
+      "start": 468.22,
+      "end": 470.36,
+      "text": "I don't have to tell you how utterly at a disadvantage",
+      "para_break": true
+    },
+    {
+      "start": 470.7,
+      "end": 472.88,
+      "text": "you'll have me with him here if you choose."
+    },
+    {
+      "start": 473.856,
+      "end": 476.24,
+      "text": "Spade smiled slightly without separating his lips.",
+      "para_break": true
+    },
+    {
+      "start": 476.92,
+      "end": 477.1,
+      "text": "No,"
+    },
+    {
+      "start": 477.24,
+      "end": 478.4,
+      "text": "you don't have to tell me,"
+    },
+    {
+      "start": 478.66,
+      "end": 479.06,
+      "text": "he agreed."
+    },
+    {
+      "start": 479.98,
+      "end": 482.5,
+      "text": "And you know I'd never have placed myself in this",
+      "para_break": true
+    },
+    {
+      "start": 482.6,
+      "end": 484.44,
+      "text": "position if I hadn't trusted you completely."
+    }
+  ]
+}

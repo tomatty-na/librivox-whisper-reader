@@ -1,0 +1,616 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-05",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_05_hammett.mp3",
+  "chapter_title": "The Levantine",
+  "reader_name": "NLizer",
+  "page_num": 1,
+  "page_total": 4,
+  "page_start_sec": 8.76,
+  "page_end_sec": 278.5,
+  "para_gap_threshold": 0.679,
+  "segments": [
+    {
+      "start": 8.76,
+      "end": 9.74,
+      "text": "CHAPTER V."
+    },
+    {
+      "start": 9.74,
+      "end": 12.1,
+      "text": "SPADE DID NOT LOOK AT THE PISTOL."
+    },
+    {
+      "start": 12.2,
+      "end": 13.76,
+      "text": "HE RAISED HIS ARMS AND,"
+    },
+    {
+      "start": 13.8,
+      "end": 15.0,
+      "text": "LEANING BACK IN HIS CHAIR,"
+    },
+    {
+      "start": 15.24,
+      "end": 18.14,
+      "text": "INTERTWINED THE FINGERS OF HIS TWO HANDS BEHIND HIS HEAD."
+    },
+    {
+      "start": 19.06,
+      "end": 19.54,
+      "text": "HIS EYES,"
+    },
+    {
+      "start": 19.54,
+      "end": 20.62,
+      "text": "HOLDING NO PARTICULAR"
+    },
+    {
+      "start": 20.7,
+      "end": 21.28,
+      "text": "EXPRESSION,"
+    },
+    {
+      "start": 21.34,
+      "end": 23.68,
+      "text": "REMAINED FOCUSED ON CAIRO'S DARK FACE."
+    },
+    {
+      "start": 24.832,
+      "end": 26.94,
+      "text": "CAIRO COUGHED A LITTLE APOLOGETIC COUGH"
+    },
+    {
+      "start": 27.24,
+      "end": 30.7,
+      "text": "and smiled nervously with lips that had lost some of their redness."
+    },
+    {
+      "start": 31.44,
+      "end": 35.14,
+      "text": "His dark eyes were humid and bashful and very earnest.",
+      "para_break": true
+    },
+    {
+      "start": 35.88,
+      "end": 37.28,
+      "text": "I intend to search your offices,",
+      "para_break": true
+    },
+    {
+      "start": 37.44,
+      "end": 37.64,
+      "text": "Mr."
+    },
+    {
+      "start": 37.74,
+      "end": 38.16,
+      "text": "Spade."
+    },
+    {
+      "start": 38.94,
+      "end": 41.04,
+      "text": "I warn you that if you attempt to prevent me,",
+      "para_break": true
+    },
+    {
+      "start": 41.48,
+      "end": 42.84,
+      "text": "I shall certainly shoot you."
+    },
+    {
+      "start": 43.76,
+      "end": 44.12,
+      "text": "Go ahead.",
+      "para_break": true
+    },
+    {
+      "start": 45.344,
+      "end": 47.98,
+      "text": "Spade's voice was as empty of expression as his face.",
+      "para_break": true
+    },
+    {
+      "start": 49.12,
+      "end": 50.12,
+      "text": "You will please stand,",
+      "para_break": true
+    },
+    {
+      "start": 51.16,
+      "end": 52.72,
+      "text": "the man with the pistol instructed him,",
+      "para_break": true
+    },
+    {
+      "start": 53.0,
+      "end": 55.1,
+      "text": "at whose thick chest the pistol was aimed."
+    },
+    {
+      "start": 55.58,
+      "end": 58.04,
+      "text": "I shall have to make sure that you are not armed."
+    },
+    {
+      "start": 59.296,
+      "end": 60.02,
+      "text": "Spade stood up,",
+      "para_break": true
+    },
+    {
+      "start": 60.1,
+      "end": 61.72,
+      "text": "pushing his chair back with his"
+    },
+    {
+      "start": 61.76,
+      "end": 63.66,
+      "text": "calves as he straightened his legs."
+    },
+    {
+      "start": 65.216,
+      "end": 66.72,
+      "text": "Cairo went around behind him.",
+      "para_break": true
+    },
+    {
+      "start": 66.86,
+      "end": 68.22,
+      "text": "He transferred the pistol"
+    },
+    {
+      "start": 68.22,
+      "end": 69.7,
+      "text": "from his right hand to his left."
+    },
+    {
+      "start": 70.4,
+      "end": 72.9,
+      "text": "He lifted Spade's coat tail and looked under it.",
+      "para_break": true
+    },
+    {
+      "start": 73.984,
+      "end": 74.64,
+      "text": "Holding the pistol",
+      "para_break": true
+    },
+    {
+      "start": 74.72,
+      "end": 75.76,
+      "text": "close to Spade's back,"
+    },
+    {
+      "start": 75.9,
+      "end": 79.04,
+      "text": "he put his right hand around Spade's side and patted his chest."
+    },
+    {
+      "start": 79.74,
+      "end": 82.5,
+      "text": "The Levantine's face was then no more than six",
+      "para_break": true
+    },
+    {
+      "start": 82.5,
+      "end": 85.1,
+      "text": "inches below and behind Spade's right elbow."
+    },
+    {
+      "start": 85.86,
+      "end": 88.36,
+      "text": "Spade's elbow dropped as Spade spun to the right.",
+      "para_break": true
+    },
+    {
+      "start": 89.088,
+      "end": 90.22,
+      "text": "Cairo's face jerked back,",
+      "para_break": true
+    },
+    {
+      "start": 90.34,
+      "end": 91.56,
+      "text": "not far enough."
+    },
+    {
+      "start": 92.48,
+      "end": 94.64,
+      "text": "Spade's right heel on the patent leather toes",
+      "para_break": true
+    },
+    {
+      "start": 94.87,
+      "end": 97.84,
+      "text": "anchored the smaller man in the elbow's path."
+    },
+    {
+      "start": 98.4,
+      "end": 100.94,
+      "text": "The elbow struck him beneath the cheekbone,"
+    },
+    {
+      "start": 101.16,
+      "end": 103.54,
+      "text": "staggering him so that he must have fallen"
+    },
+    {
+      "start": 103.66,
+      "end": 106.62,
+      "text": "had he not been held by Spade's foot on his foot."
+    },
+    {
+      "start": 108.0,
+      "end": 111.36,
+      "text": "Spade's elbow went on past the astonished dark face and straightened",
+      "para_break": true
+    },
+    {
+      "start": 111.46,
+      "end": 114.22,
+      "text": "when Spade's hand struck down at the pistol."
+    },
+    {
+      "start": 115.424,
+      "end": 118.72,
+      "text": "Cairo let the pistol go the instant that Spade's fingers touched it.",
+      "para_break": true
+    },
+    {
+      "start": 119.26,
+      "end": 120.92,
+      "text": "The pistol was small in Spade's hand."
+    },
+    {
+      "start": 122.048,
+      "end": 124.72,
+      "text": "Spade took his foot off Cairo's to complete his about face.",
+      "para_break": true
+    },
+    {
+      "start": 125.7,
+      "end": 126.38,
+      "text": "With his left hand,",
+      "para_break": true
+    },
+    {
+      "start": 126.44,
+      "end": 129.04,
+      "text": "Spade gathered together the smaller man's coat lapels,"
+    },
+    {
+      "start": 129.32,
+      "end": 132.68,
+      "text": "the ruby-set green tie bunching out over his knuckles,"
+    },
+    {
+      "start": 133.62,
+      "end": 134.94,
+      "text": "while his right hand stowed the",
+      "para_break": true
+    },
+    {
+      "start": 134.94,
+      "end": 137.16,
+      "text": "captured weapon away in a coat pocket."
+    },
+    {
+      "start": 138.24,
+      "end": 139.88,
+      "text": "Spade's yellow-gray eyes were somber.",
+      "para_break": true
+    },
+    {
+      "start": 140.4,
+      "end": 141.2,
+      "text": "His face was wooden,"
+    },
+    {
+      "start": 141.66,
+      "end": 143.42,
+      "text": "with a trace of sullenness around the mouth."
+    },
+    {
+      "start": 144.48,
+      "end": 146.74,
+      "text": "Cairo's face was twisted by pain and chagrin.",
+      "para_break": true
+    },
+    {
+      "start": 147.2,
+      "end": 149.04,
+      "text": "There were tears in his dark eyes."
+    },
+    {
+      "start": 150.08,
+      "end": 152.06,
+      "text": "His skin was a complexion of polished lead",
+      "para_break": true
+    },
+    {
+      "start": 152.06,
+      "end": 154.34,
+      "text": "except where the elbow had reddened his cheek."
+    },
+    {
+      "start": 155.24,
+      "end": 155.7,
+      "text": "Spade,",
+      "para_break": true
+    },
+    {
+      "start": 155.82,
+      "end": 158.72,
+      "text": "by means of his grip on the Levantine's lapels,"
+    },
+    {
+      "start": 158.72,
+      "end": 162.08,
+      "text": "turned him slowly and pushed him back until he was standing"
+    },
+    {
+      "start": 162.08,
+      "end": 165.08,
+      "text": "close in front of the chair he had lately occupied."
+    },
+    {
+      "start": 166.2,
+      "end": 169.28,
+      "text": "A puzzled look replaced the look of pain in the lead-colored face.",
+      "para_break": true
+    },
+    {
+      "start": 170.08,
+      "end": 170.7,
+      "text": "Then Spade smiled.",
+      "para_break": true
+    },
+    {
+      "start": 171.86,
+      "end": 172.68,
+      "text": "His smile was gentle,",
+      "para_break": true
+    },
+    {
+      "start": 172.86,
+      "end": 173.54,
+      "text": "even dreaming."
+    },
+    {
+      "start": 174.02,
+      "end": 175.76,
+      "text": "His right shoulder raised a few inches."
+    },
+    {
+      "start": 176.28,
+      "end": 178.76,
+      "text": "His bent right arm was driven up by the shoulder's lift."
+    },
+    {
+      "start": 179.5,
+      "end": 180.0,
+      "text": "Fist,",
+      "para_break": true
+    },
+    {
+      "start": 180.02,
+      "end": 180.38,
+      "text": "wrist,"
+    },
+    {
+      "start": 180.62,
+      "end": 181.14,
+      "text": "forearm,"
+    },
+    {
+      "start": 181.46,
+      "end": 182.2,
+      "text": "crooked elbow,"
+    },
+    {
+      "start": 182.76,
+      "end": 185.44,
+      "text": "and upper arm seemed all one rigid piece,"
+    },
+    {
+      "start": 185.94,
+      "end": 188.68,
+      "text": "with only the limber shoulder giving the motion."
+    },
+    {
+      "start": 190.06,
+      "end": 191.46,
+      "text": "The fist struck Cairo's face,",
+      "para_break": true
+    },
+    {
+      "start": 191.64,
+      "end": 193.8,
+      "text": "covering for a moment one side of his chin,"
+    },
+    {
+      "start": 194.46,
+      "end": 195.44,
+      "text": "the corner of his mouth,"
+    },
+    {
+      "start": 195.84,
+      "end": 198.1,
+      "text": "and most of his cheek between cheekbone and jawbone."
+    },
+    {
+      "start": 199.232,
+      "end": 200.78,
+      "text": "Cairo shut his eyes and was unconscious.",
+      "para_break": true
+    },
+    {
+      "start": 202.272,
+      "end": 204.24,
+      "text": "Spade lowered the limp body into the chair,",
+      "para_break": true
+    },
+    {
+      "start": 204.4,
+      "end": 206.58,
+      "text": "where it lay with sprawled arms and legs,"
+    },
+    {
+      "start": 206.86,
+      "end": 209.14,
+      "text": "the head lolling back against the chair's back,"
+    },
+    {
+      "start": 209.26,
+      "end": 210.18,
+      "text": "the mouth open."
+    },
+    {
+      "start": 211.168,
+      "end": 214.06,
+      "text": "Spade emptied the unconscious man's pockets one by one,",
+      "para_break": true
+    },
+    {
+      "start": 214.18,
+      "end": 215.38,
+      "text": "working methodically,"
+    },
+    {
+      "start": 216.1,
+      "end": 217.48,
+      "text": "moving the lax body when necessary,",
+      "para_break": true
+    },
+    {
+      "start": 217.91,
+      "end": 221.28,
+      "text": "making a pile of the pocket's contents on the desk."
+    },
+    {
+      "start": 222.26,
+      "end": 223.76,
+      "text": "When the last pocket had been turned out,",
+      "para_break": true
+    },
+    {
+      "start": 223.78,
+      "end": 225.08,
+      "text": "he returned to his own chair,"
+    },
+    {
+      "start": 225.76,
+      "end": 227.0,
+      "text": "rolled and lighted a cigarette,",
+      "para_break": true
+    },
+    {
+      "start": 227.62,
+      "end": 229.2,
+      "text": "and began to examine his spoils."
+    },
+    {
+      "start": 229.72,
+      "end": 231.62,
+      "text": "He examined them with grave,"
+    },
+    {
+      "start": 231.72,
+      "end": 232.76,
+      "text": "unhurried thoroughness."
+    },
+    {
+      "start": 233.38,
+      "end": 235.2,
+      "text": "There was a large wallet of dark,"
+    },
+    {
+      "start": 235.24,
+      "end": 235.94,
+      "text": "soft leather."
+    },
+    {
+      "start": 236.74,
+      "end": 241.64,
+      "text": "The wallet contained $365 in United States bills of several sizes,",
+      "para_break": true
+    },
+    {
+      "start": 242.84,
+      "end": 244.02,
+      "text": "three five-pound notes,",
+      "para_break": true
+    },
+    {
+      "start": 244.2,
+      "end": 248.56,
+      "text": "a much-visited Greek passport bearing Cairo's name and portrait,"
+    },
+    {
+      "start": 249.664,
+      "end": 251.82,
+      "text": "five folder sheets of pinkish onion-skinned paper",
+      "para_break": true
+    },
+    {
+      "start": 251.82,
+      "end": 254.16,
+      "text": "covered with what seemed to be Arabic writing,"
+    },
+    {
+      "start": 254.3,
+      "end": 257.08,
+      "text": "a raggedly clipped newspaper account"
+    },
+    {
+      "start": 257.64,
+      "end": 259.78,
+      "text": "of the finding of Archers and Thursby's bodies,"
+    },
+    {
+      "start": 260.38,
+      "end": 263.2,
+      "text": "a postcard photograph of a dusky woman with bold,"
+    },
+    {
+      "start": 263.3,
+      "end": 264.7,
+      "text": "cruel eyes and a tender,"
+    },
+    {
+      "start": 264.76,
+      "end": 265.42,
+      "text": "drooping mouth,"
+    },
+    {
+      "start": 266.4,
+      "end": 267.66,
+      "text": "a large silk handkerchief,",
+      "para_break": true
+    },
+    {
+      "start": 267.84,
+      "end": 270.8,
+      "text": "yellow with age and somewhat cracked along its folds,"
+    },
+    {
+      "start": 271.84,
+      "end": 272.76,
+      "text": "a thin sheaf of Mr.",
+      "para_break": true
+    },
+    {
+      "start": 272.94,
+      "end": 274.4,
+      "text": "Joel Cairo's engraved cards,"
+    },
+    {
+      "start": 275.04,
+      "end": 278.5,
+      "text": "and a ticket for an orchestra seat at the Geary Theatre that evening."
+    }
+  ]
+}

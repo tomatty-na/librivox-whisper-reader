@@ -1,0 +1,760 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-11",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_11_hammett.mp3",
+  "chapter_title": "The Fat Man",
+  "reader_name": "NLizer",
+  "page_num": 1,
+  "page_total": 6,
+  "page_start_sec": 0.7,
+  "page_end_sec": 241.68,
+  "para_gap_threshold": 0.574,
+  "segments": [
+    {
+      "start": 0.7,
+      "end": 3.66,
+      "text": "Chapter 11 of The Maltese Falcon by Dashiell Hammett."
+    },
+    {
+      "start": 4.5,
+      "end": 6.92,
+      "text": "This LibriVox recording is in the public domain.",
+      "para_break": true
+    },
+    {
+      "start": 7.98,
+      "end": 8.58,
+      "text": "The Fat Man.",
+      "para_break": true
+    },
+    {
+      "start": 9.74,
+      "end": 12.62,
+      "text": "The telephone bell was ringing when Spade returned to his office",
+      "para_break": true
+    },
+    {
+      "start": 12.8,
+      "end": 16.18,
+      "text": "after sending Bridget O'Shaughnessy off to Effie Perrine's house."
+    },
+    {
+      "start": 16.8,
+      "end": 17.94,
+      "text": "He went to the telephone.",
+      "para_break": true
+    },
+    {
+      "start": 18.64,
+      "end": 18.92,
+      "text": "Hello?",
+      "para_break": true
+    },
+    {
+      "start": 19.48,
+      "end": 19.94,
+      "text": "Yes."
+    },
+    {
+      "start": 20.74,
+      "end": 21.26,
+      "text": "This is Spade.",
+      "para_break": true
+    },
+    {
+      "start": 21.82,
+      "end": 22.52,
+      "text": "Yes."
+    },
+    {
+      "start": 22.78,
+      "end": 23.44,
+      "text": "I got it."
+    },
+    {
+      "start": 24.32,
+      "end": 25.48,
+      "text": "I've been waiting to hear from you.",
+      "para_break": true
+    },
+    {
+      "start": 25.92,
+      "end": 26.44,
+      "text": "Who?"
+    },
+    {
+      "start": 27.04,
+      "end": 27.66,
+      "text": "Mr.",
+      "para_break": true
+    },
+    {
+      "start": 27.7,
+      "end": 28.0,
+      "text": "Gutman?"
+    },
+    {
+      "start": 28.54,
+      "end": 29.0,
+      "text": "Oh,"
+    },
+    {
+      "start": 29.18,
+      "end": 29.408,
+      "text": "yes."
+    },
+    {
+      "start": 30.0,
+      "end": 30.1,
+      "text": "Sure.",
+      "para_break": true
+    },
+    {
+      "start": 30.51,
+      "end": 31.26,
+      "text": "Now,"
+    },
+    {
+      "start": 31.5,
+      "end": 32.78,
+      "text": "the sooner the better."
+    },
+    {
+      "start": 32.98,
+      "end": 34.02,
+      "text": "12C?"
+    },
+    {
+      "start": 34.28,
+      "end": 35.18,
+      "text": "Right."
+    },
+    {
+      "start": 35.46,
+      "end": 35.56,
+      "text": "Say,"
+    },
+    {
+      "start": 36.52,
+      "end": 37.44,
+      "text": "15 minutes.",
+      "para_break": true
+    },
+    {
+      "start": 37.72,
+      "end": 37.82,
+      "text": "Right."
+    },
+    {
+      "start": 39.904,
+      "end": 41.88,
+      "text": "Spade sat on the corner of his desk beside",
+      "para_break": true
+    },
+    {
+      "start": 41.88,
+      "end": 43.52,
+      "text": "the telephone and rolled a cigarette."
+    },
+    {
+      "start": 44.52,
+      "end": 45.16,
+      "text": "His mouth was",
+      "para_break": true
+    },
+    {
+      "start": 45.16,
+      "end": 45.52,
+      "text": "a hard,"
+    },
+    {
+      "start": 45.62,
+      "end": 46.36,
+      "text": "complacent V."
+    },
+    {
+      "start": 46.58,
+      "end": 47.52,
+      "text": "His eyes,"
+    },
+    {
+      "start": 47.66,
+      "end": 49.32,
+      "text": "watching his fingers make the cigarette,"
+    },
+    {
+      "start": 49.6,
+      "end": 50.86,
+      "text": "smoldered over lower"
+    },
+    {
+      "start": 51.0,
+      "end": 52.28,
+      "text": "lids drawn up straight."
+    },
+    {
+      "start": 53.22,
+      "end": 55.16,
+      "text": "The door opened and Iva Archer came in.",
+      "para_break": true
+    },
+    {
+      "start": 55.968,
+      "end": 56.42,
+      "text": "Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 56.6,
+      "end": 57.08,
+      "text": "Hello,"
+    },
+    {
+      "start": 57.22,
+      "end": 57.42,
+      "text": "honey,"
+    },
+    {
+      "start": 57.8,
+      "end": 61.66,
+      "text": "in a voice as lightly amiable as his face had suddenly become."
+    },
+    {
+      "start": 62.02,
+      "end": 62.88,
+      "text": "Oh,"
+    },
+    {
+      "start": 63.0,
+      "end": 63.58,
+      "text": "Sam,"
+    },
+    {
+      "start": 63.92,
+      "end": 65.04,
+      "text": "forgive me,"
+    },
+    {
+      "start": 65.06,
+      "end": 66.34,
+      "text": "forgive me,"
+    },
+    {
+      "start": 66.88,
+      "end": 68.22,
+      "text": "she cried in a choked voice."
+    },
+    {
+      "start": 69.22,
+      "end": 70.78,
+      "text": "She stood just inside the door,",
+      "para_break": true
+    },
+    {
+      "start": 71.36,
+      "end": 74.18,
+      "text": "wadding a black bordered handkerchief in her small gloved hands,",
+      "para_break": true
+    },
+    {
+      "start": 74.784,
+      "end": 75.88,
+      "text": "peering into his face",
+      "para_break": true
+    },
+    {
+      "start": 76.4,
+      "end": 78.02,
+      "text": "with frightened red and swollen eyes."
+    },
+    {
+      "start": 78.92,
+      "end": 81.04,
+      "text": "He did not get up from his seat on the desk corner.",
+      "para_break": true
+    },
+    {
+      "start": 81.9,
+      "end": 82.26,
+      "text": "He said,",
+      "para_break": true
+    },
+    {
+      "start": 82.4,
+      "end": 83.0,
+      "text": "sure,"
+    },
+    {
+      "start": 83.2,
+      "end": 84.18,
+      "text": "that's all right,"
+    },
+    {
+      "start": 84.3,
+      "end": 85.08,
+      "text": "forget it."
+    },
+    {
+      "start": 85.28,
+      "end": 89.82,
+      "text": "but Sam she wailed I sent those policemen there"
+    },
+    {
+      "start": 89.82,
+      "end": 93.94,
+      "text": "I was mad crazy with jealousy and I phoned them"
+    },
+    {
+      "start": 94.4,
+      "end": 96.2,
+      "text": "that if they'd go there they'd learn something"
+    },
+    {
+      "start": 96.2,
+      "end": 99.6,
+      "text": "about Miles's murder what made you think that"
+    },
+    {
+      "start": 100.66,
+      "end": 103.96,
+      "text": "oh I didn't but I was mad Sam and I wanted to",
+      "para_break": true
+    },
+    {
+      "start": 103.96,
+      "end": 108.28,
+      "text": "hurt you it made things damn awkward he put his"
+    },
+    {
+      "start": 108.4,
+      "end": 110.04,
+      "text": "arm around her and drew her nearer"
+    },
+    {
+      "start": 110.66,
+      "end": 113.58,
+      "text": "but it's all right now only don't get any more crazy notions",
+      "para_break": true
+    },
+    {
+      "start": 113.98,
+      "end": 114.42,
+      "text": "like that."
+    },
+    {
+      "start": 115.52,
+      "end": 116.06,
+      "text": "I won't,",
+      "para_break": true
+    },
+    {
+      "start": 116.06,
+      "end": 116.74,
+      "text": "she promised,"
+    },
+    {
+      "start": 116.96,
+      "end": 117.56,
+      "text": "ever."
+    },
+    {
+      "start": 118.5,
+      "end": 120.1,
+      "text": "But you weren't nice to me last night.",
+      "para_break": true
+    },
+    {
+      "start": 120.28,
+      "end": 121.5,
+      "text": "You were cold and"
+    },
+    {
+      "start": 121.68,
+      "end": 123.34,
+      "text": "distant and wanted to get rid of me"
+    },
+    {
+      "start": 123.88,
+      "end": 126.98,
+      "text": "when I had come down there and waited so long to warn you."
+    },
+    {
+      "start": 127.06,
+      "end": 127.66,
+      "text": "And you?"
+    },
+    {
+      "start": 127.9,
+      "end": 129.76,
+      "text": "Warn me about what?"
+    },
+    {
+      "start": 130.92,
+      "end": 131.5,
+      "text": "About Phil.",
+      "para_break": true
+    },
+    {
+      "start": 131.74,
+      "end": 135.36,
+      "text": "He's found out about you being in love with me,"
+    },
+    {
+      "start": 135.48,
+      "end": 138.26,
+      "text": "and Miles had told him about my wanting a divorce,"
+    },
+    {
+      "start": 138.94,
+      "end": 140.5,
+      "text": "though of course he never knew what for.",
+      "para_break": true
+    },
+    {
+      "start": 141.06,
+      "end": 142.36,
+      "text": "and now Phil thinks we,"
+    },
+    {
+      "start": 142.77,
+      "end": 146.24,
+      "text": "you killed his brother because he wouldn't give me the divorce so we"
+    },
+    {
+      "start": 146.24,
+      "end": 146.87,
+      "text": "could get married."
+    },
+    {
+      "start": 147.16,
+      "end": 149.52,
+      "text": "He told me he believed that and"
+    },
+    {
+      "start": 149.536,
+      "end": 151.26,
+      "text": "yesterday he went and told the police."
+    },
+    {
+      "start": 152.32,
+      "end": 152.72,
+      "text": "That's nice,",
+      "para_break": true
+    },
+    {
+      "start": 152.96,
+      "end": 153.96,
+      "text": "Spade said softly,"
+    },
+    {
+      "start": 154.62,
+      "end": 158.4,
+      "text": "and you came to warn me and because I was busy you got up on your",
+      "para_break": true
+    },
+    {
+      "start": 158.4,
+      "end": 161.22,
+      "text": "ear and helped this damn Phil Archer stir things up."
+    },
+    {
+      "start": 162.304,
+      "end": 162.86,
+      "text": "I'm sorry,",
+      "para_break": true
+    },
+    {
+      "start": 163.06,
+      "end": 163.7,
+      "text": "she whimpered."
+    },
+    {
+      "start": 164.0,
+      "end": 165.16,
+      "text": "I know you won't"
+    },
+    {
+      "start": 165.26,
+      "end": 165.76,
+      "text": "forgive me."
+    },
+    {
+      "start": 165.84,
+      "end": 166.3,
+      "text": "I,"
+    },
+    {
+      "start": 166.44,
+      "end": 167.72,
+      "text": "I'm sorry,"
+    },
+    {
+      "start": 167.9,
+      "end": 168.48,
+      "text": "sorry,"
+    },
+    {
+      "start": 168.66,
+      "end": 169.02,
+      "text": "sorry."
+    },
+    {
+      "start": 170.26,
+      "end": 170.96,
+      "text": "You ought to be,",
+      "para_break": true
+    },
+    {
+      "start": 171.04,
+      "end": 171.48,
+      "text": "he agreed,"
+    },
+    {
+      "start": 172.06,
+      "end": 173.3,
+      "text": "on your own account as well as",
+      "para_break": true
+    },
+    {
+      "start": 173.34,
+      "end": 173.54,
+      "text": "mine."
+    },
+    {
+      "start": 173.78,
+      "end": 176.78,
+      "text": "Has Dundee been to see you since Phil did his talking,"
+    },
+    {
+      "start": 176.96,
+      "end": 178.56,
+      "text": "or anybody from the Bureau?"
+    },
+    {
+      "start": 179.3,
+      "end": 179.8,
+      "text": "No,",
+      "para_break": true
+    },
+    {
+      "start": 180.576,
+      "end": 182.08,
+      "text": "Alarm opened her eyes and mouth.",
+      "para_break": true
+    },
+    {
+      "start": 183.04,
+      "end": 183.42,
+      "text": "They will,",
+      "para_break": true
+    },
+    {
+      "start": 183.6,
+      "end": 184.08,
+      "text": "he said,"
+    },
+    {
+      "start": 184.58,
+      "end": 186.74,
+      "text": "and it'd be just as well to not let them"
+    },
+    {
+      "start": 186.74,
+      "end": 187.46,
+      "text": "find you here."
+    },
+    {
+      "start": 188.16,
+      "end": 190.14,
+      "text": "Did you tell them who you were when you phoned?",
+      "para_break": true
+    },
+    {
+      "start": 191.02,
+      "end": 191.66,
+      "text": "Oh no,",
+      "para_break": true
+    },
+    {
+      "start": 191.98,
+      "end": 193.5,
+      "text": "I simply told them that if"
+    },
+    {
+      "start": 193.62,
+      "end": 195.22,
+      "text": "they'd go to your apartment right away."
+    },
+    {
+      "start": 195.32,
+      "end": 197.72,
+      "text": "They'd learn something about the murder and hung up."
+    },
+    {
+      "start": 198.88,
+      "end": 199.62,
+      "text": "Where'd you phone from?",
+      "para_break": true
+    },
+    {
+      "start": 199.9,
+      "end": 202.56,
+      "text": "The drugstore up above your place."
+    },
+    {
+      "start": 202.84,
+      "end": 203.36,
+      "text": "Oh,"
+    },
+    {
+      "start": 203.42,
+      "end": 203.82,
+      "text": "Sam,"
+    },
+    {
+      "start": 204.0,
+      "end": 204.38,
+      "text": "dearest,"
+    },
+    {
+      "start": 204.5,
+      "end": 205.08,
+      "text": "I..."
+    },
+    {
+      "start": 205.08,
+      "end": 206.38,
+      "text": "He patted her"
+    },
+    {
+      "start": 206.5,
+      "end": 207.68,
+      "text": "shoulder and said pleasantly,"
+    },
+    {
+      "start": 207.9,
+      "end": 209.14,
+      "text": "it was a dumb trick,"
+    },
+    {
+      "start": 209.22,
+      "end": 209.6,
+      "text": "all right,"
+    },
+    {
+      "start": 210.02,
+      "end": 210.84,
+      "text": "but it's done now."
+    },
+    {
+      "start": 211.78,
+      "end": 212.32,
+      "text": "You'd better run",
+      "para_break": true
+    },
+    {
+      "start": 212.4,
+      "end": 214.68,
+      "text": "along home and think up things to tell the police."
+    },
+    {
+      "start": 215.42,
+      "end": 216.36,
+      "text": "You'll be hearing from them.",
+      "para_break": true
+    },
+    {
+      "start": 217.056,
+      "end": 218.12,
+      "text": "Maybe it'd be best to",
+      "para_break": true
+    },
+    {
+      "start": 218.28,
+      "end": 219.74,
+      "text": "say no right across the board."
+    },
+    {
+      "start": 220.54,
+      "end": 221.74,
+      "text": "He frowned at something distant.",
+      "para_break": true
+    },
+    {
+      "start": 221.98,
+      "end": 223.7,
+      "text": "Or maybe you'd better see"
+    },
+    {
+      "start": 223.78,
+      "end": 224.62,
+      "text": "Sid Wise first."
+    },
+    {
+      "start": 225.52,
+      "end": 227.02,
+      "text": "He removed his arm from around her,",
+      "para_break": true
+    },
+    {
+      "start": 227.16,
+      "end": 228.88,
+      "text": "took a card out of his pocket,"
+    },
+    {
+      "start": 229.14,
+      "end": 229.78,
+      "text": "scribbled"
+    },
+    {
+      "start": 229.78,
+      "end": 231.0,
+      "text": "three lines on its back,"
+    },
+    {
+      "start": 231.12,
+      "end": 231.9,
+      "text": "and gave it to her."
+    },
+    {
+      "start": 232.82,
+      "end": 233.74,
+      "text": "You can tell Sid everything,",
+      "para_break": true
+    },
+    {
+      "start": 234.0,
+      "end": 234.5,
+      "text": "he frowned."
+    },
+    {
+      "start": 234.62,
+      "end": 235.32,
+      "text": "Or almost"
+    },
+    {
+      "start": 235.38,
+      "end": 235.72,
+      "text": "everything."
+    },
+    {
+      "start": 236.34,
+      "end": 238.46,
+      "text": "Where were you the night Miles was shot?",
+      "para_break": true
+    },
+    {
+      "start": 238.8,
+      "end": 239.74,
+      "text": "Home,"
+    },
+    {
+      "start": 240.34,
+      "end": 241.68,
+      "text": "she replied without hesitating.",
+      "para_break": true
+    }
+  ]
+}

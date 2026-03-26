@@ -1,0 +1,612 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-02",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_02_hammett.mp3",
+  "chapter_title": "Death in the Fog",
+  "reader_name": "NLizer",
+  "page_num": 1,
+  "page_total": 6,
+  "page_start_sec": 1.056,
+  "page_end_sec": 246.44,
+  "para_gap_threshold": 0.738,
+  "segments": [
+    {
+      "start": 1.056,
+      "end": 4.44,
+      "text": "Chapter 2 of The Maltese Falcon by Dashiell Hammett."
+    },
+    {
+      "start": 30.0,
+      "end": 30.24,
+      "text": "Yes.",
+      "para_break": true
+    },
+    {
+      "start": 30.26,
+      "end": 31.6,
+      "text": "Fifteen minutes,"
+    },
+    {
+      "start": 31.76,
+      "end": 32.08,
+      "text": "thanks."
+    },
+    {
+      "start": 32.72,
+      "end": 34.06,
+      "text": "A switch clicked,"
+    },
+    {
+      "start": 34.26,
+      "end": 36.4,
+      "text": "and a white bowl hung on three gilded"
+    },
+    {
+      "start": 36.4,
+      "end": 37.72,
+      "text": "chains from the ceiling's center,"
+    },
+    {
+      "start": 38.28,
+      "end": 39.22,
+      "text": "filled the room with light."
+    },
+    {
+      "start": 40.12,
+      "end": 40.62,
+      "text": "Spade,",
+      "para_break": true
+    },
+    {
+      "start": 40.94,
+      "end": 42.7,
+      "text": "barefooted in green and white check pajamas,"
+    },
+    {
+      "start": 43.02,
+      "end": 44.66,
+      "text": "sat on the side of his bed."
+    },
+    {
+      "start": 45.54,
+      "end": 47.22,
+      "text": "He scowled at the telephone on the table,",
+      "para_break": true
+    },
+    {
+      "start": 47.68,
+      "end": 49.7,
+      "text": "while his hands took from beside it a packet of"
+    },
+    {
+      "start": 49.7,
+      "end": 52.54,
+      "text": "brown papers and a sack of Bull Durham tobacco."
+    },
+    {
+      "start": 53.64,
+      "end": 54.16,
+      "text": "Cold,",
+      "para_break": true
+    },
+    {
+      "start": 54.26,
+      "end": 56.28,
+      "text": "steamy air blew in through two open windows,"
+    },
+    {
+      "start": 56.6,
+      "end": 58.68,
+      "text": "bringing with it half a dozen times a"
+    },
+    {
+      "start": 58.68,
+      "end": 61.64,
+      "text": "minute the Alcatraz foghorn's dull moaning."
+    },
+    {
+      "start": 62.6,
+      "end": 63.52,
+      "text": "A tinny alarm clock,",
+      "para_break": true
+    },
+    {
+      "start": 63.68,
+      "end": 68.12,
+      "text": "insecurely mounted on a corner of Duke's celebrated criminal cases of"
+    },
+    {
+      "start": 68.2,
+      "end": 68.48,
+      "text": "America,"
+    },
+    {
+      "start": 68.68,
+      "end": 70.0,
+      "text": "face down on the table,"
+    },
+    {
+      "start": 70.58,
+      "end": 72.94,
+      "text": "held its hands at five minutes past two."
+    },
+    {
+      "start": 74.24,
+      "end": 75.14,
+      "text": "Spade's thick fingers",
+      "para_break": true
+    },
+    {
+      "start": 75.28,
+      "end": 76.84,
+      "text": "made a cigarette with deliberate care,"
+    },
+    {
+      "start": 77.824,
+      "end": 80.4,
+      "text": "sifting a measured quantity of tan flakes down into curved",
+      "para_break": true
+    },
+    {
+      "start": 80.48,
+      "end": 80.74,
+      "text": "paper,"
+    },
+    {
+      "start": 81.29,
+      "end": 84.14,
+      "text": "spreading the flakes so that they lay equal at the ends,"
+    },
+    {
+      "start": 84.34,
+      "end": 85.8,
+      "text": "with a slight depression in the"
+    },
+    {
+      "start": 85.94,
+      "end": 86.12,
+      "text": "middle,"
+    },
+    {
+      "start": 87.06,
+      "end": 89.2,
+      "text": "thumbs rolling the paper's inner edge down and",
+      "para_break": true
+    },
+    {
+      "start": 89.2,
+      "end": 91.96,
+      "text": "up under the outer edge as forefingers pressed"
+    },
+    {
+      "start": 91.96,
+      "end": 92.38,
+      "text": "it over,"
+    },
+    {
+      "start": 92.54,
+      "end": 96.46,
+      "text": "thumbs and fingers sliding to the paper's cylinder's ends"
+    },
+    {
+      "start": 97.12,
+      "end": 98.34,
+      "text": "to hold it even while tongue"
+    },
+    {
+      "start": 98.44,
+      "end": 99.0,
+      "text": "leaped the flap,"
+    },
+    {
+      "start": 100.22,
+      "end": 102.18,
+      "text": "left forefinger and thumb pinching their end",
+      "para_break": true
+    },
+    {
+      "start": 102.18,
+      "end": 104.3,
+      "text": "while right forefinger and thumb smoothed"
+    },
+    {
+      "start": 104.3,
+      "end": 104.88,
+      "text": "the damp seam,"
+    },
+    {
+      "start": 105.92,
+      "end": 107.66,
+      "text": "right forefinger and thumb twisting their",
+      "para_break": true
+    },
+    {
+      "start": 107.66,
+      "end": 110.12,
+      "text": "end and lifting the other to Spade's mouth."
+    },
+    {
+      "start": 110.78,
+      "end": 112.66,
+      "text": "He picked up the pigskin and nickel"
+    },
+    {
+      "start": 112.66,
+      "end": 114.36,
+      "text": "lighter that had fallen to the floor,"
+    },
+    {
+      "start": 115.104,
+      "end": 115.84,
+      "text": "manipulated it,",
+      "para_break": true
+    },
+    {
+      "start": 116.26,
+      "end": 118.38,
+      "text": "and with a cigarette burning in a corner of his mouth,"
+    },
+    {
+      "start": 118.42,
+      "end": 118.96,
+      "text": "stood up."
+    },
+    {
+      "start": 119.84,
+      "end": 120.84,
+      "text": "He took off his pajamas.",
+      "para_break": true
+    },
+    {
+      "start": 121.72,
+      "end": 123.04,
+      "text": "The smooth thickness of his arms,",
+      "para_break": true
+    },
+    {
+      "start": 123.04,
+      "end": 123.36,
+      "text": "legs,"
+    },
+    {
+      "start": 123.4,
+      "end": 123.9,
+      "text": "and body,"
+    },
+    {
+      "start": 124.34,
+      "end": 125.86,
+      "text": "the sag of his big rounded shoulders,"
+    },
+    {
+      "start": 126.48,
+      "end": 127.88,
+      "text": "made his body like a bear's."
+    },
+    {
+      "start": 128.62,
+      "end": 129.74,
+      "text": "It was like a shaved bear's.",
+      "para_break": true
+    },
+    {
+      "start": 130.46,
+      "end": 131.62,
+      "text": "His chest was hairless."
+    },
+    {
+      "start": 132.04,
+      "end": 134.16,
+      "text": "His skin was childishly soft and pink."
+    },
+    {
+      "start": 135.26,
+      "end": 137.42,
+      "text": "He scratched the back of his neck and began to dress.",
+      "para_break": true
+    },
+    {
+      "start": 138.34,
+      "end": 140.04,
+      "text": "He put on a thin white union suit.",
+      "para_break": true
+    },
+    {
+      "start": 140.36,
+      "end": 141.08,
+      "text": "gray socks,"
+    },
+    {
+      "start": 141.3,
+      "end": 142.02,
+      "text": "black garters,"
+    },
+    {
+      "start": 142.44,
+      "end": 143.14,
+      "text": "and dark brown shoes."
+    },
+    {
+      "start": 144.34,
+      "end": 145.6,
+      "text": "When he had fastened his shoes,",
+      "para_break": true
+    },
+    {
+      "start": 145.76,
+      "end": 146.34,
+      "text": "he picked up the"
+    },
+    {
+      "start": 146.46,
+      "end": 146.7,
+      "text": "telephone,"
+    },
+    {
+      "start": 147.0,
+      "end": 149.42,
+      "text": "called Greystone 4500,"
+    },
+    {
+      "start": 149.62,
+      "end": 151.14,
+      "text": "and ordered a taxi cab."
+    },
+    {
+      "start": 151.84,
+      "end": 153.92,
+      "text": "He put on a green striped white shirt,"
+    },
+    {
+      "start": 154.36,
+      "end": 155.42,
+      "text": "a soft white collar,"
+    },
+    {
+      "start": 155.62,
+      "end": 156.64,
+      "text": "a green necktie,"
+    },
+    {
+      "start": 156.92,
+      "end": 159.2,
+      "text": "the gray suit he had worn that day,"
+    },
+    {
+      "start": 159.36,
+      "end": 161.02,
+      "text": "a loose tweed overcoat,"
+    },
+    {
+      "start": 161.2,
+      "end": 162.32,
+      "text": "and a dark gray hat."
+    },
+    {
+      "start": 163.28,
+      "end": 165.5,
+      "text": "The street doorbell rang as he stuffed tobacco,",
+      "para_break": true
+    },
+    {
+      "start": 165.72,
+      "end": 165.96,
+      "text": "keys,"
+    },
+    {
+      "start": 166.22,
+      "end": 167.52,
+      "text": "and money into his"
+    },
+    {
+      "start": 167.68,
+      "end": 167.88,
+      "text": "pockets."
+    },
+    {
+      "start": 169.02,
+      "end": 170.5,
+      "text": "Where Bush Street roofs Stockton",
+      "para_break": true
+    },
+    {
+      "start": 170.5,
+      "end": 172.84,
+      "text": "before slipping downhill to Chinatown,"
+    },
+    {
+      "start": 173.0,
+      "end": 174.18,
+      "text": "Spade paid his"
+    },
+    {
+      "start": 174.18,
+      "end": 175.54,
+      "text": "fare and left a taxi cab."
+    },
+    {
+      "start": 176.26,
+      "end": 177.8,
+      "text": "San Francisco's night fog,"
+    },
+    {
+      "start": 178.04,
+      "end": 178.36,
+      "text": "thin,"
+    },
+    {
+      "start": 178.5,
+      "end": 179.04,
+      "text": "clammy,"
+    },
+    {
+      "start": 179.04,
+      "end": 179.72,
+      "text": "and penetrant,"
+    },
+    {
+      "start": 179.82,
+      "end": 180.48,
+      "text": "blurred the"
+    },
+    {
+      "start": 180.56,
+      "end": 180.76,
+      "text": "street."
+    },
+    {
+      "start": 181.32,
+      "end": 184.42,
+      "text": "A few yards from where Spade had dismissed the taxi cab,"
+    },
+    {
+      "start": 184.58,
+      "end": 186.42,
+      "text": "a small group of men stood looking"
+    },
+    {
+      "start": 186.54,
+      "end": 187.04,
+      "text": "up an alley."
+    },
+    {
+      "start": 187.96,
+      "end": 190.64,
+      "text": "Two women stood with a man on the other side of Bush Street,",
+      "para_break": true
+    },
+    {
+      "start": 190.78,
+      "end": 191.92,
+      "text": "looking at the alley."
+    },
+    {
+      "start": 192.28,
+      "end": 194.16,
+      "text": "There were faces at windows."
+    },
+    {
+      "start": 195.488,
+      "end": 197.94,
+      "text": "Spade crossed the sidewalk between iron-railed",
+      "para_break": true
+    },
+    {
+      "start": 197.94,
+      "end": 200.74,
+      "text": "hatchways that opened above bare ugly stairs,"
+    },
+    {
+      "start": 201.68,
+      "end": 202.84,
+      "text": "went to the parapet and,",
+      "para_break": true
+    },
+    {
+      "start": 202.94,
+      "end": 204.82,
+      "text": "pressing his hands on the damp coping,"
+    },
+    {
+      "start": 205.0,
+      "end": 206.74,
+      "text": "looked down into Stockton Street."
+    },
+    {
+      "start": 207.56,
+      "end": 209.18,
+      "text": "An automobile popped out of the tunnel",
+      "para_break": true
+    },
+    {
+      "start": 209.18,
+      "end": 211.04,
+      "text": "beneath him with a roaring swish,"
+    },
+    {
+      "start": 211.6,
+      "end": 213.54,
+      "text": "as if it had been blown out and ran away."
+    },
+    {
+      "start": 214.72,
+      "end": 215.9,
+      "text": "Not far from the tunnel's mouth,",
+      "para_break": true
+    },
+    {
+      "start": 215.94,
+      "end": 217.34,
+      "text": "a man was hunkered on his heels"
+    },
+    {
+      "start": 217.54,
+      "end": 220.58,
+      "text": "before a billboard that held advertisements of a"
+    },
+    {
+      "start": 220.58,
+      "end": 223.74,
+      "text": "moving picture and a gasoline across the front of"
+    },
+    {
+      "start": 223.74,
+      "end": 225.26,
+      "text": "a gap between two store buildings."
+    },
+    {
+      "start": 226.4,
+      "end": 229.58,
+      "text": "The hunkered man's head was bent almost to the sidewalk so he",
+      "para_break": true
+    },
+    {
+      "start": 229.58,
+      "end": 230.78,
+      "text": "could look under the billboard."
+    },
+    {
+      "start": 230.98,
+      "end": 233.08,
+      "text": "A hand flat on the paving,"
+    },
+    {
+      "start": 233.24,
+      "end": 235.38,
+      "text": "a hand clenched on the billboard's"
+    },
+    {
+      "start": 235.38,
+      "end": 235.9,
+      "text": "green frame,"
+    },
+    {
+      "start": 236.06,
+      "end": 237.86,
+      "text": "held him in this grotesque position."
+    },
+    {
+      "start": 239.12,
+      "end": 241.66,
+      "text": "Two other men stood awkwardly together at one end",
+      "para_break": true
+    },
+    {
+      "start": 241.66,
+      "end": 242.28,
+      "text": "of the billboard,"
+    },
+    {
+      "start": 242.53,
+      "end": 244.64,
+      "text": "peeping through the few inches of space"
+    },
+    {
+      "start": 244.64,
+      "end": 246.44,
+      "text": "between it and the building at the end."
+    }
+  ]
+}

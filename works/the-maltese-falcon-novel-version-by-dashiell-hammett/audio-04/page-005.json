@@ -1,0 +1,689 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-04",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_04_hammett.mp3",
+  "chapter_title": "The Black Bird",
+  "reader_name": "NLizer",
+  "page_num": 5,
+  "page_total": 7,
+  "page_start_sec": 978.368,
+  "page_end_sec": 1219.12,
+  "para_gap_threshold": 0.657,
+  "segments": [
+    {
+      "start": 978.368,
+      "end": 979.3,
+      "text": "Can't you get any more?",
+      "para_break": true
+    },
+    {
+      "start": 980.24,
+      "end": 980.82,
+      "text": "No.",
+      "para_break": true
+    },
+    {
+      "start": 981.98,
+      "end": 983.98,
+      "text": "You must have something you can raise money on,",
+      "para_break": true
+    },
+    {
+      "start": 984.06,
+      "end": 984.62,
+      "text": "he insisted."
+    },
+    {
+      "start": 986.02,
+      "end": 986.8,
+      "text": "I've some rings,",
+      "para_break": true
+    },
+    {
+      "start": 986.8,
+      "end": 987.56,
+      "text": "a little jewelry."
+    },
+    {
+      "start": 988.78,
+      "end": 989.56,
+      "text": "You'll have to hock them,",
+      "para_break": true
+    },
+    {
+      "start": 989.68,
+      "end": 990.18,
+      "text": "he said,"
+    },
+    {
+      "start": 990.34,
+      "end": 991.42,
+      "text": "and held out his hand."
+    },
+    {
+      "start": 992.32,
+      "end": 993.64,
+      "text": "The remedial's the best place,",
+      "para_break": true
+    },
+    {
+      "start": 993.86,
+      "end": 994.66,
+      "text": "mission and fifth."
+    },
+    {
+      "start": 995.92,
+      "end": 997.3,
+      "text": "She looked pleadingly at him.",
+      "para_break": true
+    },
+    {
+      "start": 997.66,
+      "end": 999.94,
+      "text": "His yellow-gray eyes were hard and implacable."
+    },
+    {
+      "start": 1000.768,
+      "end": 1003.12,
+      "text": "Slowly she put her hand inside the neck of her dress,",
+      "para_break": true
+    },
+    {
+      "start": 1003.66,
+      "end": 1005.24,
+      "text": "brought out a slender roll of bills,"
+    },
+    {
+      "start": 1005.42,
+      "end": 1007.12,
+      "text": "and put them in his waiting hand."
+    },
+    {
+      "start": 1008.22,
+      "end": 1010.04,
+      "text": "He smoothed the bills out and counted them.",
+      "para_break": true
+    },
+    {
+      "start": 1010.68,
+      "end": 1011.16,
+      "text": "Four twenties,"
+    },
+    {
+      "start": 1011.42,
+      "end": 1012.02,
+      "text": "four tens,"
+    },
+    {
+      "start": 1012.2,
+      "end": 1012.68,
+      "text": "and a five."
+    },
+    {
+      "start": 1013.9,
+      "end": 1015.78,
+      "text": "He returned two of the tens and the five to her.",
+      "para_break": true
+    },
+    {
+      "start": 1016.14,
+      "end": 1018.06,
+      "text": "The others he put in his pocket."
+    },
+    {
+      "start": 1018.64,
+      "end": 1019.72,
+      "text": "Then he stood up and said,"
+    },
+    {
+      "start": 1020.6,
+      "end": 1022.8,
+      "text": "I'm going out and see what I can do for you.",
+      "para_break": true
+    },
+    {
+      "start": 1023.4,
+      "end": 1026.32,
+      "text": "I'll be back as soon as I can with the best news I can manage."
+    },
+    {
+      "start": 1027.24,
+      "end": 1028.22,
+      "text": "I'll ring four times.",
+      "para_break": true
+    },
+    {
+      "start": 1028.72,
+      "end": 1029.0,
+      "text": "Long,"
+    },
+    {
+      "start": 1029.1,
+      "end": 1029.4,
+      "text": "short,"
+    },
+    {
+      "start": 1029.5,
+      "end": 1029.72,
+      "text": "long,"
+    },
+    {
+      "start": 1029.78,
+      "end": 1030.18,
+      "text": "short."
+    },
+    {
+      "start": 1030.84,
+      "end": 1031.7,
+      "text": "So you'll know it's me.",
+      "para_break": true
+    },
+    {
+      "start": 1032.68,
+      "end": 1034.12,
+      "text": "You needn't go to the door with me.",
+      "para_break": true
+    },
+    {
+      "start": 1034.36,
+      "end": 1035.35,
+      "text": "I can let myself out."
+    },
+    {
+      "start": 1036.04,
+      "end": 1038.26,
+      "text": "He left her standing in the center of the floor,",
+      "para_break": true
+    },
+    {
+      "start": 1038.46,
+      "end": 1040.22,
+      "text": "looking after him with dazed blue eyes."
+    },
+    {
+      "start": 1041.312,
+      "end": 1042.94,
+      "text": "Spade went into a reception room,",
+      "para_break": true
+    },
+    {
+      "start": 1043.12,
+      "end": 1044.48,
+      "text": "whose door bore the legend,"
+    },
+    {
+      "start": 1044.76,
+      "end": 1045.34,
+      "text": "Wise,"
+    },
+    {
+      "start": 1045.68,
+      "end": 1046.14,
+      "text": "American,"
+    },
+    {
+      "start": 1046.44,
+      "end": 1046.92,
+      "text": "and Wise."
+    },
+    {
+      "start": 1047.32,
+      "end": 1050.2,
+      "text": "The red-haired girl at the switchboard said,"
+    },
+    {
+      "start": 1050.68,
+      "end": 1050.98,
+      "text": "Oh,"
+    },
+    {
+      "start": 1051.18,
+      "end": 1051.8,
+      "text": "hello,"
+    },
+    {
+      "start": 1051.96,
+      "end": 1052.1,
+      "text": "Mr."
+    },
+    {
+      "start": 1052.28,
+      "end": 1052.62,
+      "text": "Spade."
+    },
+    {
+      "start": 1052.82,
+      "end": 1053.6,
+      "text": "Hello,"
+    },
+    {
+      "start": 1053.72,
+      "end": 1054.06,
+      "text": "darling,"
+    },
+    {
+      "start": 1054.26,
+      "end": 1054.66,
+      "text": "he replied."
+    },
+    {
+      "start": 1055.36,
+      "end": 1055.96,
+      "text": "Is Sid in?",
+      "para_break": true
+    },
+    {
+      "start": 1057.03,
+      "end": 1059.1,
+      "text": "He stood beside her with a hand on her",
+      "para_break": true
+    },
+    {
+      "start": 1059.16,
+      "end": 1060.84,
+      "text": "plump shoulder while she manipulated"
+    },
+    {
+      "start": 1060.84,
+      "end": 1063.06,
+      "text": "a plug and spoke into the mouthpiece."
+    },
+    {
+      "start": 1063.55,
+      "end": 1064.1,
+      "text": "Mr."
+    },
+    {
+      "start": 1064.22,
+      "end": 1065.2,
+      "text": "Spade to see you,"
+    },
+    {
+      "start": 1065.28,
+      "end": 1065.48,
+      "text": "Mr."
+    },
+    {
+      "start": 1065.56,
+      "end": 1065.88,
+      "text": "Wise."
+    },
+    {
+      "start": 1066.72,
+      "end": 1067.9,
+      "text": "She looked up at Spade.",
+      "para_break": true
+    },
+    {
+      "start": 1068.16,
+      "end": 1069.36,
+      "text": "Go right in."
+    },
+    {
+      "start": 1069.88,
+      "end": 1072.48,
+      "text": "He squeezed her shoulder by way of acknowledgement."
+    },
+    {
+      "start": 1073.18,
+      "end": 1076.0,
+      "text": "crossed the reception room to a dully-lighted inner corridor,",
+      "para_break": true
+    },
+    {
+      "start": 1076.46,
+      "end": 1080.64,
+      "text": "and passed down the corridor to a frosted glass door at its far end."
+    },
+    {
+      "start": 1081.34,
+      "end": 1084.2,
+      "text": "He opened the frosted glass door and went into an office",
+      "para_break": true
+    },
+    {
+      "start": 1084.64,
+      "end": 1085.16,
+      "text": "where a small,"
+    },
+    {
+      "start": 1085.34,
+      "end": 1088.66,
+      "text": "olive-skinned man with a tired oval face under thin,"
+    },
+    {
+      "start": 1088.72,
+      "end": 1089.28,
+      "text": "dark hair,"
+    },
+    {
+      "start": 1089.888,
+      "end": 1090.77,
+      "text": "dotted with dandruff,"
+    },
+    {
+      "start": 1090.92,
+      "end": 1095.0,
+      "text": "sat behind an immense desk on which bales of paper were heaped."
+    },
+    {
+      "start": 1096.04,
+      "end": 1099.18,
+      "text": "The small man flourished a cold cigar stub at spade and said,",
+      "para_break": true
+    },
+    {
+      "start": 1099.84,
+      "end": 1100.52,
+      "text": "Pull a chair around.",
+      "para_break": true
+    },
+    {
+      "start": 1101.92,
+      "end": 1103.88,
+      "text": "So Miles got the big one last night.",
+      "para_break": true
+    },
+    {
+      "start": 1104.8,
+      "end": 1107.98,
+      "text": "Neither his tired face nor his rather shrill voice held any emotion.",
+      "para_break": true
+    },
+    {
+      "start": 1109.216,
+      "end": 1109.58,
+      "text": "Uh-huh,",
+      "para_break": true
+    },
+    {
+      "start": 1109.64,
+      "end": 1111.28,
+      "text": "that's what I came in about."
+    },
+    {
+      "start": 1112.512,
+      "end": 1113.98,
+      "text": "Spade frowned and cleared his throat.",
+      "para_break": true
+    },
+    {
+      "start": 1114.74,
+      "end": 1117.5,
+      "text": "I think I'm going to have to tell a coroner to go to hell,",
+      "para_break": true
+    },
+    {
+      "start": 1117.54,
+      "end": 1117.8,
+      "text": "Sid."
+    },
+    {
+      "start": 1118.9,
+      "end": 1121.64,
+      "text": "Can I hide behind the sanctity of my clients' secrets",
+      "para_break": true
+    },
+    {
+      "start": 1122.34,
+      "end": 1123.5,
+      "text": "and identities and whatnot,",
+      "para_break": true
+    },
+    {
+      "start": 1124.3,
+      "end": 1125.62,
+      "text": "all the same priest or lawyer?",
+      "para_break": true
+    },
+    {
+      "start": 1126.912,
+      "end": 1129.78,
+      "text": "Sid Wise lifted his shoulders and lowered the ends of his mouth.",
+      "para_break": true
+    },
+    {
+      "start": 1129.92,
+      "end": 1130.82,
+      "text": "Why not?"
+    },
+    {
+      "start": 1131.84,
+      "end": 1133.42,
+      "text": "An inquest is not a court trial.",
+      "para_break": true
+    },
+    {
+      "start": 1134.02,
+      "end": 1134.86,
+      "text": "You can try anyway."
+    },
+    {
+      "start": 1135.88,
+      "end": 1137.84,
+      "text": "You've gotten away with more than that before this.",
+      "para_break": true
+    },
+    {
+      "start": 1139.16,
+      "end": 1139.48,
+      "text": "I know,",
+      "para_break": true
+    },
+    {
+      "start": 1139.58,
+      "end": 1141.13,
+      "text": "but Dundee's getting snotty,"
+    },
+    {
+      "start": 1141.56,
+      "end": 1143.9,
+      "text": "and maybe it is a little bit thick this time."
+    },
+    {
+      "start": 1144.74,
+      "end": 1145.16,
+      "text": "Get your hat,",
+      "para_break": true
+    },
+    {
+      "start": 1145.26,
+      "end": 1145.46,
+      "text": "Sid,"
+    },
+    {
+      "start": 1145.58,
+      "end": 1147.14,
+      "text": "and we'll go see the right people."
+    },
+    {
+      "start": 1147.66,
+      "end": 1148.31,
+      "text": "I want to be safe."
+    },
+    {
+      "start": 1149.9,
+      "end": 1153.18,
+      "text": "Sid Wise looked at the papers massed on his desk and groaned,",
+      "para_break": true
+    },
+    {
+      "start": 1153.52,
+      "end": 1156.4,
+      "text": "but he got up from his chair and went to the closet by the window."
+    },
+    {
+      "start": 1157.44,
+      "end": 1158.22,
+      "text": "You're a son of a gun,",
+      "para_break": true
+    },
+    {
+      "start": 1158.32,
+      "end": 1158.54,
+      "text": "Sammy,"
+    },
+    {
+      "start": 1158.78,
+      "end": 1160.72,
+      "text": "he said as he took his hat from its hook."
+    },
+    {
+      "start": 1161.984,
+      "end": 1165.2,
+      "text": "Spade returned to his office at ten minutes past five that evening.",
+      "para_break": true
+    },
+    {
+      "start": 1165.92,
+      "end": 1168.3,
+      "text": "Effie Perrine was sitting at his desk reading Time.",
+      "para_break": true
+    },
+    {
+      "start": 1169.728,
+      "end": 1171.34,
+      "text": "Spade sat on the desk and asked,",
+      "para_break": true
+    },
+    {
+      "start": 1172.0,
+      "end": 1172.54,
+      "text": "Anything stirring?",
+      "para_break": true
+    },
+    {
+      "start": 1174.0,
+      "end": 1174.38,
+      "text": "Not here.",
+      "para_break": true
+    },
+    {
+      "start": 1175.1,
+      "end": 1176.92,
+      "text": "You look like you'd swallowed the canary.",
+      "para_break": true
+    },
+    {
+      "start": 1178.1,
+      "end": 1179.18,
+      "text": "He grinned contentedly.",
+      "para_break": true
+    },
+    {
+      "start": 1180.0,
+      "end": 1181.12,
+      "text": "I think we've got a future.",
+      "para_break": true
+    },
+    {
+      "start": 1181.86,
+      "end": 1184.84,
+      "text": "I always had an idea that if Miles would go off and die somewhere,",
+      "para_break": true
+    },
+    {
+      "start": 1185.18,
+      "end": 1186.8,
+      "text": "we'd stand a better chance of thriving."
+    },
+    {
+      "start": 1187.78,
+      "end": 1189.64,
+      "text": "Will you take care of sending flowers for me?",
+      "para_break": true
+    },
+    {
+      "start": 1190.26,
+      "end": 1191.08,
+      "text": "I did."
+    },
+    {
+      "start": 1192.24,
+      "end": 1193.46,
+      "text": "You're an invaluable angel.",
+      "para_break": true
+    },
+    {
+      "start": 1193.72,
+      "end": 1195.56,
+      "text": "How's your woman's intuition today?"
+    },
+    {
+      "start": 1196.7,
+      "end": 1196.92,
+      "text": "Why?",
+      "para_break": true
+    },
+    {
+      "start": 1198.18,
+      "end": 1199.3,
+      "text": "What do you think of Wonderly?",
+      "para_break": true
+    },
+    {
+      "start": 1199.78,
+      "end": 1200.9,
+      "text": "I'm for her,"
+    },
+    {
+      "start": 1201.06,
+      "end": 1202.64,
+      "text": "the girl replied without hesitation."
+    },
+    {
+      "start": 1203.808,
+      "end": 1204.9,
+      "text": "She's got too many names,",
+      "para_break": true
+    },
+    {
+      "start": 1205.1,
+      "end": 1205.92,
+      "text": "Spade mused."
+    },
+    {
+      "start": 1205.96,
+      "end": 1206.88,
+      "text": "Wonderly,"
+    },
+    {
+      "start": 1206.9,
+      "end": 1207.58,
+      "text": "LeBlanc,"
+    },
+    {
+      "start": 1207.94,
+      "end": 1209.42,
+      "text": "and she says the right one's O'Shaughnessy."
+    },
+    {
+      "start": 1210.45,
+      "end": 1213.08,
+      "text": "I don't care if she's got all the names in the phone book.",
+      "para_break": true
+    },
+    {
+      "start": 1213.42,
+      "end": 1214.34,
+      "text": "That girl is all right,"
+    },
+    {
+      "start": 1214.5,
+      "end": 1215.3,
+      "text": "and you know it."
+    },
+    {
+      "start": 1215.44,
+      "end": 1216.74,
+      "text": "I wonder,"
+    },
+    {
+      "start": 1217.02,
+      "end": 1219.12,
+      "text": "Spade blinked sleepily at Effie Perrine."
+    }
+  ]
+}

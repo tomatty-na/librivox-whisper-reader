@@ -1,0 +1,713 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-16",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_16_hammett.mp3",
+  "chapter_title": "The Third Murder",
+  "reader_name": "NLizer",
+  "page_num": 3,
+  "page_total": 5,
+  "page_start_sec": 520.72,
+  "page_end_sec": 761.74,
+  "para_gap_threshold": 0.545,
+  "segments": [
+    {
+      "start": 520.72,
+      "end": 522.96,
+      "text": "Those three came together while Bridget was there,",
+      "para_break": true
+    },
+    {
+      "start": 523.52,
+      "end": 526.86,
+      "text": "and the five of them did a lot of talking in the captain's cabin.",
+      "para_break": true
+    },
+    {
+      "start": 527.96,
+      "end": 529.58,
+      "text": "It's hard to get anything out of the crew,",
+      "para_break": true
+    },
+    {
+      "start": 530.0,
+      "end": 531.02,
+      "text": "but they had a row,"
+    },
+    {
+      "start": 531.26,
+      "end": 533.06,
+      "text": "and somewhere around 11 o'clock"
+    },
+    {
+      "start": 533.06,
+      "end": 533.56,
+      "text": "that night,"
+    },
+    {
+      "start": 533.64,
+      "end": 536.02,
+      "text": "a gun went off there in the captain's cabin."
+    },
+    {
+      "start": 536.3,
+      "end": 538.16,
+      "text": "The watchman beat it down there,"
+    },
+    {
+      "start": 538.3,
+      "end": 538.66,
+      "text": "but the"
+    },
+    {
+      "start": 538.72,
+      "end": 541.34,
+      "text": "captain met him outside and told him everything was all right."
+    },
+    {
+      "start": 542.22,
+      "end": 543.7,
+      "text": "There's a fresh bullet hole in one",
+      "para_break": true
+    },
+    {
+      "start": 543.78,
+      "end": 544.6,
+      "text": "corner of the cabin,"
+    },
+    {
+      "start": 544.76,
+      "end": 546.7,
+      "text": "up high enough to make it likely that"
+    },
+    {
+      "start": 546.7,
+      "end": 548.14,
+      "text": "the bullet didn't go through anybody"
+    },
+    {
+      "start": 548.4,
+      "end": 548.92,
+      "text": "to get there."
+    },
+    {
+      "start": 549.74,
+      "end": 550.64,
+      "text": "As far as I could learn,",
+      "para_break": true
+    },
+    {
+      "start": 550.78,
+      "end": 552.3,
+      "text": "there was only the one shot,"
+    },
+    {
+      "start": 553.02,
+      "end": 554.1,
+      "text": "but as far as I could learn,",
+      "para_break": true
+    },
+    {
+      "start": 554.44,
+      "end": 555.12,
+      "text": "wasn't very far."
+    },
+    {
+      "start": 555.4,
+      "end": 557.64,
+      "text": "He scowled and inhaled smoke again."
+    },
+    {
+      "start": 558.08,
+      "end": 558.62,
+      "text": "Well,"
+    },
+    {
+      "start": 558.84,
+      "end": 560.06,
+      "text": "they left around midnight,"
+    },
+    {
+      "start": 560.4,
+      "end": 561.04,
+      "text": "the captain"
+    },
+    {
+      "start": 561.1,
+      "end": 562.62,
+      "text": "and his four visitors all together,"
+    },
+    {
+      "start": 562.88,
+      "end": 565.38,
+      "text": "and all of them seemed to have been walking all right."
+    },
+    {
+      "start": 566.2,
+      "end": 566.42,
+      "text": "I got",
+      "para_break": true
+    },
+    {
+      "start": 566.42,
+      "end": 567.44,
+      "text": "that from the watchman."
+    },
+    {
+      "start": 568.26,
+      "end": 569.84,
+      "text": "I haven't been able to get hold of",
+      "para_break": true
+    },
+    {
+      "start": 569.84,
+      "end": 571.78,
+      "text": "the custom housemen who were on duty"
+    },
+    {
+      "start": 571.88,
+      "end": 572.3,
+      "text": "there then."
+    },
+    {
+      "start": 572.89,
+      "end": 573.82,
+      "text": "That's all of it.",
+      "para_break": true
+    },
+    {
+      "start": 573.88,
+      "end": 575.84,
+      "text": "The captain hasn't been back since."
+    },
+    {
+      "start": 576.65,
+      "end": 578.66,
+      "text": "He didn't keep a date he had this",
+      "para_break": true
+    },
+    {
+      "start": 578.7,
+      "end": 579.94,
+      "text": "noon with some shipping agents,"
+    },
+    {
+      "start": 580.42,
+      "end": 582.68,
+      "text": "and they haven't found him to tell him about the fire."
+    },
+    {
+      "start": 583.64,
+      "end": 584.07,
+      "text": "And the fire?",
+      "para_break": true
+    },
+    {
+      "start": 584.26,
+      "end": 585.02,
+      "text": "she asked."
+    },
+    {
+      "start": 585.984,
+      "end": 586.7,
+      "text": "Spade shrugged.",
+      "para_break": true
+    },
+    {
+      "start": 586.78,
+      "end": 587.72,
+      "text": "I don't know."
+    },
+    {
+      "start": 588.9,
+      "end": 592.06,
+      "text": "It was discovered in the hold aft in the rear basement",
+      "para_break": true
+    },
+    {
+      "start": 592.2,
+      "end": 592.96,
+      "text": "late this morning."
+    },
+    {
+      "start": 593.52,
+      "end": 596.06,
+      "text": "The chances are it got started sometime yesterday.",
+      "para_break": true
+    },
+    {
+      "start": 597.02,
+      "end": 598.16,
+      "text": "They got it out all right,",
+      "para_break": true
+    },
+    {
+      "start": 598.56,
+      "end": 599.72,
+      "text": "though it did damage enough."
+    },
+    {
+      "start": 600.736,
+      "end": 603.02,
+      "text": "Nobody liked to talk about it much while the captain's away.",
+      "para_break": true
+    },
+    {
+      "start": 603.3,
+      "end": 604.02,
+      "text": "It's the..."
+    },
+    {
+      "start": 604.02,
+      "end": 605.92,
+      "text": "The corridor door opened."
+    },
+    {
+      "start": 606.496,
+      "end": 607.42,
+      "text": "Spade shut his mouth.",
+      "para_break": true
+    },
+    {
+      "start": 608.128,
+      "end": 609.72,
+      "text": "Effie Perrine jumped down from the desk,",
+      "para_break": true
+    },
+    {
+      "start": 609.84,
+      "end": 612.62,
+      "text": "but a man opened the connecting door before she could reach it."
+    },
+    {
+      "start": 613.376,
+      "end": 613.86,
+      "text": "Where's Spade?",
+      "para_break": true
+    },
+    {
+      "start": 614.06,
+      "end": 615.06,
+      "text": "the man asked."
+    },
+    {
+      "start": 615.9,
+      "end": 618.72,
+      "text": "His voice brought Spade up erect and alert in his chair.",
+      "para_break": true
+    },
+    {
+      "start": 619.56,
+      "end": 621.64,
+      "text": "It was a voice harsh and rasping with agony,",
+      "para_break": true
+    },
+    {
+      "start": 622.22,
+      "end": 624.98,
+      "text": "and with the strain of keeping two words from being smothered",
+      "para_break": true
+    },
+    {
+      "start": 625.0,
+      "end": 627.82,
+      "text": "by the liquid bubbling that ran under and behind them."
+    },
+    {
+      "start": 628.96,
+      "end": 629.42,
+      "text": "Effie Perrine,",
+      "para_break": true
+    },
+    {
+      "start": 629.52,
+      "end": 629.76,
+      "text": "frightened,"
+    },
+    {
+      "start": 629.92,
+      "end": 631.08,
+      "text": "stepped out of the man's way."
+    },
+    {
+      "start": 631.74,
+      "end": 633.82,
+      "text": "He stood in the doorway with his soft hat",
+      "para_break": true
+    },
+    {
+      "start": 633.98,
+      "end": 636.3,
+      "text": "crushed between his head and the top of the doorframe."
+    },
+    {
+      "start": 636.82,
+      "end": 638.1,
+      "text": "He was nearly seven feet tall."
+    },
+    {
+      "start": 638.61,
+      "end": 641.64,
+      "text": "A black overcoat cut long and straight and"
+    },
+    {
+      "start": 641.64,
+      "end": 644.06,
+      "text": "like a sheath buttoned from throat to knees"
+    },
+    {
+      "start": 644.26,
+      "end": 645.96,
+      "text": "exaggerated his leanness."
+    },
+    {
+      "start": 646.88,
+      "end": 648.02,
+      "text": "His shoulders stuck out high,",
+      "para_break": true
+    },
+    {
+      "start": 648.16,
+      "end": 648.42,
+      "text": "thin,"
+    },
+    {
+      "start": 648.6,
+      "end": 648.98,
+      "text": "angular."
+    },
+    {
+      "start": 649.92,
+      "end": 650.6,
+      "text": "His bony face,",
+      "para_break": true
+    },
+    {
+      "start": 650.84,
+      "end": 651.64,
+      "text": "weather-coarsened,"
+    },
+    {
+      "start": 651.78,
+      "end": 652.4,
+      "text": "age-lined,"
+    },
+    {
+      "start": 653.04,
+      "end": 655.42,
+      "text": "was the color of wet sand and was wet with",
+      "para_break": true
+    },
+    {
+      "start": 655.5,
+      "end": 656.72,
+      "text": "sweat on his cheeks and chin."
+    },
+    {
+      "start": 657.86,
+      "end": 659.58,
+      "text": "His eyes were dark and bloodshot",
+      "para_break": true
+    },
+    {
+      "start": 660.22,
+      "end": 663.6,
+      "text": "and mad above lower lids that hung down to show pink inner",
+      "para_break": true
+    },
+    {
+      "start": 663.74,
+      "end": 663.98,
+      "text": "membrane."
+    },
+    {
+      "start": 664.79,
+      "end": 666.78,
+      "text": "Held tight against the left side of his",
+      "para_break": true
+    },
+    {
+      "start": 666.78,
+      "end": 669.6,
+      "text": "chest by a black-sleeved arm that ended in a"
+    },
+    {
+      "start": 669.82,
+      "end": 673.58,
+      "text": "yellowish claw was a brown paper-wrapped parcel bound with thin rope,"
+    },
+    {
+      "start": 674.26,
+      "end": 675.66,
+      "text": "an ellipsoid somewhat larger",
+      "para_break": true
+    },
+    {
+      "start": 676.26,
+      "end": 677.32,
+      "text": "than an American football.",
+      "para_break": true
+    },
+    {
+      "start": 678.09,
+      "end": 679.78,
+      "text": "The tall man stood in the doorway,",
+      "para_break": true
+    },
+    {
+      "start": 679.96,
+      "end": 681.16,
+      "text": "and there was nothing to show"
+    },
+    {
+      "start": 681.36,
+      "end": 682.66,
+      "text": "that he saw Spade."
+    },
+    {
+      "start": 683.38,
+      "end": 683.76,
+      "text": "He said,",
+      "para_break": true
+    },
+    {
+      "start": 683.92,
+      "end": 684.76,
+      "text": "you know,"
+    },
+    {
+      "start": 685.76,
+      "end": 688.288,
+      "text": "and then the liquid bubbling came up in his throat and",
+      "para_break": true
+    },
+    {
+      "start": 688.68,
+      "end": 690.12,
+      "text": "submerged whatever else he said."
+    },
+    {
+      "start": 690.68,
+      "end": 693.72,
+      "text": "He put his other hand over the hand that held the ellipsoid.",
+      "para_break": true
+    },
+    {
+      "start": 694.656,
+      "end": 696.06,
+      "text": "Holding himself stiffly straight,",
+      "para_break": true
+    },
+    {
+      "start": 696.3,
+      "end": 698.48,
+      "text": "not putting his hands out to break his fall,"
+    },
+    {
+      "start": 698.64,
+      "end": 700.3,
+      "text": "he fell forward as a"
+    },
+    {
+      "start": 700.3,
+      "end": 700.82,
+      "text": "tree falls."
+    },
+    {
+      "start": 701.1,
+      "end": 701.2,
+      "text": "Spade,"
+    },
+    {
+      "start": 702.4,
+      "end": 703.68,
+      "text": "wooden-faced and nimble,",
+      "para_break": true
+    },
+    {
+      "start": 703.8,
+      "end": 706.22,
+      "text": "sprang from his chair and caught the falling man."
+    },
+    {
+      "start": 706.52,
+      "end": 706.62,
+      "text": "When"
+    },
+    {
+      "start": 707.52,
+      "end": 708.18,
+      "text": "Spade caught him,",
+      "para_break": true
+    },
+    {
+      "start": 708.26,
+      "end": 711.0,
+      "text": "the man's mouth opened and a little blood spurted out,"
+    },
+    {
+      "start": 711.7,
+      "end": 712.44,
+      "text": "and the brown-wrapped",
+      "para_break": true
+    },
+    {
+      "start": 712.52,
+      "end": 714.96,
+      "text": "parcel dropped from the man's hands and rolled"
+    },
+    {
+      "start": 714.96,
+      "end": 717.4,
+      "text": "across the floor until a foot of the desk stopped"
+    },
+    {
+      "start": 717.7,
+      "end": 717.86,
+      "text": "it."
+    },
+    {
+      "start": 718.76,
+      "end": 719.82,
+      "text": "Then the man's knees bent,",
+      "para_break": true
+    },
+    {
+      "start": 719.94,
+      "end": 721.26,
+      "text": "and he bent at the waist,"
+    },
+    {
+      "start": 721.4,
+      "end": 723.78,
+      "text": "and his thin body became limber inside the"
+    },
+    {
+      "start": 723.86,
+      "end": 724.74,
+      "text": "sheath-like overcoat,"
+    },
+    {
+      "start": 725.504,
+      "end": 727.22,
+      "text": "sagging in Spade's arms so that Spade",
+      "para_break": true
+    },
+    {
+      "start": 727.22,
+      "end": 728.76,
+      "text": "could not hold it up from the floor."
+    },
+    {
+      "start": 729.728,
+      "end": 731.28,
+      "text": "Spade lowered the man carefully until",
+      "para_break": true
+    },
+    {
+      "start": 731.28,
+      "end": 733.32,
+      "text": "he lay on the floor on his left side."
+    },
+    {
+      "start": 733.56,
+      "end": 734.78,
+      "text": "The man's eyes,"
+    },
+    {
+      "start": 735.02,
+      "end": 735.86,
+      "text": "dark and bloodshot,"
+    },
+    {
+      "start": 736.32,
+      "end": 737.36,
+      "text": "but not now mad,"
+    },
+    {
+      "start": 738.0,
+      "end": 739.3,
+      "text": "were wide open and still.",
+      "para_break": true
+    },
+    {
+      "start": 740.2,
+      "end": 741.92,
+      "text": "His mouth was open as when blood",
+      "para_break": true
+    },
+    {
+      "start": 742.14,
+      "end": 743.06,
+      "text": "had spurted from it,"
+    },
+    {
+      "start": 743.42,
+      "end": 744.86,
+      "text": "but no more blood came from it,"
+    },
+    {
+      "start": 744.9,
+      "end": 747.68,
+      "text": "and all his long body was as still as the"
+    },
+    {
+      "start": 747.68,
+      "end": 748.5,
+      "text": "floor it lay on."
+    },
+    {
+      "start": 748.68,
+      "end": 749.64,
+      "text": "Spade said,"
+    },
+    {
+      "start": 750.48,
+      "end": 751.16,
+      "text": "Lock the door.",
+      "para_break": true
+    },
+    {
+      "start": 752.1,
+      "end": 752.96,
+      "text": "While Effie Perrine,",
+      "para_break": true
+    },
+    {
+      "start": 753.14,
+      "end": 754.0,
+      "text": "her teeth chattering,"
+    },
+    {
+      "start": 754.26,
+      "end": 754.8,
+      "text": "fumbled with"
+    },
+    {
+      "start": 754.8,
+      "end": 755.66,
+      "text": "the corridor's lock,"
+    },
+    {
+      "start": 755.9,
+      "end": 757.72,
+      "text": "Spade knelt beside the thin man,"
+    },
+    {
+      "start": 757.98,
+      "end": 759.48,
+      "text": "turned him over on his back,"
+    },
+    {
+      "start": 759.64,
+      "end": 760.44,
+      "text": "and ran a hand"
+    },
+    {
+      "start": 760.52,
+      "end": 761.74,
+      "text": "down inside his overcoat."
+    }
+  ]
+}

@@ -1,0 +1,742 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-10",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_10_hammett.mp3",
+  "chapter_title": "The Belvedere Divan",
+  "reader_name": "NLizer",
+  "page_num": 4,
+  "page_total": 5,
+  "page_start_sec": 728.82,
+  "page_end_sec": 969.32,
+  "para_gap_threshold": 0.552,
+  "segments": [
+    {
+      "start": 728.82,
+      "end": 730.1,
+      "text": "I thought you'd see that."
+    },
+    {
+      "start": 730.84,
+      "end": 733.4,
+      "text": "If you pick a fight with her or let her pick one with you,",
+      "para_break": true
+    },
+    {
+      "start": 733.9,
+      "end": 735.34,
+      "text": "I've got to throw in with her."
+    },
+    {
+      "start": 735.92,
+      "end": 737.7,
+      "text": "I don't know where that damn bird is.",
+      "para_break": true
+    },
+    {
+      "start": 738.62,
+      "end": 739.14,
+      "text": "You don't?",
+      "para_break": true
+    },
+    {
+      "start": 739.4,
+      "end": 739.82,
+      "text": "She does."
+    },
+    {
+      "start": 740.92,
+      "end": 744.12,
+      "text": "How in hell are we going to get it if I don't play along with her?",
+      "para_break": true
+    },
+    {
+      "start": 744.26,
+      "end": 746.04,
+      "text": "Cairo hesitated,"
+    },
+    {
+      "start": 746.16,
+      "end": 747.22,
+      "text": "said dubiously,"
+    },
+    {
+      "start": 747.74,
+      "end": 748.66,
+      "text": "You have always,"
+    },
+    {
+      "start": 748.96,
+      "end": 749.66,
+      "text": "I must say,"
+    },
+    {
+      "start": 749.8,
+      "end": 751.74,
+      "text": "a smooth explanation ready."
+    },
+    {
+      "start": 752.864,
+      "end": 753.72,
+      "text": "Spade scowled,",
+      "para_break": true
+    },
+    {
+      "start": 753.74,
+      "end": 755.34,
+      "text": "What do you want me to do?"
+    },
+    {
+      "start": 755.8,
+      "end": 756.46,
+      "text": "Learn to stutter?"
+    },
+    {
+      "start": 757.0,
+      "end": 757.46,
+      "text": "Well,"
+    },
+    {
+      "start": 757.64,
+      "end": 758.92,
+      "text": "we can talk over here."
+    },
+    {
+      "start": 759.38,
+      "end": 760.76,
+      "text": "He led the way to the divan."
+    },
+    {
+      "start": 761.64,
+      "end": 762.32,
+      "text": "When they were seated,",
+      "para_break": true
+    },
+    {
+      "start": 762.38,
+      "end": 762.94,
+      "text": "he asked,"
+    },
+    {
+      "start": 763.66,
+      "end": 763.98,
+      "text": "Dundee,",
+      "para_break": true
+    },
+    {
+      "start": 764.68,
+      "end": 765.58,
+      "text": "take you down to the hall?",
+      "para_break": true
+    },
+    {
+      "start": 766.1,
+      "end": 766.76,
+      "text": "Yes."
+    },
+    {
+      "start": 767.78,
+      "end": 768.96,
+      "text": "How long did they work on you?",
+      "para_break": true
+    },
+    {
+      "start": 769.92,
+      "end": 771.3,
+      "text": "Until a very little while ago,",
+      "para_break": true
+    },
+    {
+      "start": 771.46,
+      "end": 773.3,
+      "text": "and very much against my will."
+    },
+    {
+      "start": 774.26,
+      "end": 777.32,
+      "text": "Pain and indignation were mixed in Cairo's face and voice.",
+      "para_break": true
+    },
+    {
+      "start": 778.02,
+      "end": 780.26,
+      "text": "I shall certainly take the matter up with the",
+      "para_break": true
+    },
+    {
+      "start": 780.26,
+      "end": 782.9,
+      "text": "Consulate General of Greece and with an attorney."
+    },
+    {
+      "start": 783.6,
+      "end": 785.42,
+      "text": "Go ahead and see what it gets you.",
+      "para_break": true
+    },
+    {
+      "start": 785.98,
+      "end": 787.74,
+      "text": "What did you let the police shake out of you?",
+      "para_break": true
+    },
+    {
+      "start": 788.68,
+      "end": 790.82,
+      "text": "There was a prim satisfaction in Cairo's smile.",
+      "para_break": true
+    },
+    {
+      "start": 791.76,
+      "end": 792.58,
+      "text": "Not a single thing.",
+      "para_break": true
+    },
+    {
+      "start": 793.28,
+      "end": 796.2,
+      "text": "I adhered to the course you indicated earlier in your rooms.",
+      "para_break": true
+    },
+    {
+      "start": 797.06,
+      "end": 798.1,
+      "text": "His smile went away.",
+      "para_break": true
+    },
+    {
+      "start": 799.0,
+      "end": 801.68,
+      "text": "Though I certainly wish you had devised a more reasonable story,",
+      "para_break": true
+    },
+    {
+      "start": 802.2,
+      "end": 804.88,
+      "text": "I felt decidedly ridiculous repeating it."
+    },
+    {
+      "start": 805.792,
+      "end": 806.88,
+      "text": "Spade grinned mockingly.",
+      "para_break": true
+    },
+    {
+      "start": 807.2,
+      "end": 807.3,
+      "text": "Sure,"
+    },
+    {
+      "start": 808.18,
+      "end": 808.8,
+      "text": "he said,",
+      "para_break": true
+    },
+    {
+      "start": 809.24,
+      "end": 811.32,
+      "text": "but its goofiness is what makes it good."
+    },
+    {
+      "start": 812.06,
+      "end": 813.58,
+      "text": "You sure you didn't give them anything?",
+      "para_break": true
+    },
+    {
+      "start": 814.92,
+      "end": 816.14,
+      "text": "You may rely upon it,",
+      "para_break": true
+    },
+    {
+      "start": 816.18,
+      "end": 816.46,
+      "text": "Mr."
+    },
+    {
+      "start": 816.62,
+      "end": 816.98,
+      "text": "Spade."
+    },
+    {
+      "start": 817.02,
+      "end": 817.58,
+      "text": "I did not."
+    },
+    {
+      "start": 818.37,
+      "end": 820.66,
+      "text": "Spade drummed with his fingers on the leather",
+      "para_break": true
+    },
+    {
+      "start": 820.74,
+      "end": 821.5,
+      "text": "seat between them."
+    },
+    {
+      "start": 822.34,
+      "end": 823.64,
+      "text": "You'll be hearing from Dundee again.",
+      "para_break": true
+    },
+    {
+      "start": 824.03,
+      "end": 826.42,
+      "text": "Stay dummied up on him and you'll be all"
+    },
+    {
+      "start": 826.58,
+      "end": 826.76,
+      "text": "right."
+    },
+    {
+      "start": 827.968,
+      "end": 829.76,
+      "text": "Don't worry about the story's goofiness.",
+      "para_break": true
+    },
+    {
+      "start": 830.0,
+      "end": 832.56,
+      "text": "A sensible one would have had us all in the cooler."
+    },
+    {
+      "start": 833.24,
+      "end": 834.28,
+      "text": "He rose to his feet.",
+      "para_break": true
+    },
+    {
+      "start": 834.96,
+      "end": 836.66,
+      "text": "You'll want sleep if you've been standing",
+      "para_break": true
+    },
+    {
+      "start": 836.66,
+      "end": 838.36,
+      "text": "up under a police storm all night."
+    },
+    {
+      "start": 838.82,
+      "end": 839.42,
+      "text": "See you later."
+    },
+    {
+      "start": 840.48,
+      "end": 841.62,
+      "text": "Effie Perrine was saying,",
+      "para_break": true
+    },
+    {
+      "start": 841.86,
+      "end": 841.984,
+      "text": "no,"
+    },
+    {
+      "start": 842.54,
+      "end": 843.08,
+      "text": "not yet,",
+      "para_break": true
+    },
+    {
+      "start": 843.26,
+      "end": 845.22,
+      "text": "into the telephone when Spade entered his"
+    },
+    {
+      "start": 845.28,
+      "end": 845.86,
+      "text": "outer office."
+    },
+    {
+      "start": 846.1,
+      "end": 849.66,
+      "text": "She looked around at him and her lips shaped a silent word."
+    },
+    {
+      "start": 849.94,
+      "end": 850.04,
+      "text": "Iva."
+    },
+    {
+      "start": 850.98,
+      "end": 852.38,
+      "text": "He shook his head."
+    },
+    {
+      "start": 852.88,
+      "end": 853.48,
+      "text": "Yes,"
+    },
+    {
+      "start": 853.66,
+      "end": 855.82,
+      "text": "I'll have him call you as soon as he comes in,"
+    },
+    {
+      "start": 855.92,
+      "end": 856.62,
+      "text": "she said aloud,"
+    },
+    {
+      "start": 856.9,
+      "end": 858.42,
+      "text": "and replaced the receiver on"
+    },
+    {
+      "start": 858.42,
+      "end": 858.98,
+      "text": "its prong."
+    },
+    {
+      "start": 859.96,
+      "end": 861.96,
+      "text": "That's the third time she's called up this morning,",
+      "para_break": true
+    },
+    {
+      "start": 862.2,
+      "end": 863.24,
+      "text": "she told Spade."
+    },
+    {
+      "start": 863.76,
+      "end": 865.1,
+      "text": "He made an impatient"
+    },
+    {
+      "start": 865.32,
+      "end": 866.1,
+      "text": "growling noise."
+    },
+    {
+      "start": 866.88,
+      "end": 869.62,
+      "text": "The girl moved her brown eyes to indicate the inner office.",
+      "para_break": true
+    },
+    {
+      "start": 870.6,
+      "end": 871.4,
+      "text": "Your Miss O'Shaughnessy's",
+      "para_break": true
+    },
+    {
+      "start": 871.64,
+      "end": 872.02,
+      "text": "in there."
+    },
+    {
+      "start": 872.18,
+      "end": 874.6,
+      "text": "She's been waiting since a few minutes after nine."
+    },
+    {
+      "start": 875.712,
+      "end": 877.48,
+      "text": "Spade nodded as if he had expected",
+      "para_break": true
+    },
+    {
+      "start": 877.8,
+      "end": 878.56,
+      "text": "that and asked,"
+    },
+    {
+      "start": 879.14,
+      "end": 879.5,
+      "text": "what else?",
+      "para_break": true
+    },
+    {
+      "start": 880.448,
+      "end": 881.96,
+      "text": "Sergeant Polhaus called up.",
+      "para_break": true
+    },
+    {
+      "start": 881.98,
+      "end": 883.28,
+      "text": "He didn't leave any message."
+    },
+    {
+      "start": 884.24,
+      "end": 884.92,
+      "text": "Get him for me.",
+      "para_break": true
+    },
+    {
+      "start": 885.76,
+      "end": 886.72,
+      "text": "And G called up.",
+      "para_break": true
+    },
+    {
+      "start": 887.52,
+      "end": 888.72,
+      "text": "Spade's eyes brightened.",
+      "para_break": true
+    },
+    {
+      "start": 888.82,
+      "end": 889.92,
+      "text": "He asked,"
+    },
+    {
+      "start": 890.08,
+      "end": 890.18,
+      "text": "who?"
+    },
+    {
+      "start": 890.99,
+      "end": 891.74,
+      "text": "G,",
+      "para_break": true
+    },
+    {
+      "start": 891.98,
+      "end": 893.2,
+      "text": "that's what he said."
+    },
+    {
+      "start": 893.46,
+      "end": 895.0,
+      "text": "Her air of personal"
+    },
+    {
+      "start": 895.14,
+      "end": 897.02,
+      "text": "indifference to the subject was flawless."
+    },
+    {
+      "start": 897.61,
+      "end": 899.12,
+      "text": "When I told him you weren't in,",
+      "para_break": true
+    },
+    {
+      "start": 899.24,
+      "end": 899.66,
+      "text": "he said,"
+    },
+    {
+      "start": 900.22,
+      "end": 900.94,
+      "text": "when he comes in,",
+      "para_break": true
+    },
+    {
+      "start": 901.2,
+      "end": 902.52,
+      "text": "will you please tell him that G,"
+    },
+    {
+      "start": 902.82,
+      "end": 904.26,
+      "text": "who got his message,"
+    },
+    {
+      "start": 904.63,
+      "end": 906.24,
+      "text": "phoned and will phone again."
+    },
+    {
+      "start": 907.392,
+      "end": 910.5,
+      "text": "Spade worked his lips together as if tasting something he liked.",
+      "para_break": true
+    },
+    {
+      "start": 910.76,
+      "end": 911.36,
+      "text": "Thanks,"
+    },
+    {
+      "start": 911.42,
+      "end": 911.66,
+      "text": "darling,"
+    },
+    {
+      "start": 911.88,
+      "end": 912.3,
+      "text": "he said."
+    },
+    {
+      "start": 912.7,
+      "end": 914.48,
+      "text": "See if you can get Tom Polhas."
+    },
+    {
+      "start": 914.74,
+      "end": 917.66,
+      "text": "He opened the inner door and went into his private office,"
+    },
+    {
+      "start": 917.78,
+      "end": 919.42,
+      "text": "pulling the door to behind him."
+    },
+    {
+      "start": 920.256,
+      "end": 921.1,
+      "text": "Bridget O'Shaughnessy,",
+      "para_break": true
+    },
+    {
+      "start": 921.2,
+      "end": 923.1,
+      "text": "dressed as on her first visit to"
+    },
+    {
+      "start": 923.1,
+      "end": 923.5,
+      "text": "the office,"
+    },
+    {
+      "start": 923.66,
+      "end": 927.18,
+      "text": "rose from a chair beside his desk and came quickly towards him."
+    },
+    {
+      "start": 927.936,
+      "end": 928.86,
+      "text": "Somebody has been in my",
+      "para_break": true
+    },
+    {
+      "start": 929.02,
+      "end": 929.26,
+      "text": "apartment,"
+    },
+    {
+      "start": 929.56,
+      "end": 930.26,
+      "text": "she explained."
+    },
+    {
+      "start": 931.16,
+      "end": 933.6,
+      "text": "It is all upside down every which way.",
+      "para_break": true
+    },
+    {
+      "start": 933.88,
+      "end": 935.7,
+      "text": "He seemed moderately surprised."
+    },
+    {
+      "start": 936.736,
+      "end": 937.26,
+      "text": "Anything taken?",
+      "para_break": true
+    },
+    {
+      "start": 937.83,
+      "end": 939.16,
+      "text": "I don't think so.",
+      "para_break": true
+    },
+    {
+      "start": 939.28,
+      "end": 939.88,
+      "text": "I don't know."
+    },
+    {
+      "start": 939.98,
+      "end": 941.0,
+      "text": "I was afraid to stay."
+    },
+    {
+      "start": 941.26,
+      "end": 943.04,
+      "text": "I changed as fast as I could"
+    },
+    {
+      "start": 943.16,
+      "end": 944.04,
+      "text": "and came down here."
+    },
+    {
+      "start": 944.34,
+      "end": 944.44,
+      "text": "Oh,"
+    },
+    {
+      "start": 944.74,
+      "end": 946.94,
+      "text": "you must have let that boy follow you there."
+    },
+    {
+      "start": 948.064,
+      "end": 948.96,
+      "text": "Spade shook his head.",
+      "para_break": true
+    },
+    {
+      "start": 949.12,
+      "end": 949.67,
+      "text": "No,"
+    },
+    {
+      "start": 949.88,
+      "end": 950.06,
+      "text": "Angel."
+    },
+    {
+      "start": 950.22,
+      "end": 953.56,
+      "text": "He took an early copy of an afternoon paper from his pocket,"
+    },
+    {
+      "start": 953.7,
+      "end": 954.42,
+      "text": "opened it,"
+    },
+    {
+      "start": 954.5,
+      "end": 955.18,
+      "text": "and showed"
+    },
+    {
+      "start": 955.36,
+      "end": 957.38,
+      "text": "her a quarter-column-headed scream,"
+    },
+    {
+      "start": 957.62,
+      "end": 958.6,
+      "text": "Routes Burglar."
+    },
+    {
+      "start": 959.46,
+      "end": 961.2,
+      "text": "A young woman named Caroline Beale,",
+      "para_break": true
+    },
+    {
+      "start": 961.32,
+      "end": 963.72,
+      "text": "who lived alone in a Sutter Street apartment,"
+    },
+    {
+      "start": 964.26,
+      "end": 966.26,
+      "text": "had been awakened at four that morning by the"
+    },
+    {
+      "start": 966.36,
+      "end": 967.98,
+      "text": "sound of somebody moving in her bedroom."
+    },
+    {
+      "start": 968.66,
+      "end": 969.32,
+      "text": "She had screamed.",
+      "para_break": true
+    }
+  ]
+}

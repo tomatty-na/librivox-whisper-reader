@@ -1,0 +1,120 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-17",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_17_hammett.mp3",
+  "chapter_title": "Saturday Night",
+  "reader_name": "NLizer",
+  "page_num": 6,
+  "page_total": 6,
+  "page_start_sec": 1225.28,
+  "page_end_sec": 1264.34,
+  "para_gap_threshold": 0.697,
+  "segments": [
+    {
+      "start": 1225.28,
+      "end": 1225.408,
+      "text": "They"
+    },
+    {
+      "start": 1225.72,
+      "end": 1226.12,
+      "text": "went in."
+    },
+    {
+      "start": 1226.34,
+      "end": 1227.8,
+      "text": "He shut the door and,"
+    },
+    {
+      "start": 1227.94,
+      "end": 1229.26,
+      "text": "with his arm around her again,"
+    },
+    {
+      "start": 1229.38,
+      "end": 1230.94,
+      "text": "took her back towards the living room."
+    },
+    {
+      "start": 1231.6,
+      "end": 1233.98,
+      "text": "When they were within a step of the living room door,"
+    },
+    {
+      "start": 1234.12,
+      "end": 1235.64,
+      "text": "the light in the living room went on."
+    },
+    {
+      "start": 1236.14,
+      "end": 1238.28,
+      "text": "The girl cried out and clung to Spade."
+    },
+    {
+      "start": 1239.24,
+      "end": 1240.64,
+      "text": "Just inside the living room door,",
+      "para_break": true
+    },
+    {
+      "start": 1240.9,
+      "end": 1242.08,
+      "text": "fat Gutman stood"
+    },
+    {
+      "start": 1242.26,
+      "end": 1243.88,
+      "text": "smiling benevolently at them."
+    },
+    {
+      "start": 1244.04,
+      "end": 1246.72,
+      "text": "The boy Wilmer came out of the kitchen behind them."
+    },
+    {
+      "start": 1247.42,
+      "end": 1248.2,
+      "text": "Black pistols were",
+      "para_break": true
+    },
+    {
+      "start": 1248.28,
+      "end": 1249.74,
+      "text": "gigantic in his small hands."
+    },
+    {
+      "start": 1250.656,
+      "end": 1251.84,
+      "text": "Tyro came from the bathroom.",
+      "para_break": true
+    },
+    {
+      "start": 1252.5,
+      "end": 1253.52,
+      "text": "He too had a pistol."
+    },
+    {
+      "start": 1253.76,
+      "end": 1254.72,
+      "text": "Gutman said,"
+    },
+    {
+      "start": 1255.46,
+      "end": 1257.88,
+      "text": "well sir we're all here as you can see for",
+      "para_break": true
+    },
+    {
+      "start": 1257.88,
+      "end": 1261.18,
+      "text": "yourself now let's come in and sit down and"
+    },
+    {
+      "start": 1261.18,
+      "end": 1264.34,
+      "text": "be comfortable and talk end of chapter 17"
+    }
+  ]
+}

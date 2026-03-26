@@ -5,6 +5,7 @@
       "title": "Alice's Adventures in Wonderland (version 4)",
       "author": "Lewis Carroll",
       "year": null,
+      "gutenberg_id": "28885",
       "reader": "Eric Leach",
       "librivox_url": "https://librivox.org/alices-adventures-in-wonderland-by-lewis-carroll-5/",
       "archive_id": "alices_adventures_1005_librivox",
@@ -93,6 +94,7 @@
       "title": "Maltese Falcon, Original Serialized Version",
       "author": "Dashiell Hammett",
       "year": null,
+      "gutenberg_id": null,
       "reader": "Mark Nelson",
       "librivox_url": "https://librivox.org/the-maltese-falcon-by-dashiell-hammett/",
       "archive_id": "maltesefalcon_2511_librivox",
@@ -221,6 +223,143 @@
           "title": "Chapter 20 - If They Hang You",
           "duration_sec": 1533,
           "pages": 7
+        }
+      ]
+    },
+    {
+      "slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+      "title": "Maltese Falcon; Novel Version",
+      "author": "Dashiell Hammett",
+      "year": null,
+      "gutenberg_id": "77600",
+      "reader": "NLizer",
+      "librivox_url": "https://librivox.org/the-maltese-falcon-novel-version-by-dashiell-hammett/",
+      "archive_id": "themaltesefalconnovel_2603_librivox",
+      "added": "2026-03-26",
+      "genres": [
+        "Crime & Mystery Fiction"
+      ],
+      "language": "English",
+      "chapters": [
+        {
+          "audio_file": "audio-01",
+          "title": "Spade and Archer",
+          "duration_sec": 883,
+          "pages": 4
+        },
+        {
+          "audio_file": "audio-02",
+          "title": "Death in the Fog",
+          "duration_sec": 1450,
+          "pages": 6
+        },
+        {
+          "audio_file": "audio-03",
+          "title": "Three Women",
+          "duration_sec": 872,
+          "pages": 4
+        },
+        {
+          "audio_file": "audio-04",
+          "title": "The Black Bird",
+          "duration_sec": 1513,
+          "pages": 7
+        },
+        {
+          "audio_file": "audio-05",
+          "title": "The Levantine",
+          "duration_sec": 767,
+          "pages": 4
+        },
+        {
+          "audio_file": "audio-06",
+          "title": "The Undersized Shadow",
+          "duration_sec": 943,
+          "pages": 4
+        },
+        {
+          "audio_file": "audio-07",
+          "title": "G in the Air",
+          "duration_sec": 1360,
+          "pages": 6
+        },
+        {
+          "audio_file": "audio-08",
+          "title": "Horse Feathers",
+          "duration_sec": 917,
+          "pages": 4
+        },
+        {
+          "audio_file": "audio-09",
+          "title": "Brigid",
+          "duration_sec": 835,
+          "pages": 4
+        },
+        {
+          "audio_file": "audio-10",
+          "title": "The Belvedere Divan",
+          "duration_sec": 1179,
+          "pages": 5
+        },
+        {
+          "audio_file": "audio-11",
+          "title": "The Fat Man",
+          "duration_sec": 1240,
+          "pages": 6
+        },
+        {
+          "audio_file": "audio-12",
+          "title": "Merry-Go-Round",
+          "duration_sec": 1020,
+          "pages": 5
+        },
+        {
+          "audio_file": "audio-13",
+          "title": "The Emperor's Gift",
+          "duration_sec": 1142,
+          "pages": 5
+        },
+        {
+          "audio_file": "audio-14",
+          "title": "La Paloma",
+          "duration_sec": 985,
+          "pages": 5
+        },
+        {
+          "audio_file": "audio-15",
+          "title": "Every Crackpot",
+          "duration_sec": 1228,
+          "pages": 6
+        },
+        {
+          "audio_file": "audio-16",
+          "title": "The Third Murder",
+          "duration_sec": 1181,
+          "pages": 5
+        },
+        {
+          "audio_file": "audio-17",
+          "title": "Saturday Night",
+          "duration_sec": 1264,
+          "pages": 6
+        },
+        {
+          "audio_file": "audio-18",
+          "title": "The Fall Guy",
+          "duration_sec": 1825,
+          "pages": 8
+        },
+        {
+          "audio_file": "audio-19",
+          "title": "The Russian's Hand",
+          "duration_sec": 2241,
+          "pages": 10
+        },
+        {
+          "audio_file": "audio-20",
+          "title": "If They Hang You",
+          "duration_sec": 1509,
+          "pages": 6
         }
       ]
     }

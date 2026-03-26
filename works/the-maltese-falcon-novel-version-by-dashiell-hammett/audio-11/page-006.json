@@ -1,0 +1,104 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-11",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_11_hammett.mp3",
+  "chapter_title": "The Fat Man",
+  "reader_name": "NLizer",
+  "page_num": 6,
+  "page_total": 6,
+  "page_start_sec": 1209.6,
+  "page_end_sec": 1240.78,
+  "para_gap_threshold": 0.574,
+  "segments": [
+    {
+      "start": 1209.6,
+      "end": 1211.38,
+      "text": "You've got till 5.30 to do it in.",
+      "para_break": true
+    },
+    {
+      "start": 1212.08,
+      "end": 1213.9,
+      "text": "Then you're either in or out for keeps.",
+      "para_break": true
+    },
+    {
+      "start": 1215.1,
+      "end": 1215.98,
+      "text": "He let his arm drop,",
+      "para_break": true
+    },
+    {
+      "start": 1216.16,
+      "end": 1218.18,
+      "text": "scowled at the bland fat man for a moment,"
+    },
+    {
+      "start": 1218.4,
+      "end": 1221.72,
+      "text": "scowled at the boy and went to the door through which he had entered."
+    },
+    {
+      "start": 1222.23,
+      "end": 1223.52,
+      "text": "When he opened the door,"
+    },
+    {
+      "start": 1223.54,
+      "end": 1224.84,
+      "text": "he turned and said harshly,"
+    },
+    {
+      "start": 1224.88,
+      "end": 1225.7,
+      "text": "5.30,"
+    },
+    {
+      "start": 1226.3,
+      "end": 1226.9,
+      "text": "then the curtain.",
+      "para_break": true
+    },
+    {
+      "start": 1228.04,
+      "end": 1228.36,
+      "text": "The boy,",
+      "para_break": true
+    },
+    {
+      "start": 1228.46,
+      "end": 1229.56,
+      "text": "staring at Spade's chest,"
+    },
+    {
+      "start": 1229.82,
+      "end": 1233.14,
+      "text": "repeated the two words he had twice spoken in the Belvedere lobby."
+    },
+    {
+      "start": 1234.0,
+      "end": 1235.12,
+      "text": "His voice was not loud,",
+      "para_break": true
+    },
+    {
+      "start": 1235.38,
+      "end": 1236.14,
+      "text": "it was bitter."
+    },
+    {
+      "start": 1237.152,
+      "end": 1238.64,
+      "text": "Spade went out and slammed the door.",
+      "para_break": true
+    },
+    {
+      "start": 1239.616,
+      "end": 1240.78,
+      "text": "End of chapter 11.",
+      "para_break": true
+    }
+  ]
+}

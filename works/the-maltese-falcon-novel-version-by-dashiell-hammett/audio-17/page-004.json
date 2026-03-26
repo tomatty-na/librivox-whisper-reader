@@ -1,0 +1,818 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-17",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_17_hammett.mp3",
+  "chapter_title": "Saturday Night",
+  "reader_name": "NLizer",
+  "page_num": 4,
+  "page_total": 6,
+  "page_start_sec": 743.4,
+  "page_end_sec": 984.26,
+  "para_gap_threshold": 0.697,
+  "segments": [
+    {
+      "start": 743.4,
+      "end": 744.68,
+      "text": "No sound came from the house.",
+      "para_break": true
+    },
+    {
+      "start": 744.94,
+      "end": 747.4,
+      "text": "The house was dark except for another pale"
+    },
+    {
+      "start": 747.5,
+      "end": 749.08,
+      "text": "square card nailed on its door."
+    },
+    {
+      "start": 749.984,
+      "end": 751.6,
+      "text": "Spade went up to the door and listened.",
+      "para_break": true
+    },
+    {
+      "start": 751.82,
+      "end": 753.12,
+      "text": "He could hear nothing."
+    },
+    {
+      "start": 753.67,
+      "end": 755.78,
+      "text": "He tried to look through the glass of the door."
+    },
+    {
+      "start": 756.1,
+      "end": 758.496,
+      "text": "There was no curtain to keep his gaze out but"
+    },
+    {
+      "start": 758.68,
+      "end": 759.3,
+      "text": "inner darkness."
+    },
+    {
+      "start": 760.32,
+      "end": 762.32,
+      "text": "He tiptoed to a window and then to another.",
+      "para_break": true
+    },
+    {
+      "start": 762.68,
+      "end": 762.78,
+      "text": "They,"
+    },
+    {
+      "start": 763.74,
+      "end": 764.46,
+      "text": "like the door,",
+      "para_break": true
+    },
+    {
+      "start": 764.58,
+      "end": 765.17,
+      "text": "were uncurtained"
+    },
+    {
+      "start": 765.36,
+      "end": 766.52,
+      "text": "except by inner darkness."
+    },
+    {
+      "start": 766.84,
+      "end": 768.62,
+      "text": "He tried both windows."
+    },
+    {
+      "start": 769.2,
+      "end": 769.8,
+      "text": "They were locked."
+    },
+    {
+      "start": 770.04,
+      "end": 771.2,
+      "text": "He tried the door."
+    },
+    {
+      "start": 771.88,
+      "end": 772.5,
+      "text": "It was locked."
+    },
+    {
+      "start": 773.0,
+      "end": 774.44,
+      "text": "He left the porch and,"
+    },
+    {
+      "start": 774.54,
+      "end": 775.96,
+      "text": "stepping carefully over dark,"
+    },
+    {
+      "start": 776.04,
+      "end": 776.92,
+      "text": "unfamiliar ground,"
+    },
+    {
+      "start": 777.06,
+      "end": 777.98,
+      "text": "walked through weeds"
+    },
+    {
+      "start": 778.16,
+      "end": 778.92,
+      "text": "around the house."
+    },
+    {
+      "start": 779.88,
+      "end": 782.36,
+      "text": "The side windows were too high to be reached from the ground.",
+      "para_break": true
+    },
+    {
+      "start": 783.26,
+      "end": 784.16,
+      "text": "The back door and",
+      "para_break": true
+    },
+    {
+      "start": 784.16,
+      "end": 786.5,
+      "text": "the one back window he could reach were locked."
+    },
+    {
+      "start": 787.552,
+      "end": 789.26,
+      "text": "Spade went back to the gate post and,",
+      "para_break": true
+    },
+    {
+      "start": 789.42,
+      "end": 790.1,
+      "text": "cupping the"
+    },
+    {
+      "start": 790.22,
+      "end": 792.02,
+      "text": "flame between his hands held his"
+    },
+    {
+      "start": 792.02,
+      "end": 794.04,
+      "text": "lighter up to the for sale or rent sign."
+    },
+    {
+      "start": 795.04,
+      "end": 795.8,
+      "text": "It bore the printed",
+      "para_break": true
+    },
+    {
+      "start": 795.86,
+      "end": 798.18,
+      "text": "name and address of a San Mateo real"
+    },
+    {
+      "start": 798.18,
+      "end": 800.76,
+      "text": "estate dealer and a line penciled in blue,"
+    },
+    {
+      "start": 801.46,
+      "end": 802.33,
+      "text": "key at 31.",
+      "para_break": true
+    },
+    {
+      "start": 803.904,
+      "end": 806.22,
+      "text": "Spade returned to the sedan and asked the chauffeur,",
+      "para_break": true
+    },
+    {
+      "start": 806.78,
+      "end": 807.42,
+      "text": "got a flashlight?"
+    },
+    {
+      "start": 807.76,
+      "end": 808.72,
+      "text": "Sure."
+    },
+    {
+      "start": 808.99,
+      "end": 809.98,
+      "text": "He gave it to"
+    },
+    {
+      "start": 810.12,
+      "end": 810.42,
+      "text": "Spade."
+    },
+    {
+      "start": 811.18,
+      "end": 812.48,
+      "text": "Can I give you a hand at anything?",
+      "para_break": true
+    },
+    {
+      "start": 812.86,
+      "end": 812.96,
+      "text": "Maybe."
+    },
+    {
+      "start": 814.47,
+      "end": 815.88,
+      "text": "Spade got into the sedan.",
+      "para_break": true
+    },
+    {
+      "start": 816.33,
+      "end": 817.5,
+      "text": "We'll ride up to number"
+    },
+    {
+      "start": 817.66,
+      "end": 818.08,
+      "text": "31."
+    },
+    {
+      "start": 818.34,
+      "end": 819.74,
+      "text": "You can use your lights."
+    },
+    {
+      "start": 820.86,
+      "end": 824.32,
+      "text": "Number 31 was a square gray house across the street from,",
+      "para_break": true
+    },
+    {
+      "start": 824.68,
+      "end": 826.68,
+      "text": "but a little farther up than 26."
+    },
+    {
+      "start": 827.16,
+      "end": 827.88,
+      "text": "Lights"
+    },
+    {
+      "start": 827.88,
+      "end": 829.64,
+      "text": "glowed in its downstairs windows."
+    },
+    {
+      "start": 830.56,
+      "end": 831.34,
+      "text": "Spade went up on the",
+      "para_break": true
+    },
+    {
+      "start": 831.42,
+      "end": 832.3,
+      "text": "porch and rang the bell."
+    },
+    {
+      "start": 832.54,
+      "end": 835.6,
+      "text": "A dark-haired girl of 14 or 15 opened the door."
+    },
+    {
+      "start": 835.86,
+      "end": 835.96,
+      "text": "Spade,"
+    },
+    {
+      "start": 836.74,
+      "end": 837.54,
+      "text": "bowing and smiling,",
+      "para_break": true
+    },
+    {
+      "start": 837.76,
+      "end": 838.02,
+      "text": "said,"
+    },
+    {
+      "start": 838.24,
+      "end": 840.72,
+      "text": "I'd like to get the key to number 26."
+    },
+    {
+      "start": 841.92,
+      "end": 842.5,
+      "text": "I'll call Papa,"
+    },
+    {
+      "start": 842.76,
+      "end": 843.28,
+      "text": "she said,"
+    },
+    {
+      "start": 843.34,
+      "end": 844.5,
+      "text": "and went back into the house"
+    },
+    {
+      "start": 844.68,
+      "end": 844.94,
+      "text": "calling,"
+    },
+    {
+      "start": 845.1,
+      "end": 845.64,
+      "text": "Papa."
+    },
+    {
+      "start": 846.02,
+      "end": 847.86,
+      "text": "A plump,"
+    },
+    {
+      "start": 847.92,
+      "end": 848.76,
+      "text": "red-faced man,"
+    },
+    {
+      "start": 848.96,
+      "end": 850.7,
+      "text": "bald-headed and heavily mustached,"
+    },
+    {
+      "start": 850.86,
+      "end": 852.06,
+      "text": "appeared carrying a"
+    },
+    {
+      "start": 852.2,
+      "end": 852.4,
+      "text": "newspaper."
+    },
+    {
+      "start": 853.44,
+      "end": 853.94,
+      "text": "Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 854.66,
+      "end": 856.1,
+      "text": "I'd like to get the key to 26.",
+      "para_break": true
+    },
+    {
+      "start": 857.32,
+      "end": 858.59,
+      "text": "The plump man looked doubtful."
+    },
+    {
+      "start": 858.84,
+      "end": 859.5,
+      "text": "He said,"
+    },
+    {
+      "start": 859.8,
+      "end": 860.88,
+      "text": "the juice is not on."
+    },
+    {
+      "start": 861.04,
+      "end": 862.2,
+      "text": "You couldn't see anything."
+    },
+    {
+      "start": 863.328,
+      "end": 864.38,
+      "text": "Spade patted his pocket.",
+      "para_break": true
+    },
+    {
+      "start": 865.14,
+      "end": 865.76,
+      "text": "I have a flashlight.",
+      "para_break": true
+    },
+    {
+      "start": 866.78,
+      "end": 868.44,
+      "text": "The plump man looked more doubtful.",
+      "para_break": true
+    },
+    {
+      "start": 868.63,
+      "end": 871.76,
+      "text": "He cleared his throat uneasily and crumpled the newspaper"
+    },
+    {
+      "start": 871.98,
+      "end": 872.5,
+      "text": "in his hand."
+    },
+    {
+      "start": 873.472,
+      "end": 875.22,
+      "text": "Spade showed him one of his business cards,",
+      "para_break": true
+    },
+    {
+      "start": 875.38,
+      "end": 876.7,
+      "text": "put it back in his pocket,"
+    },
+    {
+      "start": 876.78,
+      "end": 877.38,
+      "text": "and said in a"
+    },
+    {
+      "start": 877.38,
+      "end": 877.92,
+      "text": "low voice,"
+    },
+    {
+      "start": 878.66,
+      "end": 880.98,
+      "text": "we got a tip that there might be something hidden there.",
+      "para_break": true
+    },
+    {
+      "start": 882.0,
+      "end": 882.92,
+      "text": "The plump man's face",
+      "para_break": true
+    },
+    {
+      "start": 883.08,
+      "end": 883.92,
+      "text": "and voice were eager."
+    },
+    {
+      "start": 884.56,
+      "end": 885.0,
+      "text": "Wait a minute,"
+    },
+    {
+      "start": 885.12,
+      "end": 885.6,
+      "text": "he said."
+    },
+    {
+      "start": 885.76,
+      "end": 886.98,
+      "text": "I'll go over with you."
+    },
+    {
+      "start": 888.04,
+      "end": 888.64,
+      "text": "A moment later,",
+      "para_break": true
+    },
+    {
+      "start": 888.7,
+      "end": 889.1,
+      "text": "he came"
+    },
+    {
+      "start": 889.18,
+      "end": 892.08,
+      "text": "back carrying a brass key attached to a black and red tag."
+    },
+    {
+      "start": 893.088,
+      "end": 894.92,
+      "text": "Spade beckoned to the chauffeur as they",
+      "para_break": true
+    },
+    {
+      "start": 895.0,
+      "end": 895.62,
+      "text": "passed the car,"
+    },
+    {
+      "start": 896.0,
+      "end": 897.22,
+      "text": "and the chauffeur joined them."
+    },
+    {
+      "start": 898.368,
+      "end": 899.96,
+      "text": "Anybody been looking at the house lately?",
+      "para_break": true
+    },
+    {
+      "start": 900.12,
+      "end": 900.5,
+      "text": "Spade"
+    },
+    {
+      "start": 900.62,
+      "end": 900.78,
+      "text": "asked."
+    },
+    {
+      "start": 901.8,
+      "end": 902.76,
+      "text": "Not that I know of,",
+      "para_break": true
+    },
+    {
+      "start": 902.84,
+      "end": 903.74,
+      "text": "the plump man replied."
+    },
+    {
+      "start": 904.71,
+      "end": 906.62,
+      "text": "Nobody's been to me for the key in a couple of",
+      "para_break": true
+    },
+    {
+      "start": 906.62,
+      "end": 906.88,
+      "text": "months."
+    },
+    {
+      "start": 907.94,
+      "end": 909.48,
+      "text": "The plump man marched ahead with the",
+      "para_break": true
+    },
+    {
+      "start": 909.48,
+      "end": 911.4,
+      "text": "key until they had gone up on the porch."
+    },
+    {
+      "start": 912.14,
+      "end": 912.36,
+      "text": "Then he",
+      "para_break": true
+    },
+    {
+      "start": 912.42,
+      "end": 913.78,
+      "text": "thrust the key into Spade's hand,"
+    },
+    {
+      "start": 914.04,
+      "end": 914.68,
+      "text": "mumbled,"
+    },
+    {
+      "start": 914.76,
+      "end": 915.64,
+      "text": "here you are,"
+    },
+    {
+      "start": 916.0,
+      "end": 916.72,
+      "text": "and stepped aside."
+    },
+    {
+      "start": 917.792,
+      "end": 918.56,
+      "text": "Spade unlocked the",
+      "para_break": true
+    },
+    {
+      "start": 918.56,
+      "end": 919.56,
+      "text": "door and pushed it open."
+    },
+    {
+      "start": 919.8,
+      "end": 921.32,
+      "text": "There was silence and darkness."
+    },
+    {
+      "start": 921.6,
+      "end": 922.82,
+      "text": "Holding the flashlight,"
+    },
+    {
+      "start": 923.12,
+      "end": 924.12,
+      "text": "dark in his"
+    },
+    {
+      "start": 924.2,
+      "end": 924.68,
+      "text": "left hand,"
+    },
+    {
+      "start": 924.86,
+      "end": 925.7,
+      "text": "Spade entered."
+    },
+    {
+      "start": 926.5,
+      "end": 928.48,
+      "text": "The chauffeur came close behind him and then,",
+      "para_break": true
+    },
+    {
+      "start": 928.56,
+      "end": 929.46,
+      "text": "at a little distance,"
+    },
+    {
+      "start": 929.86,
+      "end": 931.2,
+      "text": "The plump man followed them."
+    },
+    {
+      "start": 932.04,
+      "end": 933.82,
+      "text": "They searched the house from bottom to top,",
+      "para_break": true
+    },
+    {
+      "start": 933.92,
+      "end": 934.82,
+      "text": "cautiously at first,"
+    },
+    {
+      "start": 934.92,
+      "end": 936.06,
+      "text": "then finding nothing,"
+    },
+    {
+      "start": 936.16,
+      "end": 936.78,
+      "text": "boldly."
+    },
+    {
+      "start": 936.9,
+      "end": 938.32,
+      "text": "The house was empty,"
+    },
+    {
+      "start": 938.46,
+      "end": 939.3,
+      "text": "unmistakably,"
+    },
+    {
+      "start": 939.76,
+      "end": 941.12,
+      "text": "and there was nothing to indicate"
+    },
+    {
+      "start": 941.54,
+      "end": 943.1,
+      "text": "that it had been visited in weeks."
+    },
+    {
+      "start": 943.46,
+      "end": 944.42,
+      "text": "Saying,"
+    },
+    {
+      "start": 944.62,
+      "end": 944.98,
+      "text": "thanks,"
+    },
+    {
+      "start": 945.16,
+      "end": 945.74,
+      "text": "that's all,"
+    },
+    {
+      "start": 945.84,
+      "end": 947.86,
+      "text": "Spade left the sedan in front of the"
+    },
+    {
+      "start": 947.94,
+      "end": 948.42,
+      "text": "Alexandria."
+    },
+    {
+      "start": 949.62,
+      "end": 951.36,
+      "text": "He went into the hotel to the desk,",
+      "para_break": true
+    },
+    {
+      "start": 951.68,
+      "end": 953.88,
+      "text": "where a tall young man with a dark gray face said,"
+    },
+    {
+      "start": 954.06,
+      "end": 954.68,
+      "text": "good evening,"
+    },
+    {
+      "start": 954.82,
+      "end": 954.94,
+      "text": "Mr."
+    },
+    {
+      "start": 955.08,
+      "end": 955.46,
+      "text": "Spade."
+    },
+    {
+      "start": 956.4,
+      "end": 956.82,
+      "text": "Good evening,",
+      "para_break": true
+    },
+    {
+      "start": 957.0,
+      "end": 959.7,
+      "text": "Spade drew the young man to one end of the desk."
+    },
+    {
+      "start": 960.42,
+      "end": 961.92,
+      "text": "These gutmans up in 12C,",
+      "para_break": true
+    },
+    {
+      "start": 962.16,
+      "end": 962.88,
+      "text": "are they in?"
+    },
+    {
+      "start": 963.17,
+      "end": 964.94,
+      "text": "The young man replied,"
+    },
+    {
+      "start": 965.22,
+      "end": 965.66,
+      "text": "no,"
+    },
+    {
+      "start": 965.96,
+      "end": 967.92,
+      "text": "darting a quick glance at Spade."
+    },
+    {
+      "start": 968.34,
+      "end": 969.28,
+      "text": "Then he looked away,"
+    },
+    {
+      "start": 969.54,
+      "end": 970.18,
+      "text": "hesitated,"
+    },
+    {
+      "start": 970.68,
+      "end": 972.1,
+      "text": "looked at Spade again and murmured,"
+    },
+    {
+      "start": 972.2,
+      "end": 973.98,
+      "text": "a funny thing happened in"
+    },
+    {
+      "start": 974.06,
+      "end": 975.28,
+      "text": "connection with them this evening,"
+    },
+    {
+      "start": 975.36,
+      "end": 975.54,
+      "text": "Mr."
+    },
+    {
+      "start": 975.62,
+      "end": 976.06,
+      "text": "Spade."
+    },
+    {
+      "start": 976.12,
+      "end": 978.62,
+      "text": "Somebody called the emergency hospital and told"
+    },
+    {
+      "start": 978.8,
+      "end": 980.18,
+      "text": "them there was a sick girl up there."
+    },
+    {
+      "start": 980.36,
+      "end": 981.78,
+      "text": "And there wasn't?"
+    },
+    {
+      "start": 982.6,
+      "end": 983.0,
+      "text": "Oh no,",
+      "para_break": true
+    },
+    {
+      "start": 983.14,
+      "end": 984.26,
+      "text": "there was nobody up there."
+    }
+  ]
+}

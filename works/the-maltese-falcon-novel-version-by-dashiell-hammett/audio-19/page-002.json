@@ -1,0 +1,821 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-19",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_19_hammett.mp3",
+  "chapter_title": "The Russian's Hand",
+  "reader_name": "NLizer",
+  "page_num": 2,
+  "page_total": 10,
+  "page_start_sec": 246.21,
+  "page_end_sec": 500.04,
+  "para_gap_threshold": 0.559,
+  "segments": [
+    {
+      "start": 246.21,
+      "end": 249.02,
+      "text": "He looked at the sofa and at Spade again sharply."
+    },
+    {
+      "start": 250.1,
+      "end": 250.54,
+      "text": "You have the",
+      "para_break": true
+    },
+    {
+      "start": 250.6,
+      "end": 250.92,
+      "text": "envelope?"
+    },
+    {
+      "start": 252.096,
+      "end": 253.02,
+      "text": "Spade shook his head,",
+      "para_break": true
+    },
+    {
+      "start": 253.6,
+      "end": 255.66,
+      "text": "looking at the sofa and then at the girl.",
+      "para_break": true
+    },
+    {
+      "start": 256.42,
+      "end": 257.22,
+      "text": "He smiled with his",
+      "para_break": true
+    },
+    {
+      "start": 257.3,
+      "end": 257.96,
+      "text": "eyes and said,"
+    },
+    {
+      "start": 258.72,
+      "end": 260.04,
+      "text": "Miss O'Shaughnessy has it.",
+      "para_break": true
+    },
+    {
+      "start": 260.44,
+      "end": 261.4,
+      "text": "Yes,"
+    },
+    {
+      "start": 261.66,
+      "end": 262.22,
+      "text": "I have it,"
+    },
+    {
+      "start": 262.32,
+      "end": 262.94,
+      "text": "she murmured,"
+    },
+    {
+      "start": 263.02,
+      "end": 264.56,
+      "text": "putting a hand inside her"
+    },
+    {
+      "start": 264.7,
+      "end": 264.86,
+      "text": "coat."
+    },
+    {
+      "start": 265.52,
+      "end": 266.22,
+      "text": "I picked it up.",
+      "para_break": true
+    },
+    {
+      "start": 267.424,
+      "end": 267.9,
+      "text": "That's all right,",
+      "para_break": true
+    },
+    {
+      "start": 268.08,
+      "end": 268.86,
+      "text": "Spade told her."
+    },
+    {
+      "start": 268.96,
+      "end": 270.0,
+      "text": "Hang on to it."
+    },
+    {
+      "start": 270.22,
+      "end": 271.6,
+      "text": "He addressed Gutman."
+    },
+    {
+      "start": 272.1,
+      "end": 274.2,
+      "text": "We won't have to lose sight of each other."
+    },
+    {
+      "start": 274.32,
+      "end": 276.04,
+      "text": "I can have the falcon brought here."
+    },
+    {
+      "start": 277.02,
+      "end": 277.94,
+      "text": "That will be excellent,",
+      "para_break": true
+    },
+    {
+      "start": 278.14,
+      "end": 278.96,
+      "text": "Gutman purred."
+    },
+    {
+      "start": 279.12,
+      "end": 279.22,
+      "text": "Then,"
+    },
+    {
+      "start": 279.9,
+      "end": 280.1,
+      "text": "sir,",
+      "para_break": true
+    },
+    {
+      "start": 280.22,
+      "end": 282.32,
+      "text": "in exchange for the ten thousand dollars and"
+    },
+    {
+      "start": 282.4,
+      "end": 282.66,
+      "text": "Wilmer,"
+    },
+    {
+      "start": 282.82,
+      "end": 285.76,
+      "text": "you will give us the falcon and an hour or two of grace,"
+    },
+    {
+      "start": 285.99,
+      "end": 287.94,
+      "text": "so we won't be in the city when"
+    },
+    {
+      "start": 287.94,
+      "end": 289.44,
+      "text": "you surrender him to the authorities."
+    },
+    {
+      "start": 290.42,
+      "end": 291.26,
+      "text": "You don't have to duck,",
+      "para_break": true
+    },
+    {
+      "start": 291.46,
+      "end": 292.2,
+      "text": "Spade said."
+    },
+    {
+      "start": 292.4,
+      "end": 293.24,
+      "text": "It'll be airtight."
+    },
+    {
+      "start": 294.5,
+      "end": 295.02,
+      "text": "That may be,",
+      "para_break": true
+    },
+    {
+      "start": 295.16,
+      "end": 295.34,
+      "text": "sir,"
+    },
+    {
+      "start": 295.48,
+      "end": 296.02,
+      "text": "but nevertheless,"
+    },
+    {
+      "start": 296.48,
+      "end": 299.36,
+      "text": "we'll feel safer well out of the city when Wilmer is being"
+    },
+    {
+      "start": 299.44,
+      "end": 300.74,
+      "text": "questioned by your district attorney."
+    },
+    {
+      "start": 301.88,
+      "end": 302.24,
+      "text": "Suit yourself,",
+      "para_break": true
+    },
+    {
+      "start": 302.62,
+      "end": 303.32,
+      "text": "Spade replied."
+    },
+    {
+      "start": 304.08,
+      "end": 304.84,
+      "text": "I can hold him here",
+      "para_break": true
+    },
+    {
+      "start": 304.84,
+      "end": 305.9,
+      "text": "all day if you want."
+    },
+    {
+      "start": 306.25,
+      "end": 307.76,
+      "text": "He began to roll a cigarette."
+    },
+    {
+      "start": 308.7,
+      "end": 309.76,
+      "text": "Let's get the details fixed.",
+      "para_break": true
+    },
+    {
+      "start": 310.8,
+      "end": 311.42,
+      "text": "Why did he shoot",
+      "para_break": true
+    },
+    {
+      "start": 311.5,
+      "end": 311.9,
+      "text": "Thursby?"
+    },
+    {
+      "start": 312.58,
+      "end": 315.1,
+      "text": "And why and where and how did he shoot Jacoby?",
+      "para_break": true
+    },
+    {
+      "start": 316.48,
+      "end": 317.76,
+      "text": "Gutman smiled indulgently,",
+      "para_break": true
+    },
+    {
+      "start": 317.9,
+      "end": 318.36,
+      "text": "shaking his"
+    },
+    {
+      "start": 318.56,
+      "end": 319.15,
+      "text": "head in purring."
+    },
+    {
+      "start": 319.8,
+      "end": 320.12,
+      "text": "Now come,",
+      "para_break": true
+    },
+    {
+      "start": 320.24,
+      "end": 320.44,
+      "text": "sir,"
+    },
+    {
+      "start": 320.58,
+      "end": 322.1,
+      "text": "you can't expect that."
+    },
+    {
+      "start": 323.1,
+      "end": 324.5,
+      "text": "We've given you the money in Wilmer.",
+      "para_break": true
+    },
+    {
+      "start": 324.68,
+      "end": 324.78,
+      "text": "That"
+    },
+    {
+      "start": 325.28,
+      "end": 326.36,
+      "text": "is our part of the agreement."
+    },
+    {
+      "start": 327.46,
+      "end": 328.52,
+      "text": "I do expect it,",
+      "para_break": true
+    },
+    {
+      "start": 328.6,
+      "end": 329.3,
+      "text": "Spade said."
+    },
+    {
+      "start": 330.04,
+      "end": 331.44,
+      "text": "He held his lighter to his cigarette.",
+      "para_break": true
+    },
+    {
+      "start": 332.4,
+      "end": 334.16,
+      "text": "A fall guy is what I asked for,",
+      "para_break": true
+    },
+    {
+      "start": 334.28,
+      "end": 337.36,
+      "text": "and he's not a fall guy unless he's a cinch to take the fall."
+    },
+    {
+      "start": 338.16,
+      "end": 338.34,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 338.5,
+      "end": 339.4,
+      "text": "to cinch that,"
+    },
+    {
+      "start": 339.58,
+      "end": 341.18,
+      "text": "I've got to know what's what."
+    },
+    {
+      "start": 341.55,
+      "end": 343.22,
+      "text": "He pulled his brows together."
+    },
+    {
+      "start": 343.54,
+      "end": 344.22,
+      "text": "What are"
+    },
+    {
+      "start": 344.32,
+      "end": 345.28,
+      "text": "you bellyaching about?"
+    },
+    {
+      "start": 345.54,
+      "end": 347.3,
+      "text": "You're not going to be sitting so"
+    },
+    {
+      "start": 347.3,
+      "end": 349.48,
+      "text": "damn pretty if you leave him with an"
+    },
+    {
+      "start": 349.6,
+      "end": 349.78,
+      "text": "out."
+    },
+    {
+      "start": 350.976,
+      "end": 353.14,
+      "text": "Gutman leaned forward and wagged a fat finger",
+      "para_break": true
+    },
+    {
+      "start": 353.14,
+      "end": 355.58,
+      "text": "at the pistols on the table beside Spade's legs."
+    },
+    {
+      "start": 356.64,
+      "end": 358.24,
+      "text": "There's ample evidence of his guilt,",
+      "para_break": true
+    },
+    {
+      "start": 358.32,
+      "end": 358.56,
+      "text": "sir."
+    },
+    {
+      "start": 359.02,
+      "end": 361.24,
+      "text": "Both men were shot with those weapons."
+    },
+    {
+      "start": 362.464,
+      "end": 362.8,
+      "text": "It's a very",
+      "para_break": true
+    },
+    {
+      "start": 362.9,
+      "end": 364.94,
+      "text": "simple matter for the police department experts"
+    },
+    {
+      "start": 365.5,
+      "end": 367.58,
+      "text": "to determine that the bullets that killed the men",
+      "para_break": true
+    },
+    {
+      "start": 367.78,
+      "end": 369.34,
+      "text": "were fired from those weapons."
+    },
+    {
+      "start": 370.16,
+      "end": 370.72,
+      "text": "You know that.",
+      "para_break": true
+    },
+    {
+      "start": 370.78,
+      "end": 372.1,
+      "text": "You've mentioned it yourself."
+    },
+    {
+      "start": 373.0,
+      "end": 373.4,
+      "text": "And that,",
+      "para_break": true
+    },
+    {
+      "start": 373.4,
+      "end": 373.84,
+      "text": "it seems"
+    },
+    {
+      "start": 374.0,
+      "end": 374.22,
+      "text": "to me,"
+    },
+    {
+      "start": 374.36,
+      "end": 376.3,
+      "text": "is ample proof of his guilt."
+    },
+    {
+      "start": 376.54,
+      "end": 377.4,
+      "text": "Maybe,"
+    },
+    {
+      "start": 377.66,
+      "end": 378.36,
+      "text": "Spade agreed,"
+    },
+    {
+      "start": 378.66,
+      "end": 380.84,
+      "text": "but the thing's more complicated than that,"
+    },
+    {
+      "start": 381.12,
+      "end": 383.46,
+      "text": "and I've got to know what happened so I can be"
+    },
+    {
+      "start": 383.46,
+      "end": 385.98,
+      "text": "sure the parts that won't fit in are covered up."
+    },
+    {
+      "start": 387.104,
+      "end": 388.72,
+      "text": "Cairo's eyes were round and hot.",
+      "para_break": true
+    },
+    {
+      "start": 389.632,
+      "end": 390.56,
+      "text": "Apparently you've forgotten",
+      "para_break": true
+    },
+    {
+      "start": 391.08,
+      "end": 392.76,
+      "text": "that you assured us it would be a very"
+    },
+    {
+      "start": 392.86,
+      "end": 393.4,
+      "text": "simple affair,"
+    },
+    {
+      "start": 393.7,
+      "end": 394.32,
+      "text": "Cairo said."
+    },
+    {
+      "start": 394.75,
+      "end": 397.24,
+      "text": "He turned his excited dark face to Gutman."
+    },
+    {
+      "start": 397.94,
+      "end": 398.34,
+      "text": "You see,",
+      "para_break": true
+    },
+    {
+      "start": 398.54,
+      "end": 400.08,
+      "text": "I advise you not to"
+    },
+    {
+      "start": 400.2,
+      "end": 400.6,
+      "text": "do this."
+    },
+    {
+      "start": 400.72,
+      "end": 401.8,
+      "text": "I don't think..."
+    },
+    {
+      "start": 402.4,
+      "end": 405.58,
+      "text": "It doesn't make a damn bit of difference what either of you think,",
+      "para_break": true
+    },
+    {
+      "start": 405.98,
+      "end": 406.7,
+      "text": "Spade said bluntly."
+    },
+    {
+      "start": 407.0,
+      "end": 408.4,
+      "text": "It's too late for that now,"
+    },
+    {
+      "start": 408.5,
+      "end": 409.58,
+      "text": "and you're in too deep."
+    },
+    {
+      "start": 410.14,
+      "end": 411.42,
+      "text": "Why did he kill Thursby?",
+      "para_break": true
+    },
+    {
+      "start": 412.672,
+      "end": 415.72,
+      "text": "Gutman interlaced his fingers over his belly and rocked his chair.",
+      "para_break": true
+    },
+    {
+      "start": 415.98,
+      "end": 417.02,
+      "text": "His voice,"
+    },
+    {
+      "start": 417.1,
+      "end": 417.9,
+      "text": "like his smile,"
+    },
+    {
+      "start": 418.04,
+      "end": 419.04,
+      "text": "was frankly rueful."
+    },
+    {
+      "start": 420.02,
+      "end": 423.26,
+      "text": "You are an uncommonly difficult person to get the best of,",
+      "para_break": true
+    },
+    {
+      "start": 423.38,
+      "end": 423.74,
+      "text": "he said."
+    },
+    {
+      "start": 424.7,
+      "end": 426.98,
+      "text": "I begin to think that we made a mistake in",
+      "para_break": true
+    },
+    {
+      "start": 426.98,
+      "end": 428.96,
+      "text": "not letting you alone from the very first."
+    },
+    {
+      "start": 429.16,
+      "end": 430.04,
+      "text": "By gad,"
+    },
+    {
+      "start": 430.06,
+      "end": 430.54,
+      "text": "I do,"
+    },
+    {
+      "start": 430.68,
+      "end": 430.94,
+      "text": "sir."
+    },
+    {
+      "start": 432.192,
+      "end": 433.62,
+      "text": "Spade moved his hand carelessly.",
+      "para_break": true
+    },
+    {
+      "start": 434.4,
+      "end": 435.6,
+      "text": "You haven't done so bad.",
+      "para_break": true
+    },
+    {
+      "start": 435.88,
+      "end": 437.1,
+      "text": "You're staying out of"
+    },
+    {
+      "start": 437.18,
+      "end": 438.56,
+      "text": "jail and you're getting the Falcon."
+    },
+    {
+      "start": 439.18,
+      "end": 439.82,
+      "text": "What do you want?",
+      "para_break": true
+    },
+    {
+      "start": 440.34,
+      "end": 442.32,
+      "text": "He put his cigarette in a corner of his"
+    },
+    {
+      "start": 442.32,
+      "end": 443.48,
+      "text": "mouth and said around it."
+    },
+    {
+      "start": 443.98,
+      "end": 444.58,
+      "text": "Anyhow,"
+    },
+    {
+      "start": 444.9,
+      "end": 446.26,
+      "text": "you know where you stand now."
+    },
+    {
+      "start": 447.232,
+      "end": 448.58,
+      "text": "Why did he kill Thursby?",
+      "para_break": true
+    },
+    {
+      "start": 449.76,
+      "end": 450.68,
+      "text": "Gutman stopped rocking.",
+      "para_break": true
+    },
+    {
+      "start": 452.0,
+      "end": 455.36,
+      "text": "Thursby was a notorious killer and Miss O'Shaughnessy's ally.",
+      "para_break": true
+    },
+    {
+      "start": 456.32,
+      "end": 456.56,
+      "text": "We knew",
+      "para_break": true
+    },
+    {
+      "start": 456.68,
+      "end": 459.14,
+      "text": "that removing him in just that manner would make"
+    },
+    {
+      "start": 459.14,
+      "end": 461.74,
+      "text": "her stop and think that perhaps it would be best"
+    },
+    {
+      "start": 461.74,
+      "end": 463.98,
+      "text": "to patch up her differences with us after all,"
+    },
+    {
+      "start": 464.06,
+      "end": 466.94,
+      "text": "besides leaving her without so violent a protector."
+    },
+    {
+      "start": 467.94,
+      "end": 468.2,
+      "text": "You see,",
+      "para_break": true
+    },
+    {
+      "start": 468.26,
+      "end": 468.48,
+      "text": "sir,"
+    },
+    {
+      "start": 468.62,
+      "end": 470.3,
+      "text": "I am being candid with you."
+    },
+    {
+      "start": 470.46,
+      "end": 470.56,
+      "text": "Yes,"
+    },
+    {
+      "start": 471.54,
+      "end": 472.32,
+      "text": "keep it up.",
+      "para_break": true
+    },
+    {
+      "start": 473.1,
+      "end": 474.46,
+      "text": "You didn't think he might have the",
+      "para_break": true
+    },
+    {
+      "start": 474.6,
+      "end": 474.8,
+      "text": "falcon?"
+    },
+    {
+      "start": 476.0,
+      "end": 478.72,
+      "text": "Gutman shook his head so that his round cheeks wobbled.",
+      "para_break": true
+    },
+    {
+      "start": 478.88,
+      "end": 480.82,
+      "text": "We didn't think that for a minute,"
+    },
+    {
+      "start": 480.98,
+      "end": 481.54,
+      "text": "he replied."
+    },
+    {
+      "start": 481.88,
+      "end": 483.72,
+      "text": "He smiled benevolently."
+    },
+    {
+      "start": 484.28,
+      "end": 487.54,
+      "text": "We had the advantage of knowing Miss O'Shaughnessy far too",
+      "para_break": true
+    },
+    {
+      "start": 487.54,
+      "end": 488.2,
+      "text": "well for that,"
+    },
+    {
+      "start": 488.34,
+      "end": 491.12,
+      "text": "and while we didn't know then that she"
+    },
+    {
+      "start": 491.12,
+      "end": 493.32,
+      "text": "had given the Falcon to Captain Jacoby in"
+    },
+    {
+      "start": 493.32,
+      "end": 495.82,
+      "text": "Hong Kong to be brought over on the Paloma"
+    },
+    {
+      "start": 496.46,
+      "end": 497.74,
+      "text": "while they took a faster boat,",
+      "para_break": true
+    },
+    {
+      "start": 498.272,
+      "end": 499.24,
+      "text": "still we didn't for a"
+    },
+    {
+      "start": 499.24,
+      "end": 500.04,
+      "text": "minute think that."
+    }
+  ]
+}

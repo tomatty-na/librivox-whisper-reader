@@ -23,15 +23,40 @@
       "text": "WHO STOLE THE TARTS?"
     },
     {
+      "start": 14.78,
+      "end": 19.2,
+      "text": " The King and Queen of Hearts were seated on their throne when they arrived, with a great",
+      "para_break": true
+    },
+    {
+      "start": 19.2,
+      "end": 23.86,
+      "text": " crowd assembled about them--all sorts of little birds and beasts, as well as the whole pack"
+    },
+    {
+      "start": 23.86,
+      "end": 24.4,
+      "text": " of cards."
+    },
+    {
+      "start": 24.82,
+      "end": 29.18,
+      "text": " The Knave was standing before them, in chains, with a soldier on each side to guard him,"
+    },
+    {
+      "start": 29.18,
+      "end": 30.96,
+      "text": " and near the King was the White"
+    },
+    {
       "start": 30.0,
       "end": 31.26,
-      "text": "king was the White Rabbit,",
-      "para_break": true
+      "text": "Rabbit,"
     },
     {
       "start": 31.66,
       "end": 34.28,
-      "text": "with a trumpet in one hand and a scroll of parchment in the"
+      "text": "with a trumpet in one hand, and a scroll of parchment in the"
     },
     {
       "start": 34.38,
@@ -46,22 +71,22 @@
     {
       "start": 37.42,
       "end": 39.24,
-      "text": "with a large dish of tarts upon it."
+      "text": "with a large dish of tarts upon it:"
     },
     {
       "start": 39.72,
       "end": 42.96,
-      "text": "They looked so good that it made Alice quite hungry to look at them."
+      "text": "they looked so good, that it made Alice quite hungry to look at them--"
     },
     {
       "start": 43.82,
       "end": 44.56,
-      "text": "I wish they'd get"
+      "text": "\"I wish they'd get"
     },
     {
       "start": 44.56,
       "end": 45.18,
-      "text": "the trial done,"
+      "text": "the trial done,\""
     },
     {
       "start": 45.36,
@@ -71,7 +96,7 @@
     {
       "start": 45.9,
       "end": 47.32,
-      "text": "and hand round the refreshments."
+      "text": "\"and hand round the refreshments!\""
     },
     {
       "start": 48.32,
@@ -86,12 +111,13 @@
     {
       "start": 50.24,
       "end": 53.1,
-      "text": "so she began looking about her to pass away the time."
+      "text": "so she began looking about her, to pass away the time."
     },
     {
       "start": 54.336,
       "end": 55.04,
-      "text": "Alice had never"
+      "text": "Alice had never",
+      "para_break": true
     },
     {
       "start": 55.14,
@@ -121,7 +147,8 @@
     {
       "start": 64.032,
       "end": 64.56,
-      "text": "That's the Judge,"
+      "text": "\"That's the judge,\"",
+      "para_break": true
     },
     {
       "start": 64.8,
@@ -131,27 +158,28 @@
     {
       "start": 65.86,
       "end": 67.34,
-      "text": "because of his great wig."
+      "text": "\"because of his great wig.\""
     },
     {
       "start": 68.35,
       "end": 69.14,
-      "text": "The Judge,"
+      "text": "The judge, by the way,",
+      "para_break": true
     },
     {
       "start": 69.34,
       "end": 69.84,
-      "text": "by the way,"
+      "text": "was the King;"
     },
     {
       "start": 69.84,
       "end": 70.4,
-      "text": "was the King,"
+      "text": "and as he wore his crown over the"
     },
     {
       "start": 70.56,
       "end": 73.52,
-      "text": "and as he wore his crown over the wig he did not"
+      "text": "wig, he did not"
     },
     {
       "start": 73.56,
@@ -166,22 +194,23 @@
     {
       "start": 77.72,
       "end": 78.78,
-      "text": "And that's the jury-box,"
+      "text": "\"And that's the jury-box,\"",
+      "para_break": true
     },
     {
       "start": 79.06,
       "end": 79.7,
-      "text": "thought Alice."
+      "text": "thought Alice,"
     },
     {
       "start": 80.3,
       "end": 80.92,
-      "text": "And those twelve"
+      "text": "\"and those twelve"
     },
     {
       "start": 81.94,
       "end": 83.36,
-      "text": "creatures—she was obliged to say creatures,"
+      "text": "creatures,\" (she was obliged to say \"creatures,\""
     },
     {
       "start": 83.68,
@@ -196,12 +225,12 @@
     {
       "start": 84.82,
       "end": 88.58,
-      "text": "them were animals and some were birds—I suppose they're the jurors,"
+      "text": "them were animals, and some were birds,) \"I suppose they are the jurors.\""
     },
     {
       "start": 88.76,
       "end": 89.54,
-      "text": "she said this"
+      "text": "She said this"
     },
     {
       "start": 89.56,
@@ -211,7 +240,7 @@
     {
       "start": 92.02,
       "end": 93.54,
-      "text": "being rather proud of it,"
+      "text": "being rather proud of it:"
     },
     {
       "start": 93.86,
@@ -236,12 +265,13 @@
     {
       "start": 100.04,
       "end": 101.82,
-      "text": "jurymen would have done just as well."
+      "text": "\"jurymen\" would have done just as well."
     },
     {
       "start": 102.66,
       "end": 105.02,
-      "text": "The twelve jurors were all writing very busily"
+      "text": "The twelve jurors were all writing very busily",
+      "para_break": true
     },
     {
       "start": 105.02,
@@ -251,87 +281,89 @@
     {
       "start": 106.94,
       "end": 107.74,
-      "text": "What are they all doing?"
+      "text": "\"What are they all doing?\""
     },
     {
       "start": 107.98,
       "end": 109.36,
-      "text": "Alice whispered to the griffin."
+      "text": "Alice whispered to the Gryphon."
     },
     {
       "start": 109.9,
       "end": 110.36,
-      "text": "They can't have"
+      "text": "\"They can't have"
     },
     {
       "start": 110.5,
       "end": 112.72,
-      "text": "anything to put down yet before the trial's begun."
+      "text": "anything to put down yet, before the trial's begun.\""
     },
     {
       "start": 113.96,
       "end": 114.86,
-      "text": "They're putting down their names,"
+      "text": "\"They're putting down their names,\"",
+      "para_break": true
     },
     {
       "start": 115.32,
       "end": 116.74,
-      "text": "the griffin whispered in reply"
+      "text": "the Gryphon whispered in reply,"
     },
     {
       "start": 117.44,
       "end": 119.64,
-      "text": "for fear they should forget them before the end of the trial"
+      "text": "\"for fear they should forget them before the end of the trial.\""
     },
     {
       "start": 121.024,
       "end": 124.18,
-      "text": "stupid things alice began in a loud indignant voice"
+      "text": "\"Stupid things!\" Alice began in a loud, indignant voice,",
+      "para_break": true
     },
     {
       "start": 124.74,
       "end": 126.56,
-      "text": "but she stopped hastily for the white"
+      "text": "but she stopped hastily, for the White"
     },
     {
       "start": 126.64,
       "end": 130.06,
-      "text": "rabbit cried out silence in the court and the"
+      "text": "Rabbit cried out \"Silence in the court!\" and the"
     },
     {
       "start": 130.06,
       "end": 132.44,
-      "text": "king put on his spectacles and looked anxiously"
+      "text": "King put on his spectacles and looked anxiously"
     },
     {
       "start": 132.56,
       "end": 136.72,
-      "text": "round to see who was talking alice could see as"
+      "text": "round, to see who was talking."
     },
     {
       "start": 136.72,
       "end": 138.54,
-      "text": "well as if she were looking over their shoulders"
+      "text": "Alice could see, as well as if she were looking over their shoulders,"
     },
     {
       "start": 138.54,
       "end": 141.02,
-      "text": "that all the jurors were writing down stupid"
+      "text": "that all the jurors were writing down \"stupid"
     },
     {
       "start": 141.02,
       "end": 143.56,
-      "text": "things on their slates and she could even make"
+      "text": "things!\" on their slates, and she could even make"
     },
     {
       "start": 143.72,
       "end": 146.2,
-      "text": "out that one of them didn't know how to spell stupid,"
+      "text": "out that one of them didn't know how to spell \"stupid,\""
     },
     {
       "start": 146.4,
       "end": 148.52,
-      "text": "and that he had to ask his neighbor to"
+      "text": "and that he had to ask his neighbour to"
     },
     {
       "start": 148.52,
@@ -341,7 +373,7 @@
     {
       "start": 149.6,
       "end": 152.26,
-      "text": "A nice muddle their slates will be in before the trial's over,"
+      "text": "\"A nice muddle their slates will be in before the trial's over!\""
     },
     {
       "start": 152.44,
@@ -367,7 +399,7 @@
     {
       "start": 158.14,
       "end": 159.28,
-      "text": "Alice could not stand,"
+      "text": "Alice could _not_ stand,"
     },
     {
       "start": 159.52,
@@ -392,7 +424,7 @@
     {
       "start": 167.76,
       "end": 169.16,
-      "text": "it was Bill the Lizard,"
+      "text": "(it was Bill, the Lizard)"
     },
     {
       "start": 169.58,
@@ -402,12 +434,12 @@
     {
       "start": 170.82,
       "end": 171.64,
-      "text": "what had become of it."
+      "text": "what had become of it;"
     },
     {
       "start": 172.14,
       "end": 174.0,
-      "text": "So after hunting all about for it,"
+      "text": "so, after hunting all about for it,"
     },
     {
       "start": 174.04,
@@ -417,7 +449,7 @@
     {
       "start": 175.98,
       "end": 176.92,
-      "text": "for the rest of the day,"
+      "text": "for the rest of the day;"
     },
     {
       "start": 177.12,
@@ -432,22 +464,24 @@
     {
       "start": 181.65,
       "end": 182.3,
-      "text": "Harold,"
+      "text": "\"Herald,",
+      "para_break": true
     },
     {
       "start": 182.52,
       "end": 183.62,
-      "text": "read the accusation,"
+      "text": "read the accusation!\""
     },
     {
       "start": 183.74,
       "end": 184.62,
-      "text": "said the king."
+      "text": "said the King."
     },
     {
       "start": 185.64,
       "end": 188.24,
-      "text": "On this the white rabbit blew three blasts on the"
+      "text": "On this the White Rabbit blew three blasts on the",
+      "para_break": true
     },
     {
       "start": 188.28,
@@ -462,12 +496,13 @@
     {
       "start": 190.46,
       "end": 191.28,
-      "text": "and read as follows."
+      "text": "and read as follows:"
     },
     {
       "start": 192.34,
       "end": 193.22,
-      "text": "The queen of hearts,"
+      "text": "\"The Queen of Hearts, she made some tarts,",
+      "para_break": true
     },
     {
       "start": 193.4,
@@ -477,12 +512,12 @@
     {
       "start": 194.0,
       "end": 195.72,
-      "text": "some tarts all on a summer day."
+      "text": "some tarts, all on a summer day:"
     },
     {
       "start": 196.38,
       "end": 197.2,
-      "text": "The knave of hearts,"
+      "text": "The Knave of Hearts,"
     },
     {
       "start": 197.32,
@@ -497,58 +532,60 @@
     {
       "start": 199.66,
       "end": 199.76,
-      "text": "away."
+      "text": "away!\""
     },
     {
       "start": 201.248,
       "end": 201.96,
-      "text": "Consider your verdict,"
+      "text": "\"Consider your verdict,\"",
+      "para_break": true
     },
     {
       "start": 202.2,
       "end": 203.56,
-      "text": "the king said to the jury."
+      "text": "the King said to the jury."
     },
     {
       "start": 204.34,
       "end": 204.54,
-      "text": "No,"
+      "text": "\"Not yet,",
+      "para_break": true
     },
     {
       "start": 204.64,
       "end": 205.16,
-      "text": "not yet,"
+      "text": "not yet!\""
     },
     {
       "start": 205.3,
       "end": 205.7,
-      "text": "not yet,"
+      "text": "the Rabbit hastily"
     },
     {
       "start": 205.9,
       "end": 206.92,
-      "text": "the rabbit hastily"
+      "text": "interrupted."
     },
     {
       "start": 207.0,
       "end": 207.44,
-      "text": "interrupted."
+      "text": "\"There's a great"
     },
     {
       "start": 207.68,
       "end": 209.7,
-      "text": "There's a great deal to come before that."
+      "text": "deal to come before that!\""
     },
     {
       "start": 211.62,
       "end": 212.14,
-      "text": "Call the witness,",
+      "text": "\"Call the first witness,\"",
       "para_break": true
     },
     {
       "start": 212.44,
       "end": 213.38,
-      "text": "said the king,"
+      "text": "said the King;"
     },
     {
       "start": 213.44,
@@ -558,22 +595,23 @@
     {
       "start": 213.92,
       "end": 216.46,
-      "text": "rabbit blew three blasts on the trumpet and called out,"
+      "text": "Rabbit blew three blasts on the trumpet, and called out,"
     },
     {
       "start": 216.54,
       "end": 217.24,
-      "text": "First witness."
+      "text": "\"First witness!\""
     },
     {
       "start": 217.66,
       "end": 219.58,
-      "text": "The first witness was the"
+      "text": "The first witness was the",
+      "para_break": true
     },
     {
       "start": 219.64,
       "end": 219.86,
-      "text": "hatter."
+      "text": "Hatter."
     },
     {
       "start": 220.48,
@@ -583,17 +621,17 @@
     {
       "start": 222.68,
       "end": 224.26,
-      "text": "a piece of bread and butter in the other."
+      "text": "a piece of bread-and-butter in the other."
     },
     {
       "start": 224.93,
       "end": 226.4,
-      "text": "I beg your pardon,"
+      "text": "\"I beg pardon,"
     },
     {
       "start": 226.52,
       "end": 226.9,
-      "text": "your majesty,"
+      "text": "your Majesty,\""
     },
     {
       "start": 227.36,
@@ -603,32 +641,34 @@
     {
       "start": 227.92,
       "end": 229.04,
-      "text": "for bringing these in,"
+      "text": "\"for bringing these in;"
     },
     {
       "start": 229.14,
       "end": 232.14,
-      "text": "but I hadn't quite finished my tea when I was sent for."
+      "text": "but I hadn't quite finished my tea when I was sent for.\""
     },
     {
       "start": 233.34,
       "end": 234.16,
-      "text": "You ought to have finished,"
+      "text": "\"You ought to have finished,\"",
+      "para_break": true
     },
     {
       "start": 234.38,
       "end": 234.88,
-      "text": "said the king."
+      "text": "said the King."
     },
     {
       "start": 235.02,
       "end": 235.84,
-      "text": "When did you begin?"
+      "text": "\"When did you begin?\""
     },
     {
       "start": 237.18,
       "end": 238.58,
-      "text": "The hatter looked at the March Hare,"
+      "text": "The Hatter looked at the March Hare,",
+      "para_break": true
     },
     {
       "start": 238.78,
@@ -638,17 +678,18 @@
     {
       "start": 240.42,
       "end": 241.86,
-      "text": "arm in arm with the Dormouse."
+      "text": "arm-in-arm with the Dormouse."
     },
     {
       "start": 243.2,
       "end": 244.24,
-      "text": "Fourteenth of March,"
+      "text": "\"Fourteenth of March,",
+      "para_break": true
     },
     {
       "start": 244.4,
       "end": 245.04,
-      "text": "I think it was,"
+      "text": "I _think_ it was,\""
     },
     {
       "start": 245.26,
@@ -658,7 +699,8 @@
     {
       "start": 246.36,
       "end": 246.88,
-      "text": "Fifteenth,"
+      "text": "\"Fifteenth,\"",
+      "para_break": true
     },
     {
       "start": 247.08,
@@ -668,7 +710,8 @@
     {
       "start": 248.62,
       "end": 249.24,
-      "text": "Sixteenth,"
+      "text": "\"Sixteenth,\"",
+      "para_break": true
     },
     {
       "start": 249.56,

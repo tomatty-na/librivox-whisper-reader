@@ -1,0 +1,668 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-02",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_02_hammett.mp3",
+  "chapter_title": "Death in the Fog",
+  "reader_name": "NLizer",
+  "page_num": 5,
+  "page_total": 6,
+  "page_start_sec": 975.02,
+  "page_end_sec": 1216.3,
+  "para_gap_threshold": 0.738,
+  "segments": [
+    {
+      "start": 975.02,
+      "end": 977.22,
+      "text": "His eyes became narrow and sultry."
+    },
+    {
+      "start": 977.4,
+      "end": 979.16,
+      "text": "His voice came out deep,"
+    },
+    {
+      "start": 979.7,
+      "end": 980.43,
+      "text": "as the lieutenant's."
+    },
+    {
+      "start": 980.82,
+      "end": 982.1,
+      "text": "I don't like this."
+    },
+    {
+      "start": 982.78,
+      "end": 984.22,
+      "text": "What are you sucking around for?"
+    },
+    {
+      "start": 984.47,
+      "end": 985.12,
+      "text": "Tell me,"
+    },
+    {
+      "start": 985.44,
+      "end": 987.14,
+      "text": "or get out and let me go to bed."
+    },
+    {
+      "start": 988.672,
+      "end": 989.7,
+      "text": "Who's Thursby?",
+      "para_break": true
+    },
+    {
+      "start": 989.88,
+      "end": 990.76,
+      "text": "Dundee demanded."
+    },
+    {
+      "start": 991.56,
+      "end": 993.8,
+      "text": "I told Tom what I knew about him.",
+      "para_break": true
+    },
+    {
+      "start": 994.14,
+      "end": 996.46,
+      "text": "You told Tom damn little."
+    },
+    {
+      "start": 996.66,
+      "end": 998.94,
+      "text": "I knew damn little."
+    },
+    {
+      "start": 999.92,
+      "end": 1001.16,
+      "text": "Why were you tailing him?",
+      "para_break": true
+    },
+    {
+      "start": 1002.272,
+      "end": 1003.38,
+      "text": "I wasn't.",
+      "para_break": true
+    },
+    {
+      "start": 1003.4,
+      "end": 1004.28,
+      "text": "Miles was."
+    },
+    {
+      "start": 1005.12,
+      "end": 1007.88,
+      "text": "For the swell reason that we had a client who was",
+      "para_break": true
+    },
+    {
+      "start": 1007.88,
+      "end": 1011.28,
+      "text": "paying good United States money to have him tailed."
+    },
+    {
+      "start": 1012.22,
+      "end": 1012.65,
+      "text": "Who's the client?",
+      "para_break": true
+    },
+    {
+      "start": 1014.08,
+      "end": 1016.44,
+      "text": "Placidity came back to Spade's face and voice.",
+      "para_break": true
+    },
+    {
+      "start": 1016.62,
+      "end": 1018.11,
+      "text": "He said reprovingly,"
+    },
+    {
+      "start": 1018.92,
+      "end": 1020.38,
+      "text": "You know I can't tell you that until",
+      "para_break": true
+    },
+    {
+      "start": 1020.38,
+      "end": 1021.76,
+      "text": "I've talked it over with the client."
+    },
+    {
+      "start": 1022.944,
+      "end": 1023.94,
+      "text": "You'll tell it to me,",
+      "para_break": true
+    },
+    {
+      "start": 1024.44,
+      "end": 1025.7,
+      "text": "or you'll tell it in court,"
+    },
+    {
+      "start": 1025.98,
+      "end": 1027.22,
+      "text": "Dundee said hotly."
+    },
+    {
+      "start": 1028.08,
+      "end": 1028.68,
+      "text": "This is murder,",
+      "para_break": true
+    },
+    {
+      "start": 1028.84,
+      "end": 1030.06,
+      "text": "and don't you forget it."
+    },
+    {
+      "start": 1030.94,
+      "end": 1031.4,
+      "text": "Maybe,",
+      "para_break": true
+    },
+    {
+      "start": 1032.0,
+      "end": 1034.04,
+      "text": "and here's something for you to not forget,"
+    },
+    {
+      "start": 1034.2,
+      "end": 1034.54,
+      "text": "sweetheart."
+    },
+    {
+      "start": 1035.44,
+      "end": 1036.04,
+      "text": "I'll tell it,",
+      "para_break": true
+    },
+    {
+      "start": 1036.04,
+      "end": 1036.64,
+      "text": "or not,"
+    },
+    {
+      "start": 1036.76,
+      "end": 1037.84,
+      "text": "as I damned please."
+    },
+    {
+      "start": 1038.74,
+      "end": 1040.14,
+      "text": "It's a long while since I burst out",
+      "para_break": true
+    },
+    {
+      "start": 1040.14,
+      "end": 1042.0,
+      "text": "crying because policemen didn't like me."
+    },
+    {
+      "start": 1042.944,
+      "end": 1045.18,
+      "text": "Tom left the sofa and sat on the foot of the bed.",
+      "para_break": true
+    },
+    {
+      "start": 1046.1,
+      "end": 1047.28,
+      "text": "His carelessly shaven,",
+      "para_break": true
+    },
+    {
+      "start": 1047.28,
+      "end": 1049.1,
+      "text": "mud-smeared face was tired and lined."
+    },
+    {
+      "start": 1049.44,
+      "end": 1050.78,
+      "text": "Be reasonable,"
+    },
+    {
+      "start": 1050.92,
+      "end": 1051.14,
+      "text": "Sam,"
+    },
+    {
+      "start": 1051.38,
+      "end": 1051.96,
+      "text": "he pleaded."
+    },
+    {
+      "start": 1052.58,
+      "end": 1053.4,
+      "text": "Give us a chance."
+    },
+    {
+      "start": 1054.36,
+      "end": 1056.4,
+      "text": "How can we turn up anything on Miles' killing",
+      "para_break": true
+    },
+    {
+      "start": 1056.84,
+      "end": 1058.46,
+      "text": "if you won't give us what you've got?"
+    },
+    {
+      "start": 1059.6,
+      "end": 1061.04,
+      "text": "You needn't get a headache over that,",
+      "para_break": true
+    },
+    {
+      "start": 1061.728,
+      "end": 1062.44,
+      "text": "Spade told him."
+    },
+    {
+      "start": 1063.04,
+      "end": 1064.02,
+      "text": "I'll bury my dead."
+    },
+    {
+      "start": 1065.28,
+      "end": 1068.02,
+      "text": "Lieutenant Dundee sat down and put his hands on his knees again.",
+      "para_break": true
+    },
+    {
+      "start": 1068.78,
+      "end": 1069.6,
+      "text": "His eyes were warm,",
+      "para_break": true
+    },
+    {
+      "start": 1069.64,
+      "end": 1070.34,
+      "text": "green discs."
+    },
+    {
+      "start": 1071.44,
+      "end": 1072.14,
+      "text": "I thought you would,",
+      "para_break": true
+    },
+    {
+      "start": 1072.42,
+      "end": 1072.8,
+      "text": "he said."
+    },
+    {
+      "start": 1073.6,
+      "end": 1074.78,
+      "text": "He smiled with grim content.",
+      "para_break": true
+    },
+    {
+      "start": 1075.84,
+      "end": 1077.68,
+      "text": "That's just exactly why we came to see you,",
+      "para_break": true
+    },
+    {
+      "start": 1077.76,
+      "end": 1078.46,
+      "text": "isn't it,"
+    },
+    {
+      "start": 1078.48,
+      "end": 1078.68,
+      "text": "Tom?"
+    },
+    {
+      "start": 1080.0,
+      "end": 1081.88,
+      "text": "\"'Tom groaned but said nothing articulate.",
+      "para_break": true
+    },
+    {
+      "start": 1083.232,
+      "end": 1084.78,
+      "text": "\"'Spade watched Dundee warily.",
+      "para_break": true
+    },
+    {
+      "start": 1086.06,
+      "end": 1088.86,
+      "text": "\"'That's just exactly what I said to Tom,' the lieutenant went on.",
+      "para_break": true
+    },
+    {
+      "start": 1089.28,
+      "end": 1089.58,
+      "text": "\"'I said,"
+    },
+    {
+      "start": 1089.6,
+      "end": 1089.9,
+      "text": "Tom,"
+    },
+    {
+      "start": 1090.3,
+      "end": 1092.48,
+      "text": "I've got a hunch that Sam Spade's a man"
+    },
+    {
+      "start": 1092.48,
+      "end": 1094.36,
+      "text": "\"'to keep the family troubles in the family."
+    },
+    {
+      "start": 1094.98,
+      "end": 1096.34,
+      "text": "\"'That's just what I said to him.'"
+    },
+    {
+      "start": 1097.34,
+      "end": 1099.1,
+      "text": "\"'The wariness went out of Spade's eyes.",
+      "para_break": true
+    },
+    {
+      "start": 1099.52,
+      "end": 1101.44,
+      "text": "\"'He made his eyes dull with boredom."
+    },
+    {
+      "start": 1102.1,
+      "end": 1105.46,
+      "text": "\"'He turned his face around to Tom and asked with great carelessness,"
+    },
+    {
+      "start": 1106.464,
+      "end": 1107.98,
+      "text": "\"'What's itching your boyfriend now?'",
+      "para_break": true
+    },
+    {
+      "start": 1109.088,
+      "end": 1110.74,
+      "text": "Dundee jumped up and tapped Spade's",
+      "para_break": true
+    },
+    {
+      "start": 1110.74,
+      "end": 1112.72,
+      "text": "chest with the ends of two bent fingers."
+    },
+    {
+      "start": 1113.8,
+      "end": 1114.48,
+      "text": "Just this,",
+      "para_break": true
+    },
+    {
+      "start": 1114.74,
+      "end": 1115.36,
+      "text": "he said,"
+    },
+    {
+      "start": 1115.7,
+      "end": 1117.84,
+      "text": "taking pains to make each word distinct,"
+    },
+    {
+      "start": 1118.688,
+      "end": 1120.86,
+      "text": "emphasizing them with his tapping finger ends.",
+      "para_break": true
+    },
+    {
+      "start": 1121.76,
+      "end": 1124.94,
+      "text": "Thursby was shot down in front of his hotel",
+      "para_break": true
+    },
+    {
+      "start": 1124.94,
+      "end": 1128.66,
+      "text": "just 35 minutes after you left Burrett Street."
+    },
+    {
+      "start": 1129.76,
+      "end": 1130.22,
+      "text": "Spade spoke,",
+      "para_break": true
+    },
+    {
+      "start": 1130.4,
+      "end": 1132.14,
+      "text": "taking equal pains with his words."
+    },
+    {
+      "start": 1132.96,
+      "end": 1136.12,
+      "text": "Keep your goddamn paws off me.",
+      "para_break": true
+    },
+    {
+      "start": 1137.11,
+      "end": 1139.14,
+      "text": "Dundee withdrew the tapping fingers,",
+      "para_break": true
+    },
+    {
+      "start": 1139.58,
+      "end": 1141.1,
+      "text": "but there was no change in his voice."
+    },
+    {
+      "start": 1142.08,
+      "end": 1144.28,
+      "text": "Tom says you were in too much of a hurry",
+      "para_break": true
+    },
+    {
+      "start": 1144.28,
+      "end": 1146.26,
+      "text": "to even stop for a look at your partner."
+    },
+    {
+      "start": 1147.52,
+      "end": 1148.84,
+      "text": "Tom growled apologetically.",
+      "para_break": true
+    },
+    {
+      "start": 1149.72,
+      "end": 1149.92,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 1150.1,
+      "end": 1150.8,
+      "text": "damn it,"
+    },
+    {
+      "start": 1150.8,
+      "end": 1151.02,
+      "text": "Sam,"
+    },
+    {
+      "start": 1151.26,
+      "end": 1153.02,
+      "text": "you did run off like that."
+    },
+    {
+      "start": 1154.1,
+      "end": 1156.32,
+      "text": "And you didn't go to Archer's house to tell his wife,",
+      "para_break": true
+    },
+    {
+      "start": 1156.54,
+      "end": 1157.44,
+      "text": "the lieutenant said."
+    },
+    {
+      "start": 1158.2,
+      "end": 1160.46,
+      "text": "We called up and that girl in your office was there,",
+      "para_break": true
+    },
+    {
+      "start": 1160.54,
+      "end": 1162.06,
+      "text": "and she said you sent her."
+    },
+    {
+      "start": 1162.976,
+      "end": 1163.82,
+      "text": "Spade nodded.",
+      "para_break": true
+    },
+    {
+      "start": 1163.84,
+      "end": 1166.08,
+      "text": "His face was stupid in its calmness."
+    },
+    {
+      "start": 1167.12,
+      "end": 1170.18,
+      "text": "Lieutenant Dundee raised his two bent fingers towards Spade's chest,",
+      "para_break": true
+    },
+    {
+      "start": 1170.36,
+      "end": 1171.36,
+      "text": "quickly lowered them and"
+    },
+    {
+      "start": 1171.36,
+      "end": 1171.64,
+      "text": "said,"
+    },
+    {
+      "start": 1171.78,
+      "end": 1174.2,
+      "text": "I give you ten minutes to get to a phone"
+    },
+    {
+      "start": 1174.88,
+      "end": 1176.2,
+      "text": "and do your talking to the girl."
+    },
+    {
+      "start": 1176.48,
+      "end": 1177.44,
+      "text": "I give you ten"
+    },
+    {
+      "start": 1177.52,
+      "end": 1178.94,
+      "text": "minutes to get to Thursby's Joint,"
+    },
+    {
+      "start": 1179.14,
+      "end": 1179.62,
+      "text": "Gary,"
+    },
+    {
+      "start": 1179.78,
+      "end": 1180.52,
+      "text": "near Leavenworth."
+    },
+    {
+      "start": 1181.0,
+      "end": 1182.86,
+      "text": "You could do it easy in that time,"
+    },
+    {
+      "start": 1183.14,
+      "end": 1184.4,
+      "text": "or fifteen at the most,"
+    },
+    {
+      "start": 1184.8,
+      "end": 1186.02,
+      "text": "and that gives you ten or fifteen"
+    },
+    {
+      "start": 1186.02,
+      "end": 1187.96,
+      "text": "minutes of waiting before he showed up."
+    },
+    {
+      "start": 1188.62,
+      "end": 1189.9,
+      "text": "I knew where he lived,"
+    },
+    {
+      "start": 1190.1,
+      "end": 1191.0,
+      "text": "Spade asked,"
+    },
+    {
+      "start": 1191.7,
+      "end": 1193.98,
+      "text": "and I knew he hadn't gone straight home from killing Miles."
+    },
+    {
+      "start": 1194.85,
+      "end": 1196.46,
+      "text": "You knew what you knew,",
+      "para_break": true
+    },
+    {
+      "start": 1196.66,
+      "end": 1197.98,
+      "text": "Dundee replied stubbornly."
+    },
+    {
+      "start": 1198.64,
+      "end": 1200.04,
+      "text": "What time did you get home?"
+    },
+    {
+      "start": 1201.24,
+      "end": 1202.18,
+      "text": "Twenty minutes to four.",
+      "para_break": true
+    },
+    {
+      "start": 1202.58,
+      "end": 1204.16,
+      "text": "I walked around thinking things over."
+    },
+    {
+      "start": 1205.22,
+      "end": 1207.44,
+      "text": "The lieutenant wagged his round head up and down.",
+      "para_break": true
+    },
+    {
+      "start": 1208.42,
+      "end": 1209.86,
+      "text": "We knew you weren't home at 3.30.",
+      "para_break": true
+    },
+    {
+      "start": 1210.56,
+      "end": 1211.78,
+      "text": "We tried to get you on the phone."
+    },
+    {
+      "start": 1212.736,
+      "end": 1213.78,
+      "text": "Where'd you do your walking?",
+      "para_break": true
+    },
+    {
+      "start": 1214.68,
+      "end": 1215.34,
+      "text": "Out Bush Street,",
+      "para_break": true
+    },
+    {
+      "start": 1215.52,
+      "end": 1216.3,
+      "text": "away and back."
+    }
+  ]
+}

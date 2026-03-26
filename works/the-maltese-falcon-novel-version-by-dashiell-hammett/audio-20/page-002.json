@@ -1,0 +1,704 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-20",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_20_hammett.mp3",
+  "chapter_title": "If They Hang You",
+  "reader_name": "NLizer",
+  "page_num": 2,
+  "page_total": 6,
+  "page_start_sec": 242.5,
+  "page_end_sec": 491.82,
+  "para_gap_threshold": 0.529,
+  "segments": [
+    {
+      "start": 242.5,
+      "end": 243.34,
+      "text": "Right."
+    },
+    {
+      "start": 243.92,
+      "end": 246.06,
+      "text": "Now you and Thursby are in Hong Kong with the bird?",
+      "para_break": true
+    },
+    {
+      "start": 246.26,
+      "end": 246.36,
+      "text": "Yes."
+    },
+    {
+      "start": 247.3,
+      "end": 250.1,
+      "text": "and then I didn't know him very well.",
+      "para_break": true
+    },
+    {
+      "start": 250.29,
+      "end": 252.48,
+      "text": "I didn't know whether I could trust him."
+    },
+    {
+      "start": 252.94,
+      "end": 253.88,
+      "text": "I thought it would"
+    },
+    {
+      "start": 253.88,
+      "end": 255.34,
+      "text": "be safer anyway."
+    },
+    {
+      "start": 256.1,
+      "end": 258.76,
+      "text": "I met Captain Jacoby and I knew his boat",
+      "para_break": true
+    },
+    {
+      "start": 258.76,
+      "end": 261.08,
+      "text": "was coming here so I asked him to bring"
+    },
+    {
+      "start": 261.08,
+      "end": 263.38,
+      "text": "a package for me and that was the bird."
+    },
+    {
+      "start": 263.91,
+      "end": 268.16,
+      "text": "I wasn't sure I could trust Thursby or that Joe or or",
+      "para_break": true
+    },
+    {
+      "start": 268.66,
+      "end": 270.8,
+      "text": "somebody working for Gutman might not be on the"
+    },
+    {
+      "start": 270.8,
+      "end": 273.62,
+      "text": "boat we came on and that seemed the safest plan."
+    },
+    {
+      "start": 274.25,
+      "end": 275.18,
+      "text": "All right.",
+      "para_break": true
+    },
+    {
+      "start": 275.9,
+      "end": 278.3,
+      "text": "Then you and Thursby caught one of the fast boats over?",
+      "para_break": true
+    },
+    {
+      "start": 278.46,
+      "end": 279.0,
+      "text": "Then what?"
+    },
+    {
+      "start": 279.96,
+      "end": 280.34,
+      "text": "Then,",
+      "para_break": true
+    },
+    {
+      "start": 280.34,
+      "end": 282.76,
+      "text": "then I was afraid of Gutman."
+    },
+    {
+      "start": 282.94,
+      "end": 284.54,
+      "text": "I knew he had people,"
+    },
+    {
+      "start": 284.72,
+      "end": 285.38,
+      "text": "connections,"
+    },
+    {
+      "start": 285.6,
+      "end": 286.14,
+      "text": "everywhere,"
+    },
+    {
+      "start": 287.04,
+      "end": 287.58,
+      "text": "and he'd soon",
+      "para_break": true
+    },
+    {
+      "start": 287.7,
+      "end": 288.84,
+      "text": "know what we had done."
+    },
+    {
+      "start": 289.6,
+      "end": 292.98,
+      "text": "And I was afraid he'd have learned that we had left Hong Kong for San",
+      "para_break": true
+    },
+    {
+      "start": 293.12,
+      "end": 293.56,
+      "text": "Francisco."
+    },
+    {
+      "start": 294.28,
+      "end": 295.6,
+      "text": "He was in New York,",
+      "para_break": true
+    },
+    {
+      "start": 295.7,
+      "end": 298.1,
+      "text": "and I knew if he had heard that by cable,"
+    },
+    {
+      "start": 298.22,
+      "end": 299.42,
+      "text": "he would have plenty of"
+    },
+    {
+      "start": 299.58,
+      "end": 301.8,
+      "text": "time to get here by the time we did or before."
+    },
+    {
+      "start": 302.78,
+      "end": 303.14,
+      "text": "He did.",
+      "para_break": true
+    },
+    {
+      "start": 303.77,
+      "end": 305.38,
+      "text": "I didn't know that then,",
+      "para_break": true
+    },
+    {
+      "start": 305.96,
+      "end": 306.8,
+      "text": "but I was afraid of",
+      "para_break": true
+    },
+    {
+      "start": 306.8,
+      "end": 306.96,
+      "text": "it,"
+    },
+    {
+      "start": 307.04,
+      "end": 310.06,
+      "text": "and I had to wait here until Captain Jacoby's boat arrived,"
+    },
+    {
+      "start": 310.26,
+      "end": 312.48,
+      "text": "and I was afraid Gutman would find"
+    },
+    {
+      "start": 312.56,
+      "end": 314.56,
+      "text": "me or find Floyd and buy him over."
+    },
+    {
+      "start": 315.456,
+      "end": 317.96,
+      "text": "That's why I came to you and asked you to watch him for...",
+      "para_break": true
+    },
+    {
+      "start": 318.816,
+      "end": 319.5,
+      "text": "That's a lie,",
+      "para_break": true
+    },
+    {
+      "start": 319.84,
+      "end": 320.56,
+      "text": "Spade said."
+    },
+    {
+      "start": 321.12,
+      "end": 322.16,
+      "text": "You had Thursby hooked,",
+      "para_break": true
+    },
+    {
+      "start": 322.26,
+      "end": 323.14,
+      "text": "and you knew it."
+    },
+    {
+      "start": 323.28,
+      "end": 324.78,
+      "text": "He was a sucker for women."
+    },
+    {
+      "start": 325.14,
+      "end": 329.58,
+      "text": "His record shows that the only falls he took were over women."
+    },
+    {
+      "start": 330.18,
+      "end": 331.12,
+      "text": "And once a chump,",
+      "para_break": true
+    },
+    {
+      "start": 331.24,
+      "end": 332.38,
+      "text": "always a chump."
+    },
+    {
+      "start": 333.12,
+      "end": 334.42,
+      "text": "Maybe you didn't know his record,",
+      "para_break": true
+    },
+    {
+      "start": 334.8,
+      "end": 336.38,
+      "text": "but you'd know you had him safe."
+    },
+    {
+      "start": 337.44,
+      "end": 339.26,
+      "text": "She blushed and looked timidly at him.",
+      "para_break": true
+    },
+    {
+      "start": 340.06,
+      "end": 340.48,
+      "text": "He said,",
+      "para_break": true
+    },
+    {
+      "start": 340.75,
+      "end": 342.5,
+      "text": "you wanted to get him out of the way"
+    },
+    {
+      "start": 342.5,
+      "end": 344.0,
+      "text": "before Jacoby came with the loot."
+    },
+    {
+      "start": 344.92,
+      "end": 345.8,
+      "text": "What was your scheme?",
+      "para_break": true
+    },
+    {
+      "start": 347.04,
+      "end": 351.06,
+      "text": "I knew he'd left the States with a gambler after some trouble.",
+      "para_break": true
+    },
+    {
+      "start": 351.9,
+      "end": 353.1,
+      "text": "I didn't know what it was,",
+      "para_break": true
+    },
+    {
+      "start": 353.16,
+      "end": 356.68,
+      "text": "but I thought that if it was anything serious and he saw a detective"
+    },
+    {
+      "start": 356.92,
+      "end": 357.44,
+      "text": "watching him,"
+    },
+    {
+      "start": 357.6,
+      "end": 359.46,
+      "text": "he'd think it was on account of the old"
+    },
+    {
+      "start": 359.46,
+      "end": 361.36,
+      "text": "trouble and would be frightened into going"
+    },
+    {
+      "start": 361.52,
+      "end": 361.72,
+      "text": "away."
+    },
+    {
+      "start": 362.08,
+      "end": 363.32,
+      "text": "I didn't think."
+    },
+    {
+      "start": 363.81,
+      "end": 366.23,
+      "text": "You told him he was being shadowed,"
+    },
+    {
+      "start": 366.38,
+      "end": 367.48,
+      "text": "Spade said confidently."
+    },
+    {
+      "start": 368.32,
+      "end": 368.92,
+      "text": "Miles hadn't",
+      "para_break": true
+    },
+    {
+      "start": 368.96,
+      "end": 369.56,
+      "text": "many brains,"
+    },
+    {
+      "start": 369.7,
+      "end": 372.46,
+      "text": "but he wasn't clumsy enough to be spotted the first night."
+    },
+    {
+      "start": 373.52,
+      "end": 374.6,
+      "text": "I told him yes.",
+      "para_break": true
+    },
+    {
+      "start": 375.8,
+      "end": 376.06,
+      "text": "When we",
+      "para_break": true
+    },
+    {
+      "start": 376.12,
+      "end": 377.4,
+      "text": "went out for a walk that night,"
+    },
+    {
+      "start": 377.46,
+      "end": 378.98,
+      "text": "I pretended to discover Mr."
+    },
+    {
+      "start": 379.02,
+      "end": 380.56,
+      "text": "Archer following us and pointed him"
+    },
+    {
+      "start": 380.74,
+      "end": 381.28,
+      "text": "out to Floyd."
+    },
+    {
+      "start": 382.1,
+      "end": 382.94,
+      "text": "She sobbed.",
+      "para_break": true
+    },
+    {
+      "start": 383.86,
+      "end": 384.72,
+      "text": "But please believe,",
+      "para_break": true
+    },
+    {
+      "start": 384.92,
+      "end": 385.16,
+      "text": "Sam,"
+    },
+    {
+      "start": 385.78,
+      "end": 387.68,
+      "text": "that I wouldn't have done it if I had thought",
+      "para_break": true
+    },
+    {
+      "start": 387.8,
+      "end": 388.8,
+      "text": "Floyd would kill him."
+    },
+    {
+      "start": 389.34,
+      "end": 391.52,
+      "text": "I thought he'd be frightened into leaving this city.",
+      "para_break": true
+    },
+    {
+      "start": 392.1,
+      "end": 392.92,
+      "text": "I didn't for a minute",
+      "para_break": true
+    },
+    {
+      "start": 393.0,
+      "end": 394.34,
+      "text": "think he'd shoot him like that."
+    },
+    {
+      "start": 395.2,
+      "end": 397.34,
+      "text": "Spade smiled wolfishly with his lips,",
+      "para_break": true
+    },
+    {
+      "start": 397.42,
+      "end": 398.5,
+      "text": "but not at all with his"
+    },
+    {
+      "start": 398.58,
+      "end": 398.78,
+      "text": "eyes."
+    },
+    {
+      "start": 399.04,
+      "end": 399.66,
+      "text": "He said,"
+    },
+    {
+      "start": 400.3,
+      "end": 401.51,
+      "text": "if you thought he wouldn't,",
+      "para_break": true
+    },
+    {
+      "start": 401.52,
+      "end": 402.28,
+      "text": "you were right,"
+    },
+    {
+      "start": 402.44,
+      "end": 402.74,
+      "text": "Angel."
+    },
+    {
+      "start": 402.96,
+      "end": 405.056,
+      "text": "The girl's upraised face held"
+    },
+    {
+      "start": 405.52,
+      "end": 406.4,
+      "text": "utter astonishment."
+    },
+    {
+      "start": 407.104,
+      "end": 407.62,
+      "text": "Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 407.8,
+      "end": 409.5,
+      "text": "Thursby didn't shoot him."
+    },
+    {
+      "start": 410.56,
+      "end": 413.06,
+      "text": "Incredulity joined astonishment in",
+      "para_break": true
+    },
+    {
+      "start": 413.06,
+      "end": 413.8,
+      "text": "the girl's face."
+    },
+    {
+      "start": 414.816,
+      "end": 415.32,
+      "text": "Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 415.52,
+      "end": 417.28,
+      "text": "Miles hadn't many brains,"
+    },
+    {
+      "start": 417.32,
+      "end": 418.0,
+      "text": "but Christ,"
+    },
+    {
+      "start": 418.68,
+      "end": 420.0,
+      "text": "he had too many years experience",
+      "para_break": true
+    },
+    {
+      "start": 420.36,
+      "end": 424.41,
+      "text": "as a detective to be caught like that by the man he was shadowing."
+    },
+    {
+      "start": 424.57,
+      "end": 426.54,
+      "text": "Up a blind alley with his gun"
+    },
+    {
+      "start": 426.66,
+      "end": 429.3,
+      "text": "tucked away on his hip and his overcoat buttoned?"
+    },
+    {
+      "start": 429.3,
+      "end": 430.44,
+      "text": "Not a chance."
+    },
+    {
+      "start": 431.48,
+      "end": 433.14,
+      "text": "He was as dumb as any man ought to",
+      "para_break": true
+    },
+    {
+      "start": 433.24,
+      "end": 433.4,
+      "text": "be,"
+    },
+    {
+      "start": 433.4,
+      "end": 435.08,
+      "text": "but he wasn't quite that dumb."
+    },
+    {
+      "start": 436.0,
+      "end": 438.58,
+      "text": "The only two ways out of the alley could be watched from the",
+      "para_break": true
+    },
+    {
+      "start": 438.58,
+      "end": 440.26,
+      "text": "edge of Bush Street over the tunnel."
+    },
+    {
+      "start": 441.02,
+      "end": 443.0,
+      "text": "You told us Thursby was a bad actor.",
+      "para_break": true
+    },
+    {
+      "start": 443.3,
+      "end": 444.58,
+      "text": "He couldn't have tricked"
+    },
+    {
+      "start": 444.72,
+      "end": 446.24,
+      "text": "Miles into the alley like that,"
+    },
+    {
+      "start": 446.34,
+      "end": 448.0,
+      "text": "and he couldn't have driven him in."
+    },
+    {
+      "start": 448.18,
+      "end": 449.36,
+      "text": "He was dumb,"
+    },
+    {
+      "start": 449.4,
+      "end": 450.08,
+      "text": "but not dumb"
+    },
+    {
+      "start": 450.18,
+      "end": 450.74,
+      "text": "enough for that."
+    },
+    {
+      "start": 451.26,
+      "end": 453.58,
+      "text": "He ran his tongue over the inside of his"
+    },
+    {
+      "start": 453.58,
+      "end": 455.92,
+      "text": "lips and smiled affectionately at the girl."
+    },
+    {
+      "start": 456.56,
+      "end": 457.06,
+      "text": "He said,",
+      "para_break": true
+    },
+    {
+      "start": 457.33,
+      "end": 459.0,
+      "text": "but he'd have gone up there with you,"
+    },
+    {
+      "start": 459.1,
+      "end": 459.38,
+      "text": "Angel,"
+    },
+    {
+      "start": 459.6,
+      "end": 461.74,
+      "text": "if he was sure nobody else was up there."
+    },
+    {
+      "start": 462.62,
+      "end": 465.12,
+      "text": "you were his client so he would have had no",
+      "para_break": true
+    },
+    {
+      "start": 465.12,
+      "end": 467.84,
+      "text": "reason for not dropping the shadow on your say-so"
+    },
+    {
+      "start": 468.36,
+      "end": 470.36,
+      "text": "and if you caught up with him and asked him to go"
+    },
+    {
+      "start": 470.36,
+      "end": 473.54,
+      "text": "up there he'd have gone he was just dumb enough"
+    },
+    {
+      "start": 473.54,
+      "end": 476.3,
+      "text": "for that he'd have looked you up and down and"
+    },
+    {
+      "start": 476.3,
+      "end": 478.88,
+      "text": "licked his lips and gone grinning from ear to ear"
+    },
+    {
+      "start": 479.44,
+      "end": 481.58,
+      "text": "and then you could have stood as close to him as",
+      "para_break": true
+    },
+    {
+      "start": 481.58,
+      "end": 483.96,
+      "text": "you liked in the dark and put a hole through him"
+    },
+    {
+      "start": 483.96,
+      "end": 486.44,
+      "text": "with the gun you had got from thursby that evening"
+    },
+    {
+      "start": 486.82,
+      "end": 490.2,
+      "text": "bridget o'shaughnessy shrank back from him until"
+    },
+    {
+      "start": 490.34,
+      "end": 491.82,
+      "text": "the edge of the table stopped her."
+    }
+  ]
+}

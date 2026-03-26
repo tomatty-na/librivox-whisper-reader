@@ -1,0 +1,744 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-04",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_04_hammett.mp3",
+  "chapter_title": "The Black Bird",
+  "reader_name": "NLizer",
+  "page_num": 4,
+  "page_total": 7,
+  "page_start_sec": 734.12,
+  "page_end_sec": 976.96,
+  "para_gap_threshold": 0.657,
+  "segments": [
+    {
+      "start": 734.12,
+      "end": 734.82,
+      "text": "Why all the guns?",
+      "para_break": true
+    },
+    {
+      "start": 735.6,
+      "end": 736.9,
+      "text": "He lived by them.",
+      "para_break": true
+    },
+    {
+      "start": 737.66,
+      "end": 739.0,
+      "text": "There was a story in Hong Kong",
+      "para_break": true
+    },
+    {
+      "start": 739.56,
+      "end": 741.42,
+      "text": "that he had come out there to the Orient"
+    },
+    {
+      "start": 741.78,
+      "end": 745.5,
+      "text": "as bodyguard to a gambler who had had to leave the States,"
+    },
+    {
+      "start": 746.58,
+      "end": 747.62,
+      "text": "and that the gambler had since",
+      "para_break": true
+    },
+    {
+      "start": 747.7,
+      "end": 748.08,
+      "text": "disappeared."
+    },
+    {
+      "start": 748.79,
+      "end": 751.44,
+      "text": "They said Floyd knew about his disappearing.",
+      "para_break": true
+    },
+    {
+      "start": 752.46,
+      "end": 752.92,
+      "text": "I don't know.",
+      "para_break": true
+    },
+    {
+      "start": 753.54,
+      "end": 754.64,
+      "text": "I do know that he"
+    },
+    {
+      "start": 754.7,
+      "end": 756.06,
+      "text": "always went heavily armed,"
+    },
+    {
+      "start": 756.22,
+      "end": 758.52,
+      "text": "and that he never went to sleep without"
+    },
+    {
+      "start": 758.52,
+      "end": 760.1,
+      "text": "covering the floor around his bed"
+    },
+    {
+      "start": 760.1,
+      "end": 761.04,
+      "text": "with crumpled newspaper,"
+    },
+    {
+      "start": 762.04,
+      "end": 764.3,
+      "text": "so nobody could come silently into his room.",
+      "para_break": true
+    },
+    {
+      "start": 765.31,
+      "end": 766.5,
+      "text": "You picked a nice sort",
+      "para_break": true
+    },
+    {
+      "start": 766.64,
+      "end": 767.12,
+      "text": "of playmate."
+    },
+    {
+      "start": 768.36,
+      "end": 769.84,
+      "text": "Only that sort could have helped me,",
+      "para_break": true
+    },
+    {
+      "start": 769.98,
+      "end": 770.8,
+      "text": "she said simply,"
+    },
+    {
+      "start": 771.15,
+      "end": 772.36,
+      "text": "if he had been loyal."
+    },
+    {
+      "start": 772.7,
+      "end": 772.8,
+      "text": "Yes,"
+    },
+    {
+      "start": 773.86,
+      "end": 774.24,
+      "text": "if.",
+      "para_break": true
+    },
+    {
+      "start": 775.328,
+      "end": 777.3,
+      "text": "Spade pinched his lower lip between finger",
+      "para_break": true
+    },
+    {
+      "start": 777.3,
+      "end": 779.56,
+      "text": "and thumb and looked gloomily at her."
+    },
+    {
+      "start": 780.74,
+      "end": 781.06,
+      "text": "The vertical",
+      "para_break": true
+    },
+    {
+      "start": 781.14,
+      "end": 782.7,
+      "text": "creases over his nose deepened,"
+    },
+    {
+      "start": 782.7,
+      "end": 783.86,
+      "text": "drawing his brows together."
+    },
+    {
+      "start": 785.16,
+      "end": 786.7,
+      "text": "How about a hole are you actually in?",
+      "para_break": true
+    },
+    {
+      "start": 787.92,
+      "end": 788.3,
+      "text": "As bad,",
+      "para_break": true
+    },
+    {
+      "start": 788.54,
+      "end": 789.06,
+      "text": "she said,"
+    },
+    {
+      "start": 789.2,
+      "end": 790.34,
+      "text": "as could be."
+    },
+    {
+      "start": 791.552,
+      "end": 792.18,
+      "text": "Physical danger?",
+      "para_break": true
+    },
+    {
+      "start": 793.44,
+      "end": 794.06,
+      "text": "I'm not heroic.",
+      "para_break": true
+    },
+    {
+      "start": 794.4,
+      "end": 795.54,
+      "text": "I don't think there's anything"
+    },
+    {
+      "start": 795.82,
+      "end": 796.52,
+      "text": "worse than death."
+    },
+    {
+      "start": 797.74,
+      "end": 798.24,
+      "text": "Then it's that?",
+      "para_break": true
+    },
+    {
+      "start": 800.096,
+      "end": 800.54,
+      "text": "It's that,",
+      "para_break": true
+    },
+    {
+      "start": 800.54,
+      "end": 801.96,
+      "text": "as surely as we're sitting here,"
+    },
+    {
+      "start": 802.1,
+      "end": 802.86,
+      "text": "she shivered,"
+    },
+    {
+      "start": 802.86,
+      "end": 803.72,
+      "text": "unless you help me."
+    },
+    {
+      "start": 804.61,
+      "end": 806.36,
+      "text": "He took his fingers away from his",
+      "para_break": true
+    },
+    {
+      "start": 806.36,
+      "end": 808.04,
+      "text": "mouth and ran them through his hair."
+    },
+    {
+      "start": 809.26,
+      "end": 809.84,
+      "text": "I'm not Christ,",
+      "para_break": true
+    },
+    {
+      "start": 810.0,
+      "end": 810.72,
+      "text": "he said irritably."
+    },
+    {
+      "start": 811.38,
+      "end": 813.3,
+      "text": "I can't work miracles out of thin air.",
+      "para_break": true
+    },
+    {
+      "start": 814.44,
+      "end": 815.32,
+      "text": "He looked at his watch.",
+      "para_break": true
+    },
+    {
+      "start": 816.14,
+      "end": 817.1,
+      "text": "The day's going,",
+      "para_break": true
+    },
+    {
+      "start": 817.24,
+      "end": 819.16,
+      "text": "and you're giving me nothing to work with."
+    },
+    {
+      "start": 819.32,
+      "end": 820.54,
+      "text": "Who killed Thursby?"
+    },
+    {
+      "start": 821.92,
+      "end": 822.56,
+      "text": "She put a crumpled",
+      "para_break": true
+    },
+    {
+      "start": 822.82,
+      "end": 824.18,
+      "text": "handkerchief to her mouth and said,"
+    },
+    {
+      "start": 824.32,
+      "end": 825.4,
+      "text": "I don't know,"
+    },
+    {
+      "start": 825.56,
+      "end": 826.12,
+      "text": "through it."
+    },
+    {
+      "start": 827.64,
+      "end": 828.56,
+      "text": "Your enemies are his.",
+      "para_break": true
+    },
+    {
+      "start": 829.76,
+      "end": 830.34,
+      "text": "I don't know,",
+      "para_break": true
+    },
+    {
+      "start": 830.76,
+      "end": 831.52,
+      "text": "his I hope,"
+    },
+    {
+      "start": 832.08,
+      "end": 832.66,
+      "text": "but I'm afraid."
+    },
+    {
+      "start": 832.86,
+      "end": 834.0,
+      "text": "I don't know."
+    },
+    {
+      "start": 835.34,
+      "end": 836.9,
+      "text": "How was he supposed to be helping you?",
+      "para_break": true
+    },
+    {
+      "start": 837.7,
+      "end": 838.28,
+      "text": "Why did you bring",
+      "para_break": true
+    },
+    {
+      "start": 838.28,
+      "end": 839.38,
+      "text": "him here from Hong Kong?"
+    },
+    {
+      "start": 840.64,
+      "end": 843.44,
+      "text": "She looked at him with frightened eyes and shook her head in silence.",
+      "para_break": true
+    },
+    {
+      "start": 844.1,
+      "end": 846.34,
+      "text": "Her face was haggard and pitifully stubborn.",
+      "para_break": true
+    },
+    {
+      "start": 847.808,
+      "end": 848.54,
+      "text": "Spade stood up,",
+      "para_break": true
+    },
+    {
+      "start": 849.1,
+      "end": 850.74,
+      "text": "thrust his hands into the pockets of his"
+    },
+    {
+      "start": 850.88,
+      "end": 852.36,
+      "text": "jacket and scowled down at her."
+    },
+    {
+      "start": 852.58,
+      "end": 853.82,
+      "text": "This is hopeless,"
+    },
+    {
+      "start": 854.16,
+      "end": 855.5,
+      "text": "he said savagely."
+    },
+    {
+      "start": 855.62,
+      "end": 857.66,
+      "text": "I can't do anything for you."
+    },
+    {
+      "start": 857.94,
+      "end": 859.54,
+      "text": "I don't know what you want done."
+    },
+    {
+      "start": 859.78,
+      "end": 862.16,
+      "text": "I don't even know if you know what you want."
+    },
+    {
+      "start": 863.46,
+      "end": 864.78,
+      "text": "She hung her head and wept.",
+      "para_break": true
+    },
+    {
+      "start": 865.14,
+      "end": 869.26,
+      "text": "He made a growling animal noise in his throat and went to the table"
+    },
+    {
+      "start": 869.26,
+      "end": 870.0,
+      "text": "for his hat."
+    },
+    {
+      "start": 871.28,
+      "end": 871.82,
+      "text": "You won't,",
+      "para_break": true
+    },
+    {
+      "start": 871.82,
+      "end": 873.42,
+      "text": "she begged in a small,"
+    },
+    {
+      "start": 873.56,
+      "end": 874.2,
+      "text": "choked voice,"
+    },
+    {
+      "start": 874.38,
+      "end": 875.4,
+      "text": "not looking up."
+    },
+    {
+      "start": 875.73,
+      "end": 877.06,
+      "text": "Go to the police?"
+    },
+    {
+      "start": 877.91,
+      "end": 878.88,
+      "text": "Go to them,",
+      "para_break": true
+    },
+    {
+      "start": 879.02,
+      "end": 879.78,
+      "text": "he exclaimed,"
+    },
+    {
+      "start": 880.26,
+      "end": 881.46,
+      "text": "his voice loud with rage."
+    },
+    {
+      "start": 882.2,
+      "end": 884.84,
+      "text": "They've been running me ragged since four o'clock this morning.",
+      "para_break": true
+    },
+    {
+      "start": 885.68,
+      "end": 888.7,
+      "text": "I've made myself God knows how much trouble standing them off.",
+      "para_break": true
+    },
+    {
+      "start": 889.08,
+      "end": 889.58,
+      "text": "For what?"
+    },
+    {
+      "start": 890.14,
+      "end": 892.62,
+      "text": "For some crazy notion that I could help you?"
+    },
+    {
+      "start": 893.4,
+      "end": 893.94,
+      "text": "I can't.",
+      "para_break": true
+    },
+    {
+      "start": 894.24,
+      "end": 894.92,
+      "text": "I won't try."
+    },
+    {
+      "start": 895.84,
+      "end": 898.06,
+      "text": "He put his hat on his head and pulled it down tight.",
+      "para_break": true
+    },
+    {
+      "start": 898.88,
+      "end": 899.38,
+      "text": "Go to them?",
+      "para_break": true
+    },
+    {
+      "start": 900.3,
+      "end": 901.78,
+      "text": "All I've got to do is stand still",
+      "para_break": true
+    },
+    {
+      "start": 901.78,
+      "end": 903.84,
+      "text": "and they'll be swarming all over me."
+    },
+    {
+      "start": 903.98,
+      "end": 904.08,
+      "text": "Well,"
+    },
+    {
+      "start": 904.82,
+      "end": 906.26,
+      "text": "I'll tell them what I know,",
+      "para_break": true
+    },
+    {
+      "start": 906.38,
+      "end": 907.92,
+      "text": "and you'll have to take your chances."
+    },
+    {
+      "start": 909.04,
+      "end": 911.8,
+      "text": "She rose from the settee and held herself straight in front of him,",
+      "para_break": true
+    },
+    {
+      "start": 912.08,
+      "end": 913.64,
+      "text": "though her knees were trembling."
+    },
+    {
+      "start": 914.7,
+      "end": 915.56,
+      "text": "And she held her white,",
+      "para_break": true
+    },
+    {
+      "start": 915.66,
+      "end": 917.2,
+      "text": "panic-stricken face up high,"
+    },
+    {
+      "start": 917.66,
+      "end": 919.06,
+      "text": "though she couldn't hold the twitching"
+    },
+    {
+      "start": 919.06,
+      "end": 920.64,
+      "text": "muscles of mouth and chin still."
+    },
+    {
+      "start": 921.52,
+      "end": 921.88,
+      "text": "She said,",
+      "para_break": true
+    },
+    {
+      "start": 922.66,
+      "end": 923.36,
+      "text": "You've been patient.",
+      "para_break": true
+    },
+    {
+      "start": 923.62,
+      "end": 924.96,
+      "text": "You've tried to help me."
+    },
+    {
+      "start": 925.64,
+      "end": 926.9,
+      "text": "It is hopeless and useless,",
+      "para_break": true
+    },
+    {
+      "start": 927.06,
+      "end": 927.48,
+      "text": "I suppose."
+    },
+    {
+      "start": 928.56,
+      "end": 929.98,
+      "text": "She stretched out her right hand.",
+      "para_break": true
+    },
+    {
+      "start": 930.8,
+      "end": 932.12,
+      "text": "I thank you for what you have done.",
+      "para_break": true
+    },
+    {
+      "start": 933.24,
+      "end": 933.4,
+      "text": "I...",
+      "para_break": true
+    },
+    {
+      "start": 933.4,
+      "end": 935.12,
+      "text": "I'll have to take my chances."
+    },
+    {
+      "start": 936.416,
+      "end": 938.26,
+      "text": "Spade made the growling animal noise in his",
+      "para_break": true
+    },
+    {
+      "start": 938.26,
+      "end": 940.14,
+      "text": "throat again and sat down on the settee."
+    },
+    {
+      "start": 940.72,
+      "end": 942.3,
+      "text": "How much money have you got?"
+    },
+    {
+      "start": 942.42,
+      "end": 943.0,
+      "text": "he asked."
+    },
+    {
+      "start": 943.84,
+      "end": 944.96,
+      "text": "The question startled her.",
+      "para_break": true
+    },
+    {
+      "start": 945.82,
+      "end": 947.3,
+      "text": "Then she pinched her lower lip between",
+      "para_break": true
+    },
+    {
+      "start": 947.3,
+      "end": 948.9,
+      "text": "her teeth and answered reluctantly,"
+    },
+    {
+      "start": 949.9,
+      "end": 951.32,
+      "text": "I've about $500 left.",
+      "para_break": true
+    },
+    {
+      "start": 952.54,
+      "end": 953.12,
+      "text": "Give it to me.",
+      "para_break": true
+    },
+    {
+      "start": 954.18,
+      "end": 954.84,
+      "text": "She hesitated,",
+      "para_break": true
+    },
+    {
+      "start": 954.88,
+      "end": 956.18,
+      "text": "looking timidly at him."
+    },
+    {
+      "start": 956.86,
+      "end": 958.72,
+      "text": "He made angry gestures with mouth,",
+      "para_break": true
+    },
+    {
+      "start": 958.88,
+      "end": 959.32,
+      "text": "eyebrows,"
+    },
+    {
+      "start": 959.42,
+      "end": 959.68,
+      "text": "hands,"
+    },
+    {
+      "start": 959.76,
+      "end": 960.18,
+      "text": "and shoulders."
+    },
+    {
+      "start": 960.7,
+      "end": 962.42,
+      "text": "She went into her bedroom,"
+    },
+    {
+      "start": 962.66,
+      "end": 966.1,
+      "text": "returning almost immediately with a sheaf of paper money in one hand."
+    },
+    {
+      "start": 966.62,
+      "end": 968.14,
+      "text": "He took the money from her,"
+    },
+    {
+      "start": 968.24,
+      "end": 968.82,
+      "text": "counted it,"
+    },
+    {
+      "start": 968.86,
+      "end": 969.2,
+      "text": "and said,"
+    },
+    {
+      "start": 970.08,
+      "end": 971.1,
+      "text": "There's only 400 here.",
+      "para_break": true
+    },
+    {
+      "start": 972.26,
+      "end": 973.84,
+      "text": "I had to keep some to live on,",
+      "para_break": true
+    },
+    {
+      "start": 973.98,
+      "end": 975.3,
+      "text": "she explained meekly,"
+    },
+    {
+      "start": 975.34,
+      "end": 976.96,
+      "text": "putting a hand to her breast."
+    }
+  ]
+}

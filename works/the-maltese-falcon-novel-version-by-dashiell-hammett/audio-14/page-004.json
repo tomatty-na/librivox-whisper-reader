@@ -1,0 +1,787 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-14",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_14_hammett.mp3",
+  "chapter_title": "La Paloma",
+  "reader_name": "NLizer",
+  "page_num": 4,
+  "page_total": 5,
+  "page_start_sec": 734.8,
+  "page_end_sec": 976.64,
+  "para_gap_threshold": 0.72,
+  "segments": [
+    {
+      "start": 734.8,
+      "end": 736.78,
+      "text": "Looks like the gents interested in a boat.",
+      "para_break": true
+    },
+    {
+      "start": 737.04,
+      "end": 737.74,
+      "text": "Well,"
+    },
+    {
+      "start": 737.88,
+      "end": 738.56,
+      "text": "there's no law"
+    },
+    {
+      "start": 738.68,
+      "end": 739.18,
+      "text": "against that,"
+    },
+    {
+      "start": 739.28,
+      "end": 740.04,
+      "text": "or is there?"
+    },
+    {
+      "start": 740.992,
+      "end": 744.44,
+      "text": "Luke said while Spade was folding the torn page and the crumpled",
+      "para_break": true
+    },
+    {
+      "start": 744.54,
+      "end": 747.38,
+      "text": "fragment together and putting them into his coat pocket."
+    },
+    {
+      "start": 748.18,
+      "end": 749.04,
+      "text": "You all through here now?",
+      "para_break": true
+    },
+    {
+      "start": 749.38,
+      "end": 749.48,
+      "text": "Yes,"
+    },
+    {
+      "start": 750.52,
+      "end": 750.96,
+      "text": "thanks a lot,",
+      "para_break": true
+    },
+    {
+      "start": 751.0,
+      "end": 751.2,
+      "text": "Luke."
+    },
+    {
+      "start": 752.1,
+      "end": 754.0,
+      "text": "Will you give me a ring as soon as he comes in?",
+      "para_break": true
+    },
+    {
+      "start": 754.24,
+      "end": 754.96,
+      "text": "Sure."
+    },
+    {
+      "start": 756.032,
+      "end": 756.84,
+      "text": "Spade went to the",
+      "para_break": true
+    },
+    {
+      "start": 756.94,
+      "end": 758.02,
+      "text": "business office of the call,"
+    },
+    {
+      "start": 758.24,
+      "end": 760.66,
+      "text": "bought a copy of the previous day's issue,"
+    },
+    {
+      "start": 760.87,
+      "end": 762.22,
+      "text": "opened it to the shipping"
+    },
+    {
+      "start": 762.3,
+      "end": 763.96,
+      "text": "news page and compared it with the"
+    },
+    {
+      "start": 763.96,
+      "end": 765.82,
+      "text": "page taken from Cairo's wastebasket."
+    },
+    {
+      "start": 765.96,
+      "end": 767.76,
+      "text": "The missing portion had read"
+    },
+    {
+      "start": 768.66,
+      "end": 769.96,
+      "text": "5.17 a.m.",
+      "para_break": true
+    },
+    {
+      "start": 769.98,
+      "end": 772.08,
+      "text": "Tahiti from Sydney and Papeete"
+    },
+    {
+      "start": 772.92,
+      "end": 774.06,
+      "text": "6.05 a.m.",
+      "para_break": true
+    },
+    {
+      "start": 774.14,
+      "end": 775.88,
+      "text": "Admiral Peoples from Astoria"
+    },
+    {
+      "start": 776.82,
+      "end": 777.94,
+      "text": "8.07 a.m.",
+      "para_break": true
+    },
+    {
+      "start": 778.816,
+      "end": 780.18,
+      "text": "Caterpike from San Pedro",
+      "para_break": true
+    },
+    {
+      "start": 781.2,
+      "end": 782.44,
+      "text": "8.17 a.m.",
+      "para_break": true
+    },
+    {
+      "start": 783.104,
+      "end": 784.5,
+      "text": "Silverado from San Pedro"
+    },
+    {
+      "start": 785.46,
+      "end": 786.54,
+      "text": "8.05 a.m.",
+      "para_break": true
+    },
+    {
+      "start": 786.9,
+      "end": 788.22,
+      "text": "La Paloma from Hong Kong"
+    },
+    {
+      "start": 788.98,
+      "end": 790.08,
+      "text": "9.03 a.m.",
+      "para_break": true
+    },
+    {
+      "start": 790.16,
+      "end": 791.72,
+      "text": "Daisy Gray from Seattle"
+    },
+    {
+      "start": 792.21,
+      "end": 794.9,
+      "text": "He read the list slowly and when he had finished,"
+    },
+    {
+      "start": 795.14,
+      "end": 797.4,
+      "text": "he underscored Hong Kong with a fingernail,"
+    },
+    {
+      "start": 797.58,
+      "end": 799.82,
+      "text": "cut the list of arrivals from the paper with"
+    },
+    {
+      "start": 799.82,
+      "end": 802.2,
+      "text": "his pocket knife put the rest of the paper and"
+    },
+    {
+      "start": 802.3,
+      "end": 805.16,
+      "text": "cairo sheet into the wastebasket and returned to"
+    },
+    {
+      "start": 805.16,
+      "end": 808.66,
+      "text": "his office he sat down at his desk looked up a"
+    },
+    {
+      "start": 808.66,
+      "end": 810.58,
+      "text": "number in the telephone book and used"
+    },
+    {
+      "start": 810.58,
+      "end": 814.32,
+      "text": "the telephone kearney 1401 please"
+    },
+    {
+      "start": 815.42,
+      "end": 816.36,
+      "text": "where is the paloma",
+      "para_break": true
+    },
+    {
+      "start": 816.9,
+      "end": 818.48,
+      "text": "in from hong kong yesterday morning"
+    },
+    {
+      "start": 819.04,
+      "end": 823.28,
+      "text": "docked he repeated the question thanks he held the receiver"
+    },
+    {
+      "start": 823.58,
+      "end": 825.24,
+      "text": "hooked down with his thumb for a moment,"
+    },
+    {
+      "start": 825.38,
+      "end": 825.94,
+      "text": "released it,"
+    },
+    {
+      "start": 825.98,
+      "end": 826.28,
+      "text": "and said,"
+    },
+    {
+      "start": 827.136,
+      "end": 828.28,
+      "text": "Davenport 2020,",
+      "para_break": true
+    },
+    {
+      "start": 828.46,
+      "end": 829.1,
+      "text": "please."
+    },
+    {
+      "start": 829.4,
+      "end": 829.5,
+      "text": "Detective"
+    },
+    {
+      "start": 830.42,
+      "end": 830.64,
+      "text": "Bureau,",
+      "para_break": true
+    },
+    {
+      "start": 830.78,
+      "end": 831.04,
+      "text": "please."
+    },
+    {
+      "start": 831.32,
+      "end": 833.08,
+      "text": "Is Sergeant Polhas there?"
+    },
+    {
+      "start": 833.34,
+      "end": 834.28,
+      "text": "Thanks."
+    },
+    {
+      "start": 834.8,
+      "end": 835.4,
+      "text": "Hello,"
+    },
+    {
+      "start": 835.5,
+      "end": 835.74,
+      "text": "Tom,"
+    },
+    {
+      "start": 835.8,
+      "end": 836.8,
+      "text": "this is Sam Spade."
+    },
+    {
+      "start": 837.02,
+      "end": 837.12,
+      "text": "Yes,"
+    },
+    {
+      "start": 838.0,
+      "end": 838.7,
+      "text": "I tried to",
+      "para_break": true
+    },
+    {
+      "start": 838.7,
+      "end": 839.72,
+      "text": "get you yesterday afternoon."
+    },
+    {
+      "start": 840.38,
+      "end": 841.08,
+      "text": "Sure."
+    },
+    {
+      "start": 841.33,
+      "end": 842.86,
+      "text": "Suppose you go to lunch with me?"
+    },
+    {
+      "start": 843.14,
+      "end": 843.7,
+      "text": "Right."
+    },
+    {
+      "start": 844.13,
+      "end": 845.66,
+      "text": "He kept the receiver to"
+    },
+    {
+      "start": 845.66,
+      "end": 847.62,
+      "text": "his ear while his thumb worked the hook again."
+    },
+    {
+      "start": 848.768,
+      "end": 850.16,
+      "text": "Davenport 0170,",
+      "para_break": true
+    },
+    {
+      "start": 850.42,
+      "end": 850.7,
+      "text": "please."
+    },
+    {
+      "start": 851.17,
+      "end": 851.82,
+      "text": "Hello,"
+    },
+    {
+      "start": 851.88,
+      "end": 852.52,
+      "text": "this is Samuel"
+    },
+    {
+      "start": 852.9,
+      "end": 853.02,
+      "text": "Spade."
+    },
+    {
+      "start": 853.22,
+      "end": 855.46,
+      "text": "My secretary got a phone message"
+    },
+    {
+      "start": 855.46,
+      "end": 856.5,
+      "text": "yesterday that Mr."
+    },
+    {
+      "start": 856.6,
+      "end": 857.88,
+      "text": "Bryan wanted to see me."
+    },
+    {
+      "start": 858.6,
+      "end": 859.26,
+      "text": "Will you ask him",
+      "para_break": true
+    },
+    {
+      "start": 859.26,
+      "end": 861.06,
+      "text": "what time's the most convenient for him?"
+    },
+    {
+      "start": 861.32,
+      "end": 862.14,
+      "text": "Yes,"
+    },
+    {
+      "start": 862.34,
+      "end": 863.28,
+      "text": "Spade."
+    },
+    {
+      "start": 863.3,
+      "end": 864.88,
+      "text": "S-P-A"
+    },
+    {
+      "start": 865.42,
+      "end": 865.856,
+      "text": "-D-E."
+    },
+    {
+      "start": 866.34,
+      "end": 867.82,
+      "text": "A long pause."
+    },
+    {
+      "start": 868.14,
+      "end": 868.24,
+      "text": "Yes,"
+    },
+    {
+      "start": 869.12,
+      "end": 869.68,
+      "text": "2.30.",
+      "para_break": true
+    },
+    {
+      "start": 870.58,
+      "end": 870.9,
+      "text": "All right,",
+      "para_break": true
+    },
+    {
+      "start": 871.04,
+      "end": 871.24,
+      "text": "thanks."
+    },
+    {
+      "start": 872.3,
+      "end": 873.68,
+      "text": "He called a fifth number and said,",
+      "para_break": true
+    },
+    {
+      "start": 873.9,
+      "end": 874.44,
+      "text": "hello,"
+    },
+    {
+      "start": 874.5,
+      "end": 874.84,
+      "text": "darling."
+    },
+    {
+      "start": 875.24,
+      "end": 876.12,
+      "text": "Let me talk to Sid."
+    },
+    {
+      "start": 876.34,
+      "end": 877.32,
+      "text": "Hello,"
+    },
+    {
+      "start": 877.38,
+      "end": 877.64,
+      "text": "Sid."
+    },
+    {
+      "start": 877.86,
+      "end": 877.96,
+      "text": "Sam."
+    },
+    {
+      "start": 879.52,
+      "end": 881.02,
+      "text": "I've got a date with a district attorney",
+      "para_break": true
+    },
+    {
+      "start": 881.02,
+      "end": 882.58,
+      "text": "at half past two this afternoon."
+    },
+    {
+      "start": 883.12,
+      "end": 884.22,
+      "text": "Will you give me a ring,"
+    },
+    {
+      "start": 884.82,
+      "end": 885.5,
+      "text": "here or there,"
+    },
+    {
+      "start": 885.58,
+      "end": 886.16,
+      "text": "around four,"
+    },
+    {
+      "start": 886.53,
+      "end": 888.3,
+      "text": "just to see that I'm not in trouble?"
+    },
+    {
+      "start": 889.2,
+      "end": 890.8,
+      "text": "Hell with your Saturday afternoon golf.",
+      "para_break": true
+    },
+    {
+      "start": 891.2,
+      "end": 892.7,
+      "text": "Your job's to keep me out of jail."
+    },
+    {
+      "start": 893.56,
+      "end": 893.68,
+      "text": "Right,",
+      "para_break": true
+    },
+    {
+      "start": 893.76,
+      "end": 893.96,
+      "text": "Sid."
+    },
+    {
+      "start": 894.34,
+      "end": 894.48,
+      "text": "Bye."
+    },
+    {
+      "start": 895.1,
+      "end": 896.72,
+      "text": "He pushed the telephone away,"
+    },
+    {
+      "start": 897.02,
+      "end": 897.66,
+      "text": "yawned,"
+    },
+    {
+      "start": 897.66,
+      "end": 898.18,
+      "text": "stretched,"
+    },
+    {
+      "start": 898.76,
+      "end": 899.72,
+      "text": "felt his bruised temple,"
+    },
+    {
+      "start": 900.2,
+      "end": 900.94,
+      "text": "looked at his watch,"
+    },
+    {
+      "start": 901.06,
+      "end": 902.64,
+      "text": "and rolled and lighted his cigarette."
+    },
+    {
+      "start": 903.52,
+      "end": 905.9,
+      "text": "He smoked sleepily until Effie Perrine came in.",
+      "para_break": true
+    },
+    {
+      "start": 907.08,
+      "end": 908.16,
+      "text": "Effie Perrine came in smiling,",
+      "para_break": true
+    },
+    {
+      "start": 908.44,
+      "end": 909.72,
+      "text": "bright-eyed and rosy-faced."
+    },
+    {
+      "start": 910.4,
+      "end": 911.46,
+      "text": "Ted says it could be,"
+    },
+    {
+      "start": 911.58,
+      "end": 912.08,
+      "text": "she reported,"
+    },
+    {
+      "start": 912.34,
+      "end": 913.64,
+      "text": "and he hopes it is."
+    },
+    {
+      "start": 914.34,
+      "end": 916.64,
+      "text": "He says he's not a specialist in that field,"
+    },
+    {
+      "start": 916.76,
+      "end": 918.5,
+      "text": "but the names and dates are all right,"
+    },
+    {
+      "start": 918.82,
+      "end": 920.52,
+      "text": "and at least none of your authorities"
+    },
+    {
+      "start": 920.52,
+      "end": 922.88,
+      "text": "or their works are out and out fakes."
+    },
+    {
+      "start": 923.84,
+      "end": 925.12,
+      "text": "He's all excited over it.",
+      "para_break": true
+    },
+    {
+      "start": 925.92,
+      "end": 926.34,
+      "text": "That's swell,",
+      "para_break": true
+    },
+    {
+      "start": 926.62,
+      "end": 928.85,
+      "text": "as long as he doesn't get too enthusiastic"
+    },
+    {
+      "start": 929.6,
+      "end": 931.42,
+      "text": "to see through it if it's phony.",
+      "para_break": true
+    },
+    {
+      "start": 932.1,
+      "end": 932.42,
+      "text": "Oh,"
+    },
+    {
+      "start": 932.46,
+      "end": 933.18,
+      "text": "he wouldn't,"
+    },
+    {
+      "start": 933.18,
+      "end": 933.72,
+      "text": "not Ted."
+    },
+    {
+      "start": 934.56,
+      "end": 936.3,
+      "text": "He's too good at his stuff for that.",
+      "para_break": true
+    },
+    {
+      "start": 937.28,
+      "end": 937.78,
+      "text": "Uh-huh.",
+      "para_break": true
+    },
+    {
+      "start": 938.58,
+      "end": 940.34,
+      "text": "The whole damn Perrine family's wonderful,",
+      "para_break": true
+    },
+    {
+      "start": 940.84,
+      "end": 941.24,
+      "text": "Spade said,"
+    },
+    {
+      "start": 941.44,
+      "end": 943.98,
+      "text": "including you and the smudge of soot on your nose."
+    },
+    {
+      "start": 945.02,
+      "end": 945.8,
+      "text": "He's not a Perrine,",
+      "para_break": true
+    },
+    {
+      "start": 945.94,
+      "end": 946.68,
+      "text": "he's a Christy."
+    },
+    {
+      "start": 947.48,
+      "end": 950.5,
+      "text": "She bent her head to look at her nose in her vanity case mirror.",
+      "para_break": true
+    },
+    {
+      "start": 951.36,
+      "end": 952.3,
+      "text": "I must have got that from",
+      "para_break": true
+    },
+    {
+      "start": 952.46,
+      "end": 952.82,
+      "text": "the fire."
+    },
+    {
+      "start": 953.8,
+      "end": 956.1,
+      "text": "She scrubbed the smudge with the corner of a handkerchief.",
+      "para_break": true
+    },
+    {
+      "start": 957.18,
+      "end": 958.32,
+      "text": "The Perrine Christy enthusiasm",
+      "para_break": true
+    },
+    {
+      "start": 958.9,
+      "end": 959.48,
+      "text": "a McKnight Berkeley?"
+    },
+    {
+      "start": 959.8,
+      "end": 960.3,
+      "text": "he asked."
+    },
+    {
+      "start": 961.34,
+      "end": 964.14,
+      "text": "She made a face at him while patting her nose with a powdered pink",
+      "para_break": true
+    },
+    {
+      "start": 964.26,
+      "end": 964.54,
+      "text": "disc."
+    },
+    {
+      "start": 965.18,
+      "end": 966.92,
+      "text": "There was a boat on fire when I came back."
+    },
+    {
+      "start": 967.36,
+      "end": 969.06,
+      "text": "They were towing it out from the pier and the"
+    },
+    {
+      "start": 969.16,
+      "end": 970.9,
+      "text": "smoke blew all over our ferry boat."
+    },
+    {
+      "start": 971.872,
+      "end": 973.84,
+      "text": "Spade put his hands on the arms of his chair.",
+      "para_break": true
+    },
+    {
+      "start": 974.88,
+      "end": 975.28,
+      "text": "Were you near",
+      "para_break": true
+    },
+    {
+      "start": 975.36,
+      "end": 976.64,
+      "text": "enough to see the name of the boat?"
+    }
+  ]
+}

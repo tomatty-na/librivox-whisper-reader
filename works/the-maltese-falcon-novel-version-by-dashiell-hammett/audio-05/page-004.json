@@ -1,0 +1,58 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-05",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_05_hammett.mp3",
+  "chapter_title": "The Levantine",
+  "reader_name": "NLizer",
+  "page_num": 4,
+  "page_total": 4,
+  "page_start_sec": 765.536,
+  "page_end_sec": 775.96,
+  "para_gap_threshold": 0.679,
+  "segments": [
+    {
+      "start": 765.536,
+      "end": 766.06,
+      "text": "Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 766.28,
+      "end": 767.62,
+      "text": "I'll be damned."
+    },
+    {
+      "start": 767.98,
+      "end": 769.12,
+      "text": "Then he"
+    },
+    {
+      "start": 769.44,
+      "end": 770.7,
+      "text": "laughed in his throat and said,"
+    },
+    {
+      "start": 770.86,
+      "end": 771.62,
+      "text": "All right,"
+    },
+    {
+      "start": 771.62,
+      "end": 772.08,
+      "text": "go ahead."
+    },
+    {
+      "start": 772.36,
+      "end": 773.56,
+      "text": "I won't stop you."
+    },
+    {
+      "start": 774.912,
+      "end": 775.96,
+      "text": "End of chapter five.",
+      "para_break": true
+    }
+  ]
+}

@@ -1,0 +1,671 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-13",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_13_hammett.mp3",
+  "chapter_title": "The Emperor's Gift",
+  "reader_name": "NLizer",
+  "page_num": 2,
+  "page_total": 5,
+  "page_start_sec": 247.5,
+  "page_end_sec": 494.3,
+  "para_gap_threshold": 0.579,
+  "segments": [
+    {
+      "start": 247.5,
+      "end": 247.88,
+      "text": "Well now,",
+      "para_break": true
+    },
+    {
+      "start": 248.06,
+      "end": 250.12,
+      "text": "the Emperor Charles has given them Malta,"
+    },
+    {
+      "start": 250.28,
+      "end": 251.86,
+      "text": "and all the rent he asks"
+    },
+    {
+      "start": 251.86,
+      "end": 254.5,
+      "text": "is one insignificant bird per annum,"
+    },
+    {
+      "start": 254.58,
+      "end": 256.42,
+      "text": "just as a matter of form."
+    },
+    {
+      "start": 257.44,
+      "end": 258.72,
+      "text": "What could be more natural than",
+      "para_break": true
+    },
+    {
+      "start": 258.72,
+      "end": 261.48,
+      "text": "for these immeasurably wealthy knights to look"
+    },
+    {
+      "start": 261.48,
+      "end": 263.8,
+      "text": "around for some way of expressing their gratitude?"
+    },
+    {
+      "start": 264.6,
+      "end": 264.92,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 265.0,
+      "end": 265.24,
+      "text": "sir,"
+    },
+    {
+      "start": 265.42,
+      "end": 266.92,
+      "text": "that's exactly what they did,"
+    },
+    {
+      "start": 267.4,
+      "end": 269.46,
+      "text": "and they hit on the happy thought of sending Charles"
+    },
+    {
+      "start": 270.08,
+      "end": 271.4,
+      "text": "for the first year's tribute,",
+      "para_break": true
+    },
+    {
+      "start": 271.64,
+      "end": 273.9,
+      "text": "not an insignificant live bird,"
+    },
+    {
+      "start": 274.38,
+      "end": 276.82,
+      "text": "but a glorious golden falcon encrusted"
+    },
+    {
+      "start": 276.82,
+      "end": 280.32,
+      "text": "from head to foot with the finest jewels in their coffers."
+    },
+    {
+      "start": 280.5,
+      "end": 281.4,
+      "text": "And remember,"
+    },
+    {
+      "start": 281.56,
+      "end": 281.78,
+      "text": "sir,"
+    },
+    {
+      "start": 281.92,
+      "end": 283.06,
+      "text": "they had fine ones,"
+    },
+    {
+      "start": 283.42,
+      "end": 284.72,
+      "text": "the finest out of Asia."
+    },
+    {
+      "start": 285.728,
+      "end": 286.68,
+      "text": "Gutman stopped whispering.",
+      "para_break": true
+    },
+    {
+      "start": 287.48,
+      "end": 289.66,
+      "text": "His sleek dark eyes examined Spade's face,",
+      "para_break": true
+    },
+    {
+      "start": 290.28,
+      "end": 291.08,
+      "text": "which was placid.",
+      "para_break": true
+    },
+    {
+      "start": 291.76,
+      "end": 292.6,
+      "text": "The fat man asked,",
+      "para_break": true
+    },
+    {
+      "start": 292.78,
+      "end": 292.88,
+      "text": "well,"
+    },
+    {
+      "start": 293.36,
+      "end": 293.58,
+      "text": "sir,"
+    },
+    {
+      "start": 293.72,
+      "end": 295.12,
+      "text": "what do you think of that?"
+    },
+    {
+      "start": 295.81,
+      "end": 296.84,
+      "text": "I don't know.",
+      "para_break": true
+    },
+    {
+      "start": 297.26,
+      "end": 301.44,
+      "text": "the fat man smiled complacently these are facts"
+    },
+    {
+      "start": 301.44,
+      "end": 305.48,
+      "text": "historical facts not school book history not mr"
+    },
+    {
+      "start": 305.56,
+      "end": 310.1,
+      "text": "wells's history but history nevertheless he leaned forward"
+    },
+    {
+      "start": 311.1,
+      "end": 313.02,
+      "text": "the archives of the order from the 12th",
+      "para_break": true
+    },
+    {
+      "start": 313.1,
+      "end": 313.92,
+      "text": "century on"
+    },
+    {
+      "start": 314.54,
+      "end": 315.38,
+      "text": "are still at malta",
+      "para_break": true
+    },
+    {
+      "start": 316.18,
+      "end": 319.5,
+      "text": "they are not intact but what is there holds no less than three",
+      "para_break": true
+    },
+    {
+      "start": 320.12,
+      "end": 320.38,
+      "text": "he held",
+      "para_break": true
+    },
+    {
+      "start": 320.5,
+      "end": 321.02,
+      "text": "up three fingers,"
+    },
+    {
+      "start": 321.4,
+      "end": 326.12,
+      "text": "references that can't be to anything else but this jeweled falcon."
+    },
+    {
+      "start": 326.96,
+      "end": 327.24,
+      "text": "In G.",
+      "para_break": true
+    },
+    {
+      "start": 327.5,
+      "end": 329.54,
+      "text": "de la ville la ruse,"
+    },
+    {
+      "start": 329.66,
+      "end": 332.8,
+      "text": "les archives de l'ordre de Saint-Saëns,"
+    },
+    {
+      "start": 333.4,
+      "end": 334.6,
+      "text": "there is a reference to it,",
+      "para_break": true
+    },
+    {
+      "start": 335.136,
+      "end": 335.98,
+      "text": "oblique to be sure,"
+    },
+    {
+      "start": 336.5,
+      "end": 337.32,
+      "text": "but a reference still."
+    },
+    {
+      "start": 338.4,
+      "end": 338.92,
+      "text": "And the unpublished,",
+      "para_break": true
+    },
+    {
+      "start": 339.46,
+      "end": 341.28,
+      "text": "because unfinished at the time"
+    },
+    {
+      "start": 341.28,
+      "end": 341.86,
+      "text": "of his death,"
+    },
+    {
+      "start": 342.368,
+      "end": 343.0,
+      "text": "supplement to,"
+    },
+    {
+      "start": 343.16,
+      "end": 348.82,
+      "text": "Paulise del Origine et Instituto del Sacro Militar Ordinaire,"
+    },
+    {
+      "start": 349.28,
+      "end": 352.98,
+      "text": "has a clear and unmistakable statement of the facts I am telling you."
+    },
+    {
+      "start": 353.6,
+      "end": 353.96,
+      "text": "All right,",
+      "para_break": true
+    },
+    {
+      "start": 354.14,
+      "end": 354.98,
+      "text": "Spade said."
+    },
+    {
+      "start": 355.96,
+      "end": 356.4,
+      "text": "All right,",
+      "para_break": true
+    },
+    {
+      "start": 356.42,
+      "end": 356.68,
+      "text": "sir."
+    },
+    {
+      "start": 357.7,
+      "end": 362.12,
+      "text": "Grand Master Villiers-Doulil-Adon had this foot-high",
+      "para_break": true
+    },
+    {
+      "start": 362.24,
+      "end": 364.58,
+      "text": "jeweled bird made by Turkish slaves in the"
+    },
+    {
+      "start": 364.58,
+      "end": 365.38,
+      "text": "castle of St."
+    },
+    {
+      "start": 365.4,
+      "end": 367.22,
+      "text": "Angelo and sent it to Charles,"
+    },
+    {
+      "start": 367.58,
+      "end": 368.46,
+      "text": "who was in Spain."
+    },
+    {
+      "start": 368.74,
+      "end": 372.96,
+      "text": "He sent it in a galley commanded by a French knight named Cormier,"
+    },
+    {
+      "start": 373.58,
+      "end": 374.34,
+      "text": "or Corvée,",
+      "para_break": true
+    },
+    {
+      "start": 374.56,
+      "end": 376.14,
+      "text": "a member of the Order."
+    },
+    {
+      "start": 377.04,
+      "end": 378.74,
+      "text": "His voice dropped to a whisper again.",
+      "para_break": true
+    },
+    {
+      "start": 379.2,
+      "end": 380.86,
+      "text": "It never reached Spain."
+    },
+    {
+      "start": 381.18,
+      "end": 383.86,
+      "text": "He smiled with compressed lips and asked,"
+    },
+    {
+      "start": 384.22,
+      "end": 385.46,
+      "text": "You know of Barbarossa,"
+    },
+    {
+      "start": 385.66,
+      "end": 386.52,
+      "text": "Redbeard,"
+    },
+    {
+      "start": 386.64,
+      "end": 387.58,
+      "text": "Kyra Dean?"
+    },
+    {
+      "start": 387.82,
+      "end": 387.92,
+      "text": "No?"
+    },
+    {
+      "start": 389.12,
+      "end": 391.9,
+      "text": "A famous admiral of buccaneers sailing out of",
+      "para_break": true
+    },
+    {
+      "start": 391.94,
+      "end": 392.54,
+      "text": "Algiers then?"
+    },
+    {
+      "start": 392.88,
+      "end": 393.68,
+      "text": "Well,"
+    },
+    {
+      "start": 393.7,
+      "end": 393.92,
+      "text": "sir,"
+    },
+    {
+      "start": 394.12,
+      "end": 396.58,
+      "text": "he took the night's galley and he took the bird."
+    },
+    {
+      "start": 396.82,
+      "end": 398.08,
+      "text": "The bird went to"
+    },
+    {
+      "start": 398.12,
+      "end": 398.54,
+      "text": "Algiers."
+    },
+    {
+      "start": 398.78,
+      "end": 399.76,
+      "text": "That's a fact."
+    },
+    {
+      "start": 400.76,
+      "end": 404.56,
+      "text": "That's a fact that the French historian Pierre Dan put in one of his",
+      "para_break": true
+    },
+    {
+      "start": 404.68,
+      "end": 405.54,
+      "text": "letters from Algiers."
+    },
+    {
+      "start": 406.34,
+      "end": 409.48,
+      "text": "He wrote that the bird had been there for more than a hundred years",
+      "para_break": true
+    },
+    {
+      "start": 409.7,
+      "end": 412.4,
+      "text": "until it was carried away by Sir Francis Vernier,"
+    },
+    {
+      "start": 412.84,
+      "end": 415.84,
+      "text": "the English adventurer who was with the Algerian"
+    },
+    {
+      "start": 415.88,
+      "end": 417.08,
+      "text": "buccaneers for a while."
+    },
+    {
+      "start": 418.208,
+      "end": 419.02,
+      "text": "Maybe it wasn't,",
+      "para_break": true
+    },
+    {
+      "start": 419.3,
+      "end": 420.74,
+      "text": "but Pierre Dan believed it was,"
+    },
+    {
+      "start": 421.34,
+      "end": 422.6,
+      "text": "and that's good enough for me.",
+      "para_break": true
+    },
+    {
+      "start": 423.74,
+      "end": 425.46,
+      "text": "There's nothing said about the bird in Lady",
+      "para_break": true
+    },
+    {
+      "start": 425.46,
+      "end": 428.36,
+      "text": "Frances Vernier's memoirs of the Vernier family"
+    },
+    {
+      "start": 428.82,
+      "end": 430.3,
+      "text": "during the 17th century,"
+    },
+    {
+      "start": 430.44,
+      "end": 431.0,
+      "text": "to be sure."
+    },
+    {
+      "start": 431.66,
+      "end": 432.08,
+      "text": "I looked,",
+      "para_break": true
+    },
+    {
+      "start": 432.288,
+      "end": 435.08,
+      "text": "and it's pretty certain that Sir Francis didn't"
+    },
+    {
+      "start": 435.08,
+      "end": 437.38,
+      "text": "have the bird when he died in a Messina"
+    },
+    {
+      "start": 437.46,
+      "end": 439.2,
+      "text": "hospital in 1615."
+    },
+    {
+      "start": 439.94,
+      "end": 440.94,
+      "text": "He was stony broke."
+    },
+    {
+      "start": 441.4,
+      "end": 442.24,
+      "text": "But,"
+    },
+    {
+      "start": 442.28,
+      "end": 442.52,
+      "text": "sir,"
+    },
+    {
+      "start": 442.7,
+      "end": 443.2,
+      "text": "there's no"
+    },
+    {
+      "start": 443.28,
+      "end": 445.32,
+      "text": "denying that the bird did go to Sicily."
+    },
+    {
+      "start": 446.12,
+      "end": 446.66,
+      "text": "It was there,",
+      "para_break": true
+    },
+    {
+      "start": 446.84,
+      "end": 448.94,
+      "text": "and it came into the possession there of"
+    },
+    {
+      "start": 449.02,
+      "end": 453.76,
+      "text": "Victor Amadeus II sometime after he became king in 1713,"
+    },
+    {
+      "start": 454.38,
+      "end": 456.6,
+      "text": "and it was one of his gifts to his wife",
+      "para_break": true
+    },
+    {
+      "start": 456.9,
+      "end": 459.48,
+      "text": "when he married in Chamburee after abdicating."
+    },
+    {
+      "start": 459.76,
+      "end": 461.06,
+      "text": "That is a fact,"
+    },
+    {
+      "start": 461.2,
+      "end": 461.4,
+      "text": "sir."
+    },
+    {
+      "start": 462.2,
+      "end": 462.86,
+      "text": "Chirruti,",
+      "para_break": true
+    },
+    {
+      "start": 463.24,
+      "end": 463.9,
+      "text": "the author of"
+    },
+    {
+      "start": 463.96,
+      "end": 468.8,
+      "text": "Storia del Regno di Vittorio Amadeo Segundo,"
+    },
+    {
+      "start": 469.0,
+      "end": 470.82,
+      "text": "himself vouched for it."
+    },
+    {
+      "start": 471.72,
+      "end": 472.04,
+      "text": "Maybe they,",
+      "para_break": true
+    },
+    {
+      "start": 472.34,
+      "end": 473.1,
+      "text": "Amadeo and"
+    },
+    {
+      "start": 473.1,
+      "end": 473.6,
+      "text": "his wife,"
+    },
+    {
+      "start": 473.78,
+      "end": 476.02,
+      "text": "took it along with them to Turin when"
+    },
+    {
+      "start": 476.02,
+      "end": 477.54,
+      "text": "he tried to revoke his abdication."
+    },
+    {
+      "start": 478.64,
+      "end": 479.24,
+      "text": "Be that as it",
+      "para_break": true
+    },
+    {
+      "start": 479.24,
+      "end": 479.4,
+      "text": "may,"
+    },
+    {
+      "start": 479.54,
+      "end": 481.9,
+      "text": "it turned up next in the possession of a"
+    },
+    {
+      "start": 481.9,
+      "end": 483.98,
+      "text": "Spaniard who had been with the army that took"
+    },
+    {
+      "start": 484.22,
+      "end": 485.01,
+      "text": "Naples in 1734,"
+    },
+    {
+      "start": 486.42,
+      "end": 489.76,
+      "text": "the father of Don José Moninho y Redondo,",
+      "para_break": true
+    },
+    {
+      "start": 489.86,
+      "end": 491.34,
+      "text": "Count of Florida Blanca,"
+    },
+    {
+      "start": 491.94,
+      "end": 492.54,
+      "text": "who was Charles",
+      "para_break": true
+    },
+    {
+      "start": 492.79,
+      "end": 494.3,
+      "text": "III's chief minister."
+    }
+  ]
+}

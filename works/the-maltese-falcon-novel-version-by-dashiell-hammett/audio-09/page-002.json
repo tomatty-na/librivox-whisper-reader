@@ -1,0 +1,749 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-09",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_09_hammett.mp3",
+  "chapter_title": "Brigid",
+  "reader_name": "NLizer",
+  "page_num": 2,
+  "page_total": 4,
+  "page_start_sec": 244.64,
+  "page_end_sec": 488.56,
+  "para_gap_threshold": 0.559,
+  "segments": [
+    {
+      "start": 244.64,
+      "end": 245.73,
+      "text": "You're altogether unpredictable,",
+      "para_break": true
+    },
+    {
+      "start": 246.42,
+      "end": 247.04,
+      "text": "she murmured.",
+      "para_break": true
+    },
+    {
+      "start": 247.2,
+      "end": 249.32,
+      "text": "He nodded and said amiably,"
+    },
+    {
+      "start": 249.54,
+      "end": 250.92,
+      "text": "I'm still listening."
+    },
+    {
+      "start": 252.2,
+      "end": 252.94,
+      "text": "Look at the time,",
+      "para_break": true
+    },
+    {
+      "start": 253.22,
+      "end": 254.16,
+      "text": "she exclaimed,"
+    },
+    {
+      "start": 254.944,
+      "end": 256.38,
+      "text": "wriggling a finger at the alarm clock",
+      "para_break": true
+    },
+    {
+      "start": 256.38,
+      "end": 258.38,
+      "text": "perched atop the book saying 250"
+    },
+    {
+      "start": 259.14,
+      "end": 260.78,
+      "text": "with its clumsily shaped hands.",
+      "para_break": true
+    },
+    {
+      "start": 261.696,
+      "end": 262.16,
+      "text": "Uh-huh.",
+      "para_break": true
+    },
+    {
+      "start": 262.24,
+      "end": 264.02,
+      "text": "It's been a busy evening."
+    },
+    {
+      "start": 265.08,
+      "end": 265.76,
+      "text": "I must go,",
+      "para_break": true
+    },
+    {
+      "start": 266.28,
+      "end": 267.42,
+      "text": "she rose from the sofa."
+    },
+    {
+      "start": 268.08,
+      "end": 268.62,
+      "text": "This is terrible.",
+      "para_break": true
+    },
+    {
+      "start": 269.92,
+      "end": 270.92,
+      "text": "Spade did not rise.",
+      "para_break": true
+    },
+    {
+      "start": 271.34,
+      "end": 272.6,
+      "text": "He shook his head and said,"
+    },
+    {
+      "start": 273.3,
+      "end": 274.92,
+      "text": "Not until you've told me about it.",
+      "para_break": true
+    },
+    {
+      "start": 275.78,
+      "end": 276.72,
+      "text": "But look at the time,",
+      "para_break": true
+    },
+    {
+      "start": 276.9,
+      "end": 277.55,
+      "text": "she protested,"
+    },
+    {
+      "start": 278.14,
+      "end": 280.22,
+      "text": "and it would take hours to tell you.",
+      "para_break": true
+    },
+    {
+      "start": 281.34,
+      "end": 282.5,
+      "text": "It'll have to take them then.",
+      "para_break": true
+    },
+    {
+      "start": 283.78,
+      "end": 284.58,
+      "text": "Am I a prisoner?",
+      "para_break": true
+    },
+    {
+      "start": 284.86,
+      "end": 285.86,
+      "text": "she asked gaily."
+    },
+    {
+      "start": 286.56,
+      "end": 286.92,
+      "text": "Besides,",
+      "para_break": true
+    },
+    {
+      "start": 287.26,
+      "end": 288.32,
+      "text": "there's the kid outside."
+    },
+    {
+      "start": 288.46,
+      "end": 290.76,
+      "text": "Maybe he hasn't gone home to sleep yet."
+    },
+    {
+      "start": 291.7,
+      "end": 292.64,
+      "text": "Her gaiety vanished.",
+      "para_break": true
+    },
+    {
+      "start": 293.48,
+      "end": 294.54,
+      "text": "Do you think he's still there?",
+      "para_break": true
+    },
+    {
+      "start": 295.648,
+      "end": 296.16,
+      "text": "It's likely.",
+      "para_break": true
+    },
+    {
+      "start": 297.36,
+      "end": 297.68,
+      "text": "She shivered.",
+      "para_break": true
+    },
+    {
+      "start": 297.7,
+      "end": 298.08,
+      "text": "shivered."
+    },
+    {
+      "start": 298.52,
+      "end": 299.38,
+      "text": "Could you find out?"
+    },
+    {
+      "start": 300.28,
+      "end": 301.82,
+      "text": "I could go down and see.",
+      "para_break": true
+    },
+    {
+      "start": 302.38,
+      "end": 303.4,
+      "text": "Oh,",
+      "para_break": true
+    },
+    {
+      "start": 303.4,
+      "end": 304.64,
+      "text": "that's,"
+    },
+    {
+      "start": 304.64,
+      "end": 305.3,
+      "text": "will you?"
+    },
+    {
+      "start": 306.368,
+      "end": 307.1,
+      "text": "Spade studied her",
+      "para_break": true
+    },
+    {
+      "start": 307.2,
+      "end": 310.1,
+      "text": "anxious face for a moment and then got up from the sofa saying,"
+    },
+    {
+      "start": 310.34,
+      "end": 311.0,
+      "text": "sure."
+    },
+    {
+      "start": 311.78,
+      "end": 313.26,
+      "text": "He got a hat and overcoat",
+      "para_break": true
+    },
+    {
+      "start": 313.26,
+      "end": 313.96,
+      "text": "from the closet."
+    },
+    {
+      "start": 314.54,
+      "end": 315.78,
+      "text": "I'll be gone about 10 minutes.",
+      "para_break": true
+    },
+    {
+      "start": 316.8,
+      "end": 317.42,
+      "text": "Do be careful,",
+      "para_break": true
+    },
+    {
+      "start": 317.58,
+      "end": 319.58,
+      "text": "she begged as she followed him to"
+    },
+    {
+      "start": 319.58,
+      "end": 320.36,
+      "text": "the corridor door."
+    },
+    {
+      "start": 320.68,
+      "end": 321.72,
+      "text": "He said,"
+    },
+    {
+      "start": 321.86,
+      "end": 322.74,
+      "text": "I will,"
+    },
+    {
+      "start": 322.94,
+      "end": 324.02,
+      "text": "and went out."
+    },
+    {
+      "start": 325.14,
+      "end": 327.38,
+      "text": "Post Street was empty when Spade issued into it.",
+      "para_break": true
+    },
+    {
+      "start": 327.9,
+      "end": 329.0,
+      "text": "He walked east a block,"
+    },
+    {
+      "start": 329.18,
+      "end": 330.12,
+      "text": "crossed the street,"
+    },
+    {
+      "start": 330.68,
+      "end": 332.68,
+      "text": "walked west two blocks on the other side,",
+      "para_break": true
+    },
+    {
+      "start": 333.28,
+      "end": 333.88,
+      "text": "recrossed it,",
+      "para_break": true
+    },
+    {
+      "start": 333.96,
+      "end": 335.58,
+      "text": "and returned to his building without"
+    },
+    {
+      "start": 335.58,
+      "end": 337.84,
+      "text": "having seen anyone except two mechanics"
+    },
+    {
+      "start": 338.08,
+      "end": 339.78,
+      "text": "working on a car in a garage."
+    },
+    {
+      "start": 340.37,
+      "end": 342.12,
+      "text": "When he opened his apartment door,",
+      "para_break": true
+    },
+    {
+      "start": 342.26,
+      "end": 343.28,
+      "text": "Bridget O'Shaughnessy was"
+    },
+    {
+      "start": 343.42,
+      "end": 345.05,
+      "text": "standing at the bend in the passageway,"
+    },
+    {
+      "start": 345.18,
+      "end": 347.68,
+      "text": "holding Cairo's pistol straight down at her side."
+    },
+    {
+      "start": 348.9,
+      "end": 349.48,
+      "text": "He's still there,",
+      "para_break": true
+    },
+    {
+      "start": 349.72,
+      "end": 350.42,
+      "text": "Spade said."
+    },
+    {
+      "start": 351.34,
+      "end": 353.36,
+      "text": "She bit the inside of her lip and turned slowly,",
+      "para_break": true
+    },
+    {
+      "start": 353.66,
+      "end": 355.1,
+      "text": "going back into the living room."
+    },
+    {
+      "start": 355.776,
+      "end": 356.76,
+      "text": "Spade followed her in,",
+      "para_break": true
+    },
+    {
+      "start": 356.86,
+      "end": 358.74,
+      "text": "put his hat and overcoat on a chair,"
+    },
+    {
+      "start": 359.3,
+      "end": 359.42,
+      "text": "said,",
+      "para_break": true
+    },
+    {
+      "start": 360.58,
+      "end": 361.92,
+      "text": "so we'll have time to talk,",
+      "para_break": true
+    },
+    {
+      "start": 362.02,
+      "end": 363.12,
+      "text": "and went into the kitchen."
+    },
+    {
+      "start": 363.76,
+      "end": 366.04,
+      "text": "He had put the coffee pot on the stove",
+      "para_break": true
+    },
+    {
+      "start": 366.26,
+      "end": 368.22,
+      "text": "when she came to the door and was"
+    },
+    {
+      "start": 368.22,
+      "end": 370.14,
+      "text": "slicing a slender loaf of French bread."
+    },
+    {
+      "start": 371.02,
+      "end": 371.66,
+      "text": "She stood in the",
+      "para_break": true
+    },
+    {
+      "start": 371.86,
+      "end": 373.84,
+      "text": "doorway and watched him with preoccupied eyes."
+    },
+    {
+      "start": 374.16,
+      "end": 376.72,
+      "text": "The fingers of her left hand idly caressed the"
+    },
+    {
+      "start": 376.84,
+      "end": 378.14,
+      "text": "body and barrel of the pistol,"
+    },
+    {
+      "start": 378.28,
+      "end": 379.72,
+      "text": "her right hand still held."
+    },
+    {
+      "start": 380.74,
+      "end": 381.82,
+      "text": "The tablecloth's in there,",
+      "para_break": true
+    },
+    {
+      "start": 381.98,
+      "end": 382.36,
+      "text": "he said,"
+    },
+    {
+      "start": 382.96,
+      "end": 384.84,
+      "text": "pointing the bread knife at a cupboard",
+      "para_break": true
+    },
+    {
+      "start": 384.84,
+      "end": 386.5,
+      "text": "that was one breakfast nook partition."
+    },
+    {
+      "start": 387.64,
+      "end": 390.48,
+      "text": "She set the table while he spread liverwurst on",
+      "para_break": true
+    },
+    {
+      "start": 390.78,
+      "end": 393.72,
+      "text": "or put cold corned beef between the small ovals"
+    },
+    {
+      "start": 393.76,
+      "end": 394.86,
+      "text": "of bread he had sliced."
+    },
+    {
+      "start": 395.8,
+      "end": 396.76,
+      "text": "Then he poured the coffee,",
+      "para_break": true
+    },
+    {
+      "start": 396.9,
+      "end": 399.28,
+      "text": "added brandy to it from a squat bottle,"
+    },
+    {
+      "start": 399.74,
+      "end": 400.86,
+      "text": "and they sat at the table."
+    },
+    {
+      "start": 401.04,
+      "end": 404.14,
+      "text": "They sat side by side on one of the benches."
+    },
+    {
+      "start": 405.1,
+      "end": 406.22,
+      "text": "She put the pistol down on",
+      "para_break": true
+    },
+    {
+      "start": 406.34,
+      "end": 407.62,
+      "text": "the end of the bench nearer her."
+    },
+    {
+      "start": 408.22,
+      "end": 409.58,
+      "text": "You can start now,",
+      "para_break": true
+    },
+    {
+      "start": 409.72,
+      "end": 410.5,
+      "text": "between bites,"
+    },
+    {
+      "start": 410.7,
+      "end": 411.12,
+      "text": "he said."
+    },
+    {
+      "start": 412.38,
+      "end": 413.2,
+      "text": "She made a face at",
+      "para_break": true
+    },
+    {
+      "start": 413.2,
+      "end": 413.36,
+      "text": "him,"
+    },
+    {
+      "start": 413.5,
+      "end": 414.1,
+      "text": "complained."
+    },
+    {
+      "start": 414.9,
+      "end": 417.84,
+      "text": "You're the most insistent person and bit a sandwich.",
+      "para_break": true
+    },
+    {
+      "start": 418.24,
+      "end": 419.14,
+      "text": "Yes,"
+    },
+    {
+      "start": 419.34,
+      "end": 420.72,
+      "text": "and wild and unpredictable."
+    },
+    {
+      "start": 422.144,
+      "end": 422.78,
+      "text": "What's this bird,",
+      "para_break": true
+    },
+    {
+      "start": 422.94,
+      "end": 425.12,
+      "text": "this falcon that everybody's all steamed up about?"
+    },
+    {
+      "start": 426.26,
+      "end": 427.3,
+      "text": "She chewed the beef and",
+      "para_break": true
+    },
+    {
+      "start": 427.32,
+      "end": 428.04,
+      "text": "bread in her mouth,"
+    },
+    {
+      "start": 428.2,
+      "end": 428.88,
+      "text": "swallowed it,"
+    },
+    {
+      "start": 428.98,
+      "end": 431.9,
+      "text": "looked attentively at the small crescent its removal"
+    },
+    {
+      "start": 432.18,
+      "end": 434.54,
+      "text": "had made in the sandwich's rim and asked,"
+    },
+    {
+      "start": 435.712,
+      "end": 436.82,
+      "text": "suppose I wouldn't tell you.",
+      "para_break": true
+    },
+    {
+      "start": 437.04,
+      "end": 438.48,
+      "text": "Suppose I wouldn't tell you"
+    },
+    {
+      "start": 438.54,
+      "end": 439.82,
+      "text": "anything at all about it."
+    },
+    {
+      "start": 440.7,
+      "end": 441.4,
+      "text": "What would you do?",
+      "para_break": true
+    },
+    {
+      "start": 442.23,
+      "end": 443.8,
+      "text": "You mean about the bird?",
+      "para_break": true
+    },
+    {
+      "start": 444.66,
+      "end": 446.16,
+      "text": "I mean about the whole thing.",
+      "para_break": true
+    },
+    {
+      "start": 447.16,
+      "end": 448.64,
+      "text": "I wouldn't be too surprised,",
+      "para_break": true
+    },
+    {
+      "start": 448.94,
+      "end": 449.56,
+      "text": "he told her,"
+    },
+    {
+      "start": 449.64,
+      "end": 452.2,
+      "text": "grinning so that the edges of his jaw teeth were visible,"
+    },
+    {
+      "start": 452.84,
+      "end": 454.32,
+      "text": "to know what to do next.",
+      "para_break": true
+    },
+    {
+      "start": 455.4,
+      "end": 456.02,
+      "text": "And that would be?",
+      "para_break": true
+    },
+    {
+      "start": 456.54,
+      "end": 459.18,
+      "text": "She transferred her attention from the sandwich to"
+    },
+    {
+      "start": 459.3,
+      "end": 459.66,
+      "text": "his face."
+    },
+    {
+      "start": 460.1,
+      "end": 461.66,
+      "text": "That's what I wanted to know."
+    },
+    {
+      "start": 462.26,
+      "end": 463.26,
+      "text": "What would you do next?",
+      "para_break": true
+    },
+    {
+      "start": 463.58,
+      "end": 464.94,
+      "text": "He shook his head."
+    },
+    {
+      "start": 466.112,
+      "end": 468.2,
+      "text": "Mockery rippled in a smile on her face.",
+      "para_break": true
+    },
+    {
+      "start": 468.38,
+      "end": 469.9,
+      "text": "Something wild and unpredictable?"
+    },
+    {
+      "start": 470.44,
+      "end": 471.54,
+      "text": "Maybe."
+    },
+    {
+      "start": 472.34,
+      "end": 472.94,
+      "text": "But I don't see",
+      "para_break": true
+    },
+    {
+      "start": 472.94,
+      "end": 474.88,
+      "text": "what you've got to gain by covering up now."
+    },
+    {
+      "start": 475.25,
+      "end": 477.14,
+      "text": "It's coming out bit by bit anyhow."
+    },
+    {
+      "start": 478.2,
+      "end": 478.82,
+      "text": "There's a lot of it",
+      "para_break": true
+    },
+    {
+      "start": 478.82,
+      "end": 479.42,
+      "text": "I don't know,"
+    },
+    {
+      "start": 479.84,
+      "end": 480.96,
+      "text": "but there's some of it I do,"
+    },
+    {
+      "start": 481.52,
+      "end": 483.22,
+      "text": "and some more that I can guess at.",
+      "para_break": true
+    },
+    {
+      "start": 483.744,
+      "end": 484.76,
+      "text": "And give me another"
+    },
+    {
+      "start": 484.98,
+      "end": 485.74,
+      "text": "day like this,"
+    },
+    {
+      "start": 485.76,
+      "end": 488.56,
+      "text": "I'll soon be knowing things about it that you don't know."
+    }
+  ]
+}

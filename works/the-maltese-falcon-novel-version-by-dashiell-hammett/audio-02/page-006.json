@@ -1,0 +1,747 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-02",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_02_hammett.mp3",
+  "chapter_title": "Death in the Fog",
+  "reader_name": "NLizer",
+  "page_num": 6,
+  "page_total": 6,
+  "page_start_sec": 1217.24,
+  "page_end_sec": 1451.06,
+  "para_gap_threshold": 0.738,
+  "segments": [
+    {
+      "start": 1217.24,
+      "end": 1218.14,
+      "text": "Did you see anybody,",
+      "para_break": true
+    },
+    {
+      "start": 1218.26,
+      "end": 1218.5,
+      "text": "that?"
+    },
+    {
+      "start": 1219.22,
+      "end": 1219.8,
+      "text": "No,"
+    },
+    {
+      "start": 1219.84,
+      "end": 1220.62,
+      "text": "no witnesses,"
+    },
+    {
+      "start": 1221.06,
+      "end": 1222.66,
+      "text": "Spade said and laughed pleasantly."
+    },
+    {
+      "start": 1223.54,
+      "end": 1223.92,
+      "text": "Sit down,",
+      "para_break": true
+    },
+    {
+      "start": 1224.0,
+      "end": 1224.4,
+      "text": "Dundee."
+    },
+    {
+      "start": 1224.5,
+      "end": 1225.94,
+      "text": "You haven't finished your drink."
+    },
+    {
+      "start": 1226.52,
+      "end": 1227.14,
+      "text": "Get your glass,"
+    },
+    {
+      "start": 1227.26,
+      "end": 1227.46,
+      "text": "Tom."
+    },
+    {
+      "start": 1228.704,
+      "end": 1229.14,
+      "text": "Tom said,"
+    },
+    {
+      "start": 1229.34,
+      "end": 1230.02,
+      "text": "No thanks,"
+    },
+    {
+      "start": 1230.24,
+      "end": 1230.42,
+      "text": "Sam."
+    },
+    {
+      "start": 1231.712,
+      "end": 1232.54,
+      "text": "Dundee sat down,",
+      "para_break": true
+    },
+    {
+      "start": 1232.62,
+      "end": 1234.62,
+      "text": "but paid no attention to his glass of rum."
+    },
+    {
+      "start": 1235.84,
+      "end": 1236.98,
+      "text": "Spade filled his own glass,",
+      "para_break": true
+    },
+    {
+      "start": 1237.18,
+      "end": 1237.58,
+      "text": "drank,"
+    },
+    {
+      "start": 1237.98,
+      "end": 1239.66,
+      "text": "set the empty glass on the table,"
+    },
+    {
+      "start": 1239.68,
+      "end": 1241.18,
+      "text": "and returned to his bedside seat."
+    },
+    {
+      "start": 1242.28,
+      "end": 1243.38,
+      "text": "I know where I stand now,",
+      "para_break": true
+    },
+    {
+      "start": 1243.54,
+      "end": 1243.94,
+      "text": "he said,"
+    },
+    {
+      "start": 1244.04,
+      "end": 1245.72,
+      "text": "looking with friendly eyes from one"
+    },
+    {
+      "start": 1245.72,
+      "end": 1247.22,
+      "text": "of the police detectives to the other."
+    },
+    {
+      "start": 1248.12,
+      "end": 1249.78,
+      "text": "I'm sorry I got up on my hind legs,",
+      "para_break": true
+    },
+    {
+      "start": 1250.3,
+      "end": 1252.94,
+      "text": "but you birds coming in and trying to put the work on me"
+    },
+    {
+      "start": 1253.28,
+      "end": 1253.96,
+      "text": "made me nervous."
+    },
+    {
+      "start": 1255.04,
+      "end": 1256.6,
+      "text": "Having Miles knocked off bothered me,",
+      "para_break": true
+    },
+    {
+      "start": 1256.68,
+      "end": 1258.72,
+      "text": "and then you birds cracking foxy."
+    },
+    {
+      "start": 1259.48,
+      "end": 1260.16,
+      "text": "That's all right now,",
+      "para_break": true
+    },
+    {
+      "start": 1260.28,
+      "end": 1260.52,
+      "text": "though,"
+    },
+    {
+      "start": 1260.58,
+      "end": 1262.42,
+      "text": "now that I know what you're up to,"
+    },
+    {
+      "start": 1262.64,
+      "end": 1263.78,
+      "text": "Tom said."
+    },
+    {
+      "start": 1264.0,
+      "end": 1264.86,
+      "text": "Forget it."
+    },
+    {
+      "start": 1265.72,
+      "end": 1266.06,
+      "text": "The lieutenant",
+      "para_break": true
+    },
+    {
+      "start": 1266.32,
+      "end": 1266.78,
+      "text": "said nothing."
+    },
+    {
+      "start": 1267.936,
+      "end": 1268.5,
+      "text": "Spade asked,",
+      "para_break": true
+    },
+    {
+      "start": 1269.184,
+      "end": 1269.7,
+      "text": "Thursby die?"
+    },
+    {
+      "start": 1270.82,
+      "end": 1271.92,
+      "text": "While the lieutenant hesitated,",
+      "para_break": true
+    },
+    {
+      "start": 1272.08,
+      "end": 1272.6,
+      "text": "Tom said,"
+    },
+    {
+      "start": 1272.8,
+      "end": 1273.38,
+      "text": "yes."
+    },
+    {
+      "start": 1274.68,
+      "end": 1274.88,
+      "text": "Then the",
+      "para_break": true
+    },
+    {
+      "start": 1275.0,
+      "end": 1276.09,
+      "text": "Lieutenant said angrily,"
+    },
+    {
+      "start": 1276.12,
+      "end": 1278.4,
+      "text": "and you might just as well know it,"
+    },
+    {
+      "start": 1278.44,
+      "end": 1279.48,
+      "text": "if you don't,"
+    },
+    {
+      "start": 1279.78,
+      "end": 1280.54,
+      "text": "that he died before"
+    },
+    {
+      "start": 1280.54,
+      "end": 1281.76,
+      "text": "he could tell anybody anything."
+    },
+    {
+      "start": 1283.04,
+      "end": 1284.24,
+      "text": "Spade was rolling a cigarette.",
+      "para_break": true
+    },
+    {
+      "start": 1284.46,
+      "end": 1285.22,
+      "text": "He asked,"
+    },
+    {
+      "start": 1285.28,
+      "end": 1285.96,
+      "text": "not looking up,"
+    },
+    {
+      "start": 1286.66,
+      "end": 1287.59,
+      "text": "what do you mean by that?"
+    },
+    {
+      "start": 1287.9,
+      "end": 1289.6,
+      "text": "You think I did know it?"
+    },
+    {
+      "start": 1290.72,
+      "end": 1291.6,
+      "text": "I meant what I said,",
+      "para_break": true
+    },
+    {
+      "start": 1291.76,
+      "end": 1293.02,
+      "text": "Dundee replied bluntly."
+    },
+    {
+      "start": 1294.208,
+      "end": 1295.44,
+      "text": "Spade looked up at him and smiled,",
+      "para_break": true
+    },
+    {
+      "start": 1295.66,
+      "end": 1297.46,
+      "text": "holding the finished cigarette in one hand,"
+    },
+    {
+      "start": 1297.9,
+      "end": 1298.84,
+      "text": "his lighter in the other."
+    },
+    {
+      "start": 1299.86,
+      "end": 1301.18,
+      "text": "You're not ready to pinch me yet,",
+      "para_break": true
+    },
+    {
+      "start": 1301.3,
+      "end": 1301.68,
+      "text": "are you,"
+    },
+    {
+      "start": 1301.7,
+      "end": 1302.1,
+      "text": "Dundee?"
+    },
+    {
+      "start": 1302.4,
+      "end": 1302.82,
+      "text": "He asked."
+    },
+    {
+      "start": 1303.968,
+      "end": 1307.22,
+      "text": "Dundee looked with hard green eyes at Spade and did not answer him.",
+      "para_break": true
+    },
+    {
+      "start": 1308.18,
+      "end": 1308.4,
+      "text": "Then,",
+      "para_break": true
+    },
+    {
+      "start": 1308.6,
+      "end": 1309.46,
+      "text": "said Spade,"
+    },
+    {
+      "start": 1309.7,
+      "end": 1313.72,
+      "text": "there's no particular reason why I should give a damn what you think,"
+    },
+    {
+      "start": 1313.8,
+      "end": 1314.34,
+      "text": "is there,"
+    },
+    {
+      "start": 1314.38,
+      "end": 1314.78,
+      "text": "Dundee?"
+    },
+    {
+      "start": 1315.84,
+      "end": 1316.3,
+      "text": "Tom said,",
+      "para_break": true
+    },
+    {
+      "start": 1316.6,
+      "end": 1317.14,
+      "text": "aw,"
+    },
+    {
+      "start": 1317.38,
+      "end": 1318.28,
+      "text": "be reasonable,"
+    },
+    {
+      "start": 1318.44,
+      "end": 1318.66,
+      "text": "Sam."
+    },
+    {
+      "start": 1319.08,
+      "end": 1321.62,
+      "text": "Spade put the cigarette in his mouth,"
+    },
+    {
+      "start": 1322.06,
+      "end": 1322.98,
+      "text": "set fire to it,"
+    },
+    {
+      "start": 1322.98,
+      "end": 1324.1,
+      "text": "and laughed smoke out."
+    },
+    {
+      "start": 1325.0,
+      "end": 1325.6,
+      "text": "I'll be reasonable,",
+      "para_break": true
+    },
+    {
+      "start": 1325.74,
+      "end": 1326.0,
+      "text": "Tom,"
+    },
+    {
+      "start": 1326.14,
+      "end": 1326.6,
+      "text": "he promised."
+    },
+    {
+      "start": 1326.84,
+      "end": 1328.04,
+      "text": "How did I kill this"
+    },
+    {
+      "start": 1328.28,
+      "end": 1328.56,
+      "text": "Thursby."
+    },
+    {
+      "start": 1328.66,
+      "end": 1329.26,
+      "text": "I've forgotten."
+    },
+    {
+      "start": 1330.624,
+      "end": 1331.84,
+      "text": "Tom grunted disgust.",
+      "para_break": true
+    },
+    {
+      "start": 1332.608,
+      "end": 1335.44,
+      "text": "Lieutenant Dundee said he was shot four times",
+      "para_break": true
+    },
+    {
+      "start": 1335.58,
+      "end": 1338.76,
+      "text": "in the back with a 44 or 45 from across the street"
+    },
+    {
+      "start": 1339.28,
+      "end": 1341.08,
+      "text": "when he started to go in the hotel."
+    },
+    {
+      "start": 1342.176,
+      "end": 1342.86,
+      "text": "Nobody saw it,",
+      "para_break": true
+    },
+    {
+      "start": 1342.88,
+      "end": 1344.18,
+      "text": "but that's the way it figures."
+    },
+    {
+      "start": 1344.6,
+      "end": 1347.44,
+      "text": "And he was wearing a luger in a shoulder holster,"
+    },
+    {
+      "start": 1347.72,
+      "end": 1348.2,
+      "text": "Tom added."
+    },
+    {
+      "start": 1348.36,
+      "end": 1349.6,
+      "text": "It hadn't been fired."
+    },
+    {
+      "start": 1350.2,
+      "end": 1352.56,
+      "text": "What do the hotel people know about him?"
+    },
+    {
+      "start": 1352.68,
+      "end": 1353.38,
+      "text": "Spade asked."
+    },
+    {
+      "start": 1354.6,
+      "end": 1356.44,
+      "text": "Nothing except that he'd been there a week.",
+      "para_break": true
+    },
+    {
+      "start": 1357.26,
+      "end": 1357.56,
+      "text": "Alone?",
+      "para_break": true
+    },
+    {
+      "start": 1358.34,
+      "end": 1359.22,
+      "text": "Alone.",
+      "para_break": true
+    },
+    {
+      "start": 1360.15,
+      "end": 1362.64,
+      "text": "What did you find on him or in his room?",
+      "para_break": true
+    },
+    {
+      "start": 1363.84,
+      "end": 1365.38,
+      "text": "Dundee drew his lips in and asked,",
+      "para_break": true
+    },
+    {
+      "start": 1365.74,
+      "end": 1367.24,
+      "text": "What do you think we'd find?"
+    },
+    {
+      "start": 1368.48,
+      "end": 1370.82,
+      "text": "Spade made a careless circle with his limp cigarette,",
+      "para_break": true
+    },
+    {
+      "start": 1371.552,
+      "end": 1373.12,
+      "text": "something to tell you who he was,"
+    },
+    {
+      "start": 1373.54,
+      "end": 1374.42,
+      "text": "what his story was."
+    },
+    {
+      "start": 1375.26,
+      "end": 1375.58,
+      "text": "Did you?",
+      "para_break": true
+    },
+    {
+      "start": 1376.84,
+      "end": 1378.14,
+      "text": "We thought you could tell us that.",
+      "para_break": true
+    },
+    {
+      "start": 1379.264,
+      "end": 1381.76,
+      "text": "Spade looked at the lieutenant with yellow-gray eyes",
+      "para_break": true
+    },
+    {
+      "start": 1382.02,
+      "end": 1384.7,
+      "text": "that held an almost exaggerated amount of candor."
+    },
+    {
+      "start": 1385.6,
+      "end": 1387.84,
+      "text": "I've never seen Thursby dead or alive.",
+      "para_break": true
+    },
+    {
+      "start": 1389.12,
+      "end": 1391.1,
+      "text": "Lieutenant Dundee stood up looking dissatisfied.",
+      "para_break": true
+    },
+    {
+      "start": 1391.904,
+      "end": 1393.32,
+      "text": "Tom rose yawning and stretching.",
+      "para_break": true
+    },
+    {
+      "start": 1394.74,
+      "end": 1396.12,
+      "text": "We've asked what we came to ask,",
+      "para_break": true
+    },
+    {
+      "start": 1396.28,
+      "end": 1397.0,
+      "text": "Dundee said,"
+    },
+    {
+      "start": 1397.664,
+      "end": 1399.5,
+      "text": "frowning over eyes hard as green pebbles."
+    },
+    {
+      "start": 1400.22,
+      "end": 1401.98,
+      "text": "He held his mustached upper lip"
+    },
+    {
+      "start": 1402.5,
+      "end": 1403.22,
+      "text": "tight to his teeth,"
+    },
+    {
+      "start": 1404.064,
+      "end": 1405.8,
+      "text": "letting his lower lip push the words out.",
+      "para_break": true
+    },
+    {
+      "start": 1406.84,
+      "end": 1408.54,
+      "text": "We've told you more than you've told us.",
+      "para_break": true
+    },
+    {
+      "start": 1409.44,
+      "end": 1410.08,
+      "text": "That's fair enough.",
+      "para_break": true
+    },
+    {
+      "start": 1410.9,
+      "end": 1411.36,
+      "text": "You know me,",
+      "para_break": true
+    },
+    {
+      "start": 1411.44,
+      "end": 1411.8,
+      "text": "Spade."
+    },
+    {
+      "start": 1412.09,
+      "end": 1413.68,
+      "text": "If you did or you didn't,"
+    },
+    {
+      "start": 1413.68,
+      "end": 1415.38,
+      "text": "you'll get a square deal out of me,"
+    },
+    {
+      "start": 1415.98,
+      "end": 1416.82,
+      "text": "and most of the breaks."
+    },
+    {
+      "start": 1417.62,
+      "end": 1420.3,
+      "text": "I don't know that I'd blame you a hell of a lot,",
+      "para_break": true
+    },
+    {
+      "start": 1420.48,
+      "end": 1422.58,
+      "text": "but that wouldn't keep me from nailing you."
+    },
+    {
+      "start": 1423.72,
+      "end": 1424.08,
+      "text": "Fair enough,",
+      "para_break": true
+    },
+    {
+      "start": 1424.36,
+      "end": 1425.62,
+      "text": "Spade replied evenly,"
+    },
+    {
+      "start": 1426.48,
+      "end": 1428.88,
+      "text": "but I'd feel better about it if you'd drink your drink.",
+      "para_break": true
+    },
+    {
+      "start": 1430.4,
+      "end": 1431.92,
+      "text": "Lieutenant Dundee turned to the table,",
+      "para_break": true
+    },
+    {
+      "start": 1432.04,
+      "end": 1432.94,
+      "text": "picked up his glass,"
+    },
+    {
+      "start": 1432.98,
+      "end": 1433.98,
+      "text": "and slowly emptied it."
+    },
+    {
+      "start": 1434.64,
+      "end": 1435.14,
+      "text": "Then he said,"
+    },
+    {
+      "start": 1435.58,
+      "end": 1435.94,
+      "text": "good night,"
+    },
+    {
+      "start": 1436.5,
+      "end": 1437.36,
+      "text": "and held out his hand."
+    },
+    {
+      "start": 1437.78,
+      "end": 1440.0,
+      "text": "They shook hands ceremoniously."
+    },
+    {
+      "start": 1440.18,
+      "end": 1442.54,
+      "text": "Tom and Spade shook hands ceremoniously."
+    },
+    {
+      "start": 1442.92,
+      "end": 1444.3,
+      "text": "Spade let them out."
+    },
+    {
+      "start": 1445.72,
+      "end": 1446.24,
+      "text": "Then he undressed,",
+      "para_break": true
+    },
+    {
+      "start": 1446.88,
+      "end": 1447.68,
+      "text": "turned off the lights,"
+    },
+    {
+      "start": 1447.76,
+      "end": 1448.68,
+      "text": "and went to bed."
+    },
+    {
+      "start": 1450.016,
+      "end": 1451.06,
+      "text": "End of chapter two",
+      "para_break": true
+    }
+  ]
+}

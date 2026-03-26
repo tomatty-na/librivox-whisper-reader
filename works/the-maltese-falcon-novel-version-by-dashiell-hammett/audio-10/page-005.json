@@ -1,0 +1,681 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-10",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_10_hammett.mp3",
+  "chapter_title": "The Belvedere Divan",
+  "reader_name": "NLizer",
+  "page_num": 5,
+  "page_total": 5,
+  "page_start_sec": 969.94,
+  "page_end_sec": 1179.96,
+  "para_gap_threshold": 0.552,
+  "segments": [
+    {
+      "start": 969.94,
+      "end": 971.02,
+      "text": "The mover had run away.",
+      "para_break": true
+    },
+    {
+      "start": 972.02,
+      "end": 972.84,
+      "text": "Two other women,",
+      "para_break": true
+    },
+    {
+      "start": 972.98,
+      "end": 974.62,
+      "text": "who lived alone in the same building,"
+    },
+    {
+      "start": 974.76,
+      "end": 976.3,
+      "text": "had discovered later in the morning"
+    },
+    {
+      "start": 976.74,
+      "end": 979.02,
+      "text": "signs of the burglars having visited their apartments."
+    },
+    {
+      "start": 979.32,
+      "end": 981.14,
+      "text": "Nothing had been taken from any"
+    },
+    {
+      "start": 981.34,
+      "end": 981.8,
+      "text": "of the three."
+    },
+    {
+      "start": 982.43,
+      "end": 983.68,
+      "text": "That's where I shook him,",
+      "para_break": true
+    },
+    {
+      "start": 983.78,
+      "end": 984.38,
+      "text": "Spade explained."
+    },
+    {
+      "start": 985.06,
+      "end": 986.82,
+      "text": "I went into that building and ducked",
+      "para_break": true
+    },
+    {
+      "start": 986.82,
+      "end": 987.5,
+      "text": "out the back door."
+    },
+    {
+      "start": 988.288,
+      "end": 990.88,
+      "text": "That's why all three were women who lived alone.",
+      "para_break": true
+    },
+    {
+      "start": 991.16,
+      "end": 992.44,
+      "text": "He tried the apartments"
+    },
+    {
+      "start": 992.66,
+      "end": 995.24,
+      "text": "that had women's names in the vestibule register,"
+    },
+    {
+      "start": 995.48,
+      "end": 997.58,
+      "text": "hunting for you under an alias."
+    },
+    {
+      "start": 998.28,
+      "end": 1000.14,
+      "text": "But he was watching your place when we were there,",
+      "para_break": true
+    },
+    {
+      "start": 1000.32,
+      "end": 1001.12,
+      "text": "she objected."
+    },
+    {
+      "start": 1001.76,
+      "end": 1002.52,
+      "text": "Spade shrugged.",
+      "para_break": true
+    },
+    {
+      "start": 1002.54,
+      "end": 1003.52,
+      "text": "There's no reason"
+    },
+    {
+      "start": 1003.52,
+      "end": 1004.8,
+      "text": "to think he's working alone,"
+    },
+    {
+      "start": 1005.0,
+      "end": 1008.14,
+      "text": "or maybe he went to Sutter Street after he had begun to think"
+    },
+    {
+      "start": 1008.32,
+      "end": 1010.4,
+      "text": "you were going to stay all night in my place."
+    },
+    {
+      "start": 1011.16,
+      "end": 1012.22,
+      "text": "There are a lot of maybes,",
+      "para_break": true
+    },
+    {
+      "start": 1012.58,
+      "end": 1013.44,
+      "text": "but I didn't lead him"
+    },
+    {
+      "start": 1013.44,
+      "end": 1014.14,
+      "text": "to the coronet."
+    },
+    {
+      "start": 1015.22,
+      "end": 1016.2,
+      "text": "She was not satisfied,",
+      "para_break": true
+    },
+    {
+      "start": 1016.9,
+      "end": 1017.54,
+      "text": "but he found it,",
+      "para_break": true
+    },
+    {
+      "start": 1017.6,
+      "end": 1018.56,
+      "text": "or somebody did."
+    },
+    {
+      "start": 1019.3,
+      "end": 1019.84,
+      "text": "Sure,",
+      "para_break": true
+    },
+    {
+      "start": 1020.02,
+      "end": 1020.9,
+      "text": "he frowned at"
+    },
+    {
+      "start": 1020.9,
+      "end": 1021.3,
+      "text": "her feet."
+    },
+    {
+      "start": 1021.68,
+      "end": 1023.48,
+      "text": "I wonder if it could have been Cairo."
+    },
+    {
+      "start": 1024.14,
+      "end": 1025.86,
+      "text": "He wasn't at his hotel all night,",
+      "para_break": true
+    },
+    {
+      "start": 1026.02,
+      "end": 1027.02,
+      "text": "didn't get in"
+    },
+    {
+      "start": 1027.12,
+      "end": 1028.08,
+      "text": "till a few minutes ago."
+    },
+    {
+      "start": 1028.4,
+      "end": 1032.04,
+      "text": "He told me he had been standing up under a police grilling all night."
+    },
+    {
+      "start": 1032.24,
+      "end": 1033.2,
+      "text": "I wonder."
+    },
+    {
+      "start": 1033.54,
+      "end": 1034.3,
+      "text": "He turned,"
+    },
+    {
+      "start": 1034.48,
+      "end": 1035.22,
+      "text": "opened the door,"
+    },
+    {
+      "start": 1035.28,
+      "end": 1036.58,
+      "text": "and asked Effie Perrine,"
+    },
+    {
+      "start": 1036.82,
+      "end": 1037.84,
+      "text": "got Tom yet?"
+    },
+    {
+      "start": 1038.94,
+      "end": 1039.44,
+      "text": "He's not in.",
+      "para_break": true
+    },
+    {
+      "start": 1039.58,
+      "end": 1040.14,
+      "text": "I'll try"
+    },
+    {
+      "start": 1040.28,
+      "end": 1041.44,
+      "text": "again in a few minutes."
+    },
+    {
+      "start": 1041.78,
+      "end": 1042.46,
+      "text": "Thanks."
+    },
+    {
+      "start": 1042.64,
+      "end": 1045.13,
+      "text": "Spade shut the door and faced Bridget O'Shaughnessy."
+    },
+    {
+      "start": 1045.86,
+      "end": 1046.18,
+      "text": "She looked",
+      "para_break": true
+    },
+    {
+      "start": 1046.18,
+      "end": 1047.28,
+      "text": "at him with cloudy eyes."
+    },
+    {
+      "start": 1047.92,
+      "end": 1049.34,
+      "text": "You went to see Joe this morning?",
+      "para_break": true
+    },
+    {
+      "start": 1049.48,
+      "end": 1050.1,
+      "text": "She asked."
+    },
+    {
+      "start": 1050.3,
+      "end": 1050.4,
+      "text": "Yes."
+    },
+    {
+      "start": 1052.26,
+      "end": 1052.61,
+      "text": "She hesitated."
+    },
+    {
+      "start": 1053.24,
+      "end": 1053.34,
+      "text": "Why?",
+      "para_break": true
+    },
+    {
+      "start": 1054.88,
+      "end": 1055.34,
+      "text": "Why?",
+      "para_break": true
+    },
+    {
+      "start": 1055.68,
+      "end": 1057.0,
+      "text": "He smiled down at her."
+    },
+    {
+      "start": 1057.952,
+      "end": 1059.12,
+      "text": "Because my own true love,",
+      "para_break": true
+    },
+    {
+      "start": 1059.3,
+      "end": 1061.48,
+      "text": "I've got to keep in some sort of touch"
+    },
+    {
+      "start": 1061.7,
+      "end": 1063.9,
+      "text": "with all the loose ends of this dizzy affair,"
+    },
+    {
+      "start": 1064.18,
+      "end": 1066.72,
+      "text": "if I'm ever going to make heads or tails of it."
+    },
+    {
+      "start": 1067.02,
+      "end": 1068.82,
+      "text": "He put an arm around her shoulders"
+    },
+    {
+      "start": 1068.82,
+      "end": 1070.64,
+      "text": "and led her over to a swivel chair."
+    },
+    {
+      "start": 1071.44,
+      "end": 1074.36,
+      "text": "He kissed the tip of her nose lightly and set her down in a chair.",
+      "para_break": true
+    },
+    {
+      "start": 1074.9,
+      "end": 1076.66,
+      "text": "He sat on the desk in front of her."
+    },
+    {
+      "start": 1076.78,
+      "end": 1077.44,
+      "text": "He said,"
+    },
+    {
+      "start": 1078.06,
+      "end": 1080.02,
+      "text": "Now we've got to find a new home for you,",
+      "para_break": true
+    },
+    {
+      "start": 1080.06,
+      "end": 1080.6,
+      "text": "haven't we?"
+    },
+    {
+      "start": 1081.44,
+      "end": 1082.54,
+      "text": "She nodded with emphasis.",
+      "para_break": true
+    },
+    {
+      "start": 1082.82,
+      "end": 1083.98,
+      "text": "I won't go back there."
+    },
+    {
+      "start": 1084.96,
+      "end": 1087.78,
+      "text": "He patted the desk beside his thighs and made a thoughtful face.",
+      "para_break": true
+    },
+    {
+      "start": 1088.42,
+      "end": 1089.38,
+      "text": "I think I've got it,",
+      "para_break": true
+    },
+    {
+      "start": 1089.5,
+      "end": 1090.28,
+      "text": "he said presently."
+    },
+    {
+      "start": 1090.36,
+      "end": 1091.04,
+      "text": "Wait a minute."
+    },
+    {
+      "start": 1091.68,
+      "end": 1093.18,
+      "text": "He went into the outer office,",
+      "para_break": true
+    },
+    {
+      "start": 1093.22,
+      "end": 1094.0,
+      "text": "shutting the door."
+    },
+    {
+      "start": 1094.848,
+      "end": 1096.34,
+      "text": "Effie Perrine reached for the telephone,",
+      "para_break": true
+    },
+    {
+      "start": 1096.46,
+      "end": 1096.74,
+      "text": "saying,"
+    },
+    {
+      "start": 1096.88,
+      "end": 1097.56,
+      "text": "I'll try again."
+    },
+    {
+      "start": 1098.66,
+      "end": 1099.08,
+      "text": "Afterwards,",
+      "para_break": true
+    },
+    {
+      "start": 1099.36,
+      "end": 1101.6,
+      "text": "does your woman's intuition still tell"
+    },
+    {
+      "start": 1101.6,
+      "end": 1103.26,
+      "text": "you that she's a Madonna or something?"
+    },
+    {
+      "start": 1104.16,
+      "end": 1105.38,
+      "text": "She looked sharply up at him.",
+      "para_break": true
+    },
+    {
+      "start": 1105.88,
+      "end": 1107.78,
+      "text": "I still believe that no matter what"
+    },
+    {
+      "start": 1107.78,
+      "end": 1109.28,
+      "text": "kind of trouble she's gotten into,"
+    },
+    {
+      "start": 1109.792,
+      "end": 1110.36,
+      "text": "she's all right,"
+    },
+    {
+      "start": 1110.36,
+      "end": 1111.28,
+      "text": "if that's what you mean."
+    },
+    {
+      "start": 1112.416,
+      "end": 1112.98,
+      "text": "That's what I mean,",
+      "para_break": true
+    },
+    {
+      "start": 1113.1,
+      "end": 1113.5,
+      "text": "he said."
+    },
+    {
+      "start": 1114.02,
+      "end": 1116.2,
+      "text": "Are you strong enough for her to give her a lift?"
+    },
+    {
+      "start": 1116.74,
+      "end": 1117.22,
+      "text": "How?"
+    },
+    {
+      "start": 1118.48,
+      "end": 1119.94,
+      "text": "Could you put her up for a few days?",
+      "para_break": true
+    },
+    {
+      "start": 1120.76,
+      "end": 1121.46,
+      "text": "You mean at home?",
+      "para_break": true
+    },
+    {
+      "start": 1121.68,
+      "end": 1121.78,
+      "text": "Yes,"
+    },
+    {
+      "start": 1123.1,
+      "end": 1124.74,
+      "text": "her joint's been broken into.",
+      "para_break": true
+    },
+    {
+      "start": 1125.3,
+      "end": 1127.16,
+      "text": "That's the second burglary she's had this week.",
+      "para_break": true
+    },
+    {
+      "start": 1127.92,
+      "end": 1129.7,
+      "text": "It'd be better for her if she wasn't alone.",
+      "para_break": true
+    },
+    {
+      "start": 1130.56,
+      "end": 1132.36,
+      "text": "It would help a lot if you could take her in.",
+      "para_break": true
+    },
+    {
+      "start": 1133.536,
+      "end": 1134.72,
+      "text": "Effie Perrine leaned forward,",
+      "para_break": true
+    },
+    {
+      "start": 1134.92,
+      "end": 1135.9,
+      "text": "asking earnestly,"
+    },
+    {
+      "start": 1137.02,
+      "end": 1138.2,
+      "text": "Is she really in danger,",
+      "para_break": true
+    },
+    {
+      "start": 1138.32,
+      "end": 1138.56,
+      "text": "Sam?"
+    },
+    {
+      "start": 1139.74,
+      "end": 1140.52,
+      "text": "I think she is.",
+      "para_break": true
+    },
+    {
+      "start": 1141.64,
+      "end": 1143.35,
+      "text": "She scratched her lip with a fingernail.",
+      "para_break": true
+    },
+    {
+      "start": 1144.22,
+      "end": 1146.44,
+      "text": "That would scare Ma into a green hemorrhage.",
+      "para_break": true
+    },
+    {
+      "start": 1147.0,
+      "end": 1149.34,
+      "text": "I'll have to tell her she's a surprise witness or something",
+      "para_break": true
+    },
+    {
+      "start": 1149.68,
+      "end": 1152.02,
+      "text": "that you're keeping undercover till the last minute."
+    },
+    {
+      "start": 1153.06,
+      "end": 1153.6,
+      "text": "You're a darling,",
+      "para_break": true
+    },
+    {
+      "start": 1153.84,
+      "end": 1154.44,
+      "text": "Spade said."
+    },
+    {
+      "start": 1155.02,
+      "end": 1155.72,
+      "text": "Better",
+      "para_break": true
+    },
+    {
+      "start": 1155.82,
+      "end": 1156.74,
+      "text": "take her out there now."
+    },
+    {
+      "start": 1156.96,
+      "end": 1160.6,
+      "text": "I'll get her key from her and bring whatever she needs over from her"
+    },
+    {
+      "start": 1160.7,
+      "end": 1161.0,
+      "text": "apartment."
+    },
+    {
+      "start": 1162.016,
+      "end": 1162.42,
+      "text": "Let's see.",
+      "para_break": true
+    },
+    {
+      "start": 1163.42,
+      "end": 1165.5,
+      "text": "You oughtn't to be seen leaving here together.",
+      "para_break": true
+    },
+    {
+      "start": 1166.28,
+      "end": 1167.12,
+      "text": "You go home now.",
+      "para_break": true
+    },
+    {
+      "start": 1167.94,
+      "end": 1168.22,
+      "text": "Take a",
+      "para_break": true
+    },
+    {
+      "start": 1168.34,
+      "end": 1168.62,
+      "text": "taxi,"
+    },
+    {
+      "start": 1169.18,
+      "end": 1170.46,
+      "text": "but make sure you aren't followed.",
+      "para_break": true
+    },
+    {
+      "start": 1170.74,
+      "end": 1172.1,
+      "text": "You probably won't be,"
+    },
+    {
+      "start": 1172.16,
+      "end": 1172.72,
+      "text": "but make sure."
+    },
+    {
+      "start": 1173.58,
+      "end": 1174.02,
+      "text": "I'll send her",
+      "para_break": true
+    },
+    {
+      "start": 1174.3,
+      "end": 1175.8,
+      "text": "out in another in a little while,"
+    },
+    {
+      "start": 1176.38,
+      "end": 1177.76,
+      "text": "making sure she isn't followed.",
+      "para_break": true
+    },
+    {
+      "start": 1178.944,
+      "end": 1179.96,
+      "text": "End of chapter 10.",
+      "para_break": true
+    }
+  ]
+}

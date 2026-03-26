@@ -1,0 +1,776 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-11",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_11_hammett.mp3",
+  "chapter_title": "The Fat Man",
+  "reader_name": "NLizer",
+  "page_num": 3,
+  "page_total": 6,
+  "page_start_sec": 484.12,
+  "page_end_sec": 724.44,
+  "para_gap_threshold": 0.574,
+  "segments": [
+    {
+      "start": 484.12,
+      "end": 487.76,
+      "text": "The fat man raised his glass and held it against a window's light."
+    },
+    {
+      "start": 488.18,
+      "end": 491.14,
+      "text": "He nodded approvingly at the bubbles running up in it."
+    },
+    {
+      "start": 491.28,
+      "end": 492.0,
+      "text": "He said,"
+    },
+    {
+      "start": 492.18,
+      "end": 492.5,
+      "text": "well,"
+    },
+    {
+      "start": 492.54,
+      "end": 492.76,
+      "text": "sir,"
+    },
+    {
+      "start": 492.94,
+      "end": 494.48,
+      "text": "here's to plain speaking"
+    },
+    {
+      "start": 494.74,
+      "end": 495.72,
+      "text": "and clear understanding."
+    },
+    {
+      "start": 496.96,
+      "end": 498.42,
+      "text": "They drank and lowered their glasses.",
+      "para_break": true
+    },
+    {
+      "start": 498.96,
+      "end": 500.74,
+      "text": "The fat man looked shrewdly at"
+    },
+    {
+      "start": 500.8,
+      "end": 501.48,
+      "text": "Spade and asked,"
+    },
+    {
+      "start": 501.66,
+      "end": 502.98,
+      "text": "you're a closed mouth man?"
+    },
+    {
+      "start": 504.0,
+      "end": 505.1,
+      "text": "Spade shook his head.",
+      "para_break": true
+    },
+    {
+      "start": 505.6,
+      "end": 506.4,
+      "text": "I like to talk."
+    },
+    {
+      "start": 507.44,
+      "end": 507.94,
+      "text": "Better and better,",
+      "para_break": true
+    },
+    {
+      "start": 508.16,
+      "end": 509.28,
+      "text": "the fat man exclaimed."
+    },
+    {
+      "start": 509.65,
+      "end": 511.94,
+      "text": "I just trust a closed-mouthed man."
+    },
+    {
+      "start": 512.3,
+      "end": 514.76,
+      "text": "He generally picks the wrong time to talk and"
+    },
+    {
+      "start": 514.76,
+      "end": 515.8,
+      "text": "says the wrong things."
+    },
+    {
+      "start": 516.07,
+      "end": 517.8,
+      "text": "Talking is something you can't do"
+    },
+    {
+      "start": 517.81,
+      "end": 520.0,
+      "text": "judiciously unless you keep in practice."
+    },
+    {
+      "start": 520.7,
+      "end": 522.18,
+      "text": "He beamed over his glass.",
+      "para_break": true
+    },
+    {
+      "start": 523.18,
+      "end": 523.64,
+      "text": "We'll get along,",
+      "para_break": true
+    },
+    {
+      "start": 523.88,
+      "end": 524.06,
+      "text": "sir."
+    },
+    {
+      "start": 524.22,
+      "end": 524.98,
+      "text": "That we will."
+    },
+    {
+      "start": 525.33,
+      "end": 527.28,
+      "text": "He set his glass on the table and"
+    },
+    {
+      "start": 527.38,
+      "end": 529.7,
+      "text": "held the box of Coronas Del Ritz out to Spade."
+    },
+    {
+      "start": 530.26,
+      "end": 530.58,
+      "text": "A cigar,"
+    },
+    {
+      "start": 530.74,
+      "end": 530.94,
+      "text": "sir?"
+    },
+    {
+      "start": 531.51,
+      "end": 532.82,
+      "text": "Spade took a cigar,"
+    },
+    {
+      "start": 533.06,
+      "end": 533.94,
+      "text": "trimmed the end"
+    },
+    {
+      "start": 534.08,
+      "end": 534.96,
+      "text": "of it and lighted it."
+    },
+    {
+      "start": 535.06,
+      "end": 535.16,
+      "text": "Meanwhile,"
+    },
+    {
+      "start": 536.16,
+      "end": 539.0,
+      "text": "the fat man pulled another green plush chair around to face",
+      "para_break": true
+    },
+    {
+      "start": 539.12,
+      "end": 542.02,
+      "text": "spades within convenient distance and placed"
+    },
+    {
+      "start": 542.02,
+      "end": 544.46,
+      "text": "a smoking stand within reach of both chairs."
+    },
+    {
+      "start": 545.18,
+      "end": 547.28,
+      "text": "Then he took his glass from the table,",
+      "para_break": true
+    },
+    {
+      "start": 547.88,
+      "end": 549.14,
+      "text": "took a cigar from the box,",
+      "para_break": true
+    },
+    {
+      "start": 549.64,
+      "end": 550.64,
+      "text": "and lowered himself into"
+    },
+    {
+      "start": 550.76,
+      "end": 551.22,
+      "text": "his chair."
+    },
+    {
+      "start": 552.32,
+      "end": 555.14,
+      "text": "His bulb stopped jouncing and settled into flabby rest.",
+      "para_break": true
+    },
+    {
+      "start": 555.44,
+      "end": 557.56,
+      "text": "He sighed comfortably and said,"
+    },
+    {
+      "start": 558.0,
+      "end": 558.36,
+      "text": "Now,"
+    },
+    {
+      "start": 558.46,
+      "end": 558.7,
+      "text": "sir,"
+    },
+    {
+      "start": 558.88,
+      "end": 560.34,
+      "text": "we'll talk if you like,"
+    },
+    {
+      "start": 561.0,
+      "end": 563.68,
+      "text": "and I'll tell you right out that I'm a man who likes talking",
+      "para_break": true
+    },
+    {
+      "start": 563.94,
+      "end": 565.26,
+      "text": "to a man that likes to talk."
+    },
+    {
+      "start": 565.92,
+      "end": 566.46,
+      "text": "Swell,",
+      "para_break": true
+    },
+    {
+      "start": 567.14,
+      "end": 568.56,
+      "text": "will we talk about the black bird?",
+      "para_break": true
+    },
+    {
+      "start": 569.42,
+      "end": 570.8,
+      "text": "The fat man laughed and his",
+      "para_break": true
+    },
+    {
+      "start": 570.9,
+      "end": 572.64,
+      "text": "bulbs rode up and down on his laughter."
+    },
+    {
+      "start": 573.62,
+      "end": 573.94,
+      "text": "Will we?",
+      "para_break": true
+    },
+    {
+      "start": 574.08,
+      "end": 576.1,
+      "text": "He asked and we will,"
+    },
+    {
+      "start": 576.66,
+      "end": 577.02,
+      "text": "he replied."
+    },
+    {
+      "start": 577.62,
+      "end": 579.0,
+      "text": "His pink face",
+      "para_break": true
+    },
+    {
+      "start": 579.0,
+      "end": 580.0,
+      "text": "was shining with delight."
+    },
+    {
+      "start": 580.84,
+      "end": 581.62,
+      "text": "You're the man for me,",
+      "para_break": true
+    },
+    {
+      "start": 581.74,
+      "end": 581.96,
+      "text": "sir."
+    },
+    {
+      "start": 582.12,
+      "end": 584.08,
+      "text": "A man cut along my own lines."
+    },
+    {
+      "start": 584.74,
+      "end": 585.1,
+      "text": "No beating",
+      "para_break": true
+    },
+    {
+      "start": 585.26,
+      "end": 585.9,
+      "text": "about the bush,"
+    },
+    {
+      "start": 586.24,
+      "end": 587.14,
+      "text": "but right to the point."
+    },
+    {
+      "start": 587.84,
+      "end": 589.16,
+      "text": "Will we talk about the black bird?",
+      "para_break": true
+    },
+    {
+      "start": 589.36,
+      "end": 590.04,
+      "text": "We will."
+    },
+    {
+      "start": 590.59,
+      "end": 591.44,
+      "text": "I like that,"
+    },
+    {
+      "start": 591.64,
+      "end": 591.82,
+      "text": "sir."
+    },
+    {
+      "start": 591.96,
+      "end": 593.8,
+      "text": "I like that way of doing business."
+    },
+    {
+      "start": 594.17,
+      "end": 596.56,
+      "text": "Let us talk about the blackbird by all means,"
+    },
+    {
+      "start": 596.74,
+      "end": 597.52,
+      "text": "but first,"
+    },
+    {
+      "start": 597.56,
+      "end": 597.72,
+      "text": "sir,"
+    },
+    {
+      "start": 597.8,
+      "end": 598.78,
+      "text": "answer me a question,"
+    },
+    {
+      "start": 598.88,
+      "end": 599.2,
+      "text": "please."
+    },
+    {
+      "start": 599.54,
+      "end": 602.0,
+      "text": "So maybe it's an unnecessary one."
+    },
+    {
+      "start": 602.9,
+      "end": 603.26,
+      "text": "So we'll",
+      "para_break": true
+    },
+    {
+      "start": 603.28,
+      "end": 604.8,
+      "text": "understand each other from the beginning."
+    },
+    {
+      "start": 605.58,
+      "end": 607.8,
+      "text": "You're here as Miss O'Shaughnessy's representative?",
+      "para_break": true
+    },
+    {
+      "start": 609.376,
+      "end": 612.26,
+      "text": "Spade blew smoke above the fat man's head in a long,",
+      "para_break": true
+    },
+    {
+      "start": 612.34,
+      "end": 613.24,
+      "text": "slanting plume."
+    },
+    {
+      "start": 613.5,
+      "end": 615.04,
+      "text": "He frowned thoughtfully"
+    },
+    {
+      "start": 615.2,
+      "end": 616.88,
+      "text": "at the ash-tipped end of his cigar."
+    },
+    {
+      "start": 617.22,
+      "end": 618.66,
+      "text": "He replied deliberately,"
+    },
+    {
+      "start": 618.9,
+      "end": 620.58,
+      "text": "I can't say yes or no."
+    },
+    {
+      "start": 620.78,
+      "end": 621.38,
+      "text": "There's"
+    },
+    {
+      "start": 621.52,
+      "end": 623.18,
+      "text": "nothing certain about it either way yet."
+    },
+    {
+      "start": 623.64,
+      "end": 626.24,
+      "text": "He looked up at the fat man and stopped frowning."
+    },
+    {
+      "start": 626.7,
+      "end": 627.08,
+      "text": "It depends."
+    },
+    {
+      "start": 628.48,
+      "end": 629.63,
+      "text": "It depends on...",
+      "para_break": true
+    },
+    {
+      "start": 629.97,
+      "end": 631.28,
+      "text": "Spade shook his head."
+    },
+    {
+      "start": 631.52,
+      "end": 633.26,
+      "text": "If I knew what it depends on,"
+    },
+    {
+      "start": 633.4,
+      "end": 634.34,
+      "text": "I could say yes or"
+    },
+    {
+      "start": 634.34,
+      "end": 634.54,
+      "text": "no."
+    },
+    {
+      "start": 635.72,
+      "end": 637.56,
+      "text": "The fat man took a mouthful from his glass,",
+      "para_break": true
+    },
+    {
+      "start": 637.74,
+      "end": 638.24,
+      "text": "swallowed it,"
+    },
+    {
+      "start": 638.28,
+      "end": 638.82,
+      "text": "and suggested,"
+    },
+    {
+      "start": 639.0,
+      "end": 640.52,
+      "text": "maybe it depends on"
+    },
+    {
+      "start": 640.62,
+      "end": 641.22,
+      "text": "Joel Cairo."
+    },
+    {
+      "start": 641.44,
+      "end": 642.9,
+      "text": "Spade's prompt,"
+    },
+    {
+      "start": 643.12,
+      "end": 643.64,
+      "text": "maybe,"
+    },
+    {
+      "start": 643.84,
+      "end": 644.88,
+      "text": "was noncommittal."
+    },
+    {
+      "start": 645.34,
+      "end": 645.7,
+      "text": "He drank."
+    },
+    {
+      "start": 646.78,
+      "end": 648.4,
+      "text": "The fat man leaned forward until his",
+      "para_break": true
+    },
+    {
+      "start": 648.56,
+      "end": 649.26,
+      "text": "belly stopped him."
+    },
+    {
+      "start": 649.4,
+      "end": 651.7,
+      "text": "His smile was ingratiating,"
+    },
+    {
+      "start": 651.74,
+      "end": 653.2,
+      "text": "and so was his purring voice."
+    },
+    {
+      "start": 654.22,
+      "end": 654.8,
+      "text": "You could say,",
+      "para_break": true
+    },
+    {
+      "start": 654.96,
+      "end": 655.14,
+      "text": "then,"
+    },
+    {
+      "start": 655.2,
+      "end": 656.28,
+      "text": "that the question is,"
+    },
+    {
+      "start": 656.4,
+      "end": 658.12,
+      "text": "which one of them you'll represent."
+    },
+    {
+      "start": 659.42,
+      "end": 660.44,
+      "text": "You could put it that way.",
+      "para_break": true
+    },
+    {
+      "start": 661.6,
+      "end": 663.0,
+      "text": "It will be one or the other.",
+      "para_break": true
+    },
+    {
+      "start": 663.9,
+      "end": 664.74,
+      "text": "I didn't say that.",
+      "para_break": true
+    },
+    {
+      "start": 665.9,
+      "end": 667.05,
+      "text": "The fat man's eyes glistened.",
+      "para_break": true
+    },
+    {
+      "start": 667.54,
+      "end": 668.52,
+      "text": "His voice sank to"
+    },
+    {
+      "start": 668.6,
+      "end": 669.22,
+      "text": "a throaty whisper,"
+    },
+    {
+      "start": 669.36,
+      "end": 669.66,
+      "text": "asking,"
+    },
+    {
+      "start": 669.84,
+      "end": 671.5,
+      "text": "who else is there?"
+    },
+    {
+      "start": 672.64,
+      "end": 674.38,
+      "text": "Spade pointed his cigar at his own chest.",
+      "para_break": true
+    },
+    {
+      "start": 675.392,
+      "end": 675.7,
+      "text": "There's me,",
+      "para_break": true
+    },
+    {
+      "start": 675.92,
+      "end": 676.46,
+      "text": "he said."
+    },
+    {
+      "start": 677.64,
+      "end": 680.62,
+      "text": "The fat man sank back in his chair and let his body go flaccid.",
+      "para_break": true
+    },
+    {
+      "start": 681.14,
+      "end": 682.94,
+      "text": "He blew his breath out in a long,"
+    },
+    {
+      "start": 683.04,
+      "end": 683.82,
+      "text": "contented gust."
+    },
+    {
+      "start": 684.896,
+      "end": 685.5,
+      "text": "That's wonderful,",
+      "para_break": true
+    },
+    {
+      "start": 685.7,
+      "end": 685.94,
+      "text": "sir,"
+    },
+    {
+      "start": 686.04,
+      "end": 686.52,
+      "text": "he purred."
+    },
+    {
+      "start": 686.68,
+      "end": 687.38,
+      "text": "That's wonderful."
+    },
+    {
+      "start": 688.3,
+      "end": 689.94,
+      "text": "I do like a man that tells you right",
+      "para_break": true
+    },
+    {
+      "start": 689.94,
+      "end": 691.42,
+      "text": "out he's looking out for himself."
+    },
+    {
+      "start": 692.736,
+      "end": 693.18,
+      "text": "Don't we all?",
+      "para_break": true
+    },
+    {
+      "start": 694.24,
+      "end": 695.92,
+      "text": "I don't trust a man that says he's not.",
+      "para_break": true
+    },
+    {
+      "start": 696.82,
+      "end": 699.54,
+      "text": "And the man that's telling the truth when he says he's not,",
+      "para_break": true
+    },
+    {
+      "start": 699.92,
+      "end": 703.0,
+      "text": "I distrust most of all because he's an ass,"
+    },
+    {
+      "start": 703.66,
+      "end": 706.52,
+      "text": "and an ass that's going contrary to the laws of nature.",
+      "para_break": true
+    },
+    {
+      "start": 707.488,
+      "end": 708.62,
+      "text": "Spade exhaled smoke.",
+      "para_break": true
+    },
+    {
+      "start": 708.88,
+      "end": 710.64,
+      "text": "His face was politely attentive."
+    },
+    {
+      "start": 710.98,
+      "end": 711.4,
+      "text": "He said,"
+    },
+    {
+      "start": 711.56,
+      "end": 712.16,
+      "text": "uh-huh,"
+    },
+    {
+      "start": 712.7,
+      "end": 713.24,
+      "text": "now let's talk"
+    },
+    {
+      "start": 713.42,
+      "end": 714.28,
+      "text": "about the black bird."
+    },
+    {
+      "start": 714.68,
+      "end": 716.97,
+      "text": "The fat man smiled benevolently."
+    },
+    {
+      "start": 717.3,
+      "end": 717.4,
+      "text": "Let's,"
+    },
+    {
+      "start": 718.1,
+      "end": 718.66,
+      "text": "he said.",
+      "para_break": true
+    },
+    {
+      "start": 718.88,
+      "end": 720.14,
+      "text": "He squinted so"
+    },
+    {
+      "start": 720.28,
+      "end": 722.08,
+      "text": "that fat puffs crowding together left"
+    },
+    {
+      "start": 722.08,
+      "end": 724.44,
+      "text": "nothing of his eyes but a dark gleam visible."
+    }
+  ]
+}

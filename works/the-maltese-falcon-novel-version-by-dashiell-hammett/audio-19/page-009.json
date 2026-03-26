@@ -1,0 +1,782 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-19",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_19_hammett.mp3",
+  "chapter_title": "The Russian's Hand",
+  "reader_name": "NLizer",
+  "page_num": 9,
+  "page_total": 10,
+  "page_start_sec": 1997.14,
+  "page_end_sec": 2240.33,
+  "para_gap_threshold": 0.559,
+  "segments": [
+    {
+      "start": 1997.14,
+      "end": 1997.24,
+      "text": "Yes,"
+    },
+    {
+      "start": 1998.24,
+      "end": 1999.38,
+      "text": "that is the Russian's hand.",
+      "para_break": true
+    },
+    {
+      "start": 1999.58,
+      "end": 2000.76,
+      "text": "There's no doubt of it."
+    },
+    {
+      "start": 2001.08,
+      "end": 2001.48,
+      "text": "Well,"
+    },
+    {
+      "start": 2001.48,
+      "end": 2001.68,
+      "text": "sir,"
+    },
+    {
+      "start": 2001.8,
+      "end": 2002.18,
+      "text": "what do you"
+    },
+    {
+      "start": 2002.28,
+      "end": 2002.64,
+      "text": "suggest?"
+    },
+    {
+      "start": 2003.76,
+      "end": 2006.5,
+      "text": "Shall we stand here and shed tears and call each other names?",
+      "para_break": true
+    },
+    {
+      "start": 2007.1,
+      "end": 2007.76,
+      "text": "Or shall we,",
+      "para_break": true
+    },
+    {
+      "start": 2008.1,
+      "end": 2008.54,
+      "text": "he paused,"
+    },
+    {
+      "start": 2008.74,
+      "end": 2010.26,
+      "text": "and his smile was a cherub's,"
+    },
+    {
+      "start": 2010.28,
+      "end": 2012.0,
+      "text": "go to Constantinople?"
+    },
+    {
+      "start": 2013.12,
+      "end": 2015.36,
+      "text": "Cairo took his hands from his face and his eyes",
+      "para_break": true
+    },
+    {
+      "start": 2015.5,
+      "end": 2015.9,
+      "text": "bulged."
+    },
+    {
+      "start": 2016.62,
+      "end": 2017.34,
+      "text": "He stammered.",
+      "para_break": true
+    },
+    {
+      "start": 2017.86,
+      "end": 2018.52,
+      "text": "You are..."
+    },
+    {
+      "start": 2019.16,
+      "end": 2021.98,
+      "text": "Amazement coming with full comprehension made him speechless.",
+      "para_break": true
+    },
+    {
+      "start": 2023.264,
+      "end": 2024.9,
+      "text": "Gutman patted his fat hands together.",
+      "para_break": true
+    },
+    {
+      "start": 2025.54,
+      "end": 2026.46,
+      "text": "His eyes twinkled.",
+      "para_break": true
+    },
+    {
+      "start": 2026.94,
+      "end": 2028.38,
+      "text": "His voice was a complacent,"
+    },
+    {
+      "start": 2028.38,
+      "end": 2029.14,
+      "text": "throaty purring."
+    },
+    {
+      "start": 2029.98,
+      "end": 2031.04,
+      "text": "For seventeen years,",
+      "para_break": true
+    },
+    {
+      "start": 2031.2,
+      "end": 2034.5,
+      "text": "I have wanted that little item and have been trying to get it."
+    },
+    {
+      "start": 2035.24,
+      "end": 2036.98,
+      "text": "If I must spend another year on the quest,",
+      "para_break": true
+    },
+    {
+      "start": 2037.2,
+      "end": 2037.56,
+      "text": "well,"
+    },
+    {
+      "start": 2037.6,
+      "end": 2037.8,
+      "text": "sir,"
+    },
+    {
+      "start": 2038.32,
+      "end": 2041.42,
+      "text": "that will be an additional expenditure in time of only."
+    },
+    {
+      "start": 2042.2,
+      "end": 2044.2,
+      "text": "His lips moved silently as he calculated.",
+      "para_break": true
+    },
+    {
+      "start": 2045.024,
+      "end": 2047.0,
+      "text": "Five and fifteen-seventeenths percent.",
+      "para_break": true
+    },
+    {
+      "start": 2048.14,
+      "end": 2049.64,
+      "text": "The Levantine giggled and cried.",
+      "para_break": true
+    },
+    {
+      "start": 2050.38,
+      "end": 2051.08,
+      "text": "I go with you.",
+      "para_break": true
+    },
+    {
+      "start": 2052.064,
+      "end": 2055.0,
+      "text": "Spade suddenly released the girl's wrist and looked around the room.",
+      "para_break": true
+    },
+    {
+      "start": 2055.46,
+      "end": 2056.56,
+      "text": "The boy was not there."
+    },
+    {
+      "start": 2057.664,
+      "end": 2059.02,
+      "text": "Spade went into the passageway.",
+      "para_break": true
+    },
+    {
+      "start": 2059.16,
+      "end": 2060.72,
+      "text": "The corridor door stood open."
+    },
+    {
+      "start": 2061.568,
+      "end": 2063.26,
+      "text": "Spade made a dissatisfied mouth,",
+      "para_break": true
+    },
+    {
+      "start": 2063.4,
+      "end": 2064.2,
+      "text": "shut the door,"
+    },
+    {
+      "start": 2064.24,
+      "end": 2065.48,
+      "text": "and returned to the living room."
+    },
+    {
+      "start": 2066.08,
+      "end": 2068.86,
+      "text": "He leaned against the doorframe and looked at Gutman and Cairo.",
+      "para_break": true
+    },
+    {
+      "start": 2069.7,
+      "end": 2071.78,
+      "text": "He looked at Gutman for a long time sourly.",
+      "para_break": true
+    },
+    {
+      "start": 2072.4,
+      "end": 2072.9,
+      "text": "Then he spoke,",
+      "para_break": true
+    },
+    {
+      "start": 2073.16,
+      "end": 2075.32,
+      "text": "mimicking the fat man's throaty purr."
+    },
+    {
+      "start": 2076.14,
+      "end": 2076.4,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 2076.4,
+      "end": 2076.68,
+      "text": "sir,"
+    },
+    {
+      "start": 2077.24,
+      "end": 2079.06,
+      "text": "I must say you're a swell lot of thieves.",
+      "para_break": true
+    },
+    {
+      "start": 2080.0,
+      "end": 2080.62,
+      "text": "Gutman chuckled.",
+      "para_break": true
+    },
+    {
+      "start": 2081.64,
+      "end": 2082.98,
+      "text": "We've little enough to boast about,",
+      "para_break": true
+    },
+    {
+      "start": 2083.1,
+      "end": 2083.92,
+      "text": "and that's a fact,"
+    },
+    {
+      "start": 2084.02,
+      "end": 2084.16,
+      "text": "sir,"
+    },
+    {
+      "start": 2084.26,
+      "end": 2084.62,
+      "text": "he said."
+    },
+    {
+      "start": 2085.62,
+      "end": 2085.9,
+      "text": "But,",
+      "para_break": true
+    },
+    {
+      "start": 2085.9,
+      "end": 2086.48,
+      "text": "well,"
+    },
+    {
+      "start": 2086.8,
+      "end": 2088.3,
+      "text": "we're none of us dead yet,"
+    },
+    {
+      "start": 2088.64,
+      "end": 2091.64,
+      "text": "and there's not a bit of use thinking the world's come to an end"
+    },
+    {
+      "start": 2091.7,
+      "end": 2093.82,
+      "text": "just because we've run into a little setback."
+    },
+    {
+      "start": 2094.56,
+      "end": 2096.3,
+      "text": "He brought his left hand from behind",
+      "para_break": true
+    },
+    {
+      "start": 2096.3,
+      "end": 2097.9,
+      "text": "him and held it out towards Spade,"
+    },
+    {
+      "start": 2098.38,
+      "end": 2099.9,
+      "text": "pink smooth hilly palm up."
+    },
+    {
+      "start": 2100.66,
+      "end": 2101.94,
+      "text": "I'll have to ask you for that envelope,",
+      "para_break": true
+    },
+    {
+      "start": 2102.1,
+      "end": 2102.32,
+      "text": "sir."
+    },
+    {
+      "start": 2103.456,
+      "end": 2104.4,
+      "text": "Spade did not move.",
+      "para_break": true
+    },
+    {
+      "start": 2105.12,
+      "end": 2106.04,
+      "text": "His face was wooden.",
+      "para_break": true
+    },
+    {
+      "start": 2106.64,
+      "end": 2107.06,
+      "text": "He said,",
+      "para_break": true
+    },
+    {
+      "start": 2107.2,
+      "end": 2108.88,
+      "text": "I held up my end."
+    },
+    {
+      "start": 2109.76,
+      "end": 2110.7,
+      "text": "You got your dingus.",
+      "para_break": true
+    },
+    {
+      "start": 2111.5,
+      "end": 2112.28,
+      "text": "It's your hard luck,",
+      "para_break": true
+    },
+    {
+      "start": 2112.32,
+      "end": 2112.88,
+      "text": "not mine,"
+    },
+    {
+      "start": 2113.64,
+      "end": 2115.08,
+      "text": "that it wasn't what you wanted.",
+      "para_break": true
+    },
+    {
+      "start": 2116.08,
+      "end": 2116.4,
+      "text": "Now come,",
+      "para_break": true
+    },
+    {
+      "start": 2116.58,
+      "end": 2116.76,
+      "text": "sir,"
+    },
+    {
+      "start": 2116.84,
+      "end": 2118.01,
+      "text": "Gutman said persuasively."
+    },
+    {
+      "start": 2118.76,
+      "end": 2119.42,
+      "text": "We've all failed,",
+      "para_break": true
+    },
+    {
+      "start": 2119.54,
+      "end": 2120.8,
+      "text": "and there's no reason for expecting"
+    },
+    {
+      "start": 2120.8,
+      "end": 2122.9,
+      "text": "any one of us to bear the brunt of it,"
+    },
+    {
+      "start": 2122.92,
+      "end": 2125.86,
+      "text": "and he brought his right hand from behind him."
+    },
+    {
+      "start": 2126.62,
+      "end": 2128.12,
+      "text": "In the hand was a small pistol,",
+      "para_break": true
+    },
+    {
+      "start": 2128.62,
+      "end": 2130.66,
+      "text": "an ornately engraved and inlaid affair"
+    },
+    {
+      "start": 2130.66,
+      "end": 2132.62,
+      "text": "of silver and gold and mother of pearl."
+    },
+    {
+      "start": 2133.46,
+      "end": 2133.82,
+      "text": "In short,",
+      "para_break": true
+    },
+    {
+      "start": 2133.84,
+      "end": 2134.1,
+      "text": "sir,"
+    },
+    {
+      "start": 2134.26,
+      "end": 2137.06,
+      "text": "I must ask you to return my ten thousand dollars."
+    },
+    {
+      "start": 2138.144,
+      "end": 2139.34,
+      "text": "Spade's face did not change.",
+      "para_break": true
+    },
+    {
+      "start": 2140.24,
+      "end": 2142.2,
+      "text": "He shrugged and took the envelope from his pocket.",
+      "para_break": true
+    },
+    {
+      "start": 2142.88,
+      "end": 2144.3,
+      "text": "He started to hold it out to Gutman,",
+      "para_break": true
+    },
+    {
+      "start": 2144.5,
+      "end": 2144.95,
+      "text": "hesitated,"
+    },
+    {
+      "start": 2145.76,
+      "end": 2146.48,
+      "text": "opened the envelope,",
+      "para_break": true
+    },
+    {
+      "start": 2146.78,
+      "end": 2148.46,
+      "text": "and took out $1,000 bill."
+    },
+    {
+      "start": 2149.76,
+      "end": 2151.6,
+      "text": "He put that bill into his trousers pocket.",
+      "para_break": true
+    },
+    {
+      "start": 2152.34,
+      "end": 2154.88,
+      "text": "He tucked the envelope's flap in over the other bills",
+      "para_break": true
+    },
+    {
+      "start": 2154.96,
+      "end": 2155.92,
+      "text": "and held them out to Gutman."
+    },
+    {
+      "start": 2156.8,
+      "end": 2158.48,
+      "text": "That'll take care of my time and expenses,",
+      "para_break": true
+    },
+    {
+      "start": 2158.68,
+      "end": 2159.1,
+      "text": "he said."
+    },
+    {
+      "start": 2160.12,
+      "end": 2160.74,
+      "text": "Gutman,",
+      "para_break": true
+    },
+    {
+      "start": 2160.88,
+      "end": 2161.94,
+      "text": "after a little pause,"
+    },
+    {
+      "start": 2162.528,
+      "end": 2164.82,
+      "text": "imitated Spade's shrug and accepted the envelope.",
+      "para_break": true
+    },
+    {
+      "start": 2165.66,
+      "end": 2166.0,
+      "text": "He said,",
+      "para_break": true
+    },
+    {
+      "start": 2166.47,
+      "end": 2167.02,
+      "text": "Now,"
+    },
+    {
+      "start": 2167.02,
+      "end": 2167.24,
+      "text": "sir,"
+    },
+    {
+      "start": 2167.72,
+      "end": 2168.86,
+      "text": "we will say goodbye to you,"
+    },
+    {
+      "start": 2169.0,
+      "end": 2171.92,
+      "text": "unless the fat puffs around his eyes crinkled."
+    },
+    {
+      "start": 2172.04,
+      "end": 2175.36,
+      "text": "You care to undertake the Constantinople expedition"
+    },
+    {
+      "start": 2175.72,
+      "end": 2176.18,
+      "text": "with us."
+    },
+    {
+      "start": 2177.28,
+      "end": 2177.88,
+      "text": "You don't?",
+      "para_break": true
+    },
+    {
+      "start": 2178.2,
+      "end": 2178.7,
+      "text": "Well,"
+    },
+    {
+      "start": 2178.72,
+      "end": 2178.92,
+      "text": "sir,"
+    },
+    {
+      "start": 2179.0,
+      "end": 2179.36,
+      "text": "frankly,"
+    },
+    {
+      "start": 2179.56,
+      "end": 2180.92,
+      "text": "I'd like to have you along."
+    },
+    {
+      "start": 2181.42,
+      "end": 2182.82,
+      "text": "You're a man to my liking,"
+    },
+    {
+      "start": 2182.96,
+      "end": 2185.28,
+      "text": "a man of many resources and nice judgment."
+    },
+    {
+      "start": 2186.28,
+      "end": 2188.22,
+      "text": "Because we know you're a man of nice judgment,",
+      "para_break": true
+    },
+    {
+      "start": 2188.7,
+      "end": 2191.06,
+      "text": "we know we can say goodbye with every assurance"
+    },
+    {
+      "start": 2191.06,
+      "end": 2193.12,
+      "text": "that you'll hold the details of our little"
+    },
+    {
+      "start": 2193.18,
+      "end": 2194.22,
+      "text": "enterprise in confidence."
+    },
+    {
+      "start": 2195.2,
+      "end": 2197.6,
+      "text": "We know we can count on you to appreciate the fact that,",
+      "para_break": true
+    },
+    {
+      "start": 2197.74,
+      "end": 2199.44,
+      "text": "as the situation now stands,"
+    },
+    {
+      "start": 2199.76,
+      "end": 2201.98,
+      "text": "any legal difficulties that come to"
+    },
+    {
+      "start": 2201.98,
+      "end": 2204.28,
+      "text": "us in connection with these last few"
+    },
+    {
+      "start": 2204.28,
+      "end": 2206.74,
+      "text": "days would likewise and equally come to"
+    },
+    {
+      "start": 2206.74,
+      "end": 2208.43,
+      "text": "you and the charming Miss O'Shaughnessy."
+    },
+    {
+      "start": 2209.42,
+      "end": 2210.22,
+      "text": "You're too shrewd",
+      "para_break": true
+    },
+    {
+      "start": 2210.26,
+      "end": 2211.2,
+      "text": "not to recognize that,"
+    },
+    {
+      "start": 2211.34,
+      "end": 2211.5,
+      "text": "sir,"
+    },
+    {
+      "start": 2211.6,
+      "end": 2211.98,
+      "text": "I'm sure."
+    },
+    {
+      "start": 2212.28,
+      "end": 2214.18,
+      "text": "I understand that,"
+    },
+    {
+      "start": 2214.42,
+      "end": 2215.18,
+      "text": "Spade replied."
+    },
+    {
+      "start": 2216.04,
+      "end": 2216.94,
+      "text": "I was sure you would.",
+      "para_break": true
+    },
+    {
+      "start": 2217.88,
+      "end": 2220.1,
+      "text": "I'm also sure that now there's no alternative.",
+      "para_break": true
+    },
+    {
+      "start": 2220.62,
+      "end": 2222.84,
+      "text": "You'll somehow manage the police without a fall"
+    },
+    {
+      "start": 2223.02,
+      "end": 2223.22,
+      "text": "guy."
+    },
+    {
+      "start": 2223.74,
+      "end": 2225.12,
+      "text": "I'll make out all right,"
+    },
+    {
+      "start": 2225.3,
+      "end": 2225.96,
+      "text": "Spade replied."
+    },
+    {
+      "start": 2226.88,
+      "end": 2227.72,
+      "text": "I was sure you would.",
+      "para_break": true
+    },
+    {
+      "start": 2227.9,
+      "end": 2228.56,
+      "text": "Well,"
+    },
+    {
+      "start": 2228.56,
+      "end": 2228.78,
+      "text": "sir,"
+    },
+    {
+      "start": 2228.86,
+      "end": 2229.28,
+      "text": "the shortest"
+    },
+    {
+      "start": 2229.33,
+      "end": 2230.28,
+      "text": "farewells are best."
+    },
+    {
+      "start": 2230.56,
+      "end": 2231.16,
+      "text": "Adieu."
+    },
+    {
+      "start": 2231.59,
+      "end": 2233.14,
+      "text": "He made a portly bow."
+    },
+    {
+      "start": 2234.12,
+      "end": 2234.6,
+      "text": "And to you,",
+      "para_break": true
+    },
+    {
+      "start": 2234.62,
+      "end": 2235.38,
+      "text": "Miss O'Shaughnessy,"
+    },
+    {
+      "start": 2235.44,
+      "end": 2235.92,
+      "text": "adieu."
+    },
+    {
+      "start": 2236.66,
+      "end": 2240.33,
+      "text": "I leave you the Rara Avas on the table as a little memento.",
+      "para_break": true
+    }
+  ]
+}

@@ -1,0 +1,701 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-17",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_17_hammett.mp3",
+  "chapter_title": "Saturday Night",
+  "reader_name": "NLizer",
+  "page_num": 1,
+  "page_total": 6,
+  "page_start_sec": 0.8,
+  "page_end_sec": 243.6,
+  "para_gap_threshold": 0.697,
+  "segments": [
+    {
+      "start": 0.8,
+      "end": 1.5,
+      "text": "CHAPTER XVII."
+    },
+    {
+      "start": 30.0,
+      "end": 30.28,
+      "text": "Fifth Street.",
+      "para_break": true
+    },
+    {
+      "start": 30.62,
+      "end": 33.02,
+      "text": "He checked the bird at the parcel room there,"
+    },
+    {
+      "start": 33.54,
+      "end": 35.24,
+      "text": "put the check into a stamped envelope,"
+    },
+    {
+      "start": 35.66,
+      "end": 36.8,
+      "text": "wrote M.F."
+    },
+    {
+      "start": 36.86,
+      "end": 40.44,
+      "text": "Holland and a San Francisco post office box number on the envelope,"
+    },
+    {
+      "start": 40.66,
+      "end": 41.44,
+      "text": "sealed it,"
+    },
+    {
+      "start": 41.48,
+      "end": 43.08,
+      "text": "and dropped it into a mailbox."
+    },
+    {
+      "start": 44.08,
+      "end": 44.94,
+      "text": "From the stage terminal,",
+      "para_break": true
+    },
+    {
+      "start": 45.1,
+      "end": 47.14,
+      "text": "another taxi cab carried him to the"
+    },
+    {
+      "start": 47.2,
+      "end": 48.0,
+      "text": "Alexandria Hotel."
+    },
+    {
+      "start": 49.216,
+      "end": 51.78,
+      "text": "Spade went up to suite 12C and knocked on the door.",
+      "para_break": true
+    },
+    {
+      "start": 51.98,
+      "end": 54.2,
+      "text": "The door was opened when he"
+    },
+    {
+      "start": 54.2,
+      "end": 56.92,
+      "text": "had knocked a second time by a small fair-haired"
+    },
+    {
+      "start": 56.92,
+      "end": 58.88,
+      "text": "girl in a shimmering yellow dressing gown,"
+    },
+    {
+      "start": 59.1,
+      "end": 62.84,
+      "text": "a small girl whose face was white and dim and who"
+    },
+    {
+      "start": 62.84,
+      "end": 65.12,
+      "text": "clung desperately to the inner doorknob with both"
+    },
+    {
+      "start": 65.12,
+      "end": 66.04,
+      "text": "hands and gasped."
+    },
+    {
+      "start": 66.22,
+      "end": 66.82,
+      "text": "Mr."
+    },
+    {
+      "start": 66.96,
+      "end": 67.38,
+      "text": "Spade?"
+    },
+    {
+      "start": 67.8,
+      "end": 68.78,
+      "text": "Spade said,"
+    },
+    {
+      "start": 69.0,
+      "end": 69.5,
+      "text": "yes,"
+    },
+    {
+      "start": 69.78,
+      "end": 71.86,
+      "text": "and caught her as she swayed."
+    },
+    {
+      "start": 71.88,
+      "end": 73.46,
+      "text": "Her body arched back"
+    },
+    {
+      "start": 73.56,
+      "end": 75.74,
+      "text": "over his arm and her head dropped straight back"
+    },
+    {
+      "start": 75.74,
+      "end": 78.62,
+      "text": "so that her short fair hair hung down her scalp"
+    },
+    {
+      "start": 78.86,
+      "end": 82.02,
+      "text": "and her slender throat was a firm curve from chin to chest."
+    },
+    {
+      "start": 82.976,
+      "end": 85.02,
+      "text": "Spade slid his supporting arm higher up",
+      "para_break": true
+    },
+    {
+      "start": 85.16,
+      "end": 87.96,
+      "text": "her back and bent to get his other arm under her knees,"
+    },
+    {
+      "start": 88.5,
+      "end": 89.4,
+      "text": "but she stirred then,"
+    },
+    {
+      "start": 89.56,
+      "end": 90.1,
+      "text": "resisting,"
+    },
+    {
+      "start": 90.62,
+      "end": 93.68,
+      "text": "and between parted lips that barely moved blurred words came,"
+    },
+    {
+      "start": 93.96,
+      "end": 94.72,
+      "text": "No,"
+    },
+    {
+      "start": 94.98,
+      "end": 95.64,
+      "text": "ma,"
+    },
+    {
+      "start": 95.92,
+      "end": 96.44,
+      "text": "oui,"
+    },
+    {
+      "start": 96.56,
+      "end": 96.84,
+      "text": "wa."
+    },
+    {
+      "start": 98.432,
+      "end": 99.4,
+      "text": "Spade made her walk.",
+      "para_break": true
+    },
+    {
+      "start": 99.69,
+      "end": 101.96,
+      "text": "He kicked the door shut and he walked"
+    },
+    {
+      "start": 101.96,
+      "end": 103.66,
+      "text": "her up and down the green carpeted room"
+    },
+    {
+      "start": 103.66,
+      "end": 104.68,
+      "text": "from wall to wall."
+    },
+    {
+      "start": 105.5,
+      "end": 107.3,
+      "text": "One of his arms around her small body,",
+      "para_break": true
+    },
+    {
+      "start": 107.76,
+      "end": 109.2,
+      "text": "that hand under her armpit,"
+    },
+    {
+      "start": 109.5,
+      "end": 111.48,
+      "text": "his other hand gripping her other arm,"
+    },
+    {
+      "start": 111.58,
+      "end": 113.56,
+      "text": "held her erect when she stumbled,"
+    },
+    {
+      "start": 114.44,
+      "end": 115.17,
+      "text": "checked her swaying,",
+      "para_break": true
+    },
+    {
+      "start": 115.56,
+      "end": 116.6,
+      "text": "kept urging her forward,"
+    },
+    {
+      "start": 117.26,
+      "end": 120.16,
+      "text": "but made her tottering legs bear all her weight they could bear."
+    },
+    {
+      "start": 121.18,
+      "end": 123.22,
+      "text": "They walked across and across the floor,",
+      "para_break": true
+    },
+    {
+      "start": 123.38,
+      "end": 126.18,
+      "text": "the girl falteringly with incoordinate steps,"
+    },
+    {
+      "start": 126.944,
+      "end": 128.64,
+      "text": "spayed surely on the balls of his feet",
+      "para_break": true
+    },
+    {
+      "start": 128.64,
+      "end": 130.52,
+      "text": "with balance unaffected by her staggering."
+    },
+    {
+      "start": 131.68,
+      "end": 133.42,
+      "text": "Her face was chalk white and eyeless,",
+      "para_break": true
+    },
+    {
+      "start": 133.54,
+      "end": 134.44,
+      "text": "his sullen,"
+    },
+    {
+      "start": 134.58,
+      "end": 137.0,
+      "text": "with eyes hardened to watch everywhere at once."
+    },
+    {
+      "start": 137.34,
+      "end": 141.06,
+      "text": "he talked to her monotonously that's the stuff"
+    },
+    {
+      "start": 141.06,
+      "end": 147.48,
+      "text": "left right left right that's the stuff one two"
+    },
+    {
+      "start": 147.65,
+      "end": 150.9,
+      "text": "three four one two"
+    },
+    {
+      "start": 151.68,
+      "end": 151.78,
+      "text": "three",
+      "para_break": true
+    },
+    {
+      "start": 152.52,
+      "end": 157.44,
+      "text": "now we turn he shook her as they turned from the wall now back again",
+      "para_break": true
+    },
+    {
+      "start": 157.78,
+      "end": 158.82,
+      "text": "One,"
+    },
+    {
+      "start": 158.86,
+      "end": 159.4,
+      "text": "two,"
+    },
+    {
+      "start": 159.66,
+      "end": 159.904,
+      "text": "three,"
+    },
+    {
+      "start": 160.48,
+      "end": 160.96,
+      "text": "four."
+    },
+    {
+      "start": 161.62,
+      "end": 162.54,
+      "text": "Hold your head up."
+    },
+    {
+      "start": 163.168,
+      "end": 163.86,
+      "text": "That's the stuff."
+    },
+    {
+      "start": 164.42,
+      "end": 165.02,
+      "text": "Good girl."
+    },
+    {
+      "start": 165.7,
+      "end": 166.24,
+      "text": "Left,"
+    },
+    {
+      "start": 166.38,
+      "end": 166.82,
+      "text": "right,"
+    },
+    {
+      "start": 167.12,
+      "end": 167.62,
+      "text": "left,"
+    },
+    {
+      "start": 167.88,
+      "end": 168.3,
+      "text": "right."
+    },
+    {
+      "start": 169.0,
+      "end": 169.78,
+      "text": "Now we turn again.",
+      "para_break": true
+    },
+    {
+      "start": 170.66,
+      "end": 171.56,
+      "text": "He shook her again.",
+      "para_break": true
+    },
+    {
+      "start": 172.512,
+      "end": 173.12,
+      "text": "That's the girl.",
+      "para_break": true
+    },
+    {
+      "start": 173.7,
+      "end": 174.14,
+      "text": "Walk,"
+    },
+    {
+      "start": 174.24,
+      "end": 174.82,
+      "text": "walk,"
+    },
+    {
+      "start": 175.02,
+      "end": 175.54,
+      "text": "walk,"
+    },
+    {
+      "start": 175.72,
+      "end": 176.18,
+      "text": "walk."
+    },
+    {
+      "start": 176.86,
+      "end": 177.26,
+      "text": "One,"
+    },
+    {
+      "start": 177.28,
+      "end": 177.82,
+      "text": "two,"
+    },
+    {
+      "start": 177.98,
+      "end": 178.24,
+      "text": "three,"
+    },
+    {
+      "start": 178.8,
+      "end": 179.04,
+      "text": "four."
+    },
+    {
+      "start": 179.84,
+      "end": 180.98,
+      "text": "Now we go around.",
+      "para_break": true
+    },
+    {
+      "start": 182.06,
+      "end": 184.34,
+      "text": "He shook her more roughly and increased their pace.",
+      "para_break": true
+    },
+    {
+      "start": 185.152,
+      "end": 185.72,
+      "text": "That's the trick.",
+      "para_break": true
+    },
+    {
+      "start": 185.98,
+      "end": 186.8,
+      "text": "Left,"
+    },
+    {
+      "start": 186.9,
+      "end": 187.26,
+      "text": "right,"
+    },
+    {
+      "start": 187.46,
+      "end": 187.84,
+      "text": "left,"
+    },
+    {
+      "start": 188.04,
+      "end": 188.4,
+      "text": "right."
+    },
+    {
+      "start": 188.72,
+      "end": 189.36,
+      "text": "We're in a hurry."
+    },
+    {
+      "start": 189.48,
+      "end": 189.6,
+      "text": "One,"
+    },
+    {
+      "start": 189.92,
+      "end": 190.28,
+      "text": "two,"
+    },
+    {
+      "start": 190.42,
+      "end": 190.74,
+      "text": "three."
+    },
+    {
+      "start": 191.42,
+      "end": 193.16,
+      "text": "She shuddered and swallowed audibly."
+    },
+    {
+      "start": 194.016,
+      "end": 195.78,
+      "text": "Spade began to chafe her arm inside,",
+      "para_break": true
+    },
+    {
+      "start": 196.06,
+      "end": 197.94,
+      "text": "and he put his mouth nearer her ear."
+    },
+    {
+      "start": 198.592,
+      "end": 199.1,
+      "text": "That's fine."
+    },
+    {
+      "start": 199.34,
+      "end": 200.08,
+      "text": "You're doing fine."
+    },
+    {
+      "start": 200.7,
+      "end": 200.96,
+      "text": "One,"
+    },
+    {
+      "start": 201.12,
+      "end": 201.5,
+      "text": "two,"
+    },
+    {
+      "start": 201.64,
+      "end": 202.02,
+      "text": "three,"
+    },
+    {
+      "start": 202.22,
+      "end": 202.432,
+      "text": "four."
+    },
+    {
+      "start": 202.98,
+      "end": 203.3,
+      "text": "Faster,"
+    },
+    {
+      "start": 203.46,
+      "end": 203.82,
+      "text": "faster,"
+    },
+    {
+      "start": 203.96,
+      "end": 204.3,
+      "text": "faster,"
+    },
+    {
+      "start": 204.5,
+      "end": 204.76,
+      "text": "faster."
+    },
+    {
+      "start": 205.216,
+      "end": 205.76,
+      "text": "That's it."
+    },
+    {
+      "start": 206.1,
+      "end": 206.4,
+      "text": "Step,"
+    },
+    {
+      "start": 206.54,
+      "end": 206.98,
+      "text": "step,"
+    },
+    {
+      "start": 207.12,
+      "end": 207.46,
+      "text": "step,"
+    },
+    {
+      "start": 207.58,
+      "end": 207.92,
+      "text": "step."
+    },
+    {
+      "start": 208.34,
+      "end": 209.94,
+      "text": "Pick them up and lay them down."
+    },
+    {
+      "start": 210.18,
+      "end": 211.0,
+      "text": "That's the stuff."
+    },
+    {
+      "start": 211.32,
+      "end": 211.9,
+      "text": "Now we turn."
+    },
+    {
+      "start": 212.32,
+      "end": 212.58,
+      "text": "Left,"
+    },
+    {
+      "start": 212.68,
+      "end": 213.08,
+      "text": "right,"
+    },
+    {
+      "start": 213.22,
+      "end": 213.62,
+      "text": "left,"
+    },
+    {
+      "start": 213.78,
+      "end": 213.88,
+      "text": "right."
+    },
+    {
+      "start": 214.28,
+      "end": 217.9,
+      "text": "what did they do dope you the same stuff they gave"
+    },
+    {
+      "start": 217.9,
+      "end": 221.4,
+      "text": "me her eyelids twitched up then for an instant"
+    },
+    {
+      "start": 221.44,
+      "end": 224.14,
+      "text": "over dulled golden brown eyes and she managed"
+    },
+    {
+      "start": 224.14,
+      "end": 226.86,
+      "text": "to say all of yes except the final consonant"
+    },
+    {
+      "start": 227.74,
+      "end": 230.08,
+      "text": "they walked the floor the girl almost trotting",
+      "para_break": true
+    },
+    {
+      "start": 230.08,
+      "end": 232.76,
+      "text": "now to keep up with spade spade slapping and"
+    },
+    {
+      "start": 232.82,
+      "end": 234.82,
+      "text": "kneading her flesh through the yellow silk with"
+    },
+    {
+      "start": 234.82,
+      "end": 237.34,
+      "text": "both hands talking and talking while his eyes"
+    },
+    {
+      "start": 237.6,
+      "end": 239.32,
+      "text": "remained hard and aloof and watchful."
+    },
+    {
+      "start": 239.56,
+      "end": 240.44,
+      "text": "Left,"
+    },
+    {
+      "start": 240.58,
+      "end": 240.9,
+      "text": "right,"
+    },
+    {
+      "start": 241.08,
+      "end": 241.46,
+      "text": "left,"
+    },
+    {
+      "start": 241.64,
+      "end": 242.04,
+      "text": "right,"
+    },
+    {
+      "start": 242.12,
+      "end": 242.52,
+      "text": "left,"
+    },
+    {
+      "start": 242.72,
+      "end": 243.1,
+      "text": "right,"
+    },
+    {
+      "start": 243.2,
+      "end": 243.6,
+      "text": "turn."
+    }
+  ]
+}

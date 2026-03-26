@@ -1,0 +1,751 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-17",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_17_hammett.mp3",
+  "chapter_title": "Saturday Night",
+  "reader_name": "NLizer",
+  "page_num": 2,
+  "page_total": 6,
+  "page_start_sec": 243.8,
+  "page_end_sec": 501.8,
+  "para_gap_threshold": 0.697,
+  "segments": [
+    {
+      "start": 243.8,
+      "end": 244.94,
+      "text": "That's the girl."
+    },
+    {
+      "start": 245.08,
+      "end": 245.4,
+      "text": "One,"
+    },
+    {
+      "start": 245.6,
+      "end": 246.0,
+      "text": "two,"
+    },
+    {
+      "start": 246.1,
+      "end": 246.5,
+      "text": "three,"
+    },
+    {
+      "start": 246.64,
+      "end": 246.816,
+      "text": "four."
+    },
+    {
+      "start": 247.22,
+      "end": 247.62,
+      "text": "One,"
+    },
+    {
+      "start": 247.74,
+      "end": 248.18,
+      "text": "two,"
+    },
+    {
+      "start": 248.28,
+      "end": 248.68,
+      "text": "three,"
+    },
+    {
+      "start": 248.8,
+      "end": 248.992,
+      "text": "four."
+    },
+    {
+      "start": 249.64,
+      "end": 250.42,
+      "text": "Keep the chin up."
+    },
+    {
+      "start": 250.52,
+      "end": 251.52,
+      "text": "That's the stuff."
+    },
+    {
+      "start": 251.74,
+      "end": 252.2,
+      "text": "One,"
+    },
+    {
+      "start": 252.34,
+      "end": 252.64,
+      "text": "two."
+    },
+    {
+      "start": 253.02,
+      "end": 254.62,
+      "text": "Her lids lifted again,"
+    },
+    {
+      "start": 254.74,
+      "end": 256.36,
+      "text": "a bare fraction of an inch,"
+    },
+    {
+      "start": 256.42,
+      "end": 258.78,
+      "text": "and under them her eyes moved weakly from side to"
+    },
+    {
+      "start": 258.78,
+      "end": 259.08,
+      "text": "side."
+    },
+    {
+      "start": 259.34,
+      "end": 260.42,
+      "text": "That's fine,"
+    },
+    {
+      "start": 260.6,
+      "end": 261.78,
+      "text": "he said in a crisp voice,"
+    },
+    {
+      "start": 261.96,
+      "end": 263.32,
+      "text": "dropping his monotone."
+    },
+    {
+      "start": 264.06,
+      "end": 264.68,
+      "text": "Keep them open.",
+      "para_break": true
+    },
+    {
+      "start": 264.8,
+      "end": 265.68,
+      "text": "Open them"
+    },
+    {
+      "start": 265.8,
+      "end": 266.04,
+      "text": "wide."
+    },
+    {
+      "start": 266.32,
+      "end": 266.94,
+      "text": "Wide?"
+    },
+    {
+      "start": 267.62,
+      "end": 268.52,
+      "text": "He shook her."
+    },
+    {
+      "start": 268.7,
+      "end": 270.36,
+      "text": "She moaned in protest,"
+    },
+    {
+      "start": 270.58,
+      "end": 272.02,
+      "text": "but her lids went farther up,"
+    },
+    {
+      "start": 272.06,
+      "end": 272.84,
+      "text": "though her eyes"
+    },
+    {
+      "start": 272.84,
+      "end": 273.96,
+      "text": "were without inner light."
+    },
+    {
+      "start": 274.24,
+      "end": 277.68,
+      "text": "He raised his hand and slapped her cheek half a dozen times in quick"
+    },
+    {
+      "start": 277.8,
+      "end": 278.1,
+      "text": "succession."
+    },
+    {
+      "start": 279.08,
+      "end": 281.24,
+      "text": "She moaned again and tried to break away from him.",
+      "para_break": true
+    },
+    {
+      "start": 282.1,
+      "end": 283.68,
+      "text": "His arm held her and swept her",
+      "para_break": true
+    },
+    {
+      "start": 283.78,
+      "end": 285.64,
+      "text": "along beside him from wall to wall."
+    },
+    {
+      "start": 286.36,
+      "end": 286.86,
+      "text": "Keep walking,",
+      "para_break": true
+    },
+    {
+      "start": 287.3,
+      "end": 288.48,
+      "text": "he ordered in a harsh voice,"
+    },
+    {
+      "start": 288.68,
+      "end": 289.28,
+      "text": "and then,"
+    },
+    {
+      "start": 289.4,
+      "end": 290.56,
+      "text": "who are you?"
+    },
+    {
+      "start": 290.78,
+      "end": 290.88,
+      "text": "Her,"
+    },
+    {
+      "start": 291.94,
+      "end": 293.16,
+      "text": "Rhea Gutman,",
+      "para_break": true
+    },
+    {
+      "start": 293.32,
+      "end": 294.71,
+      "text": "was thick but intelligible."
+    },
+    {
+      "start": 295.58,
+      "end": 296.1,
+      "text": "The daughter?",
+      "para_break": true
+    },
+    {
+      "start": 296.62,
+      "end": 297.04,
+      "text": "Yes."
+    },
+    {
+      "start": 298.08,
+      "end": 300.88,
+      "text": "Now she was no farther from the final consonant than shh.",
+      "para_break": true
+    },
+    {
+      "start": 301.888,
+      "end": 302.62,
+      "text": "Where's Bridget?",
+      "para_break": true
+    },
+    {
+      "start": 303.68,
+      "end": 305.86,
+      "text": "She twisted convulsively around in his arms and",
+      "para_break": true
+    },
+    {
+      "start": 305.86,
+      "end": 307.72,
+      "text": "caught at one of his hands with both of hers."
+    },
+    {
+      "start": 308.26,
+      "end": 310.42,
+      "text": "He pulled his hand away quickly and looked at it."
+    },
+    {
+      "start": 311.04,
+      "end": 312.9,
+      "text": "Across its back was a thin red scratch,"
+    },
+    {
+      "start": 313.14,
+      "end": 314.9,
+      "text": "an inch and a half or more in length."
+    },
+    {
+      "start": 315.6,
+      "end": 316.16,
+      "text": "What the hell?",
+      "para_break": true
+    },
+    {
+      "start": 316.7,
+      "end": 318.32,
+      "text": "He growled and examined her hands."
+    },
+    {
+      "start": 319.04,
+      "end": 320.06,
+      "text": "Her left hand was empty.",
+      "para_break": true
+    },
+    {
+      "start": 320.94,
+      "end": 321.72,
+      "text": "In her right hand,",
+      "para_break": true
+    },
+    {
+      "start": 321.76,
+      "end": 322.74,
+      "text": "when he forced it open,"
+    },
+    {
+      "start": 322.8,
+      "end": 325.38,
+      "text": "lay a three-inch jade-headed steel bouquet pin."
+    },
+    {
+      "start": 326.18,
+      "end": 326.82,
+      "text": "What the hell?",
+      "para_break": true
+    },
+    {
+      "start": 326.96,
+      "end": 330.36,
+      "text": "he growled again and held the pin up in front of her eyes."
+    },
+    {
+      "start": 331.38,
+      "end": 332.2,
+      "text": "When she saw the pin,",
+      "para_break": true
+    },
+    {
+      "start": 332.28,
+      "end": 334.04,
+      "text": "she whimpered and opened her dressing gown."
+    },
+    {
+      "start": 334.76,
+      "end": 337.04,
+      "text": "She pushed aside the cream-colored pajama coat",
+      "para_break": true
+    },
+    {
+      "start": 337.04,
+      "end": 339.32,
+      "text": "under it and showed him her body below her left"
+    },
+    {
+      "start": 339.38,
+      "end": 339.72,
+      "text": "breast,"
+    },
+    {
+      "start": 339.82,
+      "end": 342.72,
+      "text": "white flesh crisscrossed with thin red lines"
+    },
+    {
+      "start": 342.72,
+      "end": 345.12,
+      "text": "dotted with tiny red dots where the pin"
+    },
+    {
+      "start": 345.3,
+      "end": 346.6,
+      "text": "had scratched and punctured it."
+    },
+    {
+      "start": 346.76,
+      "end": 347.92,
+      "text": "To stay awake."
+    },
+    {
+      "start": 348.12,
+      "end": 348.22,
+      "text": "Walk."
+    },
+    {
+      "start": 349.38,
+      "end": 349.96,
+      "text": "Till you came.",
+      "para_break": true
+    },
+    {
+      "start": 350.36,
+      "end": 351.98,
+      "text": "She said you'd come."
+    },
+    {
+      "start": 352.42,
+      "end": 352.84,
+      "text": "We're"
+    },
+    {
+      "start": 352.9,
+      "end": 353.5,
+      "text": "so long."
+    },
+    {
+      "start": 354.6,
+      "end": 355.36,
+      "text": "She swayed.",
+      "para_break": true
+    },
+    {
+      "start": 356.256,
+      "end": 358.34,
+      "text": "Spade tightened his arm around her and said,",
+      "para_break": true
+    },
+    {
+      "start": 358.48,
+      "end": 358.82,
+      "text": "walk."
+    },
+    {
+      "start": 359.98,
+      "end": 360.52,
+      "text": "She fought against",
+      "para_break": true
+    },
+    {
+      "start": 360.6,
+      "end": 361.12,
+      "text": "his arm,"
+    },
+    {
+      "start": 361.16,
+      "end": 362.64,
+      "text": "squirming around to face him again."
+    },
+    {
+      "start": 363.12,
+      "end": 363.8,
+      "text": "No."
+    },
+    {
+      "start": 364.6,
+      "end": 365.06,
+      "text": "Till you."
+    },
+    {
+      "start": 365.28,
+      "end": 366.22,
+      "text": "Sleep."
+    },
+    {
+      "start": 367.168,
+      "end": 367.68,
+      "text": "Save her.",
+      "para_break": true
+    },
+    {
+      "start": 368.1,
+      "end": 368.2,
+      "text": "Bridget?"
+    },
+    {
+      "start": 369.66,
+      "end": 369.96,
+      "text": "He demanded.",
+      "para_break": true
+    },
+    {
+      "start": 370.3,
+      "end": 378.12,
+      "text": "yes took her burr burlingame 26 ancho"
+    },
+    {
+      "start": 379.36,
+      "end": 383.66,
+      "text": "hurry too late her head fell over on her shoulder",
+      "para_break": true
+    },
+    {
+      "start": 384.384,
+      "end": 385.64,
+      "text": "spade pushed her head up ruffling",
+      "para_break": true
+    },
+    {
+      "start": 386.4,
+      "end": 387.32,
+      "text": "who took her there",
+      "para_break": true
+    },
+    {
+      "start": 388.0,
+      "end": 392.672,
+      "text": "your father yes wilmer cairo she"
+    },
+    {
+      "start": 393.32,
+      "end": 396.84,
+      "text": "writhed and her eyelids twitched but did not open kill her"
+    },
+    {
+      "start": 398.0,
+      "end": 399.78,
+      "text": "her head fell over again and again he",
+      "para_break": true
+    },
+    {
+      "start": 399.9,
+      "end": 400.46,
+      "text": "pushed it up."
+    },
+    {
+      "start": 401.2,
+      "end": 402.18,
+      "text": "Who shot Jacoby?",
+      "para_break": true
+    },
+    {
+      "start": 403.34,
+      "end": 404.82,
+      "text": "She did not seem to hear the question.",
+      "para_break": true
+    },
+    {
+      "start": 405.08,
+      "end": 406.78,
+      "text": "She tried pitifully to hold"
+    },
+    {
+      "start": 406.78,
+      "end": 408.18,
+      "text": "her head up to open her eyes."
+    },
+    {
+      "start": 408.8,
+      "end": 409.26,
+      "text": "She mumbled,"
+    },
+    {
+      "start": 409.5,
+      "end": 409.6,
+      "text": "go,"
+    },
+    {
+      "start": 410.6,
+      "end": 410.784,
+      "text": "she.",
+      "para_break": true
+    },
+    {
+      "start": 411.76,
+      "end": 413.74,
+      "text": "He shook her brutally.",
+      "para_break": true
+    },
+    {
+      "start": 414.04,
+      "end": 415.4,
+      "text": "Stay awake till the"
+    },
+    {
+      "start": 415.46,
+      "end": 416.18,
+      "text": "doctor comes."
+    },
+    {
+      "start": 417.34,
+      "end": 419.28,
+      "text": "Fear opened her eyes and pushed for a",
+      "para_break": true
+    },
+    {
+      "start": 419.28,
+      "end": 420.96,
+      "text": "moment the cloudiness from her face."
+    },
+    {
+      "start": 421.92,
+      "end": 424.58,
+      "text": "no no she cried thickly father",
+      "para_break": true
+    },
+    {
+      "start": 425.44,
+      "end": 427.76,
+      "text": "kill me swear you won't",
+      "para_break": true
+    },
+    {
+      "start": 428.352,
+      "end": 428.8,
+      "text": "he'd know"
+    },
+    {
+      "start": 429.76,
+      "end": 430.3,
+      "text": "i did",
+      "para_break": true
+    },
+    {
+      "start": 431.44,
+      "end": 434.46,
+      "text": "for her promise won't",
+      "para_break": true
+    },
+    {
+      "start": 435.26,
+      "end": 440.08,
+      "text": "sleep all right morning he shook her again",
+      "para_break": true
+    },
+    {
+      "start": 441.26,
+      "end": 443.24,
+      "text": "you're sure you can sleep the stuff off all right",
+      "para_break": true
+    },
+    {
+      "start": 443.46,
+      "end": 443.56,
+      "text": "Yeah."
+    },
+    {
+      "start": 444.77,
+      "end": 446.42,
+      "text": "Her head fell down again.",
+      "para_break": true
+    },
+    {
+      "start": 447.648,
+      "end": 448.22,
+      "text": "Where's your bed?",
+      "para_break": true
+    },
+    {
+      "start": 449.01,
+      "end": 450.6,
+      "text": "She tried to raise a hand,",
+      "para_break": true
+    },
+    {
+      "start": 450.66,
+      "end": 452.6,
+      "text": "but the effort had become too much for her"
+    },
+    {
+      "start": 452.66,
+      "end": 455.08,
+      "text": "before the hand pointed at anything except the carpet."
+    },
+    {
+      "start": 455.92,
+      "end": 457.4,
+      "text": "With the sigh of a tired child,",
+      "para_break": true
+    },
+    {
+      "start": 457.52,
+      "end": 459.48,
+      "text": "she let her whole body relax and crumple."
+    },
+    {
+      "start": 460.64,
+      "end": 461.94,
+      "text": "Spade caught her up in his arms,",
+      "para_break": true
+    },
+    {
+      "start": 462.1,
+      "end": 464.0,
+      "text": "scooped her up as she sank,"
+    },
+    {
+      "start": 464.34,
+      "end": 464.6,
+      "text": "and,"
+    },
+    {
+      "start": 464.64,
+      "end": 466.46,
+      "text": "holding her easily against his chest,"
+    },
+    {
+      "start": 466.64,
+      "end": 468.4,
+      "text": "went to the nearest of the three doors."
+    },
+    {
+      "start": 469.38,
+      "end": 471.38,
+      "text": "He turned the knob far enough to release the catch,",
+      "para_break": true
+    },
+    {
+      "start": 471.62,
+      "end": 474.56,
+      "text": "pushed the door open with his foot and went into"
+    },
+    {
+      "start": 474.56,
+      "end": 477.04,
+      "text": "a passageway that ran past an open bathroom door"
+    },
+    {
+      "start": 477.04,
+      "end": 478.12,
+      "text": "to a bedroom he"
+    },
+    {
+      "start": 478.944,
+      "end": 481.2,
+      "text": "looked into the bathroom saw it was empty",
+      "para_break": true
+    },
+    {
+      "start": 481.2,
+      "end": 483.16,
+      "text": "and carried the girl into the bedroom"
+    },
+    {
+      "start": 483.59,
+      "end": 484.84,
+      "text": "nobody was there"
+    },
+    {
+      "start": 485.8,
+      "end": 487.48,
+      "text": "the clothing that was in sight and things",
+      "para_break": true
+    },
+    {
+      "start": 487.48,
+      "end": 489.42,
+      "text": "on the chiffonier said it was a man's"
+    },
+    {
+      "start": 489.42,
+      "end": 492.12,
+      "text": "room spade carried the girl back to the green"
+    },
+    {
+      "start": 492.12,
+      "end": 494.04,
+      "text": "carpeted room and tried the opposite door"
+    },
+    {
+      "start": 494.76,
+      "end": 496.83,
+      "text": "through it he passed into another passageway",
+      "para_break": true
+    },
+    {
+      "start": 497.26,
+      "end": 499.48,
+      "text": "past another empty bathroom and into a bedroom"
+    },
+    {
+      "start": 499.74,
+      "end": 501.8,
+      "text": "that was feminine in its accessories."
+    }
+  ]
+}

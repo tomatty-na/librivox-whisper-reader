@@ -1,0 +1,113 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-12",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_12_hammett.mp3",
+  "chapter_title": "Merry-Go-Round",
+  "reader_name": "NLizer",
+  "page_num": 5,
+  "page_total": 5,
+  "page_start_sec": 981.76,
+  "page_end_sec": 1020.3,
+  "para_gap_threshold": 0.597,
+  "segments": [
+    {
+      "start": 981.76,
+      "end": 984.42,
+      "text": "They were tense and motionless for a long moment.",
+      "para_break": true
+    },
+    {
+      "start": 985.38,
+      "end": 986.92,
+      "text": "Then the boy's arms became limp.",
+      "para_break": true
+    },
+    {
+      "start": 987.744,
+      "end": 989.34,
+      "text": "Spade released the boy and stepped back.",
+      "para_break": true
+    },
+    {
+      "start": 990.2,
+      "end": 991.34,
+      "text": "In each of Spade's hands,",
+      "para_break": true
+    },
+    {
+      "start": 991.94,
+      "end": 993.82,
+      "text": "when they came out of the boy's overcoat pockets,",
+      "para_break": true
+    },
+    {
+      "start": 994.66,
+      "end": 996.26,
+      "text": "there was a heavy automatic pistol.",
+      "para_break": true
+    },
+    {
+      "start": 997.16,
+      "end": 998.58,
+      "text": "The boy turned and faced Spade.",
+      "para_break": true
+    },
+    {
+      "start": 999.22,
+      "end": 1001.12,
+      "text": "The boy's face was a ghastly white blank.",
+      "para_break": true
+    },
+    {
+      "start": 1001.84,
+      "end": 1003.5,
+      "text": "He kept his hands in his overcoat pockets.",
+      "para_break": true
+    },
+    {
+      "start": 1003.94,
+      "end": 1006.58,
+      "text": "He looked at Spade's chest and did not say anything."
+    },
+    {
+      "start": 1007.62,
+      "end": 1009.12,
+      "text": "Spade put the pistols in his own",
+      "para_break": true
+    },
+    {
+      "start": 1009.2,
+      "end": 1010.58,
+      "text": "pockets and grinned derisively."
+    },
+    {
+      "start": 1010.8,
+      "end": 1011.6,
+      "text": "Come on,"
+    },
+    {
+      "start": 1011.72,
+      "end": 1012.16,
+      "text": "he said."
+    },
+    {
+      "start": 1012.44,
+      "end": 1014.56,
+      "text": "This will put you in solid with your boss."
+    },
+    {
+      "start": 1015.34,
+      "end": 1017.94,
+      "text": "They went to Gutman's door and Spade knocked.",
+      "para_break": true
+    },
+    {
+      "start": 1019.136,
+      "end": 1020.3,
+      "text": "End of chapter 12.",
+      "para_break": true
+    }
+  ]
+}

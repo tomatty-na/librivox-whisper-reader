@@ -1,0 +1,813 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-08",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_08_hammett.mp3",
+  "chapter_title": "Horse Feathers",
+  "reader_name": "NLizer",
+  "page_num": 2,
+  "page_total": 4,
+  "page_start_sec": 244.128,
+  "page_end_sec": 511.94,
+  "para_gap_threshold": 0.588,
+  "segments": [
+    {
+      "start": 244.128,
+      "end": 246.14,
+      "text": "Bridget O'Shaughnessy jumped out of the armchair",
+      "para_break": true
+    },
+    {
+      "start": 246.24,
+      "end": 246.44,
+      "text": "crying,"
+    },
+    {
+      "start": 247.14,
+      "end": 248.8,
+      "text": "why don't you make him tell the truth",
+      "para_break": true
+    },
+    {
+      "start": 249.32,
+      "end": 250.84,
+      "text": "and slap Cairo on the cheek."
+    },
+    {
+      "start": 251.552,
+      "end": 252.69,
+      "text": "Cairo yelled inarticulately.",
+      "para_break": true
+    },
+    {
+      "start": 254.176,
+      "end": 256.74,
+      "text": "Dundee pushed the girl back into the chair with",
+      "para_break": true
+    },
+    {
+      "start": 256.74,
+      "end": 259.2,
+      "text": "the hand that was not holding the Levantine's arm"
+    },
+    {
+      "start": 259.32,
+      "end": 260.08,
+      "text": "and growled,"
+    },
+    {
+      "start": 260.7,
+      "end": 261.34,
+      "text": "none of that now.",
+      "para_break": true
+    },
+    {
+      "start": 261.68,
+      "end": 261.78,
+      "text": "Spade,"
+    },
+    {
+      "start": 262.58,
+      "end": 263.4,
+      "text": "lighting his cigarette,",
+      "para_break": true
+    },
+    {
+      "start": 263.58,
+      "end": 264.68,
+      "text": "grinned softly through smoke"
+    },
+    {
+      "start": 265.04,
+      "end": 265.9,
+      "text": "and told Tom,"
+    },
+    {
+      "start": 266.08,
+      "end": 267.54,
+      "text": "she's impulsive."
+    },
+    {
+      "start": 267.96,
+      "end": 268.76,
+      "text": "Yeah,"
+    },
+    {
+      "start": 269.14,
+      "end": 269.96,
+      "text": "Tom agreed."
+    },
+    {
+      "start": 271.264,
+      "end": 273.1,
+      "text": "Dundee scowled down at the girl and asked,",
+      "para_break": true
+    },
+    {
+      "start": 273.4,
+      "end": 275.26,
+      "text": "what do you want us to think the truth is?"
+    },
+    {
+      "start": 276.42,
+      "end": 277.28,
+      "text": "Not what he said,",
+      "para_break": true
+    },
+    {
+      "start": 277.5,
+      "end": 277.96,
+      "text": "she replied."
+    },
+    {
+      "start": 278.26,
+      "end": 279.7,
+      "text": "Not anything he said."
+    },
+    {
+      "start": 280.68,
+      "end": 281.6,
+      "text": "She turned to Spade.",
+      "para_break": true
+    },
+    {
+      "start": 281.88,
+      "end": 282.7,
+      "text": "Is it?"
+    },
+    {
+      "start": 283.86,
+      "end": 284.6,
+      "text": "How do I know?",
+      "para_break": true
+    },
+    {
+      "start": 284.86,
+      "end": 285.76,
+      "text": "Spade responded."
+    },
+    {
+      "start": 286.16,
+      "end": 288.26,
+      "text": "I was out in the kitchen mixing an"
+    },
+    {
+      "start": 288.4,
+      "end": 289.9,
+      "text": "omelet when it all happened,"
+    },
+    {
+      "start": 290.02,
+      "end": 290.52,
+      "text": "wasn't I?"
+    },
+    {
+      "start": 291.36,
+      "end": 292.34,
+      "text": "She wrinkled her forehead,",
+      "para_break": true
+    },
+    {
+      "start": 292.48,
+      "end": 293.88,
+      "text": "studying him with eyes that"
+    },
+    {
+      "start": 294.24,
+      "end": 295.36,
+      "text": "perplexity clouded."
+    },
+    {
+      "start": 295.4,
+      "end": 297.42,
+      "text": "Tom grunted in disgust."
+    },
+    {
+      "start": 297.6,
+      "end": 297.7,
+      "text": "Dundee,"
+    },
+    {
+      "start": 298.52,
+      "end": 299.72,
+      "text": "still scowling at the girl,",
+      "para_break": true
+    },
+    {
+      "start": 299.78,
+      "end": 300.78,
+      "text": "ignored Spade's speech"
+    },
+    {
+      "start": 300.78,
+      "end": 301.4,
+      "text": "and asked her,"
+    },
+    {
+      "start": 301.98,
+      "end": 303.24,
+      "text": "if he's not telling the truth,"
+    },
+    {
+      "start": 303.66,
+      "end": 306.28,
+      "text": "how come he did the squawking for help and not you?"
+    },
+    {
+      "start": 306.72,
+      "end": 307.2,
+      "text": "Oh,"
+    },
+    {
+      "start": 307.32,
+      "end": 309.26,
+      "text": "he was frightened to death when I struck him,"
+    },
+    {
+      "start": 309.34,
+      "end": 309.8,
+      "text": "she replied,"
+    },
+    {
+      "start": 310.14,
+      "end": 312.36,
+      "text": "looking contemptuously at the"
+    },
+    {
+      "start": 312.4,
+      "end": 312.96,
+      "text": "Levantine."
+    },
+    {
+      "start": 313.22,
+      "end": 316.18,
+      "text": "Cairo's face flushed where it was not blood smeared."
+    },
+    {
+      "start": 316.56,
+      "end": 317.26,
+      "text": "He exclaimed,"
+    },
+    {
+      "start": 317.42,
+      "end": 318.12,
+      "text": "foo,"
+    },
+    {
+      "start": 318.26,
+      "end": 319.12,
+      "text": "another lie."
+    },
+    {
+      "start": 319.79,
+      "end": 321.08,
+      "text": "She kicked his leg,",
+      "para_break": true
+    },
+    {
+      "start": 321.28,
+      "end": 324.22,
+      "text": "the high heel of her blue slipper striking him just below the knee."
+    },
+    {
+      "start": 325.152,
+      "end": 326.62,
+      "text": "Dundee pulled him away from her while",
+      "para_break": true
+    },
+    {
+      "start": 326.62,
+      "end": 328.46,
+      "text": "Big Tom came to stand close to her,"
+    },
+    {
+      "start": 328.5,
+      "end": 328.84,
+      "text": "rumbling,"
+    },
+    {
+      "start": 329.36,
+      "end": 329.96,
+      "text": "Behave,"
+    },
+    {
+      "start": 329.96,
+      "end": 330.24,
+      "text": "sister,"
+    },
+    {
+      "start": 330.52,
+      "end": 332.14,
+      "text": "that's no way to act."
+    },
+    {
+      "start": 332.86,
+      "end": 334.0,
+      "text": "Then make him tell the truth,",
+      "para_break": true
+    },
+    {
+      "start": 334.2,
+      "end": 335.18,
+      "text": "she said defiantly."
+    },
+    {
+      "start": 336.18,
+      "end": 337.06,
+      "text": "We'll do that all right,",
+      "para_break": true
+    },
+    {
+      "start": 337.16,
+      "end": 337.64,
+      "text": "he promised."
+    },
+    {
+      "start": 337.84,
+      "end": 338.9,
+      "text": "Just don't get rough."
+    },
+    {
+      "start": 339.96,
+      "end": 340.46,
+      "text": "Dundee,",
+      "para_break": true
+    },
+    {
+      "start": 340.52,
+      "end": 343.52,
+      "text": "looking at Spade with green eyes hard and bright and satisfied,"
+    },
+    {
+      "start": 343.8,
+      "end": 345.08,
+      "text": "addressed his subordinate."
+    },
+    {
+      "start": 345.24,
+      "end": 345.376,
+      "text": "Well,"
+    },
+    {
+      "start": 346.16,
+      "end": 346.44,
+      "text": "Tom,",
+      "para_break": true
+    },
+    {
+      "start": 346.64,
+      "end": 349.48,
+      "text": "I don't guess we'll go wrong pulling the lot of them in."
+    },
+    {
+      "start": 350.66,
+      "end": 351.84,
+      "text": "Tom nodded gloomily.",
+      "para_break": true
+    },
+    {
+      "start": 352.8,
+      "end": 355.4,
+      "text": "Spade left the door and advanced to the center of the room,",
+      "para_break": true
+    },
+    {
+      "start": 355.904,
+      "end": 358.94,
+      "text": "dropping his cigarette into a tray on the table as he passed it."
+    },
+    {
+      "start": 359.78,
+      "end": 361.78,
+      "text": "His smile and manner were amiably composed.",
+      "para_break": true
+    },
+    {
+      "start": 362.74,
+      "end": 363.44,
+      "text": "Don't be in a hurry,",
+      "para_break": true
+    },
+    {
+      "start": 363.52,
+      "end": 363.9,
+      "text": "he said."
+    },
+    {
+      "start": 364.416,
+      "end": 365.64,
+      "text": "Everything can be explained."
+    },
+    {
+      "start": 366.9,
+      "end": 367.46,
+      "text": "I bet you,",
+      "para_break": true
+    },
+    {
+      "start": 367.62,
+      "end": 368.5,
+      "text": "Dundee agreed,"
+    },
+    {
+      "start": 368.74,
+      "end": 369.2,
+      "text": "sneering."
+    },
+    {
+      "start": 370.272,
+      "end": 371.3,
+      "text": "Spade bowed to the girl.",
+      "para_break": true
+    },
+    {
+      "start": 371.48,
+      "end": 372.76,
+      "text": "Miss O'Shaughnessy,"
+    },
+    {
+      "start": 372.86,
+      "end": 373.3,
+      "text": "he said,"
+    },
+    {
+      "start": 373.8,
+      "end": 376.98,
+      "text": "may I present Lieutenant Dundee and Detective Sergeant Polhaus."
+    },
+    {
+      "start": 377.48,
+      "end": 378.8,
+      "text": "He bowed to Dundee."
+    },
+    {
+      "start": 379.58,
+      "end": 381.9,
+      "text": "Miss O'Shaughnessy is an operative in my employ.",
+      "para_break": true
+    },
+    {
+      "start": 383.04,
+      "end": 384.84,
+      "text": "Joel Cairo said indignantly,",
+      "para_break": true
+    },
+    {
+      "start": 384.96,
+      "end": 386.06,
+      "text": "that isn't so."
+    },
+    {
+      "start": 386.3,
+      "end": 386.72,
+      "text": "She,"
+    },
+    {
+      "start": 387.17,
+      "end": 390.12,
+      "text": "Spade interrupted him in a quite loud but still"
+    },
+    {
+      "start": 390.22,
+      "end": 390.88,
+      "text": "genial voice."
+    },
+    {
+      "start": 391.22,
+      "end": 392.94,
+      "text": "I hired her just recently,"
+    },
+    {
+      "start": 393.12,
+      "end": 393.64,
+      "text": "yesterday."
+    },
+    {
+      "start": 394.7,
+      "end": 395.12,
+      "text": "This is Mr.",
+      "para_break": true
+    },
+    {
+      "start": 395.26,
+      "end": 395.84,
+      "text": "Joel Cairo,"
+    },
+    {
+      "start": 396.08,
+      "end": 396.56,
+      "text": "a friend,"
+    },
+    {
+      "start": 396.8,
+      "end": 397.82,
+      "text": "an acquaintance"
+    },
+    {
+      "start": 397.94,
+      "end": 398.44,
+      "text": "at any rate,"
+    },
+    {
+      "start": 398.54,
+      "end": 399.03,
+      "text": "of Thursby's."
+    },
+    {
+      "start": 399.36,
+      "end": 402.5,
+      "text": "He came to me this afternoon and tried to hire me to find something"
+    },
+    {
+      "start": 402.64,
+      "end": 405.52,
+      "text": "Thursby was supposed to have on him when he was bumped off."
+    },
+    {
+      "start": 406.28,
+      "end": 406.9,
+      "text": "It looked funny,",
+      "para_break": true
+    },
+    {
+      "start": 407.04,
+      "end": 407.94,
+      "text": "the way he put it to"
+    },
+    {
+      "start": 407.94,
+      "end": 408.12,
+      "text": "me,"
+    },
+    {
+      "start": 408.56,
+      "end": 409.44,
+      "text": "so I wouldn't touch it."
+    },
+    {
+      "start": 410.22,
+      "end": 410.98,
+      "text": "Then he pulled a gun.",
+      "para_break": true
+    },
+    {
+      "start": 411.22,
+      "end": 411.64,
+      "text": "Well,"
+    },
+    {
+      "start": 411.84,
+      "end": 412.68,
+      "text": "never mind that,"
+    },
+    {
+      "start": 412.76,
+      "end": 413.9,
+      "text": "unless it comes to a point"
+    },
+    {
+      "start": 414.28,
+      "end": 415.96,
+      "text": "of laying charges against each other."
+    },
+    {
+      "start": 416.26,
+      "end": 416.86,
+      "text": "Anyway,"
+    },
+    {
+      "start": 417.1,
+      "end": 419.38,
+      "text": "after talking it over with Miss O'Shaughnessy,"
+    },
+    {
+      "start": 419.78,
+      "end": 421.46,
+      "text": "I thought maybe I could get something out"
+    },
+    {
+      "start": 421.46,
+      "end": 423.84,
+      "text": "of him about Miles's and Thursby's killings,"
+    },
+    {
+      "start": 424.16,
+      "end": 425.52,
+      "text": "so I asked him to come up here."
+    },
+    {
+      "start": 426.6,
+      "end": 428.72,
+      "text": "Maybe we put the questions to him a little rough,",
+      "para_break": true
+    },
+    {
+      "start": 429.12,
+      "end": 430.12,
+      "text": "but he wasn't hurt any,"
+    },
+    {
+      "start": 430.66,
+      "end": 432.36,
+      "text": "not enough to have to cry for help."
+    },
+    {
+      "start": 433.24,
+      "end": 434.56,
+      "text": "I'd already had to take his gun",
+      "para_break": true
+    },
+    {
+      "start": 434.56,
+      "end": 435.66,
+      "text": "away from him again."
+    },
+    {
+      "start": 437.12,
+      "end": 437.86,
+      "text": "As Spade talked,",
+      "para_break": true
+    },
+    {
+      "start": 438.08,
+      "end": 440.12,
+      "text": "anxiety came into Cairo's reddened face."
+    },
+    {
+      "start": 440.88,
+      "end": 441.5,
+      "text": "His eyes moved",
+      "para_break": true
+    },
+    {
+      "start": 441.56,
+      "end": 442.54,
+      "text": "jerkily up and down,"
+    },
+    {
+      "start": 442.64,
+      "end": 444.38,
+      "text": "shifting their focus uneasily between"
+    },
+    {
+      "start": 444.38,
+      "end": 446.2,
+      "text": "the floor and Spade's bland face."
+    },
+    {
+      "start": 447.2,
+      "end": 449.3,
+      "text": "Dundee confronted Cairo and brusquely demanded,",
+      "para_break": true
+    },
+    {
+      "start": 449.56,
+      "end": 450.04,
+      "text": "well,"
+    },
+    {
+      "start": 450.26,
+      "end": 451.64,
+      "text": "what have you got to say to that?"
+    },
+    {
+      "start": 452.736,
+      "end": 454.8,
+      "text": "Cairo had nothing to say for nearly a minute",
+      "para_break": true
+    },
+    {
+      "start": 454.8,
+      "end": 457.04,
+      "text": "while he stared at the lieutenant's chest."
+    },
+    {
+      "start": 457.76,
+      "end": 458.88,
+      "text": "When he lifted his eyes,",
+      "para_break": true
+    },
+    {
+      "start": 458.92,
+      "end": 459.9,
+      "text": "they were shy and wary."
+    },
+    {
+      "start": 460.58,
+      "end": 462.04,
+      "text": "I don't know what I should say,",
+      "para_break": true
+    },
+    {
+      "start": 462.14,
+      "end": 462.66,
+      "text": "he murmured."
+    },
+    {
+      "start": 463.16,
+      "end": 464.74,
+      "text": "His embarrassment seemed genuine."
+    },
+    {
+      "start": 465.86,
+      "end": 466.8,
+      "text": "Try telling the facts,",
+      "para_break": true
+    },
+    {
+      "start": 467.08,
+      "end": 467.9,
+      "text": "Dundee suggested."
+    },
+    {
+      "start": 468.96,
+      "end": 469.4,
+      "text": "The facts?",
+      "para_break": true
+    },
+    {
+      "start": 470.24,
+      "end": 471.44,
+      "text": "Cairo's eyes fidgeted,",
+      "para_break": true
+    },
+    {
+      "start": 471.68,
+      "end": 473.9,
+      "text": "though their gaze did not actually leave the lieutenant's."
+    },
+    {
+      "start": 474.8,
+      "end": 477.48,
+      "text": "What assurance have I that the facts will be believed?",
+      "para_break": true
+    },
+    {
+      "start": 478.72,
+      "end": 479.64,
+      "text": "Quit stalling.",
+      "para_break": true
+    },
+    {
+      "start": 479.76,
+      "end": 482.42,
+      "text": "all you've got to do is swear to a complaint that"
+    },
+    {
+      "start": 482.42,
+      "end": 485.18,
+      "text": "they took a poke at you and the warrant clerk will"
+    },
+    {
+      "start": 485.18,
+      "end": 487.58,
+      "text": "believe you enough to issue a warrant that'll"
+    },
+    {
+      "start": 487.58,
+      "end": 490.94,
+      "text": "let us throw them in the can spade spoke in an"
+    },
+    {
+      "start": 491.06,
+      "end": 494.88,
+      "text": "amused tone go ahead cairo make him happy tell him"
+    },
+    {
+      "start": 494.88,
+      "end": 497.38,
+      "text": "you'll do it and then we'll swear to one against"
+    },
+    {
+      "start": 497.52,
+      "end": 501.1,
+      "text": "you and he'll have the lot of us cairo cleared"
+    },
+    {
+      "start": 501.1,
+      "end": 503.42,
+      "text": "his throat and looked nervously around the room"
+    },
+    {
+      "start": 503.92,
+      "end": 506.92,
+      "text": "not into the eyes of anyone there dundee blew"
+    },
+    {
+      "start": 506.92,
+      "end": 509.3,
+      "text": "breath through his nose in a puff that was not"
+    },
+    {
+      "start": 509.48,
+      "end": 510.5,
+      "text": "quite a snort and said,"
+    },
+    {
+      "start": 510.64,
+      "end": 511.94,
+      "text": "get your hats."
+    }
+  ]
+}

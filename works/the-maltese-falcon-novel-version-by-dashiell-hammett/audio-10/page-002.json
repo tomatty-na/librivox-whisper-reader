@@ -1,0 +1,651 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-10",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_10_hammett.mp3",
+  "chapter_title": "The Belvedere Divan",
+  "reader_name": "NLizer",
+  "page_num": 2,
+  "page_total": 5,
+  "page_start_sec": 245.42,
+  "page_end_sec": 485.64,
+  "para_gap_threshold": 0.552,
+  "segments": [
+    {
+      "start": 245.42,
+      "end": 247.38,
+      "text": "She came out of the bathroom whistling,"
+    },
+    {
+      "start": 247.56,
+      "end": 248.28,
+      "text": "in Cuba."
+    },
+    {
+      "start": 249.14,
+      "end": 250.0,
+      "text": "Shall I make the bed,",
+      "para_break": true
+    },
+    {
+      "start": 250.14,
+      "end": 250.64,
+      "text": "she asked."
+    },
+    {
+      "start": 251.456,
+      "end": 252.0,
+      "text": "That'd be swell.",
+      "para_break": true
+    },
+    {
+      "start": 252.26,
+      "end": 254.3,
+      "text": "The eggs need a couple of minutes more."
+    },
+    {
+      "start": 255.28,
+      "end": 257.92,
+      "text": "Their breakfast was on the table when she returned to the kitchen.",
+      "para_break": true
+    },
+    {
+      "start": 258.46,
+      "end": 261.18,
+      "text": "They sat where they had sat the night before and ate heartily."
+    },
+    {
+      "start": 262.0,
+      "end": 262.26,
+      "text": "Now,",
+      "para_break": true
+    },
+    {
+      "start": 262.42,
+      "end": 263.24,
+      "text": "about the bird,"
+    },
+    {
+      "start": 263.52,
+      "end": 265.66,
+      "text": "Spade suggested presently as they ate."
+    },
+    {
+      "start": 266.5,
+      "end": 268.04,
+      "text": "She put her fork down and looked at him.",
+      "para_break": true
+    },
+    {
+      "start": 268.6,
+      "end": 271.58,
+      "text": "She drew her eyebrows together and made her mouth small and tight.",
+      "para_break": true
+    },
+    {
+      "start": 271.76,
+      "end": 275.42,
+      "text": "You can't ask me to talk about that this morning of all mornings,"
+    },
+    {
+      "start": 275.52,
+      "end": 276.4,
+      "text": "she protested."
+    },
+    {
+      "start": 276.66,
+      "end": 278.42,
+      "text": "I don't want to and I won't."
+    },
+    {
+      "start": 279.168,
+      "end": 280.38,
+      "text": "It's a stubborn damn hussy,",
+      "para_break": true
+    },
+    {
+      "start": 280.56,
+      "end": 281.4,
+      "text": "he said sadly,"
+    },
+    {
+      "start": 281.56,
+      "end": 283.48,
+      "text": "and put a piece of roll into his mouth."
+    },
+    {
+      "start": 284.36,
+      "end": 286.36,
+      "text": "The youth who had shadowed Spade was not in",
+      "para_break": true
+    },
+    {
+      "start": 286.36,
+      "end": 288.3,
+      "text": "sight when Spade and Bridget O'Shaughnessy"
+    },
+    {
+      "start": 288.38,
+      "end": 290.9,
+      "text": "crossed the sidewalk to the waiting taxi cab."
+    },
+    {
+      "start": 291.78,
+      "end": 293.26,
+      "text": "The taxi cab was not followed.",
+      "para_break": true
+    },
+    {
+      "start": 293.94,
+      "end": 296.1,
+      "text": "Neither the youth nor another loiterer was",
+      "para_break": true
+    },
+    {
+      "start": 296.1,
+      "end": 298.26,
+      "text": "visible in the vicinity of the coronet when"
+    },
+    {
+      "start": 298.26,
+      "end": 299.48,
+      "text": "the taxi cab arrived there."
+    },
+    {
+      "start": 300.07,
+      "end": 303.18,
+      "text": "Bridget O'Shaughnessy would not let Spade go in with her.",
+      "para_break": true
+    },
+    {
+      "start": 304.22,
+      "end": 306.22,
+      "text": "It's bad enough to be coming home in evening",
+      "para_break": true
+    },
+    {
+      "start": 306.22,
+      "end": 308.24,
+      "text": "dress at this hour without bringing company."
+    },
+    {
+      "start": 308.86,
+      "end": 310.3,
+      "text": "I hope I don't meet anybody.",
+      "para_break": true
+    },
+    {
+      "start": 311.52,
+      "end": 311.94,
+      "text": "Dinner tonight?",
+      "para_break": true
+    },
+    {
+      "start": 312.68,
+      "end": 313.2,
+      "text": "Yes.",
+      "para_break": true
+    },
+    {
+      "start": 313.82,
+      "end": 314.76,
+      "text": "They kissed.",
+      "para_break": true
+    },
+    {
+      "start": 315.14,
+      "end": 316.5,
+      "text": "She went into the coronet."
+    },
+    {
+      "start": 317.48,
+      "end": 318.46,
+      "text": "He told the chauffeur,",
+      "para_break": true
+    },
+    {
+      "start": 318.54,
+      "end": 319.88,
+      "text": "Hotel Belvedere."
+    },
+    {
+      "start": 320.96,
+      "end": 322.07,
+      "text": "When he reached the Belvedere,",
+      "para_break": true
+    },
+    {
+      "start": 322.14,
+      "end": 324.72,
+      "text": "he saw the youth who had shadowed him sitting in the lobby"
+    },
+    {
+      "start": 324.88,
+      "end": 327.86,
+      "text": "on a divan from which the elevators could be seen."
+    },
+    {
+      "start": 328.7,
+      "end": 330.5,
+      "text": "Apparently the youth was reading a newspaper.",
+      "para_break": true
+    },
+    {
+      "start": 331.56,
+      "end": 332.12,
+      "text": "At the desk,",
+      "para_break": true
+    },
+    {
+      "start": 332.12,
+      "end": 334.02,
+      "text": "Spade learned that Kyra was not in."
+    },
+    {
+      "start": 334.54,
+      "end": 336.52,
+      "text": "He frowned and pinched his lower lip."
+    },
+    {
+      "start": 337.216,
+      "end": 339.34,
+      "text": "Points of yellow light began to dance in his eyes.",
+      "para_break": true
+    },
+    {
+      "start": 339.98,
+      "end": 340.22,
+      "text": "Thanks,",
+      "para_break": true
+    },
+    {
+      "start": 340.4,
+      "end": 342.5,
+      "text": "he said softly to the clerk and turned away."
+    },
+    {
+      "start": 343.69,
+      "end": 344.24,
+      "text": "Sauntering,",
+      "para_break": true
+    },
+    {
+      "start": 344.24,
+      "end": 346.02,
+      "text": "he crossed the lobby to the divan,"
+    },
+    {
+      "start": 346.38,
+      "end": 349.04,
+      "text": "from which the elevators could be seen and sat down beside,"
+    },
+    {
+      "start": 349.86,
+      "end": 350.8,
+      "text": "not more than a foot from,",
+      "para_break": true
+    },
+    {
+      "start": 351.2,
+      "end": 353.74,
+      "text": "the young man who was apparently reading a newspaper."
+    },
+    {
+      "start": 354.76,
+      "end": 356.74,
+      "text": "The young man did not look up from his newspaper.",
+      "para_break": true
+    },
+    {
+      "start": 357.17,
+      "end": 358.94,
+      "text": "Seen at this scant distance,"
+    },
+    {
+      "start": 359.18,
+      "end": 361.58,
+      "text": "he seemed certainly less than twenty years old."
+    },
+    {
+      "start": 362.18,
+      "end": 363.38,
+      "text": "His features were small,",
+      "para_break": true
+    },
+    {
+      "start": 364.16,
+      "end": 366.08,
+      "text": "in keeping with his stature and regular.",
+      "para_break": true
+    },
+    {
+      "start": 366.37,
+      "end": 368.02,
+      "text": "His skin was very fair."
+    },
+    {
+      "start": 368.72,
+      "end": 370.48,
+      "text": "The whiteness of his cheeks was a little",
+      "para_break": true
+    },
+    {
+      "start": 370.48,
+      "end": 372.92,
+      "text": "blurred by any considerable growth of beard,"
+    },
+    {
+      "start": 373.38,
+      "end": 374.5,
+      "text": "as by the glow of blood."
+    },
+    {
+      "start": 374.96,
+      "end": 378.62,
+      "text": "His clothing was neither new nor of more than ordinary quality,"
+    },
+    {
+      "start": 379.42,
+      "end": 379.64,
+      "text": "but it,",
+      "para_break": true
+    },
+    {
+      "start": 379.74,
+      "end": 381.18,
+      "text": "and his manner of wearing it,"
+    },
+    {
+      "start": 381.44,
+      "end": 383.5,
+      "text": "was marked by a hard masculine neatness."
+    },
+    {
+      "start": 384.1,
+      "end": 385.3,
+      "text": "Spade asked casually,",
+      "para_break": true
+    },
+    {
+      "start": 385.96,
+      "end": 386.46,
+      "text": "where is he?",
+      "para_break": true
+    },
+    {
+      "start": 386.94,
+      "end": 390.58,
+      "text": "While shaking tobacco down into a brown paper curved to catch it."
+    },
+    {
+      "start": 391.16,
+      "end": 393.02,
+      "text": "The boy lowered his paper and looked around,",
+      "para_break": true
+    },
+    {
+      "start": 393.728,
+      "end": 395.72,
+      "text": "moving with a purposeful sort of slowness",
+      "para_break": true
+    },
+    {
+      "start": 395.72,
+      "end": 398.55,
+      "text": "as of a more natural swiftness restrained."
+    },
+    {
+      "start": 399.3,
+      "end": 401.0,
+      "text": "He looked with small hazel eyes under",
+      "para_break": true
+    },
+    {
+      "start": 401.0,
+      "end": 403.48,
+      "text": "somewhat long curling lashes at Spade's chest."
+    },
+    {
+      "start": 404.18,
+      "end": 406.22,
+      "text": "He said in a voice as colorless and",
+      "para_break": true
+    },
+    {
+      "start": 406.22,
+      "end": 408.56,
+      "text": "composed and cold as his young face,"
+    },
+    {
+      "start": 408.8,
+      "end": 408.9,
+      "text": "what?"
+    },
+    {
+      "start": 410.8,
+      "end": 411.36,
+      "text": "Where is he?",
+      "para_break": true
+    },
+    {
+      "start": 411.776,
+      "end": 413.02,
+      "text": "Spade was busy with his cigarette."
+    },
+    {
+      "start": 414.2,
+      "end": 414.52,
+      "text": "\"'Who?'",
+      "para_break": true
+    },
+    {
+      "start": 415.64,
+      "end": 416.52,
+      "text": "\"'The fairy.'",
+      "para_break": true
+    },
+    {
+      "start": 416.74,
+      "end": 420.12,
+      "text": "The hazel eyes' gaze went up to Spade's chest,"
+    },
+    {
+      "start": 420.42,
+      "end": 422.72,
+      "text": "to the knot of his maroon tie and rested there."
+    },
+    {
+      "start": 423.64,
+      "end": 424.78,
+      "text": "\"'What do you think you're doing,",
+      "para_break": true
+    },
+    {
+      "start": 424.88,
+      "end": 426.26,
+      "text": "Jack?' the boy demanded."
+    },
+    {
+      "start": 427.488,
+      "end": 427.96,
+      "text": "\"'Kidding me?'",
+      "para_break": true
+    },
+    {
+      "start": 429.06,
+      "end": 431.44,
+      "text": "\"'I'll tell you when I am,' Spade licked his cigarette",
+      "para_break": true
+    },
+    {
+      "start": 431.58,
+      "end": 433.26,
+      "text": "and smiled amiably at the boy."
+    },
+    {
+      "start": 433.9,
+      "end": 434.22,
+      "text": "\"'New York,",
+      "para_break": true
+    },
+    {
+      "start": 434.28,
+      "end": 434.8,
+      "text": "aren't you?'"
+    },
+    {
+      "start": 435.62,
+      "end": 437.86,
+      "text": "The boy stared at Spade's tie and did not speak.",
+      "para_break": true
+    },
+    {
+      "start": 438.752,
+      "end": 441.52,
+      "text": "Spade nodded as if the boy had said yes and asked,",
+      "para_break": true
+    },
+    {
+      "start": 442.272,
+      "end": 443.1,
+      "text": "\"'Balm's Rush?'",
+      "para_break": true
+    },
+    {
+      "start": 443.68,
+      "end": 446.58,
+      "text": "The boy stared at Spade's tie for a moment longer,",
+      "para_break": true
+    },
+    {
+      "start": 446.88,
+      "end": 448.68,
+      "text": "then raised his newspaper and returned his"
+    },
+    {
+      "start": 448.78,
+      "end": 449.48,
+      "text": "attention to it."
+    },
+    {
+      "start": 450.272,
+      "end": 450.64,
+      "text": "Shove off,",
+      "para_break": true
+    },
+    {
+      "start": 451.02,
+      "end": 451.36,
+      "text": "he said,"
+    },
+    {
+      "start": 451.96,
+      "end": 452.88,
+      "text": "from the side of his mouth.",
+      "para_break": true
+    },
+    {
+      "start": 454.144,
+      "end": 455.16,
+      "text": "Spade lighted his cigarette,",
+      "para_break": true
+    },
+    {
+      "start": 455.38,
+      "end": 457.12,
+      "text": "leaned back comfortably on the divan,"
+    },
+    {
+      "start": 457.26,
+      "end": 459.04,
+      "text": "and spoke with good-natured carelessness."
+    },
+    {
+      "start": 460.14,
+      "end": 461.76,
+      "text": "You'll have to talk to me before you're through,",
+      "para_break": true
+    },
+    {
+      "start": 461.86,
+      "end": 462.16,
+      "text": "Sonny."
+    },
+    {
+      "start": 462.24,
+      "end": 463.36,
+      "text": "Some of you will."
+    },
+    {
+      "start": 464.1,
+      "end": 465.39,
+      "text": "And you can tell G I",
+      "para_break": true
+    },
+    {
+      "start": 465.66,
+      "end": 466.1,
+      "text": "said so."
+    },
+    {
+      "start": 466.7,
+      "end": 469.52,
+      "text": "The boy put his paper down quickly and faced Spade,",
+      "para_break": true
+    },
+    {
+      "start": 469.6,
+      "end": 471.28,
+      "text": "staring at his necktie with bleak"
+    },
+    {
+      "start": 471.54,
+      "end": 471.92,
+      "text": "hazel eyes."
+    },
+    {
+      "start": 472.9,
+      "end": 475.24,
+      "text": "The boy's small hands were spread flat over his belly.",
+      "para_break": true
+    },
+    {
+      "start": 476.18,
+      "end": 477.46,
+      "text": "Keep asking for it and you're",
+      "para_break": true
+    },
+    {
+      "start": 477.46,
+      "end": 478.22,
+      "text": "going to get it,"
+    },
+    {
+      "start": 478.66,
+      "end": 478.98,
+      "text": "he said."
+    },
+    {
+      "start": 479.16,
+      "end": 479.74,
+      "text": "Plenty."
+    },
+    {
+      "start": 480.22,
+      "end": 482.64,
+      "text": "His voice was low and flat and menacing."
+    },
+    {
+      "start": 483.03,
+      "end": 484.54,
+      "text": "I told you to shove off."
+    },
+    {
+      "start": 485.248,
+      "end": 485.64,
+      "text": "Shove off.",
+      "para_break": true
+    }
+  ]
+}

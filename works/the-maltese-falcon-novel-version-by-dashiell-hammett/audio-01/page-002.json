@@ -1,0 +1,799 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-01",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_01_hammett.mp3",
+  "chapter_title": "Spade and Archer",
+  "reader_name": "NLizer",
+  "page_num": 2,
+  "page_total": 4,
+  "page_start_sec": 262.5,
+  "page_end_sec": 512.72,
+  "para_gap_threshold": 0.685,
+  "segments": [
+    {
+      "start": 262.5,
+      "end": 262.6,
+      "text": "Yes?"
+    },
+    {
+      "start": 264.47,
+      "end": 266.0,
+      "text": "I don't know where she met him.",
+      "para_break": true
+    },
+    {
+      "start": 266.46,
+      "end": 266.74,
+      "text": "I mean,"
+    },
+    {
+      "start": 266.78,
+      "end": 268.06,
+      "text": "I don't know where in New York."
+    },
+    {
+      "start": 268.928,
+      "end": 269.24,
+      "text": "She's five",
+      "para_break": true
+    },
+    {
+      "start": 269.24,
+      "end": 270.14,
+      "text": "years younger than I,"
+    },
+    {
+      "start": 270.28,
+      "end": 271.06,
+      "text": "only 17,"
+    },
+    {
+      "start": 271.5,
+      "end": 273.52,
+      "text": "and we didn't have the same friends."
+    },
+    {
+      "start": 274.44,
+      "end": 275.78,
+      "text": "I don't suppose we've ever been",
+      "para_break": true
+    },
+    {
+      "start": 275.78,
+      "end": 277.14,
+      "text": "as close as sisters should be."
+    },
+    {
+      "start": 278.016,
+      "end": 279.14,
+      "text": "Mama and Papa are in Europe.",
+      "para_break": true
+    },
+    {
+      "start": 280.16,
+      "end": 280.86,
+      "text": "It would kill them.",
+      "para_break": true
+    },
+    {
+      "start": 281.62,
+      "end": 282.28,
+      "text": "I've got to get her",
+      "para_break": true
+    },
+    {
+      "start": 282.28,
+      "end": 283.4,
+      "text": "back before they come home."
+    },
+    {
+      "start": 284.16,
+      "end": 284.96,
+      "text": "Yes,",
+      "para_break": true
+    },
+    {
+      "start": 285.18,
+      "end": 285.78,
+      "text": "he said."
+    },
+    {
+      "start": 286.88,
+      "end": 288.28,
+      "text": "They're coming home the first of the month.",
+      "para_break": true
+    },
+    {
+      "start": 289.504,
+      "end": 289.9,
+      "text": "Spade's eyes",
+      "para_break": true
+    },
+    {
+      "start": 290.28,
+      "end": 290.66,
+      "text": "brightened."
+    },
+    {
+      "start": 290.7,
+      "end": 291.98,
+      "text": "Then we've two weeks,"
+    },
+    {
+      "start": 292.2,
+      "end": 292.68,
+      "text": "he said."
+    },
+    {
+      "start": 293.44,
+      "end": 296.32,
+      "text": "I didn't know what she had done until her letter came.",
+      "para_break": true
+    },
+    {
+      "start": 297.04,
+      "end": 298.12,
+      "text": "I was frantic.",
+      "para_break": true
+    },
+    {
+      "start": 298.32,
+      "end": 299.7,
+      "text": "Her lips trembled."
+    },
+    {
+      "start": 300.09,
+      "end": 303.1,
+      "text": "Her hands mashed the dark handbag in her lap."
+    },
+    {
+      "start": 303.57,
+      "end": 304.9,
+      "text": "I was too afraid she"
+    },
+    {
+      "start": 304.9,
+      "end": 306.84,
+      "text": "had done something like this to go to the police,"
+    },
+    {
+      "start": 307.54,
+      "end": 309.14,
+      "text": "and the fear that something had happened to her",
+      "para_break": true
+    },
+    {
+      "start": 309.22,
+      "end": 310.32,
+      "text": "kept urging me to go."
+    },
+    {
+      "start": 310.64,
+      "end": 313.26,
+      "text": "There wasn't anyone I could go to for advice."
+    },
+    {
+      "start": 313.72,
+      "end": 315.28,
+      "text": "I didn't know what to do."
+    },
+    {
+      "start": 315.82,
+      "end": 316.94,
+      "text": "What could I do?"
+    },
+    {
+      "start": 317.88,
+      "end": 318.48,
+      "text": "Nothing,",
+      "para_break": true
+    },
+    {
+      "start": 318.64,
+      "end": 319.1,
+      "text": "of course,"
+    },
+    {
+      "start": 319.26,
+      "end": 319.9,
+      "text": "Spade said."
+    },
+    {
+      "start": 320.62,
+      "end": 321.54,
+      "text": "But then her letter came.",
+      "para_break": true
+    },
+    {
+      "start": 322.45,
+      "end": 323.0,
+      "text": "Yes,",
+      "para_break": true
+    },
+    {
+      "start": 323.2,
+      "end": 325.86,
+      "text": "and I sent her a telegram asking her to come home."
+    },
+    {
+      "start": 326.54,
+      "end": 328.18,
+      "text": "I sent it to General Delivery here."
+    },
+    {
+      "start": 328.68,
+      "end": 330.52,
+      "text": "That was the only address she gave me."
+    },
+    {
+      "start": 331.0,
+      "end": 332.56,
+      "text": "I waited a whole week,"
+    },
+    {
+      "start": 332.94,
+      "end": 333.88,
+      "text": "but no answer came."
+    },
+    {
+      "start": 334.66,
+      "end": 335.82,
+      "text": "Not another word from her.",
+      "para_break": true
+    },
+    {
+      "start": 336.62,
+      "end": 339.48,
+      "text": "And Mama and Papa's return was drawing nearer and nearer.",
+      "para_break": true
+    },
+    {
+      "start": 340.3,
+      "end": 342.06,
+      "text": "So I came to San Francisco to get her.",
+      "para_break": true
+    },
+    {
+      "start": 342.8,
+      "end": 343.72,
+      "text": "I wrote her I was coming.",
+      "para_break": true
+    },
+    {
+      "start": 344.51,
+      "end": 345.76,
+      "text": "I shouldn't have done that,",
+      "para_break": true
+    },
+    {
+      "start": 345.8,
+      "end": 346.16,
+      "text": "should I?"
+    },
+    {
+      "start": 347.552,
+      "end": 347.92,
+      "text": "Maybe not.",
+      "para_break": true
+    },
+    {
+      "start": 348.92,
+      "end": 350.68,
+      "text": "It's not always easy to know what to do.",
+      "para_break": true
+    },
+    {
+      "start": 351.1,
+      "end": 352.36,
+      "text": "You haven't found her?"
+    },
+    {
+      "start": 352.7,
+      "end": 353.84,
+      "text": "No,"
+    },
+    {
+      "start": 353.92,
+      "end": 354.84,
+      "text": "I haven't."
+    },
+    {
+      "start": 355.14,
+      "end": 357.18,
+      "text": "I wrote her that I would go to the St."
+    },
+    {
+      "start": 357.26,
+      "end": 357.54,
+      "text": "Mark,"
+    },
+    {
+      "start": 357.88,
+      "end": 360.0,
+      "text": "and I begged her to come and let me talk to her,"
+    },
+    {
+      "start": 360.06,
+      "end": 362.3,
+      "text": "even if she didn't intend to go home with me."
+    },
+    {
+      "start": 363.14,
+      "end": 363.86,
+      "text": "But she didn't come.",
+      "para_break": true
+    },
+    {
+      "start": 364.96,
+      "end": 365.92,
+      "text": "I waited three days,",
+      "para_break": true
+    },
+    {
+      "start": 366.12,
+      "end": 366.96,
+      "text": "and she didn't come."
+    },
+    {
+      "start": 367.34,
+      "end": 368.96,
+      "text": "Didn't even send me a message"
+    },
+    {
+      "start": 369.14,
+      "end": 369.72,
+      "text": "of any sort."
+    },
+    {
+      "start": 371.072,
+      "end": 372.96,
+      "text": "Spade nodded his blonde Satan's head,",
+      "para_break": true
+    },
+    {
+      "start": 373.18,
+      "end": 374.64,
+      "text": "frowned sympathetically,"
+    },
+    {
+      "start": 374.72,
+      "end": 375.68,
+      "text": "and tightened his lips"
+    },
+    {
+      "start": 375.8,
+      "end": 376.02,
+      "text": "together."
+    },
+    {
+      "start": 377.12,
+      "end": 377.71,
+      "text": "It was horrible,",
+      "para_break": true
+    },
+    {
+      "start": 378.4,
+      "end": 379.14,
+      "text": "Miss Wonderly said,",
+      "para_break": true
+    },
+    {
+      "start": 379.2,
+      "end": 379.98,
+      "text": "trying to smile."
+    },
+    {
+      "start": 380.78,
+      "end": 381.9,
+      "text": "I couldn't sit there like that,",
+      "para_break": true
+    },
+    {
+      "start": 382.3,
+      "end": 382.72,
+      "text": "waiting,"
+    },
+    {
+      "start": 383.84,
+      "end": 385.28,
+      "text": "not knowing what had happened to her,",
+      "para_break": true
+    },
+    {
+      "start": 386.02,
+      "end": 387.48,
+      "text": "what might be happening to her.",
+      "para_break": true
+    },
+    {
+      "start": 388.38,
+      "end": 389.02,
+      "text": "She stopped trying",
+      "para_break": true
+    },
+    {
+      "start": 389.16,
+      "end": 389.52,
+      "text": "to smile."
+    },
+    {
+      "start": 390.2,
+      "end": 390.9,
+      "text": "She shuddered."
+    },
+    {
+      "start": 391.16,
+      "end": 393.6,
+      "text": "The only address I had was General Delivery."
+    },
+    {
+      "start": 394.24,
+      "end": 395.34,
+      "text": "I wrote her another letter,"
+    },
+    {
+      "start": 395.46,
+      "end": 397.64,
+      "text": "and yesterday afternoon I went to the post office."
+    },
+    {
+      "start": 397.9,
+      "end": 399.94,
+      "text": "I stayed there until after dark,"
+    },
+    {
+      "start": 400.26,
+      "end": 400.92,
+      "text": "but I didn't see"
+    },
+    {
+      "start": 401.0,
+      "end": 401.12,
+      "text": "her."
+    },
+    {
+      "start": 401.74,
+      "end": 405.3,
+      "text": "I went there again this morning and still didn't see Corinne,"
+    },
+    {
+      "start": 405.82,
+      "end": 407.04,
+      "text": "but I saw Floyd Thursby."
+    },
+    {
+      "start": 408.352,
+      "end": 409.16,
+      "text": "Spade nodded again.",
+      "para_break": true
+    },
+    {
+      "start": 410.52,
+      "end": 411.54,
+      "text": "His frown went away.",
+      "para_break": true
+    },
+    {
+      "start": 412.28,
+      "end": 414.49,
+      "text": "In its place came a look of sharp attentiveness.",
+      "para_break": true
+    },
+    {
+      "start": 415.44,
+      "end": 417.12,
+      "text": "He wouldn't tell me where Corinne was,",
+      "para_break": true
+    },
+    {
+      "start": 417.34,
+      "end": 418.66,
+      "text": "she went on hopelessly."
+    },
+    {
+      "start": 418.74,
+      "end": 420.14,
+      "text": "He wouldn't tell me anything,"
+    },
+    {
+      "start": 420.62,
+      "end": 422.28,
+      "text": "except that she was well and happy."
+    },
+    {
+      "start": 423.1,
+      "end": 424.22,
+      "text": "But how can I believe that?",
+      "para_break": true
+    },
+    {
+      "start": 424.75,
+      "end": 425.94,
+      "text": "That is what he would tell me"
+    },
+    {
+      "start": 426.02,
+      "end": 426.28,
+      "text": "anyhow,"
+    },
+    {
+      "start": 426.46,
+      "end": 426.94,
+      "text": "isn't it?"
+    },
+    {
+      "start": 427.52,
+      "end": 428.12,
+      "text": "Sure,"
+    },
+    {
+      "start": 428.38,
+      "end": 429.32,
+      "text": "Spade agreed,"
+    },
+    {
+      "start": 429.56,
+      "end": 430.6,
+      "text": "but it might be true."
+    },
+    {
+      "start": 431.94,
+      "end": 432.78,
+      "text": "I hope it is.",
+      "para_break": true
+    },
+    {
+      "start": 432.88,
+      "end": 434.22,
+      "text": "I do hope it is,"
+    },
+    {
+      "start": 434.34,
+      "end": 435.14,
+      "text": "she exclaimed."
+    },
+    {
+      "start": 436.06,
+      "end": 439.06,
+      "text": "But I can't go back home like this without having seen her,",
+      "para_break": true
+    },
+    {
+      "start": 439.22,
+      "end": 440.52,
+      "text": "without even having"
+    },
+    {
+      "start": 440.76,
+      "end": 442.0,
+      "text": "talked to her on the phone."
+    },
+    {
+      "start": 442.52,
+      "end": 443.9,
+      "text": "He wouldn't take me to her."
+    },
+    {
+      "start": 444.04,
+      "end": 445.6,
+      "text": "He said she didn't want to see me."
+    },
+    {
+      "start": 446.06,
+      "end": 447.36,
+      "text": "I can't believe that."
+    },
+    {
+      "start": 448.09,
+      "end": 449.98,
+      "text": "He promised to tell her he had seen",
+      "para_break": true
+    },
+    {
+      "start": 449.98,
+      "end": 452.08,
+      "text": "me and to bring her to see me if she"
+    },
+    {
+      "start": 452.08,
+      "end": 454.24,
+      "text": "would come this evening at the hotel."
+    },
+    {
+      "start": 455.0,
+      "end": 456.74,
+      "text": "He said he knew she wouldn't.",
+      "para_break": true
+    },
+    {
+      "start": 457.03,
+      "end": 458.52,
+      "text": "He promised to come himself"
+    },
+    {
+      "start": 458.58,
+      "end": 459.44,
+      "text": "if she wouldn't."
+    },
+    {
+      "start": 459.56,
+      "end": 460.2,
+      "text": "He,"
+    },
+    {
+      "start": 461.02,
+      "end": 464.04,
+      "text": "she broke off with a startled hand to her mouth as the door opened.",
+      "para_break": true
+    },
+    {
+      "start": 465.08,
+      "end": 465.8,
+      "text": "The man who",
+      "para_break": true
+    },
+    {
+      "start": 465.8,
+      "end": 467.38,
+      "text": "had opened the door came in a step,"
+    },
+    {
+      "start": 467.56,
+      "end": 467.9,
+      "text": "said,"
+    },
+    {
+      "start": 468.2,
+      "end": 468.32,
+      "text": "oh,"
+    },
+    {
+      "start": 468.78,
+      "end": 469.64,
+      "text": "excuse me."
+    },
+    {
+      "start": 470.56,
+      "end": 472.02,
+      "text": "Hastily took his brown hat from his",
+      "para_break": true
+    },
+    {
+      "start": 472.16,
+      "end": 472.9,
+      "text": "head and backed out."
+    },
+    {
+      "start": 474.112,
+      "end": 474.6,
+      "text": "It's all right,",
+      "para_break": true
+    },
+    {
+      "start": 474.64,
+      "end": 474.82,
+      "text": "Miles,"
+    },
+    {
+      "start": 475.14,
+      "end": 476.02,
+      "text": "Spade told him."
+    },
+    {
+      "start": 476.46,
+      "end": 476.76,
+      "text": "Come in."
+    },
+    {
+      "start": 477.54,
+      "end": 478.16,
+      "text": "Miss Wonderly,",
+      "para_break": true
+    },
+    {
+      "start": 478.24,
+      "end": 479.08,
+      "text": "this is Mr."
+    },
+    {
+      "start": 479.26,
+      "end": 479.54,
+      "text": "Archer,"
+    },
+    {
+      "start": 479.6,
+      "end": 480.06,
+      "text": "my partner."
+    },
+    {
+      "start": 481.472,
+      "end": 483.34,
+      "text": "Miles Archer came into the office again,",
+      "para_break": true
+    },
+    {
+      "start": 483.5,
+      "end": 484.72,
+      "text": "shutting the door behind him,"
+    },
+    {
+      "start": 485.344,
+      "end": 487.3,
+      "text": "ducking his head and smiling at Miss Wonderly,"
+    },
+    {
+      "start": 488.4,
+      "end": 490.98,
+      "text": "making a vaguely polite gesture with the hat in",
+      "para_break": true
+    },
+    {
+      "start": 490.98,
+      "end": 491.52,
+      "text": "his hand."
+    },
+    {
+      "start": 492.01,
+      "end": 493.68,
+      "text": "He was of medium height,"
+    },
+    {
+      "start": 494.336,
+      "end": 495.08,
+      "text": "solidly built,"
+    },
+    {
+      "start": 495.68,
+      "end": 496.48,
+      "text": "wide in the shoulders,"
+    },
+    {
+      "start": 496.76,
+      "end": 497.64,
+      "text": "thick in the neck,"
+    },
+    {
+      "start": 498.14,
+      "end": 498.32,
+      "text": "with a"
+    },
+    {
+      "start": 498.5,
+      "end": 498.88,
+      "text": "jovial,"
+    },
+    {
+      "start": 498.92,
+      "end": 502.22,
+      "text": "heavy-jawed red face and some gray in his close-trimmed hair."
+    },
+    {
+      "start": 502.58,
+      "end": 504.38,
+      "text": "He was apparently as many"
+    },
+    {
+      "start": 504.38,
+      "end": 507.08,
+      "text": "years past 40 as Spade was past 30."
+    },
+    {
+      "start": 507.26,
+      "end": 508.28,
+      "text": "Spade said,"
+    },
+    {
+      "start": 509.04,
+      "end": 511.18,
+      "text": "Miss Wonderly's sister ran away from New York",
+      "para_break": true
+    },
+    {
+      "start": 511.18,
+      "end": 512.72,
+      "text": "with a fellow named Floyd Thursby."
+    }
+  ]
+}

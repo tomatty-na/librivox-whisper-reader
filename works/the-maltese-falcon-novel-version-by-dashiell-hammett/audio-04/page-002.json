@@ -1,0 +1,760 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-04",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_04_hammett.mp3",
+  "chapter_title": "The Black Bird",
+  "reader_name": "NLizer",
+  "page_num": 2,
+  "page_total": 7,
+  "page_start_sec": 242.016,
+  "page_end_sec": 488.34,
+  "para_gap_threshold": 0.657,
+  "segments": [
+    {
+      "start": 242.016,
+      "end": 242.78,
+      "text": "Spade shrugged again.",
+      "para_break": true
+    },
+    {
+      "start": 243.78,
+      "end": 244.5,
+      "text": "That's the way it was.",
+      "para_break": true
+    },
+    {
+      "start": 245.05,
+      "end": 247.12,
+      "text": "He glanced at his watch and moved from"
+    },
+    {
+      "start": 247.12,
+      "end": 248.92,
+      "text": "his chair to the settee beside her."
+    },
+    {
+      "start": 249.96,
+      "end": 251.72,
+      "text": "There's no time for worrying about that now.",
+      "para_break": true
+    },
+    {
+      "start": 252.3,
+      "end": 254.42,
+      "text": "His voice was pleasant but firm."
+    },
+    {
+      "start": 255.6,
+      "end": 256.0,
+      "text": "Out there,",
+      "para_break": true
+    },
+    {
+      "start": 256.08,
+      "end": 259.1,
+      "text": "a flock of policemen and assistant district attorneys"
+    },
+    {
+      "start": 259.32,
+      "end": 262.36,
+      "text": "and reporters are running around with their noses to the ground."
+    },
+    {
+      "start": 263.26,
+      "end": 264.28,
+      "text": "What do you want to do?",
+      "para_break": true
+    },
+    {
+      "start": 265.66,
+      "end": 267.28,
+      "text": "I want you to save me from...",
+      "para_break": true
+    },
+    {
+      "start": 267.78,
+      "end": 268.22,
+      "text": "From it all,"
+    },
+    {
+      "start": 268.44,
+      "end": 270.48,
+      "text": "she replied in a thin,"
+    },
+    {
+      "start": 270.52,
+      "end": 271.24,
+      "text": "tremulous voice."
+    },
+    {
+      "start": 272.02,
+      "end": 274.16,
+      "text": "She put a timid hand on his sleeve.",
+      "para_break": true
+    },
+    {
+      "start": 275.16,
+      "end": 275.3,
+      "text": "Mr.",
+      "para_break": true
+    },
+    {
+      "start": 275.46,
+      "end": 275.94,
+      "text": "Spade,"
+    },
+    {
+      "start": 276.38,
+      "end": 277.44,
+      "text": "do they know about me?"
+    },
+    {
+      "start": 278.84,
+      "end": 279.22,
+      "text": "Not yet.",
+      "para_break": true
+    },
+    {
+      "start": 279.26,
+      "end": 280.72,
+      "text": "I wanted to see you first."
+    },
+    {
+      "start": 282.04,
+      "end": 282.34,
+      "text": "What?",
+      "para_break": true
+    },
+    {
+      "start": 282.56,
+      "end": 284.92,
+      "text": "What would they think if they knew about"
+    },
+    {
+      "start": 284.92,
+      "end": 286.74,
+      "text": "the way I came to you with those lies?"
+    },
+    {
+      "start": 288.26,
+      "end": 289.24,
+      "text": "It would make them suspicious.",
+      "para_break": true
+    },
+    {
+      "start": 290.304,
+      "end": 292.68,
+      "text": "That's why I've been stalling them till I could see you.",
+      "para_break": true
+    },
+    {
+      "start": 293.38,
+      "end": 294.0,
+      "text": "I thought maybe",
+      "para_break": true
+    },
+    {
+      "start": 294.72,
+      "end": 296.82,
+      "text": "we wouldn't have to let them know all of it.",
+      "para_break": true
+    },
+    {
+      "start": 297.45,
+      "end": 299.84,
+      "text": "we ought to be able to fake a story that"
+    },
+    {
+      "start": 299.84,
+      "end": 301.42,
+      "text": "will rock them to sleep if necessary"
+    },
+    {
+      "start": 302.98,
+      "end": 305.16,
+      "text": "you don't think i had anything to do with the",
+      "para_break": true
+    },
+    {
+      "start": 305.23,
+      "end": 310.5,
+      "text": "the murders do you spade grinned at her and said"
+    },
+    {
+      "start": 310.79,
+      "end": 313.48,
+      "text": "i forgot to ask you that did you"
+    },
+    {
+      "start": 315.04,
+      "end": 319.46,
+      "text": "no that's good now what are we going to tell the police",
+      "para_break": true
+    },
+    {
+      "start": 320.56,
+      "end": 322.24,
+      "text": "she squirmed on her end of the settee",
+      "para_break": true
+    },
+    {
+      "start": 322.28,
+      "end": 324.28,
+      "text": "and her eyes wavered between heavy lashes"
+    },
+    {
+      "start": 324.68,
+      "end": 327.48,
+      "text": "as if trying and failing to free their gaze from his."
+    },
+    {
+      "start": 328.36,
+      "end": 330.62,
+      "text": "She seemed smaller and very young and oppressed.",
+      "para_break": true
+    },
+    {
+      "start": 331.84,
+      "end": 333.24,
+      "text": "Must they know about me at all?",
+      "para_break": true
+    },
+    {
+      "start": 333.32,
+      "end": 334.02,
+      "text": "she asked."
+    },
+    {
+      "start": 335.06,
+      "end": 336.46,
+      "text": "I think I'd rather die than that,",
+      "para_break": true
+    },
+    {
+      "start": 336.56,
+      "end": 336.76,
+      "text": "Mr."
+    },
+    {
+      "start": 336.82,
+      "end": 337.16,
+      "text": "Spade."
+    },
+    {
+      "start": 337.7,
+      "end": 338.94,
+      "text": "I can't explain now,"
+    },
+    {
+      "start": 339.12,
+      "end": 340.88,
+      "text": "but can't you somehow manage"
+    },
+    {
+      "start": 341.1,
+      "end": 342.96,
+      "text": "so that you can shield me from them"
+    },
+    {
+      "start": 343.48,
+      "end": 345.12,
+      "text": "so I won't have to answer their questions?"
+    },
+    {
+      "start": 346.58,
+      "end": 348.58,
+      "text": "I don't think I could stand being questioned now.",
+      "para_break": true
+    },
+    {
+      "start": 349.16,
+      "end": 350.3,
+      "text": "I think I would rather die."
+    },
+    {
+      "start": 351.136,
+      "end": 351.42,
+      "text": "Can't you,",
+      "para_break": true
+    },
+    {
+      "start": 351.48,
+      "end": 351.72,
+      "text": "Mr."
+    },
+    {
+      "start": 351.8,
+      "end": 352.14,
+      "text": "Spade?"
+    },
+    {
+      "start": 352.86,
+      "end": 353.58,
+      "text": "Maybe,",
+      "para_break": true
+    },
+    {
+      "start": 353.76,
+      "end": 354.28,
+      "text": "he said."
+    },
+    {
+      "start": 354.58,
+      "end": 356.4,
+      "text": "but I'll have to know what it's all about."
+    },
+    {
+      "start": 357.86,
+      "end": 359.62,
+      "text": "She went down on her knees at his knees.",
+      "para_break": true
+    },
+    {
+      "start": 360.14,
+      "end": 361.54,
+      "text": "She held her face up to him."
+    },
+    {
+      "start": 361.7,
+      "end": 363.06,
+      "text": "Her face was wan,"
+    },
+    {
+      "start": 363.32,
+      "end": 363.88,
+      "text": "taut,"
+    },
+    {
+      "start": 364.0,
+      "end": 366.16,
+      "text": "and fearful over tight clasped hands."
+    },
+    {
+      "start": 367.24,
+      "end": 368.68,
+      "text": "I haven't lived a good life,",
+      "para_break": true
+    },
+    {
+      "start": 368.78,
+      "end": 369.22,
+      "text": "she cried."
+    },
+    {
+      "start": 369.44,
+      "end": 370.64,
+      "text": "I've been bad,"
+    },
+    {
+      "start": 370.86,
+      "end": 372.3,
+      "text": "worse than you could know,"
+    },
+    {
+      "start": 372.88,
+      "end": 374.16,
+      "text": "but I'm not all bad."
+    },
+    {
+      "start": 375.06,
+      "end": 375.44,
+      "text": "Look at me,",
+      "para_break": true
+    },
+    {
+      "start": 375.48,
+      "end": 375.66,
+      "text": "Mr."
+    },
+    {
+      "start": 375.8,
+      "end": 376.2,
+      "text": "Spade."
+    },
+    {
+      "start": 377.1,
+      "end": 378.82,
+      "text": "You know I'm not all bad,",
+      "para_break": true
+    },
+    {
+      "start": 378.82,
+      "end": 379.34,
+      "text": "don't you?"
+    },
+    {
+      "start": 380.0,
+      "end": 380.66,
+      "text": "You can see that,",
+      "para_break": true
+    },
+    {
+      "start": 380.92,
+      "end": 381.3,
+      "text": "can't you?"
+    },
+    {
+      "start": 381.51,
+      "end": 383.6,
+      "text": "Then can't you trust me a little?"
+    },
+    {
+      "start": 384.28,
+      "end": 384.68,
+      "text": "Oh,",
+      "para_break": true
+    },
+    {
+      "start": 384.8,
+      "end": 386.74,
+      "text": "I'm so alone and afraid,"
+    },
+    {
+      "start": 387.54,
+      "end": 388.7,
+      "text": "and I've got nobody to",
+      "para_break": true
+    },
+    {
+      "start": 388.7,
+      "end": 390.4,
+      "text": "help me if you won't help me."
+    },
+    {
+      "start": 390.95,
+      "end": 394.86,
+      "text": "I know I've no right to ask you to trust me if I won't trust you."
+    },
+    {
+      "start": 395.44,
+      "end": 396.46,
+      "text": "I do trust you,"
+    },
+    {
+      "start": 396.56,
+      "end": 397.82,
+      "text": "but I can't tell you."
+    },
+    {
+      "start": 397.99,
+      "end": 399.4,
+      "text": "I can't tell you now."
+    },
+    {
+      "start": 399.75,
+      "end": 400.84,
+      "text": "Later I will,"
+    },
+    {
+      "start": 400.96,
+      "end": 401.7,
+      "text": "when I can."
+    },
+    {
+      "start": 402.74,
+      "end": 403.12,
+      "text": "I'm afraid,",
+      "para_break": true
+    },
+    {
+      "start": 403.34,
+      "end": 403.54,
+      "text": "Mr."
+    },
+    {
+      "start": 403.62,
+      "end": 403.94,
+      "text": "Spade."
+    },
+    {
+      "start": 404.18,
+      "end": 405.8,
+      "text": "I'm afraid of trusting you."
+    },
+    {
+      "start": 405.98,
+      "end": 407.5,
+      "text": "I don't mean that."
+    },
+    {
+      "start": 407.64,
+      "end": 408.92,
+      "text": "I do trust you,"
+    },
+    {
+      "start": 408.98,
+      "end": 410.28,
+      "text": "but I trusted Floyd"
+    },
+    {
+      "start": 410.56,
+      "end": 412.84,
+      "text": "and I've nobody else."
+    },
+    {
+      "start": 413.04,
+      "end": 413.76,
+      "text": "Nobody else,"
+    },
+    {
+      "start": 413.88,
+      "end": 414.08,
+      "text": "Mr."
+    },
+    {
+      "start": 414.16,
+      "end": 414.52,
+      "text": "Spade."
+    },
+    {
+      "start": 415.38,
+      "end": 416.34,
+      "text": "You can help me.",
+      "para_break": true
+    },
+    {
+      "start": 417.2,
+      "end": 418.3,
+      "text": "You said you can help me.",
+      "para_break": true
+    },
+    {
+      "start": 419.24,
+      "end": 420.98,
+      "text": "If I hadn't believed you could save me,",
+      "para_break": true
+    },
+    {
+      "start": 421.06,
+      "end": 423.92,
+      "text": "I would have run away today instead of sending for you."
+    },
+    {
+      "start": 425.34,
+      "end": 427.3,
+      "text": "If I thought anybody else could save me,",
+      "para_break": true
+    },
+    {
+      "start": 427.42,
+      "end": 429.62,
+      "text": "would I be down on my knees like this?"
+    },
+    {
+      "start": 430.74,
+      "end": 432.32,
+      "text": "I know this isn't fair of me,",
+      "para_break": true
+    },
+    {
+      "start": 432.4,
+      "end": 433.36,
+      "text": "but be generous,"
+    },
+    {
+      "start": 433.54,
+      "end": 433.7,
+      "text": "Mr."
+    },
+    {
+      "start": 433.88,
+      "end": 434.28,
+      "text": "Spade."
+    },
+    {
+      "start": 434.62,
+      "end": 436.14,
+      "text": "Don't ask me to be fair."
+    },
+    {
+      "start": 436.4,
+      "end": 437.42,
+      "text": "You're strong."
+    },
+    {
+      "start": 437.72,
+      "end": 438.54,
+      "text": "you're resourceful,"
+    },
+    {
+      "start": 438.58,
+      "end": 439.14,
+      "text": "you're brave."
+    },
+    {
+      "start": 439.6,
+      "end": 443.26,
+      "text": "You can spare me some of that strength and resourcefulness"
+    },
+    {
+      "start": 443.38,
+      "end": 443.86,
+      "text": "and courage,"
+    },
+    {
+      "start": 443.98,
+      "end": 444.28,
+      "text": "surely."
+    },
+    {
+      "start": 444.58,
+      "end": 445.54,
+      "text": "Help me,"
+    },
+    {
+      "start": 445.6,
+      "end": 445.76,
+      "text": "Mr."
+    },
+    {
+      "start": 445.96,
+      "end": 446.36,
+      "text": "Spade."
+    },
+    {
+      "start": 447.48,
+      "end": 449.6,
+      "text": "Help me because I need help so badly,",
+      "para_break": true
+    },
+    {
+      "start": 449.79,
+      "end": 450.9,
+      "text": "and because if you"
+    },
+    {
+      "start": 450.96,
+      "end": 451.38,
+      "text": "don't,"
+    },
+    {
+      "start": 451.38,
+      "end": 453.42,
+      "text": "where will I find anyone who can,"
+    },
+    {
+      "start": 453.64,
+      "end": 455.02,
+      "text": "no matter how willing?"
+    },
+    {
+      "start": 455.28,
+      "end": 456.52,
+      "text": "Help me."
+    },
+    {
+      "start": 457.4,
+      "end": 458.6,
+      "text": "I've no right to ask you to",
+      "para_break": true
+    },
+    {
+      "start": 458.6,
+      "end": 459.36,
+      "text": "help me blindly,"
+    },
+    {
+      "start": 459.54,
+      "end": 460.66,
+      "text": "but I do ask you."
+    },
+    {
+      "start": 460.76,
+      "end": 461.84,
+      "text": "Be generous,"
+    },
+    {
+      "start": 462.1,
+      "end": 462.28,
+      "text": "Mr."
+    },
+    {
+      "start": 462.42,
+      "end": 462.88,
+      "text": "Spade."
+    },
+    {
+      "start": 462.94,
+      "end": 464.2,
+      "text": "You can help me."
+    },
+    {
+      "start": 464.36,
+      "end": 465.32,
+      "text": "Help me."
+    },
+    {
+      "start": 465.5,
+      "end": 466.25,
+      "text": "Spade,"
+    },
+    {
+      "start": 466.88,
+      "end": 468.62,
+      "text": "who had held his breath through much of this"
+    },
+    {
+      "start": 468.62,
+      "end": 471.88,
+      "text": "speech now emptied his lungs with a long sighing"
+    },
+    {
+      "start": 472.18,
+      "end": 474.94,
+      "text": "exhalation between pursed lips and said,"
+    },
+    {
+      "start": 475.3,
+      "end": 477.46,
+      "text": "you won't need much of anybody's help."
+    },
+    {
+      "start": 477.58,
+      "end": 478.4,
+      "text": "You're good."
+    },
+    {
+      "start": 479.104,
+      "end": 480.04,
+      "text": "You're very good.",
+      "para_break": true
+    },
+    {
+      "start": 480.32,
+      "end": 482.12,
+      "text": "It's chiefly your eyes,"
+    },
+    {
+      "start": 482.18,
+      "end": 482.58,
+      "text": "I think,"
+    },
+    {
+      "start": 483.02,
+      "end": 484.88,
+      "text": "and that throb you get into your voice"
+    },
+    {
+      "start": 485.06,
+      "end": 486.26,
+      "text": "when you say things like,"
+    },
+    {
+      "start": 486.4,
+      "end": 487.42,
+      "text": "be generous,"
+    },
+    {
+      "start": 487.56,
+      "end": 487.74,
+      "text": "Mr."
+    },
+    {
+      "start": 487.92,
+      "end": 488.34,
+      "text": "Spade."
+    }
+  ]
+}

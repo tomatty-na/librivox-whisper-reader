@@ -1,0 +1,702 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-01",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_01_hammett.mp3",
+  "chapter_title": "Spade and Archer",
+  "reader_name": "NLizer",
+  "page_num": 3,
+  "page_total": 4,
+  "page_start_sec": 512.86,
+  "page_end_sec": 754.98,
+  "para_gap_threshold": 0.685,
+  "segments": [
+    {
+      "start": 512.86,
+      "end": 513.74,
+      "text": "They're here."
+    },
+    {
+      "start": 514.8,
+      "end": 517.32,
+      "text": "Miss Wonderly has seen Thursby and has a date with",
+      "para_break": true
+    },
+    {
+      "start": 517.32,
+      "end": 517.78,
+      "text": "him tonight."
+    },
+    {
+      "start": 518.17,
+      "end": 520.04,
+      "text": "Maybe he'll bring the sister with him."
+    },
+    {
+      "start": 520.6,
+      "end": 521.76,
+      "text": "The chances are he won't."
+    },
+    {
+      "start": 522.6,
+      "end": 523.44,
+      "text": "Miss Wonderly wants us",
+      "para_break": true
+    },
+    {
+      "start": 523.56,
+      "end": 526.14,
+      "text": "to find the sister and get her away from him and back home."
+    },
+    {
+      "start": 526.61,
+      "end": 528.13,
+      "text": "He looked at Miss Wonderly."
+    },
+    {
+      "start": 528.3,
+      "end": 528.8,
+      "text": "Right?"
+    },
+    {
+      "start": 529.56,
+      "end": 530.36,
+      "text": "Yes,",
+      "para_break": true
+    },
+    {
+      "start": 530.6,
+      "end": 531.9,
+      "text": "she said indistinctly."
+    },
+    {
+      "start": 531.96,
+      "end": 535.36,
+      "text": "The embarrassment that had gradually been driven away by Spade's"
+    },
+    {
+      "start": 535.47,
+      "end": 537.84,
+      "text": "ingratiating smiles and nods and assurances"
+    },
+    {
+      "start": 538.4,
+      "end": 539.68,
+      "text": "was pinkening her face again."
+    },
+    {
+      "start": 540.68,
+      "end": 541.56,
+      "text": "She looked at the bag",
+      "para_break": true
+    },
+    {
+      "start": 541.56,
+      "end": 544.46,
+      "text": "in her lap and picked nervously at it with a gloved finger."
+    },
+    {
+      "start": 545.504,
+      "end": 546.92,
+      "text": "Spade winked at his partner.",
+      "para_break": true
+    },
+    {
+      "start": 547.96,
+      "end": 550.76,
+      "text": "Miles Archer came forward to stand at a corner of the desk.",
+      "para_break": true
+    },
+    {
+      "start": 551.38,
+      "end": 552.58,
+      "text": "While the girl looked at her bag,"
+    },
+    {
+      "start": 552.78,
+      "end": 553.4,
+      "text": "he looked at her."
+    },
+    {
+      "start": 553.62,
+      "end": 556.02,
+      "text": "His little brown eyes ran their bold"
+    },
+    {
+      "start": 556.02,
+      "end": 558.24,
+      "text": "appraising gaze from her lowered face to her"
+    },
+    {
+      "start": 558.24,
+      "end": 560.0,
+      "text": "feet and up to her face again."
+    },
+    {
+      "start": 560.8,
+      "end": 563.96,
+      "text": "Then he looked at Spade and made a silent whistling mouth of",
+      "para_break": true
+    },
+    {
+      "start": 564.02,
+      "end": 564.4,
+      "text": "appreciation."
+    },
+    {
+      "start": 565.824,
+      "end": 567.7,
+      "text": "Spade lifted two fingers from the arm of his",
+      "para_break": true
+    },
+    {
+      "start": 567.7,
+      "end": 569.84,
+      "text": "chair in a brief warning gesture and said,"
+    },
+    {
+      "start": 570.3,
+      "end": 572.4,
+      "text": "We shouldn't have any trouble with it."
+    },
+    {
+      "start": 573.088,
+      "end": 575.86,
+      "text": "It's simply a matter of having a man at the hotel this evening",
+      "para_break": true
+    },
+    {
+      "start": 576.02,
+      "end": 578.68,
+      "text": "to shadow him away when he leaves and"
+    },
+    {
+      "start": 578.688,
+      "end": 581.02,
+      "text": "shadow him until he leads us to your sister."
+    },
+    {
+      "start": 581.65,
+      "end": 584.86,
+      "text": "If she comes with him and you persuade her to return with you,"
+    },
+    {
+      "start": 584.9,
+      "end": 585.68,
+      "text": "so much the better."
+    },
+    {
+      "start": 586.24,
+      "end": 586.66,
+      "text": "Otherwise,"
+    },
+    {
+      "start": 586.76,
+      "end": 589.8,
+      "text": "if she doesn't want to leave him after we've found her,"
+    },
+    {
+      "start": 589.92,
+      "end": 590.46,
+      "text": "well,"
+    },
+    {
+      "start": 591.16,
+      "end": 593.14,
+      "text": "we'll find a way of managing that.",
+      "para_break": true
+    },
+    {
+      "start": 594.24,
+      "end": 594.7,
+      "text": "Archer said,",
+      "para_break": true
+    },
+    {
+      "start": 594.94,
+      "end": 595.34,
+      "text": "yeah."
+    },
+    {
+      "start": 595.56,
+      "end": 596.82,
+      "text": "His voice was heavy,"
+    },
+    {
+      "start": 596.9,
+      "end": 597.18,
+      "text": "coarse."
+    },
+    {
+      "start": 598.22,
+      "end": 599.88,
+      "text": "Miss Wonderly looked up at Spade quickly,",
+      "para_break": true
+    },
+    {
+      "start": 600.06,
+      "end": 601.96,
+      "text": "puckering her forehead between her eyebrows."
+    },
+    {
+      "start": 603.0,
+      "end": 603.18,
+      "text": "Oh,",
+      "para_break": true
+    },
+    {
+      "start": 603.68,
+      "end": 604.74,
+      "text": "but you must be careful,"
+    },
+    {
+      "start": 604.94,
+      "end": 606.08,
+      "text": "her voice shook a little,"
+    },
+    {
+      "start": 606.23,
+      "end": 608.74,
+      "text": "and her lips shaped the words with nervous jerkiness."
+    },
+    {
+      "start": 609.824,
+      "end": 611.3,
+      "text": "I'm deathly afraid of him,",
+      "para_break": true
+    },
+    {
+      "start": 611.38,
+      "end": 612.76,
+      "text": "of what he might do."
+    },
+    {
+      "start": 613.664,
+      "end": 615.0,
+      "text": "She's so young,",
+      "para_break": true
+    },
+    {
+      "start": 615.48,
+      "end": 618.4,
+      "text": "and his bringing her here from New York is such a serious..."
+    },
+    {
+      "start": 619.392,
+      "end": 620.08,
+      "text": "Mightn't he...",
+      "para_break": true
+    },
+    {
+      "start": 620.08,
+      "end": 621.88,
+      "text": "mightn't he do..."
+    },
+    {
+      "start": 622.08,
+      "end": 623.84,
+      "text": "something to her?"
+    },
+    {
+      "start": 625.12,
+      "end": 627.16,
+      "text": "Spade smiled and patted the arms of his chair.",
+      "para_break": true
+    },
+    {
+      "start": 628.16,
+      "end": 629.08,
+      "text": "Just leave that to us,",
+      "para_break": true
+    },
+    {
+      "start": 629.18,
+      "end": 629.58,
+      "text": "he said."
+    },
+    {
+      "start": 629.72,
+      "end": 631.18,
+      "text": "We'll know how to handle him."
+    },
+    {
+      "start": 632.2,
+      "end": 632.9,
+      "text": "But mightn't he?",
+      "para_break": true
+    },
+    {
+      "start": 633.48,
+      "end": 634.02,
+      "text": "she insisted."
+    },
+    {
+      "start": 635.2,
+      "end": 635.98,
+      "text": "There's always a chance,",
+      "para_break": true
+    },
+    {
+      "start": 636.16,
+      "end": 637.44,
+      "text": "Spade nodded judicially,"
+    },
+    {
+      "start": 637.7,
+      "end": 639.76,
+      "text": "but you can trust us to take care of that."
+    },
+    {
+      "start": 641.02,
+      "end": 641.86,
+      "text": "I do trust you,",
+      "para_break": true
+    },
+    {
+      "start": 641.96,
+      "end": 642.9,
+      "text": "she said earnestly,"
+    },
+    {
+      "start": 643.09,
+      "end": 644.2,
+      "text": "but I want you to"
+    },
+    {
+      "start": 644.2,
+      "end": 646.06,
+      "text": "know that he's a dangerous man."
+    },
+    {
+      "start": 646.55,
+      "end": 649.02,
+      "text": "I honestly don't think he'd stop at anything."
+    },
+    {
+      "start": 649.28,
+      "end": 650.42,
+      "text": "I don't believe he'd"
+    },
+    {
+      "start": 650.54,
+      "end": 654.06,
+      "text": "hesitate to kill Corinne if he thought it would save him."
+    },
+    {
+      "start": 654.976,
+      "end": 655.74,
+      "text": "Mightn't he do that?",
+      "para_break": true
+    },
+    {
+      "start": 657.02,
+      "end": 657.6,
+      "text": "You didn't threaten",
+      "para_break": true
+    },
+    {
+      "start": 657.72,
+      "end": 657.86,
+      "text": "him,"
+    },
+    {
+      "start": 657.92,
+      "end": 658.28,
+      "text": "did you?"
+    },
+    {
+      "start": 659.15,
+      "end": 661.66,
+      "text": "I told him that all I wanted was to get her",
+      "para_break": true
+    },
+    {
+      "start": 661.66,
+      "end": 664.06,
+      "text": "home before Mama and Papa came so they'd"
+    },
+    {
+      "start": 664.2,
+      "end": 665.48,
+      "text": "never know what she had done."
+    },
+    {
+      "start": 665.94,
+      "end": 669.94,
+      "text": "I promised him I'd never say a word to them about it if he helped me,"
+    },
+    {
+      "start": 670.3,
+      "end": 671.16,
+      "text": "but if he didn't,"
+    },
+    {
+      "start": 671.16,
+      "end": 673.6,
+      "text": "Papa would certainly see that he was punished."
+    },
+    {
+      "start": 674.36,
+      "end": 676.58,
+      "text": "I don't suppose he believed me",
+      "para_break": true
+    },
+    {
+      "start": 676.64,
+      "end": 676.98,
+      "text": "altogether."
+    },
+    {
+      "start": 678.54,
+      "end": 680.02,
+      "text": "Can he cover up by marrying her?",
+      "para_break": true
+    },
+    {
+      "start": 680.448,
+      "end": 681.0,
+      "text": "Archer asked."
+    },
+    {
+      "start": 681.92,
+      "end": 683.48,
+      "text": "The girl blushed and replied in a",
+      "para_break": true
+    },
+    {
+      "start": 683.58,
+      "end": 684.24,
+      "text": "confused voice."
+    },
+    {
+      "start": 684.66,
+      "end": 686.92,
+      "text": "He has a wife and three children in England."
+    },
+    {
+      "start": 687.52,
+      "end": 689.44,
+      "text": "Corinne wrote me that to explain why"
+    },
+    {
+      "start": 689.6,
+      "end": 690.6,
+      "text": "she had gone off with him."
+    },
+    {
+      "start": 691.24,
+      "end": 692.44,
+      "text": "They usually do,"
+    },
+    {
+      "start": 692.66,
+      "end": 693.42,
+      "text": "Spade said,"
+    },
+    {
+      "start": 694.0,
+      "end": 695.16,
+      "text": "though not always in England."
+    },
+    {
+      "start": 695.86,
+      "end": 698.94,
+      "text": "He leaned forward to reach for pencil and pad of paper.",
+      "para_break": true
+    },
+    {
+      "start": 699.72,
+      "end": 700.54,
+      "text": "What does he look like?",
+      "para_break": true
+    },
+    {
+      "start": 701.16,
+      "end": 701.98,
+      "text": "Oh,"
+    },
+    {
+      "start": 702.08,
+      "end": 703.38,
+      "text": "he's thirty-five"
+    },
+    {
+      "start": 703.38,
+      "end": 703.84,
+      "text": "years old,"
+    },
+    {
+      "start": 703.88,
+      "end": 704.26,
+      "text": "perhaps,"
+    },
+    {
+      "start": 704.88,
+      "end": 705.72,
+      "text": "and as tall as you,"
+    },
+    {
+      "start": 706.44,
+      "end": 708.49,
+      "text": "and either naturally dark or quite sunburned.",
+      "para_break": true
+    },
+    {
+      "start": 709.54,
+      "end": 710.2,
+      "text": "His hair is dark",
+      "para_break": true
+    },
+    {
+      "start": 710.32,
+      "end": 710.5,
+      "text": "too,"
+    },
+    {
+      "start": 710.7,
+      "end": 711.8,
+      "text": "and he has thick eyebrows."
+    },
+    {
+      "start": 712.44,
+      "end": 714.32,
+      "text": "He talks in a rather loud,"
+    },
+    {
+      "start": 714.44,
+      "end": 715.2,
+      "text": "blustery way,"
+    },
+    {
+      "start": 715.34,
+      "end": 716.04,
+      "text": "and has a nervous,"
+    },
+    {
+      "start": 716.42,
+      "end": 717.0,
+      "text": "irritable manner."
+    },
+    {
+      "start": 717.38,
+      "end": 720.04,
+      "text": "He gives the impression of being of violence."
+    },
+    {
+      "start": 720.78,
+      "end": 721.48,
+      "text": "Spade,",
+      "para_break": true
+    },
+    {
+      "start": 721.52,
+      "end": 722.46,
+      "text": "scribbling on the pad,"
+    },
+    {
+      "start": 722.66,
+      "end": 723.86,
+      "text": "asks without looking up,"
+    },
+    {
+      "start": 724.6,
+      "end": 725.26,
+      "text": "what color eyes?",
+      "para_break": true
+    },
+    {
+      "start": 726.656,
+      "end": 728.08,
+      "text": "They're blue-gray and watery,",
+      "para_break": true
+    },
+    {
+      "start": 728.8,
+      "end": 729.92,
+      "text": "though not in a weak way,",
+      "para_break": true
+    },
+    {
+      "start": 730.56,
+      "end": 731.44,
+      "text": "and oh yes,"
+    },
+    {
+      "start": 731.68,
+      "end": 733.5,
+      "text": "he has a marked cleft in his chin."
+    },
+    {
+      "start": 734.38,
+      "end": 735.08,
+      "text": "Thin,",
+      "para_break": true
+    },
+    {
+      "start": 735.08,
+      "end": 735.48,
+      "text": "medium,"
+    },
+    {
+      "start": 735.54,
+      "end": 736.16,
+      "text": "or heavy build?"
+    },
+    {
+      "start": 737.152,
+      "end": 737.64,
+      "text": "Quite athletic.",
+      "para_break": true
+    },
+    {
+      "start": 738.44,
+      "end": 740.36,
+      "text": "He's broad-shouldered and carries himself erect.",
+      "para_break": true
+    },
+    {
+      "start": 741.12,
+      "end": 743.2,
+      "text": "Has what could be called a decidedly military",
+      "para_break": true
+    },
+    {
+      "start": 743.66,
+      "end": 743.86,
+      "text": "carriage."
+    },
+    {
+      "start": 744.4,
+      "end": 746.54,
+      "text": "He was wearing a light gray suit and a"
+    },
+    {
+      "start": 746.54,
+      "end": 748.14,
+      "text": "gray hat when I saw him this morning."
+    },
+    {
+      "start": 749.21,
+      "end": 750.58,
+      "text": "What does he do for a living?",
+      "para_break": true
+    },
+    {
+      "start": 750.78,
+      "end": 752.74,
+      "text": "Spade asked as he laid down his pencil."
+    },
+    {
+      "start": 753.76,
+      "end": 754.32,
+      "text": "I don't know,",
+      "para_break": true
+    },
+    {
+      "start": 754.44,
+      "end": 754.98,
+      "text": "she said."
+    }
+  ]
+}

@@ -71,7 +71,7 @@
       const span = document.createElement('span');
       span.className = 'seg';
       span.dataset.idx = i;
-      span.textContent = seg.text;
+      span.innerHTML = seg.text.trim().replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/--/g, '&mdash;').replace(/_([^_\n]+)_/g, '<em>$1</em>');
       span.addEventListener('click', () => seekToSegment(i));
       paraEl.appendChild(span);
       paraEl.appendChild(document.createTextNode(' '));

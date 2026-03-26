@@ -1,0 +1,732 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-17",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_17_hammett.mp3",
+  "chapter_title": "Saturday Night",
+  "reader_name": "NLizer",
+  "page_num": 3,
+  "page_total": 6,
+  "page_start_sec": 502.39,
+  "page_end_sec": 742.7,
+  "para_gap_threshold": 0.697,
+  "segments": [
+    {
+      "start": 502.39,
+      "end": 505.46,
+      "text": "He turned back the bedclothes and laid the girl on the bed,"
+    },
+    {
+      "start": 505.96,
+      "end": 506.76,
+      "text": "removed her slippers,"
+    },
+    {
+      "start": 506.96,
+      "end": 509.78,
+      "text": "raised her a little to slide the yellow dressing gown off,"
+    },
+    {
+      "start": 510.3,
+      "end": 511.6,
+      "text": "fixed a pillow under her head,"
+    },
+    {
+      "start": 511.68,
+      "end": 513.12,
+      "text": "and put the covers up over her."
+    },
+    {
+      "start": 514.14,
+      "end": 515.7,
+      "text": "Then he opened the room's two windows",
+      "para_break": true
+    },
+    {
+      "start": 515.88,
+      "end": 517.14,
+      "text": "and stood with his back to them,"
+    },
+    {
+      "start": 517.22,
+      "end": 518.46,
+      "text": "staring at the sleeping girl."
+    },
+    {
+      "start": 518.76,
+      "end": 520.64,
+      "text": "Her breathing was heavy but not"
+    },
+    {
+      "start": 520.7,
+      "end": 521.0,
+      "text": "troubled."
+    },
+    {
+      "start": 521.9,
+      "end": 522.92,
+      "text": "He frowned and looked around,",
+      "para_break": true
+    },
+    {
+      "start": 523.1,
+      "end": 524.24,
+      "text": "working his lips together."
+    },
+    {
+      "start": 525.28,
+      "end": 526.42,
+      "text": "Twilight was dimming the room.",
+      "para_break": true
+    },
+    {
+      "start": 526.83,
+      "end": 530.14,
+      "text": "He stood there in the weakening light for perhaps five minutes."
+    },
+    {
+      "start": 530.58,
+      "end": 531.02,
+      "text": "Finally,"
+    },
+    {
+      "start": 531.08,
+      "end": 531.94,
+      "text": "he shook his thick,"
+    },
+    {
+      "start": 532.0,
+      "end": 533.98,
+      "text": "sloping shoulders impatiently and went out,"
+    },
+    {
+      "start": 534.44,
+      "end": 536.04,
+      "text": "leaving the suite's outer door unlocked."
+    },
+    {
+      "start": 537.184,
+      "end": 538.94,
+      "text": "Spade went to the Pacific Telephone and",
+      "para_break": true
+    },
+    {
+      "start": 538.94,
+      "end": 540.86,
+      "text": "Telegraph Company station in Powell Street"
+    },
+    {
+      "start": 540.86,
+      "end": 542.28,
+      "text": "and called Davenport 2020."
+    },
+    {
+      "start": 543.776,
+      "end": 544.46,
+      "text": "Emergency hospital,",
+      "para_break": true
+    },
+    {
+      "start": 544.72,
+      "end": 545.08,
+      "text": "please?"
+    },
+    {
+      "start": 545.62,
+      "end": 546.08,
+      "text": "Hello,"
+    },
+    {
+      "start": 546.28,
+      "end": 548.52,
+      "text": "there's a girl in suite 12C at the"
+    },
+    {
+      "start": 548.52,
+      "end": 551.14,
+      "text": "Alexandria Hotel who has been drugged."
+    },
+    {
+      "start": 551.6,
+      "end": 551.88,
+      "text": "Yes,"
+    },
+    {
+      "start": 552.06,
+      "end": 554.14,
+      "text": "you'd better send somebody to take a look at her."
+    },
+    {
+      "start": 554.84,
+      "end": 555.24,
+      "text": "This is Mr.",
+      "para_break": true
+    },
+    {
+      "start": 555.44,
+      "end": 556.49,
+      "text": "Hooper of the Alexandria."
+    },
+    {
+      "start": 557.16,
+      "end": 559.78,
+      "text": "He put the receiver on its prong and laughed."
+    },
+    {
+      "start": 560.46,
+      "end": 561.78,
+      "text": "He called another number and said,"
+    },
+    {
+      "start": 562.04,
+      "end": 562.14,
+      "text": "Hello,"
+    },
+    {
+      "start": 562.28,
+      "end": 562.52,
+      "text": "Frank."
+    },
+    {
+      "start": 563.14,
+      "end": 564.08,
+      "text": "This is Sam Spade."
+    },
+    {
+      "start": 564.78,
+      "end": 567.72,
+      "text": "Can you let me have a car with a driver who'll keep his mouth shut?",
+      "para_break": true
+    },
+    {
+      "start": 568.5,
+      "end": 570.26,
+      "text": "To go down the peninsula right away.",
+      "para_break": true
+    },
+    {
+      "start": 571.12,
+      "end": 572.0,
+      "text": "Just a couple of hours.",
+      "para_break": true
+    },
+    {
+      "start": 572.8,
+      "end": 573.02,
+      "text": "Right.",
+      "para_break": true
+    },
+    {
+      "start": 573.96,
+      "end": 577.6,
+      "text": "Have him pick me up at John's Ella Street as soon as he can make it.",
+      "para_break": true
+    },
+    {
+      "start": 578.62,
+      "end": 579.58,
+      "text": "He called another number.",
+      "para_break": true
+    },
+    {
+      "start": 579.84,
+      "end": 580.32,
+      "text": "His offices."
+    },
+    {
+      "start": 581.2,
+      "end": 583.3,
+      "text": "held the receiver to his ear for a little while",
+      "para_break": true
+    },
+    {
+      "start": 583.3,
+      "end": 585.42,
+      "text": "without saying anything and replaced it on its"
+    },
+    {
+      "start": 585.48,
+      "end": 588.9,
+      "text": "hook he went to john's grill asked the waiter to"
+    },
+    {
+      "start": 588.9,
+      "end": 591.4,
+      "text": "hurry his order of chops baked potato and sliced"
+    },
+    {
+      "start": 591.58,
+      "end": 594.68,
+      "text": "tomatoes ate hurriedly and was smoking a cigarette"
+    },
+    {
+      "start": 594.68,
+      "end": 597.42,
+      "text": "with his coffee when a thick-set youngish man"
+    },
+    {
+      "start": 597.86,
+      "end": 600.96,
+      "text": "with a plaid cap set askew above pale eyes and a"
+    },
+    {
+      "start": 600.96,
+      "end": 603.92,
+      "text": "tough cheery face came into the grill and to his"
+    },
+    {
+      "start": 604.06,
+      "end": 604.24,
+      "text": "table."
+    },
+    {
+      "start": 605.18,
+      "end": 605.52,
+      "text": "All set,",
+      "para_break": true
+    },
+    {
+      "start": 605.64,
+      "end": 605.8,
+      "text": "Mr."
+    },
+    {
+      "start": 605.96,
+      "end": 606.24,
+      "text": "Spade?"
+    },
+    {
+      "start": 606.47,
+      "end": 608.54,
+      "text": "She's full of gas and raring to go."
+    },
+    {
+      "start": 609.02,
+      "end": 609.66,
+      "text": "Swell."
+    },
+    {
+      "start": 610.5,
+      "end": 611.92,
+      "text": "Spade emptied his cup and",
+      "para_break": true
+    },
+    {
+      "start": 611.92,
+      "end": 613.28,
+      "text": "went out with the thick-set man."
+    },
+    {
+      "start": 614.32,
+      "end": 618.76,
+      "text": "Know where Ancho Avenue or Road or Boulevard is in Burlingame?",
+      "para_break": true
+    },
+    {
+      "start": 619.4,
+      "end": 619.9,
+      "text": "Nope,"
+    },
+    {
+      "start": 620.38,
+      "end": 621.06,
+      "text": "but if she's there,"
+    },
+    {
+      "start": 621.16,
+      "end": 621.94,
+      "text": "we can find her."
+    },
+    {
+      "start": 622.912,
+      "end": 623.46,
+      "text": "Let's do that,",
+      "para_break": true
+    },
+    {
+      "start": 623.6,
+      "end": 624.24,
+      "text": "Spade said,"
+    },
+    {
+      "start": 624.42,
+      "end": 626.16,
+      "text": "and he sat beside the chauffeur"
+    },
+    {
+      "start": 626.28,
+      "end": 627.52,
+      "text": "in the dark Cadillac sedan."
+    },
+    {
+      "start": 628.672,
+      "end": 630.18,
+      "text": "Twenty-six is the number we want,",
+      "para_break": true
+    },
+    {
+      "start": 630.32,
+      "end": 631.38,
+      "text": "and the sooner the better,"
+    },
+    {
+      "start": 631.76,
+      "end": 633.7,
+      "text": "but we don't want to pull up at the front door."
+    },
+    {
+      "start": 634.0,
+      "end": 634.92,
+      "text": "Correct."
+    },
+    {
+      "start": 636.02,
+      "end": 637.88,
+      "text": "They rode half a dozen blocks in silence.",
+      "para_break": true
+    },
+    {
+      "start": 638.56,
+      "end": 639.48,
+      "text": "The chauffeur said,"
+    },
+    {
+      "start": 639.78,
+      "end": 641.56,
+      "text": "your partner got knocked off,"
+    },
+    {
+      "start": 641.7,
+      "end": 642.18,
+      "text": "didn't he,"
+    },
+    {
+      "start": 642.26,
+      "end": 642.52,
+      "text": "Mr."
+    },
+    {
+      "start": 642.56,
+      "end": 642.86,
+      "text": "Spade?"
+    },
+    {
+      "start": 643.808,
+      "end": 644.14,
+      "text": "Uh-huh.",
+      "para_break": true
+    },
+    {
+      "start": 644.3,
+      "end": 645.62,
+      "text": "The chauffeur"
+    },
+    {
+      "start": 645.72,
+      "end": 646.144,
+      "text": "clucked."
+    },
+    {
+      "start": 646.752,
+      "end": 647.52,
+      "text": "She's a tough racket."
+    },
+    {
+      "start": 648.06,
+      "end": 649.12,
+      "text": "You can have it for mine."
+    },
+    {
+      "start": 649.42,
+      "end": 649.52,
+      "text": "Well,"
+    },
+    {
+      "start": 650.54,
+      "end": 651.86,
+      "text": "hack drivers don't live forever.",
+      "para_break": true
+    },
+    {
+      "start": 652.98,
+      "end": 653.64,
+      "text": "Maybe that's right,",
+      "para_break": true
+    },
+    {
+      "start": 653.86,
+      "end": 655.54,
+      "text": "the thick-set man conceded,"
+    },
+    {
+      "start": 655.88,
+      "end": 656.74,
+      "text": "but just the same,"
+    },
+    {
+      "start": 656.86,
+      "end": 658.26,
+      "text": "it'll always be a surprise"
+    },
+    {
+      "start": 658.52,
+      "end": 659.46,
+      "text": "to me if I don't."
+    },
+    {
+      "start": 660.224,
+      "end": 663.56,
+      "text": "Spade stared ahead at nothing and thereafter until the chauffeur,",
+      "para_break": true
+    },
+    {
+      "start": 663.6,
+      "end": 664.24,
+      "text": "tired of making"
+    },
+    {
+      "start": 664.42,
+      "end": 664.78,
+      "text": "conversation,"
+    },
+    {
+      "start": 665.22,
+      "end": 667.84,
+      "text": "replied with uninterested yeses and noes."
+    },
+    {
+      "start": 668.48,
+      "end": 669.96,
+      "text": "At a drugstore in Burlingame,"
+    },
+    {
+      "start": 670.2,
+      "end": 670.92,
+      "text": "the chauffeur"
+    },
+    {
+      "start": 671.02,
+      "end": 672.42,
+      "text": "learned how to reach Ancho Avenue."
+    },
+    {
+      "start": 673.38,
+      "end": 674.08,
+      "text": "Ten minutes later,",
+      "para_break": true
+    },
+    {
+      "start": 674.14,
+      "end": 676.16,
+      "text": "he stopped the sedan near a dark corner,"
+    },
+    {
+      "start": 676.7,
+      "end": 677.52,
+      "text": "turned off the lights,"
+    },
+    {
+      "start": 677.8,
+      "end": 679.46,
+      "text": "and waved his hand at the block ahead."
+    },
+    {
+      "start": 680.28,
+      "end": 680.76,
+      "text": "There she is,",
+      "para_break": true
+    },
+    {
+      "start": 680.88,
+      "end": 681.22,
+      "text": "he said."
+    },
+    {
+      "start": 682.06,
+      "end": 682.48,
+      "text": "She ought to",
+      "para_break": true
+    },
+    {
+      "start": 682.6,
+      "end": 683.34,
+      "text": "be on the other side,"
+    },
+    {
+      "start": 683.46,
+      "end": 685.36,
+      "text": "maybe the third or fourth house?"
+    },
+    {
+      "start": 686.208,
+      "end": 686.66,
+      "text": "Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 686.88,
+      "end": 687.072,
+      "text": "right,"
+    },
+    {
+      "start": 687.82,
+      "end": 688.68,
+      "text": "and got out of the car.",
+      "para_break": true
+    },
+    {
+      "start": 689.22,
+      "end": 690.28,
+      "text": "Keep the engine going."
+    },
+    {
+      "start": 690.94,
+      "end": 692.34,
+      "text": "We may have to leave in a hurry."
+    },
+    {
+      "start": 693.16,
+      "end": 694.784,
+      "text": "He crossed the street and went up the",
+      "para_break": true
+    },
+    {
+      "start": 694.848,
+      "end": 695.4,
+      "text": "other side."
+    },
+    {
+      "start": 695.54,
+      "end": 696.12,
+      "text": "Far ahead,"
+    },
+    {
+      "start": 696.24,
+      "end": 697.4,
+      "text": "a lone street light burned."
+    },
+    {
+      "start": 698.22,
+      "end": 700.36,
+      "text": "Former lights dotted the night on either side,",
+      "para_break": true
+    },
+    {
+      "start": 700.68,
+      "end": 703.26,
+      "text": "where houses were spaced half a dozen to a block."
+    },
+    {
+      "start": 704.16,
+      "end": 704.48,
+      "text": "A high,",
+      "para_break": true
+    },
+    {
+      "start": 704.58,
+      "end": 706.68,
+      "text": "thin moon was cold and feeble as the"
+    },
+    {
+      "start": 706.74,
+      "end": 707.58,
+      "text": "distant street light."
+    },
+    {
+      "start": 708.48,
+      "end": 710.28,
+      "text": "A radio drone through the open windows",
+      "para_break": true
+    },
+    {
+      "start": 710.28,
+      "end": 711.74,
+      "text": "of a house on the other side of the"
+    },
+    {
+      "start": 711.88,
+      "end": 712.06,
+      "text": "street."
+    },
+    {
+      "start": 713.06,
+      "end": 714.8,
+      "text": "In front of the second house from the corner,",
+      "para_break": true
+    },
+    {
+      "start": 714.88,
+      "end": 715.66,
+      "text": "Spade halted."
+    },
+    {
+      "start": 716.44,
+      "end": 717.4,
+      "text": "On one of the gate posts",
+      "para_break": true
+    },
+    {
+      "start": 717.4,
+      "end": 718.28,
+      "text": "that were massive,"
+    },
+    {
+      "start": 718.5,
+      "end": 720.96,
+      "text": "out of all proportion to the fence flanking them,"
+    },
+    {
+      "start": 721.34,
+      "end": 723.32,
+      "text": "a two and a six of pale metal"
+    },
+    {
+      "start": 723.46,
+      "end": 724.94,
+      "text": "caught what light there was."
+    },
+    {
+      "start": 725.3,
+      "end": 727.82,
+      "text": "A square white card was nailed over them."
+    },
+    {
+      "start": 728.66,
+      "end": 729.82,
+      "text": "Putting his face close to",
+      "para_break": true
+    },
+    {
+      "start": 729.82,
+      "end": 730.18,
+      "text": "the card,"
+    },
+    {
+      "start": 730.32,
+      "end": 733.54,
+      "text": "Spade could see that it was a for sale or rent sign."
+    },
+    {
+      "start": 734.04,
+      "end": 735.96,
+      "text": "There was no gate between the posts."
+    },
+    {
+      "start": 736.736,
+      "end": 738.74,
+      "text": "Spade went up the cement walk to the house.",
+      "para_break": true
+    },
+    {
+      "start": 738.94,
+      "end": 741.42,
+      "text": "He stood still on the walk at the foot of the porch"
+    },
+    {
+      "start": 741.58,
+      "end": 742.7,
+      "text": "steps for a long moment."
+    }
+  ]
+}

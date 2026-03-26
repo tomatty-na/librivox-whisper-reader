@@ -1,0 +1,742 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-08",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_08_hammett.mp3",
+  "chapter_title": "Horse Feathers",
+  "reader_name": "NLizer",
+  "page_num": 3,
+  "page_total": 4,
+  "page_start_sec": 512.832,
+  "page_end_sec": 759.4,
+  "para_gap_threshold": 0.588,
+  "segments": [
+    {
+      "start": 512.832,
+      "end": 515.88,
+      "text": "Cairo's eyes holding worry and a question met Spade's",
+      "para_break": true
+    },
+    {
+      "start": 515.92,
+      "end": 516.52,
+      "text": "mocking gaze."
+    },
+    {
+      "start": 517.472,
+      "end": 520.18,
+      "text": "Spade winked at him and sat on the arm of the padded rocker.",
+      "para_break": true
+    },
+    {
+      "start": 520.55,
+      "end": 521.2,
+      "text": "Well,"
+    },
+    {
+      "start": 521.32,
+      "end": 522.02,
+      "text": "boys and girls,"
+    },
+    {
+      "start": 522.2,
+      "end": 522.6,
+      "text": "he said,"
+    },
+    {
+      "start": 522.78,
+      "end": 525.98,
+      "text": "grinning at the Levantine and at the girl with"
+    },
+    {
+      "start": 525.98,
+      "end": 527.7,
+      "text": "nothing but delight in his voice and grin,"
+    },
+    {
+      "start": 527.9,
+      "end": 529.4,
+      "text": "we put it over nicely."
+    },
+    {
+      "start": 529.86,
+      "end": 533.3,
+      "text": "Dundee's hard square face darkened the least of shades."
+    },
+    {
+      "start": 533.62,
+      "end": 534.58,
+      "text": "He repeated"
+    },
+    {
+      "start": 535.24,
+      "end": 535.88,
+      "text": "preemptorily.",
+      "para_break": true
+    },
+    {
+      "start": 536.62,
+      "end": 537.28,
+      "text": "Get your hats.",
+      "para_break": true
+    },
+    {
+      "start": 538.464,
+      "end": 540.26,
+      "text": "Spade turned his grin on the lieutenant,",
+      "para_break": true
+    },
+    {
+      "start": 540.56,
+      "end": 541.74,
+      "text": "squirmed into a more"
+    },
+    {
+      "start": 541.84,
+      "end": 543.62,
+      "text": "comfortable position on the chair arm,"
+    },
+    {
+      "start": 543.7,
+      "end": 544.86,
+      "text": "and asked lazily,"
+    },
+    {
+      "start": 545.728,
+      "end": 547.57,
+      "text": "don't you know when you're being kidded?",
+      "para_break": true
+    },
+    {
+      "start": 548.608,
+      "end": 550.96,
+      "text": "Tom Pohlhaus's face became red and shiny.",
+      "para_break": true
+    },
+    {
+      "start": 552.16,
+      "end": 552.64,
+      "text": "Dundee's face,",
+      "para_break": true
+    },
+    {
+      "start": 552.76,
+      "end": 553.54,
+      "text": "still darkening,"
+    },
+    {
+      "start": 553.7,
+      "end": 555.16,
+      "text": "was immobile except for"
+    },
+    {
+      "start": 555.22,
+      "end": 556.74,
+      "text": "lips moving stiffly to say,"
+    },
+    {
+      "start": 556.94,
+      "end": 557.54,
+      "text": "no,"
+    },
+    {
+      "start": 558.12,
+      "end": 560.82,
+      "text": "but we'll let that wait till we get down to the hall."
+    },
+    {
+      "start": 561.92,
+      "end": 564.44,
+      "text": "Spade rose and put his hands in his trousers' pockets.",
+      "para_break": true
+    },
+    {
+      "start": 565.0,
+      "end": 566.92,
+      "text": "He stood erect so he might look that"
+    },
+    {
+      "start": 566.92,
+      "end": 568.3,
+      "text": "much farther down at the lieutenant."
+    },
+    {
+      "start": 569.14,
+      "end": 570.28,
+      "text": "His grin was a taunt,",
+      "para_break": true
+    },
+    {
+      "start": 570.28,
+      "end": 573.36,
+      "text": "and self-certainty spoke in every line of his posture."
+    },
+    {
+      "start": 574.28,
+      "end": 575.56,
+      "text": "I dare you to take us in,",
+      "para_break": true
+    },
+    {
+      "start": 575.68,
+      "end": 575.98,
+      "text": "Dundee,"
+    },
+    {
+      "start": 576.08,
+      "end": 576.52,
+      "text": "he said."
+    },
+    {
+      "start": 577.3,
+      "end": 579.9,
+      "text": "We'll laugh at you in every newspaper in San Francisco.",
+      "para_break": true
+    },
+    {
+      "start": 580.74,
+      "end": 582.76,
+      "text": "You don't think any of us is going to",
+      "para_break": true
+    },
+    {
+      "start": 582.76,
+      "end": 584.54,
+      "text": "swear to any complaints against the others,"
+    },
+    {
+      "start": 584.64,
+      "end": 585.08,
+      "text": "do you?"
+    },
+    {
+      "start": 585.856,
+      "end": 586.42,
+      "text": "Wake up.",
+      "para_break": true
+    },
+    {
+      "start": 586.58,
+      "end": 587.78,
+      "text": "You've been kidded."
+    },
+    {
+      "start": 588.11,
+      "end": 589.16,
+      "text": "When the bell rang,"
+    },
+    {
+      "start": 589.24,
+      "end": 591.06,
+      "text": "I said to Miss O'Shaughnessy and Cairo,"
+    },
+    {
+      "start": 591.712,
+      "end": 593.2,
+      "text": "It's those damn bulls again.",
+      "para_break": true
+    },
+    {
+      "start": 593.94,
+      "end": 595.07,
+      "text": "They're getting to be nuisances.",
+      "para_break": true
+    },
+    {
+      "start": 595.77,
+      "end": 597.34,
+      "text": "Let's play a joke on them.",
+      "para_break": true
+    },
+    {
+      "start": 597.84,
+      "end": 598.84,
+      "text": "When you hear them going,"
+    },
+    {
+      "start": 598.96,
+      "end": 599.64,
+      "text": "one of you scream,"
+    },
+    {
+      "start": 599.94,
+      "end": 602.58,
+      "text": "and then we'll see how far we can string them along"
+    },
+    {
+      "start": 602.78,
+      "end": 603.66,
+      "text": "before they tumble."
+    },
+    {
+      "start": 603.8,
+      "end": 604.78,
+      "text": "And..."
+    },
+    {
+      "start": 605.632,
+      "end": 607.36,
+      "text": "Bridget O'Shaughnessy bent forward in her",
+      "para_break": true
+    },
+    {
+      "start": 607.36,
+      "end": 609.03,
+      "text": "chair and began to laugh hysterically."
+    },
+    {
+      "start": 610.176,
+      "end": 611.42,
+      "text": "Cairo started and smiled.",
+      "para_break": true
+    },
+    {
+      "start": 612.22,
+      "end": 613.96,
+      "text": "There was no vitality in his smile,",
+      "para_break": true
+    },
+    {
+      "start": 614.5,
+      "end": 616.1,
+      "text": "but he held it fixed on his face."
+    },
+    {
+      "start": 616.61,
+      "end": 617.26,
+      "text": "Tom,"
+    },
+    {
+      "start": 617.36,
+      "end": 617.94,
+      "text": "glowering,"
+    },
+    {
+      "start": 617.94,
+      "end": 618.3,
+      "text": "grumbled,"
+    },
+    {
+      "start": 618.5,
+      "end": 619.16,
+      "text": "cut it out,"
+    },
+    {
+      "start": 619.24,
+      "end": 619.48,
+      "text": "Sam."
+    },
+    {
+      "start": 620.672,
+      "end": 621.7,
+      "text": "Spade chuckled and said,"
+    },
+    {
+      "start": 621.88,
+      "end": 623.26,
+      "text": "but that's the way it was."
+    },
+    {
+      "start": 623.4,
+      "end": 623.78,
+      "text": "We..."
+    },
+    {
+      "start": 624.46,
+      "end": 626.12,
+      "text": "And the cut on his head and mouth,",
+      "para_break": true
+    },
+    {
+      "start": 626.624,
+      "end": 627.58,
+      "text": "Dundee asked scornfully,"
+    },
+    {
+      "start": 627.84,
+      "end": 629.16,
+      "text": "where'd they come from?"
+    },
+    {
+      "start": 630.432,
+      "end": 630.98,
+      "text": "Ask him,",
+      "para_break": true
+    },
+    {
+      "start": 631.24,
+      "end": 632.2,
+      "text": "Spade suggested."
+    },
+    {
+      "start": 632.48,
+      "end": 634.3,
+      "text": "Maybe he cut himself shaving."
+    },
+    {
+      "start": 635.424,
+      "end": 637.68,
+      "text": "Cairo spoke quickly before he could be questioned,",
+      "para_break": true
+    },
+    {
+      "start": 638.22,
+      "end": 640.5,
+      "text": "and the muscles of his face quivered under the"
+    },
+    {
+      "start": 640.58,
+      "end": 642.64,
+      "text": "strain of holding his smile in place while he spoke."
+    },
+    {
+      "start": 643.5,
+      "end": 643.82,
+      "text": "I fell.",
+      "para_break": true
+    },
+    {
+      "start": 644.7,
+      "end": 646.22,
+      "text": "We intended to be struggling for",
+      "para_break": true
+    },
+    {
+      "start": 646.28,
+      "end": 647.3,
+      "text": "the pistol when you came in,"
+    },
+    {
+      "start": 647.36,
+      "end": 647.88,
+      "text": "but I fell."
+    },
+    {
+      "start": 648.06,
+      "end": 651.04,
+      "text": "I tripped on the end of the rug and fell while we were"
+    },
+    {
+      "start": 651.1,
+      "end": 651.98,
+      "text": "pretending to struggle."
+    },
+    {
+      "start": 653.152,
+      "end": 653.64,
+      "text": "Dundee said,",
+      "para_break": true
+    },
+    {
+      "start": 653.88,
+      "end": 655.04,
+      "text": "horse feathers."
+    },
+    {
+      "start": 656.32,
+      "end": 656.82,
+      "text": "Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 657.04,
+      "end": 657.94,
+      "text": "that's all right,"
+    },
+    {
+      "start": 657.94,
+      "end": 658.26,
+      "text": "Dundee,"
+    },
+    {
+      "start": 658.32,
+      "end": 658.7,
+      "text": "believe it"
+    },
+    {
+      "start": 658.7,
+      "end": 659.04,
+      "text": "or not."
+    },
+    {
+      "start": 659.2,
+      "end": 662.42,
+      "text": "The point is that that's our story and we'll stick to it."
+    },
+    {
+      "start": 662.62,
+      "end": 664.22,
+      "text": "The newspapers will print it"
+    },
+    {
+      "start": 664.28,
+      "end": 665.48,
+      "text": "whether they believe it or not,"
+    },
+    {
+      "start": 665.9,
+      "end": 668.38,
+      "text": "and it'll be just as funny one way as the other,"
+    },
+    {
+      "start": 668.48,
+      "end": 669.5,
+      "text": "or more so."
+    },
+    {
+      "start": 670.39,
+      "end": 672.06,
+      "text": "What are you going to do about it?",
+      "para_break": true
+    },
+    {
+      "start": 672.52,
+      "end": 673.84,
+      "text": "It's no crime to get a copper,"
+    },
+    {
+      "start": 673.92,
+      "end": 674.26,
+      "text": "is it?"
+    },
+    {
+      "start": 674.96,
+      "end": 675.7,
+      "text": "You haven't got anything",
+      "para_break": true
+    },
+    {
+      "start": 676.0,
+      "end": 676.9,
+      "text": "on anybody here."
+    },
+    {
+      "start": 677.17,
+      "end": 679.44,
+      "text": "Everything we told you was part of the joke."
+    },
+    {
+      "start": 680.1,
+      "end": 681.44,
+      "text": "What are you going to do about it?",
+      "para_break": true
+    },
+    {
+      "start": 682.272,
+      "end": 685.04,
+      "text": "Dundee put his back to Spade and gripped Cairo by the shoulders.",
+      "para_break": true
+    },
+    {
+      "start": 685.34,
+      "end": 687.04,
+      "text": "You can't get away with that,"
+    },
+    {
+      "start": 687.12,
+      "end": 687.76,
+      "text": "he snarled,"
+    },
+    {
+      "start": 687.9,
+      "end": 689.28,
+      "text": "shaking the Levantine."
+    },
+    {
+      "start": 689.86,
+      "end": 692.24,
+      "text": "You belched for help and you've got to take it."
+    },
+    {
+      "start": 692.48,
+      "end": 693.2,
+      "text": "No,"
+    },
+    {
+      "start": 693.2,
+      "end": 693.4,
+      "text": "sir,"
+    },
+    {
+      "start": 693.792,
+      "end": 694.52,
+      "text": "Cairo sputtered."
+    },
+    {
+      "start": 694.76,
+      "end": 695.42,
+      "text": "It was a joke."
+    },
+    {
+      "start": 695.92,
+      "end": 697.74,
+      "text": "He said you were friends of his and would understand."
+    },
+    {
+      "start": 698.784,
+      "end": 699.4,
+      "text": "Spade laughed.",
+      "para_break": true
+    },
+    {
+      "start": 700.512,
+      "end": 702.0,
+      "text": "Dundee pulled Cairo roughly around,",
+      "para_break": true
+    },
+    {
+      "start": 702.08,
+      "end": 704.52,
+      "text": "holding him now by one wrist and the nape of his"
+    },
+    {
+      "start": 704.66,
+      "end": 704.8,
+      "text": "neck."
+    },
+    {
+      "start": 705.66,
+      "end": 707.52,
+      "text": "I'll take you along for packing the gun anyway,",
+      "para_break": true
+    },
+    {
+      "start": 707.74,
+      "end": 708.14,
+      "text": "he said,"
+    },
+    {
+      "start": 708.32,
+      "end": 709.72,
+      "text": "and I'll take the rest of you"
+    },
+    {
+      "start": 709.72,
+      "end": 711.5,
+      "text": "along to see who laughs at the joke."
+    },
+    {
+      "start": 712.576,
+      "end": 715.52,
+      "text": "Cairo's alarmed eyes jerked sideways to focus on Spade's",
+      "para_break": true
+    },
+    {
+      "start": 715.52,
+      "end": 715.7,
+      "text": "face."
+    },
+    {
+      "start": 716.64,
+      "end": 717.12,
+      "text": "Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 717.34,
+      "end": 718.4,
+      "text": "don't be a sap,"
+    },
+    {
+      "start": 718.54,
+      "end": 718.88,
+      "text": "Dundee."
+    },
+    {
+      "start": 718.98,
+      "end": 720.6,
+      "text": "The gun was part of the plant."
+    },
+    {
+      "start": 721.04,
+      "end": 721.62,
+      "text": "It's one of mine,"
+    },
+    {
+      "start": 721.78,
+      "end": 722.2,
+      "text": "he laughed."
+    },
+    {
+      "start": 722.84,
+      "end": 724.26,
+      "text": "Too bad it's only a .32,",
+      "para_break": true
+    },
+    {
+      "start": 724.48,
+      "end": 725.96,
+      "text": "or maybe you could find it was the"
+    },
+    {
+      "start": 725.96,
+      "end": 728.16,
+      "text": "one Thursby and Miles were shot with."
+    },
+    {
+      "start": 729.12,
+      "end": 730.1,
+      "text": "Dundee released Cairo,",
+      "para_break": true
+    },
+    {
+      "start": 730.26,
+      "end": 731.58,
+      "text": "spun on his heel,"
+    },
+    {
+      "start": 731.72,
+      "end": 734.12,
+      "text": "and his right fist clicked on Spade's chin."
+    },
+    {
+      "start": 735.296,
+      "end": 737.06,
+      "text": "Bridget O'Shaughnessy uttered a short cry.",
+      "para_break": true
+    },
+    {
+      "start": 738.016,
+      "end": 740.74,
+      "text": "Spade's smile flickered out at the instant of the impact,",
+      "para_break": true
+    },
+    {
+      "start": 740.98,
+      "end": 743.62,
+      "text": "but returned immediately with a dreamy quality added."
+    },
+    {
+      "start": 743.88,
+      "end": 746.08,
+      "text": "He steadied himself with a short backward"
+    },
+    {
+      "start": 746.22,
+      "end": 749.36,
+      "text": "step and his thick sloping shoulders writhed under his coat."
+    },
+    {
+      "start": 750.18,
+      "end": 751.36,
+      "text": "Before his fist could come up,",
+      "para_break": true
+    },
+    {
+      "start": 751.4,
+      "end": 754.78,
+      "text": "Tom Polhaus had pushed himself between the two men facing Spade,"
+    },
+    {
+      "start": 754.82,
+      "end": 756.672,
+      "text": "encumbering Spade's arms with"
+    },
+    {
+      "start": 756.88,
+      "end": 759.4,
+      "text": "the closeness of his barrel-like belly in his own arms."
+    }
+  ]
+}

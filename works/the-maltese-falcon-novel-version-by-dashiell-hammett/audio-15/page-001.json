@@ -1,0 +1,700 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-15",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_15_hammett.mp3",
+  "chapter_title": "Every Crackpot",
+  "reader_name": "NLizer",
+  "page_num": 1,
+  "page_total": 6,
+  "page_start_sec": 0.992,
+  "page_end_sec": 245.54,
+  "para_gap_threshold": 0.639,
+  "segments": [
+    {
+      "start": 0.992,
+      "end": 4.46,
+      "text": "Chapter 15 of The Maltese Falcon by Dashiell Hammett."
+    },
+    {
+      "start": 5.22,
+      "end": 7.6,
+      "text": "This LibriVox recording is in the public domain.",
+      "para_break": true
+    },
+    {
+      "start": 8.896,
+      "end": 9.88,
+      "text": "Every Crackpot",
+      "para_break": true
+    },
+    {
+      "start": 11.008,
+      "end": 13.6,
+      "text": "Spade and Detective Sergeant Polhaus ate pickled",
+      "para_break": true
+    },
+    {
+      "start": 13.6,
+      "end": 16.68,
+      "text": "pig's feet at one of Big John's tables at the"
+    },
+    {
+      "start": 16.76,
+      "end": 17.64,
+      "text": "state's Hofbräu."
+    },
+    {
+      "start": 17.82,
+      "end": 19.0,
+      "text": "Polhaus,"
+    },
+    {
+      "start": 19.22,
+      "end": 21.24,
+      "text": "balancing pale bright jelly on a"
+    },
+    {
+      "start": 21.24,
+      "end": 23.02,
+      "text": "fork halfway between plate and mouth,"
+    },
+    {
+      "start": 23.16,
+      "end": 23.44,
+      "text": "said."
+    },
+    {
+      "start": 23.64,
+      "end": 24.28,
+      "text": "Hey,"
+    },
+    {
+      "start": 24.46,
+      "end": 25.08,
+      "text": "listen,"
+    },
+    {
+      "start": 25.22,
+      "end": 25.48,
+      "text": "Sam."
+    },
+    {
+      "start": 26.62,
+      "end": 27.66,
+      "text": "Forget about the other night."
+    },
+    {
+      "start": 28.32,
+      "end": 29.26,
+      "text": "He was dead wrong,",
+      "para_break": true
+    },
+    {
+      "start": 29.46,
+      "end": 30.91,
+      "text": "but you know anybody's"
+    },
+    {
+      "start": 31.1,
+      "end": 34.02,
+      "text": "liable to lose their head if you ride them that-a-way."
+    },
+    {
+      "start": 35.232,
+      "end": 36.58,
+      "text": "Spade looked thoughtfully at the",
+      "para_break": true
+    },
+    {
+      "start": 36.64,
+      "end": 37.2,
+      "text": "police detective."
+    },
+    {
+      "start": 38.36,
+      "end": 40.02,
+      "text": "Was that what you wanted to see me about?",
+      "para_break": true
+    },
+    {
+      "start": 40.22,
+      "end": 40.94,
+      "text": "he asked."
+    },
+    {
+      "start": 41.76,
+      "end": 42.59,
+      "text": "Polehouse nodded,",
+      "para_break": true
+    },
+    {
+      "start": 42.88,
+      "end": 44.96,
+      "text": "put the forkful of jelly into his mouth,"
+    },
+    {
+      "start": 45.08,
+      "end": 45.86,
+      "text": "swallowed it,"
+    },
+    {
+      "start": 45.94,
+      "end": 47.34,
+      "text": "and qualified his nod."
+    },
+    {
+      "start": 47.64,
+      "end": 48.28,
+      "text": "Mostly."
+    },
+    {
+      "start": 49.696,
+      "end": 50.44,
+      "text": "Dundee sends you?",
+      "para_break": true
+    },
+    {
+      "start": 51.488,
+      "end": 53.16,
+      "text": "Pullhouse made a disgusted mouth.",
+      "para_break": true
+    },
+    {
+      "start": 53.96,
+      "end": 54.98,
+      "text": "You know he didn't.",
+      "para_break": true
+    },
+    {
+      "start": 55.34,
+      "end": 56.92,
+      "text": "He's as bullheaded as you are."
+    },
+    {
+      "start": 58.048,
+      "end": 59.56,
+      "text": "Spade smiled and shook his head.",
+      "para_break": true
+    },
+    {
+      "start": 60.14,
+      "end": 60.76,
+      "text": "No,"
+    },
+    {
+      "start": 60.76,
+      "end": 61.56,
+      "text": "he's not Tom,"
+    },
+    {
+      "start": 61.76,
+      "end": 62.26,
+      "text": "he said."
+    },
+    {
+      "start": 62.82,
+      "end": 63.82,
+      "text": "He just thinks he is."
+    },
+    {
+      "start": 64.864,
+      "end": 67.44,
+      "text": "Tom scowled and chopped at his pig's foot with a knife.",
+      "para_break": true
+    },
+    {
+      "start": 68.352,
+      "end": 70.0,
+      "text": "Ain't you ever going to grow up?",
+      "para_break": true
+    },
+    {
+      "start": 70.22,
+      "end": 70.66,
+      "text": "He grumbled."
+    },
+    {
+      "start": 71.78,
+      "end": 73.12,
+      "text": "What have you got to beef about?",
+      "para_break": true
+    },
+    {
+      "start": 73.74,
+      "end": 74.58,
+      "text": "He didn't hurt you."
+    },
+    {
+      "start": 75.04,
+      "end": 75.92,
+      "text": "You came out on top."
+    },
+    {
+      "start": 76.76,
+      "end": 78.76,
+      "text": "What's the sense of making a grudge of it?",
+      "para_break": true
+    },
+    {
+      "start": 79.36,
+      "end": 81.36,
+      "text": "You're just making a lot of grief for yourself."
+    },
+    {
+      "start": 82.624,
+      "end": 85.68,
+      "text": "Spade placed his knife and fork carefully together on his plate",
+      "para_break": true
+    },
+    {
+      "start": 86.06,
+      "end": 88.26,
+      "text": "and put his hands on the table beside his plate."
+    },
+    {
+      "start": 89.22,
+      "end": 91.18,
+      "text": "His smile was faint and devoid of warmth.",
+      "para_break": true
+    },
+    {
+      "start": 92.06,
+      "end": 93.46,
+      "text": "With every bull in town working",
+      "para_break": true
+    },
+    {
+      "start": 93.46,
+      "end": 96.04,
+      "text": "overtime trying to pile up grief for me,"
+    },
+    {
+      "start": 96.28,
+      "end": 97.42,
+      "text": "a little more won't hurt."
+    },
+    {
+      "start": 98.4,
+      "end": 99.7,
+      "text": "I won't even know it's there.",
+      "para_break": true
+    },
+    {
+      "start": 100.672,
+      "end": 102.18,
+      "text": "Bullhouse's ruddiness deepened.",
+      "para_break": true
+    },
+    {
+      "start": 102.62,
+      "end": 103.02,
+      "text": "He said,"
+    },
+    {
+      "start": 103.16,
+      "end": 105.12,
+      "text": "that's a swell thing to say to me."
+    },
+    {
+      "start": 105.75,
+      "end": 108.32,
+      "text": "Spade picked up his knife and fork and began to eat."
+    },
+    {
+      "start": 108.992,
+      "end": 109.62,
+      "text": "Polehouse ate.",
+      "para_break": true
+    },
+    {
+      "start": 110.42,
+      "end": 111.14,
+      "text": "Presently,",
+      "para_break": true
+    },
+    {
+      "start": 111.14,
+      "end": 111.86,
+      "text": "Spade asked,"
+    },
+    {
+      "start": 112.46,
+      "end": 114.02,
+      "text": "See the boat on fire in the bay?"
+    },
+    {
+      "start": 114.88,
+      "end": 115.7,
+      "text": "I saw the smoke.",
+      "para_break": true
+    },
+    {
+      "start": 116.62,
+      "end": 117.3,
+      "text": "Be reasonable,",
+      "para_break": true
+    },
+    {
+      "start": 117.5,
+      "end": 117.74,
+      "text": "Sam."
+    },
+    {
+      "start": 118.912,
+      "end": 120.44,
+      "text": "Dundee was wrong and he knows it.",
+      "para_break": true
+    },
+    {
+      "start": 120.98,
+      "end": 122.44,
+      "text": "Why don't you let it go at that?"
+    },
+    {
+      "start": 123.4,
+      "end": 125.16,
+      "text": "Think I ought to go around and tell him",
+      "para_break": true
+    },
+    {
+      "start": 125.16,
+      "end": 127.22,
+      "text": "I hope my chin didn't hurt his fist?"
+    },
+    {
+      "start": 128.256,
+      "end": 130.5,
+      "text": "Polehouse cut savagely into his pig's foot.",
+      "para_break": true
+    },
+    {
+      "start": 131.52,
+      "end": 131.98,
+      "text": "Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 132.9,
+      "end": 134.94,
+      "text": "Phil Archer been in with any more hot tips?",
+      "para_break": true
+    },
+    {
+      "start": 135.36,
+      "end": 135.46,
+      "text": "\"'Aw,"
+    },
+    {
+      "start": 136.14,
+      "end": 136.48,
+      "text": "hell.",
+      "para_break": true
+    },
+    {
+      "start": 137.09,
+      "end": 139.02,
+      "text": "Dundee didn't think you shot Miles,"
+    },
+    {
+      "start": 139.46,
+      "end": 141.96,
+      "text": "but what else could he do except run the lead down?"
+    },
+    {
+      "start": 142.912,
+      "end": 145.82,
+      "text": "You'd have done the same thing in his place and you know it.",
+      "para_break": true
+    },
+    {
+      "start": 145.96,
+      "end": 147.14,
+      "text": "Yes?'"
+    },
+    {
+      "start": 148.032,
+      "end": 149.46,
+      "text": "Malice glittered in Spade's",
+      "para_break": true
+    },
+    {
+      "start": 149.46,
+      "end": 149.74,
+      "text": "eyes."
+    },
+    {
+      "start": 150.76,
+      "end": 152.66,
+      "text": "\"'What made him think I didn't do it?",
+      "para_break": true
+    },
+    {
+      "start": 153.46,
+      "end": 155.12,
+      "text": "What makes you think I didn't?",
+      "para_break": true
+    },
+    {
+      "start": 155.72,
+      "end": 156.544,
+      "text": "Or don't you?'"
+    },
+    {
+      "start": 157.856,
+      "end": 159.58,
+      "text": "Polehouse's ruddy face flushed again.",
+      "para_break": true
+    },
+    {
+      "start": 159.78,
+      "end": 160.28,
+      "text": "He said,"
+    },
+    {
+      "start": 160.52,
+      "end": 161.84,
+      "text": "Thursby shot Miles."
+    },
+    {
+      "start": 162.42,
+      "end": 163.64,
+      "text": "You think he did?"
+    },
+    {
+      "start": 164.1,
+      "end": 164.82,
+      "text": "He did."
+    },
+    {
+      "start": 165.46,
+      "end": 166.52,
+      "text": "That Webley was his,",
+      "para_break": true
+    },
+    {
+      "start": 166.54,
+      "end": 168.64,
+      "text": "and the slug in Miles came out of it."
+    },
+    {
+      "start": 169.28,
+      "end": 169.58,
+      "text": "Sure?",
+      "para_break": true
+    },
+    {
+      "start": 170.784,
+      "end": 171.26,
+      "text": "Spade demanded.",
+      "para_break": true
+    },
+    {
+      "start": 172.54,
+      "end": 172.9,
+      "text": "Dead sure,",
+      "para_break": true
+    },
+    {
+      "start": 173.22,
+      "end": 174.48,
+      "text": "the police detective replied."
+    },
+    {
+      "start": 175.54,
+      "end": 176.6,
+      "text": "We got hold of a kid,",
+      "para_break": true
+    },
+    {
+      "start": 176.78,
+      "end": 178.72,
+      "text": "a bellhop at Thursby's hotel,"
+    },
+    {
+      "start": 179.28,
+      "end": 181.66,
+      "text": "that had seen it in his room just that morning."
+    },
+    {
+      "start": 182.78,
+      "end": 184.74,
+      "text": "He noticed it particular because he'd",
+      "para_break": true
+    },
+    {
+      "start": 184.74,
+      "end": 186.66,
+      "text": "never saw one just like it before."
+    },
+    {
+      "start": 187.8,
+      "end": 188.7,
+      "text": "I never saw one.",
+      "para_break": true
+    },
+    {
+      "start": 189.18,
+      "end": 190.98,
+      "text": "You say they don't make them anymore."
+    },
+    {
+      "start": 191.74,
+      "end": 194.5,
+      "text": "It ain't likely there'd be another around.",
+      "para_break": true
+    },
+    {
+      "start": 195.0,
+      "end": 195.46,
+      "text": "And anyway,"
+    },
+    {
+      "start": 195.68,
+      "end": 197.18,
+      "text": "if that wasn't Thursby's,"
+    },
+    {
+      "start": 197.38,
+      "end": 198.12,
+      "text": "what happened to his?"
+    },
+    {
+      "start": 199.38,
+      "end": 202.02,
+      "text": "And that's the gun the slug and Miles come out of?",
+      "para_break": true
+    },
+    {
+      "start": 202.45,
+      "end": 205.2,
+      "text": "He started to put a piece of bread into his mouth,"
+    },
+    {
+      "start": 205.34,
+      "end": 206.18,
+      "text": "withdrew it,"
+    },
+    {
+      "start": 206.18,
+      "end": 206.68,
+      "text": "and asked,"
+    },
+    {
+      "start": 207.18,
+      "end": 208.8,
+      "text": "You say you've seen them before."
+    },
+    {
+      "start": 209.34,
+      "end": 209.96,
+      "text": "Where was that at?"
+    },
+    {
+      "start": 211.12,
+      "end": 212.6,
+      "text": "He put the bread into his mouth.",
+      "para_break": true
+    },
+    {
+      "start": 213.54,
+      "end": 213.94,
+      "text": "In England,",
+      "para_break": true
+    },
+    {
+      "start": 214.1,
+      "end": 214.88,
+      "text": "before the war."
+    },
+    {
+      "start": 215.76,
+      "end": 216.36,
+      "text": "Sure,",
+      "para_break": true
+    },
+    {
+      "start": 216.42,
+      "end": 217.18,
+      "text": "there you are."
+    },
+    {
+      "start": 218.016,
+      "end": 219.08,
+      "text": "Spade nodded and said,",
+      "para_break": true
+    },
+    {
+      "start": 219.63,
+      "end": 221.3,
+      "text": "Then that leaves Thursby,"
+    },
+    {
+      "start": 221.44,
+      "end": 222.7,
+      "text": "the only one I killed."
+    },
+    {
+      "start": 223.84,
+      "end": 225.1,
+      "text": "Polhaus squirmed in his chair,",
+      "para_break": true
+    },
+    {
+      "start": 225.22,
+      "end": 226.78,
+      "text": "and his face was red and shiny."
+    },
+    {
+      "start": 227.84,
+      "end": 228.52,
+      "text": "Christ's sake,",
+      "para_break": true
+    },
+    {
+      "start": 228.7,
+      "end": 230.64,
+      "text": "ain't you never going to forget that?"
+    },
+    {
+      "start": 231.0,
+      "end": 232.24,
+      "text": "He complained earnestly."
+    },
+    {
+      "start": 233.248,
+      "end": 233.66,
+      "text": "That's out.",
+      "para_break": true
+    },
+    {
+      "start": 234.76,
+      "end": 236.22,
+      "text": "You know it as well as I do.",
+      "para_break": true
+    },
+    {
+      "start": 237.36,
+      "end": 238.9,
+      "text": "You'd think you wasn't a dick yourself",
+      "para_break": true
+    },
+    {
+      "start": 238.9,
+      "end": 240.82,
+      "text": "the way you bellyache over things."
+    },
+    {
+      "start": 241.68,
+      "end": 243.54,
+      "text": "I suppose you don't never pull the same",
+      "para_break": true
+    },
+    {
+      "start": 243.54,
+      "end": 245.54,
+      "text": "stuff on anybody that we pulled on you."
+    }
+  ]
+}

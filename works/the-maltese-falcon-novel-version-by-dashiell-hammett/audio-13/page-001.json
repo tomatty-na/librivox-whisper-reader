@@ -1,0 +1,775 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-13",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_13_hammett.mp3",
+  "chapter_title": "The Emperor's Gift",
+  "reader_name": "NLizer",
+  "page_num": 1,
+  "page_total": 5,
+  "page_start_sec": 0.576,
+  "page_end_sec": 246.32,
+  "para_gap_threshold": 0.579,
+  "segments": [
+    {
+      "start": 0.576,
+      "end": 3.94,
+      "text": "Chapter 13 of The Maltese Falcon by Dashiell Hammett."
+    },
+    {
+      "start": 4.74,
+      "end": 7.16,
+      "text": "This LibriVox recording is in the public domain.",
+      "para_break": true
+    },
+    {
+      "start": 8.12,
+      "end": 9.28,
+      "text": "The Emperor's Gift",
+      "para_break": true
+    },
+    {
+      "start": 10.656,
+      "end": 11.9,
+      "text": "Gutman opened the door.",
+      "para_break": true
+    },
+    {
+      "start": 12.08,
+      "end": 14.62,
+      "text": "A glad smile lighted his fat face."
+    },
+    {
+      "start": 15.52,
+      "end": 16.8,
+      "text": "He held out a hand and said,",
+      "para_break": true
+    },
+    {
+      "start": 17.04,
+      "end": 17.14,
+      "text": "Ah,"
+    },
+    {
+      "start": 18.06,
+      "end": 18.34,
+      "text": "come in,",
+      "para_break": true
+    },
+    {
+      "start": 18.4,
+      "end": 18.62,
+      "text": "sir."
+    },
+    {
+      "start": 18.84,
+      "end": 20.04,
+      "text": "Thank you for coming."
+    },
+    {
+      "start": 20.26,
+      "end": 20.92,
+      "text": "Come in."
+    },
+    {
+      "start": 22.08,
+      "end": 23.46,
+      "text": "Spade shook the hand and entered.",
+      "para_break": true
+    },
+    {
+      "start": 24.06,
+      "end": 25.22,
+      "text": "The boy went in behind him.",
+      "para_break": true
+    },
+    {
+      "start": 25.4,
+      "end": 27.14,
+      "text": "The fat man shut the door."
+    },
+    {
+      "start": 28.032,
+      "end": 29.78,
+      "text": "Spade took the boy's pistols from his",
+      "para_break": true
+    },
+    {
+      "start": 29.78,
+      "end": 31.58,
+      "text": "pockets and held them out to Gutman."
+    },
+    {
+      "start": 32.3,
+      "end": 32.46,
+      "text": "Here,",
+      "para_break": true
+    },
+    {
+      "start": 33.34,
+      "end": 34.94,
+      "text": "you shouldn't let him run around with these.",
+      "para_break": true
+    },
+    {
+      "start": 35.54,
+      "end": 36.44,
+      "text": "He'll get himself hurt.",
+      "para_break": true
+    },
+    {
+      "start": 37.58,
+      "end": 39.72,
+      "text": "The fat man laughed merrily and took the pistols.",
+      "para_break": true
+    },
+    {
+      "start": 40.48,
+      "end": 40.78,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 40.78,
+      "end": 41.02,
+      "text": "well,"
+    },
+    {
+      "start": 41.16,
+      "end": 41.8,
+      "text": "he said."
+    },
+    {
+      "start": 42.4,
+      "end": 42.72,
+      "text": "What's this?",
+      "para_break": true
+    },
+    {
+      "start": 43.72,
+      "end": 45.12,
+      "text": "He looked from Spade to the boy.",
+      "para_break": true
+    },
+    {
+      "start": 46.176,
+      "end": 46.7,
+      "text": "Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 47.66,
+      "end": 49.64,
+      "text": "A crippled newsie took them away from him,",
+      "para_break": true
+    },
+    {
+      "start": 49.9,
+      "end": 51.26,
+      "text": "but I made him give them back."
+    },
+    {
+      "start": 52.28,
+      "end": 53.88,
+      "text": "The white-faced boy took the pistols",
+      "para_break": true
+    },
+    {
+      "start": 53.88,
+      "end": 55.96,
+      "text": "out of Gutman's hands and pocketed them."
+    },
+    {
+      "start": 56.54,
+      "end": 57.56,
+      "text": "The boy did not speak.",
+      "para_break": true
+    },
+    {
+      "start": 58.624,
+      "end": 59.46,
+      "text": "Gutman laughed again.",
+      "para_break": true
+    },
+    {
+      "start": 60.32,
+      "end": 60.7,
+      "text": "My gad,",
+      "para_break": true
+    },
+    {
+      "start": 60.88,
+      "end": 61.08,
+      "text": "sir,"
+    },
+    {
+      "start": 61.36,
+      "end": 62.34,
+      "text": "he told Spade,"
+    },
+    {
+      "start": 62.46,
+      "end": 63.88,
+      "text": "you're a chap worth knowing,"
+    },
+    {
+      "start": 64.08,
+      "end": 65.08,
+      "text": "an amazing character."
+    },
+    {
+      "start": 65.92,
+      "end": 66.3,
+      "text": "Come in.",
+      "para_break": true
+    },
+    {
+      "start": 67.28,
+      "end": 67.74,
+      "text": "Sit down.",
+      "para_break": true
+    },
+    {
+      "start": 68.08,
+      "end": 68.86,
+      "text": "Give me your hat."
+    },
+    {
+      "start": 69.78,
+      "end": 72.32,
+      "text": "The boy left the room by the door to the right of the entrance.",
+      "para_break": true
+    },
+    {
+      "start": 73.32,
+      "end": 76.5,
+      "text": "The fat man installed Spade in a green plush chair by the table,",
+      "para_break": true
+    },
+    {
+      "start": 77.06,
+      "end": 78.44,
+      "text": "pressed a cigar upon him,"
+    },
+    {
+      "start": 78.96,
+      "end": 79.86,
+      "text": "held a light to it,"
+    },
+    {
+      "start": 80.38,
+      "end": 82.26,
+      "text": "mixed whiskey and carbonated water,"
+    },
+    {
+      "start": 82.44,
+      "end": 86.24,
+      "text": "put one glass in Spade's hand and holding the other sat down"
+    },
+    {
+      "start": 86.36,
+      "end": 87.2,
+      "text": "facing Spade."
+    },
+    {
+      "start": 87.38,
+      "end": 87.48,
+      "text": "Now,"
+    },
+    {
+      "start": 88.38,
+      "end": 88.66,
+      "text": "sir,",
+      "para_break": true
+    },
+    {
+      "start": 88.82,
+      "end": 89.32,
+      "text": "he said,"
+    },
+    {
+      "start": 89.54,
+      "end": 91.96,
+      "text": "I hope you'll let me apologize for."
+    },
+    {
+      "start": 93.04,
+      "end": 93.64,
+      "text": "Never mind that,",
+      "para_break": true
+    },
+    {
+      "start": 93.84,
+      "end": 94.52,
+      "text": "Spade said."
+    },
+    {
+      "start": 95.168,
+      "end": 96.58,
+      "text": "Let's talk about the black bird.",
+      "para_break": true
+    },
+    {
+      "start": 97.17,
+      "end": 100.4,
+      "text": "The fat man cocked his head to the left and regarded Spade",
+      "para_break": true
+    },
+    {
+      "start": 100.4,
+      "end": 101.18,
+      "text": "with fond eyes."
+    },
+    {
+      "start": 101.94,
+      "end": 102.3,
+      "text": "All right,",
+      "para_break": true
+    },
+    {
+      "start": 102.3,
+      "end": 102.52,
+      "text": "sir,"
+    },
+    {
+      "start": 102.66,
+      "end": 103.16,
+      "text": "he agreed."
+    },
+    {
+      "start": 103.46,
+      "end": 103.56,
+      "text": "Let's."
+    },
+    {
+      "start": 105.01,
+      "end": 107.12,
+      "text": "He took a sip from the glass in his hand.",
+      "para_break": true
+    },
+    {
+      "start": 107.57,
+      "end": 111.44,
+      "text": "This is going to be the most astounding thing you've ever heard of,"
+    },
+    {
+      "start": 111.48,
+      "end": 111.68,
+      "text": "sir,"
+    },
+    {
+      "start": 111.82,
+      "end": 113.16,
+      "text": "and I say that knowing"
+    },
+    {
+      "start": 113.16,
+      "end": 114.38,
+      "text": "that a man of your caliber,"
+    },
+    {
+      "start": 114.62,
+      "end": 115.64,
+      "text": "in your profession,"
+    },
+    {
+      "start": 116.12,
+      "end": 118.94,
+      "text": "must have known some astounding things in his time."
+    },
+    {
+      "start": 120.064,
+      "end": 121.3,
+      "text": "Spade nodded politely.",
+      "para_break": true
+    },
+    {
+      "start": 121.84,
+      "end": 124.36,
+      "text": "The fat man screwed up his eyes and asked,"
+    },
+    {
+      "start": 124.6,
+      "end": 125.58,
+      "text": "What do you know,"
+    },
+    {
+      "start": 125.72,
+      "end": 125.92,
+      "text": "sir,"
+    },
+    {
+      "start": 126.38,
+      "end": 128.14,
+      "text": "about the order of the Hospital of St."
+    },
+    {
+      "start": 128.28,
+      "end": 129.12,
+      "text": "John of Jerusalem,"
+    },
+    {
+      "start": 129.42,
+      "end": 131.34,
+      "text": "later called the Knights of Rhodes,"
+    },
+    {
+      "start": 131.64,
+      "end": 132.44,
+      "text": "and other things."
+    },
+    {
+      "start": 132.74,
+      "end": 134.34,
+      "text": "Spade waved his cigar."
+    },
+    {
+      "start": 135.14,
+      "end": 135.62,
+      "text": "Not much.",
+      "para_break": true
+    },
+    {
+      "start": 135.74,
+      "end": 138.02,
+      "text": "Only what I remember from history in school."
+    },
+    {
+      "start": 138.912,
+      "end": 139.8,
+      "text": "Crusaders or something?",
+      "para_break": true
+    },
+    {
+      "start": 140.04,
+      "end": 141.4,
+      "text": "Very good."
+    },
+    {
+      "start": 141.76,
+      "end": 141.86,
+      "text": "Now,"
+    },
+    {
+      "start": 142.8,
+      "end": 145.76,
+      "text": "you don't remember that Suleiman the Magnificent",
+      "para_break": true
+    },
+    {
+      "start": 145.78,
+      "end": 147.75,
+      "text": "chased them out of Rhodes in 1523?"
+    },
+    {
+      "start": 148.58,
+      "end": 148.68,
+      "text": "No.",
+      "para_break": true
+    },
+    {
+      "start": 149.98,
+      "end": 150.96,
+      "text": "Well,"
+    },
+    {
+      "start": 150.96,
+      "end": 151.16,
+      "text": "sir,"
+    },
+    {
+      "start": 151.28,
+      "end": 151.7,
+      "text": "he did,"
+    },
+    {
+      "start": 151.92,
+      "end": 153.28,
+      "text": "and they settled in Crete,"
+    },
+    {
+      "start": 153.74,
+      "end": 156.56,
+      "text": "and they stayed there for seven years until 1530,"
+    },
+    {
+      "start": 156.82,
+      "end": 159.22,
+      "text": "when they persuaded the Emperor Charles V"
+    },
+    {
+      "start": 159.68,
+      "end": 160.54,
+      "text": "to give them."
+    },
+    {
+      "start": 161.6,
+      "end": 164.14,
+      "text": "Gutman held up three puffy fingers and counted them.",
+      "para_break": true
+    },
+    {
+      "start": 164.64,
+      "end": 165.08,
+      "text": "Malta,"
+    },
+    {
+      "start": 165.34,
+      "end": 166.14,
+      "text": "Gozo,"
+    },
+    {
+      "start": 166.42,
+      "end": 167.26,
+      "text": "and Tripoli."
+    },
+    {
+      "start": 167.52,
+      "end": 167.62,
+      "text": "Yes?"
+    },
+    {
+      "start": 168.9,
+      "end": 169.5,
+      "text": "Yes,",
+      "para_break": true
+    },
+    {
+      "start": 169.58,
+      "end": 169.88,
+      "text": "sir,"
+    },
+    {
+      "start": 170.0,
+      "end": 171.02,
+      "text": "but with these conditions."
+    },
+    {
+      "start": 172.16,
+      "end": 175.16,
+      "text": "They were to pay the emperor each year the tribute of one.",
+      "para_break": true
+    },
+    {
+      "start": 175.66,
+      "end": 176.8,
+      "text": "He held up a finger."
+    },
+    {
+      "start": 176.98,
+      "end": 177.78,
+      "text": "Falcon,"
+    },
+    {
+      "start": 177.98,
+      "end": 180.54,
+      "text": "in acknowledgement that Malta was still under Spain,"
+    },
+    {
+      "start": 181.04,
+      "end": 181.58,
+      "text": "and if they"
+    },
+    {
+      "start": 181.68,
+      "end": 182.62,
+      "text": "ever left the island,"
+    },
+    {
+      "start": 182.82,
+      "end": 184.4,
+      "text": "it was to revert to Spain."
+    },
+    {
+      "start": 184.66,
+      "end": 185.48,
+      "text": "Understand?"
+    },
+    {
+      "start": 186.33,
+      "end": 187.84,
+      "text": "He was giving it to them,",
+      "para_break": true
+    },
+    {
+      "start": 187.94,
+      "end": 188.26,
+      "text": "but not"
+    },
+    {
+      "start": 188.44,
+      "end": 190.28,
+      "text": "unless they used it and they couldn't"
+    },
+    {
+      "start": 190.28,
+      "end": 192.0,
+      "text": "give or sell it to anybody else."
+    },
+    {
+      "start": 192.3,
+      "end": 192.4,
+      "text": "Yes."
+    },
+    {
+      "start": 194.26,
+      "end": 194.92,
+      "text": "The fat man looked"
+    },
+    {
+      "start": 194.92,
+      "end": 197.08,
+      "text": "over his shoulders at the three closed doors,"
+    },
+    {
+      "start": 197.34,
+      "end": 200.06,
+      "text": "hunched his chair a few inches nearer Spade's"
+    },
+    {
+      "start": 200.08,
+      "end": 202.2,
+      "text": "and reduced his voice to a husky whisper."
+    },
+    {
+      "start": 203.24,
+      "end": 205.26,
+      "text": "Have you any conception of the extreme,",
+      "para_break": true
+    },
+    {
+      "start": 205.72,
+      "end": 208.64,
+      "text": "the immeasurable wealth of the order at that time?"
+    },
+    {
+      "start": 209.72,
+      "end": 210.2,
+      "text": "If I remember,",
+      "para_break": true
+    },
+    {
+      "start": 210.44,
+      "end": 211.0,
+      "text": "Spade said,"
+    },
+    {
+      "start": 211.38,
+      "end": 212.72,
+      "text": "they were pretty well fixed."
+    },
+    {
+      "start": 213.664,
+      "end": 215.12,
+      "text": "Gutman smiled indulgently.",
+      "para_break": true
+    },
+    {
+      "start": 216.38,
+      "end": 216.64,
+      "text": "Pretty well,",
+      "para_break": true
+    },
+    {
+      "start": 216.72,
+      "end": 216.96,
+      "text": "sir,"
+    },
+    {
+      "start": 217.04,
+      "end": 217.54,
+      "text": "is putting it"
+    },
+    {
+      "start": 217.82,
+      "end": 218.18,
+      "text": "mildly."
+    },
+    {
+      "start": 218.88,
+      "end": 221.02,
+      "text": "His whisper became lower and more purring.",
+      "para_break": true
+    },
+    {
+      "start": 221.76,
+      "end": 222.9,
+      "text": "They were rolling in wealth,",
+      "para_break": true
+    },
+    {
+      "start": 223.04,
+      "end": 223.24,
+      "text": "sir."
+    },
+    {
+      "start": 224.128,
+      "end": 224.92,
+      "text": "You've no idea.",
+      "para_break": true
+    },
+    {
+      "start": 225.24,
+      "end": 227.4,
+      "text": "None of us has any idea."
+    },
+    {
+      "start": 227.81,
+      "end": 231.08,
+      "text": "For years they had preyed on the Saracens and taken"
+    },
+    {
+      "start": 231.28,
+      "end": 233.48,
+      "text": "nobody knows what spoils of gems,"
+    },
+    {
+      "start": 233.76,
+      "end": 234.62,
+      "text": "precious metals,"
+    },
+    {
+      "start": 234.78,
+      "end": 235.2,
+      "text": "silks,"
+    },
+    {
+      "start": 235.22,
+      "end": 235.84,
+      "text": "ivories,"
+    },
+    {
+      "start": 236.0,
+      "end": 238.34,
+      "text": "the cream of the cream of the East."
+    },
+    {
+      "start": 239.12,
+      "end": 239.86,
+      "text": "That is history,",
+      "para_break": true
+    },
+    {
+      "start": 239.94,
+      "end": 240.18,
+      "text": "sir."
+    },
+    {
+      "start": 241.12,
+      "end": 242.78,
+      "text": "We all know that the holy wars to",
+      "para_break": true
+    },
+    {
+      "start": 242.78,
+      "end": 244.86,
+      "text": "them as to the Templars were largely"
+    },
+    {
+      "start": 245.4,
+      "end": 246.32,
+      "text": "a matter of loot."
+    }
+  ]
+}

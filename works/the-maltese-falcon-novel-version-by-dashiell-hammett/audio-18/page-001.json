@@ -1,0 +1,688 @@
+{
+  "work_slug": "the-maltese-falcon-novel-version-by-dashiell-hammett",
+  "work_title": "Maltese Falcon; Novel Version",
+  "work_author": "Dashiell Hammett",
+  "audio_file": "audio-18",
+  "audio_url": "https://archive.org/download/themaltesefalconnovel_2603_librivox/maltesefalcon_18_hammett.mp3",
+  "chapter_title": "The Fall Guy",
+  "reader_name": "NLizer",
+  "page_num": 1,
+  "page_total": 8,
+  "page_start_sec": 18.88,
+  "page_end_sec": 259.96,
+  "para_gap_threshold": 0.553,
+  "segments": [
+    {
+      "start": 18.88,
+      "end": 19.58,
+      "text": "CHAPTER XVIII."
+    },
+    {
+      "start": 19.58,
+      "end": 22.02,
+      "text": "SPADE AND THE GIRL WENT IN TOGETHER."
+    },
+    {
+      "start": 24.32,
+      "end": 26.62,
+      "text": "The boy and Cairo followed them in.",
+      "para_break": true
+    },
+    {
+      "start": 27.808,
+      "end": 29.06,
+      "text": "Cairo stopped in the doorway.",
+      "para_break": true
+    },
+    {
+      "start": 29.72,
+      "end": 33.08,
+      "text": "The boy put away one of his pistols and came up close behind Spade.",
+      "para_break": true
+    },
+    {
+      "start": 34.176,
+      "end": 35.94,
+      "text": "Spade turned his head far around to look",
+      "para_break": true
+    },
+    {
+      "start": 35.94,
+      "end": 38.0,
+      "text": "down over his shoulder at the boy and said,"
+    },
+    {
+      "start": 38.42,
+      "end": 38.88,
+      "text": "Get away."
+    },
+    {
+      "start": 39.84,
+      "end": 41.18,
+      "text": "You're not going to frisk me.",
+      "para_break": true
+    },
+    {
+      "start": 42.28,
+      "end": 42.84,
+      "text": "The boy said,",
+      "para_break": true
+    },
+    {
+      "start": 43.06,
+      "end": 44.2,
+      "text": "Stand still."
+    },
+    {
+      "start": 44.46,
+      "end": 45.48,
+      "text": "Shut up."
+    },
+    {
+      "start": 46.976,
+      "end": 49.22,
+      "text": "Spade's nostrils went in and out with his breathing.",
+      "para_break": true
+    },
+    {
+      "start": 50.28,
+      "end": 51.18,
+      "text": "His voice was level.",
+      "para_break": true
+    },
+    {
+      "start": 51.92,
+      "end": 52.2,
+      "text": "Get away.",
+      "para_break": true
+    },
+    {
+      "start": 52.77,
+      "end": 54.22,
+      "text": "Put your paw on me,",
+      "para_break": true
+    },
+    {
+      "start": 54.74,
+      "end": 56.5,
+      "text": "and I'm going to make you use the gun."
+    },
+    {
+      "start": 57.376,
+      "end": 60.02,
+      "text": "Ask your boss if he wants me shot up before we talk.",
+      "para_break": true
+    },
+    {
+      "start": 61.46,
+      "end": 61.92,
+      "text": "Never mind,",
+      "para_break": true
+    },
+    {
+      "start": 61.96,
+      "end": 62.28,
+      "text": "Wilmer,"
+    },
+    {
+      "start": 62.48,
+      "end": 63.48,
+      "text": "the fat man said."
+    },
+    {
+      "start": 64.16,
+      "end": 66.16,
+      "text": "He frowned indulgently at Spade.",
+      "para_break": true
+    },
+    {
+      "start": 67.0,
+      "end": 69.06,
+      "text": "You are certainly a most headstrong individual.",
+      "para_break": true
+    },
+    {
+      "start": 69.94,
+      "end": 70.24,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 70.44,
+      "end": 71.52,
+      "text": "let's be seated."
+    },
+    {
+      "start": 72.48,
+      "end": 73.08,
+      "text": "Spade said,",
+      "para_break": true
+    },
+    {
+      "start": 73.26,
+      "end": 75.92,
+      "text": "I told you I didn't like that punk,"
+    },
+    {
+      "start": 76.36,
+      "end": 79.18,
+      "text": "and took Bridget O'Shaughnessy to the sofa by the windows."
+    },
+    {
+      "start": 79.71,
+      "end": 81.3,
+      "text": "They sat close together,"
+    },
+    {
+      "start": 81.58,
+      "end": 83.28,
+      "text": "her head against his left shoulder,"
+    },
+    {
+      "start": 83.72,
+      "end": 85.32,
+      "text": "his left arm around her shoulders."
+    },
+    {
+      "start": 86.22,
+      "end": 87.3,
+      "text": "She had stopped trembling,",
+      "para_break": true
+    },
+    {
+      "start": 87.88,
+      "end": 88.82,
+      "text": "had stopped panting.",
+      "para_break": true
+    },
+    {
+      "start": 88.9,
+      "end": 92.16,
+      "text": "The appearance of Gutman and his companions seemed"
+    },
+    {
+      "start": 92.16,
+      "end": 93.84,
+      "text": "to have robbed her of that freedom of"
+    },
+    {
+      "start": 93.84,
+      "end": 96.12,
+      "text": "personal movement and emotion that is animal,"
+    },
+    {
+      "start": 96.34,
+      "end": 97.18,
+      "text": "leaving her"
+    },
+    {
+      "start": 97.26,
+      "end": 97.66,
+      "text": "alive,"
+    },
+    {
+      "start": 97.82,
+      "end": 98.48,
+      "text": "conscious,"
+    },
+    {
+      "start": 98.7,
+      "end": 100.24,
+      "text": "but quiescent as a plant."
+    },
+    {
+      "start": 101.376,
+      "end": 103.82,
+      "text": "Gutman lowered himself into the padded rocking chair.",
+      "para_break": true
+    },
+    {
+      "start": 104.672,
+      "end": 106.3,
+      "text": "Cairo chose the armchair by the table.",
+      "para_break": true
+    },
+    {
+      "start": 106.62,
+      "end": 108.58,
+      "text": "The boy Wilmer did not sit down."
+    },
+    {
+      "start": 109.3,
+      "end": 111.64,
+      "text": "He stood in the doorway where Cairo had stood,",
+      "para_break": true
+    },
+    {
+      "start": 112.3,
+      "end": 115.16,
+      "text": "letting his one visible pistol hang down at his side,",
+      "para_break": true
+    },
+    {
+      "start": 115.8,
+      "end": 118.0,
+      "text": "looking under curling lashes at Spade's body.",
+      "para_break": true
+    },
+    {
+      "start": 118.912,
+      "end": 121.14,
+      "text": "Cairo put his pistol on the table beside him.",
+      "para_break": true
+    },
+    {
+      "start": 122.08,
+      "end": 125.04,
+      "text": "Spade took off his hat and tossed it to the other end of the sofa.",
+      "para_break": true
+    },
+    {
+      "start": 125.72,
+      "end": 126.5,
+      "text": "He grinned at Gutman.",
+      "para_break": true
+    },
+    {
+      "start": 127.56,
+      "end": 130.66,
+      "text": "The looseness of his lower lip and the droop of his upper eyelids",
+      "para_break": true
+    },
+    {
+      "start": 130.88,
+      "end": 135.58,
+      "text": "combined with the V's in his face to make his grin lewd as a satyr's."
+    },
+    {
+      "start": 136.62,
+      "end": 137.42,
+      "text": "That daughter of yours",
+      "para_break": true
+    },
+    {
+      "start": 137.56,
+      "end": 138.48,
+      "text": "has a nice belly,"
+    },
+    {
+      "start": 138.78,
+      "end": 139.12,
+      "text": "he said,"
+    },
+    {
+      "start": 139.68,
+      "end": 141.44,
+      "text": "too nice to be scratched up with pins.",
+      "para_break": true
+    },
+    {
+      "start": 142.624,
+      "end": 143.96,
+      "text": "Gutman's smile was affable,",
+      "para_break": true
+    },
+    {
+      "start": 144.66,
+      "end": 145.44,
+      "text": "if a bit oily.",
+      "para_break": true
+    },
+    {
+      "start": 146.62,
+      "end": 148.96,
+      "text": "The boy in the doorway took a short step forward,",
+      "para_break": true
+    },
+    {
+      "start": 149.06,
+      "end": 150.44,
+      "text": "raising his pistol as far"
+    },
+    {
+      "start": 150.44,
+      "end": 151.0,
+      "text": "as his hip."
+    },
+    {
+      "start": 152.192,
+      "end": 153.66,
+      "text": "Everybody in the room looked at him.",
+      "para_break": true
+    },
+    {
+      "start": 154.86,
+      "end": 157.52,
+      "text": "In the dissimilar eyes with which Bridget O'Shaughnessy",
+      "para_break": true
+    },
+    {
+      "start": 157.68,
+      "end": 159.06,
+      "text": "and Joel Cairo looked at him,"
+    },
+    {
+      "start": 159.44,
+      "end": 159.82,
+      "text": "there was,"
+    },
+    {
+      "start": 159.98,
+      "end": 160.34,
+      "text": "oddly,"
+    },
+    {
+      "start": 160.48,
+      "end": 162.38,
+      "text": "something identically reproving."
+    },
+    {
+      "start": 163.44,
+      "end": 164.03,
+      "text": "The boy blushed,",
+      "para_break": true
+    },
+    {
+      "start": 164.7,
+      "end": 166.04,
+      "text": "drew back his advanced foot,",
+      "para_break": true
+    },
+    {
+      "start": 166.18,
+      "end": 167.16,
+      "text": "straightened his legs,"
+    },
+    {
+      "start": 167.32,
+      "end": 169.44,
+      "text": "lowered the pistol and stood as he had"
+    },
+    {
+      "start": 169.54,
+      "end": 170.04,
+      "text": "stood before,"
+    },
+    {
+      "start": 170.36,
+      "end": 173.68,
+      "text": "looking under lashes that hid his eyes at Spade's chest."
+    },
+    {
+      "start": 174.74,
+      "end": 175.88,
+      "text": "The blush was pale enough",
+      "para_break": true
+    },
+    {
+      "start": 176.32,
+      "end": 177.84,
+      "text": "and lasted only for an instant,"
+    },
+    {
+      "start": 178.38,
+      "end": 181.72,
+      "text": "but it was startling on his face that habitually was so"
+    },
+    {
+      "start": 181.9,
+      "end": 182.68,
+      "text": "cold and composed."
+    },
+    {
+      "start": 184.064,
+      "end": 187.2,
+      "text": "Gutman turned his sleek-eyed fat smile on Spade again.",
+      "para_break": true
+    },
+    {
+      "start": 187.46,
+      "end": 189.4,
+      "text": "His voice was a suave"
+    },
+    {
+      "start": 189.5,
+      "end": 189.88,
+      "text": "purring."
+    },
+    {
+      "start": 190.02,
+      "end": 190.86,
+      "text": "Yes,"
+    },
+    {
+      "start": 190.86,
+      "end": 191.12,
+      "text": "sir,"
+    },
+    {
+      "start": 191.28,
+      "end": 192.46,
+      "text": "that was a shame,"
+    },
+    {
+      "start": 192.92,
+      "end": 195.08,
+      "text": "but you must admit that it served its purpose."
+    },
+    {
+      "start": 196.224,
+      "end": 196.74,
+      "text": "Spade's brows",
+      "para_break": true
+    },
+    {
+      "start": 197.0,
+      "end": 197.6,
+      "text": "twitched together."
+    },
+    {
+      "start": 197.86,
+      "end": 199.0,
+      "text": "Anything would have,"
+    },
+    {
+      "start": 199.24,
+      "end": 199.6,
+      "text": "he said."
+    },
+    {
+      "start": 199.9,
+      "end": 200.0,
+      "text": "Naturally,"
+    },
+    {
+      "start": 200.86,
+      "end": 202.78,
+      "text": "I wanted to see you as soon as I had",
+      "para_break": true
+    },
+    {
+      "start": 202.78,
+      "end": 203.2,
+      "text": "the Falcon."
+    },
+    {
+      "start": 204.192,
+      "end": 204.72,
+      "text": "Cash customers?",
+      "para_break": true
+    },
+    {
+      "start": 205.0,
+      "end": 205.48,
+      "text": "Why not?"
+    },
+    {
+      "start": 206.06,
+      "end": 209.5,
+      "text": "I went to Burlingame expecting to run into this sort of a",
+      "para_break": true
+    },
+    {
+      "start": 209.62,
+      "end": 209.8,
+      "text": "meeting."
+    },
+    {
+      "start": 210.03,
+      "end": 213.32,
+      "text": "I didn't know you were blundering around half an hour late"
+    },
+    {
+      "start": 213.86,
+      "end": 215.18,
+      "text": "trying to get me out of the way"
+    },
+    {
+      "start": 215.18,
+      "end": 217.72,
+      "text": "so you could find Jacoby again before he found me."
+    },
+    {
+      "start": 218.848,
+      "end": 219.64,
+      "text": "Gutman chuckled.",
+      "para_break": true
+    },
+    {
+      "start": 220.56,
+      "end": 221.6,
+      "text": "His chuckle seemed to hold",
+      "para_break": true
+    },
+    {
+      "start": 221.7,
+      "end": 222.64,
+      "text": "nothing but satisfaction."
+    },
+    {
+      "start": 223.32,
+      "end": 223.86,
+      "text": "Well,",
+      "para_break": true
+    },
+    {
+      "start": 223.88,
+      "end": 224.08,
+      "text": "sir,"
+    },
+    {
+      "start": 224.2,
+      "end": 224.58,
+      "text": "he said,"
+    },
+    {
+      "start": 225.0,
+      "end": 225.86,
+      "text": "in any case,"
+    },
+    {
+      "start": 225.9,
+      "end": 227.76,
+      "text": "here we are having our little meeting,"
+    },
+    {
+      "start": 227.92,
+      "end": 229.14,
+      "text": "if that's what you wanted."
+    },
+    {
+      "start": 230.272,
+      "end": 231.06,
+      "text": "That's what I wanted.",
+      "para_break": true
+    },
+    {
+      "start": 231.74,
+      "end": 233.62,
+      "text": "How soon are you ready to make the first payment",
+      "para_break": true
+    },
+    {
+      "start": 233.96,
+      "end": 235.48,
+      "text": "and take the falcon off my hands?"
+    },
+    {
+      "start": 236.448,
+      "end": 238.52,
+      "text": "Brigid O'Shaughnessy sat up straight and looked at",
+      "para_break": true
+    },
+    {
+      "start": 238.68,
+      "end": 240.04,
+      "text": "Spade with surprised blue eyes."
+    },
+    {
+      "start": 240.74,
+      "end": 242.48,
+      "text": "He patted her shoulder inattentively.",
+      "para_break": true
+    },
+    {
+      "start": 243.4,
+      "end": 244.18,
+      "text": "His eyes were steady",
+      "para_break": true
+    },
+    {
+      "start": 244.18,
+      "end": 244.94,
+      "text": "on Gutman's."
+    },
+    {
+      "start": 245.08,
+      "end": 248.42,
+      "text": "Gutman's twinkled merrily between sheltering fat puffs."
+    },
+    {
+      "start": 249.02,
+      "end": 249.38,
+      "text": "He said,",
+      "para_break": true
+    },
+    {
+      "start": 249.78,
+      "end": 250.16,
+      "text": "Well,"
+    },
+    {
+      "start": 250.26,
+      "end": 250.5,
+      "text": "sir,"
+    },
+    {
+      "start": 250.68,
+      "end": 251.44,
+      "text": "as to that,"
+    },
+    {
+      "start": 251.72,
+      "end": 254.04,
+      "text": "and put a hand inside the breast of his coat."
+    },
+    {
+      "start": 254.74,
+      "end": 255.44,
+      "text": "Cairo,",
+      "para_break": true
+    },
+    {
+      "start": 255.6,
+      "end": 256.48,
+      "text": "hands on thighs,"
+    },
+    {
+      "start": 256.6,
+      "end": 257.92,
+      "text": "leaned forward in his chair,"
+    },
+    {
+      "start": 258.14,
+      "end": 259.96,
+      "text": "breathing between parted soft lips."
+    }
+  ]
+}
