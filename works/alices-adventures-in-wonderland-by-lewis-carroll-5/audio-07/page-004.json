@@ -15,33 +15,33 @@
     {
       "start": 733.6,
       "end": 735.04,
-      "text": "That begins with an M,",
+      "text": "----that begins with an M,",
       "para_break": true
     },
     {
       "start": 735.14,
       "end": 740.08,
-      "text": "such as mousetraps and the moon and memory and muchness."
+      "text": "such as mouse-traps, and the moon, and memory, and muchness--"
     },
     {
       "start": 740.66,
       "end": 743.18,
-      "text": "You know you say things are much of a muchness."
+      "text": "you know you say things are 'much of a muchness'--"
     },
     {
       "start": 743.78,
       "end": 746.68,
-      "text": "Did you ever see such a thing as a drawing of a muchness?"
+      "text": "did you ever see such a thing as a drawing of a muchness?\""
     },
     {
       "start": 747.11,
       "end": 747.76,
-      "text": "Really,"
+      "text": "\"Really,"
     },
     {
       "start": 747.88,
       "end": 748.7,
-      "text": "now you ask me,"
+      "text": "now you ask me,\""
     },
     {
       "start": 748.88,
@@ -51,17 +51,17 @@
     {
       "start": 749.64,
       "end": 750.62,
-      "text": "very much confused."
+      "text": "very much confused,"
     },
     {
       "start": 751.36,
       "end": 752.28,
-      "text": "I don't think..."
+      "text": "\"I don't think----\""
     },
     {
       "start": 752.7,
       "end": 753.6,
-      "text": "Then you shouldn't talk,"
+      "text": "\"Then you shouldn't talk,\""
     },
     {
       "start": 753.8,
@@ -71,18 +71,18 @@
     {
       "start": 755.66,
       "end": 758.18,
-      "text": "This piece of rudeness was more than Alice could bear.",
+      "text": "This piece of rudeness was more than Alice could bear:",
       "para_break": true
     },
     {
       "start": 758.82,
       "end": 760.98,
-      "text": "She got up in great disgust and walked off."
+      "text": "she got up in great disgust and walked off;"
     },
     {
       "start": 761.42,
       "end": 762.96,
-      "text": "The Dormouse fell asleep instantly,"
+      "text": "the Dormouse fell asleep instantly,"
     },
     {
       "start": 763.18,
@@ -97,13 +97,12 @@
     {
       "start": 768.68,
       "end": 770.78,
-      "text": "half hoping that they would call after her."
+      "text": "half hoping that they would call after her:"
     },
     {
       "start": 771.54,
       "end": 772.7,
-      "text": "The last time she saw them,",
-      "para_break": true
+      "text": "the last time she saw them,"
     },
     {
       "start": 772.84,
@@ -113,12 +112,12 @@
     {
       "start": 776.03,
       "end": 777.18,
-      "text": "At any rate,"
+      "text": "\"At any rate"
     },
     {
       "start": 777.2,
       "end": 778.38,
-      "text": "I'll never go there again,"
+      "text": "I'll never go _there_ again!\""
     },
     {
       "start": 778.62,
@@ -128,7 +127,7 @@
     {
       "start": 781.344,
       "end": 784.62,
-      "text": "It's the stupidest tea party I ever was at in all my life."
+      "text": "\"It's the stupidest tea-party I ever was at in all my life!\""
     },
     {
       "start": 785.68,
@@ -144,27 +143,27 @@
     {
       "start": 790.624,
       "end": 791.36,
-      "text": "That's very curious,"
+      "text": "\"That's very curious!\""
     },
     {
       "start": 791.44,
       "end": 791.84,
-      "text": "she thought,"
+      "text": "she thought."
     },
     {
       "start": 792.28,
       "end": 793.56,
-      "text": "but everything's curious today."
+      "text": "\"But everything's curious to-day."
     },
     {
       "start": 794.24,
       "end": 796.1,
-      "text": "I think I may as well go in at once,"
+      "text": "I think I may as well go in at once.\""
     },
     {
       "start": 796.22,
       "end": 797.32,
-      "text": "and in she went."
+      "text": "And in she went."
     },
     {
       "start": 798.304,
@@ -180,8 +179,7 @@
     {
       "start": 803.72,
       "end": 805.34,
-      "text": "Now I'll manage better this time,",
-      "para_break": true
+      "text": "\"Now I'll manage better this time,\""
     },
     {
       "start": 805.5,
@@ -196,7 +194,7 @@
     {
       "start": 808.46,
       "end": 811.18,
-      "text": "key and unlocking the door that led into the garden."
+      "text": "key, and unlocking the door that led into the garden."
     },
     {
       "start": 811.6,
@@ -206,37 +204,37 @@
     {
       "start": 813.84,
       "end": 814.1,
-      "text": "mushroom."
+      "text": "mushroom"
     },
     {
       "start": 814.26,
       "end": 815.7,
-      "text": "She had kept a piece of it in her"
+      "text": "(she had kept a piece of it in her"
     },
     {
       "start": 815.7,
       "end": 818.0,
-      "text": "pocket till she was about a foot high."
+      "text": "pocket) till she was about a foot high:"
     },
     {
       "start": 818.64,
       "end": 819.2,
-      "text": "Then she walked"
+      "text": "then she walked"
     },
     {
       "start": 819.3,
       "end": 820.28,
-      "text": "down the little passage,"
+      "text": "down the little passage:"
     },
     {
       "start": 820.46,
       "end": 824.52,
-      "text": "and then she found herself at last in the beautiful garden among"
+      "text": "and _then_--she found herself at last in the beautiful garden, among"
     },
     {
       "start": 824.64,
       "end": 827.16,
-      "text": "the bright flower beds and the cool fountains."
+      "text": "the bright flower-beds and the cool fountains."
     },
     {
       "start": 830.3,

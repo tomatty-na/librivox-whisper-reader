@@ -58,13 +58,13 @@
     {
       "start": 502.28,
       "end": 502.38,
-      "text": "\"Come,"
+      "text": "\"Come,",
+      "para_break": true
     },
     {
       "start": 503.92,
       "end": 505.16,
-      "text": "that finishes the guinea-pigs!\"",
-      "para_break": true
+      "text": "that finishes the guinea-pigs!\""
     },
     {
       "start": 505.28,

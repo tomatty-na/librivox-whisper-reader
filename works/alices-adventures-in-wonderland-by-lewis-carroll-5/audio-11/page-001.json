@@ -343,7 +343,8 @@
     {
       "start": 136.72,
       "end": 138.54,
-      "text": "Alice could see, as well as if she were looking over their shoulders,"
+      "text": "Alice could see, as well as if she were looking over their shoulders,",
+      "para_break": true
     },
     {
       "start": 138.54,
@@ -512,7 +513,7 @@
     {
       "start": 194.0,
       "end": 195.72,
-      "text": "some tarts, all on a summer day:"
+      "text": "some tarts, All on a summer day:"
     },
     {
       "start": 196.38,
@@ -527,7 +528,7 @@
     {
       "start": 198.6,
       "end": 199.48,
-      "text": "and took them quite"
+      "text": "And took them quite"
     },
     {
       "start": 199.66,

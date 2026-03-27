@@ -15,7 +15,8 @@
     {
       "start": 497.46,
       "end": 499.28,
-      "text": "If I don't take this child away with me,"
+      "text": "If I don't take this child away with me,",
+      "para_break": true
     },
     {
       "start": 499.36,
@@ -30,8 +31,7 @@
     {
       "start": 502.784,
       "end": 504.26,
-      "text": "Wouldn't it be murder to leave it behind?",
-      "para_break": true
+      "text": "Wouldn't it be murder to leave it behind?"
     },
     {
       "start": 506.1,
@@ -47,8 +47,7 @@
     {
       "start": 510.24,
       "end": 511.9,
-      "text": "It had left off sneezing by this time.",
-      "para_break": true
+      "text": "It had left off sneezing by this time."
     },
     {
       "start": 512.96,
@@ -105,8 +104,7 @@
     {
       "start": 532.53,
       "end": 533.08,
-      "text": "Altogether,",
-      "para_break": true
+      "text": "Altogether,"
     },
     {
       "start": 533.22,
@@ -194,7 +192,7 @@
     {
       "start": 561.0,
       "end": 563.48,
-      "text": "now what am I to do with this creature when I get it home,"
+      "text": "\"Now, what am I to do with this creature when I get it home?\""
     },
     {
       "start": 563.58,
@@ -245,7 +243,7 @@
     {
       "start": 583.9,
       "end": 584.74,
-      "text": "If it had grown up,",
+      "text": "\"If it had grown up,\"",
       "para_break": true
     },
     {
@@ -292,7 +290,7 @@
     {
       "start": 597.74,
       "end": 599.74,
-      "text": "if only I knew the right way to change them,"
+      "text": "\"if one only knew the right way to change them----\""
     },
     {
       "start": 599.86,
@@ -307,7 +305,7 @@
     {
       "start": 606.02,
       "end": 607.8,
-      "text": "The cat only grinned when it saw Alice.",
+      "text": "The Cat only grinned when it saw Alice.",
       "para_break": true
     },
     {
@@ -359,8 +357,7 @@
     {
       "start": 625.42,
       "end": 625.66,
-      "text": "Come,",
-      "para_break": true
+      "text": "Come,"
     },
     {
       "start": 625.72,
@@ -380,8 +377,7 @@
     {
       "start": 629.0,
       "end": 629.56,
-      "text": "Would you tell me,",
-      "para_break": true
+      "text": "Would you tell me,"
     },
     {
       "start": 629.62,
@@ -396,7 +392,7 @@
     {
       "start": 632.48,
       "end": 635.32,
-      "text": "That depends a good deal on where you want to go,",
+      "text": "\"That depends a good deal on where you want to _get_ to,\"",
       "para_break": true
     },
     {
@@ -407,7 +403,7 @@
     {
       "start": 636.92,
       "end": 638.22,
-      "text": "I don't much care where,"
+      "text": "\"I don't much care where----\""
     },
     {
       "start": 638.5,
@@ -427,8 +423,7 @@
     {
       "start": 644.4,
       "end": 645.65,
-      "text": "So long as I get somewhere,",
-      "para_break": true
+      "text": "\"---- so long as I get _somewhere_,\""
     },
     {
       "start": 646.12,
@@ -454,7 +449,7 @@
     {
       "start": 651.14,
       "end": 652.98,
-      "text": "if only you walk long enough."
+      "text": "if you only walk long enough."
     },
     {
       "start": 654.432,
@@ -476,7 +471,7 @@
     {
       "start": 661.22,
       "end": 662.26,
-      "text": "In that direction,",
+      "text": "In _that_ direction,",
       "para_break": true
     },
     {
@@ -492,12 +487,12 @@
     {
       "start": 664.92,
       "end": 666.14,
-      "text": "lives a hatter"
+      "text": "lives a Hatter:"
     },
     {
       "start": 666.4,
       "end": 667.86,
-      "text": "And in that direction,"
+      "text": "and in _that_ direction,"
     },
     {
       "start": 668.06,
@@ -507,17 +502,17 @@
     {
       "start": 669.32,
       "end": 670.76,
-      "text": "lives a march hare"
+      "text": "lives a March Hare."
     },
     {
       "start": 671.42,
       "end": 672.72,
-      "text": "Visit either you like,"
+      "text": "Visit either you like:"
     },
     {
       "start": 672.84,
       "end": 673.9,
-      "text": "they're both mad"
+      "text": "they're both mad."
     },
     {
       "start": 675.42,
@@ -528,7 +523,7 @@
     {
       "start": 677.46,
       "end": 678.2,
-      "text": "Alice remarked"
+      "text": "Alice remarked."
     },
     {
       "start": 678.58,
@@ -538,38 +533,38 @@
     {
       "start": 679.38,
       "end": 680.7,
-      "text": "you can't help that,"
+      "text": "\"you ca'n't help that,\""
     },
     {
       "start": 681.18,
       "end": 682.22,
-      "text": "said the cat"
+      "text": "said the Cat:"
     },
     {
       "start": 682.4,
       "end": 683.88,
-      "text": "We're all mad here,"
+      "text": "we're all mad here."
     },
     {
       "start": 684.06,
       "end": 684.96,
-      "text": "I'm mad,"
+      "text": "I'm mad."
     },
     {
       "start": 685.32,
       "end": 686.22,
-      "text": "you're mad"
+      "text": "You're mad."
     },
     {
       "start": 687.54,
       "end": 688.58,
-      "text": "How do you know I'm mad,",
+      "text": "\"How do you know I'm mad?\"",
       "para_break": true
     },
     {
       "start": 688.76,
       "end": 689.2,
-      "text": "said Alice"
+      "text": "said Alice."
     },
     {
       "start": 690.48,
@@ -669,7 +664,7 @@
     {
       "start": 717.68,
       "end": 720.42,
-      "text": "Now I growl when I'm pleased,"
+      "text": "Now _I_ growl when I'm pleased,"
     },
     {
       "start": 720.78,
@@ -711,7 +706,7 @@
     {
       "start": 732.1,
       "end": 734.12,
-      "text": "Do you play croquet with the queen today?"
+      "text": "Do you play croquet with the Queen to-day?"
     },
     {
       "start": 735.5,

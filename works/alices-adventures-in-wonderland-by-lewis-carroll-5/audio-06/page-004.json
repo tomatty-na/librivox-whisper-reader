@@ -57,7 +57,7 @@
     {
       "start": 754.6,
       "end": 755.04,
-      "text": "By the by,",
+      "text": "\"By-the-bye,",
       "para_break": true
     },
     {
@@ -151,7 +151,7 @@
     {
       "start": 779.392,
       "end": 780.34,
-      "text": "I've seen hatches before,",
+      "text": "\"I've seen hatters before,",
       "para_break": true
     },
     {
@@ -182,8 +182,7 @@
     {
       "start": 789.98,
       "end": 790.76,
-      "text": "As she said this,",
-      "para_break": true
+      "text": "As she said this,"
     },
     {
       "start": 790.78,
@@ -344,13 +343,13 @@
     {
       "start": 849.12,
       "end": 850.98,
-      "text": "\"'Suppose it should be raving mad after all.",
+      "text": "\"Suppose it should be raving mad after all!",
       "para_break": true
     },
     {
       "start": 851.44,
       "end": 853.77,
-      "text": "I almost wish I'd gone to see the hatter instead.'\""
+      "text": "I almost wish I'd gone to see the Hatter instead!\""
     },
     {
       "start": 857.22,

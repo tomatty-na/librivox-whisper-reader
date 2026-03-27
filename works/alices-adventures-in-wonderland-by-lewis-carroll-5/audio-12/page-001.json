@@ -42,13 +42,13 @@
     {
       "start": 11.0,
       "end": 11.1,
-      "text": "Here!"
+      "text": "\"HERE!\"",
+      "para_break": true
     },
     {
       "start": 13.02,
       "end": 13.7,
-      "text": "cried Alice,",
-      "para_break": true
+      "text": "cried Alice,"
     },
     {
       "start": 13.84,
@@ -83,12 +83,12 @@
     {
       "start": 22.76,
       "end": 25.62,
-      "text": "upsetting all the jury-men on to their heads of the crowd below."
+      "text": "upsetting all the jurymen on to the heads of the crowd below,"
     },
     {
       "start": 25.8,
       "end": 26.82,
-      "text": "And there they"
+      "text": "and there they"
     },
     {
       "start": 27.0,
@@ -103,7 +103,7 @@
     {
       "start": 29.96,
       "end": 32.08,
-      "text": "goldfish she had accidentally upset the"
+      "text": "gold-fish she had accidentally upset the"
     },
     {
       "start": 32.08,
@@ -113,13 +113,13 @@
     {
       "start": 32.78,
       "end": 32.88,
-      "text": "Oh,"
+      "text": "\"Oh,",
+      "para_break": true
     },
     {
       "start": 34.0,
       "end": 35.14,
-      "text": "I beg your pardon,",
-      "para_break": true
+      "text": "I _beg_ your pardon!\""
     },
     {
       "start": 35.34,
@@ -139,7 +139,7 @@
     {
       "start": 40.86,
       "end": 43.54,
-      "text": "for the accident of the goldfish kept running in her head,"
+      "text": "for the accident of the gold-fish kept running in her head,"
     },
     {
       "start": 43.66,
@@ -154,7 +154,7 @@
     {
       "start": 46.52,
       "end": 49.12,
-      "text": "collected at once and put back into the jury box,"
+      "text": "collected at once and put back into the jury-box,"
     },
     {
       "start": 49.36,
@@ -164,12 +164,13 @@
     {
       "start": 50.5,
       "end": 52.12,
-      "text": "The trial cannot proceed,"
+      "text": "\"The trial cannot proceed,\"",
+      "para_break": true
     },
     {
       "start": 52.42,
       "end": 54.34,
-      "text": "said the king in a very grave voice,"
+      "text": "said the King in a very grave voice,"
     },
     {
       "start": 54.48,
@@ -184,7 +185,7 @@
     {
       "start": 57.72,
       "end": 58.24,
-      "text": "All,"
+      "text": "_all_,"
     },
     {
       "start": 58.44,
@@ -199,13 +200,13 @@
     {
       "start": 66.52,
       "end": 69.24,
-      "text": "Alice looked at the jury box and saw that in her",
+      "text": "Alice looked at the jury-box, and saw that, in her",
       "para_break": true
     },
     {
       "start": 69.24,
       "end": 71.6,
-      "text": "haste she had put the lizard in head downwards"
+      "text": "haste, she had put the Lizard in head downwards,"
     },
     {
       "start": 71.88,
@@ -230,14 +231,12 @@
     {
       "start": 78.06,
       "end": 80.14,
-      "text": "She soon got it out again and put it right.",
-      "para_break": true
+      "text": "She soon got it out again, and put it right;"
     },
     {
       "start": 81.26,
       "end": 82.48,
-      "text": "Not that it signifies much,",
-      "para_break": true
+      "text": "\"not that it signifies much,\""
     },
     {
       "start": 82.62,
@@ -283,7 +282,7 @@
     {
       "start": 100.608,
       "end": 101.44,
-      "text": "all except the lizard,"
+      "text": "all except the Lizard,"
     },
     {
       "start": 101.58,
@@ -303,34 +302,35 @@
     {
       "start": 108.56,
       "end": 109.8,
-      "text": "What do you know about this business?",
+      "text": "\"What do you know about this business?\"",
       "para_break": true
     },
     {
       "start": 110.06,
       "end": 111.32,
-      "text": "the king said to Alice."
+      "text": "the King said to Alice."
     },
     {
       "start": 111.54,
       "end": 112.44,
-      "text": "Nothing."
+      "text": "\"Nothing,\" said Alice.",
+      "para_break": true
     },
     {
       "start": 113.344,
       "end": 113.86,
-      "text": "Nothing whatever,",
+      "text": "\"Nothing _whatever_?\"",
       "para_break": true
     },
     {
       "start": 114.22,
       "end": 115.24,
-      "text": "persisted the king."
+      "text": "persisted the King."
     },
     {
       "start": 116.096,
       "end": 116.6,
-      "text": "Nothing whatever,",
+      "text": "\"Nothing whatever,\"",
       "para_break": true
     },
     {
@@ -341,13 +341,13 @@
     {
       "start": 118.528,
       "end": 119.4,
-      "text": "That's very important,",
+      "text": "\"That's very important,\"",
       "para_break": true
     },
     {
       "start": 119.9,
       "end": 120.4,
-      "text": "the king said,"
+      "text": "the King said,"
     },
     {
       "start": 120.5,
@@ -362,18 +362,18 @@
     {
       "start": 123.64,
       "end": 125.66,
-      "text": "their slates when the white rabbit interrupted."
+      "text": "their slates, when the White Rabbit interrupted:"
     },
     {
       "start": 126.42,
       "end": 126.92,
-      "text": "Unimportant,",
+      "text": "\"_Un_important,",
       "para_break": true
     },
     {
       "start": 127.04,
       "end": 127.94,
-      "text": "your majesty means,"
+      "text": "your Majesty means,"
     },
     {
       "start": 128.08,
@@ -393,7 +393,7 @@
     {
       "start": 134.47,
       "end": 135.12,
-      "text": "Unimportant,",
+      "text": "\"_Un_important,",
       "para_break": true
     },
     {
@@ -404,12 +404,12 @@
     {
       "start": 135.88,
       "end": 136.2,
-      "text": "I mean,"
+      "text": "I meant,\""
     },
     {
       "start": 136.34,
       "end": 137.5,
-      "text": "the king hastily said,"
+      "text": "the King hastily said,"
     },
     {
       "start": 137.62,
@@ -439,13 +439,12 @@
     {
       "start": 143.68,
       "end": 145.8,
-      "text": "as if he were trying which word sounded best.",
-      "para_break": true
+      "text": "as if he were trying which word sounded best."
     },
     {
       "start": 147.34,
       "end": 150.47,
-      "text": "Some of the jury wrote it down important and some unimportant.",
+      "text": "Some of the jury wrote it down \"important,\" and some \"unimportant.\"",
       "para_break": true
     },
     {
@@ -461,8 +460,7 @@
     {
       "start": 154.84,
       "end": 155.94,
-      "text": "But it doesn't matter a bit,",
-      "para_break": true
+      "text": "\"but it doesn't matter a bit,\""
     },
     {
       "start": 156.1,
@@ -478,12 +476,12 @@
     {
       "start": 158.62,
       "end": 158.98,
-      "text": "the king,"
+      "text": "the King,"
     },
     {
       "start": 159.18,
       "end": 161.82,
-      "text": "who had been for some time busily writing in his notebook,"
+      "text": "who had been for some time busily writing in his note-book,"
     },
     {
       "start": 162.42,
@@ -493,7 +491,7 @@
     {
       "start": 162.86,
       "end": 163.24,
-      "text": "silence,"
+      "text": "\"Silence!\""
     },
     {
       "start": 163.74,
@@ -503,17 +501,17 @@
     {
       "start": 165.76,
       "end": 166.4,
-      "text": "rule 42,"
+      "text": "\"Rule Forty-two."
     },
     {
       "start": 166.7,
       "end": 169.02,
-      "text": "all persons more than a mile high to"
+      "text": "_All_ persons more than a mile high to"
     },
     {
       "start": 169.14,
       "end": 169.76,
-      "text": "leave the court."
+      "text": "leave the court.\""
     },
     {
       "start": 170.56,
@@ -524,7 +522,7 @@
     {
       "start": 172.64,
       "end": 173.6,
-      "text": "I'm not a mile high,",
+      "text": "\"_I'm_ not a mile high,\"",
       "para_break": true
     },
     {
@@ -535,17 +533,18 @@
     {
       "start": 174.9,
       "end": 175.46,
-      "text": "You are,"
+      "text": "\"You are,\"",
+      "para_break": true
     },
     {
       "start": 175.84,
       "end": 176.46,
-      "text": "said the king."
+      "text": "said the King."
     },
     {
       "start": 177.888,
       "end": 179.14,
-      "text": "Nearly two miles high,",
+      "text": "\"Nearly two miles high,\"",
       "para_break": true
     },
     {
@@ -556,12 +555,13 @@
     {
       "start": 181.08,
       "end": 181.68,
-      "text": "Well,"
+      "text": "\"Well,",
+      "para_break": true
     },
     {
       "start": 181.7,
       "end": 183.08,
-      "text": "I shan't go at any rate,"
+      "text": "I sha'n't go, at any rate,\""
     },
     {
       "start": 183.56,
@@ -581,23 +581,23 @@
     {
       "start": 185.94,
       "end": 187.06,
-      "text": "You invented it just now."
+      "text": "You invented it just now.\""
     },
     {
       "start": 188.704,
       "end": 190.14,
-      "text": "It's the oldest rule in the book,",
+      "text": "\"It's the oldest rule in the book,\"",
       "para_break": true
     },
     {
       "start": 190.34,
       "end": 191.08,
-      "text": "said the king."
+      "text": "said the King."
     },
     {
       "start": 191.96,
       "end": 193.18,
-      "text": "Then it ought to be number one,",
+      "text": "\"Then it ought to be Number One,\"",
       "para_break": true
     },
     {
@@ -608,17 +608,18 @@
     {
       "start": 194.54,
       "end": 196.74,
-      "text": "The king turned pale and shut his"
+      "text": "The King turned pale, and shut his",
+      "para_break": true
     },
     {
       "start": 196.9,
       "end": 197.64,
-      "text": "notebook hastily."
+      "text": "note-book hastily."
     },
     {
       "start": 197.78,
       "end": 199.32,
-      "text": "Consider your verdict,"
+      "text": "\"Consider your verdict,\""
     },
     {
       "start": 199.56,
@@ -633,13 +634,13 @@
     {
       "start": 202.944,
       "end": 204.32,
-      "text": "There's more evidence to come yet,",
+      "text": "\"There's more evidence to come yet,",
       "para_break": true
     },
     {
       "start": 204.34,
       "end": 205.02,
-      "text": "please your majesty,"
+      "text": "please your Majesty,\""
     },
     {
       "start": 205.36,
@@ -654,13 +655,12 @@
     {
       "start": 208.88,
       "end": 210.82,
-      "text": "This paper has just been picked up.",
-      "para_break": true
+      "text": "\"this paper has just been picked up.\""
     },
     {
       "start": 212.16,
       "end": 212.66,
-      "text": "What's in it?",
+      "text": "\"What's in it?\"",
       "para_break": true
     },
     {
@@ -671,7 +671,7 @@
     {
       "start": 213.95,
       "end": 215.5,
-      "text": "I haven't opened it yet,"
+      "text": "\"I haven't opened it yet,\""
     },
     {
       "start": 215.66,
@@ -681,12 +681,12 @@
     {
       "start": 216.7,
       "end": 220.23,
-      "text": "but it seems to be a letter written by the prisoner to somebody."
+      "text": "but it seems to be a letter, written by the prisoner to--to somebody.\""
     },
     {
       "start": 222.28,
       "end": 223.08,
-      "text": "It must have been that,",
+      "text": "\"It must have been that,\"",
       "para_break": true
     },
     {
@@ -697,7 +697,7 @@
     {
       "start": 223.76,
       "end": 225.22,
-      "text": "unless it was written to nobody,"
+      "text": "\"unless it was written to nobody,"
     },
     {
       "start": 225.42,
@@ -707,12 +707,12 @@
     {
       "start": 226.56,
       "end": 226.82,
-      "text": "you know."
+      "text": "you know.\""
     },
     {
       "start": 227.91,
       "end": 229.56,
-      "text": "Who is it directed to,",
+      "text": "\"Who is it directed to?\"",
       "para_break": true
     },
     {
@@ -723,28 +723,28 @@
     {
       "start": 232.18,
       "end": 233.54,
-      "text": "It isn't directed at all,",
+      "text": "\"It isn't directed at all,\"",
       "para_break": true
     },
     {
       "start": 234.16,
       "end": 234.88,
-      "text": "said the white rabbit."
+      "text": "said the White Rabbit;"
     },
     {
       "start": 235.02,
       "end": 235.6,
-      "text": "In fact,"
+      "text": "\"in fact,"
     },
     {
       "start": 235.6,
       "end": 237.22,
-      "text": "there's nothing written on the outside,"
+      "text": "there's nothing written on the _outside_.\""
     },
     {
       "start": 237.52,
       "end": 239.06,
-      "text": "he unfolded the paper as"
+      "text": "He unfolded the paper as"
     },
     {
       "start": 239.06,
@@ -759,12 +759,12 @@
     {
       "start": 240.9,
       "end": 242.32,
-      "text": "it isn't a letter after all,"
+      "text": "\"It isn't a letter after all:"
     },
     {
       "start": 242.4,
       "end": 243.48,
-      "text": "it's a set of verses."
+      "text": "it's a set of verses.\""
     }
   ]
 }

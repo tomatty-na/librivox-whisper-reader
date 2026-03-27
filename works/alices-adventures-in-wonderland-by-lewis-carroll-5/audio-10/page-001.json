@@ -25,18 +25,18 @@
     {
       "start": 9.09,
       "end": 11.9,
-      "text": "The Mock Turtle sighed deeply and drew",
+      "text": "The Mock Turtle sighed deeply, and drew",
       "para_break": true
     },
     {
       "start": 11.9,
       "end": 13.96,
-      "text": "the back of one flapper across his eye."
+      "text": "the back of one flapper across his eyes."
     },
     {
       "start": 14.4,
       "end": 16.5,
-      "text": "He looked at Alice and tried to speak,"
+      "text": "He looked at Alice, and tried to speak,"
     },
     {
       "start": 16.64,
@@ -46,13 +46,12 @@
     {
       "start": 21.024,
       "end": 22.52,
-      "text": "Same as if he had a bone in his throat,",
-      "para_break": true
+      "text": "\"Same as if he had a bone in his throat,\""
     },
     {
       "start": 22.7,
       "end": 23.66,
-      "text": "said the griffon,"
+      "text": "said the Gryphon:"
     },
     {
       "start": 23.72,
@@ -62,7 +61,7 @@
     {
       "start": 27.36,
       "end": 29.5,
-      "text": "At last the mock turtle recovered his voice,",
+      "text": "At last the Mock Turtle recovered his voice,",
       "para_break": true
     },
     {
@@ -73,73 +72,69 @@
     {
       "start": 31.62,
       "end": 32.22,
-      "text": "went on again."
+      "text": "went on again:"
     },
     {
       "start": 33.0,
       "end": 36.5,
-      "text": "You may not have lived much under the sea.",
+      "text": "\"You may not have lived much under the sea--\"",
       "para_break": true
     },
     {
       "start": 37.6,
       "end": 38.26,
-      "text": "I haven't,",
-      "para_break": true
+      "text": "(\"I haven't,\""
     },
     {
       "start": 38.26,
       "end": 38.78,
-      "text": "said Alice."
+      "text": "said Alice)"
     },
     {
       "start": 39.68,
       "end": 43.7,
-      "text": "And perhaps you were never even introduced to a lobster.",
-      "para_break": true
+      "text": "\"and perhaps you were never even introduced to a lobster--\""
     },
     {
       "start": 44.704,
       "end": 45.7,
-      "text": "Alice began to say,",
-      "para_break": true
+      "text": "(Alice began to say,"
     },
     {
       "start": 45.82,
       "end": 46.98,
-      "text": "I once tasted,"
+      "text": "\"I once tasted----\""
     },
     {
       "start": 47.84,
       "end": 49.76,
-      "text": "but checked herself hastily and said,",
-      "para_break": true
+      "text": "but checked herself hastily, and said,"
     },
     {
       "start": 50.12,
       "end": 50.56,
-      "text": "No,"
+      "text": "\"No,"
     },
     {
       "start": 50.74,
       "end": 51.06,
-      "text": "never."
+      "text": "never\")"
     },
     {
       "start": 52.48,
       "end": 54.86,
-      "text": "So you can have no idea what a",
+      "text": "\"--so you can have no idea what a",
       "para_break": true
     },
     {
       "start": 54.86,
       "end": 58.16,
-      "text": "delightful thing a lobster quadrille is."
+      "text": "delightful thing a Lobster Quadrille is!\""
     },
     {
       "start": 59.36,
       "end": 59.7,
-      "text": "No,",
+      "text": "\"No,\"",
       "para_break": true
     },
     {
@@ -155,39 +150,39 @@
     {
       "start": 61.52,
       "end": 62.7,
-      "text": "What sort of a dance is it?"
+      "text": "\"What sort of a dance is it?\""
     },
     {
       "start": 63.82,
       "end": 64.4,
-      "text": "Why,",
+      "text": "\"Why,\"",
       "para_break": true
     },
     {
       "start": 64.7,
       "end": 65.4,
-      "text": "said the griffon,"
+      "text": "said the Gryphon,"
     },
     {
       "start": 65.5,
       "end": 68.1,
-      "text": "you first form into a line along the seashore."
+      "text": "\"you first form into a line along the sea-shore----\""
     },
     {
       "start": 69.14,
       "end": 69.76,
-      "text": "Two lines,",
+      "text": "\"Two lines!\"",
       "para_break": true
     },
     {
       "start": 70.06,
       "end": 71.18,
-      "text": "cried the mock turtle."
+      "text": "cried the Mock Turtle."
     },
     {
       "start": 71.42,
       "end": 72.32,
-      "text": "Seals,"
+      "text": "\"Seals,"
     },
     {
       "start": 72.32,
@@ -197,102 +192,101 @@
     {
       "start": 72.82,
       "end": 73.64,
-      "text": "and so on."
+      "text": "and so on;"
     },
     {
       "start": 73.88,
       "end": 76.26,
-      "text": "Then when you've cleared the jellyfish"
+      "text": "then when you've cleared the jelly-fish"
     },
     {
       "start": 76.44,
       "end": 77.22,
-      "text": "out of the way."
+      "text": "out of the way----\""
     },
     {
       "start": 77.42,
       "end": 79.54,
-      "text": "That generally takes some time,"
+      "text": "\"_That_ generally takes some time,\""
     },
     {
       "start": 79.64,
       "end": 80.84,
-      "text": "interrupted the griffon."
+      "text": "interrupted the Gryphon."
     },
     {
       "start": 81.48,
       "end": 82.72,
-      "text": "You advance twice,"
+      "text": "\"--you advance twice----\""
     },
     {
       "start": 84.5,
       "end": 85.94,
-      "text": "each with a lobster as a partner,",
+      "text": "\"each with a lobster as a partner!\"",
       "para_break": true
     },
     {
       "start": 86.2,
       "end": 87.0,
-      "text": "cried the griffon."
+      "text": "cried the Gryphon."
     },
     {
       "start": 87.96,
       "end": 88.34,
-      "text": "Of course,",
+      "text": "\"Of course,\"",
       "para_break": true
     },
     {
       "start": 88.76,
       "end": 89.72,
-      "text": "the mock turtle said."
+      "text": "the Mock Turtle said:"
     },
     {
       "start": 90.4,
       "end": 91.48,
-      "text": "Advance twice,"
+      "text": "\"advance twice,"
     },
     {
       "start": 92.288,
       "end": 93.3,
-      "text": "set to partners.",
-      "para_break": true
+      "text": "set to partners----\""
     },
     {
       "start": 94.528,
       "end": 97.02,
-      "text": "Change lobsters and retire in the same order,",
+      "text": "\"--change lobsters, and retire in same order,\"",
       "para_break": true
     },
     {
       "start": 97.18,
       "end": 98.24,
-      "text": "continued the griffon."
+      "text": "continued the Gryphon."
     },
     {
       "start": 99.63,
       "end": 100.28,
-      "text": "Then,",
+      "text": "\"Then,",
       "para_break": true
     },
     {
       "start": 100.28,
       "end": 100.76,
-      "text": "you know,"
+      "text": "you know,\""
     },
     {
       "start": 101.28,
       "end": 102.34,
-      "text": "the mock turtle went on."
+      "text": "the Mock Turtle went on,"
     },
     {
       "start": 103.04,
       "end": 105.12,
-      "text": "You throw the lobsters,"
+      "text": "\"you throw the----\""
     },
     {
       "start": 105.22,
       "end": 106.3,
-      "text": "shouted the griffon,"
+      "text": "\"The lobsters!\" shouted the Gryphon,"
     },
     {
       "start": 106.32,
@@ -302,29 +296,29 @@
     {
       "start": 108.64,
       "end": 110.92,
-      "text": "As far out to sea as you can.",
+      "text": "\"--as far out to sea as you can----\"",
       "para_break": true
     },
     {
       "start": 111.16,
       "end": 112.22,
-      "text": "Swim after them,"
+      "text": "\"Swim, after them!\""
     },
     {
       "start": 112.4,
       "end": 113.38,
-      "text": "screamed the griffon."
+      "text": "screamed the Gryphon."
     },
     {
       "start": 114.46,
       "end": 116.42,
-      "text": "Turn a somersault in the sea,",
+      "text": "\"Turn a somersault in the sea!\"",
       "para_break": true
     },
     {
       "start": 116.82,
       "end": 118.06,
-      "text": "cried the mock turtle,"
+      "text": "cried the Mock Turtle,"
     },
     {
       "start": 118.28,
@@ -334,40 +328,39 @@
     {
       "start": 120.48,
       "end": 121.52,
-      "text": "Change lobsters again,",
+      "text": "\"Change lobsters again!\"",
       "para_break": true
     },
     {
       "start": 121.84,
       "end": 122.64,
-      "text": "yelled the griffon."
+      "text": "yelled the Gryphon."
     },
     {
       "start": 123.86,
       "end": 125.02,
-      "text": "Back to land again,",
+      "text": "\"Back to land again,",
       "para_break": true
     },
     {
       "start": 125.38,
       "end": 128.74,
-      "text": "and that's all the first figure,"
+      "text": "and--that's all the first figure,\""
     },
     {
       "start": 129.88,
       "end": 130.64,
-      "text": "said the mock turtle,",
-      "para_break": true
+      "text": "said the Mock Turtle,"
     },
     {
       "start": 130.8,
       "end": 132.12,
-      "text": "suddenly dropping his voice,"
+      "text": "suddenly dropping his voice;"
     },
     {
       "start": 132.24,
       "end": 134.82,
-      "text": "and the two creatures who had been jumping about"
+      "text": "and the two creatures, who had been jumping about"
     },
     {
       "start": 135.06,
@@ -387,18 +380,18 @@
     {
       "start": 142.6,
       "end": 144.18,
-      "text": "It must be a very pretty dance,",
+      "text": "\"It must be a very pretty dance,\"",
       "para_break": true
     },
     {
       "start": 144.5,
       "end": 145.72,
-      "text": "said Alice timidly."
+      "text": "said Alice, timidly."
     },
     {
       "start": 146.76,
       "end": 148.8,
-      "text": "Would you like to see a little of it?",
+      "text": "\"Would you like to see a little of it?\"",
       "para_break": true
     },
     {
@@ -409,7 +402,7 @@
     {
       "start": 151.32,
       "end": 151.9,
-      "text": "Very much indeed,",
+      "text": "\"Very much indeed,\"",
       "para_break": true
     },
     {
@@ -420,23 +413,22 @@
     {
       "start": 153.58,
       "end": 154.16,
-      "text": "Come,"
+      "text": "\"Come,"
     },
     {
       "start": 154.26,
       "end": 156.18,
-      "text": "let's try the first figure,"
+      "text": "let's try the first figure!\""
     },
     {
       "start": 156.52,
       "end": 158.34,
-      "text": "said the Mock Turtle to the griffin."
+      "text": "said the Mock Turtle to the Gryphon."
     },
     {
       "start": 159.12,
       "end": 161.32,
-      "text": "We can do it without lobsters,",
-      "para_break": true
+      "text": "\"We can do it without lobsters,"
     },
     {
       "start": 161.32,
@@ -446,19 +438,18 @@
     {
       "start": 162.656,
       "end": 163.68,
-      "text": "Which shall sing?",
-      "para_break": true
+      "text": "Which shall sing?\""
     },
     {
       "start": 165.28,
       "end": 167.8,
-      "text": "oh you sing said the griffin i've forgotten the words",
+      "text": "\"Oh, _you_ sing,\" said the Gryphon. \"I've forgotten the words.\"",
       "para_break": true
     },
     {
       "start": 169.28,
       "end": 172.44,
-      "text": "so they began solemnly dancing round and round alice",
+      "text": "So they began solemnly dancing round and round Alice,",
       "para_break": true
     },
     {
@@ -469,90 +460,88 @@
     {
       "start": 175.24,
       "end": 178.3,
-      "text": "too close and waving their forepaws to mark the time"
+      "text": "too close, and waving their forepaws to mark the time,"
     },
     {
       "start": 178.3,
       "end": 181.74,
-      "text": "while the mock turtle sang this very slowly and sadly"
+      "text": "while the Mock Turtle sang this, very slowly and sadly:--"
     },
     {
       "start": 183.26,
       "end": 187.64,
-      "text": "will you walk a little faster said a whiting to a snail",
+      "text": "\"Will you walk a little faster?\" said a whiting to a snail,",
       "para_break": true
     },
     {
       "start": 187.64,
       "end": 192.82,
-      "text": "there's a porpoise close behind us and he's treading on my tail"
+      "text": "\"There's a porpoise close behind us, and he's treading on my tail."
     },
     {
       "start": 192.82,
       "end": 197.68,
-      "text": "see how eagerly the lobsters and the turtles all advance"
+      "text": "See how eagerly the lobsters and the turtles all advance!"
     },
     {
       "start": 198.42,
       "end": 202.8,
-      "text": "they are waiting on the shingle will you come and join the dance"
+      "text": "They are waiting on the shingle--will you come and join the dance?"
     },
     {
       "start": 203.62,
       "end": 207.7,
-      "text": "will you won't you will you won't you will you join the dance",
+      "text": "Will you, won't you, will you, won't you, will you join the dance?",
       "para_break": true
     },
     {
       "start": 208.54,
       "end": 212.6,
-      "text": "will you won't you will you won't you won't you join the dance",
-      "para_break": true
+      "text": "Will you, won't you, will you, won't you, won't you join the dance?"
     },
     {
       "start": 213.56,
       "end": 217.8,
-      "text": "you really have no notion how delightful it will be",
+      "text": "\"You can really have no notion how delightful it will be,",
       "para_break": true
     },
     {
       "start": 218.38,
       "end": 222.92,
-      "text": "when they take us up and throw us with the lobsters out to sea"
+      "text": "When they take us up and throw us, with the lobsters, out to sea!\""
     },
     {
       "start": 223.68,
       "end": 228.64,
-      "text": "but the snail replied too far too far and gave a look askance",
+      "text": "But the snail replied: \"Too far, too far!\" and gave a look askance--",
       "para_break": true
     },
     {
       "start": 229.408,
       "end": 234.06,
-      "text": "said he thanked the whiting kindly but he would not join the dance",
-      "para_break": true
+      "text": "Said he thanked the whiting kindly, but he would not join the dance."
     },
     {
       "start": 234.94,
       "end": 239.24,
-      "text": "would not could not would not could not would not join the dance",
+      "text": "Would not, could not, would not, could not, would not join the dance.",
       "para_break": true
     },
     {
       "start": 239.36,
       "end": 244.4,
-      "text": "would not could not would not could not could not join the dance"
+      "text": "Would not, could not, would not, could not, could not join the dance."
     },
     {
       "start": 245.5,
       "end": 247.72,
-      "text": "What matters it how far we go,",
+      "text": "\"What matters it how far we go?\" his scaly friend replied;",
       "para_break": true
     },
     {
       "start": 247.94,
       "end": 249.52,
-      "text": "his scaly friend replied."
+      "text": "\"There is another shore, you know, upon the other side."
     }
   ]
 }

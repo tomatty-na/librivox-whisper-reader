@@ -15,7 +15,7 @@
     {
       "start": 488.94,
       "end": 490.5,
-      "text": "What can all that green stuff be?",
+      "text": "\"What _can_ all that green stuff be?\"",
       "para_break": true
     },
     {
@@ -31,8 +31,7 @@
     {
       "start": 493.74,
       "end": 493.98,
-      "text": "And oh,",
-      "para_break": true
+      "text": "And oh,"
     },
     {
       "start": 494.14,
@@ -42,7 +41,7 @@
     {
       "start": 495.02,
       "end": 496.34,
-      "text": "How is it I cannot see you?"
+      "text": "how is it I ca'n't see you?\""
     },
     {
       "start": 497.44,
@@ -53,7 +52,7 @@
     {
       "start": 499.32,
       "end": 500.08,
-      "text": "but no results"
+      "text": "but no result"
     },
     {
       "start": 500.2,
@@ -104,8 +103,7 @@
     {
       "start": 516.4,
       "end": 516.68,
-      "text": "She had",
-      "para_break": true
+      "text": "She had"
     },
     {
       "start": 516.8,
@@ -145,18 +143,18 @@
     {
       "start": 535.06,
       "end": 535.96,
-      "text": "Serpent!",
+      "text": "\"Serpent!\"",
       "para_break": true
     },
     {
       "start": 536.22,
       "end": 537.04,
-      "text": "screamed the pigeon."
+      "text": "screamed the Pigeon."
     },
     {
       "start": 537.856,
       "end": 538.82,
-      "text": "I'm not a serpent,",
+      "text": "\"I'm _not_ a serpent!\"",
       "para_break": true
     },
     {
@@ -167,12 +165,12 @@
     {
       "start": 540.62,
       "end": 541.18,
-      "text": "Let me alone."
+      "text": "\"Let me alone!\""
     },
     {
       "start": 542.33,
       "end": 542.88,
-      "text": "Serpent,",
+      "text": "\"Serpent,",
       "para_break": true
     },
     {
@@ -193,18 +191,17 @@
     {
       "start": 546.98,
       "end": 548.42,
-      "text": "and added with a kind of a sob."
+      "text": "and added with a kind of a sob,"
     },
     {
       "start": 549.32,
       "end": 552.16,
-      "text": "I've tried every way and nothing seems to suit them.",
-      "para_break": true
+      "text": "\"I've tried every way, and nothing seems to suit them!\""
     },
     {
       "start": 552.94,
       "end": 555.62,
-      "text": "I haven't the least idea what you're talking about,",
+      "text": "\"I haven't the least idea what you're talking about,",
       "para_break": true
     },
     {
@@ -215,7 +212,7 @@
     {
       "start": 557.088,
       "end": 558.36,
-      "text": "I've tried the roots of trees,",
+      "text": "\"I've tried the roots of trees,",
       "para_break": true
     },
     {
@@ -236,12 +233,12 @@
     {
       "start": 564.56,
       "end": 565.6,
-      "text": "But those serpents,"
+      "text": "but those serpents!"
     },
     {
       "start": 565.74,
       "end": 567.32,
-      "text": "there's no pleasing them."
+      "text": "There's no pleasing them!\""
     },
     {
       "start": 569.056,
@@ -262,7 +259,7 @@
     {
       "start": 576.24,
       "end": 578.56,
-      "text": "As if it wasn't trouble enough hatching the eggs,",
+      "text": "\"As if it wasn't trouble enough hatching the eggs,",
       "para_break": true
     },
     {
@@ -273,7 +270,7 @@
     {
       "start": 579.86,
       "end": 583.08,
-      "text": "but I must be on the lookout for serpents night and day."
+      "text": "but I must be on the look-out for serpents night and day!"
     },
     {
       "start": 583.54,
@@ -283,12 +280,12 @@
     {
       "start": 583.86,
       "end": 586.26,
-      "text": "I haven't had a wink of sleep these three weeks."
+      "text": "I haven't had a wink of sleep these three weeks!\""
     },
     {
       "start": 587.9,
       "end": 589.46,
-      "text": "I'm very sorry you've been annoyed,",
+      "text": "\"I'm very sorry you've been annoyed,",
       "para_break": true
     },
     {
@@ -304,7 +301,8 @@
     {
       "start": 592.256,
       "end": 594.62,
-      "text": "And just as I'd taken the highest tree in the wood,"
+      "text": "\"And just as I'd taken the highest tree in the wood,",
+      "para_break": true
     },
     {
       "start": 595.008,
@@ -324,27 +322,22 @@
     {
       "start": 601.22,
       "end": 603.44,
-      "text": "they must needs come wriggling down from the sky."
+      "text": "they must needs come wriggling down from the sky!"
     },
     {
       "start": 603.76,
       "end": 604.22,
-      "text": "I..."
-    },
-    {
-      "start": 604.22,
-      "end": 604.24,
-      "text": "ugh,"
+      "text": "Ugh"
     },
     {
       "start": 604.44,
       "end": 605.04,
-      "text": "serpent!"
+      "text": "Serpent!\""
     },
     {
       "start": 605.83,
       "end": 607.76,
-      "text": "But I'm not a serpent,",
+      "text": "\"But I'm _not_ a serpent,",
       "para_break": true
     },
     {
@@ -360,22 +353,22 @@
     {
       "start": 609.568,
       "end": 609.94,
-      "text": "I'm a..."
+      "text": "I'm a----"
     },
     {
       "start": 609.94,
       "end": 611.08,
-      "text": "I'm a..."
+      "text": "I'm a ----"
     },
     {
       "start": 611.56,
       "end": 612.06,
-      "text": "Well,"
+      "text": "\"Well!"
     },
     {
       "start": 612.2,
       "end": 612.9,
-      "text": "what are you?"
+      "text": "_What_ are you?\""
     },
     {
       "start": 613.0,
@@ -385,23 +378,23 @@
     {
       "start": 613.86,
       "end": 615.78,
-      "text": "I can see you're trying to invent something."
+      "text": "\"I can see you're trying to invent something!\""
     },
     {
       "start": 617.024,
       "end": 618.3,
-      "text": "I'm a little girl,",
+      "text": "\"I--I'm a little girl,",
       "para_break": true
     },
     {
       "start": 618.64,
       "end": 620.18,
-      "text": "said Alice rather doubtfully,"
+      "text": "said Alice, rather doubtfully,"
     },
     {
       "start": 620.34,
       "end": 621.84,
-      "text": "and she remembered the number of"
+      "text": "as she remembered the number of"
     },
     {
       "start": 621.84,
@@ -411,7 +404,7 @@
     {
       "start": 624.68,
       "end": 625.94,
-      "text": "A likely story indeed,",
+      "text": "\"A likely story indeed!\"",
       "para_break": true
     },
     {
@@ -422,13 +415,13 @@
     {
       "start": 630.1,
       "end": 632.46,
-      "text": "I've seen a good many little girls in my time,",
+      "text": "\"I've seen a good many little girls in my time,",
       "para_break": true
     },
     {
       "start": 632.58,
       "end": 634.94,
-      "text": "but never one with such a neck as that."
+      "text": "but never _one_ with such a neck as that!"
     },
     {
       "start": 635.4,
@@ -453,12 +446,12 @@
     {
       "start": 639.76,
       "end": 642.76,
-      "text": "I suppose you'll be telling me next that you never tasted an egg."
+      "text": "I suppose you'll be telling me next that you never tasted an egg!\""
     },
     {
       "start": 643.98,
       "end": 645.1,
-      "text": "I have tasted eggs,",
+      "text": "\"I _have_ tasted eggs,",
       "para_break": true
     },
     {
@@ -489,13 +482,13 @@
     {
       "start": 652.7,
       "end": 653.48,
-      "text": "I don't believe it,",
+      "text": "\"I don't believe it,",
       "para_break": true
     },
     {
       "start": 653.52,
       "end": 654.0,
-      "text": "said the pigeon."
+      "text": "said the Pigeon;"
     },
     {
       "start": 654.48,
@@ -520,7 +513,7 @@
     {
       "start": 659.58,
       "end": 662.1,
-      "text": "This was such a new idea to Alice that",
+      "text": "This was such a new idea to Alice, that",
       "para_break": true
     },
     {
@@ -536,12 +529,12 @@
     {
       "start": 667.16,
       "end": 667.94,
-      "text": "You're looking for eggs,"
+      "text": "\"You're looking for eggs,"
     },
     {
       "start": 668.12,
       "end": 669.3,
-      "text": "I know that well enough,"
+      "text": "I know _that_ well enough;"
     },
     {
       "start": 669.72,
@@ -556,7 +549,7 @@
     {
       "start": 674.32,
       "end": 675.7,
-      "text": "It matters a good deal to me,",
+      "text": "\"It matters a good deal to _me_,",
       "para_break": true
     },
     {
@@ -577,17 +570,17 @@
     {
       "start": 680.22,
       "end": 681.28,
-      "text": "I shouldn't want yours."
+      "text": "I shouldn't want _yours_:"
     },
     {
       "start": 681.58,
       "end": 682.64,
-      "text": "I don't like them raw."
+      "text": "I don't like them raw.\""
     },
     {
       "start": 684.26,
       "end": 684.68,
-      "text": "Well,",
+      "text": "\"Well,",
       "para_break": true
     },
     {
@@ -673,7 +666,7 @@
     {
       "start": 716.04,
       "end": 718.92,
-      "text": "It was so long since she had been anything near the right size",
+      "text": "It was so long since she had been anything near the right size,",
       "para_break": true
     },
     {
@@ -694,19 +687,17 @@
     {
       "start": 725.92,
       "end": 726.02,
-      "text": "Come,"
+      "text": "\"Come,"
     },
     {
       "start": 726.92,
       "end": 728.4,
-      "text": "there's half my plan done now.",
-      "para_break": true
+      "text": "there's half my plan done now!"
     },
     {
       "start": 729.22,
       "end": 730.74,
-      "text": "How puzzling all these changes are.",
-      "para_break": true
+      "text": "How puzzling all these changes are!"
     }
   ]
 }

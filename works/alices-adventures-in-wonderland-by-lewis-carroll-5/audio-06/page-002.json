@@ -109,28 +109,28 @@
     {
       "start": 287.24,
       "end": 289.8,
-      "text": "I didn't know that Cheshire Cats always grinned."
+      "text": "\"I didn't know that Cheshire cats always grinned;"
     },
     {
       "start": 289.88,
       "end": 290.6,
-      "text": "In fact,"
+      "text": "in fact,"
     },
     {
       "start": 290.66,
       "end": 292.34,
-      "text": "I didn't know that cats could grin."
+      "text": "I didn't know that cats _could_ grin.\""
     },
     {
       "start": 293.24,
       "end": 293.86,
-      "text": "They all can,",
+      "text": "\"They all can,\"",
       "para_break": true
     },
     {
       "start": 294.12,
       "end": 295.32,
-      "text": "and most of them do."
+      "text": "and most of 'em do."
     },
     {
       "start": 296.04,
@@ -150,7 +150,7 @@
     {
       "start": 302.64,
       "end": 303.54,
-      "text": "You don't know much,",
+      "text": "\"You don't know much,\"",
       "para_break": true
     },
     {
@@ -182,8 +182,7 @@
     {
       "start": 313.88,
       "end": 315.48,
-      "text": "While she was trying to fix on one,",
-      "para_break": true
+      "text": "While she was trying to fix on one,"
     },
     {
       "start": 315.64,
@@ -244,7 +243,7 @@
     {
       "start": 338.25,
       "end": 338.9,
-      "text": "Oh,",
+      "text": "\"Oh,",
       "para_break": true
     },
     {
@@ -280,7 +279,7 @@
     {
       "start": 344.24,
       "end": 345.66,
-      "text": "there goes his precious nose,"
+      "text": "there goes his _precious_ nose,"
     },
     {
       "start": 346.02,
@@ -300,7 +299,7 @@
     {
       "start": 352.26,
       "end": 354.34,
-      "text": "If everybody minded their own business,",
+      "text": "\"If everybody minded their own business,\"",
       "para_break": true
     },
     {
@@ -316,7 +315,7 @@
     {
       "start": 360.98,
       "end": 362.4,
-      "text": "Which would not be an advantage,",
+      "text": "\"Which would _not_ be an advantage,\"",
       "para_break": true
     },
     {
@@ -395,8 +394,7 @@
     {
       "start": 390.92,
       "end": 391.64,
-      "text": "Twenty-four hours,",
-      "para_break": true
+      "text": "Twenty-four hours,"
     },
     {
       "start": 391.7,
@@ -411,7 +409,7 @@
     {
       "start": 393.82,
       "end": 394.12,
-      "text": "I—"
+      "text": "I----"
     },
     {
       "start": 394.26,
@@ -452,7 +450,7 @@
     {
       "start": 409.68,
       "end": 411.44,
-      "text": "Speak roughly to your little boy,",
+      "text": "\"Speak roughly to your little boy,",
       "para_break": true
     },
     {
@@ -473,7 +471,7 @@
     {
       "start": 418.464,
       "end": 420.5,
-      "text": "Chorus in which the cook and the baby joined,",
+      "text": "CHORUS\n\n(In which the cook and the baby joined):",
       "para_break": true
     },
     {
@@ -494,7 +492,7 @@
     {
       "start": 424.28,
       "end": 426.6,
-      "text": "While the duchess sang the second verse of the song,",
+      "text": "While the Duchess sang the second verse of the song,",
       "para_break": true
     },
     {
@@ -515,7 +513,7 @@
     {
       "start": 434.36,
       "end": 436.1,
-      "text": "I speak severely to my boy,",
+      "text": "\"I speak severely to my boy,",
       "para_break": true
     },
     {
@@ -526,12 +524,12 @@
     {
       "start": 438.68,
       "end": 442.02,
-      "text": "for he can thoroughly enjoy the pepper when he pleases."
+      "text": "For he can thoroughly enjoy the pepper when he pleases."
     },
     {
       "start": 442.86,
       "end": 443.36,
-      "text": "Wow,",
+      "text": "\"Wow,",
       "para_break": true
     },
     {
@@ -542,18 +540,18 @@
     {
       "start": 443.96,
       "end": 444.2,
-      "text": "wow."
+      "text": "wow.\""
     },
     {
       "start": 445.72,
       "end": 446.22,
-      "text": "Here,",
+      "text": "\"Here!",
       "para_break": true
     },
     {
       "start": 446.42,
       "end": 448.02,
-      "text": "you may nurse it a bit if you like,"
+      "text": "you may nurse it a bit if you like!"
     },
     {
       "start": 448.34,
@@ -568,14 +566,12 @@
     {
       "start": 452.52,
       "end": 455.06,
-      "text": "I must go and get ready to play croquet with the queen.",
-      "para_break": true
+      "text": "\"I must go and get ready to play croquet with the Queen,\""
     },
     {
       "start": 456.06,
       "end": 457.4,
-      "text": "And she hurried out of the room.",
-      "para_break": true
+      "text": "And she hurried out of the room."
     },
     {
       "start": 457.82,
@@ -606,8 +602,7 @@
     {
       "start": 470.18,
       "end": 471.2,
-      "text": "Just like a starfish,",
-      "para_break": true
+      "text": "\"just like a star-fish,\""
     },
     {
       "start": 471.34,
@@ -617,8 +612,7 @@
     {
       "start": 472.64,
       "end": 474.92,
-      "text": "The poor little thing was snorting like a steam engine",
-      "para_break": true
+      "text": "The poor little thing was snorting like a steam engine"
     },
     {
       "start": 474.92,
@@ -674,7 +668,7 @@
     {
       "start": 495.16,
       "end": 496.92,
-      "text": "She carried it out into the open air."
+      "text": "she carried it out into the open air."
     }
   ]
 }

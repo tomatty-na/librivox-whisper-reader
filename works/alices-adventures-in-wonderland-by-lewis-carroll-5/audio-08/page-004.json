@@ -36,12 +36,12 @@
     {
       "start": 737.74,
       "end": 738.24,
-      "text": "the king,"
+      "text": "the King,"
     },
     {
       "start": 738.42,
       "end": 739.04,
-      "text": "and the queen,"
+      "text": "and the Queen,"
     },
     {
       "start": 739.42,
@@ -87,7 +87,7 @@
     {
       "start": 758.08,
       "end": 760.8,
-      "text": "The executioner's argument was that you couldn't",
+      "text": "The executioner's argument was, that you couldn't",
       "para_break": true
     },
     {
@@ -98,7 +98,7 @@
     {
       "start": 763.2,
       "end": 763.62,
-      "text": "off from,"
+      "text": "off from:"
     },
     {
       "start": 763.8,
@@ -113,12 +113,12 @@
     {
       "start": 768.14,
       "end": 769.02,
-      "text": "his time of life."
+      "text": "_his_ time of life."
     },
     {
       "start": 769.86,
       "end": 771.72,
-      "text": "The king's argument was that anything",
+      "text": "The King's argument was, that anything",
       "para_break": true
     },
     {
@@ -134,7 +134,7 @@
     {
       "start": 776.68,
       "end": 779.58,
-      "text": "The queen's argument was that if something wasn't done about",
+      "text": "The Queen's argument was, that if something wasn't done about",
       "para_break": true
     },
     {
@@ -150,13 +150,12 @@
     {
       "start": 784.08,
       "end": 785.52,
-      "text": "It was this last remark that",
-      "para_break": true
+      "text": "(It was this last remark that"
     },
     {
       "start": 785.52,
       "end": 787.76,
-      "text": "had made the whole party look so grave and anxious."
+      "text": "had made the whole party look so grave and anxious.)"
     },
     {
       "start": 788.768,
@@ -167,40 +166,39 @@
     {
       "start": 790.76,
       "end": 792.5,
-      "text": "but it belongs to the duchess."
+      "text": "but \"It belongs to the Duchess:"
     },
     {
       "start": 792.54,
       "end": 793.94,
-      "text": "You'd better ask her about it."
+      "text": "you'd better ask _her_ about it.\""
     },
     {
       "start": 795.712,
       "end": 798.2,
-      "text": "\"'She's in prison,' the queen said to the executioner.",
+      "text": "She's in prison, the Queen said to the executioner.",
       "para_break": true
     },
     {
       "start": 798.688,
       "end": 799.22,
-      "text": "\"'Fetch her here!'"
+      "text": "Fetch her here!"
     },
     {
       "start": 800.08,
       "end": 802.26,
-      "text": "And the executioner went off like an arrow.",
-      "para_break": true
+      "text": "And the executioner went off like an arrow."
     },
     {
       "start": 802.88,
       "end": 805.9,
-      "text": "The cat's head began fading away the moment he was gone,",
+      "text": "The Cat's head began fading away the moment he was gone,",
       "para_break": true
     },
     {
       "start": 806.24,
       "end": 808.68,
-      "text": "and by the time he had come back with the duchess,"
+      "text": "and by the time he had come back with the Duchess,"
     },
     {
       "start": 808.72,
@@ -210,8 +208,7 @@
     {
       "start": 810.84,
       "end": 812.62,
-      "text": "So the king and the executioner ran",
-      "para_break": true
+      "text": "So the King and the executioner ran"
     },
     {
       "start": 812.62,

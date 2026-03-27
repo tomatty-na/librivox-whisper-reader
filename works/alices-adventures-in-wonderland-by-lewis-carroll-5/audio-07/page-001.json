@@ -36,7 +36,7 @@
     {
       "start": 9.6,
       "end": 10.9,
-      "text": "A MAD TEA PARTY",
+      "text": "A MAD TEA-PARTY",
       "para_break": true
     },
     {
@@ -88,8 +88,7 @@
     {
       "start": 28.608,
       "end": 30.34,
-      "text": "Very uncomfortable for the dormouse,",
-      "para_break": true
+      "text": "Very uncomfortable for the Dormouse,"
     },
     {
       "start": 30.46,
@@ -109,7 +108,8 @@
     {
       "start": 34.46,
       "end": 36.18,
-      "text": "The table was a large one,"
+      "text": "The table was a large one,",
+      "para_break": true
     },
     {
       "start": 36.34,
@@ -119,12 +119,12 @@
     {
       "start": 40.06,
       "end": 40.48,
-      "text": "No room,"
+      "text": "No room!"
     },
     {
       "start": 40.64,
       "end": 41.14,
-      "text": "no room,"
+      "text": "No room!"
     },
     {
       "start": 41.34,
@@ -134,7 +134,7 @@
     {
       "start": 44.32,
       "end": 45.32,
-      "text": "There's plenty of room,",
+      "text": "\"There's _plenty_ of room!\"",
       "para_break": true
     },
     {
@@ -145,12 +145,12 @@
     {
       "start": 46.74,
       "end": 50.26,
-      "text": "and she sat down in a large armchair at one end of the table."
+      "text": "and she sat down in a large arm-chair at one end of the table."
     },
     {
       "start": 52.576,
       "end": 53.32,
-      "text": "Have some wine,",
+      "text": "\"Have some wine,\"",
       "para_break": true
     },
     {
@@ -172,7 +172,7 @@
     {
       "start": 61.22,
       "end": 62.2,
-      "text": "I don't see any wine,",
+      "text": "\"I don't see any wine,\"",
       "para_break": true
     },
     {
@@ -183,7 +183,7 @@
     {
       "start": 63.78,
       "end": 64.5,
-      "text": "There isn't any,",
+      "text": "\"There isn't any,\"",
       "para_break": true
     },
     {
@@ -194,7 +194,7 @@
     {
       "start": 66.56,
       "end": 68.68,
-      "text": "Then it wasn't very civil of you to offer it,",
+      "text": "\"Then it wasn't very civil of you to offer it,\"",
       "para_break": true
     },
     {
@@ -205,7 +205,7 @@
     {
       "start": 71.14,
       "end": 74.08,
-      "text": "It wasn't very civil of you to sit down without being invited,",
+      "text": "\"It wasn't very civil of you to sit down without being invited,\"",
       "para_break": true
     },
     {
@@ -216,23 +216,23 @@
     {
       "start": 76.66,
       "end": 78.34,
-      "text": "I didn't know it was your table,",
+      "text": "\"I didn't know it was _your_ table,\"",
       "para_break": true
     },
     {
       "start": 78.52,
       "end": 79.02,
-      "text": "said Alice."
+      "text": "said Alice;"
     },
     {
       "start": 79.456,
       "end": 81.2,
-      "text": "It's laid for a great many more than three."
+      "text": "\"it's laid for a great many more than three.\""
     },
     {
       "start": 82.72,
       "end": 83.96,
-      "text": "Your hair wants cutting,",
+      "text": "\"Your hair wants cutting,\"",
       "para_break": true
     },
     {
@@ -253,45 +253,45 @@
     {
       "start": 92.14,
       "end": 93.88,
-      "text": "You should learn not to make personal remarks,",
+      "text": "\"You should learn not to make personal remarks,\"",
       "para_break": true
     },
     {
       "start": 94.28,
       "end": 95.54,
-      "text": "Alice said with some severity."
+      "text": "Alice said with some severity;"
     },
     {
       "start": 96.1,
       "end": 96.74,
-      "text": "It's very rude."
+      "text": "\"it's very rude.\""
     },
     {
       "start": 97.9,
       "end": 100.8,
-      "text": "The Hatter opened his eyes very wide on hearing this,",
+      "text": "The Hatter opened his eyes very wide on hearing this;",
       "para_break": true
     },
     {
       "start": 100.86,
       "end": 102.62,
-      "text": "but all he said was,"
+      "text": "but all he _said_ was"
     },
     {
       "start": 103.2,
       "end": 105.32,
-      "text": "Why is a raven like a writing desk?"
+      "text": "\"Why is a raven like a writing-desk?\""
     },
     {
       "start": 106.6,
       "end": 106.84,
-      "text": "Come,",
+      "text": "\"Come,",
       "para_break": true
     },
     {
       "start": 107.04,
       "end": 108.16,
-      "text": "we shall have some fun now,"
+      "text": "we shall have some fun now!\""
     },
     {
       "start": 108.24,
@@ -301,13 +301,12 @@
     {
       "start": 109.3,
       "end": 110.82,
-      "text": "I'm glad they've begun asking riddles."
+      "text": "\"I'm glad they've begun asking riddles.--"
     },
     {
       "start": 112.0,
       "end": 113.14,
-      "text": "I believe I can guess that,",
-      "para_break": true
+      "text": "I believe I can guess that,\""
     },
     {
       "start": 113.22,
@@ -317,110 +316,110 @@
     {
       "start": 114.9,
       "end": 117.04,
-      "text": "\"'Do you mean that you think you can find",
+      "text": "\"Do you mean that you think you can find",
       "para_break": true
     },
     {
       "start": 117.04,
       "end": 119.0,
-      "text": "out the answer to it?' said the March Hare."
+      "text": "out the answer to it?\" said the March Hare."
     },
     {
       "start": 119.776,
       "end": 121.06,
-      "text": "\"'Exactly so,' said Alice.",
+      "text": "\"Exactly so,\" said Alice.",
       "para_break": true
     },
     {
       "start": 122.56,
       "end": 125.38,
-      "text": "\"'Then you should say what you mean,' the March Hare went on.",
+      "text": "\"Then you should say what you mean,\" the March Hare went on.",
       "para_break": true
     },
     {
       "start": 126.54,
       "end": 128.18,
-      "text": "\"'I do,' Alice hastily replied.",
+      "text": "\"I do,\" Alice hastily replied;",
       "para_break": true
     },
     {
       "start": 128.68,
       "end": 130.86,
-      "text": "\"'At least—at least I mean what I say."
+      "text": "\"at least--at least I mean what I say"
     },
     {
       "start": 131.0,
       "end": 132.576,
-      "text": "That's the same thing you know.'"
+      "text": "--that's the same thing, you know.\""
     },
     {
       "start": 133.696,
       "end": 135.72,
-      "text": "\"'Not the same thing a bit,' said the Hatter.",
+      "text": "\"Not the same thing a bit!\" said the Hatter.",
       "para_break": true
     },
     {
       "start": 136.08,
       "end": 136.36,
-      "text": "\"'Why,"
+      "text": "\"Why,"
     },
     {
       "start": 136.42,
       "end": 138.84,
-      "text": "you might just as well say that I see what I"
+      "text": "you might just as well say that 'I see what I"
     },
     {
       "start": 138.84,
       "end": 141.94,
-      "text": "eat is the same thing as I eat what I see.'"
+      "text": "eat' is the same thing as 'I eat what I see'!\""
     },
     {
       "start": 142.74,
       "end": 145.12,
-      "text": "\"'You might just as well say,' added the March Hare,",
+      "text": "\"You might just as well say,\" added the March Hare,",
       "para_break": true
     },
     {
       "start": 145.66,
       "end": 149.38,
-      "text": "\"'that I like what I get is the same thing as I get what I like.'"
+      "text": "\"that 'I like what I get' is the same thing as 'I get what I like'!\""
     },
     {
       "start": 150.368,
       "end": 153.26,
-      "text": "\"'You might just as well say,' added the Dormouse,",
+      "text": "\"You might just as well say,\" added the Dormouse,",
       "para_break": true
     },
     {
       "start": 153.4,
       "end": 155.32,
-      "text": "\"'which seemed to be talking in his sleep,"
+      "text": "which seemed to be talking in his sleep,"
     },
     {
       "start": 156.0,
       "end": 157.9,
-      "text": "\"'that I breathe when I sleep is the"
+      "text": "\"that 'I breathe when I sleep' is the"
     },
     {
       "start": 157.9,
       "end": 160.704,
-      "text": "same thing as I sleep when I breathe.'"
+      "text": "same thing as 'I sleep when I breathe'!\""
     },
     {
       "start": 162.52,
       "end": 164.92,
-      "text": "\"'It is the same thing with you,' said the Hatter,",
+      "text": "\"It _is_ the same thing with you,\" said the Hatter;",
       "para_break": true
     },
     {
       "start": 165.6,
       "end": 167.26,
-      "text": "\"'and here the conversation dropped,"
+      "text": "and here the conversation dropped,"
     },
     {
       "start": 167.64,
       "end": 169.46,
-      "text": "\"'and the party sat silent for a minute,"
+      "text": "and the party sat silent for a minute,"
     },
     {
       "start": 169.66,
@@ -430,7 +429,7 @@
     {
       "start": 171.56,
       "end": 173.48,
-      "text": "remember about ravens and writing desks,"
+      "text": "remember about ravens and writing-desks,"
     },
     {
       "start": 173.92,
@@ -446,7 +445,7 @@
     {
       "start": 178.66,
       "end": 180.0,
-      "text": "What day of the month is it?"
+      "text": "\"What day of the month is it?\""
     },
     {
       "start": 180.1,
@@ -456,39 +455,38 @@
     {
       "start": 180.72,
       "end": 181.46,
-      "text": "turning to Alice."
+      "text": "turning to Alice:"
     },
     {
       "start": 182.66,
       "end": 184.46,
-      "text": "He had taken his watch out of his",
-      "para_break": true
+      "text": "he had taken his watch out of his"
     },
     {
       "start": 184.46,
       "end": 186.43,
-      "text": "pocket and was looking at it uneasily,"
+      "text": "pocket, and was looking at it uneasily,"
     },
     {
       "start": 186.8,
       "end": 189.32,
-      "text": "shaking it every now and then and holding it to his ear."
+      "text": "shaking it every now and then, and holding it to his ear."
     },
     {
       "start": 191.104,
       "end": 192.9,
-      "text": "Alice considered a little and then said,",
+      "text": "Alice considered a little, and then said",
       "para_break": true
     },
     {
       "start": 193.38,
       "end": 193.74,
-      "text": "The fourth."
+      "text": "\"The fourth.\""
     },
     {
       "start": 194.944,
       "end": 195.8,
-      "text": "Two days wrong,",
+      "text": "\"Two days wrong!\"",
       "para_break": true
     },
     {
@@ -499,7 +497,7 @@
     {
       "start": 197.1,
       "end": 199.1,
-      "text": "I told you butter would not suit the works."
+      "text": "\"I told you butter would not suit the works!\""
     },
     {
       "start": 199.58,
@@ -514,7 +512,7 @@
     {
       "start": 202.38,
       "end": 203.78,
-      "text": "It was the best butter,",
+      "text": "\"It was the _best_ butter,\"",
       "para_break": true
     },
     {
@@ -525,34 +523,34 @@
     {
       "start": 206.42,
       "end": 206.74,
-      "text": "Yes,",
+      "text": "\"Yes,",
       "para_break": true
     },
     {
       "start": 206.8,
       "end": 208.74,
-      "text": "but some crumbs must have got in as well,"
+      "text": "but some crumbs must have got in as well,\""
     },
     {
       "start": 208.98,
       "end": 209.74,
-      "text": "the Hatter grumbled."
+      "text": "the Hatter grumbled:"
     },
     {
       "start": 210.22,
       "end": 212.02,
-      "text": "You shouldn't have put it in with the bread knife."
+      "text": "\"you shouldn't have put it in with the bread-knife.\""
     },
     {
       "start": 213.82,
       "end": 216.24,
-      "text": "The March Hare took the watch and looked at it gloomily.",
+      "text": "The March Hare took the watch and looked at it gloomily:",
       "para_break": true
     },
     {
       "start": 216.84,
       "end": 219.78,
-      "text": "Then he dipped it into his cup of tea and looked at it again,"
+      "text": "then he dipped it into his cup of tea, and looked at it again:"
     },
     {
       "start": 220.3,
@@ -562,12 +560,12 @@
     {
       "start": 223.56,
       "end": 224.94,
-      "text": "It was the best butter,"
+      "text": "\"It was the _best_ butter,"
     },
     {
       "start": 225.02,
       "end": 225.3,
-      "text": "you know."
+      "text": "you know.\""
     },
     {
       "start": 226.592,
@@ -578,7 +576,7 @@
     {
       "start": 229.58,
       "end": 231.36,
-      "text": "What a funny watch,"
+      "text": "\"What a funny watch!\""
     },
     {
       "start": 231.64,
@@ -588,12 +586,12 @@
     {
       "start": 232.54,
       "end": 235.58,
-      "text": "It tells the day of the month and doesn't tell what o'clock it is."
+      "text": "\"It tells the day of the month, and doesn't tell what o'clock it is!\""
     },
     {
       "start": 237.08,
       "end": 237.86,
-      "text": "Why shouldn't it,",
+      "text": "\"Why should it?\"",
       "para_break": true
     },
     {
@@ -604,7 +602,7 @@
     {
       "start": 239.22,
       "end": 241.36,
-      "text": "Does your watch tell you what year it is?"
+      "text": "\"Does _your_ watch tell you what year it is?\""
     }
   ]
 }

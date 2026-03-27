@@ -15,22 +15,23 @@
     {
       "start": 244.6,
       "end": 246.34,
-      "text": "By the use of this ointment,"
+      "text": "By the use of this ointment--"
     },
     {
       "start": 246.42,
       "end": 247.44,
-      "text": "one shilling the box,"
+      "text": "one shilling the box--"
     },
     {
       "start": 247.72,
       "end": 249.32,
-      "text": "allow me to sell you a couple."
+      "text": "Allow me to sell you a couple?\""
     },
     {
       "start": 250.02,
       "end": 250.7,
-      "text": "You are old,"
+      "text": "\"You are old,",
+      "para_break": true
     },
     {
       "start": 250.84,
@@ -40,12 +41,12 @@
     {
       "start": 251.54,
       "end": 254.68,
-      "text": "and your jaws are too weak for anything tougher than suet."
+      "text": "and your jaws are too weak for anything tougher than suet;"
     },
     {
       "start": 255.34,
       "end": 257.84,
-      "text": "Yet you finished the goose with the bones and the beak."
+      "text": "Yet you finished the goose, with the bones and the beak--"
     },
     {
       "start": 258.02,
@@ -55,12 +56,13 @@
     {
       "start": 258.48,
       "end": 260.02,
-      "text": "how did you manage to do it?"
+      "text": "how did you manage to do it?\""
     },
     {
       "start": 260.72,
       "end": 261.26,
-      "text": "In my youth,"
+      "text": "\"In my youth,",
+      "para_break": true
     },
     {
       "start": 261.34,
@@ -80,8 +82,7 @@
     {
       "start": 266.12,
       "end": 267.86,
-      "text": "And the muscular strength which it gave",
-      "para_break": true
+      "text": "And the muscular strength, which it gave"
     },
     {
       "start": 267.86,
@@ -91,32 +92,33 @@
     {
       "start": 270.98,
       "end": 272.08,
-      "text": "You are old,"
+      "text": "\"You are old,",
+      "para_break": true
     },
     {
       "start": 272.2,
       "end": 272.8,
-      "text": "said the youth"
+      "text": "said the youth,"
     },
     {
       "start": 272.8,
       "end": 276.0,
-      "text": "One would hardly suppose that your eye was as steady as ever"
+      "text": "one would hardly suppose that your eye was as steady as ever;"
     },
     {
       "start": 276.24,
       "end": 278.88,
-      "text": "Yet you balanced an eel on the end of your nose"
+      "text": "Yet you balanced an eel on the end of your nose--"
     },
     {
       "start": 279.18,
       "end": 280.8,
-      "text": "What made you so awfully clever?"
+      "text": "What made you so awfully clever?\""
     },
     {
       "start": 281.6,
       "end": 283.32,
-      "text": "I have answered three questions,",
+      "text": "\"I have answered three questions,",
       "para_break": true
     },
     {
@@ -127,12 +129,12 @@
     {
       "start": 284.56,
       "end": 285.34,
-      "text": "said his father"
+      "text": "Said his father;"
     },
     {
       "start": 285.52,
       "end": 286.86,
-      "text": "Don't give yourself airs"
+      "text": "\"don't give yourself airs!"
     },
     {
       "start": 287.44,
@@ -147,23 +149,23 @@
     {
       "start": 290.66,
       "end": 291.64,
-      "text": "or I'll kick you downstairs"
+      "text": "or I'll kick you down stairs!\""
     },
     {
       "start": 294.5,
       "end": 295.78,
-      "text": "That is not said right,",
+      "text": "\"That is not said right,",
       "para_break": true
     },
     {
       "start": 296.04,
       "end": 297.06,
-      "text": "said the caterpillar"
+      "text": "said the Caterpillar."
     },
     {
       "start": 297.96,
       "end": 298.82,
-      "text": "Not quite right,",
+      "text": "\"Not _quite_ right,",
       "para_break": true
     },
     {
@@ -184,7 +186,7 @@
     {
       "start": 303.54,
       "end": 305.98,
-      "text": "It is wrong from beginning to end,",
+      "text": "said the Caterpillar decidedly,",
       "para_break": true
     },
     {
@@ -200,13 +202,13 @@
     {
       "start": 311.44,
       "end": 313.76,
-      "text": "The caterpillar was the first to speak.",
+      "text": "The Caterpillar was the first to speak.",
       "para_break": true
     },
     {
       "start": 314.76,
       "end": 316.62,
-      "text": "What size do you want to be?",
+      "text": "\"What size do you want to be?\"",
       "para_break": true
     },
     {
@@ -217,7 +219,7 @@
     {
       "start": 318.34,
       "end": 319.14,
-      "text": "Oh,",
+      "text": "\"Oh,",
       "para_break": true
     },
     {
@@ -233,8 +235,7 @@
     {
       "start": 323.2,
       "end": 325.58,
-      "text": "Only one doesn't like changing so often,",
-      "para_break": true
+      "text": "only one doesn't like changing so often,"
     },
     {
       "start": 325.66,
@@ -244,24 +245,24 @@
     {
       "start": 327.36,
       "end": 328.3,
-      "text": "I don't know,",
+      "text": "\"I _don't_ know,",
       "para_break": true
     },
     {
       "start": 328.62,
       "end": 329.7,
-      "text": "said the caterpillar."
+      "text": "said the Caterpillar."
     },
     {
       "start": 332.1,
       "end": 332.88,
-      "text": "Alice said nothing.",
+      "text": "Alice said nothing:",
       "para_break": true
     },
     {
       "start": 333.42,
       "end": 336.5,
-      "text": "She had never been so much contradicted in all her life before,"
+      "text": "she had never been so much contradicted in all her life before,"
     },
     {
       "start": 336.66,
@@ -271,7 +272,7 @@
     {
       "start": 341.3,
       "end": 343.44,
-      "text": "Are you content now,",
+      "text": "\"Are you content now?\"",
       "para_break": true
     },
     {
@@ -282,13 +283,13 @@
     {
       "start": 345.89,
       "end": 346.44,
-      "text": "Well,",
+      "text": "\"Well,",
       "para_break": true
     },
     {
       "start": 346.5,
       "end": 348.14,
-      "text": "I should like to be a little larger,"
+      "text": "I should like to be a _little_ larger,"
     },
     {
       "start": 348.2,
@@ -313,34 +314,33 @@
     {
       "start": 353.68,
       "end": 355.92,
-      "text": "It is a very good height indeed.",
+      "text": "\"It is a very good height indeed!\"",
       "para_break": true
     },
     {
       "start": 357.3,
       "end": 358.78,
-      "text": "said the caterpillar angrily,",
-      "para_break": true
+      "text": "said the Caterpillar angrily,"
     },
     {
       "start": 358.78,
       "end": 360.94,
-      "text": "rearing itself upright as it spoke."
+      "text": "rearing itself upright as it spoke"
     },
     {
       "start": 361.38,
       "end": 362.92,
-      "text": "It was exactly three inches"
+      "text": "(it was exactly three inches"
     },
     {
       "start": 363.06,
       "end": 363.18,
-      "text": "high."
+      "text": "high)."
     },
     {
       "start": 364.64,
       "end": 365.98,
-      "text": "But I'm not used to it,",
+      "text": "\"But I'm not used to it!\"",
       "para_break": true
     },
     {
@@ -351,24 +351,23 @@
     {
       "start": 368.8,
       "end": 369.72,
-      "text": "and she thought to herself,",
-      "para_break": true
+      "text": "and she thought to herself,"
     },
     {
       "start": 370.12,
       "end": 372.94,
-      "text": "I wish the creatures wouldn't be so easily offended."
+      "text": "\"I wish the creatures wouldn't be so easily offended!\""
     },
     {
       "start": 374.432,
       "end": 376.08,
-      "text": "You'll get used to it in time,",
+      "text": "\"You'll get used to it in time,",
       "para_break": true
     },
     {
       "start": 376.36,
       "end": 377.38,
-      "text": "said the caterpillar,"
+      "text": "said the Caterpillar,"
     },
     {
       "start": 377.52,
@@ -389,12 +388,12 @@
     {
       "start": 385.99,
       "end": 389.02,
-      "text": "In a minute or two the caterpillar took the hookah out"
+      "text": "In a minute or two the Caterpillar took the hookah out"
     },
     {
       "start": 389.02,
       "end": 391.78,
-      "text": "of its mouth and yawned once or twice and shook itself."
+      "text": "of its mouth and yawned once or twice, and shook itself."
     },
     {
       "start": 392.8,
@@ -410,7 +409,7 @@
     {
       "start": 398.5,
       "end": 400.58,
-      "text": "One side will make you grow taller,",
+      "text": "\"One side will make you grow taller,",
       "para_break": true
     },
     {
@@ -421,14 +420,13 @@
     {
       "start": 405.46,
       "end": 406.14,
-      "text": "One side of what?",
+      "text": "\"One side of _what_?\"",
       "para_break": true
     },
     {
       "start": 407.16,
       "end": 408.04,
-      "text": "The other side of what,",
-      "para_break": true
+      "text": "\"The other side of _what_?\""
     },
     {
       "start": 408.12,
@@ -438,13 +436,13 @@
     {
       "start": 410.144,
       "end": 411.02,
-      "text": "Of the mushroom,",
+      "text": "\"Of the mushroom,",
       "para_break": true
     },
     {
       "start": 411.54,
       "end": 412.7,
-      "text": "said the caterpillar,"
+      "text": "said the Caterpillar,"
     },
     {
       "start": 412.8,
@@ -505,7 +503,7 @@
     {
       "start": 437.48,
       "end": 438.4,
-      "text": "And now which is which?",
+      "text": "\"And now which is which?\"",
       "para_break": true
     },
     {
@@ -526,18 +524,17 @@
     {
       "start": 443.78,
       "end": 444.8,
-      "text": "The next moment she felt",
-      "para_break": true
+      "text": "the next moment she felt"
     },
     {
       "start": 444.8,
       "end": 446.5,
-      "text": "a violent blow underneath her chin."
+      "text": "a violent blow underneath her chin:"
     },
     {
       "start": 446.68,
       "end": 447.98,
-      "text": "It had struck her foot."
+      "text": "it had struck her foot!"
     },
     {
       "start": 449.3,

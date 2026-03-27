@@ -15,18 +15,18 @@
     {
       "start": 8.96,
       "end": 10.04,
-      "text": "CHAPTER VI."
+      "text": "CHAPTER VI"
     },
     {
       "start": 10.04,
       "end": 10.5,
-      "text": "FOR"
+      "text": "FOR",
+      "para_break": true
     },
     {
       "start": 11.584,
       "end": 13.46,
-      "text": "A MINUTE OR TWO SHE STOOD LOOKING AT",
-      "para_break": true
+      "text": "A MINUTE OR TWO SHE STOOD LOOKING AT"
     },
     {
       "start": 13.46,
@@ -61,14 +61,12 @@
     {
       "start": 27.296,
       "end": 29.42,
-      "text": "and rapped loudly at the door with his knuckles.",
-      "para_break": true
+      "text": "and rapped loudly at the door with his knuckles."
     },
     {
       "start": 30.28,
       "end": 32.78,
-      "text": "It was opened by another footman in livery with",
-      "para_break": true
+      "text": "It was opened by another footman in livery with"
     },
     {
       "start": 32.9,
@@ -98,8 +96,7 @@
     {
       "start": 40.76,
       "end": 42.94,
-      "text": "She felt very curious to know what it was all about,",
-      "para_break": true
+      "text": "She felt very curious to know what it was all about,"
     },
     {
       "start": 43.16,
@@ -109,7 +106,7 @@
     {
       "start": 46.56,
       "end": 48.98,
-      "text": "The fish-footman began by producing from under",
+      "text": "The Fish-Footman began by producing from under",
       "para_break": true
     },
     {
@@ -130,7 +127,7 @@
     {
       "start": 54.62,
       "end": 55.88,
-      "text": "saying in a solemn tone,"
+      "text": "saying, in a solemn tone,"
     },
     {
       "start": 56.38,
@@ -145,7 +142,7 @@
     {
       "start": 60.9,
       "end": 64.06,
-      "text": "The frog-foot men repeated in the same solemn tone,",
+      "text": "The Frog-Footman repeated in the same solemn tone,",
       "para_break": true
     },
     {
@@ -156,8 +153,7 @@
     {
       "start": 67.63,
       "end": 68.78,
-      "text": "From the Queen,",
-      "para_break": true
+      "text": "From the Queen,"
     },
     {
       "start": 69.06,
@@ -210,14 +206,13 @@
     {
       "start": 96.032,
       "end": 99.74,
-      "text": "There's no use in knocking said the footman and that for two reasons.",
+      "text": "\"There's no use in knocking,\" said the Footman, \"and that for two reasons.",
       "para_break": true
     },
     {
       "start": 100.7,
       "end": 102.2,
-      "text": "First because I'm on the",
-      "para_break": true
+      "text": "First because I'm on the"
     },
     {
       "start": 102.2,
@@ -227,7 +222,7 @@
     {
       "start": 103.9,
       "end": 106.82,
-      "text": "Secondly because they're making such a noise inside"
+      "text": "secondly, because they're making such a noise inside"
     },
     {
       "start": 107.18,
@@ -237,8 +232,7 @@
     {
       "start": 109.92,
       "end": 112.76,
-      "text": "And certainly there was a most extraordinary noise going on",
-      "para_break": true
+      "text": "And certainly there was a most extraordinary noise going on"
     },
     {
       "start": 112.84,
@@ -268,7 +262,7 @@
     {
       "start": 121.376,
       "end": 121.8,
-      "text": "Please then,",
+      "text": "\"Please, then,\"",
       "para_break": true
     },
     {
@@ -284,7 +278,7 @@
     {
       "start": 125.02,
       "end": 126.36,
-      "text": "There might be some sense in",
+      "text": "\"There might be some sense in",
       "para_break": true
     },
     {
@@ -300,7 +294,7 @@
     {
       "start": 129.66,
       "end": 131.18,
-      "text": "if we have the door between us."
+      "text": "if we had the door between us."
     },
     {
       "start": 131.38,
@@ -310,7 +304,7 @@
     {
       "start": 132.4,
       "end": 133.24,
-      "text": "if you were inside,"
+      "text": "if you were _inside_,"
     },
     {
       "start": 133.56,
@@ -330,8 +324,7 @@
     {
       "start": 137.02,
       "end": 139.58,
-      "text": "He was looking up into the sky all the time he was speaking,",
-      "para_break": true
+      "text": "He was looking up into the sky all the time he was speaking,"
     },
     {
       "start": 139.82,
@@ -346,8 +339,7 @@
     {
       "start": 143.328,
       "end": 144.6,
-      "text": "But perhaps he can't help it,",
-      "para_break": true
+      "text": "But perhaps he can't help it,"
     },
     {
       "start": 144.66,
@@ -357,13 +349,12 @@
     {
       "start": 145.98,
       "end": 148.42,
-      "text": "His eyes are so very nearly at the top of his head."
+      "text": "his eyes are so _very_ nearly at the top of his head."
     },
     {
       "start": 149.16,
       "end": 149.92,
-      "text": "But at any rate,",
-      "para_break": true
+      "text": "But at any rate,"
     },
     {
       "start": 149.98,
@@ -373,8 +364,7 @@
     {
       "start": 152.08,
       "end": 153.0,
-      "text": "How am I to get in?",
-      "para_break": true
+      "text": "How am I to get in?"
     },
     {
       "start": 153.18,
@@ -395,12 +385,13 @@
     {
       "start": 157.3,
       "end": 158.38,
-      "text": "till tomorrow."
+      "text": "till to-morrow----"
     },
     {
       "start": 158.96,
       "end": 162.12,
-      "text": "At this moment the door of the house opened and a large"
+      "text": "At this moment the door of the house opened and a large",
+      "para_break": true
     },
     {
       "start": 162.12,
@@ -420,8 +411,7 @@
     {
       "start": 170.1,
       "end": 171.0,
-      "text": "All next day,",
-      "para_break": true
+      "text": "\"----or next day, maybe,\""
     },
     {
       "start": 171.16,
@@ -441,7 +431,7 @@
     {
       "start": 177.216,
       "end": 178.44,
-      "text": "How am I to get in?",
+      "text": "\"How am I to get in?\"",
       "para_break": true
     },
     {
@@ -452,7 +442,7 @@
     {
       "start": 181.78,
       "end": 183.42,
-      "text": "Are you to get in at all?",
+      "text": "\"_Are_ you to get in at all?\"",
       "para_break": true
     },
     {
@@ -489,7 +479,7 @@
     {
       "start": 191.936,
       "end": 192.88,
-      "text": "It's really dreadful,",
+      "text": "\"It's really dreadful,\"",
       "para_break": true
     },
     {
@@ -521,7 +511,7 @@
     {
       "start": 203.56,
       "end": 204.74,
-      "text": "I shall sit here,"
+      "text": "\"I shall sit here,\""
     },
     {
       "start": 205.0,
@@ -536,7 +526,7 @@
     {
       "start": 209.32,
       "end": 210.24,
-      "text": "But what am I to do,",
+      "text": "\"But what am _I_ to do?\"",
       "para_break": true
     },
     {
@@ -547,7 +537,7 @@
     {
       "start": 212.544,
       "end": 213.52,
-      "text": "Anything you like,",
+      "text": "\"Anything you like,\"",
       "para_break": true
     },
     {
@@ -563,7 +553,7 @@
     {
       "start": 216.58,
       "end": 216.68,
-      "text": "\"'Oh,",
+      "text": "\"Oh,",
       "para_break": true
     },
     {
@@ -574,7 +564,7 @@
     {
       "start": 220.18,
       "end": 221.62,
-      "text": "\"'He's perfectly idiotic.'"
+      "text": "\"He's perfectly idiotic!\""
     },
     {
       "start": 221.82,
@@ -615,13 +605,13 @@
     {
       "start": 239.12,
       "end": 240.24,
-      "text": "\"'There's certainly too much pepper",
+      "text": "\"There's certainly too much pepper",
       "para_break": true
     },
     {
       "start": 240.24,
       "end": 241.82,
-      "text": "in that soup,' Alice said to herself,"
+      "text": "in that soup!\" Alice said to herself,"
     },
     {
       "start": 242.02,
@@ -637,7 +627,7 @@
     {
       "start": 246.74,
       "end": 248.52,
-      "text": "Even the duchess sneezed occasionally,"
+      "text": "Even the Duchess sneezed occasionally;"
     },
     {
       "start": 249.06,

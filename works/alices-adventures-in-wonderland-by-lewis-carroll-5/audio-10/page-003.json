@@ -26,7 +26,7 @@
     {
       "start": 499.46,
       "end": 501.7,
-      "text": "You are old Father William to the caterpillar,"
+      "text": "\"_You are old, Father William_,\" to the Caterpillar,"
     },
     {
       "start": 501.76,
@@ -36,50 +36,50 @@
     {
       "start": 503.86,
       "end": 506.08,
-      "text": "and then the mock turtle drew a long breath and said"
+      "text": "and then the Mock Turtle drew a long breath, and said,"
     },
     {
       "start": 506.944,
       "end": 508.34,
-      "text": "That's very curious.",
+      "text": "\"That's very curious.\"",
       "para_break": true
     },
     {
       "start": 509.56,
       "end": 511.4,
-      "text": "It's all about as curious as it can be,",
+      "text": "\"It's all about as curious as it can be,\"",
       "para_break": true
     },
     {
       "start": 511.58,
       "end": 512.28,
-      "text": "said the griffon."
+      "text": "said the Gryphon."
     },
     {
       "start": 513.38,
       "end": 515.0,
-      "text": "It all came different,",
+      "text": "\"It all came different!\"",
       "para_break": true
     },
     {
       "start": 515.42,
       "end": 517.28,
-      "text": "the mock turtle repeated thoughtfully."
+      "text": "the Mock Turtle repeated thoughtfully."
     },
     {
       "start": 517.76,
       "end": 520.56,
-      "text": "I should like to hear her repeat something now."
+      "text": "\"I should like to hear her repeat something now."
     },
     {
       "start": 521.26,
       "end": 522.2,
-      "text": "Tell her to begin."
+      "text": "Tell her to begin.\""
     },
     {
       "start": 522.92,
       "end": 525.26,
-      "text": "He looked at the griffon as if he thought"
+      "text": "He looked at the Gryphon as if he thought"
     },
     {
       "start": 525.26,
@@ -89,29 +89,30 @@
     {
       "start": 529.152,
       "end": 530.06,
-      "text": "Stand up and repeat.",
+      "text": "\"Stand up and repeat",
       "para_break": true
     },
     {
       "start": 530.528,
       "end": 531.76,
-      "text": "Tis the voice of the sluggard,"
+      "text": "'_'Tis the voice of the sluggard_,'\"",
+      "para_break": false
     },
     {
       "start": 531.9,
       "end": 532.82,
-      "text": "said the griffon."
+      "text": "said the Gryphon."
     },
     {
       "start": 533.71,
       "end": 535.6,
-      "text": "How the creatures order one about,",
+      "text": "\"How the creatures order one about,",
       "para_break": true
     },
     {
       "start": 535.82,
       "end": 536.98,
-      "text": "and make one repeat lessons,"
+      "text": "and make one repeat lessons!\""
     },
     {
       "start": 537.28,
@@ -121,23 +122,22 @@
     {
       "start": 538.44,
       "end": 540.02,
-      "text": "I might as well be at school at once."
+      "text": "\"I might as well be at school at once.\""
     },
     {
       "start": 540.89,
       "end": 541.54,
-      "text": "However,",
-      "para_break": true
+      "text": "However,"
     },
     {
       "start": 541.72,
       "end": 543.54,
-      "text": "she got up and began to repeat it,"
+      "text": "she got up, and began to repeat it,"
     },
     {
       "start": 543.58,
       "end": 546.16,
-      "text": "but her head was so full of the lobster quadrille,"
+      "text": "but her head was so full of the Lobster Quadrille,"
     },
     {
       "start": 546.26,
@@ -147,116 +147,91 @@
     {
       "start": 548.4,
       "end": 550.18,
-      "text": "and the words came very queer indeed."
+      "text": "and the words came very queer indeed:--"
     },
     {
-      "start": 551.808,
-      "end": 553.04,
-      "text": "\"'Tis the voice of the lobster,",
+      "start": 551.068,
+      "end": 554.108,
+      "text": "'Tis the voice of the Lobster; I heard him declare,",
       "para_break": true
     },
     {
-      "start": 553.26,
-      "end": 554.14,
-      "text": "I heard him declare,"
+      "start": 554.388,
+      "end": 557.248,
+      "text": "\"You have baked me too brown, I must sugar my hair.\""
     },
     {
-      "start": 554.42,
-      "end": 555.82,
-      "text": "you have baked me to brown,"
+      "start": 557.468,
+      "end": 560.308,
+      "text": "As a duck with its eyelids, so he with his nose"
     },
     {
-      "start": 555.98,
-      "end": 557.2,
-      "text": "I must sugar my hair."
+      "start": 560.588,
+      "end": 563.528,
+      "text": "Trims his belt and his buttons, and turns out his toes."
     },
     {
-      "start": 557.41,
-      "end": 559.08,
-      "text": "as a duck with its eyelids,"
+      "start": 563.828,
+      "end": 566.888,
+      "text": "When the sands are all dry, he is gay as a lark,"
     },
     {
-      "start": 559.26,
-      "end": 560.38,
-      "text": "so he with his nose,"
+      "start": 566.928,
+      "end": 569.748,
+      "text": "And will talk in contemptuous tones of the Shark:"
     },
     {
-      "start": 560.6,
-      "end": 562.24,
-      "text": "trims his belt and his buttons,"
+      "start": 570.128,
+      "end": 572.848,
+      "text": "But, when the tide rises and sharks are around,"
     },
     {
-      "start": 562.38,
-      "end": 563.56,
-      "text": "and turns out his toes."
-    },
-    {
-      "start": 564.16,
-      "end": 565.38,
-      "text": "When the sands are all dry,"
-    },
-    {
-      "start": 565.7,
-      "end": 566.88,
-      "text": "he is gay as a lark,"
-    },
-    {
-      "start": 566.94,
-      "end": 569.76,
-      "text": "and will talk in contemptuous tones of the shark."
-    },
-    {
-      "start": 570.46,
-      "end": 572.88,
-      "text": "But when the tide rises and sharks are around,"
-    },
-    {
-      "start": 573.46,
+      "start": 573.068,
       "end": 575.58,
-      "text": "his voice has a timid and tremulous sound."
+      "text": "His voice has a timid and tremulous sound.\""
     },
     {
       "start": 576.992,
       "end": 579.42,
-      "text": "That's different from what I used to say when I was a child,",
+      "text": "\"That's different from what _I_ used to say when I was a child,\"",
       "para_break": true
     },
     {
       "start": 579.58,
       "end": 580.44,
-      "text": "said the griffon."
+      "text": "said the Gryphon."
     },
     {
       "start": 581.48,
       "end": 581.86,
-      "text": "Well,",
+      "text": "\"Well,",
       "para_break": true
     },
     {
       "start": 581.96,
       "end": 583.7,
-      "text": "I never heard it before,"
+      "text": "_I_ never heard it before,\""
     },
     {
       "start": 584.02,
       "end": 584.98,
-      "text": "said the mock turtle."
+      "text": "said the Mock Turtle:"
     },
     {
       "start": 585.44,
       "end": 588.28,
-      "text": "but it sounds uncommon nonsense."
+      "text": "\"but it sounds uncommon nonsense.\""
     },
     {
       "start": 589.856,
       "end": 590.6,
-      "text": "Alice said nothing.",
+      "text": "Alice said nothing;",
       "para_break": true
     },
     {
       "start": 590.78,
       "end": 592.5,
-      "text": "She had sat down with her face in her"
+      "text": "she had sat down with her face in her"
     },
     {
       "start": 592.5,
@@ -266,18 +241,18 @@
     {
       "start": 592.94,
       "end": 596.02,
-      "text": "wondering if anything would ever happen in a natural way again."
+      "text": "wondering if anything would _ever_ happen in a natural way again."
     },
     {
       "start": 596.98,
       "end": 598.46,
-      "text": "I should like to have it",
+      "text": "\"I should like to have it",
       "para_break": true
     },
     {
       "start": 598.56,
       "end": 598.94,
-      "text": "explained,"
+      "text": "explained,\""
     },
     {
       "start": 599.44,
@@ -287,7 +262,7 @@
     {
       "start": 601.62,
       "end": 602.78,
-      "text": "She cannot explain it,",
+      "text": "\"She ca'n't explain it,\"",
       "para_break": true
     },
     {
@@ -298,17 +273,17 @@
     {
       "start": 604.08,
       "end": 604.88,
-      "text": "Go on with the next"
+      "text": "\"Go on with the next"
     },
     {
       "start": 604.9,
       "end": 605.18,
-      "text": "verse."
+      "text": "verse.\""
     },
     {
       "start": 607.232,
       "end": 608.62,
-      "text": "But about his toes,",
+      "text": "\"But about his toes?\"",
       "para_break": true
     },
     {
@@ -319,7 +294,7 @@
     {
       "start": 610.98,
       "end": 613.06,
-      "text": "How could he turn them out with his"
+      "text": "\"How _could_ he turn them out with his"
     },
     {
       "start": 613.26,
@@ -329,17 +304,17 @@
     {
       "start": 613.68,
       "end": 614.14,
-      "text": "you know."
+      "text": "you know?\""
     },
     {
       "start": 614.8,
       "end": 616.9,
-      "text": "It's the first position in dancing,"
+      "text": "\"It's the first position in dancing,\""
     },
     {
       "start": 617.26,
       "end": 617.94,
-      "text": "Alice said,"
+      "text": "Alice said;"
     },
     {
       "start": 618.38,
@@ -349,28 +324,28 @@
     {
       "start": 619.86,
       "end": 621.8,
-      "text": "whole thing and longed to change the subject."
+      "text": "whole thing, and longed to change the subject."
     },
     {
       "start": 623.24,
       "end": 624.22,
-      "text": "Go on with the next verse,",
+      "text": "\"Go on with the next verse,\"",
       "para_break": true
     },
     {
       "start": 624.46,
       "end": 625.54,
-      "text": "the griffon repeated."
+      "text": "the Gryphon repeated:"
     },
     {
       "start": 625.78,
       "end": 626.36,
-      "text": "It begins,"
+      "text": "\"it begins"
     },
     {
       "start": 626.6,
       "end": 627.7,
-      "text": "I passed by his garden."
+      "text": "'_I passed by his garden_'.\""
     },
     {
       "start": 629.152,
@@ -391,22 +366,22 @@
     {
       "start": 633.22,
       "end": 635.0,
-      "text": "and she went on in a trembling voice."
+      "text": "and she went on in a trembling voice:"
     },
     {
       "start": 635.54,
       "end": 638.34,
-      "text": "I passed by his garden and marked with"
+      "text": "\"I passed by his garden, and marked, with"
     },
     {
       "start": 638.48,
       "end": 641.8,
-      "text": "one eye how the owl and the panther were sharing a pie."
+      "text": "one eye, how the Owl and the Panther were sharing a pie:"
     },
     {
       "start": 642.48,
       "end": 644.84,
-      "text": "The panther took pie crust and gravy and"
+      "text": "The Panther took pie-crust, and gravy, and"
     },
     {
       "start": 644.84,
@@ -416,7 +391,7 @@
     {
       "start": 645.18,
       "end": 648.12,
-      "text": "while the owl had the dish as its share of the treat."
+      "text": "While the Owl had the dish as its share of the treat."
     },
     {
       "start": 648.32,
@@ -426,12 +401,12 @@
     {
       "start": 650.06,
       "end": 653.36,
-      "text": "the owl as a boon was kindly permitted to pocket the spoon,"
+      "text": "the Owl, as a boon, was kindly permitted to pocket the spoon:"
     },
     {
       "start": 653.58,
       "end": 656.02,
-      "text": "while the panther received knife and"
+      "text": "While the Panther received knife and"
     },
     {
       "start": 656.08,
@@ -441,44 +416,44 @@
     {
       "start": 657.04,
       "end": 658.9,
-      "text": "and concluded the banquet by,"
+      "text": "And concluded the banquet by----\""
     },
     {
       "start": 659.06,
       "end": 662.52,
-      "text": "What is the use of repeating all that stuff?"
+      "text": "\"What _is_ the use of repeating all that stuff,\""
     },
     {
       "start": 663.02,
       "end": 664.38,
-      "text": "the mock turtle interrupted,"
+      "text": "the Mock Turtle interrupted,"
     },
     {
       "start": 664.56,
       "end": 667.46,
-      "text": "if you don't explain it as you go on."
+      "text": "\"if you don't explain it as you go on?"
     },
     {
       "start": 668.64,
       "end": 671.98,
-      "text": "It's by far the most confusing thing I ever heard.",
+      "text": "It's by far the most confusing thing _I_ ever heard!\"",
       "para_break": true
     },
     {
       "start": 672.94,
       "end": 673.36,
-      "text": "Yes,",
+      "text": "\"Yes,",
       "para_break": true
     },
     {
       "start": 673.48,
       "end": 674.66,
-      "text": "I think you'd better leave off,"
+      "text": "I think you'd better leave off,\""
     },
     {
       "start": 675.06,
       "end": 675.56,
-      "text": "said the griffon,"
+      "text": "said the Gryphon:"
     },
     {
       "start": 675.64,
@@ -488,24 +463,24 @@
     {
       "start": 678.86,
       "end": 681.16,
-      "text": "Shall we try another figure of the lobster quadrille?",
+      "text": "\"Shall we try another figure of the Lobster Quadrille?\"",
       "para_break": true
     },
     {
       "start": 681.28,
       "end": 682.3,
-      "text": "the griffon went on."
+      "text": "the Gryphon went on."
     },
     {
       "start": 683.36,
       "end": 685.52,
-      "text": "Or would you like the mock turtle to sing you another song?",
+      "text": "\"Or would you like the Mock Turtle to sing you another song?\"",
       "para_break": true
     },
     {
       "start": 686.66,
       "end": 686.94,
-      "text": "Oh,",
+      "text": "\"Oh,",
       "para_break": true
     },
     {
@@ -521,12 +496,12 @@
     {
       "start": 687.86,
       "end": 689.44,
-      "text": "if the mock turtle would be so kind,"
+      "text": "if the Mock Turtle would be so kind,\""
     },
     {
       "start": 690.176,
       "end": 692.28,
-      "text": "Alice replied so eagerly that the griffon said,"
+      "text": "Alice replied, so eagerly that the Gryphon said,"
     },
     {
       "start": 692.52,
@@ -536,17 +511,17 @@
     {
       "start": 694.34,
       "end": 694.64,
-      "text": "Hmph,"
+      "text": "\"H'm!"
     },
     {
       "start": 694.64,
       "end": 695.96,
-      "text": "no accounting tastes."
+      "text": "No accounting for tastes!"
     },
     {
       "start": 696.41,
       "end": 697.68,
-      "text": "Sing her turtle soup,"
+      "text": "Sing her '_Turtle Soup_,'"
     },
     {
       "start": 697.8,
@@ -556,172 +531,149 @@
     {
       "start": 697.98,
       "end": 698.3,
-      "text": "old fellow?"
+      "text": "old fellow?\""
     },
     {
-      "start": 699.14,
-      "end": 701.12,
-      "text": "The Mock Turtle sighed deeply and began",
+      "start": 698.64,
+      "end": 701.1,
+      "text": "The Mock Turtle sighed deeply, and began,",
       "para_break": true
     },
     {
-      "start": 701.12,
-      "end": 703.42,
-      "text": "in a voice choked with sobs to sing this."
+      "start": 701.1,
+      "end": 703.4,
+      "text": "in a voice choked with sobs, to sing this:--"
     },
     {
-      "start": 705.504,
-      "end": 706.68,
-      "text": "Beautiful soup,",
-      "para_break": true
-    },
-    {
-      "start": 706.94,
+      "start": 705.28,
       "end": 708.18,
-      "text": "so rich and green,"
+      "text": "\"Beautiful Soup, so rich and green,",
+      "para_break": true
     },
     {
-      "start": 708.5,
-      "end": 711.24,
-      "text": "waiting in a hot tureen."
+      "start": 708.46,
+      "end": 711.26,
+      "text": "Waiting in a hot tureen!"
     },
     {
-      "start": 711.82,
-      "end": 714.84,
+      "start": 711.84,
+      "end": 714.8,
       "text": "Who for such dainties would not stoop?"
     },
     {
-      "start": 715.36,
-      "end": 716.62,
-      "text": "Soup of the evening,"
+      "start": 714.96,
+      "end": 717.84,
+      "text": "Soup of the evening, beautiful Soup!"
     },
     {
-      "start": 716.82,
-      "end": 717.86,
-      "text": "beautiful soup."
-    },
-    {
-      "start": 718.368,
+      "start": 718.06,
       "end": 719.7,
       "text": "Soup of the evening,"
     },
     {
-      "start": 719.94,
-      "end": 721.04,
-      "text": "beautiful soup."
+      "start": 719.92,
+      "end": 721.0,
+      "text": "beautiful Soup!"
     },
     {
-      "start": 722.112,
+      "start": 721.94,
       "end": 723.56,
-      "text": "Beautiful soup,",
+      "text": "Beau--ootiful Soo--oop!",
       "para_break": true
     },
     {
-      "start": 724.512,
-      "end": 725.76,
-      "text": "beautiful soup.",
+      "start": 724.3,
+      "end": 725.84,
+      "text": "Beau--ootiful Soo--oop!"
+    },
+    {
+      "start": 725.84,
+      "end": 729.12,
+      "text": "Soo--oop of the e--e--evening,",
       "para_break": true
     },
     {
-      "start": 726.976,
-      "end": 729.08,
-      "text": "Soup of the evening,",
-      "para_break": true
-    },
-    {
-      "start": 729.5,
-      "end": 730.3,
-      "text": "beautiful,"
-    },
-    {
-      "start": 730.4,
+      "start": 729.46,
       "end": 732.26,
-      "text": "beautiful soup"
+      "text": "Beautiful, beautiful Soup!"
     },
     {
-      "start": 734.048,
-      "end": 735.32,
-      "text": "Beautiful soup,",
+      "start": 733.52,
+      "end": 737.64,
+      "text": "\"Beautiful Soup! Who cares for fish,",
       "para_break": true
     },
     {
-      "start": 736.06,
-      "end": 737.8,
-      "text": "who cares for fish,"
+      "start": 738.06,
+      "end": 741.5,
+      "text": "Game, or any other dish?"
     },
     {
-      "start": 738.12,
-      "end": 741.54,
-      "text": "game or any other dish"
+      "start": 742.02,
+      "end": 745.56,
+      "text": "Who would not give all else for two"
     },
     {
-      "start": 742.14,
-      "end": 745.6,
-      "text": "Who would not give all else for two,"
+      "start": 745.82,
+      "end": 749.66,
+      "text": "Pennyworth only of beautiful Soup?"
     },
     {
-      "start": 745.9,
-      "end": 749.56,
-      "text": "penny worth only of beautiful soup"
-    },
-    {
-      "start": 750.624,
+      "start": 750.04,
       "end": 753.68,
-      "text": "Pennyworth only of beautiful soup",
+      "text": "Pennyworth only of beautiful Soup?",
       "para_break": true
     },
     {
-      "start": 754.62,
-      "end": 756.06,
-      "text": "Beautiful soup,",
+      "start": 753.92,
+      "end": 756.1,
+      "text": "Beau--ootiful Soo--oop!"
+    },
+    {
+      "start": 756.88,
+      "end": 758.76,
+      "text": "Beau--ootiful Soo--oop!"
+    },
+    {
+      "start": 759.36,
+      "end": 761.44,
+      "text": "Soo--oop of the e--e--evening,",
       "para_break": true
     },
     {
-      "start": 757.248,
-      "end": 758.72,
-      "text": "beautiful soup",
+      "start": 761.62,
+      "end": 764.4,
+      "text": "Beautiful, beauti--FUL SOUP!\""
+    },
+    {
+      "start": 765.9,
+      "end": 766.78,
+      "text": "\"Chorus again!\"",
       "para_break": true
     },
     {
-      "start": 759.776,
-      "end": 762.2,
-      "text": "Soup of the evening Beautiful,",
-      "para_break": true
+      "start": 767.08,
+      "end": 767.52,
+      "text": "cried the Gryphon,"
     },
     {
-      "start": 762.9,
-      "end": 764.48,
-      "text": "beautiful soup"
+      "start": 767.92,
+      "end": 770.54,
+      "text": "and the Mock Turtle had just begun to repeat it,"
     },
     {
-      "start": 766.304,
-      "end": 766.82,
-      "text": "Chorus again,",
-      "para_break": true
-    },
-    {
-      "start": 767.1,
-      "end": 767.92,
-      "text": "cried the griffin,"
-    },
-    {
-      "start": 767.94,
-      "end": 770.58,
-      "text": "and the mock turtle had just begun to repeat it,"
-    },
-    {
-      "start": 770.84,
-      "end": 771.56,
-      "text": "when a cry of,"
+      "start": 770.6,
+      "end": 771.52,
+      "text": "when a cry of"
     },
     {
       "start": 771.62,
-      "end": 772.7,
-      "text": "The trial's beginning,"
+      "end": 772.68,
+      "text": "\"The trial's beginning!\""
     },
     {
-      "start": 773.08,
-      "end": 774.28,
+      "start": 773.06,
+      "end": 774.3,
       "text": "was heard in the distance."
     }
   ]
