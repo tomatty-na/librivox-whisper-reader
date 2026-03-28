@@ -15,7 +15,7 @@
     {
       "start": 505.02,
       "end": 505.54,
-      "text": "About what?",
+      "text": "\"About what?\"",
       "para_break": true
     },
     {
@@ -27,13 +27,14 @@
     {
       "start": 508.06,
       "end": 508.5,
-      "text": "About me.",
+      "text": "\"About me.\"",
       "para_break": true
     },
     {
       "start": 508.8,
       "end": 509.82,
-      "text": "Nothing."
+      "text": "\"Nothing.\"",
+      "para_break": true
     },
     {
       "start": 510.01,
@@ -48,17 +49,17 @@
     {
       "start": 513.16,
       "end": 515.72,
-      "text": "His eyes were shiny and a wooden Satan's face."
+      "text": "His eyes were shiny in a wooden satan's face."
     },
     {
       "start": 516.2,
       "end": 516.8,
-      "text": "Well,"
+      "text": "\"Well,"
     },
     {
       "start": 516.96,
       "end": 517.82,
-      "text": "what did he say?"
+      "text": "what did he say?\""
     },
     {
       "start": 517.96,
@@ -68,12 +69,12 @@
     {
       "start": 518.9,
       "end": 520.72,
-      "text": "with a half playful petulance."
+      "text": "with half-playful petulance."
     },
     {
       "start": 521.13,
       "end": 524.1,
-      "text": "He offered me $5,000 for the black bird."
+      "text": "\"He offered me five thousand dollars for the black bird.\""
     },
     {
       "start": 525.22,
@@ -114,7 +115,7 @@
     {
       "start": 533.86,
       "end": 536.72,
-      "text": "You're not going to go around poking at the fire and straightening",
+      "text": "\"You're not going to go around poking at the fire and straightening",
       "para_break": true
     },
     {
@@ -125,7 +126,7 @@
     {
       "start": 537.44,
       "end": 537.78,
-      "text": "are you?"
+      "text": "are you?\""
     },
     {
       "start": 537.88,
@@ -146,8 +147,7 @@
     {
       "start": 542.112,
       "end": 542.48,
-      "text": "dropped the",
-      "para_break": true
+      "text": "dropped the"
     },
     {
       "start": 542.52,
@@ -167,7 +167,7 @@
     {
       "start": 547.02,
       "end": 547.58,
-      "text": "I won't,",
+      "text": "\"I won't,\"",
       "para_break": true
     },
     {
@@ -178,12 +178,12 @@
     {
       "start": 548.57,
       "end": 549.84,
-      "text": "and what did you say?"
+      "text": "\"and what did you say?\""
     },
     {
       "start": 551.08,
       "end": 552.78,
-      "text": "$5,000 is a lot of money.",
+      "text": "\"Five thousand dollars is a lot of money.\"",
       "para_break": true
     },
     {
@@ -195,8 +195,7 @@
     {
       "start": 555.16,
       "end": 555.52,
-      "text": "but when,",
-      "para_break": true
+      "text": "but when,"
     },
     {
       "start": 555.58,
@@ -226,8 +225,7 @@
     {
       "start": 562.44,
       "end": 563.48,
-      "text": "In its place came a hurt,",
-      "para_break": true
+      "text": "In its place came a hurt,"
     },
     {
       "start": 563.56,
@@ -237,8 +235,7 @@
     {
       "start": 565.216,
       "end": 567.06,
-      "text": "Surely you're not really considering it,",
-      "para_break": true
+      "text": "\"Surely you're not really considering it,\""
     },
     {
       "start": 567.14,
@@ -248,25 +245,24 @@
     {
       "start": 568.54,
       "end": 568.88,
-      "text": "Why not?",
+      "text": "\"Why not?",
       "para_break": true
     },
     {
       "start": 569.64,
       "end": 571.38,
-      "text": "$5,000 is a lot of money.",
-      "para_break": true
+      "text": "Five thousand dollars is a lot of money.\""
     },
     {
       "start": 571.58,
       "end": 571.68,
-      "text": "But,"
+      "text": "\"But,",
+      "para_break": true
     },
     {
       "start": 572.82,
       "end": 573.04,
-      "text": "Mr.",
-      "para_break": true
+      "text": "Mr."
     },
     {
       "start": 573.16,
@@ -276,7 +272,7 @@
     {
       "start": 573.44,
       "end": 574.44,
-      "text": "you promised to help me."
+      "text": "you promised to help me.\""
     },
     {
       "start": 574.62,
@@ -291,18 +287,17 @@
     {
       "start": 576.2,
       "end": 577.6,
-      "text": "I trusted you."
+      "text": "\"I trusted you."
     },
     {
       "start": 577.7,
       "end": 578.62,
-      "text": "You can't."
+      "text": "You can't.\""
     },
     {
       "start": 579.28,
       "end": 579.92,
-      "text": "She broke off,",
-      "para_break": true
+      "text": "She broke off,"
     },
     {
       "start": 580.26,
@@ -323,13 +318,13 @@
     {
       "start": 586.432,
       "end": 587.54,
-      "text": "Don't let's try to figure out",
+      "text": "\"Don't let's try to figure out",
       "para_break": true
     },
     {
       "start": 587.54,
       "end": 588.8,
-      "text": "how much you've trusted me,"
+      "text": "how much you've trusted me,\""
     },
     {
       "start": 588.86,
@@ -339,7 +334,7 @@
     {
       "start": 589.42,
       "end": 590.88,
-      "text": "I promised to help you,"
+      "text": "\"I promised to help you,"
     },
     {
       "start": 590.92,
@@ -349,54 +344,54 @@
     {
       "start": 591.76,
       "end": 592.7,
-      "text": "but you didn't say anything",
-      "para_break": true
+      "text": "but you didn't say anything"
     },
     {
       "start": 592.92,
       "end": 594.26,
-      "text": "about any black birds."
+      "text": "about any black birds.\""
     },
     {
       "start": 594.83,
       "end": 598.86,
-      "text": "But you must have known or you wouldn't have mentioned it to me."
+      "text": "\"But you must've known or--or you wouldn't have mentioned it to me.",
+      "para_break": true
     },
     {
       "start": 599.52,
       "end": 601.02,
-      "text": "you do know now",
-      "para_break": true
+      "text": "You do know now."
     },
     {
       "start": 601.58,
       "end": 603.74,
-      "text": "you won't you can't treat me like"
+      "text": "You won't--you can't--treat me like"
     },
     {
       "start": 603.74,
       "end": 606.32,
-      "text": "that her eyes were cobalt blue prayers"
+      "text": "that.\" Her eyes were cobalt-blue prayers."
     },
     {
       "start": 606.87,
       "end": 609.7,
-      "text": "five thousand dollars is he said for the third"
+      "text": "\"Five thousand dollars is,\" he said for the third",
+      "para_break": true
     },
     {
       "start": 609.7,
       "end": 613.24,
-      "text": "time a lot of money she lifted her shoulders"
+      "text": "time, \"a lot of money.\" She lifted her shoulders"
     },
     {
       "start": 613.36,
       "end": 616.18,
-      "text": "and hands and let them fall in a gesture that accepted defeat"
+      "text": "and hands and let them fall in a gesture that accepted defeat."
     },
     {
       "start": 617.12,
       "end": 618.74,
-      "text": "it is she agreed in a small",
+      "text": "\"It is,\" she agreed in a small",
       "para_break": true
     },
     {
@@ -407,13 +402,12 @@
     {
       "start": 620.06,
       "end": 622.12,
-      "text": "it is far more than i could ever offer you",
-      "para_break": true
+      "text": "\"It is far more than I could ever offer you,"
     },
     {
       "start": 622.4,
       "end": 625.64,
-      "text": "if i must bid for your loyalty spade laughed"
+      "text": "if I must bid for your loyalty.\" Spade laughed."
     },
     {
       "start": 625.94,
@@ -423,7 +417,8 @@
     {
       "start": 628.48,
       "end": 629.46,
-      "text": "That is good,"
+      "text": "\"That is good,\"",
+      "para_break": true
     },
     {
       "start": 629.58,
@@ -433,7 +428,7 @@
     {
       "start": 630.12,
       "end": 630.88,
-      "text": "coming from you."
+      "text": "\"coming from you."
     },
     {
       "start": 631.76,
@@ -444,31 +439,27 @@
     {
       "start": 634.02,
       "end": 635.68,
-      "text": "Have you given me any of your confidence,",
-      "para_break": true
+      "text": "Have you given me any of your confidence?"
     },
     {
       "start": 636.0,
       "end": 636.7,
-      "text": "any of the truth,"
+      "text": "any of the truth?"
     },
     {
       "start": 637.28,
       "end": 638.36,
-      "text": "any help in helping you?",
-      "para_break": true
+      "text": "any help in helping you?"
     },
     {
       "start": 639.072,
       "end": 641.9,
-      "text": "Haven't you tried to buy my loyalty with money and nothing else?",
-      "para_break": true
+      "text": "Haven't you tried to buy my loyalty with money and nothing else?"
     },
     {
       "start": 642.48,
       "end": 642.68,
-      "text": "Well,",
-      "para_break": true
+      "text": "Well,"
     },
     {
       "start": 642.86,
@@ -478,12 +469,12 @@
     {
       "start": 644.4,
       "end": 646.44,
-      "text": "why shouldn't I let it go to the highest bidder?"
+      "text": "why shouldn't I let it go to the highest bidder?\""
     },
     {
       "start": 647.54,
       "end": 649.02,
-      "text": "I've given you all the money I have.",
+      "text": "\"I've given you all the money I have.\"",
       "para_break": true
     },
     {
@@ -504,7 +495,7 @@
     {
       "start": 655.08,
       "end": 656.34,
-      "text": "I've thrown myself on your mercy,",
+      "text": "\"I've thrown myself on your mercy,",
       "para_break": true
     },
     {
@@ -520,20 +511,18 @@
     {
       "start": 659.66,
       "end": 660.42,
-      "text": "What else is there?",
+      "text": "What else is there?\"",
       "para_break": true
     },
     {
       "start": 661.34,
       "end": 664.67,
-      "text": "She suddenly moved close to him on the settee and cried angrily.",
-      "para_break": true
+      "text": "She suddenly moved close to him on the settee and cried angrily:"
     },
     {
       "start": 665.34,
       "end": 666.74,
-      "text": "Can I buy you with my body?",
-      "para_break": true
+      "text": "\"Can I buy you with my body?\""
     },
     {
       "start": 667.88,
@@ -544,8 +533,7 @@
     {
       "start": 670.208,
       "end": 671.28,
-      "text": "Spade took her face between",
-      "para_break": true
+      "text": "Spade took her face between"
     },
     {
       "start": 671.28,
@@ -555,14 +543,12 @@
     {
       "start": 675.44,
       "end": 676.52,
-      "text": "Then he sat back and said,",
-      "para_break": true
+      "text": "Then he sat back and said,"
     },
     {
       "start": 677.16,
       "end": 677.84,
-      "text": "I'll think it over.",
-      "para_break": true
+      "text": "\"I'll think it over.\""
     },
     {
       "start": 678.2,
@@ -572,7 +558,8 @@
     {
       "start": 680.48,
       "end": 683.62,
-      "text": "She sat still holding her numb face where his"
+      "text": "She sat still holding her numbed face where his",
+      "para_break": true
     },
     {
       "start": 683.62,
@@ -582,7 +569,8 @@
     {
       "start": 684.8,
       "end": 688.56,
-      "text": "He stood up and said Christ there's no sense to this."
+      "text": "He stood up and said: \"Christ! there's no sense to this.\"",
+      "para_break": true
     },
     {
       "start": 688.82,
@@ -592,12 +580,12 @@
     {
       "start": 690.04,
       "end": 692.5,
-      "text": "toward the fireplace and stopped glowering at"
+      "text": "towards the fireplace and stopped, glowering at"
     },
     {
       "start": 692.5,
       "end": 694.46,
-      "text": "the burning logs grinding his teeth together."
+      "text": "the burning logs, grinding his teeth together."
     },
     {
       "start": 695.36,
@@ -618,17 +606,18 @@
     {
       "start": 701.14,
       "end": 701.98,
-      "text": "between red whales."
+      "text": "between red wales."
     },
     {
       "start": 702.38,
       "end": 704.4,
-      "text": "I don't give a damn about your honesty"
+      "text": "\"I don't give a damn about your honesty,\"",
+      "para_break": true
     },
     {
       "start": 704.4,
       "end": 705.92,
-      "text": "he told her trying to make himself"
+      "text": "he told her, trying to make himself"
     },
     {
       "start": 706.14,
@@ -638,8 +627,7 @@
     {
       "start": 707.36,
       "end": 708.98,
-      "text": "I don't care what kind of tricks you're up to,",
-      "para_break": true
+      "text": "\"I don't care what kind of tricks you're up to,"
     },
     {
       "start": 709.44,
@@ -654,12 +642,12 @@
     {
       "start": 711.12,
       "end": 714.22,
-      "text": "got to have something to show that you know what you're doing."
+      "text": "got to have something to show that you know what you're doing.\""
     },
     {
       "start": 715.28,
       "end": 715.88,
-      "text": "I do know.",
+      "text": "\"I do know.",
       "para_break": true
     },
     {
@@ -668,19 +656,25 @@
       "text": "Please believe that I do"
     },
     {
-      "start": 717.42,
-      "end": 720.98,
-      "text": "and that it's all for the best and show me,"
+      "start": 717.34,
+      "end": 719.52,
+      "text": "and that it's all for the best, and--\""
     },
     {
-      "start": 721.14,
-      "end": 721.8,
+      "start": 719.52,
+      "end": 720.96,
+      "text": "\"Show me,\"",
+      "para_break": true
+    },
+    {
+      "start": 721.06,
+      "end": 721.76,
       "text": "he ordered."
     },
     {
       "start": 722.08,
       "end": 723.34,
-      "text": "I'm willing to help you."
+      "text": "\"I'm willing to help you."
     },
     {
       "start": 723.48,
@@ -715,8 +709,7 @@
     {
       "start": 731.88,
       "end": 734.26,
-      "text": "You've got to convince me that you know what it's all about,",
-      "para_break": true
+      "text": "You've got to convince me that you know what it's all about,"
     },
     {
       "start": 734.72,
@@ -731,18 +724,18 @@
     {
       "start": 740.06,
       "end": 740.98,
-      "text": "somehow in the end."
+      "text": "somehow in the end.\""
     },
     {
       "start": 742.08,
       "end": 743.72,
-      "text": "Can't you trust me just a little longer?",
+      "text": "\"Can't you trust me just a little longer?\"",
       "para_break": true
     },
     {
       "start": 744.62,
       "end": 745.5,
-      "text": "How much is a little,",
+      "text": "\"How much is a little,",
       "para_break": true
     },
     {
@@ -753,7 +746,8 @@
     {
       "start": 746.04,
       "end": 746.98,
-      "text": "are you waiting for?"
+      "text": "are you waiting for?\""
     }
-  ]
+  ],
+  "corrected": "claude"
 }
