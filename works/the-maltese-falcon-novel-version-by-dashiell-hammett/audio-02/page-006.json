@@ -11,27 +11,29 @@
   "page_start_sec": 1217.24,
   "page_end_sec": 1451.06,
   "para_gap_threshold": 0.738,
+  "corrected": "claude",
   "segments": [
     {
       "start": 1217.24,
       "end": 1218.14,
-      "text": "Did you see anybody,",
+      "text": "\"Did you see anybody that—",
       "para_break": true
     },
     {
       "start": 1218.26,
       "end": 1218.5,
-      "text": "that?"
+      "text": "?\""
     },
     {
       "start": 1219.22,
       "end": 1219.8,
-      "text": "No,"
+      "text": "\"No,",
+      "para_break": true
     },
     {
       "start": 1219.84,
       "end": 1220.62,
-      "text": "no witnesses,"
+      "text": "no witnesses,\""
     },
     {
       "start": 1221.06,
@@ -41,13 +43,13 @@
     {
       "start": 1223.54,
       "end": 1223.92,
-      "text": "Sit down,",
+      "text": "\"Sit down,",
       "para_break": true
     },
     {
       "start": 1224.0,
       "end": 1224.4,
-      "text": "Dundee."
+      "text": "Dundy."
     },
     {
       "start": 1224.5,
@@ -62,27 +64,28 @@
     {
       "start": 1227.26,
       "end": 1227.46,
-      "text": "Tom."
+      "text": "Tom.\""
     },
     {
       "start": 1228.704,
       "end": 1229.14,
-      "text": "Tom said,"
+      "text": "Tom said,",
+      "para_break": true
     },
     {
       "start": 1229.34,
       "end": 1230.02,
-      "text": "No thanks,"
+      "text": "\"No, thanks,"
     },
     {
       "start": 1230.24,
       "end": 1230.42,
-      "text": "Sam."
+      "text": "Sam.\""
     },
     {
       "start": 1231.712,
       "end": 1232.54,
-      "text": "Dundee sat down,",
+      "text": "Dundy sat down,",
       "para_break": true
     },
     {
@@ -109,12 +112,12 @@
     {
       "start": 1239.68,
       "end": 1241.18,
-      "text": "and returned to his bedside seat."
+      "text": "and returned to his bedside-seat."
     },
     {
       "start": 1242.28,
       "end": 1243.38,
-      "text": "I know where I stand now,",
+      "text": "\"I know where I stand now,\"",
       "para_break": true
     },
     {
@@ -130,13 +133,12 @@
     {
       "start": 1245.72,
       "end": 1247.22,
-      "text": "of the police detectives to the other."
+      "text": "of the police-detectives to the other."
     },
     {
       "start": 1248.12,
       "end": 1249.78,
-      "text": "I'm sorry I got up on my hind legs,",
-      "para_break": true
+      "text": "\"I'm sorry I got up on my hind legs,"
     },
     {
       "start": 1250.3,
@@ -151,8 +153,7 @@
     {
       "start": 1255.04,
       "end": 1256.6,
-      "text": "Having Miles knocked off bothered me,",
-      "para_break": true
+      "text": "Having Miles knocked off bothered me,"
     },
     {
       "start": 1256.68,
@@ -162,8 +163,7 @@
     {
       "start": 1259.48,
       "end": 1260.16,
-      "text": "That's all right now,",
-      "para_break": true
+      "text": "That's all right now,"
     },
     {
       "start": 1260.28,
@@ -173,22 +173,22 @@
     {
       "start": 1260.58,
       "end": 1262.42,
-      "text": "now that I know what you're up to,"
+      "text": "now that I know what you're up to.\""
     },
     {
       "start": 1262.64,
       "end": 1263.78,
-      "text": "Tom said."
+      "text": "Tom said:"
     },
     {
       "start": 1264.0,
       "end": 1264.86,
-      "text": "Forget it."
+      "text": "\"Forget it.\""
     },
     {
       "start": 1265.72,
       "end": 1266.06,
-      "text": "The lieutenant",
+      "text": "The Lieutenant",
       "para_break": true
     },
     {
@@ -205,12 +205,12 @@
     {
       "start": 1269.184,
       "end": 1269.7,
-      "text": "Thursby die?"
+      "text": "\"Thursby die?\""
     },
     {
       "start": 1270.82,
       "end": 1271.92,
-      "text": "While the lieutenant hesitated,",
+      "text": "While the Lieutenant hesitated,",
       "para_break": true
     },
     {
@@ -221,7 +221,7 @@
     {
       "start": 1272.8,
       "end": 1273.38,
-      "text": "yes."
+      "text": "\"Yes.\""
     },
     {
       "start": 1274.68,
@@ -232,12 +232,12 @@
     {
       "start": 1275.0,
       "end": 1276.09,
-      "text": "Lieutenant said angrily,"
+      "text": "Lieutenant said angrily:"
     },
     {
       "start": 1276.12,
       "end": 1278.4,
-      "text": "and you might just as well know it,"
+      "text": "\"And you might just as well know it,"
     },
     {
       "start": 1278.44,
@@ -252,7 +252,7 @@
     {
       "start": 1280.54,
       "end": 1281.76,
-      "text": "he could tell anybody anything."
+      "text": "he could tell anybody anything.\""
     },
     {
       "start": 1283.04,
@@ -268,28 +268,28 @@
     {
       "start": 1285.28,
       "end": 1285.96,
-      "text": "not looking up,"
+      "text": "not looking up:"
     },
     {
       "start": 1286.66,
       "end": 1287.59,
-      "text": "what do you mean by that?"
+      "text": "\"What do you mean by that?"
     },
     {
       "start": 1287.9,
       "end": 1289.6,
-      "text": "You think I did know it?"
+      "text": "You think I did know it?\""
     },
     {
       "start": 1290.72,
       "end": 1291.6,
-      "text": "I meant what I said,",
+      "text": "\"I meant what I said,\"",
       "para_break": true
     },
     {
       "start": 1291.76,
       "end": 1293.02,
-      "text": "Dundee replied bluntly."
+      "text": "Dundy replied bluntly."
     },
     {
       "start": 1294.208,
@@ -310,7 +310,7 @@
     {
       "start": 1299.86,
       "end": 1301.18,
-      "text": "You're not ready to pinch me yet,",
+      "text": "\"You're not ready to pinch me yet,",
       "para_break": true
     },
     {
@@ -321,23 +321,23 @@
     {
       "start": 1301.7,
       "end": 1302.1,
-      "text": "Dundee?"
+      "text": "Dundy?\""
     },
     {
       "start": 1302.4,
       "end": 1302.82,
-      "text": "He asked."
+      "text": "he asked."
     },
     {
       "start": 1303.968,
       "end": 1307.22,
-      "text": "Dundee looked with hard green eyes at Spade and did not answer him.",
+      "text": "Dundy looked with hard green eyes at Spade and did not answer him.",
       "para_break": true
     },
     {
       "start": 1308.18,
       "end": 1308.4,
-      "text": "Then,",
+      "text": "\"Then,\"",
       "para_break": true
     },
     {
@@ -348,7 +348,7 @@
     {
       "start": 1309.7,
       "end": 1313.72,
-      "text": "there's no particular reason why I should give a damn what you think,"
+      "text": "\"there's no particular reason why I should give a damn what you think,"
     },
     {
       "start": 1313.8,
@@ -358,7 +358,7 @@
     {
       "start": 1314.38,
       "end": 1314.78,
-      "text": "Dundee?"
+      "text": "Dundy?\""
     },
     {
       "start": 1315.84,
@@ -369,7 +369,7 @@
     {
       "start": 1316.6,
       "end": 1317.14,
-      "text": "aw,"
+      "text": "\"Aw,"
     },
     {
       "start": 1317.38,
@@ -379,12 +379,13 @@
     {
       "start": 1318.44,
       "end": 1318.66,
-      "text": "Sam."
+      "text": "Sam.\""
     },
     {
       "start": 1319.08,
       "end": 1321.62,
-      "text": "Spade put the cigarette in his mouth,"
+      "text": "Spade put the cigarette in his mouth,",
+      "para_break": true
     },
     {
       "start": 1322.06,
@@ -399,13 +400,13 @@
     {
       "start": 1325.0,
       "end": 1325.6,
-      "text": "I'll be reasonable,",
+      "text": "\"I'll be reasonable,",
       "para_break": true
     },
     {
       "start": 1325.74,
       "end": 1326.0,
-      "text": "Tom,"
+      "text": "Tom,\""
     },
     {
       "start": 1326.14,
@@ -415,17 +416,17 @@
     {
       "start": 1326.84,
       "end": 1328.04,
-      "text": "How did I kill this"
+      "text": "\"How did I kill this"
     },
     {
       "start": 1328.28,
       "end": 1328.56,
-      "text": "Thursby."
+      "text": "Thursby?"
     },
     {
       "start": 1328.66,
       "end": 1329.26,
-      "text": "I've forgotten."
+      "text": "I've forgotten.\""
     },
     {
       "start": 1330.624,
@@ -436,13 +437,13 @@
     {
       "start": 1332.608,
       "end": 1335.44,
-      "text": "Lieutenant Dundee said he was shot four times",
+      "text": "Lieutenant Dundy said: \"He was shot four times",
       "para_break": true
     },
     {
       "start": 1335.58,
       "end": 1338.76,
-      "text": "in the back with a 44 or 45 from across the street"
+      "text": "in the back, with a forty-four or forty-five, from across the street"
     },
     {
       "start": 1339.28,
@@ -452,18 +453,18 @@
     {
       "start": 1342.176,
       "end": 1342.86,
-      "text": "Nobody saw it,",
-      "para_break": true
+      "text": "Nobody saw it,"
     },
     {
       "start": 1342.88,
       "end": 1344.18,
-      "text": "but that's the way it figures."
+      "text": "but that's the way it figures.\""
     },
     {
       "start": 1344.6,
       "end": 1347.44,
-      "text": "And he was wearing a luger in a shoulder holster,"
+      "text": "\"And he was wearing a Luger in a shoulder-holster,\"",
+      "para_break": true
     },
     {
       "start": 1347.72,
@@ -473,12 +474,13 @@
     {
       "start": 1348.36,
       "end": 1349.6,
-      "text": "It hadn't been fired."
+      "text": "\"It hadn't been fired.\""
     },
     {
       "start": 1350.2,
       "end": 1352.56,
-      "text": "What do the hotel people know about him?"
+      "text": "\"What do the hotel-people know about him?\"",
+      "para_break": true
     },
     {
       "start": 1352.68,
@@ -488,48 +490,48 @@
     {
       "start": 1354.6,
       "end": 1356.44,
-      "text": "Nothing except that he'd been there a week.",
+      "text": "\"Nothing except that he'd been there a week.\"",
       "para_break": true
     },
     {
       "start": 1357.26,
       "end": 1357.56,
-      "text": "Alone?",
+      "text": "\"Alone?\"",
       "para_break": true
     },
     {
       "start": 1358.34,
       "end": 1359.22,
-      "text": "Alone.",
+      "text": "\"Alone.\"",
       "para_break": true
     },
     {
       "start": 1360.15,
       "end": 1362.64,
-      "text": "What did you find on him or in his room?",
+      "text": "\"What did you find on him? or in his room?\"",
       "para_break": true
     },
     {
       "start": 1363.84,
       "end": 1365.38,
-      "text": "Dundee drew his lips in and asked,",
+      "text": "Dundy drew his lips in and asked:",
       "para_break": true
     },
     {
       "start": 1365.74,
       "end": 1367.24,
-      "text": "What do you think we'd find?"
+      "text": "\"What'd you think we'd find?\""
     },
     {
       "start": 1368.48,
       "end": 1370.82,
-      "text": "Spade made a careless circle with his limp cigarette,",
+      "text": "Spade made a careless circle with his limp cigarette.",
       "para_break": true
     },
     {
       "start": 1371.552,
       "end": 1373.12,
-      "text": "something to tell you who he was,"
+      "text": "\"Something to tell you who he was,"
     },
     {
       "start": 1373.54,
@@ -539,19 +541,18 @@
     {
       "start": 1375.26,
       "end": 1375.58,
-      "text": "Did you?",
-      "para_break": true
+      "text": "Did you?\""
     },
     {
       "start": 1376.84,
       "end": 1378.14,
-      "text": "We thought you could tell us that.",
+      "text": "\"We thought you could tell us that.\"",
       "para_break": true
     },
     {
       "start": 1379.264,
       "end": 1381.76,
-      "text": "Spade looked at the lieutenant with yellow-gray eyes",
+      "text": "Spade looked at the Lieutenant with yellow-grey eyes",
       "para_break": true
     },
     {
@@ -562,31 +563,30 @@
     {
       "start": 1385.6,
       "end": 1387.84,
-      "text": "I've never seen Thursby dead or alive.",
+      "text": "\"I've never seen Thursby, dead or alive.\"",
       "para_break": true
     },
     {
       "start": 1389.12,
       "end": 1391.1,
-      "text": "Lieutenant Dundee stood up looking dissatisfied.",
+      "text": "Lieutenant Dundy stood up looking dissatisfied.",
       "para_break": true
     },
     {
       "start": 1391.904,
       "end": 1393.32,
-      "text": "Tom rose yawning and stretching.",
-      "para_break": true
+      "text": "Tom rose yawning and stretching."
     },
     {
       "start": 1394.74,
       "end": 1396.12,
-      "text": "We've asked what we came to ask,",
+      "text": "\"We've asked what we came to ask,\"",
       "para_break": true
     },
     {
       "start": 1396.28,
       "end": 1397.0,
-      "text": "Dundee said,"
+      "text": "Dundy said,"
     },
     {
       "start": 1397.664,
@@ -606,26 +606,22 @@
     {
       "start": 1404.064,
       "end": 1405.8,
-      "text": "letting his lower lip push the words out.",
-      "para_break": true
+      "text": "letting his lower lip push the words out."
     },
     {
       "start": 1406.84,
       "end": 1408.54,
-      "text": "We've told you more than you've told us.",
-      "para_break": true
+      "text": "\"We've told you more than you've told us."
     },
     {
       "start": 1409.44,
       "end": 1410.08,
-      "text": "That's fair enough.",
-      "para_break": true
+      "text": "That's fair enough."
     },
     {
       "start": 1410.9,
       "end": 1411.36,
-      "text": "You know me,",
-      "para_break": true
+      "text": "You know me,"
     },
     {
       "start": 1411.44,
@@ -650,35 +646,33 @@
     {
       "start": 1417.62,
       "end": 1420.3,
-      "text": "I don't know that I'd blame you a hell of a lot,",
-      "para_break": true
+      "text": "I don't know that I'd blame you a hell of a lot,"
     },
     {
       "start": 1420.48,
       "end": 1422.58,
-      "text": "but that wouldn't keep me from nailing you."
+      "text": "but that wouldn't keep me from nailing you.\""
     },
     {
       "start": 1423.72,
       "end": 1424.08,
-      "text": "Fair enough,",
+      "text": "\"Fair enough,\"",
       "para_break": true
     },
     {
       "start": 1424.36,
       "end": 1425.62,
-      "text": "Spade replied evenly,"
+      "text": "Spade replied evenly."
     },
     {
       "start": 1426.48,
       "end": 1428.88,
-      "text": "but I'd feel better about it if you'd drink your drink.",
-      "para_break": true
+      "text": "\"But I'd feel better about it if you'd drink your drink.\""
     },
     {
       "start": 1430.4,
       "end": 1431.92,
-      "text": "Lieutenant Dundee turned to the table,",
+      "text": "Lieutenant Dundy turned to the table,",
       "para_break": true
     },
     {
@@ -699,7 +693,7 @@
     {
       "start": 1435.58,
       "end": 1435.94,
-      "text": "good night,"
+      "text": "\"Good night,\""
     },
     {
       "start": 1436.5,
@@ -740,8 +734,7 @@
     {
       "start": 1450.016,
       "end": 1451.06,
-      "text": "End of chapter two",
-      "para_break": true
+      "text": "End of chapter two."
     }
   ]
 }

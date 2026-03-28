@@ -11,6 +11,7 @@
   "page_start_sec": 734.336,
   "page_end_sec": 974.94,
   "para_gap_threshold": 0.738,
+  "corrected": "claude",
   "segments": [
     {
       "start": 734.336,
@@ -21,8 +22,7 @@
     {
       "start": 737.824,
       "end": 739.68,
-      "text": "Tom sat on an end of the sofa",
-      "para_break": true
+      "text": "Tom sat on an end of the sofa"
     },
     {
       "start": 739.68,
@@ -32,32 +32,33 @@
     {
       "start": 740.64,
       "end": 743.4,
-      "text": "The lieutenant sat on a chair beside the table."
+      "text": "The Lieutenant sat on a chair beside the table."
     },
     {
       "start": 743.82,
       "end": 745.86,
-      "text": "The lieutenant was a compactly"
+      "text": "The Lieutenant was a compactly",
+      "para_break": true
     },
     {
       "start": 745.86,
       "end": 748.48,
-      "text": "built man with a round head under shortcut"
+      "text": "built man with a round head under short-cut"
     },
     {
       "start": 748.56,
       "end": 751.96,
-      "text": "grizzled hair and a square face behind a shortcut"
+      "text": "grizzled hair and a square face behind a short-cut"
     },
     {
       "start": 752.18,
       "end": 752.98,
-      "text": "but grizzled mustache."
+      "text": "grizzled mustache."
     },
     {
       "start": 753.96,
       "end": 756.26,
-      "text": "A five-dollar gold piece was pinned to his necktie,",
+      "text": "A five-dollar gold-piece was pinned to his necktie,",
       "para_break": true
     },
     {
@@ -68,12 +69,12 @@
     {
       "start": 757.78,
       "end": 761.42,
-      "text": "elaborate diamond-set Secret Society emblem on his lapel."
+      "text": "elaborate diamond-set secret-society-emblem on his lapel."
     },
     {
       "start": 762.592,
       "end": 764.36,
-      "text": "Spade brought two wine glasses in from",
+      "text": "Spade brought two wine-glasses in from",
       "para_break": true
     },
     {
@@ -104,18 +105,17 @@
     {
       "start": 773.28,
       "end": 774.94,
-      "text": "His face was placid and uncurious.",
-      "para_break": true
+      "text": "His face was placid and uncurious."
     },
     {
       "start": 775.24,
       "end": 777.06,
-      "text": "He raised his glass and said,"
+      "text": "He raised his glass, and said,"
     },
     {
       "start": 777.38,
       "end": 778.82,
-      "text": "success to crime,"
+      "text": "\"Success to crime,\""
     },
     {
       "start": 779.52,
@@ -141,8 +141,7 @@
     {
       "start": 788.0,
       "end": 790.82,
-      "text": "He stared at the foot of the bed as if trying to remember something",
-      "para_break": true
+      "text": "He stared at the foot of the bed as if trying to remember something"
     },
     {
       "start": 790.96,
@@ -152,14 +151,13 @@
     {
       "start": 793.62,
       "end": 796.12,
-      "text": "The lieutenant looked at his glass for a dozen seconds,",
+      "text": "The Lieutenant looked at his glass for a dozen seconds,",
       "para_break": true
     },
     {
       "start": 796.92,
       "end": 798.6,
-      "text": "took a very small sip of its contents,",
-      "para_break": true
+      "text": "took a very small sip of its contents,"
     },
     {
       "start": 799.22,
@@ -169,8 +167,7 @@
     {
       "start": 801.82,
       "end": 803.44,
-      "text": "He examined the room with hard,",
-      "para_break": true
+      "text": "He examined the room with hard,"
     },
     {
       "start": 803.5,
@@ -180,8 +177,7 @@
     {
       "start": 805.18,
       "end": 806.08,
-      "text": "and then looked at Tom.",
-      "para_break": true
+      "text": "and then looked at Tom."
     },
     {
       "start": 807.36,
@@ -202,12 +198,12 @@
     {
       "start": 811.47,
       "end": 813.62,
-      "text": "Did you break the news to Miles' wife,"
+      "text": "\"Did you break the news to Miles's wife,"
     },
     {
       "start": 813.78,
       "end": 814.0,
-      "text": "Sam?"
+      "text": "Sam?\""
     },
     {
       "start": 815.2,
@@ -218,12 +214,12 @@
     {
       "start": 815.88,
       "end": 816.7,
-      "text": "Uh-huh."
+      "text": "\"Uh-huh.\""
     },
     {
       "start": 818.14,
       "end": 818.84,
-      "text": "How'd she take it?",
+      "text": "\"How'd she take it?\"",
       "para_break": true
     },
     {
@@ -235,7 +231,7 @@
     {
       "start": 821.26,
       "end": 823.12,
-      "text": "I don't know anything about women."
+      "text": "\"I don't know anything about women.\""
     },
     {
       "start": 824.384,
@@ -246,13 +242,13 @@
     {
       "start": 826.0,
       "end": 826.91,
-      "text": "The hell you don't.",
+      "text": "\"The hell you don't.\"",
       "para_break": true
     },
     {
       "start": 827.9,
       "end": 830.4,
-      "text": "The lieutenant put his hands on his knees and leaned forward.",
+      "text": "The Lieutenant put his hands on his knees and leaned forward.",
       "para_break": true
     },
     {
@@ -264,7 +260,7 @@
     {
       "start": 835.64,
       "end": 837.96,
-      "text": "as if their focus were a matter of mechanics"
+      "text": "as if their focus were a matter of mechanics,"
     },
     {
       "start": 838.62,
@@ -274,7 +270,7 @@
     {
       "start": 842.39,
       "end": 843.9,
-      "text": "What kind of gun do you carry?",
+      "text": "\"What kind of gun do you carry?\"",
       "para_break": true
     },
     {
@@ -285,7 +281,7 @@
     {
       "start": 845.86,
       "end": 846.42,
-      "text": "None.",
+      "text": "\"None.",
       "para_break": true
     },
     {
@@ -296,67 +292,65 @@
     {
       "start": 848.58,
       "end": 848.88,
-      "text": "Of course,"
+      "text": "Of course"
     },
     {
       "start": 848.88,
       "end": 849.96,
-      "text": "there are some in the office."
+      "text": "there are some in the office.\""
     },
     {
       "start": 851.46,
       "end": 852.6,
-      "text": "I'd like to see one of them,",
+      "text": "\"I'd like to see one of them,\"",
       "para_break": true
     },
     {
       "start": 852.68,
       "end": 853.58,
-      "text": "the lieutenant said."
+      "text": "the Lieutenant said."
     },
     {
       "start": 854.68,
       "end": 855.92,
-      "text": "You don't happen to have one here?",
+      "text": "\"You don't happen to have one here?\"",
       "para_break": true
     },
     {
       "start": 856.52,
       "end": 857.42,
-      "text": "No."
+      "text": "\"No.\""
     },
     {
       "start": 858.1,
       "end": 859.2,
-      "text": "You sure of that?"
+      "text": "\"You sure of that?\""
     },
     {
       "start": 860.46,
       "end": 860.82,
-      "text": "Look around.",
+      "text": "\"Look around.\"",
       "para_break": true
     },
     {
       "start": 861.888,
       "end": 864.04,
-      "text": "Spade smiled and waved his empty glass a little.",
-      "para_break": true
+      "text": "Spade smiled and waved his empty glass a little."
     },
     {
       "start": 864.8,
       "end": 866.68,
-      "text": "Turn the dump upside down if you want.",
-      "para_break": true
+      "text": "\"Turn the dump upside-down if you want."
     },
     {
       "start": 867.04,
       "end": 867.92,
-      "text": "I won't squawk."
+      "text": "I won't squawk—"
     },
     {
       "start": 868.64,
       "end": 869.8,
-      "text": "If you've got a search warrant."
+      "text": "if you've got a search-warrant.\""
     },
     {
       "start": 871.08,
@@ -367,7 +361,7 @@
     {
       "start": 872.52,
       "end": 872.92,
-      "text": "Oh,"
+      "text": "\"Oh,"
     },
     {
       "start": 873.04,
@@ -377,34 +371,34 @@
     {
       "start": 873.74,
       "end": 874.04,
-      "text": "Sam."
+      "text": "Sam!\""
     },
     {
       "start": 875.52,
       "end": 878.34,
-      "text": "Spade set his glass on the table and stood up facing the lieutenant.",
+      "text": "Spade set his glass on the table and stood up facing the Lieutenant.",
       "para_break": true
     },
     {
       "start": 879.62,
       "end": 880.28,
-      "text": "What do you want,",
+      "text": "\"What do you want,",
       "para_break": true
     },
     {
       "start": 880.4,
       "end": 880.76,
-      "text": "Dundee?"
+      "text": "Dundy?\""
     },
     {
       "start": 881.08,
       "end": 883.38,
-      "text": "He asked in a voice hard and cold as his eyes."
+      "text": "he asked in a voice hard and cold as his eyes."
     },
     {
       "start": 884.544,
       "end": 886.06,
-      "text": "Lieutenant Dundee's eyes had moved",
+      "text": "Lieutenant Dundy's eyes had moved",
       "para_break": true
     },
     {
@@ -426,13 +420,12 @@
     {
       "start": 893.18,
       "end": 896.19,
-      "text": "blew a deep breath out through his nose and growled plaintively."
+      "text": "blew a deep breath out through his nose, and growled plaintively:"
     },
     {
       "start": 897.24,
       "end": 898.3,
-      "text": "We're not wanting to make",
-      "para_break": true
+      "text": "\"We're not wanting to make"
     },
     {
       "start": 898.3,
@@ -442,12 +435,13 @@
     {
       "start": 898.9,
       "end": 899.14,
-      "text": "Sam."
+      "text": "Sam.\""
     },
     {
       "start": 899.72,
       "end": 900.78,
-      "text": "Spade,"
+      "text": "Spade,",
+      "para_break": true
     },
     {
       "start": 901.0,
@@ -457,12 +451,12 @@
     {
       "start": 902.1,
       "end": 902.82,
-      "text": "said to Dundee,"
+      "text": "said to Dundy:"
     },
     {
       "start": 902.98,
       "end": 903.58,
-      "text": "well,"
+      "text": "\"Well,"
     },
     {
       "start": 903.8,
@@ -472,40 +466,38 @@
     {
       "start": 906.112,
       "end": 906.76,
-      "text": "Talk turkey.",
-      "para_break": true
+      "text": "Talk turkey."
     },
     {
       "start": 907.2,
       "end": 910.58,
-      "text": "Who in hell do you think you are coming in here trying to rope me?"
+      "text": "Who in hell do you think you are, coming in here trying to rope me?\""
     },
     {
       "start": 911.7,
       "end": 912.02,
-      "text": "All right,",
+      "text": "\"All right,\"",
       "para_break": true
     },
     {
       "start": 912.832,
       "end": 913.52,
-      "text": "Dundee said in his",
-      "para_break": true
+      "text": "Dundy said in his"
     },
     {
       "start": 913.62,
       "end": 913.8,
-      "text": "chest."
+      "text": "chest,"
     },
     {
       "start": 914.14,
       "end": 915.6,
-      "text": "Sit down and listen."
+      "text": "\"sit down and listen.\""
     },
     {
       "start": 917.056,
       "end": 919.06,
-      "text": "I'll sit or stand as I damn please,",
+      "text": "\"I'll sit or stand as I damned please,\"",
       "para_break": true
     },
     {
@@ -521,13 +513,13 @@
     {
       "start": 921.82,
       "end": 922.28,
-      "text": "For Christ's",
+      "text": "\"For Christ's",
       "para_break": true
     },
     {
       "start": 922.42,
       "end": 923.14,
-      "text": "sake be reasonable,"
+      "text": "sake be reasonable,\""
     },
     {
       "start": 923.46,
@@ -537,13 +529,12 @@
     {
       "start": 924.6,
       "end": 926.38,
-      "text": "What's the use of us having a row?"
+      "text": "\"What's the use of us having a row?"
     },
     {
       "start": 927.54,
       "end": 929.46,
-      "text": "If you want to know why we didn't",
-      "para_break": true
+      "text": "If you want to know why we didn't"
     },
     {
       "start": 929.46,
@@ -588,13 +579,12 @@
     {
       "start": 941.46,
       "end": 942.92,
-      "text": "We got our work to do.",
-      "para_break": true
+      "text": "We got our work to do.\""
     },
     {
       "start": 944.192,
       "end": 945.46,
-      "text": "Lieutenant Dundee jumped up,",
+      "text": "Lieutenant Dundy jumped up,",
       "para_break": true
     },
     {
@@ -615,12 +605,12 @@
     {
       "start": 949.49,
       "end": 950.98,
-      "text": "I've warned you,"
+      "text": "\"I've warned you"
     },
     {
       "start": 951.38,
       "end": 953.5,
-      "text": "your foot was going to slip one of these days,"
+      "text": "your foot was going to slip one of these days,\""
     },
     {
       "start": 953.68,
@@ -641,7 +631,7 @@
     {
       "start": 958.912,
       "end": 960.44,
-      "text": "Everybody's foot slips sometime,",
+      "text": "\"Everybody's foot slips sometime,\"",
       "para_break": true
     },
     {
@@ -652,7 +642,7 @@
     {
       "start": 963.9,
       "end": 964.8,
-      "text": "And this is yours.",
+      "text": "\"And this is yours.\"",
       "para_break": true
     },
     {
@@ -664,7 +654,7 @@
     {
       "start": 967.84,
       "end": 968.2,
-      "text": "No,"
+      "text": "\"No,"
     },
     {
       "start": 968.54,
@@ -674,7 +664,7 @@
     {
       "start": 969.44,
       "end": 969.9,
-      "text": "thank you."
+      "text": "thank you.\""
     },
     {
       "start": 970.06,
@@ -684,12 +674,12 @@
     {
       "start": 971.64,
       "end": 974.32,
-      "text": "His upper lip on the left side twitched over his"
+      "text": "His upper lip, on the left side, twitched over his"
     },
     {
       "start": 974.48,
       "end": 974.94,
-      "text": "eye-tooth."
+      "text": "eyetooth."
     }
   ]
 }

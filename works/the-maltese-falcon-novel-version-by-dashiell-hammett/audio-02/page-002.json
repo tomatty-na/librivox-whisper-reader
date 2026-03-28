@@ -11,11 +11,12 @@
   "page_start_sec": 247.54,
   "page_end_sec": 490.05,
   "para_gap_threshold": 0.738,
+  "corrected": "claude",
   "segments": [
     {
       "start": 247.54,
       "end": 249.9,
-      "text": "The building at the other end had a blank gray sidewall",
+      "text": "The building at the other end had a blank grey sidewall",
       "para_break": true
     },
     {
@@ -26,8 +27,7 @@
     {
       "start": 253.36,
       "end": 255.18,
-      "text": "Lights flickered on the sidewall and",
-      "para_break": true
+      "text": "Lights flickered on the sidewall and"
     },
     {
       "start": 255.52,
@@ -54,7 +54,7 @@
     {
       "start": 266.86,
       "end": 270.14,
-      "text": "sign that said Burritt Street in white against dark blue"
+      "text": "sign that said _Burritt St._ in white against dark blue"
     },
     {
       "start": 270.32,
@@ -64,61 +64,61 @@
     {
       "start": 272.68,
       "end": 273.5,
-      "text": "What do you want here?",
+      "text": "\"What do you want here?\"",
       "para_break": true
     },
     {
       "start": 274.688,
       "end": 275.52,
-      "text": "I'm Sam Spade.",
+      "text": "\"I'm Sam Spade.",
       "para_break": true
     },
     {
       "start": 275.64,
       "end": 277.32,
-      "text": "Tom Pohlhusk phoned me."
+      "text": "Tom Polhaus phoned me.\""
     },
     {
       "start": 277.77,
       "end": 282.18,
-      "text": "sure you are the policeman's arm went down i"
+      "text": "\"Sure you are.\" The policeman's arm went down. \"I"
     },
     {
       "start": 282.208,
       "end": 284.98,
-      "text": "didn't know you at first well they're back there"
+      "text": "didn't know you at first. Well, they're back there.\""
     },
     {
       "start": 285.24,
       "end": 289.06,
-      "text": "he jerked a thumb over his shoulder bad business"
+      "text": "He jerked a thumb over his shoulder. \"Bad business.\""
     },
     {
       "start": 290.2,
       "end": 292.8,
-      "text": "bad enough spade agreed and went up the alley",
+      "text": "\"Bad enough,\" Spade agreed, and went up the alley.",
       "para_break": true
     },
     {
       "start": 294.112,
       "end": 296.76,
-      "text": "halfway up it not far from the entrance a dark",
+      "text": "Half-way up it, not far from the entrance, a dark",
       "para_break": true
     },
     {
       "start": 296.76,
       "end": 300.0,
-      "text": "ambulance stood behind the ambulance to the left"
+      "text": "ambulance stood. Behind the ambulance, to the left,"
     },
     {
       "start": 300.08,
       "end": 302.28,
-      "text": "the alley was bounded by a waist-high fence"
+      "text": "the alley was bounded by a waist-high fence,"
     },
     {
       "start": 302.32,
       "end": 305.96,
-      "text": "horizontal strips of rough boarding from the"
+      "text": "horizontal strips of rough boarding. From the"
     },
     {
       "start": 306.08,
@@ -160,8 +160,7 @@
     {
       "start": 322.06,
       "end": 323.74,
-      "text": "In the notch between boulder and slope,",
-      "para_break": true
+      "text": "In the notch between boulder and slope"
     },
     {
       "start": 324.44,
@@ -171,14 +170,12 @@
     {
       "start": 326.82,
       "end": 327.92,
-      "text": "Two men stood over him.",
-      "para_break": true
+      "text": "Two men stood over him."
     },
     {
       "start": 328.9,
       "end": 330.42,
-      "text": "One of them held the beam of an electric",
-      "para_break": true
+      "text": "One of them held the beam of an electric"
     },
     {
       "start": 330.58,
@@ -188,8 +185,7 @@
     {
       "start": 332.7,
       "end": 334.78,
-      "text": "Other men with lights moved up and down the slope.",
-      "para_break": true
+      "text": "Other men with lights moved up and down the slope."
     },
     {
       "start": 336.08,
@@ -200,12 +196,12 @@
     {
       "start": 337.56,
       "end": 337.98,
-      "text": "Hello,"
+      "text": "\"Hello,"
     },
     {
       "start": 338.12,
       "end": 338.36,
-      "text": "Sam,"
+      "text": "Sam,\""
     },
     {
       "start": 338.58,
@@ -236,8 +232,7 @@
     {
       "start": 351.52,
       "end": 351.92,
-      "text": "His shoes,",
-      "para_break": true
+      "text": "His shoes,"
     },
     {
       "start": 351.94,
@@ -257,7 +252,7 @@
     {
       "start": 356.02,
       "end": 358.36,
-      "text": "I figured you'd want to see it before we took him away,",
+      "text": "\"I figured you'd want to see it before we took him away,\"",
       "para_break": true
     },
     {
@@ -268,13 +263,13 @@
     {
       "start": 361.94,
       "end": 362.48,
-      "text": "Thanks,",
+      "text": "\"Thanks,",
       "para_break": true
     },
     {
       "start": 362.56,
       "end": 362.76,
-      "text": "Tom,"
+      "text": "Tom,\""
     },
     {
       "start": 362.96,
@@ -284,12 +279,12 @@
     {
       "start": 364.3,
       "end": 364.7,
-      "text": "What happened?"
+      "text": "\"What happened?\""
     },
     {
       "start": 366.08,
       "end": 368.66,
-      "text": "He put an elbow on a fence post and looked down at the men below,",
+      "text": "He put an elbow on a fence-post and looked down at the men below,",
       "para_break": true
     },
     {
@@ -306,25 +301,23 @@
     {
       "start": 374.88,
       "end": 376.72,
-      "text": "Got him right through the pump with this.",
+      "text": "\"Got him right through the pump—with this.\"",
       "para_break": true
     },
     {
       "start": 377.72,
       "end": 381.02,
-      "text": "He took a fat revolver from his coat pocket and held it out to Spade.",
-      "para_break": true
+      "text": "He took a fat revolver from his coat-pocket and held it out to Spade."
     },
     {
       "start": 382.016,
       "end": 384.28,
-      "text": "Mud inlaid the depressions in the revolver's surface.",
-      "para_break": true
+      "text": "Mud inlaid the depressions in the revolver's surface."
     },
     {
       "start": 385.18,
       "end": 385.74,
-      "text": "A Webley.",
+      "text": "\"A Webley.",
       "para_break": true
     },
     {
@@ -335,38 +328,38 @@
     {
       "start": 386.68,
       "end": 387.06,
-      "text": "ain't it?"
+      "text": "ain't it?\""
     },
     {
       "start": 387.84,
       "end": 389.5,
-      "text": "Spade took his elbow from the fence post",
+      "text": "Spade took his elbow from the fence-post",
       "para_break": true
     },
     {
       "start": 389.5,
       "end": 391.14,
-      "text": "and leaned down to look at the weapon."
+      "text": "and leaned down to look at the weapon,"
     },
     {
       "start": 391.8,
       "end": 392.78,
-      "text": "But he did not touch it."
+      "text": "but he did not touch it."
     },
     {
       "start": 393.44,
       "end": 393.98,
-      "text": "Yes,"
+      "text": "\"Yes,\""
     },
     {
       "start": 394.12,
       "end": 394.62,
-      "text": "he said."
+      "text": "he said,"
     },
     {
       "start": 395.232,
       "end": 397.06,
-      "text": "Webley Fosbury automatic revolver."
+      "text": "\"Webley-Fosbery automatic revolver."
     },
     {
       "start": 397.16,
@@ -376,28 +369,27 @@
     {
       "start": 398.38,
       "end": 398.82,
-      "text": "38."
+      "text": "Thirty-eight,"
     },
     {
       "start": 399.08,
       "end": 399.48,
-      "text": "Eight shot."
+      "text": "eight shot."
     },
     {
       "start": 400.32,
       "end": 401.32,
-      "text": "They don't make them anymore.",
-      "para_break": true
+      "text": "They don't make them any more."
     },
     {
       "start": 401.98,
       "end": 403.28,
-      "text": "How many gone out of it?"
+      "text": "How many gone out of it?\""
     },
     {
       "start": 404.34,
       "end": 404.72,
-      "text": "One pill.",
+      "text": "\"One pill.\"",
       "para_break": true
     },
     {
@@ -408,23 +400,22 @@
     {
       "start": 407.18,
       "end": 408.6,
-      "text": "He must have been dead when"
+      "text": "\"He must've been dead when"
     },
     {
       "start": 408.6,
       "end": 409.34,
-      "text": "he cracked the fence."
+      "text": "he cracked the fence.\""
     },
     {
       "start": 410.08,
       "end": 411.78,
-      "text": "He raised the muddy revolver.",
-      "para_break": true
+      "text": "He raised the muddy revolver."
     },
     {
       "start": 412.56,
       "end": 413.38,
-      "text": "Ever seen this before?",
+      "text": "\"Ever seen this before?\"",
       "para_break": true
     },
     {
@@ -436,7 +427,7 @@
     {
       "start": 415.78,
       "end": 417.34,
-      "text": "I've seen Webley Fosbury's,"
+      "text": "\"I've seen Webley-Fosberys,\""
     },
     {
       "start": 417.82,
@@ -446,12 +437,12 @@
     {
       "start": 418.96,
       "end": 420.36,
-      "text": "and then spoke rapidly."
+      "text": "and then spoke rapidly:"
     },
     {
       "start": 421.2,
       "end": 421.76,
-      "text": "He was shot",
+      "text": "\"He was shot",
       "para_break": true
     },
     {
@@ -472,18 +463,17 @@
     {
       "start": 424.52,
       "end": 425.48,
-      "text": "with his back to the fence?"
+      "text": "with his back to the fence."
     },
     {
       "start": 426.34,
       "end": 427.22,
-      "text": "The man that shot him stands",
-      "para_break": true
+      "text": "The man that shot him stands"
     },
     {
       "start": 427.22,
       "end": 427.56,
-      "text": "here."
+      "text": "here.\""
     },
     {
       "start": 428.5,
@@ -494,7 +484,7 @@
     {
       "start": 430.64,
       "end": 431.2,
-      "text": "breast high,"
+      "text": "breast-high,"
     },
     {
       "start": 431.38,
@@ -504,7 +494,7 @@
     {
       "start": 433.34,
       "end": 434.04,
-      "text": "Lets him have it,"
+      "text": "\"Lets him have it,"
     },
     {
       "start": 434.34,
@@ -524,12 +514,12 @@
     {
       "start": 441.3,
       "end": 441.6,
-      "text": "That it?"
+      "text": "That it?\""
     },
     {
       "start": 442.752,
       "end": 443.02,
-      "text": "That's it,",
+      "text": "\"That's it,\"",
       "para_break": true
     },
     {
@@ -540,34 +530,33 @@
     {
       "start": 445.216,
       "end": 446.22,
-      "text": "working his brows together.",
-      "para_break": true
+      "text": "working his brows together."
     },
     {
       "start": 446.62,
       "end": 448.36,
-      "text": "The blast burnt his coat."
+      "text": "\"The blast burnt his coat.\""
     },
     {
       "start": 448.97,
       "end": 450.16,
-      "text": "Who found him?"
+      "text": "\"Who found him?\"",
+      "para_break": true
     },
     {
       "start": 450.82,
       "end": 452.76,
-      "text": "the man on the beat Schilling he"
+      "text": "\"The man on the beat, Shilling. He"
     },
     {
       "start": 453.792,
       "end": 456.94,
-      "text": "was coming down bush and just as he got here a machine turning",
-      "para_break": true
+      "text": "was coming down Bush, and just as he got here a machine turning"
     },
     {
       "start": 457.14,
       "end": 459.88,
-      "text": "through headlights up here and he saw the top off"
+      "text": "threw headlights up here and he saw the top off"
     },
     {
       "start": 459.88,
@@ -577,28 +566,28 @@
     {
       "start": 462.72,
       "end": 465.58,
-      "text": "him what about the machine that was turning around"
+      "text": "him. What about the machine that was turning around?\""
     },
     {
       "start": 466.8,
       "end": 469.52,
-      "text": "not a damn thing about it Sam Schilling didn't pay",
+      "text": "\"Not a damned thing about it, Sam. Shilling didn't pay",
       "para_break": true
     },
     {
       "start": 469.52,
       "end": 472.2,
-      "text": "any attention to it not knowing anything was wrong"
+      "text": "any attention to it, not knowing anything was wrong"
     },
     {
       "start": 472.2,
       "end": 475.52,
-      "text": "then he says nobody didn't come out of here while"
+      "text": "then. He says nobody didn't come out of here while"
     },
     {
       "start": 475.8,
       "end": 478.2,
-      "text": "he was coming down from Powell or he'd have seen them."
+      "text": "he was coming down from Powell or he'd've seen them."
     },
     {
       "start": 478.71,
@@ -618,12 +607,12 @@
     {
       "start": 483.72,
       "end": 486.84,
-      "text": "The fog's got the ground soggy and the only marks"
+      "text": "The fog's got the ground soggy, and the only marks"
     },
     {
       "start": 487.14,
       "end": 490.05,
-      "text": "are where Miles slid down and where this here gun rolled."
+      "text": "are where Miles slid down and where this here gun rolled.\""
     }
   ]
 }

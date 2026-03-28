@@ -11,17 +11,18 @@
   "page_start_sec": 491.2,
   "page_end_sec": 733.24,
   "para_gap_threshold": 0.738,
+  "corrected": "claude",
   "segments": [
     {
       "start": 491.2,
       "end": 492.5,
-      "text": "Didn't anybody hear the shot?",
+      "text": "\"Didn't anybody hear the shot?\"",
       "para_break": true
     },
     {
       "start": 493.48,
       "end": 494.84,
-      "text": "For the love of God,",
+      "text": "\"For the love of God,",
       "para_break": true
     },
     {
@@ -37,13 +38,12 @@
     {
       "start": 498.336,
       "end": 499.52,
-      "text": "Somebody must have heard it.",
-      "para_break": true
+      "text": "Somebody must've heard it,"
     },
     {
       "start": 500.06,
       "end": 500.88,
-      "text": "When we find them,"
+      "text": "when we find them.\""
     },
     {
       "start": 501.31,
@@ -53,7 +53,7 @@
     {
       "start": 504.32,
       "end": 506.42,
-      "text": "Coming down for a look at him before he's moved?",
+      "text": "\"Coming down for a look at him before he's moved?\"",
       "para_break": true
     },
     {
@@ -65,7 +65,7 @@
     {
       "start": 508.22,
       "end": 508.32,
-      "text": "no."
+      "text": "\"No.\""
     },
     {
       "start": 510.4,
@@ -87,12 +87,12 @@
     {
       "start": 515.78,
       "end": 516.92,
-      "text": "you've seen him."
+      "text": "\"You've seen him."
     },
     {
       "start": 517.38,
       "end": 518.44,
-      "text": "You'd see everything I could."
+      "text": "You'd see everything I could.\""
     },
     {
       "start": 519.38,
@@ -113,7 +113,7 @@
     {
       "start": 524.98,
       "end": 526.44,
-      "text": "His gun was tucked away on his hip,",
+      "text": "\"His gun was tucked away on his hip,\"",
       "para_break": true
     },
     {
@@ -124,19 +124,17 @@
     {
       "start": 527.26,
       "end": 528.28,
-      "text": "It hadn't been fired."
+      "text": "\"It hadn't been fired."
     },
     {
       "start": 529.3,
       "end": 530.56,
-      "text": "His overcoat was buttoned.",
-      "para_break": true
+      "text": "His overcoat was buttoned."
     },
     {
       "start": 531.36,
       "end": 533.4,
-      "text": "There's 160-some bucks in his clothes.",
-      "para_break": true
+      "text": "There's a hundred and sixty-some bucks in his clothes."
     },
     {
       "start": 533.88,
@@ -146,7 +144,7 @@
     {
       "start": 534.96,
       "end": 535.18,
-      "text": "Sam?"
+      "text": "Sam?\""
     },
     {
       "start": 536.2,
@@ -173,12 +171,12 @@
     {
       "start": 540.74,
       "end": 540.92,
-      "text": "Well?"
+      "text": "\"Well?\""
     },
     {
       "start": 541.86,
       "end": 544.96,
-      "text": "He was supposed to be tailing a fellow named Floyd Thursby,",
+      "text": "\"He was supposed to be tailing a fellow named Floyd Thursby,\"",
       "para_break": true
     },
     {
@@ -194,13 +192,13 @@
     {
       "start": 550.464,
       "end": 550.74,
-      "text": "What for?",
+      "text": "\"What for?\"",
       "para_break": true
     },
     {
       "start": 552.256,
       "end": 554.12,
-      "text": "Spade put his hands into his overcoat",
+      "text": "Spade put his hands into his overcoat-",
       "para_break": true
     },
     {
@@ -217,13 +215,13 @@
     {
       "start": 559.424,
       "end": 560.032,
-      "text": "What for?",
+      "text": "\"What for?\"",
       "para_break": true
     },
     {
       "start": 561.6,
       "end": 562.88,
-      "text": "\"'He was an Englishman,",
+      "text": "\"He was an Englishman,",
       "para_break": true
     },
     {
@@ -234,13 +232,12 @@
     {
       "start": 563.32,
       "end": 565.12,
-      "text": "I don't know what his game was exactly."
+      "text": "I don't know what his game was, exactly."
     },
     {
       "start": 565.98,
       "end": 567.77,
-      "text": "We were trying to find out where he lived.'",
-      "para_break": true
+      "text": "We were trying to find out where he lived.\""
     },
     {
       "start": 568.64,
@@ -256,7 +253,7 @@
     {
       "start": 573.344,
       "end": 574.06,
-      "text": "\"'Don't crowd me.'",
+      "text": "\"Don't crowd me.\"",
       "para_break": true
     },
     {
@@ -267,7 +264,7 @@
     {
       "start": 577.5,
       "end": 579.79,
-      "text": "\"'I'm going out to break the news to Miles's wife.'",
+      "text": "\"I'm going out to break the news to Miles's wife.\"",
       "para_break": true
     },
     {
@@ -294,8 +291,7 @@
     {
       "start": 584.72,
       "end": 586.04,
-      "text": "closed it without having said anything,",
-      "para_break": true
+      "text": "closed it without having said anything,"
     },
     {
       "start": 586.7,
@@ -310,12 +306,12 @@
     {
       "start": 589.94,
       "end": 591.86,
-      "text": "and spoke with a husky sort of gentleness."
+      "text": "and spoke with a husky sort of gentleness:"
     },
     {
       "start": 593.08,
       "end": 593.56,
-      "text": "It's tough,",
+      "text": "\"It's tough,",
       "para_break": true
     },
     {
@@ -326,29 +322,28 @@
     {
       "start": 595.96,
       "end": 597.84,
-      "text": "Miles had his faults same as the rest of us,",
-      "para_break": true
+      "text": "Miles had his faults same as the rest of us,"
     },
     {
       "start": 598.06,
       "end": 600.1,
-      "text": "but I guess he must have had some good points,"
+      "text": "but I guess he must've had some good points,"
     },
     {
       "start": 600.2,
       "end": 600.46,
-      "text": "too."
+      "text": "too.\""
     },
     {
       "start": 601.44,
       "end": 601.98,
-      "text": "I guess so,",
+      "text": "\"I guess so,\"",
       "para_break": true
     },
     {
       "start": 602.22,
       "end": 603.02,
-      "text": "Spade agreed,"
+      "text": "Spade agreed"
     },
     {
       "start": 603.32,
@@ -363,7 +358,7 @@
     {
       "start": 607.66,
       "end": 610.4,
-      "text": "In an all-night drugstore on the corner of Bush and Taylor Streets,",
+      "text": "In an all-night drug-store on the corner of Bush and Taylor Streets,",
       "para_break": true
     },
     {
@@ -374,19 +369,18 @@
     {
       "start": 612.76,
       "end": 613.24,
-      "text": "Precious,",
+      "text": "\"Precious,\"",
       "para_break": true
     },
     {
       "start": 613.62,
       "end": 616.34,
-      "text": "he said into it a little while after he had given a number."
+      "text": "he said into it a little while after he had given a number,"
     },
     {
       "start": 617.52,
       "end": 618.3,
-      "text": "Miles has been shot.",
-      "para_break": true
+      "text": "\"Miles has been shot. . . ."
     },
     {
       "start": 618.96,
@@ -396,25 +390,22 @@
     {
       "start": 619.56,
       "end": 620.32,
-      "text": "he's dead."
+      "text": "he's dead. . . ."
     },
     {
       "start": 621.24,
       "end": 622.08,
-      "text": "Now don't get excited.",
-      "para_break": true
+      "text": "Now don't get excited. . . ."
     },
     {
       "start": 623.12,
       "end": 623.52,
-      "text": "Yes,",
-      "para_break": true
+      "text": "Yes. . . ."
     },
     {
       "start": 624.48,
       "end": 625.64,
-      "text": "you'll have to break it to Iva.",
-      "para_break": true
+      "text": "You'll have to break it to Iva. . . ."
     },
     {
       "start": 626.28,
@@ -429,53 +420,47 @@
     {
       "start": 629.472,
       "end": 630.46,
-      "text": "You've got to do it.",
-      "para_break": true
+      "text": "You've got to do it. . . ."
     },
     {
       "start": 631.2,
       "end": 632.02,
-      "text": "That's a good girl.",
-      "para_break": true
+      "text": "That's a good girl. . . ."
     },
     {
       "start": 632.78,
       "end": 634.06,
-      "text": "And keep her away from the office.",
-      "para_break": true
+      "text": "And keep her away from the office. . . ."
     },
     {
       "start": 635.1,
       "end": 636.04,
-      "text": "Tell her I'll see her,",
-      "para_break": true
+      "text": "Tell her I'll see her—uh—"
     },
     {
       "start": 636.22,
       "end": 636.66,
-      "text": "uh,"
+      "text": "uh—"
     },
     {
       "start": 636.92,
       "end": 637.42,
-      "text": "sometime."
+      "text": "some time. . . ."
     },
     {
       "start": 638.65,
       "end": 639.1,
-      "text": "Yes,",
-      "para_break": true
+      "text": "Yes,"
     },
     {
       "start": 639.1,
       "end": 640.32,
-      "text": "but don't tie me up to anything."
+      "text": "but don't tie me up to anything. . . ."
     },
     {
       "start": 641.44,
       "end": 642.16,
-      "text": "That's the stuff.",
-      "para_break": true
+      "text": "That's the stuff."
     },
     {
       "start": 642.72,
@@ -485,12 +470,12 @@
     {
       "start": 643.96,
       "end": 644.18,
-      "text": "Bye."
+      "text": "'Bye.\""
     },
     {
       "start": 645.632,
       "end": 647.74,
-      "text": "Spade's tinny alarm clock said 3.40",
+      "text": "Spade's tinny alarm-clock said three-forty",
       "para_break": true
     },
     {
@@ -501,14 +486,12 @@
     {
       "start": 651.62,
       "end": 654.76,
-      "text": "He dropped his hat and overcoat on the bed and went into his kitchen,",
-      "para_break": true
+      "text": "He dropped his hat and overcoat on the bed and went into his kitchen,"
     },
     {
       "start": 655.584,
       "end": 657.26,
-      "text": "returning to the bedroom with a wine",
-      "para_break": true
+      "text": "returning to the bedroom with a wine-"
     },
     {
       "start": 657.26,
@@ -518,14 +501,12 @@
     {
       "start": 660.32,
       "end": 661.84,
-      "text": "He poured a drink and drank it standing.",
-      "para_break": true
+      "text": "He poured a drink and drank it standing."
     },
     {
       "start": 662.72,
       "end": 664.76,
-      "text": "He put bottle and glass on the table,",
-      "para_break": true
+      "text": "He put bottle and glass on the table,"
     },
     {
       "start": 665.34,
@@ -545,12 +526,12 @@
     {
       "start": 671.68,
       "end": 674.34,
-      "text": "his fifth cigarette when the street doorbell rang."
+      "text": "his fifth cigarette when the street-door-bell rang."
     },
     {
       "start": 674.88,
       "end": 677.52,
-      "text": "The hands of the alarm clock registered 4.30."
+      "text": "The hands of the alarm-clock registered four-thirty."
     },
     {
       "start": 678.624,
@@ -566,13 +547,12 @@
     {
       "start": 681.06,
       "end": 683.66,
-      "text": "and went to the telephone box beside his bathroom door."
+      "text": "and went to the telephone-box beside his bathroom-door."
     },
     {
       "start": 684.74,
       "end": 686.82,
-      "text": "He pressed the button that released the street door lock.",
-      "para_break": true
+      "text": "He pressed the button that released the street-door-lock."
     },
     {
       "start": 687.32,
@@ -582,13 +562,12 @@
     {
       "start": 687.88,
       "end": 688.84,
-      "text": "damn her,"
+      "text": "\"Damn her,\""
     },
     {
       "start": 689.6,
       "end": 691.64,
-      "text": "and stood scowling at the black telephone box,",
-      "para_break": true
+      "text": "and stood scowling at the black telephone-box,"
     },
     {
       "start": 692.256,
@@ -603,7 +582,8 @@
     {
       "start": 696.23,
       "end": 699.02,
-      "text": "The grating and rattling of the elevator door"
+      "text": "The grating and rattling of the elevator-door",
+      "para_break": true
     },
     {
       "start": 699.02,
@@ -613,8 +593,7 @@
     {
       "start": 702.08,
       "end": 704.46,
-      "text": "Spade sighed again and moved towards the corridor door.",
-      "para_break": true
+      "text": "Spade sighed again and moved towards the corridor-door."
     },
     {
       "start": 705.44,
@@ -625,25 +604,22 @@
     {
       "start": 706.0,
       "end": 708.62,
-      "text": "heavy footsteps sounded on the carpeted floor outside."
+      "text": "heavy footsteps sounded on the carpeted floor outside,"
     },
     {
       "start": 709.7,
       "end": 710.92,
-      "text": "The footsteps of two men.",
-      "para_break": true
+      "text": "the footsteps of two men."
     },
     {
       "start": 712.064,
       "end": 713.56,
-      "text": "Spade's face brightened.",
-      "para_break": true
+      "text": "Spade's face brightened."
     },
     {
       "start": 714.48,
       "end": 716.13,
-      "text": "His eyes were no longer harassed.",
-      "para_break": true
+      "text": "His eyes were no longer harassed."
     },
     {
       "start": 716.64,
@@ -653,13 +629,13 @@
     {
       "start": 718.76,
       "end": 719.1,
-      "text": "Hello,",
+      "text": "\"Hello,",
       "para_break": true
     },
     {
       "start": 719.16,
       "end": 719.42,
-      "text": "Tom,"
+      "text": "Tom,\""
     },
     {
       "start": 719.58,
@@ -669,22 +645,22 @@
     {
       "start": 722.56,
       "end": 724.42,
-      "text": "with whom he had talked in Burritt Street."
+      "text": "with whom he had talked in Burritt Street,"
     },
     {
       "start": 725.12,
       "end": 727.88,
-      "text": "and hello lieutenant to the man beside Tom."
+      "text": "and, \"Hello, Lieutenant,\" to the man beside Tom."
     },
     {
       "start": 728.56,
       "end": 728.86,
-      "text": "Come in."
+      "text": "\"Come in.\""
     },
     {
       "start": 730.02,
       "end": 732.16,
-      "text": "They nodded together neither saying anything",
+      "text": "They nodded together, neither saying anything,",
       "para_break": true
     },
     {

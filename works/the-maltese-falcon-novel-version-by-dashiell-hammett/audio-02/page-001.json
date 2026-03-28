@@ -11,6 +11,7 @@
   "page_start_sec": 1.056,
   "page_end_sec": 246.44,
   "para_gap_threshold": 0.738,
+  "corrected": "claude",
   "segments": [
     {
       "start": 1.056,
@@ -18,25 +19,41 @@
       "text": "Chapter 2 of The Maltese Falcon by Dashiell Hammett."
     },
     {
-      "start": 30.0,
-      "end": 30.24,
-      "text": "Yes.",
+      "start": 3.44,
+      "end": 9.7,
+      "text": " by Dashiell Hammett. This LibriVox recording is in the public domain. Death in the Fog."
+    },
+    {
+      "start": 10.72,
+      "end": 15.26,
+      "text": "A TELEPHONE-BELL rang in darkness. When it had rung three times, bed-springs creaked.",
       "para_break": true
     },
     {
-      "start": 30.26,
-      "end": 31.6,
-      "text": "Fifteen minutes,"
+      "start": 15.54,
+      "end": 20.0,
+      "text": "Fingers fumbled on wood. Something small and hard thudded on a carpeted floor."
     },
     {
-      "start": 31.76,
+      "start": 20.42,
+      "end": 23.54,
+      "text": "The springs creaked again, and a man's voice said,"
+    },
+    {
+      "start": 24.2,
+      "end": 30.0,
+      "text": "\"Hello. . . . Yes, speaking. . . . Dead? . . . Yes. . . . Fifteen"
+    },
+    {
+      "start": 30.26,
       "end": 32.08,
-      "text": "thanks."
+      "text": "minutes. Thanks.\""
     },
     {
       "start": 32.72,
       "end": 34.06,
-      "text": "A switch clicked,"
+      "text": "A switch clicked,",
+      "para_break": true
     },
     {
       "start": 34.26,
@@ -62,7 +79,7 @@
     {
       "start": 40.94,
       "end": 42.7,
-      "text": "barefooted in green and white check pajamas,"
+      "text": "barefooted in green and white checked pajamas,"
     },
     {
       "start": 43.02,
@@ -72,8 +89,7 @@
     {
       "start": 45.54,
       "end": 47.22,
-      "text": "He scowled at the telephone on the table,",
-      "para_break": true
+      "text": "He scowled at the telephone on the table,"
     },
     {
       "start": 47.68,
@@ -109,23 +125,23 @@
     {
       "start": 62.6,
       "end": 63.52,
-      "text": "A tinny alarm clock,",
+      "text": "A tinny alarm-clock,",
       "para_break": true
     },
     {
       "start": 63.68,
       "end": 68.12,
-      "text": "insecurely mounted on a corner of Duke's celebrated criminal cases of"
+      "text": "insecurely mounted on a corner of Duke's _Celebrated Criminal Cases of"
     },
     {
       "start": 68.2,
       "end": 68.48,
-      "text": "America,"
+      "text": "America_—"
     },
     {
       "start": 68.68,
       "end": 70.0,
-      "text": "face down on the table,"
+      "text": "face down on the table—"
     },
     {
       "start": 70.58,
@@ -146,8 +162,7 @@
     {
       "start": 77.824,
       "end": 80.4,
-      "text": "sifting a measured quantity of tan flakes down into curved",
-      "para_break": true
+      "text": "sifting a measured quantity of tan flakes down into curved"
     },
     {
       "start": 80.48,
@@ -172,8 +187,7 @@
     {
       "start": 87.06,
       "end": 89.2,
-      "text": "thumbs rolling the paper's inner edge down and",
-      "para_break": true
+      "text": "thumbs rolling the paper's inner edge down and"
     },
     {
       "start": 89.2,
@@ -188,7 +202,7 @@
     {
       "start": 92.54,
       "end": 96.46,
-      "text": "thumbs and fingers sliding to the paper's cylinder's ends"
+      "text": "thumbs and fingers sliding to the paper cylinder's ends"
     },
     {
       "start": 97.12,
@@ -198,13 +212,12 @@
     {
       "start": 98.44,
       "end": 99.0,
-      "text": "leaped the flap,"
+      "text": "licked the flap,"
     },
     {
       "start": 100.22,
       "end": 102.18,
-      "text": "left forefinger and thumb pinching their end",
-      "para_break": true
+      "text": "left forefinger and thumb pinching their end"
     },
     {
       "start": 102.18,
@@ -219,8 +232,7 @@
     {
       "start": 105.92,
       "end": 107.66,
-      "text": "right forefinger and thumb twisting their",
-      "para_break": true
+      "text": "right forefinger and thumb twisting their"
     },
     {
       "start": 107.66,
@@ -240,13 +252,12 @@
     {
       "start": 115.104,
       "end": 115.84,
-      "text": "manipulated it,",
-      "para_break": true
+      "text": "manipulated it,"
     },
     {
       "start": 116.26,
       "end": 118.38,
-      "text": "and with a cigarette burning in a corner of his mouth,"
+      "text": "and with the cigarette burning in a corner of his mouth,"
     },
     {
       "start": 118.42,
@@ -256,8 +267,7 @@
     {
       "start": 119.84,
       "end": 120.84,
-      "text": "He took off his pajamas.",
-      "para_break": true
+      "text": "He took off his pajamas."
     },
     {
       "start": 121.72,
@@ -288,13 +298,12 @@
     {
       "start": 128.62,
       "end": 129.74,
-      "text": "It was like a shaved bear's.",
-      "para_break": true
+      "text": "It was like a shaved bear's:"
     },
     {
       "start": 130.46,
       "end": 131.62,
-      "text": "His chest was hairless."
+      "text": "his chest was hairless."
     },
     {
       "start": 132.04,
@@ -310,13 +319,12 @@
     {
       "start": 138.34,
       "end": 140.04,
-      "text": "He put on a thin white union suit.",
-      "para_break": true
+      "text": "He put on a thin white union-suit,"
     },
     {
       "start": 140.36,
       "end": 141.08,
-      "text": "gray socks,"
+      "text": "grey socks,"
     },
     {
       "start": 141.3,
@@ -331,8 +339,7 @@
     {
       "start": 144.34,
       "end": 145.6,
-      "text": "When he had fastened his shoes,",
-      "para_break": true
+      "text": "When he had fastened his shoes"
     },
     {
       "start": 145.76,
@@ -347,17 +354,17 @@
     {
       "start": 147.0,
       "end": 149.42,
-      "text": "called Greystone 4500,"
+      "text": "called Graystone 4500,"
     },
     {
       "start": 149.62,
       "end": 151.14,
-      "text": "and ordered a taxi cab."
+      "text": "and ordered a taxicab."
     },
     {
       "start": 151.84,
       "end": 153.92,
-      "text": "He put on a green striped white shirt,"
+      "text": "He put on a green-striped white shirt,"
     },
     {
       "start": 154.36,
@@ -372,7 +379,7 @@
     {
       "start": 156.92,
       "end": 159.2,
-      "text": "the gray suit he had worn that day,"
+      "text": "the grey suit he had worn that day,"
     },
     {
       "start": 159.36,
@@ -382,13 +389,12 @@
     {
       "start": 161.2,
       "end": 162.32,
-      "text": "and a dark gray hat."
+      "text": "and a dark grey hat."
     },
     {
       "start": 163.28,
       "end": 165.5,
-      "text": "The street doorbell rang as he stuffed tobacco,",
-      "para_break": true
+      "text": "The street-door-bell rang as he stuffed tobacco,"
     },
     {
       "start": 165.72,
@@ -408,7 +414,7 @@
     {
       "start": 169.02,
       "end": 170.5,
-      "text": "Where Bush Street roofs Stockton",
+      "text": "Where Bush Street roofed Stockton",
       "para_break": true
     },
     {
@@ -424,12 +430,12 @@
     {
       "start": 174.18,
       "end": 175.54,
-      "text": "fare and left a taxi cab."
+      "text": "fare and left the taxicab."
     },
     {
       "start": 176.26,
       "end": 177.8,
-      "text": "San Francisco's night fog,"
+      "text": "San Francisco's night-fog,"
     },
     {
       "start": 178.04,
@@ -459,7 +465,7 @@
     {
       "start": 181.32,
       "end": 184.42,
-      "text": "A few yards from where Spade had dismissed the taxi cab,"
+      "text": "A few yards from where Spade had dismissed the taxicab"
     },
     {
       "start": 184.58,
@@ -474,8 +480,7 @@
     {
       "start": 187.96,
       "end": 190.64,
-      "text": "Two women stood with a man on the other side of Bush Street,",
-      "para_break": true
+      "text": "Two women stood with a man on the other side of Bush Street,"
     },
     {
       "start": 190.78,
@@ -490,8 +495,7 @@
     {
       "start": 195.488,
       "end": 197.94,
-      "text": "Spade crossed the sidewalk between iron-railed",
-      "para_break": true
+      "text": "Spade crossed the sidewalk between iron-railed"
     },
     {
       "start": 197.94,
@@ -501,13 +505,12 @@
     {
       "start": 201.68,
       "end": 202.84,
-      "text": "went to the parapet and,",
-      "para_break": true
+      "text": "went to the parapet and,"
     },
     {
       "start": 202.94,
       "end": 204.82,
-      "text": "pressing his hands on the damp coping,"
+      "text": "resting his hands on the damp coping,"
     },
     {
       "start": 205.0,
@@ -528,13 +531,12 @@
     {
       "start": 211.6,
       "end": 213.54,
-      "text": "as if it had been blown out and ran away."
+      "text": "as if it had been blown out, and ran away."
     },
     {
       "start": 214.72,
       "end": 215.9,
-      "text": "Not far from the tunnel's mouth,",
-      "para_break": true
+      "text": "Not far from the tunnel's mouth"
     },
     {
       "start": 215.94,
@@ -554,13 +556,12 @@
     {
       "start": 223.74,
       "end": 225.26,
-      "text": "a gap between two store buildings."
+      "text": "a gap between two store-buildings."
     },
     {
       "start": 226.4,
       "end": 229.58,
-      "text": "The hunkered man's head was bent almost to the sidewalk so he",
-      "para_break": true
+      "text": "The hunkered man's head was bent almost to the sidewalk so he"
     },
     {
       "start": 229.58,
@@ -590,8 +591,7 @@
     {
       "start": 239.12,
       "end": 241.66,
-      "text": "Two other men stood awkwardly together at one end",
-      "para_break": true
+      "text": "Two other men stood awkwardly together at one end"
     },
     {
       "start": 241.66,
@@ -606,7 +606,7 @@
     {
       "start": 244.64,
       "end": 246.44,
-      "text": "between it and the building at the end."
+      "text": "between it and the building at that end."
     }
   ]
 }
