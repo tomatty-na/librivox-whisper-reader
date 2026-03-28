@@ -11,6 +11,7 @@
   "page_total": 4,
   "page_start_sec": 242.56,
   "page_end_sec": 485.06,
+  "corrected": "claude",
   "segments": [
     {
       "start": 242.56,
@@ -369,7 +370,6 @@
       "start": 367.62,
       "end": 370.62,
       "text": "\"but you could keep it to half-past one as long as you liked.\""
-
     },
     {
       "start": 371.96,

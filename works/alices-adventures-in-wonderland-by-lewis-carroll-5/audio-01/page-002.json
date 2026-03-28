@@ -11,6 +11,7 @@
   "page_total": 3,
   "page_start_sec": 243.6,
   "page_end_sec": 484.82,
+  "corrected": "claude",
   "segments": [
     {
       "start": 243.6,

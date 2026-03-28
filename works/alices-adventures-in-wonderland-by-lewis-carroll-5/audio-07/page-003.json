@@ -11,6 +11,7 @@
   "page_total": 4,
   "page_start_sec": 487.008,
   "page_end_sec": 732.5,
+  "corrected": "claude",
   "segments": [
     {
       "start": 487.008,
@@ -432,7 +433,6 @@
       "end": 636.92,
       "text": "you know----\""
     },
-
     {
       "start": 637.8,
       "end": 638.44,
@@ -574,7 +574,6 @@
       "end": 686.1,
       "text": "stupid!\""
     },
-
     {
       "start": 687.392,
       "end": 688.6,

@@ -11,6 +11,7 @@
   "page_start_sec": 512.86,
   "page_end_sec": 754.98,
   "para_gap_threshold": 0.685,
+  "corrected": "claude",
   "segments": [
     {
       "start": 512.86,
