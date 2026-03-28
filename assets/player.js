@@ -82,22 +82,50 @@
 
     let paraEl = null;
 
+    // 段落グループを先にまとめる（_italic_ がセグメント跨ぎになる場合に対応するため）
+    const SEP = '\x00';
+    const paragraphs = [];
+    let curPara = [];
     pageData.segments.forEach((seg, i) => {
       if (!seg.text.trim()) return;
-
-      if (!paraEl || (i > 0 && seg.para_break)) {
-        paraEl = document.createElement('p');
-        paraEl.className = 'transcript-para';
-        container.appendChild(paraEl);
+      if (curPara.length > 0 && seg.para_break) {
+        paragraphs.push(curPara);
+        curPara = [];
       }
+      curPara.push({ seg, i });
+    });
+    if (curPara.length > 0) paragraphs.push(curPara);
 
-      const span = document.createElement('span');
-      span.className = 'seg';
-      span.dataset.idx = i;
-      span.innerHTML = seg.text.trim().replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/--/g, '&mdash;').replace(/_([^_\n]+)_/g, '<em>$1</em>');
-      span.addEventListener('click', () => seekToSegment(i));
-      paraEl.appendChild(span);
-      paraEl.appendChild(document.createTextNode(' '));
+    paragraphs.forEach(group => {
+      paraEl = document.createElement('p');
+      paraEl.className = 'transcript-para';
+      container.appendChild(paraEl);
+
+      // 段落内テキストを結合してイタリック変換（セグメント境界を跨ぐ _italic_ に対応）
+      const joined = group.map(({ seg }) => seg.text.trim()).join(SEP);
+      let processed = joined
+        .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+        .replace(/--/g, '&mdash;')
+        .replace(/_([^_\n]+)_/g, '<em>$1</em>');
+
+      // <em> が SEP をまたいでいる場合、各セグメントに分割して em を付与
+      let prev;
+      do {
+        prev = processed;
+        processed = processed.replace(/<em>([^<\x00]*)\x00/g, '<em>$1</em>\x00<em>');
+      } while (processed !== prev);
+
+      const parts = processed.split(SEP);
+
+      group.forEach(({ seg, i }, gi) => {
+        const span = document.createElement('span');
+        span.className = 'seg';
+        span.dataset.idx = i;
+        span.innerHTML = parts[gi] ?? '';
+        span.addEventListener('click', () => seekToSegment(i));
+        paraEl.appendChild(span);
+        paraEl.appendChild(document.createTextNode(' '));
+      });
     });
   }
 
