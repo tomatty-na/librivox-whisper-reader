@@ -685,6 +685,31 @@ a:hover { text-decoration: underline; }
   margin-bottom: 0.75rem;
   font-weight: normal;
 }
+.section-label-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 0.75rem;
+}
+.section-label-row .section-label {
+  margin-bottom: 0;
+}
+.read-reset-btn {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--muted);
+  padding: 0.2rem 0.6rem;
+  border-radius: var(--r-sm);
+  cursor: pointer;
+  font-size: 0.72rem;
+  font-family: var(--sans);
+  transition: color 0.15s, border-color 0.15s;
+  white-space: nowrap;
+}
+.read-reset-btn:hover {
+  color: var(--text);
+  border-color: var(--muted);
+}
 
 .chapter-list {
   border: 1px solid var(--border);
@@ -754,6 +779,12 @@ a:hover { text-decoration: underline; }
 }
 .page-link-item:last-child { border-bottom: none; }
 .page-link-item:hover { background: var(--border); text-decoration: none; color: var(--text); }
+.page-link-item.page-read { color: var(--muted); }
+.page-link-item.page-read .pg-label::after {
+  content: ' ✓';
+  color: var(--accent);
+}
+.page-link-item.page-read:hover { color: var(--text); }
 .page-link-item .pg-label {
   font-size: 0.75rem;
   color: var(--muted);

@@ -36,6 +36,10 @@
     const slug = getSlug();
     return slug ? 'lvr-bm-' + slug : null;
   }
+  function readKey() {
+    const slug = getSlug();
+    return slug ? 'lvr-read-' + slug : null;
+  }
 
   // ── Init ──
   function init(data) {
@@ -196,6 +200,10 @@
             curr.scrollIntoView({ behavior: 'smooth', block: 'center' });
           }
         }
+      }
+      // 最後のセグメントが始まったら読了マーク
+      if (newIdx >= 0 && pageData && newIdx === pageData.segments.length - 1) {
+        markPageRead();
       }
       currentSegIdx = newIdx;
     }
@@ -470,6 +478,21 @@
     } catch (e) {}
   }
 
+  function markPageRead() {
+    const key = readKey();
+    if (!key) return;
+    const url = window.location.pathname;
+    try {
+      const pages = JSON.parse(localStorage.getItem(key)) || [];
+      if (!pages.includes(url)) {
+        pages.push(url);
+        localStorage.setItem(key, JSON.stringify(pages));
+      }
+    } catch (e) {
+      localStorage.setItem(key, JSON.stringify([url]));
+    }
+  }
+
   function showAudioError(msg) {
     const banner = document.getElementById('resume-banner');
     if (!banner) return;
@@ -522,14 +545,64 @@
   }
 
   // ── Chapter accordion (work detail page) ──
+  function _applyReadMarks() {
+    const key = readKey();
+    if (!key) return [];
+    try {
+      const pages = JSON.parse(localStorage.getItem(key)) || [];
+      document.querySelectorAll('.page-link-item').forEach(a => {
+        const abs = new URL(a.getAttribute('href'), window.location.href).pathname;
+        if (pages.includes(abs)) a.classList.add('page-read');
+      });
+      return pages;
+    } catch (e) { return []; }
+  }
+
   function initAccordion() {
     document.querySelectorAll('.chapter-head').forEach(head => {
       head.addEventListener('click', () => {
         head.closest('.chapter-item').classList.toggle('open');
       });
     });
-    const first = document.querySelector('.chapter-item');
-    if (first) first.classList.add('open');
+
+    const readPages = _applyReadMarks();
+    const chapterItems = Array.from(document.querySelectorAll('.chapter-item'));
+    let chapterToOpen = chapterItems[0] || null;
+
+    if (readPages.length && chapterItems.length) {
+      let lastReadChIdx = -1;
+      let lastReadIsChapterEnd = false;
+      chapterItems.forEach((chItem, chIdx) => {
+        const pageLinks = Array.from(chItem.querySelectorAll('.page-link-item'));
+        pageLinks.forEach((a, pgIdx) => {
+          const abs = new URL(a.getAttribute('href'), window.location.href).pathname;
+          if (readPages.includes(abs)) {
+            lastReadChIdx = chIdx;
+            lastReadIsChapterEnd = (pgIdx === pageLinks.length - 1);
+          }
+        });
+      });
+      if (lastReadChIdx >= 0) {
+        if (lastReadIsChapterEnd && lastReadChIdx < chapterItems.length - 1) {
+          chapterToOpen = chapterItems[lastReadChIdx + 1];
+        } else {
+          chapterToOpen = chapterItems[lastReadChIdx];
+        }
+      }
+    }
+
+    if (chapterToOpen) chapterToOpen.classList.add('open');
+
+    const resetBtn = document.getElementById('read-reset-btn');
+    if (resetBtn) {
+      resetBtn.addEventListener('click', () => {
+        const key = readKey();
+        if (key) localStorage.removeItem(key);
+        document.querySelectorAll('.page-link-item.page-read').forEach(a => {
+          a.classList.remove('page-read');
+        });
+      });
+    }
   }
 
   // ── Helpers ──
@@ -554,6 +627,8 @@
     initTheme,
     toggleTheme,
     initAccordion,
+    readKey,
+    markPageRead,
   };
 
 })();
