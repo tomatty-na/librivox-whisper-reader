@@ -11,6 +11,7 @@
   "page_start_sec": 0.992,
   "page_end_sec": 241.16,
   "para_gap_threshold": 0.657,
+  "corrected": "claude",
   "segments": [
     {
       "start": 0.992,
@@ -26,7 +27,7 @@
     {
       "start": 8.42,
       "end": 9.04,
-      "text": "The Blackbird",
+      "text": "THE BLACK BIRD",
       "para_break": true
     },
     {
@@ -38,12 +39,12 @@
     {
       "start": 10.9,
       "end": 12.84,
-      "text": "in a belted green crepe silk dress,"
+      "text": "in a belted green crêpe silk dress,"
     },
     {
       "start": 13.06,
       "end": 16.9,
-      "text": "opened the door of Apartment 1001 at the Coronet."
+      "text": "opened the door of apartment 1001 at the Coronet."
     },
     {
       "start": 17.48,
@@ -53,7 +54,7 @@
     {
       "start": 19.28,
       "end": 21.8,
-      "text": "Her dark red hair parted on the left side,"
+      "text": "Her dark red hair, parted on the left side,"
     },
     {
       "start": 21.96,
@@ -63,19 +64,18 @@
     {
       "start": 25.46,
       "end": 26.42,
-      "text": "was somewhat tousled.",
-      "para_break": true
+      "text": "was somewhat tousled."
     },
     {
       "start": 27.904,
       "end": 29.34,
-      "text": "Spade took off his hat and said,",
+      "text": "Spade took off his hat and said:",
       "para_break": true
     },
     {
       "start": 29.76,
       "end": 30.32,
-      "text": "Good morning."
+      "text": "\"Good morning.\""
     },
     {
       "start": 31.58,
@@ -86,8 +86,7 @@
     {
       "start": 34.46,
       "end": 34.96,
-      "text": "Her eyes,",
-      "para_break": true
+      "text": "Her eyes,"
     },
     {
       "start": 35.08,
@@ -102,18 +101,17 @@
     {
       "start": 39.38,
       "end": 41.38,
-      "text": "She lowered her head and said in a hushed,",
-      "para_break": true
+      "text": "She lowered her head and said in a hushed,"
     },
     {
       "start": 41.38,
       "end": 42.06,
-      "text": "timid voice,"
+      "text": "timid voice:"
     },
     {
       "start": 43.14,
       "end": 43.44,
-      "text": "Come in,",
+      "text": "\"Come in,",
       "para_break": true
     },
     {
@@ -124,44 +122,44 @@
     {
       "start": 43.78,
       "end": 44.14,
-      "text": "Spade."
+      "text": "Spade.\""
     },
     {
       "start": 45.5,
       "end": 46.88,
-      "text": "She led him past open kitchen,",
+      "text": "She led him past open kitchen-,",
       "para_break": true
     },
     {
       "start": 47.08,
       "end": 47.72,
-      "text": "bathroom,"
+      "text": "bathroom-,"
     },
     {
       "start": 47.82,
       "end": 48.62,
-      "text": "and bedroom doors"
+      "text": "and bedroom-doors"
     },
     {
       "start": 48.88,
       "end": 50.96,
-      "text": "into a cream and red living room,"
+      "text": "into a cream and red living-room,"
     },
     {
       "start": 51.36,
       "end": 52.98,
-      "text": "apologizing for its confusion."
+      "text": "apologizing for its confusion:"
     },
     {
       "start": 54.32,
       "end": 55.48,
-      "text": "Everything is upside down.",
+      "text": "\"Everything is upside-down.",
       "para_break": true
     },
     {
       "start": 55.7,
       "end": 57.5,
-      "text": "I haven't even finished unpacking."
+      "text": "I haven't even finished unpacking.\""
     },
     {
       "start": 58.62,
@@ -189,12 +187,12 @@
     {
       "start": 69.28,
       "end": 69.76,
-      "text": "and said,"
+      "text": "and said:"
     },
     {
       "start": 70.26,
       "end": 70.9,
-      "text": "Mr."
+      "text": "\"Mr."
     },
     {
       "start": 71.0,
@@ -209,7 +207,7 @@
     {
       "start": 72.92,
       "end": 74.52,
-      "text": "terrible confession to make."
+      "text": "terrible confession to make.\""
     },
     {
       "start": 75.584,
@@ -230,7 +228,7 @@
     {
       "start": 81.72,
       "end": 86.06,
-      "text": "That story I told you yesterday was all a story,",
+      "text": "\"That—that story I told you yesterday was all—a story,\"",
       "para_break": true
     },
     {
@@ -251,13 +249,13 @@
     {
       "start": 91.48,
       "end": 91.62,
-      "text": "Oh,",
+      "text": "\"Oh,",
       "para_break": true
     },
     {
       "start": 91.72,
       "end": 92.02,
-      "text": "that,"
+      "text": "that,\""
     },
     {
       "start": 92.608,
@@ -267,24 +265,24 @@
     {
       "start": 94.02,
       "end": 96.14,
-      "text": "We didn't exactly believe your story."
+      "text": "\"We didn't exactly believe your story.\""
     },
     {
       "start": 97.472,
       "end": 102.28,
-      "text": "Then perplexity was added to the misery and frightened her eyes.",
+      "text": "\"Then—?\" Perplexity was added to the misery and fright in her eyes.",
       "para_break": true
     },
     {
       "start": 103.42,
       "end": 104.54,
-      "text": "We believed you were $200.",
+      "text": "\"We believed your two hundred dollars.\"",
       "para_break": true
     },
     {
       "start": 106.08,
       "end": 106.74,
-      "text": "You mean...",
+      "text": "\"You mean—?\"",
       "para_break": true
     },
     {
@@ -296,7 +294,7 @@
     {
       "start": 109.76,
       "end": 113.5,
-      "text": "I mean that you paid us more than if you'd been telling the truth,"
+      "text": "\"I mean that you paid us more than if you'd been telling the truth,\""
     },
     {
       "start": 113.7,
@@ -306,12 +304,13 @@
     {
       "start": 115.32,
       "end": 117.02,
-      "text": "and enough more to make it all right."
+      "text": "\"and enough more to make it all right.\""
     },
     {
       "start": 117.3,
       "end": 119.68,
-      "text": "Her eyes suddenly lighted up."
+      "text": "Her eyes suddenly lighted up.",
+      "para_break": true
     },
     {
       "start": 120.3,
@@ -336,18 +335,17 @@
     {
       "start": 126.04,
       "end": 127.04,
-      "text": "leaned forward and spoke",
-      "para_break": true
+      "text": "leaned forward, and spoke"
     },
     {
       "start": 127.24,
       "end": 127.82,
-      "text": "eagerly."
+      "text": "eagerly:"
     },
     {
       "start": 128.64,
       "end": 130.62,
-      "text": "And even now you'd be willing to?",
+      "text": "\"And even now you'd be willing to—?\"",
       "para_break": true
     },
     {
@@ -369,7 +367,7 @@
     {
       "start": 139.44,
       "end": 139.84,
-      "text": "That depends,",
+      "text": "\"That depends,\"",
       "para_break": true
     },
     {
@@ -380,73 +378,69 @@
     {
       "start": 141.86,
       "end": 142.66,
-      "text": "The hell of it is,",
-      "para_break": true
+      "text": "\"The hell of it is,"
     },
     {
       "start": 142.9,
       "end": 143.06,
-      "text": "miss."
+      "text": "Miss——"
     },
     {
       "start": 144.3,
       "end": 145.9,
-      "text": "Is your name Wonderly or LeBlanc?",
-      "para_break": true
+      "text": "Is your name Wonderly or Leblanc?\""
     },
     {
       "start": 147.06,
       "end": 148.16,
-      "text": "She blushed and murmured.",
+      "text": "She blushed and murmured:",
       "para_break": true
     },
     {
       "start": 148.32,
       "end": 149.87,
-      "text": "It's really O'Shaughnessy."
+      "text": "\"It's really O'Shaughnessy—Brigid"
     },
     {
       "start": 150.72,
       "end": 151.96,
-      "text": "Brigid O'Shaughnessy.",
-      "para_break": true
+      "text": "O'Shaughnessy.\""
     },
     {
       "start": 153.18,
       "end": 153.98,
-      "text": "The hell of it is,",
+      "text": "\"The hell of it is,",
       "para_break": true
     },
     {
       "start": 154.02,
       "end": 155.16,
-      "text": "miss O'Shaughnessy,"
+      "text": "Miss O'Shaughnessy,"
     },
     {
       "start": 155.16,
       "end": 156.46,
-      "text": "that a couple of murders,"
+      "text": "that a couple of murders\"—"
     },
     {
       "start": 157.38,
       "end": 157.98,
-      "text": "she winced.",
-      "para_break": true
+      "text": "she winced—"
     },
     {
       "start": 158.14,
       "end": 159.88,
-      "text": "Coming together like this,"
+      "text": "\"coming together like this,"
     },
     {
       "start": 159.92,
       "end": 161.16,
-      "text": "get everybody stirred up."
+      "text": "get everybody stirred up,"
     },
     {
       "start": 161.28,
       "end": 162.48,
-      "text": "Make the police think"
+      "text": "make the police think"
     },
     {
       "start": 162.64,
@@ -461,7 +455,7 @@
     {
       "start": 166.58,
       "end": 167.64,
-      "text": "It's not."
+      "text": "It's not—\""
     },
     {
       "start": 167.8,
@@ -476,7 +470,7 @@
     {
       "start": 173.98,
       "end": 174.68,
-      "text": "Mr.",
+      "text": "\"Mr.",
       "para_break": true
     },
     {
@@ -487,7 +481,7 @@
     {
       "start": 175.2,
       "end": 175.94,
-      "text": "tell me the truth."
+      "text": "tell me the truth.\""
     },
     {
       "start": 176.4,
@@ -502,13 +496,13 @@
     {
       "start": 183.14,
       "end": 184.12,
-      "text": "Am I to blame for,",
+      "text": "\"Am I to blame for—",
       "para_break": true
     },
     {
       "start": 184.24,
       "end": 185.62,
-      "text": "for last night?"
+      "text": "for last night?\""
     },
     {
       "start": 186.88,
@@ -519,13 +513,13 @@
     {
       "start": 188.74,
       "end": 190.14,
-      "text": "Not unless there are things I don't",
+      "text": "\"Not unless there are things I don't",
       "para_break": true
     },
     {
       "start": 190.24,
       "end": 190.54,
-      "text": "know about,"
+      "text": "know about,\""
     },
     {
       "start": 190.8,
@@ -535,13 +529,12 @@
     {
       "start": 191.59,
       "end": 194.14,
-      "text": "You warned us that Thursby was dangerous."
+      "text": "\"You warned us that Thursby was dangerous."
     },
     {
       "start": 195.1,
       "end": 196.32,
-      "text": "Of course you lied to us about",
-      "para_break": true
+      "text": "Of course you lied to us about"
     },
     {
       "start": 196.32,
@@ -551,12 +544,12 @@
     {
       "start": 197.44,
       "end": 198.28,
-      "text": "but that doesn't count."
+      "text": "but that doesn't count:"
     },
     {
       "start": 198.92,
       "end": 199.76,
-      "text": "We didn't believe you."
+      "text": "we didn't believe you.\""
     },
     {
       "start": 200.02,
@@ -571,8 +564,7 @@
     {
       "start": 202.94,
       "end": 204.26,
-      "text": "I wouldn't say it was your fault.",
-      "para_break": true
+      "text": "\"I wouldn't say it was your fault.\""
     },
     {
       "start": 205.42,
@@ -583,7 +575,7 @@
     {
       "start": 205.98,
       "end": 206.74,
-      "text": "thank you,"
+      "text": "\"Thank you,\""
     },
     {
       "start": 206.84,
@@ -603,19 +595,17 @@
     {
       "start": 211.34,
       "end": 212.76,
-      "text": "But I'll always blame myself.",
-      "para_break": true
+      "text": "\"But I'll always blame myself.\""
     },
     {
       "start": 213.98,
       "end": 215.16,
-      "text": "She put a hand to her throat.",
-      "para_break": true
+      "text": "She put a hand to her throat."
     },
     {
       "start": 215.46,
       "end": 216.32,
-      "text": "Mr."
+      "text": "\"Mr."
     },
     {
       "start": 216.38,
@@ -625,7 +615,7 @@
     {
       "start": 216.82,
       "end": 217.3,
-      "text": "was so,"
+      "text": "was so—"
     },
     {
       "start": 217.44,
@@ -635,13 +625,13 @@
     {
       "start": 220.72,
       "end": 222.32,
-      "text": "so solid and hearty and...",
-      "para_break": true
+      "text": "so solid and hearty and—\""
     },
     {
       "start": 222.74,
       "end": 223.76,
-      "text": "Stop it,"
+      "text": "\"Stop it,\"",
+      "para_break": true
     },
     {
       "start": 224.224,
@@ -651,7 +641,7 @@
     {
       "start": 225.14,
       "end": 225.88,
-      "text": "He knew"
+      "text": "\"He knew"
     },
     {
       "start": 225.88,
@@ -661,31 +651,29 @@
     {
       "start": 227.78,
       "end": 228.96,
-      "text": "There are the chances we take.",
-      "para_break": true
+      "text": "They're the chances we take.\""
     },
     {
       "start": 229.68,
       "end": 230.38,
-      "text": "Was,",
+      "text": "\"Was—",
       "para_break": true
     },
     {
       "start": 231.14,
       "end": 231.73,
-      "text": "was he married?",
-      "para_break": true
+      "text": "was he married?\""
     },
     {
       "start": 232.02,
       "end": 232.12,
-      "text": "Yes,"
+      "text": "\"Yes,",
+      "para_break": true
     },
     {
       "start": 233.84,
       "end": 234.88,
-      "text": "with 10,000 insurance,",
-      "para_break": true
+      "text": "with ten thousand insurance,"
     },
     {
       "start": 235.42,
@@ -695,18 +683,18 @@
     {
       "start": 236.12,
       "end": 237.68,
-      "text": "and a wife who didn't like him."
+      "text": "and a wife who didn't like him.\""
     },
     {
       "start": 238.36,
       "end": 239.1,
-      "text": "Oh,",
+      "text": "\"Oh,",
       "para_break": true
     },
     {
       "start": 239.18,
       "end": 240.2,
-      "text": "please don't,"
+      "text": "please don't!\""
     },
     {
       "start": 240.2,

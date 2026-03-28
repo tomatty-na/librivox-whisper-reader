@@ -11,6 +11,7 @@
   "page_start_sec": 0.25,
   "page_end_sec": 240.8,
   "para_gap_threshold": 0.658,
+  "corrected": "claude",
   "segments": [
     {
       "start": 0.25,
@@ -32,14 +33,13 @@
     {
       "start": 11.36,
       "end": 14.46,
-      "text": "When Spade reached his office at ten o'clock the following morning,",
+      "text": "When Spade reached his office at ten o'clock the following morning",
       "para_break": true
     },
     {
       "start": 15.168,
       "end": 17.92,
-      "text": "Effie Perrine was at her desk opening the morning's mail.",
-      "para_break": true
+      "text": "Effie Perine was at her desk opening the morning's mail."
     },
     {
       "start": 18.54,
@@ -49,25 +49,22 @@
     {
       "start": 20.24,
       "end": 21.66,
-      "text": "was pale under its sunburn.",
-      "para_break": true
+      "text": "was pale under its sunburn."
     },
     {
       "start": 22.58,
       "end": 24.56,
-      "text": "She put down the handful of envelopes and",
-      "para_break": true
+      "text": "She put down the handful of envelopes and"
     },
     {
       "start": 24.576,
       "end": 26.44,
-      "text": "the brass paper knife she held and said,"
+      "text": "the brass paper-knife she held and said:"
     },
     {
       "start": 27.488,
       "end": 28.0,
-      "text": "She's in there.",
-      "para_break": true
+      "text": "\"She's in there.\""
     },
     {
       "start": 28.52,
@@ -77,7 +74,7 @@
     {
       "start": 31.28,
       "end": 32.98,
-      "text": "I asked you to keep her away,",
+      "text": "\"I asked you to keep her away,\"",
       "para_break": true
     },
     {
@@ -88,36 +85,33 @@
     {
       "start": 35.0,
       "end": 36.62,
-      "text": "He too kept his voice low.",
-      "para_break": true
+      "text": "He too kept his voice low."
     },
     {
       "start": 37.952,
       "end": 39.9,
-      "text": "Effie Perrine's brown eyes opened wide,",
+      "text": "Effie Perine's brown eyes opened wide,",
       "para_break": true
     },
     {
       "start": 40.38,
       "end": 42.16,
-      "text": "and her voice was irritable as his."
+      "text": "and her voice was irritable as his:"
     },
     {
       "start": 43.1,
       "end": 43.46,
-      "text": "Yes,",
-      "para_break": true
+      "text": "\"Yes,\""
     },
     {
       "start": 43.5,
       "end": 45.18,
-      "text": "but you didn't tell me how."
+      "text": "but you didn't tell me how.\""
     },
     {
       "start": 45.94,
       "end": 47.98,
-      "text": "Her eyelids went together a little,",
-      "para_break": true
+      "text": "Her eyelids went together a little"
     },
     {
       "start": 48.06,
@@ -127,13 +121,12 @@
     {
       "start": 50.4,
       "end": 51.18,
-      "text": "Don't be cranky,",
-      "para_break": true
+      "text": "\"Don't be cranky,"
     },
     {
       "start": 51.2,
       "end": 51.44,
-      "text": "Sam,"
+      "text": "Sam,\""
     },
     {
       "start": 51.74,
@@ -143,8 +136,7 @@
     {
       "start": 54.16,
       "end": 55.14,
-      "text": "I had her all night.",
-      "para_break": true
+      "text": "\"I had her all night.\""
     },
     {
       "start": 56.64,
@@ -165,18 +157,17 @@
     {
       "start": 62.44,
       "end": 62.9,
-      "text": "Sorry,",
-      "para_break": true
+      "text": "\"Sorry,"
     },
     {
       "start": 63.02,
       "end": 63.32,
-      "text": "Angel,"
+      "text": "angel,"
     },
     {
       "start": 63.54,
       "end": 64.28,
-      "text": "I haven't."
+      "text": "I haven't—\""
     },
     {
       "start": 64.76,
@@ -186,13 +177,12 @@
     {
       "start": 67.9,
       "end": 68.12,
-      "text": "Hello,",
-      "para_break": true
+      "text": "\"Hello,"
     },
     {
       "start": 68.2,
       "end": 68.48,
-      "text": "Iva,"
+      "text": "Iva,\""
     },
     {
       "start": 68.88,
@@ -202,13 +192,13 @@
     {
       "start": 71.54,
       "end": 71.82,
-      "text": "Oh,",
+      "text": "\"Oh,",
       "para_break": true
     },
     {
       "start": 71.84,
       "end": 72.5,
-      "text": "Sam,"
+      "text": "Sam!\""
     },
     {
       "start": 73.06,
@@ -224,14 +214,12 @@
     {
       "start": 76.68,
       "end": 78.1,
-      "text": "of a few more years than thirty.",
-      "para_break": true
+      "text": "of a few more years than thirty."
     },
     {
       "start": 79.04,
       "end": 82.18,
-      "text": "Her facial prettiness was perhaps five years past its best moment.",
-      "para_break": true
+      "text": "Her facial prettiness was perhaps five years past its best moment."
     },
     {
       "start": 82.7,
@@ -251,19 +239,17 @@
     {
       "start": 87.68,
       "end": 89.98,
-      "text": "She wore black clothes from hat to shoes.",
-      "para_break": true
+      "text": "She wore black clothes from hat to shoes."
     },
     {
       "start": 90.84,
       "end": 91.44,
-      "text": "They had,",
-      "para_break": true
+      "text": "They had,"
     },
     {
       "start": 91.58,
       "end": 92.08,
-      "text": "as morning,"
+      "text": "as mourning,"
     },
     {
       "start": 92.28,
@@ -273,8 +259,7 @@
     {
       "start": 94.38,
       "end": 94.84,
-      "text": "Having spoken,",
-      "para_break": true
+      "text": "Having spoken,"
     },
     {
       "start": 95.16,
@@ -284,7 +269,7 @@
     {
       "start": 99.02,
       "end": 100.7,
-      "text": "He took his hand from Effie Perrine's",
+      "text": "He took his hand from Effie Perine's",
       "para_break": true
     },
     {
@@ -300,8 +285,7 @@
     {
       "start": 104.64,
       "end": 105.92,
-      "text": "Iva came quickly to him,",
-      "para_break": true
+      "text": "Iva came quickly to him,"
     },
     {
       "start": 106.08,
@@ -311,14 +295,12 @@
     {
       "start": 109.28,
       "end": 111.36,
-      "text": "Her arms were around him before his held her.",
-      "para_break": true
+      "text": "Her arms were around him before his held her."
     },
     {
       "start": 112.32,
       "end": 113.25,
-      "text": "When they had kissed,",
-      "para_break": true
+      "text": "When they had kissed"
     },
     {
       "start": 113.36,
@@ -339,18 +321,17 @@
     {
       "start": 121.5,
       "end": 122.0,
-      "text": "saying,"
+      "text": "saying:"
     },
     {
       "start": 122.48,
       "end": 123.38,
-      "text": "Poor darling."
+      "text": "\"Poor darling.\""
     },
     {
       "start": 124.54,
       "end": 125.52,
-      "text": "His voice was tender.",
-      "para_break": true
+      "text": "His voice was tender."
     },
     {
       "start": 126.16,
@@ -365,7 +346,7 @@
     {
       "start": 128.54,
       "end": 130.36,
-      "text": "partner's across the room from his own,"
+      "text": "partner's, across the room from his own,"
     },
     {
       "start": 130.86,
@@ -375,8 +356,7 @@
     {
       "start": 132.54,
       "end": 135.56,
-      "text": "He drew his lips back over his teeth in an impatient grimace",
-      "para_break": true
+      "text": "He drew his lips back over his teeth in an impatient grimace"
     },
     {
       "start": 136.12,
@@ -391,7 +371,7 @@
     {
       "start": 140.65,
       "end": 142.62,
-      "text": "Did you send for Miles's brother?"
+      "text": "\"Did you send for Miles's brother?\""
     },
     {
       "start": 142.82,
@@ -401,13 +381,13 @@
     {
       "start": 144.34,
       "end": 144.6,
-      "text": "Yes,",
+      "text": "\"Yes,",
       "para_break": true
     },
     {
       "start": 144.8,
       "end": 146.16,
-      "text": "he came over this morning."
+      "text": "he came over this morning.\""
     },
     {
       "start": 146.68,
@@ -428,8 +408,7 @@
     {
       "start": 157.14,
       "end": 158.54,
-      "text": "His left arm was around her,",
-      "para_break": true
+      "text": "His left arm was around her,"
     },
     {
       "start": 159.12,
@@ -439,14 +418,12 @@
     {
       "start": 161.42,
       "end": 164.04,
-      "text": "His cuff was pulled back far enough to leave the watch uncovered.",
-      "para_break": true
+      "text": "His cuff was pulled back far enough to leave the watch uncovered."
     },
     {
       "start": 164.9,
       "end": 166.06,
-      "text": "It showed 10-10.",
-      "para_break": true
+      "text": "It showed ten-ten."
     },
     {
       "start": 167.36,
@@ -477,23 +454,23 @@
     {
       "start": 176.0,
       "end": 176.26,
-      "text": "Oh,",
+      "text": "\"Oh,",
       "para_break": true
     },
     {
       "start": 176.38,
       "end": 176.7,
-      "text": "Sam,"
+      "text": "Sam,\""
     },
     {
       "start": 177.06,
       "end": 178.06,
-      "text": "she moaned."
+      "text": "she moaned,"
     },
     {
       "start": 178.35,
       "end": 179.94,
-      "text": "Did you kill him?"
+      "text": "\"did you kill him?\""
     },
     {
       "start": 181.472,
@@ -519,8 +496,7 @@
     {
       "start": 189.62,
       "end": 190.54,
-      "text": "He scowled at her and",
-      "para_break": true
+      "text": "He scowled at her and"
     },
     {
       "start": 190.6,
@@ -536,8 +512,7 @@
     {
       "start": 195.648,
       "end": 196.8,
-      "text": "Anguish clouded her eyes,",
-      "para_break": true
+      "text": "Anguish clouded her eyes,"
     },
     {
       "start": 197.02,
@@ -547,17 +522,18 @@
     {
       "start": 200.22,
       "end": 203.68,
-      "text": "the inner ends her soft damp red lips trembled"
+      "text": "the inner ends. Her soft damp red lips trembled."
     },
     {
       "start": 204.23,
       "end": 208.28,
-      "text": "spade laughed a harsh syllable and went to the"
+      "text": "Spade laughed a harsh syllable, \"Ha!\" and went to the",
+      "para_break": true
     },
     {
       "start": 208.28,
       "end": 211.68,
-      "text": "buff curtain window he stood there with his back"
+      "text": "buff-curtained window. He stood there with his back"
     },
     {
       "start": 211.68,
@@ -567,23 +543,22 @@
     {
       "start": 213.62,
       "end": 216.22,
-      "text": "the court until she started towards him"
+      "text": "the court until she started towards him."
     },
     {
       "start": 217.14,
       "end": 217.56,
-      "text": "then he turned",
-      "para_break": true
+      "text": "Then he turned"
     },
     {
       "start": 217.66,
       "end": 221.2,
-      "text": "quickly and went to his desk he sat down put his"
+      "text": "quickly and went to his desk. He sat down, put his"
     },
     {
       "start": 221.2,
       "end": 223.86,
-      "text": "elbows on the desk his chin between his fists"
+      "text": "elbows on the desk, his chin between his fists,"
     },
     {
       "start": 224.28,
@@ -593,37 +568,34 @@
     {
       "start": 226.08,
       "end": 228.9,
-      "text": "His yellowish eyes glittered between narrowed lids.",
-      "para_break": true
+      "text": "His yellowish eyes glittered between narrowed lids."
     },
     {
       "start": 229.8,
       "end": 230.12,
-      "text": "Who,",
+      "text": "\"Who,\"",
       "para_break": true
     },
     {
       "start": 230.8,
       "end": 231.62,
-      "text": "he asked coldly,",
-      "para_break": true
+      "text": "he asked coldly,"
     },
     {
       "start": 231.66,
       "end": 234.46,
-      "text": "put that bright idea in your head?"
+      "text": "\"put that bright idea in your head?\""
     },
     {
       "start": 235.96,
       "end": 236.4,
-      "text": "I thought.",
+      "text": "\"I thought—\"",
       "para_break": true
     },
     {
       "start": 237.58,
       "end": 238.88,
-      "text": "She lifted a hand to her mouth",
-      "para_break": true
+      "text": "She lifted a hand to her mouth"
     },
     {
       "start": 239.02,

@@ -11,29 +11,29 @@
   "page_start_sec": 734.12,
   "page_end_sec": 976.96,
   "para_gap_threshold": 0.657,
+  "corrected": "claude",
   "segments": [
     {
       "start": 734.12,
       "end": 734.82,
-      "text": "Why all the guns?",
+      "text": "\"Why all the guns?\"",
       "para_break": true
     },
     {
       "start": 735.6,
       "end": 736.9,
-      "text": "He lived by them.",
+      "text": "\"He lived by them.",
       "para_break": true
     },
     {
       "start": 737.66,
       "end": 739.0,
-      "text": "There was a story in Hong Kong",
-      "para_break": true
+      "text": "There was a story in Hongkong"
     },
     {
       "start": 739.56,
       "end": 741.42,
-      "text": "that he had come out there to the Orient"
+      "text": "that he had come out there, to the Orient,"
     },
     {
       "start": 741.78,
@@ -43,8 +43,7 @@
     {
       "start": 746.58,
       "end": 747.62,
-      "text": "and that the gambler had since",
-      "para_break": true
+      "text": "and that the gambler had since"
     },
     {
       "start": 747.7,
@@ -54,14 +53,12 @@
     {
       "start": 748.79,
       "end": 751.44,
-      "text": "They said Floyd knew about his disappearing.",
-      "para_break": true
+      "text": "They said Floyd knew about his disappearing."
     },
     {
       "start": 752.46,
       "end": 752.92,
-      "text": "I don't know.",
-      "para_break": true
+      "text": "I don't know."
     },
     {
       "start": 753.54,
@@ -91,24 +88,23 @@
     {
       "start": 762.04,
       "end": 764.3,
-      "text": "so nobody could come silently into his room.",
-      "para_break": true
+      "text": "so nobody could come silently into his room.\""
     },
     {
       "start": 765.31,
       "end": 766.5,
-      "text": "You picked a nice sort",
+      "text": "\"You picked a nice sort",
       "para_break": true
     },
     {
       "start": 766.64,
       "end": 767.12,
-      "text": "of playmate."
+      "text": "of playmate.\""
     },
     {
       "start": 768.36,
       "end": 769.84,
-      "text": "Only that sort could have helped me,",
+      "text": "\"Only that sort could have helped me,\"",
       "para_break": true
     },
     {
@@ -119,18 +115,17 @@
     {
       "start": 771.15,
       "end": 772.36,
-      "text": "if he had been loyal."
+      "text": "\"if he had been loyal.\""
     },
     {
       "start": 772.7,
       "end": 772.8,
-      "text": "Yes,"
+      "text": "\"Yes,"
     },
     {
       "start": 773.86,
       "end": 774.24,
-      "text": "if.",
-      "para_break": true
+      "text": "if.\""
     },
     {
       "start": 775.328,
@@ -146,8 +141,7 @@
     {
       "start": 780.74,
       "end": 781.06,
-      "text": "The vertical",
-      "para_break": true
+      "text": "The vertical"
     },
     {
       "start": 781.14,
@@ -162,13 +156,13 @@
     {
       "start": 785.16,
       "end": 786.7,
-      "text": "How about a hole are you actually in?",
+      "text": "\"How bad a hole are you actually in?\"",
       "para_break": true
     },
     {
       "start": 787.92,
       "end": 788.3,
-      "text": "As bad,",
+      "text": "\"As bad,\"",
       "para_break": true
     },
     {
@@ -179,18 +173,18 @@
     {
       "start": 789.2,
       "end": 790.34,
-      "text": "as could be."
+      "text": "\"as could be.\""
     },
     {
       "start": 791.552,
       "end": 792.18,
-      "text": "Physical danger?",
+      "text": "\"Physical danger?\"",
       "para_break": true
     },
     {
       "start": 793.44,
       "end": 794.06,
-      "text": "I'm not heroic.",
+      "text": "\"I'm not heroic.",
       "para_break": true
     },
     {
@@ -201,34 +195,34 @@
     {
       "start": 795.82,
       "end": 796.52,
-      "text": "worse than death."
+      "text": "worse than death.\""
     },
     {
       "start": 797.74,
       "end": 798.24,
-      "text": "Then it's that?",
+      "text": "\"Then it's that?\"",
       "para_break": true
     },
     {
       "start": 800.096,
       "end": 800.54,
-      "text": "It's that,",
+      "text": "\"It's that",
       "para_break": true
     },
     {
       "start": 800.54,
       "end": 801.96,
-      "text": "as surely as we're sitting here,"
+      "text": "as surely as we're sitting here\"—"
     },
     {
       "start": 802.1,
       "end": 802.86,
-      "text": "she shivered,"
+      "text": "she shivered—"
     },
     {
       "start": 802.86,
       "end": 803.72,
-      "text": "unless you help me."
+      "text": "\"unless you help me.\""
     },
     {
       "start": 804.61,
@@ -244,8 +238,7 @@
     {
       "start": 809.26,
       "end": 809.84,
-      "text": "I'm not Christ,",
-      "para_break": true
+      "text": "\"I'm not Christ,\""
     },
     {
       "start": 810.0,
@@ -255,8 +248,7 @@
     {
       "start": 811.38,
       "end": 813.3,
-      "text": "I can't work miracles out of thin air.",
-      "para_break": true
+      "text": "\"I can't work miracles out of thin air.\""
     },
     {
       "start": 814.44,
@@ -267,8 +259,7 @@
     {
       "start": 816.14,
       "end": 817.1,
-      "text": "The day's going,",
-      "para_break": true
+      "text": "\"The day's going,"
     },
     {
       "start": 817.24,
@@ -278,7 +269,7 @@
     {
       "start": 819.32,
       "end": 820.54,
-      "text": "Who killed Thursby?"
+      "text": "Who killed Thursby?\""
     },
     {
       "start": 821.92,
@@ -294,7 +285,7 @@
     {
       "start": 824.32,
       "end": 825.4,
-      "text": "I don't know,"
+      "text": "\"I don't know,\""
     },
     {
       "start": 825.56,
@@ -304,46 +295,45 @@
     {
       "start": 827.64,
       "end": 828.56,
-      "text": "Your enemies are his.",
+      "text": "\"Your enemies or his?\"",
       "para_break": true
     },
     {
       "start": 829.76,
       "end": 830.34,
-      "text": "I don't know,",
+      "text": "\"I don't know.",
       "para_break": true
     },
     {
       "start": 830.76,
       "end": 831.52,
-      "text": "his I hope,"
+      "text": "His, I hope,"
     },
     {
       "start": 832.08,
       "end": 832.66,
-      "text": "but I'm afraid."
+      "text": "but I'm afraid—"
     },
     {
       "start": 832.86,
       "end": 834.0,
-      "text": "I don't know."
+      "text": "I don't know.\""
     },
     {
       "start": 835.34,
       "end": 836.9,
-      "text": "How was he supposed to be helping you?",
+      "text": "\"How was he supposed to be helping you?",
       "para_break": true
     },
     {
       "start": 837.7,
       "end": 838.28,
-      "text": "Why did you bring",
-      "para_break": true
+      "text": "Why did you bring"
     },
     {
       "start": 838.28,
       "end": 839.38,
-      "text": "him here from Hong Kong?"
+      "text": "him here from Hongkong?\""
     },
     {
       "start": 840.64,
@@ -354,8 +344,7 @@
     {
       "start": 844.1,
       "end": 846.34,
-      "text": "Her face was haggard and pitifully stubborn.",
-      "para_break": true
+      "text": "Her face was haggard and pitifully stubborn."
     },
     {
       "start": 847.808,
@@ -371,12 +360,12 @@
     {
       "start": 850.88,
       "end": 852.36,
-      "text": "jacket and scowled down at her."
+      "text": "jacket, and scowled down at her."
     },
     {
       "start": 852.58,
       "end": 853.82,
-      "text": "This is hopeless,"
+      "text": "\"This is hopeless,\""
     },
     {
       "start": 854.16,
@@ -386,7 +375,7 @@
     {
       "start": 855.62,
       "end": 857.66,
-      "text": "I can't do anything for you."
+      "text": "\"I can't do anything for you."
     },
     {
       "start": 857.94,
@@ -396,7 +385,7 @@
     {
       "start": 859.78,
       "end": 862.16,
-      "text": "I don't even know if you know what you want."
+      "text": "I don't even know if you know what you want.\""
     },
     {
       "start": 863.46,
@@ -417,7 +406,7 @@
     {
       "start": 871.28,
       "end": 871.82,
-      "text": "You won't,",
+      "text": "\"You won't,\"",
       "para_break": true
     },
     {
@@ -433,18 +422,17 @@
     {
       "start": 874.38,
       "end": 875.4,
-      "text": "not looking up."
+      "text": "not looking up,"
     },
     {
       "start": 875.73,
       "end": 877.06,
-      "text": "Go to the police?"
+      "text": "\"go to the police?\""
     },
     {
       "start": 877.91,
       "end": 878.88,
-      "text": "Go to them,",
-      "para_break": true
+      "text": "\"Go to them!\""
     },
     {
       "start": 879.02,
@@ -459,14 +447,12 @@
     {
       "start": 882.2,
       "end": 884.84,
-      "text": "They've been running me ragged since four o'clock this morning.",
-      "para_break": true
+      "text": "\"They've been running me ragged since four o'clock this morning."
     },
     {
       "start": 885.68,
       "end": 888.7,
-      "text": "I've made myself God knows how much trouble standing them off.",
-      "para_break": true
+      "text": "I've made myself God knows how much trouble standing them off."
     },
     {
       "start": 889.08,
@@ -476,18 +462,17 @@
     {
       "start": 890.14,
       "end": 892.62,
-      "text": "For some crazy notion that I could help you?"
+      "text": "For some crazy notion that I could help you."
     },
     {
       "start": 893.4,
       "end": 893.94,
-      "text": "I can't.",
-      "para_break": true
+      "text": "I can't."
     },
     {
       "start": 894.24,
       "end": 894.92,
-      "text": "I won't try."
+      "text": "I won't try.\""
     },
     {
       "start": 895.84,
@@ -498,14 +483,12 @@
     {
       "start": 898.88,
       "end": 899.38,
-      "text": "Go to them?",
-      "para_break": true
+      "text": "\"Go to them?"
     },
     {
       "start": 900.3,
       "end": 901.78,
-      "text": "All I've got to do is stand still",
-      "para_break": true
+      "text": "All I've got to do is stand still"
     },
     {
       "start": 901.78,
@@ -520,13 +503,12 @@
     {
       "start": 904.82,
       "end": 906.26,
-      "text": "I'll tell them what I know,",
-      "para_break": true
+      "text": "I'll tell them what I know,"
     },
     {
       "start": 906.38,
       "end": 907.92,
-      "text": "and you'll have to take your chances."
+      "text": "and you'll have to take your chances.\""
     },
     {
       "start": 909.04,
@@ -537,13 +519,12 @@
     {
       "start": 912.08,
       "end": 913.64,
-      "text": "though her knees were trembling."
+      "text": "though her knees were trembling,"
     },
     {
       "start": 914.7,
       "end": 915.56,
-      "text": "And she held her white,",
-      "para_break": true
+      "text": "and she held her white,"
     },
     {
       "start": 915.66,
@@ -563,13 +544,13 @@
     {
       "start": 921.52,
       "end": 921.88,
-      "text": "She said,",
+      "text": "She said:",
       "para_break": true
     },
     {
       "start": 922.66,
       "end": 923.36,
-      "text": "You've been patient.",
+      "text": "\"You've been patient.",
       "para_break": true
     },
     {
@@ -580,13 +561,12 @@
     {
       "start": 925.64,
       "end": 926.9,
-      "text": "It is hopeless and useless,",
-      "para_break": true
+      "text": "It is hopeless, and useless,"
     },
     {
       "start": 927.06,
       "end": 927.48,
-      "text": "I suppose."
+      "text": "I suppose.\""
     },
     {
       "start": 928.56,
@@ -597,19 +577,18 @@
     {
       "start": 930.8,
       "end": 932.12,
-      "text": "I thank you for what you have done.",
+      "text": "\"I thank you for what you have done.",
       "para_break": true
     },
     {
       "start": 933.24,
       "end": 933.4,
-      "text": "I...",
-      "para_break": true
+      "text": "I—"
     },
     {
       "start": 933.4,
       "end": 935.12,
-      "text": "I'll have to take my chances."
+      "text": "I'll have to take my chances.\""
     },
     {
       "start": 936.416,
@@ -625,7 +604,7 @@
     {
       "start": 940.72,
       "end": 942.3,
-      "text": "How much money have you got?"
+      "text": "\"How much money have you got?\""
     },
     {
       "start": 942.42,
@@ -641,24 +620,23 @@
     {
       "start": 945.82,
       "end": 947.3,
-      "text": "Then she pinched her lower lip between",
-      "para_break": true
+      "text": "Then she pinched her lower lip between"
     },
     {
       "start": 947.3,
       "end": 948.9,
-      "text": "her teeth and answered reluctantly,"
+      "text": "her teeth and answered reluctantly:"
     },
     {
       "start": 949.9,
       "end": 951.32,
-      "text": "I've about $500 left.",
+      "text": "\"I've about five hundred dollars left.\"",
       "para_break": true
     },
     {
       "start": 952.54,
       "end": 953.12,
-      "text": "Give it to me.",
+      "text": "\"Give it to me.\"",
       "para_break": true
     },
     {
@@ -675,8 +653,7 @@
     {
       "start": 956.86,
       "end": 958.72,
-      "text": "He made angry gestures with mouth,",
-      "para_break": true
+      "text": "He made angry gestures with mouth,"
     },
     {
       "start": 958.88,
@@ -716,18 +693,18 @@
     {
       "start": 968.86,
       "end": 969.2,
-      "text": "and said,"
+      "text": "and said:"
     },
     {
       "start": 970.08,
       "end": 971.1,
-      "text": "There's only 400 here.",
+      "text": "\"There's only four hundred here.\"",
       "para_break": true
     },
     {
       "start": 972.26,
       "end": 973.84,
-      "text": "I had to keep some to live on,",
+      "text": "\"I had to keep some to live on,\"",
       "para_break": true
     },
     {

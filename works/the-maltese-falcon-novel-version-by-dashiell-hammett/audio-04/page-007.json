@@ -11,11 +11,12 @@
   "page_start_sec": 1464.98,
   "page_end_sec": 1514.22,
   "para_gap_threshold": 0.657,
+  "corrected": "claude",
   "segments": [
     {
       "start": 1464.98,
       "end": 1466.24,
-      "text": "Five thousand is a lot of money,",
+      "text": "\"Five thousand is a lot of money,\"",
       "para_break": true
     },
     {
@@ -36,12 +37,13 @@
     {
       "start": 1469.12,
       "end": 1469.22,
-      "text": "It..."
+      "text": "\"It—\""
     },
     {
       "start": 1471.392,
       "end": 1472.88,
-      "text": "Fingers drummed lightly on the door."
+      "text": "Fingers drummed lightly on the door.",
+      "para_break": true
     },
     {
       "start": 1473.06,
@@ -51,18 +53,17 @@
     {
       "start": 1474.76,
       "end": 1475.32,
-      "text": "come in,"
+      "text": "\"Come in,\""
     },
     {
       "start": 1476.2,
       "end": 1476.68,
-      "text": "the door opened",
-      "para_break": true
+      "text": "the door opened"
     },
     {
       "start": 1476.8,
       "end": 1479.08,
-      "text": "far enough to admit Effie Pryne's head and shoulders."
+      "text": "far enough to admit Effie Perine's head and shoulders."
     },
     {
       "start": 1480.14,
@@ -73,23 +74,22 @@
     {
       "start": 1482.14,
       "end": 1484.04,
-      "text": "and a dark coat with a gray fur collar."
+      "text": "and a dark coat with a grey fur collar."
     },
     {
       "start": 1485.14,
       "end": 1486.0,
-      "text": "Is there anything else?",
-      "para_break": true
+      "text": "\"Is there anything else?\""
     },
     {
       "start": 1486.2,
       "end": 1486.96,
-      "text": "She asked."
+      "text": "she asked."
     },
     {
       "start": 1487.54,
       "end": 1488.14,
-      "text": "No."
+      "text": "\"No."
     },
     {
       "start": 1488.56,
@@ -99,34 +99,33 @@
     {
       "start": 1489.78,
       "end": 1490.8,
-      "text": "Lock the door when you go,",
-      "para_break": true
+      "text": "Lock the door when you go,"
     },
     {
       "start": 1490.9,
       "end": 1491.28,
-      "text": "will you?"
+      "text": "will you?\""
     },
     {
       "start": 1491.88,
       "end": 1494.38,
-      "text": "Spade turned in his chair to face Cairo again,"
+      "text": "Spade turned in his chair to face Cairo again,",
+      "para_break": true
     },
     {
       "start": 1494.48,
       "end": 1494.84,
-      "text": "saying,"
+      "text": "saying:"
     },
     {
       "start": 1495.7,
       "end": 1496.72,
-      "text": "It's an interesting figure.",
-      "para_break": true
+      "text": "\"It's an interesting figure.\""
     },
     {
       "start": 1497.9,
       "end": 1500.74,
-      "text": "The sound of the corridor doors closing behind Effie Perrine",
+      "text": "The sound of the corridor-door's closing behind Effie Perine",
       "para_break": true
     },
     {
@@ -148,7 +147,7 @@
     {
       "start": 1504.32,
       "end": 1504.58,
-      "text": "flat,"
+      "text": "flat"
     },
     {
       "start": 1504.7,
@@ -163,24 +162,22 @@
     {
       "start": 1507.24,
       "end": 1507.82,
-      "text": "You will please,",
-      "para_break": true
+      "text": "\"You will please,\""
     },
     {
       "start": 1508.08,
       "end": 1508.64,
-      "text": "he said."
+      "text": "he said,"
     },
     {
       "start": 1509.08,
       "end": 1511.78,
-      "text": "Clasp your hands together at the back of your neck."
+      "text": "\"clasp your hands together at the back of your neck.\""
     },
     {
       "start": 1513.024,
       "end": 1514.22,
-      "text": "End of chapter 4",
-      "para_break": true
+      "text": "End of chapter 4."
     }
   ]
 }

@@ -11,6 +11,7 @@
   "page_start_sec": 483.48,
   "page_end_sec": 724.82,
   "para_gap_threshold": 0.658,
+  "corrected": "claude",
   "segments": [
     {
       "start": 483.48,
@@ -31,34 +32,33 @@
     {
       "start": 487.62,
       "end": 488.94,
-      "text": "You're an angel,"
+      "text": "\"You're an angel,\""
     },
     {
       "start": 489.14,
       "end": 490.7,
-      "text": "he said tenderly through smoke."
+      "text": "he said tenderly through smoke,"
     },
     {
       "start": 491.36,
       "end": 491.76,
-      "text": "A nice,",
-      "para_break": true
+      "text": "\"a nice,"
     },
     {
       "start": 491.76,
       "end": 492.76,
-      "text": "rattle-brained angel."
+      "text": "rattle-brained angel.\""
     },
     {
       "start": 493.36,
       "end": 495.12,
-      "text": "She smiled a bit wryly."
+      "text": "She smiled a bit wryly.",
+      "para_break": true
     },
     {
       "start": 495.78,
       "end": 496.06,
-      "text": "Oh,",
-      "para_break": true
+      "text": "\"Oh,"
     },
     {
       "start": 496.12,
@@ -68,18 +68,17 @@
     {
       "start": 497.66,
       "end": 500.54,
-      "text": "Suppose I told you that your Iva hadn't been home many minutes",
-      "para_break": true
+      "text": "Suppose I told you that your Iva hadn't been home many minutes"
     },
     {
       "start": 500.66,
       "end": 503.82,
-      "text": "when I arrived to break the news at three o'clock this morning."
+      "text": "when I arrived to break the news at three o'clock this morning?\""
     },
     {
       "start": 505.16,
       "end": 505.94,
-      "text": "Are you telling me?",
+      "text": "\"Are you telling me?\"",
       "para_break": true
     },
     {
@@ -90,7 +89,7 @@
     {
       "start": 507.52,
       "end": 508.6,
-      "text": "His eyes had become alert,"
+      "text": "His eyes had become alert"
     },
     {
       "start": 509.1,
@@ -100,7 +99,7 @@
     {
       "start": 511.84,
       "end": 513.38,
-      "text": "She kept me waiting at the door while",
+      "text": "\"She kept me waiting at the door while",
       "para_break": true
     },
     {
@@ -121,8 +120,7 @@
     {
       "start": 520.86,
       "end": 522.9,
-      "text": "Her singlet on top was still warm.",
-      "para_break": true
+      "text": "Her singlet, on top, was still warm."
     },
     {
       "start": 523.5,
@@ -137,13 +135,12 @@
     {
       "start": 526.64,
       "end": 527.8,
-      "text": "She had wrinkled up the bed,",
-      "para_break": true
+      "text": "She had wrinkled up the bed,"
     },
     {
       "start": 527.94,
       "end": 529.5,
-      "text": "but the wrinkles weren't mashed down."
+      "text": "but the wrinkles weren't mashed down.\""
     },
     {
       "start": 530.688,
@@ -154,8 +151,7 @@
     {
       "start": 533.152,
       "end": 533.66,
-      "text": "You're a detective,",
-      "para_break": true
+      "text": "\"You're a detective,"
     },
     {
       "start": 533.84,
@@ -165,35 +161,33 @@
     {
       "start": 534.38,
       "end": 534.92,
-      "text": "but..."
+      "text": "but\"—"
     },
     {
       "start": 535.28,
       "end": 536.32,
-      "text": "He shook his head."
+      "text": "he shook his head—"
     },
     {
       "start": 537.06,
       "end": 537.88,
-      "text": "She didn't kill him.",
-      "para_break": true
+      "text": "\"she didn't kill him.\""
     },
     {
       "start": 539.296,
       "end": 540.8,
-      "text": "Effie Perrine snatched her hand away.",
+      "text": "Effie Perine snatched her hand away.",
       "para_break": true
     },
     {
       "start": 541.48,
       "end": 542.84,
-      "text": "That louse wants to marry you,",
-      "para_break": true
+      "text": "\"That louse wants to marry you,"
     },
     {
       "start": 542.96,
       "end": 543.16,
-      "text": "Sam,"
+      "text": "Sam,\""
     },
     {
       "start": 543.46,
@@ -209,38 +203,33 @@
     {
       "start": 549.36,
       "end": 550.74,
-      "text": "She frowned at him and demanded,",
-      "para_break": true
+      "text": "She frowned at him and demanded:"
     },
     {
       "start": 551.44,
       "end": 553.1,
-      "text": "Did you see her last night?",
-      "para_break": true
+      "text": "\"Did you see her last night?\""
     },
     {
       "start": 553.78,
       "end": 554.4,
-      "text": "No.",
+      "text": "\"No.\"",
       "para_break": true
     },
     {
       "start": 555.06,
       "end": 556.04,
-      "text": "Honestly?",
-      "para_break": true
+      "text": "\"Honestly?\""
     },
     {
       "start": 556.72,
       "end": 557.5,
-      "text": "Honestly.",
-      "para_break": true
+      "text": "\"Honestly."
     },
     {
       "start": 558.304,
       "end": 559.18,
-      "text": "Don't act like Dundee,",
-      "para_break": true
+      "text": "Don't act like Dundy,"
     },
     {
       "start": 559.24,
@@ -250,37 +239,35 @@
     {
       "start": 560.16,
       "end": 561.22,
-      "text": "It ill becomes you."
+      "text": "It ill becomes you.\""
     },
     {
       "start": 562.4,
       "end": 563.64,
-      "text": "Has Dundee been after you?",
+      "text": "\"Has Dundy been after you?\"",
       "para_break": true
     },
     {
       "start": 564.704,
       "end": 565.08,
-      "text": "Uh-huh.",
+      "text": "\"Uh-huh.",
       "para_break": true
     },
     {
       "start": 566.26,
       "end": 569.02,
-      "text": "He and Tom Polehouse dropped in for a drink at four o'clock.",
-      "para_break": true
+      "text": "He and Tom Polhaus dropped in for a drink at four o'clock.\""
     },
     {
       "start": 570.18,
       "end": 572.58,
-      "text": "Do they really think you shot this what's-his-name?",
+      "text": "\"Do they really think you shot this what's-his-name?\"",
       "para_break": true
     },
     {
       "start": 573.34,
       "end": 574.0,
-      "text": "Thursby.",
-      "para_break": true
+      "text": "\"Thursby.\""
     },
     {
       "start": 574.36,
@@ -295,19 +282,18 @@
     {
       "start": 579.56,
       "end": 579.94,
-      "text": "Do they?",
+      "text": "\"Do they?\"",
       "para_break": true
     },
     {
       "start": 580.6,
       "end": 581.14,
-      "text": "She insisted.",
-      "para_break": true
+      "text": "she insisted."
     },
     {
       "start": 582.42,
       "end": 582.9,
-      "text": "God knows.",
+      "text": "\"God knows.\"",
       "para_break": true
     },
     {
@@ -318,29 +304,29 @@
     {
       "start": 586.14,
       "end": 587.76,
-      "text": "They did have some such notion.",
+      "text": "\"They did have some such notion.",
       "para_break": true
     },
     {
       "start": 587.96,
       "end": 590.06,
-      "text": "I don't know how far I talked them out of it."
+      "text": "I don't know how far I talked them out of it.\""
     },
     {
       "start": 591.14,
       "end": 591.48,
-      "text": "Look at me,",
+      "text": "\"Look at me,",
       "para_break": true
     },
     {
       "start": 591.54,
       "end": 591.82,
-      "text": "Sam."
+      "text": "Sam.\""
     },
     {
       "start": 593.02,
       "end": 594.14,
-      "text": "He looked at her and laughed,",
+      "text": "He looked at her and laughed",
       "para_break": true
     },
     {
@@ -356,12 +342,12 @@
     {
       "start": 595.7,
       "end": 597.98,
-      "text": "Merriment mingled with the anxiety in her face."
+      "text": "merriment mingled with the anxiety in her face."
     },
     {
       "start": 599.0,
       "end": 599.84,
-      "text": "You worry me,",
+      "text": "\"You worry me,\"",
       "para_break": true
     },
     {
@@ -377,30 +363,28 @@
     {
       "start": 604.54,
       "end": 606.94,
-      "text": "You always think you know what you're doing,",
-      "para_break": true
+      "text": "\"You always think you know what you're doing,"
     },
     {
       "start": 607.68,
       "end": 609.6,
-      "text": "but you're too slick for your own good,",
-      "para_break": true
+      "text": "but you're too slick for your own good,"
     },
     {
       "start": 610.08,
       "end": 612.64,
-      "text": "and someday you're going to find it out."
+      "text": "and some day you're going to find it out.\""
     },
     {
       "start": 613.14,
       "end": 616.8,
-      "text": "He sighed mockingly and rubbed his cheek against her arm."
+      "text": "He sighed mockingly and rubbed his cheek against her arm.",
+      "para_break": true
     },
     {
       "start": 617.952,
       "end": 618.98,
-      "text": "That's what Dundee says,",
-      "para_break": true
+      "text": "\"That's what Dundy says,"
     },
     {
       "start": 619.37,
@@ -420,7 +404,7 @@
     {
       "start": 623.34,
       "end": 624.1,
-      "text": "rest of my troubles."
+      "text": "rest of my troubles.\""
     },
     {
       "start": 624.64,
@@ -430,19 +414,17 @@
     {
       "start": 627.54,
       "end": 629.36,
-      "text": "Have the spade and archer taken off the door",
-      "para_break": true
+      "text": "\"Have the _Spade & Archer_ taken off the door"
     },
     {
       "start": 629.5,
       "end": 630.7,
-      "text": "and Samuel Spade put on."
+      "text": "and _Samuel Spade_ put on."
     },
     {
       "start": 631.42,
       "end": 633.26,
-      "text": "I'll be back in an hour or phone you.",
-      "para_break": true
+      "text": "I'll be back in an hour, or phone you.\""
     },
     {
       "start": 634.432,
@@ -468,12 +450,12 @@
     {
       "start": 641.64,
       "end": 643.34,
-      "text": "The red-haired dandy turned away"
+      "text": "The red-haired dandy turned away,"
     },
     {
       "start": 643.98,
       "end": 644.56,
-      "text": "and then back,"
+      "text": "and then back"
     },
     {
       "start": 644.64,
@@ -483,7 +465,7 @@
     {
       "start": 645.78,
       "end": 647.36,
-      "text": "She checked out this morning,"
+      "text": "\"She checked out this morning,"
     },
     {
       "start": 647.56,
@@ -493,12 +475,12 @@
     {
       "start": 647.76,
       "end": 648.12,
-      "text": "Spade."
+      "text": "Spade.\""
     },
     {
       "start": 648.32,
       "end": 648.42,
-      "text": "Thanks."
+      "text": "\"Thanks.\""
     },
     {
       "start": 650.912,
@@ -509,7 +491,7 @@
     {
       "start": 654.94,
       "end": 656.6,
-      "text": "young middle-aged man in dark clothes"
+      "text": "young-middle-aged man in dark clothes"
     },
     {
       "start": 656.6,
@@ -519,8 +501,7 @@
     {
       "start": 659.99,
       "end": 660.86,
-      "text": "On the edge of the",
-      "para_break": true
+      "text": "On the edge of the"
     },
     {
       "start": 660.86,
@@ -530,17 +511,17 @@
     {
       "start": 662.62,
       "end": 665.5,
-      "text": "prism of mahogany and brass inscribed,"
+      "text": "prism of mahogany and brass inscribed"
     },
     {
       "start": 665.62,
       "end": 665.76,
-      "text": "Mr."
+      "text": "_Mr."
     },
     {
       "start": 666.36,
       "end": 666.7,
-      "text": "Freed."
+      "text": "Freed_."
     },
     {
       "start": 667.84,
@@ -551,18 +532,17 @@
     {
       "start": 672.32,
       "end": 674.5,
-      "text": "I was awfully sorry to hear about Archer,",
-      "para_break": true
+      "text": "\"I was awfully sorry to hear about Archer,"
     },
     {
       "start": 674.52,
       "end": 674.9,
-      "text": "Spade,"
+      "text": "Spade,\""
     },
     {
       "start": 675.04,
       "end": 675.5,
-      "text": "he said,"
+      "text": "he said"
     },
     {
       "start": 676.1,
@@ -577,8 +557,7 @@
     {
       "start": 679.89,
       "end": 681.5,
-      "text": "I've just seen it in the call.",
-      "para_break": true
+      "text": "\"I've just seen it in the _Call_."
     },
     {
       "start": 682.03,
@@ -588,12 +567,12 @@
     {
       "start": 683.86,
       "end": 684.22,
-      "text": "you know."
+      "text": "you know.\""
     },
     {
       "start": 684.86,
       "end": 684.96,
-      "text": "Thanks,"
+      "text": "\"Thanks,"
     },
     {
       "start": 685.46,
@@ -603,12 +582,12 @@
     {
       "start": 685.98,
       "end": 687.14,
-      "text": "Were you talking to him?"
+      "text": "Were you talking to him?\""
     },
     {
       "start": 687.93,
       "end": 688.48,
-      "text": "No.",
+      "text": "\"No.",
       "para_break": true
     },
     {
@@ -634,13 +613,12 @@
     {
       "start": 698.92,
       "end": 700.74,
-      "text": "Did that have anything to do with his...",
-      "para_break": true
+      "text": "Did that have anything to do with his—?\""
     },
     {
       "start": 701.66,
       "end": 702.5,
-      "text": "I don't think so,",
+      "text": "\"I don't think so,",
       "para_break": true
     },
     {
@@ -656,23 +634,23 @@
     {
       "start": 704.9,
       "end": 706.52,
-      "text": "we won't mix the house up in it,"
+      "text": "we won't mix the house up in it"
     },
     {
       "start": 706.54,
       "end": 707.32,
-      "text": "if it can be helped."
+      "text": "if it can be helped.\""
     },
     {
       "start": 708.06,
       "end": 708.78,
-      "text": "Thanks.",
+      "text": "\"Thanks.\"",
       "para_break": true
     },
     {
       "start": 710.112,
       "end": 710.58,
-      "text": "That's all right.",
+      "text": "\"That's all right.",
       "para_break": true
     },
     {
@@ -683,28 +661,28 @@
     {
       "start": 713.52,
       "end": 715.3,
-      "text": "and then forget that I asked for it?"
+      "text": "and then forget that I asked for it?\""
     },
     {
       "start": 715.78,
       "end": 716.48,
-      "text": "Surely."
+      "text": "\"Surely.\""
     },
     {
       "start": 717.96,
       "end": 719.64,
-      "text": "A Miss Wonderly checked out this morning.",
+      "text": "\"A Miss Wonderly checked out this morning.",
       "para_break": true
     },
     {
       "start": 720.06,
       "end": 721.05,
-      "text": "I'd like to know the details."
+      "text": "I'd like to know the details.\""
     },
     {
       "start": 722.3,
       "end": 722.56,
-      "text": "Come along,",
+      "text": "\"Come along,\"",
       "para_break": true
     },
     {
@@ -715,7 +693,7 @@
     {
       "start": 723.44,
       "end": 724.82,
-      "text": "and we'll see what we can learn."
+      "text": "\"and we'll see what we can learn.\""
     }
   ]
 }

@@ -11,6 +11,7 @@
   "page_start_sec": 279.648,
   "page_end_sec": 521.36,
   "para_gap_threshold": 0.679,
+  "corrected": "claude",
   "segments": [
     {
       "start": 279.648,
@@ -26,13 +27,12 @@
     {
       "start": 283.68,
       "end": 284.96,
-      "text": "fragrant of shipra,"
+      "text": "fragrant of _chypre_,"
     },
     {
       "start": 285.64,
       "end": 287.38,
-      "text": "a platinum long jean watch",
-      "para_break": true
+      "text": "a platinum Longines watch"
     },
     {
       "start": 287.64,
@@ -47,8 +47,7 @@
     {
       "start": 293.16,
       "end": 294.06,
-      "text": "of some white metal,",
-      "para_break": true
+      "text": "of some white metal,"
     },
     {
       "start": 294.55,
@@ -78,14 +77,12 @@
     {
       "start": 301.5,
       "end": 303.32,
-      "text": "a silver and onyx fountain pen,",
-      "para_break": true
+      "text": "a silver and onyx fountain-pen,"
     },
     {
       "start": 304.34,
       "end": 305.6,
-      "text": "a metal comb in a leatherette",
-      "para_break": true
+      "text": "a metal comb in a leatherette"
     },
     {
       "start": 305.74,
@@ -95,36 +92,32 @@
     {
       "start": 306.8,
       "end": 308.7,
-      "text": "a nail file in a leatherette case,",
-      "para_break": true
+      "text": "a nail-file in a leatherette case,"
     },
     {
       "start": 308.97,
       "end": 311.28,
-      "text": "a small street guide to San Francisco,"
+      "text": "a small street-guide to San Francisco,"
     },
     {
       "start": 312.26,
       "end": 313.08,
-      "text": "a Southern Pacific",
-      "para_break": true
+      "text": "a Southern Pacific"
     },
     {
       "start": 313.34,
       "end": 314.04,
-      "text": "baggage check,"
+      "text": "baggage-check,"
     },
     {
       "start": 315.02,
       "end": 317.12,
-      "text": "a half-filled package of violet pastilles,",
-      "para_break": true
+      "text": "a half-filled package of violet pastilles,"
     },
     {
       "start": 318.02,
       "end": 320.1,
-      "text": "a Shanghai insurance broker's business",
-      "para_break": true
+      "text": "a Shanghai insurance-broker's business"
     },
     {
       "start": 320.32,
@@ -165,7 +158,7 @@
     {
       "start": 335.04,
       "end": 337.06,
-      "text": "he even opened the back of the watch case"
+      "text": "he even opened the back of the watch-case"
     },
     {
       "start": 337.06,
@@ -175,8 +168,7 @@
     {
       "start": 339.84,
       "end": 342.34,
-      "text": "Spade leaned over and took the unconscious man's wrist",
-      "para_break": true
+      "text": "Spade leaned over and took the unconscious man's wrist"
     },
     {
       "start": 342.52,
@@ -191,8 +183,7 @@
     {
       "start": 345.92,
       "end": 346.76,
-      "text": "Then he dropped the wrist,",
-      "para_break": true
+      "text": "Then he dropped the wrist,"
     },
     {
       "start": 346.96,
@@ -207,8 +198,7 @@
     {
       "start": 351.36,
       "end": 351.78,
-      "text": "His face,",
-      "para_break": true
+      "text": "His face,"
     },
     {
       "start": 351.78,
@@ -228,35 +218,33 @@
     {
       "start": 356.98,
       "end": 359.3,
-      "text": "so still and reflective that it seemed stupid."
+      "text": "so still and reflective that it seemed stupid;"
     },
     {
       "start": 359.8,
       "end": 363.22,
-      "text": "But when Cairo presently moaned and fluttered his eyelids,"
+      "text": "but when Cairo presently moaned and fluttered his eyelids,"
     },
     {
       "start": 363.968,
       "end": 365.22,
-      "text": "Spade's face became bland,",
-      "para_break": true
+      "text": "Spade's face became bland,"
     },
     {
       "start": 366.0,
       "end": 369.16,
-      "text": "and he put the beginning of a friendly smile into his eyes and mouth.",
-      "para_break": true
+      "text": "and he put the beginning of a friendly smile into his eyes and mouth."
     },
     {
       "start": 370.336,
       "end": 371.64,
-      "text": "Drilled Cairo awakened slowly,",
+      "text": "Joel Cairo awakened slowly.",
       "para_break": true
     },
     {
       "start": 372.3,
       "end": 373.32,
-      "text": "his eyes opened first,"
+      "text": "His eyes opened first,"
     },
     {
       "start": 373.92,
@@ -271,8 +259,7 @@
     {
       "start": 379.06,
       "end": 380.36,
-      "text": "Then he shut his mouth and swallowed,",
-      "para_break": true
+      "text": "Then he shut his mouth and swallowed,"
     },
     {
       "start": 380.76,
@@ -282,26 +269,22 @@
     {
       "start": 384.04,
       "end": 387.22,
-      "text": "He drew in one foot and turned a hand over on his thigh.",
-      "para_break": true
+      "text": "He drew in one foot and turned a hand over on his thigh."
     },
     {
       "start": 388.14,
       "end": 389.82,
-      "text": "Then he raised his head from the chair back,",
-      "para_break": true
+      "text": "Then he raised his head from the chair-back,"
     },
     {
       "start": 390.5,
       "end": 391.96,
-      "text": "looked around the office in confusion,",
-      "para_break": true
+      "text": "looked around the office in confusion,"
     },
     {
       "start": 392.82,
       "end": 393.44,
-      "text": "saw Spade,",
-      "para_break": true
+      "text": "saw Spade,"
     },
     {
       "start": 393.58,
@@ -331,18 +314,18 @@
     {
       "start": 404.928,
       "end": 406.02,
-      "text": "Cairo said through his teeth",
+      "text": "Cairo said through his teeth,",
       "para_break": true
     },
     {
       "start": 406.14,
       "end": 406.52,
-      "text": "painfully,"
+      "text": "painfully:"
     },
     {
       "start": 406.72,
       "end": 408.24,
-      "text": "I could have shot you,"
+      "text": "\"I could have shot you,"
     },
     {
       "start": 408.3,
@@ -352,12 +335,13 @@
     {
       "start": 408.6,
       "end": 409.08,
-      "text": "Spade."
+      "text": "Spade.\""
     },
     {
       "start": 409.46,
       "end": 410.82,
-      "text": "You could have tried,"
+      "text": "\"You could have tried,\"",
+      "para_break": true
     },
     {
       "start": 411.06,
@@ -367,23 +351,25 @@
     {
       "start": 412.35,
       "end": 413.64,
-      "text": "I did not try."
+      "text": "\"I did not try.\"",
+      "para_break": true
     },
     {
       "start": 414.0,
       "end": 415.06,
-      "text": "I know."
+      "text": "\"I know.\"",
+      "para_break": true
     },
     {
       "start": 416.36,
       "end": 418.64,
-      "text": "Then why did you strike me after I was disarmed?",
+      "text": "\"Then why did you strike me after I was disarmed?\"",
       "para_break": true
     },
     {
       "start": 419.42,
       "end": 419.9,
-      "text": "Sorry,",
+      "text": "\"Sorry,\"",
       "para_break": true
     },
     {
@@ -399,23 +385,22 @@
     {
       "start": 422.46,
       "end": 423.66,
-      "text": "showing his jaw teeth."
+      "text": "showing his jaw-teeth."
     },
     {
       "start": 424.66,
       "end": 426.26,
-      "text": "But imagine my embarrassment when I",
-      "para_break": true
+      "text": "\"But imagine my embarrassment when I"
     },
     {
       "start": 426.26,
       "end": 429.04,
-      "text": "found that $5,000 offer was just hooey."
+      "text": "found that five-thousand-dollar offer was just hooey.\""
     },
     {
       "start": 430.24,
       "end": 430.74,
-      "text": "You are mistaken,",
+      "text": "\"You are mistaken,",
       "para_break": true
     },
     {
@@ -441,12 +426,12 @@
     {
       "start": 433.2,
       "end": 434.14,
-      "text": "a genuine offer."
+      "text": "a genuine offer.\""
     },
     {
       "start": 435.46,
       "end": 435.94,
-      "text": "What the hell?",
+      "text": "\"What the hell?\"",
       "para_break": true
     },
     {
@@ -457,80 +442,75 @@
     {
       "start": 438.94,
       "end": 442.18,
-      "text": "I am prepared to pay $5,000 for the figure's return.",
+      "text": "\"I am prepared to pay five thousand dollars for the figure's return.\"",
       "para_break": true
     },
     {
       "start": 443.712,
       "end": 445.32,
-      "text": "Cairo took his hand away from his bruised",
-      "para_break": true
+      "text": "Cairo took his hand away from his bruised"
     },
     {
       "start": 445.32,
       "end": 447.4,
-      "text": "face and sat up prim and businesslike again."
+      "text": "face and sat up prim and business-like again."
     },
     {
       "start": 448.18,
       "end": 448.82,
-      "text": "You have it?",
-      "para_break": true
+      "text": "\"You have it?\""
     },
     {
       "start": 449.38,
       "end": 450.04,
-      "text": "No."
+      "text": "\"No.\""
     },
     {
       "start": 451.52,
       "end": 452.34,
-      "text": "If it is not here,",
+      "text": "\"If it is not here,\"",
       "para_break": true
     },
     {
       "start": 452.6,
       "end": 454.62,
-      "text": "Cairo was very politely skeptical."
+      "text": "Cairo was very politely skeptical,"
     },
     {
       "start": 455.9,
       "end": 457.06,
-      "text": "Why should you have risked serious",
-      "para_break": true
+      "text": "\"why should you have risked serious"
     },
     {
       "start": 457.06,
       "end": 459.08,
-      "text": "injury to prevent my searching for it?"
+      "text": "injury to prevent my searching for it?\""
     },
     {
       "start": 460.42,
       "end": 463.32,
-      "text": "I should sit around and let people come in and stick me up?",
+      "text": "\"I should sit around and let people come in and stick me up?\"",
       "para_break": true
     },
     {
       "start": 464.576,
       "end": 467.28,
-      "text": "Spade flicked a finger at Cairo's possessions on the desk.",
-      "para_break": true
+      "text": "Spade flicked a finger at Cairo's possessions on the desk."
     },
     {
       "start": 468.24,
       "end": 469.34,
-      "text": "You've got my apartment address.",
-      "para_break": true
+      "text": "\"You've got my apartment-address."
     },
     {
       "start": 469.7,
       "end": 470.6,
-      "text": "Been up there yet?"
+      "text": "Been up there yet?\""
     },
     {
       "start": 471.17,
       "end": 472.02,
-      "text": "Yes,"
+      "text": "\"Yes,"
     },
     {
       "start": 472.24,
@@ -545,7 +525,7 @@
     {
       "start": 473.34,
       "end": 476.2,
-      "text": "I am ready to pay $5,000 for the figure's return,"
+      "text": "I am ready to pay five thousand dollars for the figure's return,"
     },
     {
       "start": 476.68,
@@ -555,12 +535,12 @@
     {
       "start": 479.7,
       "end": 481.64,
-      "text": "to spare the owner that expense if possible."
+      "text": "to spare the owner that expense if possible.\""
     },
     {
       "start": 482.61,
       "end": 483.4,
-      "text": "Who is he?",
+      "text": "\"Who is he?\"",
       "para_break": true
     },
     {
@@ -572,20 +552,18 @@
     {
       "start": 487.14,
       "end": 489.38,
-      "text": "You will have to forgive my not answering that question.",
-      "para_break": true
+      "text": "\"You will have to forgive my not answering that question.\""
     },
     {
       "start": 490.46,
       "end": 490.78,
-      "text": "Will I?",
+      "text": "\"Will I?\"",
       "para_break": true
     },
     {
       "start": 491.68,
       "end": 492.42,
-      "text": "Spade leaned forward,",
-      "para_break": true
+      "text": "Spade leaned forward,"
     },
     {
       "start": 492.5,
@@ -595,8 +573,7 @@
     {
       "start": 494.62,
       "end": 495.54,
-      "text": "I've got you by the neck,",
-      "para_break": true
+      "text": "\"I've got you by the neck,"
     },
     {
       "start": 495.64,
@@ -606,12 +583,12 @@
     {
       "start": 496.48,
       "end": 499.16,
-      "text": "You have walked in and tied yourself up plenty strong enough"
+      "text": "You've walked in and tied yourself up, plenty strong enough"
     },
     {
       "start": 499.3,
       "end": 501.58,
-      "text": "to suit the police with last night's killings."
+      "text": "to suit the police, with last night's killings."
     },
     {
       "start": 501.7,
@@ -621,25 +598,23 @@
     {
       "start": 502.68,
       "end": 504.8,
-      "text": "now you'll have to play with me or else.",
-      "para_break": true
+      "text": "now you'll have to play with me or else.\""
     },
     {
       "start": 506.112,
       "end": 509.22,
-      "text": "Kyra's smile was demure and not in any way alarmed.",
+      "text": "Cairo's smile was demure and not in any way alarmed.",
       "para_break": true
     },
     {
       "start": 510.14,
       "end": 511.79,
-      "text": "I made somewhat extensive inquiries",
-      "para_break": true
+      "text": "\"I made somewhat extensive inquiries"
     },
     {
       "start": 511.98,
       "end": 513.52,
-      "text": "about you before taking any action,"
+      "text": "about you before taking any action,\""
     },
     {
       "start": 513.58,
@@ -649,7 +624,7 @@
     {
       "start": 514.1,
       "end": 517.26,
-      "text": "and was assured that you were far too reasonable to"
+      "text": "\"and was assured that you were far too reasonable to"
     },
     {
       "start": 517.38,
@@ -659,7 +634,7 @@
     {
       "start": 519.58,
       "end": 521.36,
-      "text": "with profitable business relations."
+      "text": "with profitable business relations.\""
     }
   ]
 }

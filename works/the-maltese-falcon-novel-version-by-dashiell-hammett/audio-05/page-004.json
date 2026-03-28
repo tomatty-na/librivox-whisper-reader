@@ -11,17 +11,18 @@
   "page_start_sec": 765.536,
   "page_end_sec": 775.96,
   "para_gap_threshold": 0.679,
+  "corrected": "claude",
   "segments": [
     {
       "start": 765.536,
       "end": 766.06,
-      "text": "Spade said,",
+      "text": "Spade said:",
       "para_break": true
     },
     {
       "start": 766.28,
       "end": 767.62,
-      "text": "I'll be damned."
+      "text": "\"I'll be damned.\""
     },
     {
       "start": 767.98,
@@ -31,22 +32,22 @@
     {
       "start": 769.44,
       "end": 770.7,
-      "text": "laughed in his throat and said,"
+      "text": "laughed in his throat and said:"
     },
     {
       "start": 770.86,
       "end": 771.62,
-      "text": "All right,"
+      "text": "\"All right."
     },
     {
       "start": 771.62,
       "end": 772.08,
-      "text": "go ahead."
+      "text": "Go ahead."
     },
     {
       "start": 772.36,
       "end": 773.56,
-      "text": "I won't stop you."
+      "text": "I won't stop you.\""
     },
     {
       "start": 774.912,

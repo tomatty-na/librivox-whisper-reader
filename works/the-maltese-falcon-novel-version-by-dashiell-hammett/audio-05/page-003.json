@@ -11,6 +11,7 @@
   "page_start_sec": 522.528,
   "page_end_sec": 764.1,
   "para_gap_threshold": 0.679,
+  "corrected": "claude",
   "segments": [
     {
       "start": 522.528,
@@ -21,7 +22,7 @@
     {
       "start": 523.49,
       "end": 524.46,
-      "text": "Where are they?"
+      "text": "\"Where are they?\""
     },
     {
       "start": 524.56,
@@ -31,7 +32,7 @@
     {
       "start": 525.48,
       "end": 528.54,
-      "text": "I have offered you $5,000 for..."
+      "text": "\"I have offered you five thousand dollars for—\""
     },
     {
       "start": 528.74,
@@ -46,7 +47,7 @@
     {
       "start": 532.84,
       "end": 535.4,
-      "text": "There's nothing like $5,000 here."
+      "text": "\"There's nothing like five thousand dollars here."
     },
     {
       "start": 535.96,
@@ -66,18 +67,18 @@
     {
       "start": 541.6,
       "end": 542.92,
-      "text": "but what in hell would that mean?"
+      "text": "but what in hell would that mean?\""
     },
     {
       "start": 543.92,
       "end": 544.3,
-      "text": "I see,",
+      "text": "\"I see,\"",
       "para_break": true
     },
     {
       "start": 544.48,
       "end": 545.14,
-      "text": "I see,"
+      "text": "\"I see,\""
     },
     {
       "start": 545.34,
@@ -92,7 +93,7 @@
     {
       "start": 548.52,
       "end": 550.62,
-      "text": "You wish some assurance of my sincerity."
+      "text": "\"You wish some assurance of my sincerity.\""
     },
     {
       "start": 551.16,
@@ -102,17 +103,17 @@
     {
       "start": 554.22,
       "end": 555.48,
-      "text": "A retainer,"
+      "text": "\"A retainer,"
     },
     {
       "start": 555.5,
       "end": 556.24,
-      "text": "would that serve?"
+      "text": "would that serve?\""
     },
     {
       "start": 557.7,
       "end": 558.06,
-      "text": "It might.",
+      "text": "\"It might.\"",
       "para_break": true
     },
     {
@@ -129,13 +130,12 @@
     {
       "start": 562.69,
       "end": 564.0,
-      "text": "withdrew the hand and said,",
-      "para_break": true
+      "text": "withdrew the hand, and said:"
     },
     {
       "start": 564.62,
       "end": 565.62,
-      "text": "you will take,"
+      "text": "\"You will take,"
     },
     {
       "start": 565.66,
@@ -145,7 +145,7 @@
     {
       "start": 566.44,
       "end": 567.54,
-      "text": "a hundred dollars?"
+      "text": "a hundred dollars?\""
     },
     {
       "start": 568.1,
@@ -155,8 +155,7 @@
     {
       "start": 571.66,
       "end": 572.3,
-      "text": "Then he frowned,",
-      "para_break": true
+      "text": "Then he frowned,"
     },
     {
       "start": 572.42,
@@ -166,8 +165,7 @@
     {
       "start": 573.86,
       "end": 574.74,
-      "text": "better make it two hundred,",
-      "para_break": true
+      "text": "\"Better make it two hundred,\""
     },
     {
       "start": 575.18,
@@ -183,13 +181,13 @@
     {
       "start": 578.13,
       "end": 580.34,
-      "text": "Your first guess was that I had the bird,",
+      "text": "\"Your first guess was that I had the bird,\"",
       "para_break": true
     },
     {
       "start": 580.58,
       "end": 583.74,
-      "text": "Spade said in a crisp voice when he had put the $200"
+      "text": "Spade said in a crisp voice when he had put the two hundred dollars"
     },
     {
       "start": 584.14,
@@ -199,25 +197,23 @@
     {
       "start": 588.34,
       "end": 589.16,
-      "text": "There's nothing in that.",
-      "para_break": true
+      "text": "\"There's nothing in that."
     },
     {
       "start": 590.24,
       "end": 590.69,
-      "text": "What's your second?",
-      "para_break": true
+      "text": "What's your second?\""
     },
     {
       "start": 591.41,
       "end": 593.16,
-      "text": "That you know where it is,",
+      "text": "\"That you know where it is,",
       "para_break": true
     },
     {
       "start": 593.24,
       "end": 594.58,
-      "text": "or if not exactly that,"
+      "text": "or, if not exactly that,"
     },
     {
       "start": 595.08,
@@ -227,33 +223,33 @@
     {
       "start": 596.5,
       "end": 597.26,
-      "text": "you can get it."
+      "text": "you can get it.\""
     },
     {
       "start": 598.304,
       "end": 600.1,
-      "text": "Spade neither denied nor affirmed that.",
+      "text": "Spade neither denied nor affirmed that:",
       "para_break": true
     },
     {
       "start": 600.52,
       "end": 602.58,
-      "text": "He seemed hardly to have heard it."
+      "text": "he seemed hardly to have heard it."
     },
     {
       "start": 602.68,
       "end": 603.44,
-      "text": "He asked,"
+      "text": "He asked:"
     },
     {
       "start": 603.69,
       "end": 606.54,
-      "text": "What sort of proof can you give me that your man is the owner?"
+      "text": "\"What sort of proof can you give me that your man is the owner?\""
     },
     {
       "start": 607.7,
       "end": 608.16,
-      "text": "Very little,",
+      "text": "\"Very little,\"",
       "para_break": true
     },
     {
@@ -264,51 +260,47 @@
     {
       "start": 609.98,
       "end": 610.5,
-      "text": "There is this,",
-      "para_break": true
+      "text": "\"There is this,"
     },
     {
       "start": 610.58,
       "end": 610.84,
-      "text": "though."
+      "text": "though:"
     },
     {
       "start": 611.648,
       "end": 615.08,
-      "text": "Nobody else can give you any authentic evidence of ownership at all,",
-      "para_break": true
+      "text": "nobody else can give you any authentic evidence of ownership at all."
     },
     {
       "start": 615.5,
       "end": 618.22,
-      "text": "and if you know as much about the affair as I suppose,"
+      "text": "And if you know as much about the affair as I suppose"
     },
     {
       "start": 618.98,
       "end": 620.32,
-      "text": "or I should not be here,",
-      "para_break": true
+      "text": "—or I should not be here—"
     },
     {
       "start": 621.14,
       "end": 623.7,
-      "text": "you know that the means by which it was taken from him",
-      "para_break": true
+      "text": "you know that the means by which it was taken from him"
     },
     {
       "start": 623.78,
       "end": 627.38,
-      "text": "shows that his right to it was more valid than anyone else's,"
+      "text": "shows that his right to it was more valid than anyone else's—"
     },
     {
       "start": 627.872,
       "end": 629.56,
-      "text": "certainly more valid than Thursby's."
+      "text": "certainly more valid than Thursby's.\""
     },
     {
       "start": 630.72,
       "end": 631.48,
-      "text": "What about his daughter?",
+      "text": "\"What about his daughter?\"",
       "para_break": true
     },
     {
@@ -335,7 +327,7 @@
     {
       "start": 638.7,
       "end": 640.3,
-      "text": "He is not the owner."
+      "text": "\"_He_ is not the owner!\""
     },
     {
       "start": 641.664,
@@ -346,7 +338,7 @@
     {
       "start": 642.34,
       "end": 642.44,
-      "text": "oh,"
+      "text": "\"Oh,\""
     },
     {
       "start": 642.94,
@@ -356,25 +348,24 @@
     {
       "start": 646.58,
       "end": 648.3,
-      "text": "Is he here in San Francisco now?",
+      "text": "\"Is he here, in San Francisco, now?\"",
       "para_break": true
     },
     {
       "start": 649.312,
       "end": 652.1,
-      "text": "Cairo asked in a less shrill but still excited voice.",
-      "para_break": true
+      "text": "Cairo asked in a less shrill, but still excited, voice."
     },
     {
       "start": 653.408,
       "end": 655.58,
-      "text": "Spade blinked his eyes sleepily and suggested,",
+      "text": "Spade blinked his eyes sleepily and suggested:",
       "para_break": true
     },
     {
       "start": 656.02,
       "end": 659.14,
-      "text": "it might be better all around if we put our cards on the table."
+      "text": "\"It might be better all around if we put our cards on the table.\""
     },
     {
       "start": 660.608,
@@ -385,18 +376,17 @@
     {
       "start": 663.64,
       "end": 665.02,
-      "text": "I do not think it would be better,",
-      "para_break": true
+      "text": "\"I do not think it would be better.\""
     },
     {
       "start": 665.14,
       "end": 666.52,
-      "text": "his voice was suave now,"
+      "text": "His voice was suave now."
     },
     {
       "start": 667.1,
       "end": 668.54,
-      "text": "if you know more than I,"
+      "text": "\"If you know more than I,"
     },
     {
       "start": 669.06,
@@ -406,18 +396,17 @@
     {
       "start": 670.72,
       "end": 671.38,
-      "text": "and so will you,"
+      "text": "and so will you"
     },
     {
       "start": 671.82,
       "end": 673.36,
-      "text": "to the extent of $5,000."
+      "text": "to the extent of five thousand dollars."
     },
     {
       "start": 674.42,
       "end": 675.13,
-      "text": "If you do not,",
-      "para_break": true
+      "text": "If you do not,"
     },
     {
       "start": 675.28,
@@ -427,7 +416,7 @@
     {
       "start": 677.94,
       "end": 681.26,
-      "text": "and to do as you suggest would be simply to make that mistake worse."
+      "text": "and to do as you suggest would be simply to make that mistake worse.\""
     },
     {
       "start": 682.464,
@@ -443,30 +432,27 @@
     {
       "start": 686.0,
       "end": 686.24,
-      "text": "saying,"
+      "text": "saying:"
     },
     {
       "start": 687.296,
       "end": 687.82,
-      "text": "There's your stuff.",
-      "para_break": true
+      "text": "\"There's your stuff\""
     },
     {
       "start": 688.58,
       "end": 688.92,
-      "text": "And then,",
-      "para_break": true
+      "text": "and then,"
     },
     {
       "start": 689.04,
       "end": 691.28,
-      "text": "when Cairo was returning them to his pockets,"
+      "text": "when Cairo was returning them to his pockets:"
     },
     {
       "start": 692.192,
       "end": 694.62,
-      "text": "it's understood that you're to pay my expenses",
-      "para_break": true
+      "text": "\"It's understood that you're to pay my expenses"
     },
     {
       "start": 695.2,
@@ -476,13 +462,12 @@
     {
       "start": 697.64,
       "end": 699.38,
-      "text": "and $5,000 when it's done.",
-      "para_break": true
+      "text": "and five thousand dollars when it's done?\""
     },
     {
       "start": 700.36,
       "end": 700.74,
-      "text": "Yes,",
+      "text": "\"Yes,",
       "para_break": true
     },
     {
@@ -493,39 +478,38 @@
     {
       "start": 701.14,
       "end": 701.46,
-      "text": "Spade,"
+      "text": "Spade;"
     },
     {
       "start": 701.6,
       "end": 703.2,
-      "text": "that is $5,000,"
+      "text": "that is, five thousand dollars"
     },
     {
       "start": 703.68,
       "end": 706.2,
-      "text": "less whatever monies have been advanced to you,"
+      "text": "less whatever moneys have been advanced to you—"
     },
     {
       "start": 706.76,
       "end": 707.62,
-      "text": "$5,000 in all."
+      "text": "five thousand in all.\""
     },
     {
       "start": 708.84,
       "end": 709.04,
-      "text": "Right,",
+      "text": "\"Right.",
       "para_break": true
     },
     {
       "start": 709.5,
       "end": 710.72,
-      "text": "and it's a legitimate proposition."
+      "text": "And it's a legitimate proposition.\""
     },
     {
       "start": 711.776,
       "end": 712.9,
-      "text": "Spade's face was solemn,",
-      "para_break": true
+      "text": "Spade's face was solemn"
     },
     {
       "start": 713.1,
@@ -535,45 +519,43 @@
     {
       "start": 716.08,
       "end": 718.0,
-      "text": "you're not hiring me to do any murders or",
-      "para_break": true
+      "text": "\"You're not hiring me to do any murders or"
     },
     {
       "start": 718.05,
       "end": 720.32,
-      "text": "burglaries for you it's simply to get it back"
+      "text": "burglaries for you, but simply to get it back"
     },
     {
       "start": 720.46,
       "end": 722.46,
-      "text": "if possible in an honest and lawful way"
+      "text": "if possible in an honest and lawful way.\""
     },
     {
       "start": 723.78,
       "end": 727.44,
-      "text": "if possible Cairo agreed his face also was solemn",
+      "text": "\"If possible,\" Cairo agreed. His face also was solemn",
       "para_break": true
     },
     {
       "start": 727.58,
       "end": 730.14,
-      "text": "except for the eyes and in any event with"
+      "text": "except for the eyes. \"And in any event with"
     },
     {
       "start": 730.14,
       "end": 732.26,
-      "text": "discretion he rose and picked up his hat"
+      "text": "discretion.\" He rose and picked up his hat."
     },
     {
       "start": 732.76,
       "end": 734.64,
-      "text": "I am at the Hotel Belvedere"
+      "text": "\"I am at the Hotel Belvedere"
     },
     {
       "start": 735.32,
       "end": 740.3,
-      "text": "when you wish to communicate with me room 635 I confidently",
-      "para_break": true
+      "text": "when you wish to communicate with me—room six-thirty-five. I confidently"
     },
     {
       "start": 740.62,
@@ -588,39 +570,37 @@
     {
       "start": 743.76,
       "end": 744.08,
-      "text": "Spade."
+      "text": "Spade.\""
     },
     {
       "start": 744.98,
       "end": 745.56,
-      "text": "He hesitated.",
-      "para_break": true
+      "text": "He hesitated."
     },
     {
       "start": 746.46,
       "end": 746.92,
-      "text": "May I have",
-      "para_break": true
+      "text": "\"May I have"
     },
     {
       "start": 746.92,
       "end": 747.48,
-      "text": "my pistol?"
+      "text": "my pistol?\""
     },
     {
       "start": 747.76,
       "end": 748.86,
-      "text": "Sure,"
+      "text": "\"Sure.\""
     },
     {
       "start": 749.08,
       "end": 750.2,
-      "text": "I'd forgotten it."
+      "text": "\"I'd forgotten it.\""
     },
     {
       "start": 751.36,
       "end": 753.86,
-      "text": "Spade took the pistol out of his coat pocket and handed it to",
+      "text": "Spade took the pistol out of his coat-pocket and handed it to",
       "para_break": true
     },
     {
@@ -637,13 +617,12 @@
     {
       "start": 758.2,
       "end": 760.54,
-      "text": "You will please keep your hands on the top of the",
-      "para_break": true
+      "text": "\"You will please keep your hands on the top of the"
     },
     {
       "start": 760.54,
       "end": 760.86,
-      "text": "desk,"
+      "text": "desk,\""
     },
     {
       "start": 761.08,
@@ -653,7 +632,7 @@
     {
       "start": 762.26,
       "end": 764.1,
-      "text": "I intend to search your offices."
+      "text": "\"I intend to search your offices.\""
     }
   ]
 }

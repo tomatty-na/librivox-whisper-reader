@@ -11,6 +11,7 @@
   "page_start_sec": 8.76,
   "page_end_sec": 278.5,
   "para_gap_threshold": 0.679,
+  "corrected": "claude",
   "segments": [
     {
       "start": 8.76,
@@ -20,47 +21,49 @@
     {
       "start": 9.74,
       "end": 12.1,
-      "text": "SPADE DID NOT LOOK AT THE PISTOL."
+      "text": "Spade did not look at the pistol.",
+      "para_break": true
     },
     {
       "start": 12.2,
       "end": 13.76,
-      "text": "HE RAISED HIS ARMS AND,"
+      "text": "He raised his arms and,"
     },
     {
       "start": 13.8,
       "end": 15.0,
-      "text": "LEANING BACK IN HIS CHAIR,"
+      "text": "leaning back in his chair,"
     },
     {
       "start": 15.24,
       "end": 18.14,
-      "text": "INTERTWINED THE FINGERS OF HIS TWO HANDS BEHIND HIS HEAD."
+      "text": "intertwined the fingers of his two hands behind his head."
     },
     {
       "start": 19.06,
       "end": 19.54,
-      "text": "HIS EYES,"
+      "text": "His eyes,"
     },
     {
       "start": 19.54,
       "end": 20.62,
-      "text": "HOLDING NO PARTICULAR"
+      "text": "holding no particular"
     },
     {
       "start": 20.7,
       "end": 21.28,
-      "text": "EXPRESSION,"
+      "text": "expression,"
     },
     {
       "start": 21.34,
       "end": 23.68,
-      "text": "REMAINED FOCUSED ON CAIRO'S DARK FACE."
+      "text": "remained focused on Cairo's dark face."
     },
     {
       "start": 24.832,
       "end": 26.94,
-      "text": "CAIRO COUGHED A LITTLE APOLOGETIC COUGH"
+      "text": "Cairo coughed a little apologetic cough",
+      "para_break": true
     },
     {
       "start": 27.24,
@@ -70,14 +73,12 @@
     {
       "start": 31.44,
       "end": 35.14,
-      "text": "His dark eyes were humid and bashful and very earnest.",
-      "para_break": true
+      "text": "His dark eyes were humid and bashful and very earnest."
     },
     {
       "start": 35.88,
       "end": 37.28,
-      "text": "I intend to search your offices,",
-      "para_break": true
+      "text": "I intend to search your offices,"
     },
     {
       "start": 37.44,
@@ -92,8 +93,7 @@
     {
       "start": 38.94,
       "end": 41.04,
-      "text": "I warn you that if you attempt to prevent me,",
-      "para_break": true
+      "text": "I warn you that if you attempt to prevent me,"
     },
     {
       "start": 41.48,
@@ -109,8 +109,7 @@
     {
       "start": 45.344,
       "end": 47.98,
-      "text": "Spade's voice was as empty of expression as his face.",
-      "para_break": true
+      "text": "Spade's voice was as empty of expression as his face."
     },
     {
       "start": 49.12,
@@ -121,8 +120,7 @@
     {
       "start": 51.16,
       "end": 52.72,
-      "text": "the man with the pistol instructed him,",
-      "para_break": true
+      "text": "the man with the pistol instructed him,"
     },
     {
       "start": 53.0,
@@ -169,14 +167,12 @@
     {
       "start": 70.4,
       "end": 72.9,
-      "text": "He lifted Spade's coat tail and looked under it.",
-      "para_break": true
+      "text": "He lifted Spade's coat-tail and looked under it."
     },
     {
       "start": 73.984,
       "end": 74.64,
-      "text": "Holding the pistol",
-      "para_break": true
+      "text": "Holding the pistol"
     },
     {
       "start": 74.72,
@@ -191,8 +187,7 @@
     {
       "start": 79.74,
       "end": 82.5,
-      "text": "The Levantine's face was then no more than six",
-      "para_break": true
+      "text": "The Levantine face was then no more than six"
     },
     {
       "start": 82.5,
@@ -208,8 +203,7 @@
     {
       "start": 89.088,
       "end": 90.22,
-      "text": "Cairo's face jerked back,",
-      "para_break": true
+      "text": "Cairo's face jerked back,"
     },
     {
       "start": 90.34,
@@ -219,8 +213,7 @@
     {
       "start": 92.48,
       "end": 94.64,
-      "text": "Spade's right heel on the patent leather toes",
-      "para_break": true
+      "text": "Spade's right heel on the patent-leathered toes"
     },
     {
       "start": 94.87,
@@ -230,7 +223,7 @@
     {
       "start": 98.4,
       "end": 100.94,
-      "text": "The elbow struck him beneath the cheekbone,"
+      "text": "The elbow struck him beneath the cheek-bone,"
     },
     {
       "start": 101.16,
@@ -245,8 +238,7 @@
     {
       "start": 108.0,
       "end": 111.36,
-      "text": "Spade's elbow went on past the astonished dark face and straightened",
-      "para_break": true
+      "text": "Spade's elbow went on past the astonished dark face and straightened"
     },
     {
       "start": 111.46,
@@ -256,8 +248,7 @@
     {
       "start": 115.424,
       "end": 118.72,
-      "text": "Cairo let the pistol go the instant that Spade's fingers touched it.",
-      "para_break": true
+      "text": "Cairo let the pistol go the instant that Spade's fingers touched it."
     },
     {
       "start": 119.26,
@@ -267,19 +258,18 @@
     {
       "start": 122.048,
       "end": 124.72,
-      "text": "Spade took his foot off Cairo's to complete his about face.",
+      "text": "Spade took his foot off Cairo's to complete his about-face.",
       "para_break": true
     },
     {
       "start": 125.7,
       "end": 126.38,
-      "text": "With his left hand,",
-      "para_break": true
+      "text": "With his left hand,"
     },
     {
       "start": 126.44,
       "end": 129.04,
-      "text": "Spade gathered together the smaller man's coat lapels,"
+      "text": "Spade gathered together the smaller man's coat-lapels,"
     },
     {
       "start": 129.32,
@@ -289,19 +279,17 @@
     {
       "start": 133.62,
       "end": 134.94,
-      "text": "while his right hand stowed the",
-      "para_break": true
+      "text": "while his right hand stowed the"
     },
     {
       "start": 134.94,
       "end": 137.16,
-      "text": "captured weapon away in a coat pocket."
+      "text": "captured weapon away in a coat-pocket."
     },
     {
       "start": 138.24,
       "end": 139.88,
-      "text": "Spade's yellow-gray eyes were somber.",
-      "para_break": true
+      "text": "Spade's yellow-grey eyes were somber."
     },
     {
       "start": 140.4,
@@ -327,8 +315,7 @@
     {
       "start": 150.08,
       "end": 152.06,
-      "text": "His skin was a complexion of polished lead",
-      "para_break": true
+      "text": "His skin was the complexion of polished lead"
     },
     {
       "start": 152.06,
@@ -359,25 +346,22 @@
     {
       "start": 166.2,
       "end": 169.28,
-      "text": "A puzzled look replaced the look of pain in the lead-colored face.",
-      "para_break": true
+      "text": "A puzzled look replaced the look of pain in the lead-colored face."
     },
     {
       "start": 170.08,
       "end": 170.7,
-      "text": "Then Spade smiled.",
-      "para_break": true
+      "text": "Then Spade smiled."
     },
     {
       "start": 171.86,
       "end": 172.68,
-      "text": "His smile was gentle,",
-      "para_break": true
+      "text": "His smile was gentle,"
     },
     {
       "start": 172.86,
       "end": 173.54,
-      "text": "even dreaming."
+      "text": "even dreamy."
     },
     {
       "start": 174.02,
@@ -392,8 +376,7 @@
     {
       "start": 179.5,
       "end": 180.0,
-      "text": "Fist,",
-      "para_break": true
+      "text": "Fist,"
     },
     {
       "start": 180.02,
@@ -418,13 +401,12 @@
     {
       "start": 185.94,
       "end": 188.68,
-      "text": "with only the limber shoulder giving the motion."
+      "text": "with only the limber shoulder giving them motion."
     },
     {
       "start": 190.06,
       "end": 191.46,
-      "text": "The fist struck Cairo's face,",
-      "para_break": true
+      "text": "The fist struck Cairo's face,"
     },
     {
       "start": 191.64,
@@ -434,12 +416,12 @@
     {
       "start": 194.46,
       "end": 195.44,
-      "text": "the corner of his mouth,"
+      "text": "a corner of his mouth,"
     },
     {
       "start": 195.84,
       "end": 198.1,
-      "text": "and most of his cheek between cheekbone and jawbone."
+      "text": "and most of his cheek between cheek-bone and jaw-bone."
     },
     {
       "start": 199.232,
@@ -482,19 +464,17 @@
     {
       "start": 216.1,
       "end": 217.48,
-      "text": "moving the lax body when necessary,",
-      "para_break": true
+      "text": "moving the lax body when necessary,"
     },
     {
       "start": 217.91,
       "end": 221.28,
-      "text": "making a pile of the pocket's contents on the desk."
+      "text": "making a pile of the pockets' contents on the desk."
     },
     {
       "start": 222.26,
       "end": 223.76,
-      "text": "When the last pocket had been turned out,",
-      "para_break": true
+      "text": "When the last pocket had been turned out,"
     },
     {
       "start": 223.78,
@@ -504,8 +484,7 @@
     {
       "start": 225.76,
       "end": 227.0,
-      "text": "rolled and lighted a cigarette,",
-      "para_break": true
+      "text": "rolled and lighted a cigarette,"
     },
     {
       "start": 227.62,
@@ -525,7 +504,8 @@
     {
       "start": 233.38,
       "end": 235.2,
-      "text": "There was a large wallet of dark,"
+      "text": "There was a large wallet of dark,",
+      "para_break": true
     },
     {
       "start": 235.24,
@@ -535,25 +515,22 @@
     {
       "start": 236.74,
       "end": 241.64,
-      "text": "The wallet contained $365 in United States bills of several sizes,",
-      "para_break": true
+      "text": "The wallet contained three hundred and sixty-five dollars in United States bills of several sizes,"
     },
     {
       "start": 242.84,
       "end": 244.02,
-      "text": "three five-pound notes,",
-      "para_break": true
+      "text": "three five-pound notes,"
     },
     {
       "start": 244.2,
       "end": 248.56,
-      "text": "a much-visited Greek passport bearing Cairo's name and portrait,"
+      "text": "a much-visaed Greek passport bearing Cairo's name and portrait,"
     },
     {
       "start": 249.664,
       "end": 251.82,
-      "text": "five folder sheets of pinkish onion-skinned paper",
-      "para_break": true
+      "text": "five folded sheets of pinkish onion-skin paper"
     },
     {
       "start": 251.82,
@@ -563,17 +540,17 @@
     {
       "start": 254.3,
       "end": 257.08,
-      "text": "a raggedly clipped newspaper account"
+      "text": "a raggedly clipped newspaper-account"
     },
     {
       "start": 257.64,
       "end": 259.78,
-      "text": "of the finding of Archers and Thursby's bodies,"
+      "text": "of the finding of Archer's and Thursby's bodies,"
     },
     {
       "start": 260.38,
       "end": 263.2,
-      "text": "a postcard photograph of a dusky woman with bold,"
+      "text": "a post-card-photograph of a dusky woman with bold,"
     },
     {
       "start": 263.3,
@@ -588,8 +565,7 @@
     {
       "start": 266.4,
       "end": 267.66,
-      "text": "a large silk handkerchief,",
-      "para_break": true
+      "text": "a large silk handkerchief,"
     },
     {
       "start": 267.84,
@@ -599,8 +575,7 @@
     {
       "start": 271.84,
       "end": 272.76,
-      "text": "a thin sheaf of Mr.",
-      "para_break": true
+      "text": "a thin sheaf of Mr."
     },
     {
       "start": 272.94,

@@ -11,6 +11,7 @@
   "page_start_sec": 242.016,
   "page_end_sec": 488.34,
   "para_gap_threshold": 0.657,
+  "corrected": "claude",
   "segments": [
     {
       "start": 242.016,
@@ -21,8 +22,7 @@
     {
       "start": 243.78,
       "end": 244.5,
-      "text": "That's the way it was.",
-      "para_break": true
+      "text": "\"That's the way it was.\""
     },
     {
       "start": 245.05,
@@ -37,8 +37,7 @@
     {
       "start": 249.96,
       "end": 251.72,
-      "text": "There's no time for worrying about that now.",
-      "para_break": true
+      "text": "\"There's no time for worrying about that now.\""
     },
     {
       "start": 252.3,
@@ -48,8 +47,7 @@
     {
       "start": 255.6,
       "end": 256.0,
-      "text": "Out there,",
-      "para_break": true
+      "text": "\"Out there,"
     },
     {
       "start": 256.08,
@@ -64,19 +62,18 @@
     {
       "start": 263.26,
       "end": 264.28,
-      "text": "What do you want to do?",
-      "para_break": true
+      "text": "What do you want to do?\""
     },
     {
       "start": 265.66,
       "end": 267.28,
-      "text": "I want you to save me from...",
+      "text": "\"I want you to save me from—",
       "para_break": true
     },
     {
       "start": 267.78,
       "end": 268.22,
-      "text": "From it all,"
+      "text": "from it all,\""
     },
     {
       "start": 268.44,
@@ -91,13 +88,12 @@
     {
       "start": 272.02,
       "end": 274.16,
-      "text": "She put a timid hand on his sleeve.",
-      "para_break": true
+      "text": "She put a timid hand on his sleeve."
     },
     {
       "start": 275.16,
       "end": 275.3,
-      "text": "Mr.",
+      "text": "\"Mr.",
       "para_break": true
     },
     {
@@ -108,101 +104,98 @@
     {
       "start": 276.38,
       "end": 277.44,
-      "text": "do they know about me?"
+      "text": "do they know about me?\""
     },
     {
       "start": 278.84,
       "end": 279.22,
-      "text": "Not yet.",
+      "text": "\"Not yet.",
       "para_break": true
     },
     {
       "start": 279.26,
       "end": 280.72,
-      "text": "I wanted to see you first."
+      "text": "I wanted to see you first.\""
     },
     {
       "start": 282.04,
       "end": 282.34,
-      "text": "What?",
+      "text": "\"What—",
       "para_break": true
     },
     {
       "start": 282.56,
       "end": 284.92,
-      "text": "What would they think if they knew about"
+      "text": "what would they think if they knew about"
     },
     {
       "start": 284.92,
       "end": 286.74,
-      "text": "the way I came to you with those lies?"
+      "text": "the way I came to you—with those lies?\""
     },
     {
       "start": 288.26,
       "end": 289.24,
-      "text": "It would make them suspicious.",
+      "text": "\"It would make them suspicious.",
       "para_break": true
     },
     {
       "start": 290.304,
       "end": 292.68,
-      "text": "That's why I've been stalling them till I could see you.",
-      "para_break": true
+      "text": "That's why I've been stalling them till I could see you."
     },
     {
       "start": 293.38,
       "end": 294.0,
-      "text": "I thought maybe",
-      "para_break": true
+      "text": "I thought maybe"
     },
     {
       "start": 294.72,
       "end": 296.82,
-      "text": "we wouldn't have to let them know all of it.",
-      "para_break": true
+      "text": "we wouldn't have to let them know all of it."
     },
     {
       "start": 297.45,
       "end": 299.84,
-      "text": "we ought to be able to fake a story that"
+      "text": "We ought to be able to fake a story that"
     },
     {
       "start": 299.84,
       "end": 301.42,
-      "text": "will rock them to sleep if necessary"
+      "text": "will rock them to sleep, if necessary.\""
     },
     {
       "start": 302.98,
       "end": 305.16,
-      "text": "you don't think i had anything to do with the",
+      "text": "\"You don't think I had anything to do with the—",
       "para_break": true
     },
     {
       "start": 305.23,
       "end": 310.5,
-      "text": "the murders do you spade grinned at her and said"
+      "text": "the murders—do you?\" Spade grinned at her and said:"
     },
     {
       "start": 310.79,
       "end": 313.48,
-      "text": "i forgot to ask you that did you"
+      "text": "\"I forgot to ask you that. Did you?\""
     },
     {
       "start": 315.04,
       "end": 319.46,
-      "text": "no that's good now what are we going to tell the police",
+      "text": "\"No.\" \"That's good. Now what are we going to tell the police?\"",
       "para_break": true
     },
     {
       "start": 320.56,
       "end": 322.24,
-      "text": "she squirmed on her end of the settee",
+      "text": "She squirmed on her end of the settee",
       "para_break": true
     },
     {
       "start": 322.28,
       "end": 324.28,
-      "text": "and her eyes wavered between heavy lashes"
+      "text": "and her eyes wavered between heavy lashes,"
     },
     {
       "start": 324.68,
@@ -212,13 +205,12 @@
     {
       "start": 328.36,
       "end": 330.62,
-      "text": "She seemed smaller and very young and oppressed.",
-      "para_break": true
+      "text": "She seemed smaller, and very young and oppressed."
     },
     {
       "start": 331.84,
       "end": 333.24,
-      "text": "Must they know about me at all?",
+      "text": "\"Must they know about me at all?\"",
       "para_break": true
     },
     {
@@ -229,8 +221,7 @@
     {
       "start": 335.06,
       "end": 336.46,
-      "text": "I think I'd rather die than that,",
-      "para_break": true
+      "text": "\"I think I'd rather die than that,"
     },
     {
       "start": 336.56,
@@ -255,7 +246,7 @@
     {
       "start": 341.1,
       "end": 342.96,
-      "text": "so that you can shield me from them"
+      "text": "so that you can shield me from them,"
     },
     {
       "start": 343.48,
@@ -265,8 +256,7 @@
     {
       "start": 346.58,
       "end": 348.58,
-      "text": "I don't think I could stand being questioned now.",
-      "para_break": true
+      "text": "I don't think I could stand being questioned now."
     },
     {
       "start": 349.16,
@@ -276,8 +266,7 @@
     {
       "start": 351.136,
       "end": 351.42,
-      "text": "Can't you,",
-      "para_break": true
+      "text": "Can't you,"
     },
     {
       "start": 351.48,
@@ -287,23 +276,23 @@
     {
       "start": 351.8,
       "end": 352.14,
-      "text": "Spade?"
+      "text": "Spade?\""
     },
     {
       "start": 352.86,
       "end": 353.58,
-      "text": "Maybe,",
+      "text": "\"Maybe,\"",
       "para_break": true
     },
     {
       "start": 353.76,
       "end": 354.28,
-      "text": "he said."
+      "text": "he said,"
     },
     {
       "start": 354.58,
       "end": 356.4,
-      "text": "but I'll have to know what it's all about."
+      "text": "\"but I'll have to know what it's all about.\""
     },
     {
       "start": 357.86,
@@ -329,12 +318,12 @@
     {
       "start": 364.0,
       "end": 366.16,
-      "text": "and fearful over tight clasped hands."
+      "text": "and fearful over tight-clasped hands."
     },
     {
       "start": 367.24,
       "end": 368.68,
-      "text": "I haven't lived a good life,",
+      "text": "\"I haven't lived a good life,\"",
       "para_break": true
     },
     {
@@ -345,12 +334,12 @@
     {
       "start": 369.44,
       "end": 370.64,
-      "text": "I've been bad,"
+      "text": "\"I've been bad—"
     },
     {
       "start": 370.86,
       "end": 372.3,
-      "text": "worse than you could know,"
+      "text": "worse than you could know—"
     },
     {
       "start": 372.88,
@@ -360,8 +349,7 @@
     {
       "start": 375.06,
       "end": 375.44,
-      "text": "Look at me,",
-      "para_break": true
+      "text": "Look at me,"
     },
     {
       "start": 375.48,
@@ -376,8 +364,7 @@
     {
       "start": 377.1,
       "end": 378.82,
-      "text": "You know I'm not all bad,",
-      "para_break": true
+      "text": "You know I'm not all bad,"
     },
     {
       "start": 378.82,
@@ -387,8 +374,7 @@
     {
       "start": 380.0,
       "end": 380.66,
-      "text": "You can see that,",
-      "para_break": true
+      "text": "You can see that,"
     },
     {
       "start": 380.92,
@@ -403,8 +389,7 @@
     {
       "start": 384.28,
       "end": 384.68,
-      "text": "Oh,",
-      "para_break": true
+      "text": "Oh,"
     },
     {
       "start": 384.8,
@@ -414,8 +399,7 @@
     {
       "start": 387.54,
       "end": 388.7,
-      "text": "and I've got nobody to",
-      "para_break": true
+      "text": "and I've got nobody to"
     },
     {
       "start": 388.7,
@@ -455,8 +439,7 @@
     {
       "start": 402.74,
       "end": 403.12,
-      "text": "I'm afraid,",
-      "para_break": true
+      "text": "I'm afraid,"
     },
     {
       "start": 403.34,
@@ -486,17 +469,17 @@
     {
       "start": 408.98,
       "end": 410.28,
-      "text": "but I trusted Floyd"
+      "text": "but—I trusted Floyd"
     },
     {
       "start": 410.56,
       "end": 412.84,
-      "text": "and I've nobody else."
+      "text": "and—I've nobody else,"
     },
     {
       "start": 413.04,
       "end": 413.76,
-      "text": "Nobody else,"
+      "text": "nobody else,"
     },
     {
       "start": 413.88,
@@ -511,20 +494,17 @@
     {
       "start": 415.38,
       "end": 416.34,
-      "text": "You can help me.",
-      "para_break": true
+      "text": "You can help me."
     },
     {
       "start": 417.2,
       "end": 418.3,
-      "text": "You said you can help me.",
-      "para_break": true
+      "text": "You've said you can help me."
     },
     {
       "start": 419.24,
       "end": 420.98,
-      "text": "If I hadn't believed you could save me,",
-      "para_break": true
+      "text": "If I hadn't believed you could save me"
     },
     {
       "start": 421.06,
@@ -534,8 +514,7 @@
     {
       "start": 425.34,
       "end": 427.3,
-      "text": "If I thought anybody else could save me,",
-      "para_break": true
+      "text": "If I thought anybody else could save me,"
     },
     {
       "start": 427.42,
@@ -545,13 +524,12 @@
     {
       "start": 430.74,
       "end": 432.32,
-      "text": "I know this isn't fair of me,",
-      "para_break": true
+      "text": "I know this isn't fair of me."
     },
     {
       "start": 432.4,
       "end": 433.36,
-      "text": "but be generous,"
+      "text": "But be generous,"
     },
     {
       "start": 433.54,
@@ -561,17 +539,17 @@
     {
       "start": 433.88,
       "end": 434.28,
-      "text": "Spade."
+      "text": "Spade,"
     },
     {
       "start": 434.62,
       "end": 436.14,
-      "text": "Don't ask me to be fair."
+      "text": "don't ask me to be fair."
     },
     {
       "start": 436.4,
       "end": 437.42,
-      "text": "You're strong."
+      "text": "You're strong,"
     },
     {
       "start": 437.72,
@@ -616,8 +594,7 @@
     {
       "start": 447.48,
       "end": 449.6,
-      "text": "Help me because I need help so badly,",
-      "para_break": true
+      "text": "Help me because I need help so badly,"
     },
     {
       "start": 449.79,
@@ -647,8 +624,7 @@
     {
       "start": 457.4,
       "end": 458.6,
-      "text": "I've no right to ask you to",
-      "para_break": true
+      "text": "I've no right to ask you to"
     },
     {
       "start": 458.6,
@@ -683,12 +659,13 @@
     {
       "start": 464.36,
       "end": 465.32,
-      "text": "Help me."
+      "text": "Help me.\""
     },
     {
       "start": 465.5,
       "end": 466.25,
-      "text": "Spade,"
+      "text": "Spade,",
+      "para_break": true
     },
     {
       "start": 466.88,
@@ -698,17 +675,17 @@
     {
       "start": 468.62,
       "end": 471.88,
-      "text": "speech now emptied his lungs with a long sighing"
+      "text": "speech, now emptied his lungs with a long sighing"
     },
     {
       "start": 472.18,
       "end": 474.94,
-      "text": "exhalation between pursed lips and said,"
+      "text": "exhalation between pursed lips and said:"
     },
     {
       "start": 475.3,
       "end": 477.46,
-      "text": "you won't need much of anybody's help."
+      "text": "\"You won't need much of anybody's help."
     },
     {
       "start": 477.58,
@@ -718,8 +695,7 @@
     {
       "start": 479.104,
       "end": 480.04,
-      "text": "You're very good.",
-      "para_break": true
+      "text": "You're very good."
     },
     {
       "start": 480.32,
@@ -739,12 +715,12 @@
     {
       "start": 485.06,
       "end": 486.26,
-      "text": "when you say things like,"
+      "text": "when you say things like"
     },
     {
       "start": 486.4,
       "end": 487.42,
-      "text": "be generous,"
+      "text": "'Be generous,"
     },
     {
       "start": 487.56,
@@ -754,7 +730,8 @@
     {
       "start": 487.92,
       "end": 488.34,
-      "text": "Spade."
+      "text": "Spade.'\"",
+      "para_break": true
     }
   ]
 }

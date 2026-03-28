@@ -11,6 +11,7 @@
   "page_start_sec": 1219.38,
   "page_end_sec": 1463.28,
   "para_gap_threshold": 0.657,
+  "corrected": "claude",
   "segments": [
     {
       "start": 1219.38,
@@ -20,7 +21,7 @@
     {
       "start": 1220.46,
       "end": 1221.16,
-      "text": "Anyway,"
+      "text": "\"Anyway,"
     },
     {
       "start": 1221.36,
@@ -30,18 +31,18 @@
     {
       "start": 1221.86,
       "end": 1225.14,
-      "text": "up 700 smacks in two days and that's all right."
+      "text": "up seven hundred smacks in two days, and that's all right.\""
     },
     {
       "start": 1226.272,
       "end": 1227.86,
-      "text": "Effie Perrine sat up straight and said,",
+      "text": "Effie Perine sat up straight and said:",
       "para_break": true
     },
     {
       "start": 1228.48,
       "end": 1228.94,
-      "text": "Sam,"
+      "text": "\"Sam,"
     },
     {
       "start": 1229.34,
@@ -51,7 +52,7 @@
     {
       "start": 1231.2,
       "end": 1233.88,
-      "text": "down or take advantage of it to bleed her,"
+      "text": "down, or take advantage of it to bleed her,"
     },
     {
       "start": 1234.5,
@@ -61,12 +62,12 @@
     {
       "start": 1235.7,
       "end": 1238.86,
-      "text": "never have any respect for you as long as I live."
+      "text": "never have any respect for you, as long as I live.\""
     },
     {
       "start": 1240.192,
       "end": 1241.24,
-      "text": "Spade smiled unnaturally,",
+      "text": "Spade smiled unnaturally.",
       "para_break": true
     },
     {
@@ -92,12 +93,12 @@
     {
       "start": 1247.02,
       "end": 1249.58,
-      "text": "someone's entrance through the corridor door stopped him."
+      "text": "someone's entrance through the corridor-door stopped him."
     },
     {
       "start": 1250.752,
       "end": 1252.18,
-      "text": "Effie Perrine rose and went into",
+      "text": "Effie Perine rose and went into",
       "para_break": true
     },
     {
@@ -119,22 +120,22 @@
     {
       "start": 1258.6,
       "end": 1258.8,
-      "text": "card."
+      "text": "card—"
     },
     {
       "start": 1259.1,
       "end": 1259.92,
-      "text": "Mr."
+      "text": "_Mr."
     },
     {
       "start": 1260.02,
       "end": 1260.9,
-      "text": "Joel Cairo."
+      "text": "Joel Cairo_."
     },
     {
       "start": 1261.9,
       "end": 1262.64,
-      "text": "This guy is queer,",
+      "text": "\"This guy is queer,\"",
       "para_break": true
     },
     {
@@ -145,7 +146,7 @@
     {
       "start": 1264.24,
       "end": 1264.74,
-      "text": "In with him,",
+      "text": "\"In with him,",
       "para_break": true
     },
     {
@@ -156,7 +157,7 @@
     {
       "start": 1265.0,
       "end": 1265.32,
-      "text": "darling,"
+      "text": "darling,\""
     },
     {
       "start": 1265.48,
@@ -182,8 +183,7 @@
     {
       "start": 1274.16,
       "end": 1275.64,
-      "text": "His features were Levantin.",
-      "para_break": true
+      "text": "His features were Levantine."
     },
     {
       "start": 1276.62,
@@ -204,14 +204,12 @@
     {
       "start": 1284.16,
       "end": 1284.84,
-      "text": "His black coat,",
-      "para_break": true
+      "text": "His black coat,"
     },
     {
       "start": 1285.52,
       "end": 1286.92,
-      "text": "cut tight to narrow shoulders,",
-      "para_break": true
+      "text": "cut tight to narrow shoulders,"
     },
     {
       "start": 1287.552,
@@ -221,8 +219,7 @@
     {
       "start": 1290.46,
       "end": 1292.7,
-      "text": "His trousers fitted his round legs more",
-      "para_break": true
+      "text": "His trousers fitted his round legs more"
     },
     {
       "start": 1292.704,
@@ -232,23 +229,23 @@
     {
       "start": 1295.44,
       "end": 1298.6,
-      "text": "The uppers of his patent leather shoes were hidden by fawn spats.",
+      "text": "The uppers of his patent-leather shoes were hidden by fawn spats.",
       "para_break": true
     },
     {
       "start": 1299.06,
       "end": 1302.14,
-      "text": "He held a black derby hat and a chamois-gloved hand"
+      "text": "He held a black derby hat in a chamois-gloved hand"
     },
     {
       "start": 1302.36,
       "end": 1304.08,
-      "text": "and came toward Spade with short,"
+      "text": "and came towards Spade with short,"
     },
     {
       "start": 1304.32,
       "end": 1304.92,
-      "text": "menacing,"
+      "text": "mincing,"
     },
     {
       "start": 1305.0,
@@ -258,8 +255,7 @@
     {
       "start": 1306.7,
       "end": 1309.1,
-      "text": "The fragrance of chypre came with him.",
-      "para_break": true
+      "text": "The fragrance of _chypre_ came with him."
     },
     {
       "start": 1310.272,
@@ -270,12 +266,12 @@
     {
       "start": 1313.1,
       "end": 1313.38,
-      "text": "saying,"
+      "text": "saying:"
     },
     {
       "start": 1313.98,
       "end": 1314.32,
-      "text": "Sit down,"
+      "text": "\"Sit down,"
     },
     {
       "start": 1314.46,
@@ -285,7 +281,7 @@
     {
       "start": 1314.74,
       "end": 1315.1,
-      "text": "Cairo."
+      "text": "Cairo.\""
     },
     {
       "start": 1316.544,
@@ -301,7 +297,7 @@
     {
       "start": 1319.9,
       "end": 1320.48,
-      "text": "I thank you,"
+      "text": "\"I thank you,\""
     },
     {
       "start": 1320.56,
@@ -341,13 +337,13 @@
     {
       "start": 1331.2,
       "end": 1333.26,
-      "text": "Spade rocked back in his chair and asked,",
+      "text": "Spade rocked back in his chair and asked:",
       "para_break": true
     },
     {
       "start": 1333.62,
       "end": 1334.9,
-      "text": "Now what can I do for you,"
+      "text": "\"Now what can I do for you,"
     },
     {
       "start": 1335.0,
@@ -357,7 +353,7 @@
     {
       "start": 1335.32,
       "end": 1335.64,
-      "text": "Cairo?"
+      "text": "Cairo?\""
     },
     {
       "start": 1336.6,
@@ -383,7 +379,7 @@
     {
       "start": 1343.84,
       "end": 1346.14,
-      "text": "Bridget O'Shaughnessy on the previous day."
+      "text": "Brigid O'Shaughnessy on the previous day."
     },
     {
       "start": 1347.1,
@@ -399,7 +395,7 @@
     {
       "start": 1350.64,
       "end": 1352.8,
-      "text": "and placed it bottom up on the corner"
+      "text": "and placed it bottom-up on the corner"
     },
     {
       "start": 1352.8,
@@ -415,8 +411,7 @@
     {
       "start": 1358.94,
       "end": 1361.28,
-      "text": "a ruby that matched the one in his tie even to",
-      "para_break": true
+      "text": "a ruby that matched the one in his tie even to"
     },
     {
       "start": 1361.28,
@@ -431,17 +426,17 @@
     {
       "start": 1364.77,
       "end": 1367.04,
-      "text": "His hands were soft and well cared for,"
+      "text": "His hands were soft and well cared for."
     },
     {
       "start": 1367.29,
       "end": 1368.64,
-      "text": "though they were not large."
+      "text": "Though they were not large,"
     },
     {
       "start": 1369.26,
       "end": 1371.5,
-      "text": "Their flaccid bluntness made them seem clumsy."
+      "text": "their flaccid bluntness made them seem clumsy."
     },
     {
       "start": 1371.94,
@@ -451,28 +446,28 @@
     {
       "start": 1375.12,
       "end": 1376.18,
-      "text": "whispering sound they made."
+      "text": "whispering sound they made:"
     },
     {
       "start": 1376.32,
       "end": 1378.86,
-      "text": "May a stranger offer condolences for"
+      "text": "\"May a stranger offer condolences for"
     },
     {
       "start": 1378.86,
       "end": 1380.4,
-      "text": "your partner's unfortunate death."
+      "text": "your partner's unfortunate death?\""
     },
     {
       "start": 1381.18,
       "end": 1381.98,
-      "text": "Thanks.",
+      "text": "\"Thanks.\"",
       "para_break": true
     },
     {
       "start": 1382.41,
       "end": 1383.76,
-      "text": "May I ask,"
+      "text": "\"May I ask,"
     },
     {
       "start": 1383.8,
@@ -497,12 +492,12 @@
     {
       "start": 1387.16,
       "end": 1387.84,
-      "text": "a certain,"
+      "text": "a certain—"
     },
     {
       "start": 1387.98,
       "end": 1388.56,
-      "text": "uh,"
+      "text": "ah—"
     },
     {
       "start": 1389.0,
@@ -512,12 +507,12 @@
     {
       "start": 1392.08,
       "end": 1394.2,
-      "text": "and the death a little later of the man Thursby?"
+      "text": "and the death a little later of the man Thursby?\""
     },
     {
       "start": 1395.488,
       "end": 1397.1,
-      "text": "Spade said nothing in a blank-faced,",
+      "text": "Spade said nothing in a blank-faced",
       "para_break": true
     },
     {
@@ -534,7 +529,7 @@
     {
       "start": 1400.22,
       "end": 1401.44,
-      "text": "I beg your pardon,"
+      "text": "\"I beg your pardon.\""
     },
     {
       "start": 1401.82,
@@ -554,7 +549,7 @@
     {
       "start": 1406.86,
       "end": 1409.24,
-      "text": "More than idle curiosity made me ask that,"
+      "text": "\"More than idle curiosity made me ask that,"
     },
     {
       "start": 1409.36,
@@ -569,39 +564,37 @@
     {
       "start": 1410.45,
       "end": 1412.54,
-      "text": "I am trying to recover an,"
+      "text": "I am trying to recover an—"
     },
     {
       "start": 1412.54,
       "end": 1412.768,
-      "text": "uh,"
+      "text": "ah—"
     },
     {
       "start": 1413.44,
       "end": 1413.96,
-      "text": "ornament",
-      "para_break": true
+      "text": "ornament"
     },
     {
       "start": 1414.54,
       "end": 1415.14,
-      "text": "that has been,"
+      "text": "that has been—"
     },
     {
       "start": 1415.18,
       "end": 1416.0,
-      "text": "shall we say,"
+      "text": "shall we say?—"
     },
     {
       "start": 1416.22,
       "end": 1416.87,
-      "text": "mislaid?"
+      "text": "mislaid."
     },
     {
       "start": 1418.4,
       "end": 1420.16,
-      "text": "I thought and hoped you could assist me.",
-      "para_break": true
+      "text": "I thought, and hoped, you could assist me.\""
     },
     {
       "start": 1421.216,
@@ -612,7 +605,7 @@
     {
       "start": 1425.52,
       "end": 1427.02,
-      "text": "The ornament is a statuette,",
+      "text": "\"The ornament is a statuette,\"",
       "para_break": true
     },
     {
@@ -623,24 +616,23 @@
     {
       "start": 1428.36,
       "end": 1430.52,
-      "text": "selecting and mouthing his words carefully."
+      "text": "selecting and mouthing his words carefully,"
     },
     {
       "start": 1431.6,
       "end": 1433.0,
-      "text": "the black figure of a bird.",
-      "para_break": true
+      "text": "\"the black figure of a bird.\""
     },
     {
       "start": 1434.208,
       "end": 1436.04,
-      "text": "Spade nodded again with courteous interest.",
+      "text": "Spade nodded again, with courteous interest.",
       "para_break": true
     },
     {
       "start": 1437.12,
       "end": 1438.24,
-      "text": "I am prepared to pay,",
+      "text": "\"I am prepared to pay,",
       "para_break": true
     },
     {
@@ -651,12 +643,12 @@
     {
       "start": 1440.52,
       "end": 1443.06,
-      "text": "the sum of $5,000 for its recovery."
+      "text": "the sum of five thousand dollars for its recovery.\""
     },
     {
       "start": 1444.32,
       "end": 1446.46,
-      "text": "Kyra raised one hand from the desk corner and",
+      "text": "Cairo raised one hand from the desk-corner and",
       "para_break": true
     },
     {
@@ -672,31 +664,27 @@
     {
       "start": 1451.58,
       "end": 1453.0,
-      "text": "I am prepared to promise that.",
-      "para_break": true
+      "text": "\"I am prepared to promise that—"
     },
     {
       "start": 1453.88,
       "end": 1454.6,
-      "text": "What is the phrase?",
-      "para_break": true
+      "text": "what is the phrase?—"
     },
     {
       "start": 1455.72,
       "end": 1456.06,
-      "text": "No questions",
-      "para_break": true
+      "text": "no questions"
     },
     {
       "start": 1456.44,
       "end": 1457.1,
-      "text": "will be asked."
+      "text": "will be asked.\""
     },
     {
       "start": 1457.82,
       "end": 1460.12,
-      "text": "He put his hand on the desk again beside",
-      "para_break": true
+      "text": "He put his hand on the desk again beside"
     },
     {
       "start": 1460.12,
