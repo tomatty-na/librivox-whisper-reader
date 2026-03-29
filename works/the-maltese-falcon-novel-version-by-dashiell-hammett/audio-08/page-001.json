@@ -11,6 +11,7 @@
   "page_start_sec": 0.768,
   "page_end_sec": 243.22,
   "para_gap_threshold": 0.588,
+  "corrected": "claude",
   "segments": [
     {
       "start": 0.768,
@@ -32,7 +33,7 @@
     {
       "start": 9.09,
       "end": 12.62,
-      "text": "Bridget O'Shaughnessy was huddled in the armchair by the table."
+      "text": "Brigid O'Shaughnessy was huddled in the armchair by the table."
     },
     {
       "start": 13.08,
@@ -120,13 +121,13 @@
     {
       "start": 52.32,
       "end": 52.7,
-      "text": "Dundee,",
+      "text": "Dundy,",
       "para_break": true
     },
     {
       "start": 52.82,
       "end": 54.84,
-      "text": "the first of the three into the living room,"
+      "text": "the first of the three into the living-room,"
     },
     {
       "start": 54.9,
@@ -139,14 +140,15 @@
       "text": "put a hand on his own hip under his overcoat"
     },
     {
-      "start": 59.86,
-      "end": 63.12,
-      "text": "a hand on the levantine's wrist and growled"
+      "start": 60.0,
+      "end": 64.92,
+      "text": "a hand on the Levantine's wrist, and growled: \"What are you up to here?\""
     },
     {
-      "start": 63.62,
-      "end": 67.46,
-      "text": "what are you up to here cairo took the red smeared"
+      "start": 65.82,
+      "end": 67.48,
+      "text": "Cairo took the red-smeared",
+      "para_break": true
     },
     {
       "start": 67.46,
@@ -156,28 +158,28 @@
     {
       "start": 69.96,
       "end": 73.0,
-      "text": "lieutenant's face uncovered by the hand his"
+      "text": "Lieutenant's face. Uncovered by the hand, his"
     },
     {
       "start": 73.0,
       "end": 75.77,
-      "text": "forehead showed a three inch ragged tear this"
+      "text": "forehead showed a three-inch ragged tear. \"This"
     },
     {
       "start": 76.1,
       "end": 78.82,
-      "text": "is what she has done he cried look at it"
+      "text": "is what she has done,\" he cried. \"Look at it.\""
     },
     {
       "start": 79.8,
       "end": 81.88,
-      "text": "the girl put her feet down on the floor and looked",
+      "text": "The girl put her feet down on the floor and looked",
       "para_break": true
     },
     {
       "start": 82.14,
       "end": 83.04,
-      "text": "warily from Dundee,"
+      "text": "warily from Dundy,"
     },
     {
       "start": 83.16,
@@ -187,7 +189,7 @@
     {
       "start": 85.02,
       "end": 85.72,
-      "text": "to Tom Polhas,"
+      "text": "to Tom Polhaus,"
     },
     {
       "start": 85.98,
@@ -202,7 +204,7 @@
     {
       "start": 88.86,
       "end": 90.68,
-      "text": "leaning against the doorframe."
+      "text": "leaning against the door-frame."
     },
     {
       "start": 91.68,
@@ -218,7 +220,7 @@
     {
       "start": 95.2,
       "end": 97.36,
-      "text": "his yellow-gray eyes glinted for an instant with"
+      "text": "his yellow-grey eyes glinted for an instant with"
     },
     {
       "start": 97.36,
@@ -238,7 +240,7 @@
     {
       "start": 102.34,
       "end": 103.6,
-      "text": "Dundee asked the girl,"
+      "text": "Dundy asked the girl,"
     },
     {
       "start": 103.7,
@@ -264,7 +266,7 @@
     {
       "start": 110.66,
       "end": 112.94,
-      "text": "He leaned against the doorframe and"
+      "text": "He leaned against the door-frame and"
     },
     {
       "start": 113.04,
@@ -279,7 +281,7 @@
     {
       "start": 118.38,
       "end": 120.76,
-      "text": "The girl turned her eyes up to Dundee's."
+      "text": "The girl turned her eyes up to Dundy's."
     },
     {
       "start": 120.88,
@@ -343,7 +345,7 @@
     {
       "start": 140.68,
       "end": 142.76,
-      "text": "that held his pistol out of Dundee's grip."
+      "text": "that held his pistol out of Dundy's grip."
     },
     {
       "start": 143.58,
@@ -359,12 +361,12 @@
     {
       "start": 144.54,
       "end": 145.24,
-      "text": "filthy liar."
+      "text": "filthy liar!"
     },
     {
       "start": 146.28,
       "end": 148.24,
-      "text": "He twisted himself around to face Dundee.",
+      "text": "He twisted himself around to face Dundy.",
       "para_break": true
     },
     {
@@ -471,12 +473,12 @@
     {
       "start": 188.66,
       "end": 189.96,
-      "text": "what do you want you for?"
+      "text": "What'd you come here for?"
     },
     {
       "start": 191.04,
       "end": 193.16,
-      "text": "Kyra withheld his reply until he had mopped",
+      "text": "Cairo withheld his reply until he had mopped",
       "para_break": true
     },
     {
@@ -487,7 +489,7 @@
     {
       "start": 195.12,
       "end": 196.66,
-      "text": "lavender barred silk handkerchief."
+      "text": "lavender-barred silk handkerchief."
     },
     {
       "start": 197.08,
@@ -524,13 +526,13 @@
     {
       "start": 207.424,
       "end": 209.02,
-      "text": "Tom Polehouse lowered his head,",
+      "text": "Tom Polhaus lowered his head,",
       "para_break": true
     },
     {
       "start": 209.2,
       "end": 211.64,
-      "text": "sniffed the odor of chapre that the"
+      "text": "sniffed the odor of _chypre_ that the"
     },
     {
       "start": 211.78,
@@ -551,7 +553,7 @@
     {
       "start": 221.728,
       "end": 222.32,
-      "text": "Dundee asked,",
+      "text": "Dundy asked,",
       "para_break": true
     },
     {

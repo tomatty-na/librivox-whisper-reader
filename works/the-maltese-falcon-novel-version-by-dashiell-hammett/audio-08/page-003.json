@@ -11,11 +11,12 @@
   "page_start_sec": 512.832,
   "page_end_sec": 759.4,
   "para_gap_threshold": 0.588,
+  "corrected": "claude",
   "segments": [
     {
       "start": 512.832,
       "end": 515.88,
-      "text": "Cairo's eyes holding worry and a question met Spade's",
+      "text": "Cairo's eyes, holding worry and a question, met Spade's",
       "para_break": true
     },
     {
@@ -62,7 +63,7 @@
     {
       "start": 529.86,
       "end": 533.3,
-      "text": "Dundee's hard square face darkened the least of shades."
+      "text": "Dundy's hard square face darkened the least of shades."
     },
     {
       "start": 533.62,
@@ -72,19 +73,19 @@
     {
       "start": 535.24,
       "end": 535.88,
-      "text": "preemptorily.",
+      "text": "peremptorily.",
       "para_break": true
     },
     {
       "start": 536.62,
       "end": 537.28,
-      "text": "Get your hats.",
+      "text": "\"Get your hats.\"",
       "para_break": true
     },
     {
       "start": 538.464,
       "end": 540.26,
-      "text": "Spade turned his grin on the lieutenant,",
+      "text": "Spade turned his grin on the Lieutenant,",
       "para_break": true
     },
     {
@@ -95,7 +96,7 @@
     {
       "start": 541.84,
       "end": 543.62,
-      "text": "comfortable position on the chair arm,"
+      "text": "comfortable position on the chair-arm,"
     },
     {
       "start": 543.7,
@@ -105,19 +106,19 @@
     {
       "start": 545.728,
       "end": 547.57,
-      "text": "don't you know when you're being kidded?",
+      "text": "\"Don't you know when you're being kidded?\"",
       "para_break": true
     },
     {
       "start": 548.608,
       "end": 550.96,
-      "text": "Tom Pohlhaus's face became red and shiny.",
+      "text": "Tom Polhaus's face became red and shiny.",
       "para_break": true
     },
     {
       "start": 552.16,
       "end": 552.64,
-      "text": "Dundee's face,",
+      "text": "Dundy's face,",
       "para_break": true
     },
     {
@@ -138,17 +139,17 @@
     {
       "start": 556.94,
       "end": 557.54,
-      "text": "no,"
+      "text": "\"No,"
     },
     {
       "start": 558.12,
       "end": 560.82,
-      "text": "but we'll let that wait till we get down to the hall."
+      "text": "but we'll let that wait till we get down to the Hall.\""
     },
     {
       "start": 561.92,
       "end": 564.44,
-      "text": "Spade rose and put his hands in his trousers' pockets.",
+      "text": "Spade rose and put his hands in his trousers-pockets.",
       "para_break": true
     },
     {
@@ -159,7 +160,7 @@
     {
       "start": 566.92,
       "end": 568.3,
-      "text": "much farther down at the lieutenant."
+      "text": "much farther down at the Lieutenant."
     },
     {
       "start": 569.14,
@@ -175,13 +176,13 @@
     {
       "start": 574.28,
       "end": 575.56,
-      "text": "I dare you to take us in,",
+      "text": "\"I dare you to take us in,",
       "para_break": true
     },
     {
       "start": 575.68,
       "end": 575.98,
-      "text": "Dundee,"
+      "text": "Dundy,"
     },
     {
       "start": 576.08,
@@ -234,7 +235,7 @@
     {
       "start": 591.712,
       "end": 593.2,
-      "text": "It's those damn bulls again.",
+      "text": "\"It's those damned bulls again.",
       "para_break": true
     },
     {
@@ -272,12 +273,12 @@
     {
       "start": 603.8,
       "end": 604.78,
-      "text": "And..."
+      "text": "\"And--\""
     },
     {
       "start": 605.632,
       "end": 607.36,
-      "text": "Bridget O'Shaughnessy bent forward in her",
+      "text": "Brigid O'Shaughnessy bent forward in her",
       "para_break": true
     },
     {
@@ -320,12 +321,12 @@
     {
       "start": 618.5,
       "end": 619.16,
-      "text": "cut it out,"
+      "text": "\"Cut it out,"
     },
     {
       "start": 619.24,
       "end": 619.48,
-      "text": "Sam."
+      "text": "Sam.\""
     },
     {
       "start": 620.672,
@@ -335,23 +336,23 @@
     {
       "start": 621.88,
       "end": 623.26,
-      "text": "but that's the way it was."
+      "text": "\"But that's the way it was."
     },
     {
       "start": 623.4,
       "end": 623.78,
-      "text": "We..."
+      "text": "\"We--\""
     },
     {
       "start": 624.46,
       "end": 626.12,
-      "text": "And the cut on his head and mouth,",
+      "text": "\"And the cut on his head and mouth?\"",
       "para_break": true
     },
     {
       "start": 626.624,
       "end": 627.58,
-      "text": "Dundee asked scornfully,"
+      "text": "Dundy asked scornfully."
     },
     {
       "start": 627.84,
@@ -361,7 +362,7 @@
     {
       "start": 630.432,
       "end": 630.98,
-      "text": "Ask him,",
+      "text": "\"Ask him,",
       "para_break": true
     },
     {
@@ -372,7 +373,7 @@
     {
       "start": 632.48,
       "end": 634.3,
-      "text": "Maybe he cut himself shaving."
+      "text": "\"Maybe he cut himself shaving.\""
     },
     {
       "start": 635.424,
@@ -393,13 +394,13 @@
     {
       "start": 643.5,
       "end": 643.82,
-      "text": "I fell.",
+      "text": "\"I fell.",
       "para_break": true
     },
     {
       "start": 644.7,
       "end": 646.22,
-      "text": "We intended to be struggling for",
+      "text": "\"We intended to be struggling for",
       "para_break": true
     },
     {
@@ -420,34 +421,34 @@
     {
       "start": 651.1,
       "end": 651.98,
-      "text": "pretending to struggle."
+      "text": "pretending to struggle.\""
     },
     {
       "start": 653.152,
       "end": 653.64,
-      "text": "Dundee said,",
+      "text": "Dundy said,",
       "para_break": true
     },
     {
       "start": 653.88,
       "end": 655.04,
-      "text": "horse feathers."
+      "text": "\"Horse feathers.\""
     },
     {
       "start": 656.32,
       "end": 656.82,
-      "text": "Spade said,",
+      "text": "Spade said:",
       "para_break": true
     },
     {
       "start": 657.04,
       "end": 657.94,
-      "text": "that's all right,"
+      "text": "\"That's all right,"
     },
     {
       "start": 657.94,
       "end": 658.26,
-      "text": "Dundee,"
+      "text": "Dundy,"
     },
     {
       "start": 658.32,
@@ -493,7 +494,7 @@
     {
       "start": 672.52,
       "end": 673.84,
-      "text": "It's no crime to get a copper,"
+      "text": "It's no crime to kid a copper,"
     },
     {
       "start": 673.92,
@@ -525,7 +526,7 @@
     {
       "start": 682.272,
       "end": 685.04,
-      "text": "Dundee put his back to Spade and gripped Cairo by the shoulders.",
+      "text": "Dundy put his back to Spade and gripped Cairo by the shoulders.",
       "para_break": true
     },
     {
@@ -582,7 +583,7 @@
     {
       "start": 700.512,
       "end": 702.0,
-      "text": "Dundee pulled Cairo roughly around,",
+      "text": "Dundy pulled Cairo roughly around,",
       "para_break": true
     },
     {
@@ -619,7 +620,7 @@
     {
       "start": 712.576,
       "end": 715.52,
-      "text": "Cairo's alarmed eyes jerked sideways to focus on Spade's",
+      "text": "Cairo's alarmed eyes jerked sidewise to focus on Spade's",
       "para_break": true
     },
     {
@@ -641,12 +642,12 @@
     {
       "start": 718.54,
       "end": 718.88,
-      "text": "Dundee."
+      "text": "Dundy."
     },
     {
       "start": 718.98,
       "end": 720.6,
-      "text": "The gun was part of the plant."
+      "text": "\"The gun was part of the plant."
     },
     {
       "start": 721.04,
@@ -661,7 +662,7 @@
     {
       "start": 722.84,
       "end": 724.26,
-      "text": "Too bad it's only a .32,",
+      "text": "\"Too bad it's only a thirty-two,",
       "para_break": true
     },
     {
@@ -672,12 +673,12 @@
     {
       "start": 725.96,
       "end": 728.16,
-      "text": "one Thursby and Miles were shot with."
+      "text": "one Thursby and Miles were shot with.\""
     },
     {
       "start": 729.12,
       "end": 730.1,
-      "text": "Dundee released Cairo,",
+      "text": "Dundy released Cairo,",
       "para_break": true
     },
     {
@@ -693,7 +694,7 @@
     {
       "start": 735.296,
       "end": 737.06,
-      "text": "Bridget O'Shaughnessy uttered a short cry.",
+      "text": "Brigid O'Shaughnessy uttered a short cry.",
       "para_break": true
     },
     {
@@ -736,7 +737,7 @@
     {
       "start": 756.88,
       "end": 759.4,
-      "text": "the closeness of his barrel-like belly in his own arms."
+      "text": "the closeness of his barrel-like belly and his own arms."
     }
   ]
 }

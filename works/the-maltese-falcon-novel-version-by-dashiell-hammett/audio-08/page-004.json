@@ -11,11 +11,12 @@
   "page_start_sec": 759.6,
   "page_end_sec": 917.96,
   "para_gap_threshold": 0.588,
+  "corrected": "claude",
   "segments": [
     {
       "start": 759.6,
       "end": 759.7,
-      "text": "No,"
+      "text": "\"No,"
     },
     {
       "start": 760.3,
@@ -26,7 +27,7 @@
     {
       "start": 760.44,
       "end": 761.3,
-      "text": "for Christ's sake,"
+      "text": "for Christ's sake!\""
     },
     {
       "start": 761.4,
@@ -46,7 +47,7 @@
     {
       "start": 767.2,
       "end": 768.6,
-      "text": "Then get him out of here quick,",
+      "text": "\"Then get him out of here quick,",
       "para_break": true
     },
     {
@@ -84,7 +85,7 @@
     {
       "start": 778.46,
       "end": 780.96,
-      "text": "turned his head to look over his shoulder at Lieutenant Dundee."
+      "text": "turned his head to look over his shoulder at Lieutenant Dundy."
     },
     {
       "start": 781.696,
@@ -95,7 +96,7 @@
     {
       "start": 784.224,
       "end": 786.18,
-      "text": "Dundee's fists were clenched in front of his body,",
+      "text": "Dundy's fists were clenched in front of his body,",
       "para_break": true
     },
     {
@@ -121,7 +122,7 @@
     {
       "start": 796.26,
       "end": 797.34,
-      "text": "Get their names and addresses,",
+      "text": "\"Get their names and addresses,",
       "para_break": true
     },
     {
@@ -143,13 +144,13 @@
     {
       "start": 801.38,
       "end": 801.96,
-      "text": "Joel Cairo,",
+      "text": "\"Joel Cairo,",
       "para_break": true
     },
     {
       "start": 802.04,
       "end": 803.0,
-      "text": "Hotel Belvedere."
+      "text": "Hotel Belvedere.\""
     },
     {
       "start": 803.872,
@@ -160,29 +161,29 @@
     {
       "start": 806.52,
       "end": 807.16,
-      "text": "You can always get",
+      "text": "\"You can always get",
       "para_break": true
     },
     {
       "start": 807.16,
       "end": 808.86,
-      "text": "in touch with Miss O'Shaughnessy through me."
+      "text": "in touch with Miss O'Shaughnessy through me.\""
     },
     {
       "start": 809.824,
       "end": 810.76,
-      "text": "Tom looked at Dundee.",
+      "text": "Tom looked at Dundy.",
       "para_break": true
     },
     {
       "start": 810.88,
       "end": 812.02,
-      "text": "Dundee growled,"
+      "text": "Dundy growled,"
     },
     {
       "start": 812.06,
       "end": 813.24,
-      "text": "get her address."
+      "text": "\"Get her address.\""
     },
     {
       "start": 814.09,
@@ -193,12 +194,12 @@
     {
       "start": 815.32,
       "end": 817.92,
-      "text": "her address is in care of my office."
+      "text": "\"Her address is in care of my office.\""
     },
     {
       "start": 818.88,
       "end": 819.94,
-      "text": "Dundee took a step forward,",
+      "text": "Dundy took a step forward,",
       "para_break": true
     },
     {
@@ -209,7 +210,7 @@
     {
       "start": 821.78,
       "end": 822.72,
-      "text": "Where do you live,"
+      "text": "\"Where do you live?\""
     },
     {
       "start": 822.86,
@@ -225,39 +226,39 @@
     {
       "start": 825.64,
       "end": 827.12,
-      "text": "get him out of here."
+      "text": "\"Get him out of here."
     },
     {
       "start": 827.9,
       "end": 828.78,
-      "text": "I've had enough of this.",
+      "text": "I've had enough of this.\"",
       "para_break": true
     },
     {
       "start": 829.792,
       "end": 831.12,
-      "text": "Tom looked at Spade's eyes,",
+      "text": "Tom looked at Spade's eyes--",
       "para_break": true
     },
     {
       "start": 831.34,
       "end": 833.02,
-      "text": "hard and glittering and mumbled,"
+      "text": "hard and glittering--and mumbled:"
     },
     {
       "start": 833.44,
       "end": 834.02,
-      "text": "take it easy,"
+      "text": "\"Take it easy,"
     },
     {
       "start": 834.12,
       "end": 834.34,
-      "text": "Sam."
+      "text": "Sam.\""
     },
     {
       "start": 835.4,
       "end": 836.98,
-      "text": "He buttoned his coat and turned to Dundee,",
+      "text": "He buttoned his coat and turned to Dundy,",
       "para_break": true
     },
     {
@@ -268,23 +269,23 @@
     {
       "start": 839.48,
       "end": 839.7,
-      "text": "well,"
+      "text": "\"well,"
     },
     {
       "start": 839.86,
       "end": 840.5,
-      "text": "is that all?"
+      "text": "is that all?\""
     },
     {
       "start": 841.14,
       "end": 842.8,
-      "text": "And taking a step towards the door.",
+      "text": "and taking a step towards the door.",
       "para_break": true
     },
     {
       "start": 843.872,
       "end": 845.85,
-      "text": "Dundee's scowl failed to conceal indecision.",
+      "text": "Dundy's scowl failed to conceal indecision.",
       "para_break": true
     },
     {
@@ -301,7 +302,7 @@
     {
       "start": 849.408,
       "end": 849.98,
-      "text": "I'm going too,"
+      "text": "\"I'm going too,"
     },
     {
       "start": 850.18,
@@ -311,7 +312,7 @@
     {
       "start": 850.8,
       "end": 852.9,
-      "text": "Spade will be kind enough to give me my hat and coat."
+      "text": "Spade will be kind enough to give me my hat and coat.\""
     },
     {
       "start": 853.92,
@@ -322,18 +323,18 @@
     {
       "start": 854.58,
       "end": 855.58,
-      "text": "What's the hurry?"
+      "text": "\"What's the hurry?\""
     },
     {
       "start": 856.704,
       "end": 857.51,
-      "text": "Dundee said angrily,",
+      "text": "Dundy said angrily,",
       "para_break": true
     },
     {
       "start": 858.08,
       "end": 859.38,
-      "text": "It was all in fun,"
+      "text": "\"It was all in fun,"
     },
     {
       "start": 859.5,
@@ -343,12 +344,12 @@
     {
       "start": 860.54,
       "end": 861.9,
-      "text": "you're afraid to be left here with them?"
+      "text": "you're afraid to be left here with them.\""
     },
     {
       "start": 862.84,
       "end": 863.36,
-      "text": "Not at all,",
+      "text": "\"Not at all,",
       "para_break": true
     },
     {
@@ -369,7 +370,7 @@
     {
       "start": 866.82,
       "end": 868.0,
-      "text": "But it's quite late,"
+      "text": "\"But it's quite late,"
     },
     {
       "start": 868.06,
@@ -389,12 +390,12 @@
     {
       "start": 871.32,
       "end": 872.18,
-      "text": "if you don't mind."
+      "text": "if you don't mind.\""
     },
     {
       "start": 872.63,
       "end": 875.14,
-      "text": "Dundee put his lips together firmly and said nothing."
+      "text": "Dundy put his lips together firmly and said nothing."
     },
     {
       "start": 875.38,
@@ -442,7 +443,7 @@
     {
       "start": 893.76,
       "end": 894.86,
-      "text": "Dundee took Cairo's pistol",
+      "text": "Dundy took Cairo's pistol",
       "para_break": true
     },
     {
@@ -453,7 +454,7 @@
     {
       "start": 897.95,
       "end": 900.34,
-      "text": "He went out first with Cairo at his heels."
+      "text": "He went out first, with Cairo at his heels."
     },
     {
       "start": 901.12,
@@ -469,13 +470,13 @@
     {
       "start": 903.52,
       "end": 905.16,
-      "text": "I hope to God you know what you're doing.",
+      "text": "\"I hope to God you know what you're doing,\"",
       "para_break": true
     },
     {
       "start": 906.12,
       "end": 906.78,
-      "text": "Got no response,",
+      "text": "got no response,",
       "para_break": true
     },
     {

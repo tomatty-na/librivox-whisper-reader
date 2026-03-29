@@ -11,11 +11,12 @@
   "page_start_sec": 244.128,
   "page_end_sec": 511.94,
   "para_gap_threshold": 0.588,
+  "corrected": "claude",
   "segments": [
     {
       "start": 244.128,
       "end": 246.14,
-      "text": "Bridget O'Shaughnessy jumped out of the armchair",
+      "text": "Brigid O'Shaughnessy jumped out of the armchair",
       "para_break": true
     },
     {
@@ -26,13 +27,13 @@
     {
       "start": 247.14,
       "end": 248.8,
-      "text": "why don't you make him tell the truth",
+      "text": "\"Why don't you make him tell the truth?\"",
       "para_break": true
     },
     {
       "start": 249.32,
       "end": 250.84,
-      "text": "and slap Cairo on the cheek."
+      "text": "and slapped Cairo on the cheek."
     },
     {
       "start": 251.552,
@@ -43,7 +44,7 @@
     {
       "start": 254.176,
       "end": 256.74,
-      "text": "Dundee pushed the girl back into the chair with",
+      "text": "Dundy pushed the girl back into the chair with",
       "para_break": true
     },
     {
@@ -86,7 +87,7 @@
     {
       "start": 266.08,
       "end": 267.54,
-      "text": "she's impulsive."
+      "text": "\"She's impulsive.\""
     },
     {
       "start": 267.96,
@@ -101,18 +102,18 @@
     {
       "start": 271.264,
       "end": 273.1,
-      "text": "Dundee scowled down at the girl and asked,",
+      "text": "Dundy scowled down at the girl and asked,",
       "para_break": true
     },
     {
       "start": 273.4,
       "end": 275.26,
-      "text": "what do you want us to think the truth is?"
+      "text": "\"What do you want us to think the truth is?\""
     },
     {
       "start": 276.42,
       "end": 277.28,
-      "text": "Not what he said,",
+      "text": "\"Not what he said,",
       "para_break": true
     },
     {
@@ -134,12 +135,12 @@
     {
       "start": 281.88,
       "end": 282.7,
-      "text": "Is it?"
+      "text": "\"Is it?\""
     },
     {
       "start": 283.86,
       "end": 284.6,
-      "text": "How do I know?",
+      "text": "\"How do I know?\"",
       "para_break": true
     },
     {
@@ -155,12 +156,12 @@
     {
       "start": 288.4,
       "end": 289.9,
-      "text": "omelet when it all happened,"
+      "text": "omelette when it all happened,"
     },
     {
       "start": 290.02,
       "end": 290.52,
-      "text": "wasn't I?"
+      "text": "wasn't I?\""
     },
     {
       "start": 291.36,
@@ -186,7 +187,7 @@
     {
       "start": 297.6,
       "end": 297.7,
-      "text": "Dundee,"
+      "text": "Dundy,"
     },
     {
       "start": 298.52,
@@ -242,7 +243,7 @@
     {
       "start": 313.22,
       "end": 316.18,
-      "text": "Cairo's face flushed where it was not blood smeared."
+      "text": "Cairo's face flushed where it was not blood-smeared."
     },
     {
       "start": 316.56,
@@ -252,12 +253,12 @@
     {
       "start": 317.42,
       "end": 318.12,
-      "text": "foo,"
+      "text": "\"Pfoo!"
     },
     {
       "start": 318.26,
       "end": 319.12,
-      "text": "another lie."
+      "text": "Another lie!\""
     },
     {
       "start": 319.79,
@@ -273,13 +274,13 @@
     {
       "start": 325.152,
       "end": 326.62,
-      "text": "Dundee pulled him away from her while",
+      "text": "Dundy pulled him away from her while",
       "para_break": true
     },
     {
       "start": 326.62,
       "end": 328.46,
-      "text": "Big Tom came to stand close to her,"
+      "text": "big Tom came to stand close to her,"
     },
     {
       "start": 328.5,
@@ -289,7 +290,7 @@
     {
       "start": 329.36,
       "end": 329.96,
-      "text": "Behave,"
+      "text": "\"Behave,"
     },
     {
       "start": 329.96,
@@ -299,12 +300,12 @@
     {
       "start": 330.52,
       "end": 332.14,
-      "text": "that's no way to act."
+      "text": "that's no way to act.\""
     },
     {
       "start": 332.86,
       "end": 334.0,
-      "text": "Then make him tell the truth,",
+      "text": "\"Then make him tell the truth,\"",
       "para_break": true
     },
     {
@@ -315,7 +316,7 @@
     {
       "start": 336.18,
       "end": 337.06,
-      "text": "We'll do that all right,",
+      "text": "\"We'll do that all right,",
       "para_break": true
     },
     {
@@ -326,12 +327,12 @@
     {
       "start": 337.84,
       "end": 338.9,
-      "text": "Just don't get rough."
+      "text": "\"Just don't get rough.\""
     },
     {
       "start": 339.96,
       "end": 340.46,
-      "text": "Dundee,",
+      "text": "Dundy,",
       "para_break": true
     },
     {
@@ -347,7 +348,7 @@
     {
       "start": 345.24,
       "end": 345.376,
-      "text": "Well,"
+      "text": "\"Well,"
     },
     {
       "start": 346.16,
@@ -358,7 +359,7 @@
     {
       "start": 346.64,
       "end": 349.48,
-      "text": "I don't guess we'll go wrong pulling the lot of them in."
+      "text": "I don't guess we'll go wrong pulling the lot of them in.\""
     },
     {
       "start": 350.66,
@@ -386,7 +387,7 @@
     {
       "start": 362.74,
       "end": 363.44,
-      "text": "Don't be in a hurry,",
+      "text": "\"Don't be in a hurry,",
       "para_break": true
     },
     {
@@ -397,18 +398,18 @@
     {
       "start": 364.416,
       "end": 365.64,
-      "text": "Everything can be explained."
+      "text": "Everything can be explained.\""
     },
     {
       "start": 366.9,
       "end": 367.46,
-      "text": "I bet you,",
+      "text": "\"I bet you,",
       "para_break": true
     },
     {
       "start": 367.62,
       "end": 368.5,
-      "text": "Dundee agreed,"
+      "text": "Dundy agreed,"
     },
     {
       "start": 368.74,
@@ -424,7 +425,7 @@
     {
       "start": 371.48,
       "end": 372.76,
-      "text": "Miss O'Shaughnessy,"
+      "text": "\"Miss O'Shaughnessy,"
     },
     {
       "start": 372.86,
@@ -434,12 +435,12 @@
     {
       "start": 373.8,
       "end": 376.98,
-      "text": "may I present Lieutenant Dundee and Detective Sergeant Polhaus."
+      "text": "may I present Lieutenant Dundy and Detective-sergeant Polhaus.\""
     },
     {
       "start": 377.48,
       "end": 378.8,
-      "text": "He bowed to Dundee."
+      "text": "He bowed to Dundy."
     },
     {
       "start": 379.58,
@@ -466,7 +467,7 @@
     {
       "start": 387.17,
       "end": 390.12,
-      "text": "Spade interrupted him in a quite loud but still"
+      "text": "Spade interrupted him in a quite loud, but still"
     },
     {
       "start": 390.22,
@@ -497,17 +498,17 @@
     {
       "start": 396.08,
       "end": 396.56,
-      "text": "a friend,"
+      "text": "a friend--"
     },
     {
       "start": 396.8,
       "end": 397.82,
-      "text": "an acquaintance"
+      "text": "an acquaintance,"
     },
     {
       "start": 397.94,
       "end": 398.44,
-      "text": "at any rate,"
+      "text": "at any rate--"
     },
     {
       "start": 398.54,
@@ -658,7 +659,7 @@
     {
       "start": 447.2,
       "end": 449.3,
-      "text": "Dundee confronted Cairo and brusquely demanded,",
+      "text": "Dundy confronted Cairo and brusquely demanded,",
       "para_break": true
     },
     {
@@ -680,7 +681,7 @@
     {
       "start": 454.8,
       "end": 457.04,
-      "text": "while he stared at the lieutenant's chest."
+      "text": "while he stared at the Lieutenant's chest."
     },
     {
       "start": 457.76,
@@ -696,7 +697,7 @@
     {
       "start": 460.58,
       "end": 462.04,
-      "text": "I don't know what I should say,",
+      "text": "\"I don't know what I should say,",
       "para_break": true
     },
     {
@@ -712,18 +713,18 @@
     {
       "start": 465.86,
       "end": 466.8,
-      "text": "Try telling the facts,",
+      "text": "\"Try telling the facts,",
       "para_break": true
     },
     {
       "start": 467.08,
       "end": 467.9,
-      "text": "Dundee suggested."
+      "text": "Dundy suggested."
     },
     {
       "start": 468.96,
       "end": 469.4,
-      "text": "The facts?",
+      "text": "\"The facts?\"",
       "para_break": true
     },
     {
@@ -735,29 +736,29 @@
     {
       "start": 471.68,
       "end": 473.9,
-      "text": "though their gaze did not actually leave the lieutenant's."
+      "text": "though their gaze did not actually leave the Lieutenant's."
     },
     {
       "start": 474.8,
       "end": 477.48,
-      "text": "What assurance have I that the facts will be believed?",
+      "text": "\"What assurance have I that the facts will be believed?\"",
       "para_break": true
     },
     {
       "start": 478.72,
       "end": 479.64,
-      "text": "Quit stalling.",
+      "text": "\"Quit stalling.",
       "para_break": true
     },
     {
       "start": 479.76,
       "end": 482.42,
-      "text": "all you've got to do is swear to a complaint that"
+      "text": "All you've got to do is swear to a complaint that"
     },
     {
       "start": 482.42,
       "end": 485.18,
-      "text": "they took a poke at you and the warrant clerk will"
+      "text": "they took a poke at you and the warrant-clerk will"
     },
     {
       "start": 485.18,
@@ -765,24 +766,36 @@
       "text": "believe you enough to issue a warrant that'll"
     },
     {
-      "start": 487.58,
-      "end": 490.94,
-      "text": "let us throw them in the can spade spoke in an"
+      "start": 487.56,
+      "end": 488.76,
+      "text": "let us throw them in the can.\""
     },
     {
-      "start": 491.06,
-      "end": 494.88,
-      "text": "amused tone go ahead cairo make him happy tell him"
+      "start": 489.76,
+      "end": 491.56,
+      "text": "Spade spoke in an amused tone:",
+      "para_break": true
+    },
+    {
+      "start": 492.08,
+      "end": 494.86,
+      "text": "\"Go ahead, Cairo. Make him happy. Tell him"
     },
     {
       "start": 494.88,
       "end": 497.38,
-      "text": "you'll do it and then we'll swear to one against"
+      "text": "you'll do it, and then we'll swear to one against"
     },
     {
-      "start": 497.52,
+      "start": 497.32,
+      "end": 499.52,
+      "text": "you, and he'll have the lot of us.\""
+    },
+    {
+      "start": 500.38,
       "end": 501.1,
-      "text": "you and he'll have the lot of us cairo cleared"
+      "text": "Cairo cleared",
+      "para_break": true
     },
     {
       "start": 501.1,
@@ -790,9 +803,15 @@
       "text": "his throat and looked nervously around the room"
     },
     {
-      "start": 503.92,
+      "start": 503.54,
+      "end": 505.4,
+      "text": "not into the eyes of anyone there."
+    },
+    {
+      "start": 506.38,
       "end": 506.92,
-      "text": "not into the eyes of anyone there dundee blew"
+      "text": "Dundy blew",
+      "para_break": true
     },
     {
       "start": 506.92,
@@ -807,7 +826,7 @@
     {
       "start": 510.64,
       "end": 511.94,
-      "text": "get your hats."
+      "text": "\"Get your hats.\""
     }
   ]
 }
