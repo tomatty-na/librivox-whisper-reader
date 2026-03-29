@@ -11,18 +11,18 @@
   "page_start_sec": 727.392,
   "page_end_sec": 968.36,
   "para_gap_threshold": 0.77,
+  "corrected": "claude",
   "segments": [
     {
       "start": 727.392,
       "end": 730.2,
-      "text": "Spade blew cigarette smoke down the front of his vest and said,",
+      "text": "Spade blew cigarette-smoke down the front of his vest and said:",
       "para_break": true
     },
     {
       "start": 731.2,
       "end": 731.96,
-      "text": "That's probably right.",
-      "para_break": true
+      "text": "\"That's probably right."
     },
     {
       "start": 732.36,
@@ -32,7 +32,7 @@
     {
       "start": 734.34,
       "end": 735.8,
-      "text": "when I frisked him this afternoon."
+      "text": "when I frisked him this afternoon.\""
     },
     {
       "start": 737.06,
@@ -48,7 +48,7 @@
     {
       "start": 740.544,
       "end": 742.32,
-      "text": "Eleventeen bent forward in his chair.",
+      "text": "The Levantine bent forward in his chair.",
       "para_break": true
     },
     {
@@ -59,7 +59,7 @@
     {
       "start": 746.54,
       "end": 748.72,
-      "text": "I can be quite prepared to give you the money at,",
+      "text": "\"I can be quite prepared to give you the money at,",
       "para_break": true
     },
     {
@@ -70,23 +70,23 @@
     {
       "start": 749.28,
       "end": 750.74,
-      "text": "half past ten in the morning,"
+      "text": "half-past ten in the morning."
     },
     {
       "start": 750.82,
       "end": 750.92,
-      "text": "eh?"
+      "text": "Eh?\""
     },
     {
       "start": 752.096,
       "end": 753.9,
-      "text": "Bridget O'Shaughnessy smiled at him and said,",
+      "text": "Brigid O'Shaughnessy smiled at him and said:",
       "para_break": true
     },
     {
       "start": 754.26,
       "end": 755.84,
-      "text": "But I haven't got the falcon."
+      "text": "\"But I haven't got the falcon.\""
     },
     {
       "start": 756.928,
@@ -102,7 +102,7 @@
     {
       "start": 762.78,
       "end": 763.34,
-      "text": "holding his small,"
+      "text": "holding his small-"
     },
     {
       "start": 763.44,
@@ -122,7 +122,7 @@
     {
       "start": 770.24,
       "end": 771.08,
-      "text": "The girl made a mock,",
+      "text": "The girl made a mock-",
       "para_break": true
     },
     {
@@ -133,13 +133,13 @@
     {
       "start": 773.42,
       "end": 774.74,
-      "text": "I'll have it in a week at the most,",
+      "text": "\"I'll have it in a week at the most,",
       "para_break": true
     },
     {
       "start": 774.76,
       "end": 774.92,
-      "text": "though,"
+      "text": "though,\""
     },
     {
       "start": 774.98,
@@ -149,31 +149,31 @@
     {
       "start": 776.72,
       "end": 777.26,
-      "text": "Where is it?",
+      "text": "\"Where is it?\"",
       "para_break": true
     },
     {
       "start": 778.368,
       "end": 780.98,
-      "text": "Cairo used politeness of mean to express skepticism.",
+      "text": "Cairo used politeness of mien to express skepticism.",
       "para_break": true
     },
     {
       "start": 782.48,
       "end": 783.54,
-      "text": "Where Floyd hid it.",
+      "text": "\"Where Floyd hid it.\"",
       "para_break": true
     },
     {
       "start": 784.32,
       "end": 785.02,
-      "text": "Floyd?",
+      "text": "\"Floyd?",
       "para_break": true
     },
     {
       "start": 785.24,
       "end": 786.16,
-      "text": "Thursby?"
+      "text": "Thursby?\""
     },
     {
       "start": 787.32,
@@ -184,7 +184,7 @@
     {
       "start": 789.26,
       "end": 790.56,
-      "text": "And you know where that is,",
+      "text": "\"And you know where that is?\"",
       "para_break": true
     },
     {
@@ -195,31 +195,30 @@
     {
       "start": 792.24,
       "end": 792.88,
-      "text": "I think I do.",
+      "text": "\"I think I do.\"",
       "para_break": true
     },
     {
       "start": 794.26,
       "end": 795.96,
-      "text": "Then why must we wait a week?",
+      "text": "\"Then why must we wait a week?\"",
       "para_break": true
     },
     {
       "start": 797.28,
       "end": 798.42,
-      "text": "Perhaps not a whole week.",
+      "text": "\"Perhaps not a whole week.",
       "para_break": true
     },
     {
       "start": 799.36,
       "end": 800.36,
-      "text": "Whom are you buying it for,",
-      "para_break": true
+      "text": "Whom are you buying it for,"
     },
     {
       "start": 800.46,
       "end": 800.68,
-      "text": "Joe?"
+      "text": "Joe?\""
     },
     {
       "start": 802.016,
@@ -230,17 +229,17 @@
     {
       "start": 803.9,
       "end": 804.44,
-      "text": "I told Mr."
+      "text": "\"I told Mr."
     },
     {
       "start": 804.58,
       "end": 804.92,
-      "text": "Spade,"
+      "text": "Spade."
     },
     {
       "start": 805.08,
       "end": 805.76,
-      "text": "for its owner."
+      "text": "For its owner.\""
     },
     {
       "start": 807.072,
@@ -251,29 +250,29 @@
     {
       "start": 809.58,
       "end": 810.58,
-      "text": "So you went back to him.",
+      "text": "\"So you went back to him?\"",
       "para_break": true
     },
     {
       "start": 811.21,
       "end": 811.86,
-      "text": "Naturally,"
+      "text": "\"Naturally,"
     },
     {
       "start": 811.9,
       "end": 812.4,
-      "text": "I did."
+      "text": "I did.\""
     },
     {
       "start": 813.4,
       "end": 815.36,
-      "text": "She laughed softly in her throat and said,",
+      "text": "She laughed softly in her throat and said:",
       "para_break": true
     },
     {
       "start": 815.76,
       "end": 817.72,
-      "text": "I should have liked to have seen that."
+      "text": "\"I should have liked to have seen that.\""
     },
     {
       "start": 818.848,
@@ -284,7 +283,7 @@
     {
       "start": 820.24,
       "end": 821.57,
-      "text": "That was the logical development."
+      "text": "\"That was the logical development.\""
     },
     {
       "start": 822.56,
@@ -300,8 +299,7 @@
     {
       "start": 828.52,
       "end": 828.78,
-      "text": "Why,",
-      "para_break": true
+      "text": "\"Why,"
     },
     {
       "start": 829.0,
@@ -311,18 +309,18 @@
     {
       "start": 831.74,
       "end": 833.66,
-      "text": "are you willing to sell to me?"
+      "text": "are you willing to sell to me?\""
     },
     {
       "start": 834.86,
       "end": 836.16,
-      "text": "i'm afraid she said simply",
+      "text": "\"I'm afraid,\" she said simply,",
       "para_break": true
     },
     {
       "start": 836.72,
       "end": 840.94,
-      "text": "after what happened to floyd that's why i haven't it now i'm afraid"
+      "text": "\"after what happened to Floyd. That's why I haven't it now. I'm afraid"
     },
     {
       "start": 840.94,
@@ -332,33 +330,33 @@
     {
       "start": 843.0,
       "end": 846.58,
-      "text": "else right away spade propped on an elbow on"
+      "text": "else right away.\" Spade, propped on an elbow on"
     },
     {
       "start": 846.58,
       "end": 849.28,
-      "text": "the sofa looked at and listened to them impartially"
+      "text": "the sofa, looked at and listened to them impartially."
     },
     {
       "start": 850.1,
       "end": 852.86,
-      "text": "in the comfortable slackness of his body in the",
+      "text": "In the comfortable slackness of his body, in the",
       "para_break": true
     },
     {
       "start": 852.98,
       "end": 854.3,
-      "text": "easy stillness of his features"
+      "text": "easy stillness of his features,"
     },
     {
       "start": 854.82,
       "end": 858.14,
-      "text": "there was no indication of either curiosity or impatience"
+      "text": "there was no indication of either curiosity or impatience."
     },
     {
       "start": 858.79,
       "end": 860.04,
-      "text": "Exactly what,"
+      "text": "\"Exactly what,\""
     },
     {
       "start": 860.26,
@@ -368,12 +366,12 @@
     {
       "start": 862.38,
       "end": 863.56,
-      "text": "happened to Floyd?"
+      "text": "\"happened to Floyd?\""
     },
     {
       "start": 864.9,
       "end": 866.62,
-      "text": "The tip of Bridget O'Shaughnessy's right",
+      "text": "The tip of Brigid O'Shaughnessy's right",
       "para_break": true
     },
     {
@@ -390,35 +388,35 @@
     {
       "start": 871.28,
       "end": 871.7,
-      "text": "I see."
+      "text": "\"I see,\""
     },
     {
       "start": 872.64,
       "end": 874.36,
-      "text": "But there was something doubting in his smile.",
+      "text": "but there was something doubting in his smile.",
       "para_break": true
     },
     {
       "start": 875.38,
       "end": 875.94,
-      "text": "Is he here?",
+      "text": "\"Is he here?\"",
       "para_break": true
     },
     {
       "start": 877.02,
       "end": 877.52,
-      "text": "I don't know,",
+      "text": "\"I don't know.\"",
       "para_break": true
     },
     {
       "start": 877.64,
       "end": 878.67,
-      "text": "she spoke impatiently."
+      "text": "She spoke impatiently."
     },
     {
       "start": 879.24,
       "end": 880.28,
-      "text": "What difference does it make?"
+      "text": "\"What difference does it make?\""
     },
     {
       "start": 881.44,
@@ -429,7 +427,7 @@
     {
       "start": 883.94,
       "end": 885.46,
-      "text": "It might make a world of difference,"
+      "text": "\"It might make a world of difference,\""
     },
     {
       "start": 885.62,
@@ -439,7 +437,7 @@
     {
       "start": 886.54,
       "end": 888.94,
-      "text": "and rearranged his hands in his lap so that"
+      "text": "and rearranged his hands in his lap so that,"
     },
     {
       "start": 889.02,
@@ -464,7 +462,7 @@
     {
       "start": 897.94,
       "end": 898.24,
-      "text": "Or me,"
+      "text": "\"Or me,\""
     },
     {
       "start": 898.62,
@@ -474,12 +472,12 @@
     {
       "start": 899.1,
       "end": 899.76,
-      "text": "or you."
+      "text": "\"or you.\""
     },
     {
       "start": 900.94,
       "end": 901.54,
-      "text": "Exactly,",
+      "text": "\"Exactly,",
       "para_break": true
     },
     {
@@ -490,12 +488,12 @@
     {
       "start": 902.64,
       "end": 904.04,
-      "text": "more certainly the boy outside?"
+      "text": "more certainly the boy outside?\""
     },
     {
       "start": 904.56,
       "end": 904.66,
-      "text": "Yes,"
+      "text": "\"Yes,\""
     },
     {
       "start": 905.62,
@@ -506,7 +504,7 @@
     {
       "start": 907.02,
       "end": 907.52,
-      "text": "Yes,"
+      "text": "\"Yes,"
     },
     {
       "start": 907.54,
@@ -516,7 +514,7 @@
     {
       "start": 909.24,
       "end": 910.16,
-      "text": "in Constantinople."
+      "text": "in Constantinople.\""
     },
     {
       "start": 910.32,
@@ -531,22 +529,22 @@
     {
       "start": 913.68,
       "end": 914.32,
-      "text": "enraged voice,"
+      "text": "enraged voice"
     },
     {
       "start": 914.46,
       "end": 914.84,
-      "text": "he cried,"
+      "text": "he cried:"
     },
     {
       "start": 915.26,
       "end": 916.56,
-      "text": "the one you couldn't make."
+      "text": "\"The one you couldn't make?\""
     },
     {
       "start": 917.92,
       "end": 919.84,
-      "text": "Bridget O'Shaughnessy jumped up from her chair.",
+      "text": "Brigid O'Shaughnessy jumped up from her chair.",
       "para_break": true
     },
     {
@@ -562,7 +560,7 @@
     {
       "start": 922.36,
       "end": 925.54,
-      "text": "Her eyes were dark and wide and a tense white face."
+      "text": "Her eyes were dark and wide in a tense white face."
     },
     {
       "start": 926.22,
@@ -572,7 +570,7 @@
     {
       "start": 927.42,
       "end": 928.14,
-      "text": "toward Cairo."
+      "text": "towards Cairo."
     },
     {
       "start": 928.28,
@@ -598,13 +596,12 @@
     {
       "start": 938.04,
       "end": 939.3,
-      "text": "staggering her sideways,"
+      "text": "staggering her sidewise,"
     },
     {
       "start": 940.22,
       "end": 942.42,
-      "text": "bringing from her mouth a brief muffled scream.",
-      "para_break": true
+      "text": "bringing from her mouth a brief muffled scream."
     },
     {
       "start": 943.54,
@@ -653,7 +650,7 @@
     {
       "start": 959.18,
       "end": 960.98,
-      "text": "and twisted it until the clumsy,"
+      "text": "and twisted it until the clumsy"
     },
     {
       "start": 961.12,
@@ -668,7 +665,7 @@
     {
       "start": 966.08,
       "end": 967.18,
-      "text": "Bridget O'Shaughnessy quickly",
+      "text": "Brigid O'Shaughnessy quickly",
       "para_break": true
     },
     {

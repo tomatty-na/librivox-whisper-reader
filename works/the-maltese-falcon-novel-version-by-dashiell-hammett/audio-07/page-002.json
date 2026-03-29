@@ -11,6 +11,7 @@
   "page_start_sec": 242.3,
   "page_end_sec": 484.44,
   "para_gap_threshold": 0.77,
+  "corrected": "claude",
   "segments": [
     {
       "start": 242.3,
@@ -21,14 +22,12 @@
     {
       "start": 244.832,
       "end": 246.56,
-      "text": "Flitcraft had no feeling of guilt.",
-      "para_break": true
+      "text": "Flitcraft had no feeling of guilt."
     },
     {
       "start": 247.4,
       "end": 249.52,
-      "text": "He had left his first family well provided for,",
-      "para_break": true
+      "text": "He had left his first family well provided for,"
     },
     {
       "start": 249.92,
@@ -63,18 +62,18 @@
     {
       "start": 268.22,
       "end": 269.0,
-      "text": "I got it all right,",
+      "text": "\"I got it all right,\"",
       "para_break": true
     },
     {
       "start": 269.18,
       "end": 270.94,
-      "text": "Spade told Bridget O'Shaughnessy,"
+      "text": "Spade told Brigid O'Shaughnessy,"
     },
     {
       "start": 271.4,
       "end": 271.74,
-      "text": "but Mrs."
+      "text": "\"but Mrs."
     },
     {
       "start": 271.86,
@@ -109,7 +108,7 @@
     {
       "start": 280.66,
       "end": 283.04,
-      "text": "and after the trick he had played on her,"
+      "text": "and, after the trick he had played on her,"
     },
     {
       "start": 283.38,
@@ -124,8 +123,7 @@
     {
       "start": 286.38,
       "end": 287.78,
-      "text": "So they were divorced on the quiet,",
-      "para_break": true
+      "text": "So they were divorced on the quiet"
     },
     {
       "start": 287.86,
@@ -135,30 +133,28 @@
     {
       "start": 290.848,
       "end": 291.9,
-      "text": "Here's what had happened to him.",
+      "text": "\"Here's what had happened to him.",
       "para_break": true
     },
     {
       "start": 292.72,
       "end": 293.28,
-      "text": "Going to lunch,",
-      "para_break": true
+      "text": "Going to lunch"
     },
     {
       "start": 293.3,
       "end": 295.46,
-      "text": "he passed an office building that was being put up,"
+      "text": "he passed an office-building that was being put up--"
     },
     {
       "start": 295.54,
       "end": 296.54,
-      "text": "just a skeleton."
+      "text": "just the skeleton."
     },
     {
       "start": 297.44,
       "end": 299.24,
-      "text": "A beam or something fell eight or ten stories",
-      "para_break": true
+      "text": "A beam or something fell eight or ten stories"
     },
     {
       "start": 299.24,
@@ -168,8 +164,7 @@
     {
       "start": 302.3,
       "end": 303.66,
-      "text": "It brushed pretty close to him,",
-      "para_break": true
+      "text": "It brushed pretty close to him,"
     },
     {
       "start": 303.7,
@@ -199,7 +194,7 @@
     {
       "start": 313.6,
       "end": 314.96,
-      "text": "He rubbed it with his finger,"
+      "text": "He rubbed it with his finger--"
     },
     {
       "start": 315.1,
@@ -209,7 +204,7 @@
     {
       "start": 315.6,
       "end": 316.42,
-      "text": "affectionately,"
+      "text": "affectionately--"
     },
     {
       "start": 317.0,
@@ -244,7 +239,7 @@
     {
       "start": 324.88,
       "end": 326.6,
-      "text": "off life and let him look at the works."
+      "text": "off life and let him look at the works.\""
     },
     {
       "start": 327.808,
@@ -255,7 +250,7 @@
     {
       "start": 331.34,
       "end": 334.22,
-      "text": "not by any outer compulsion but simply because"
+      "text": "not by any outer compulsion, but simply because"
     },
     {
       "start": 334.22,
@@ -265,17 +260,17 @@
     {
       "start": 336.76,
       "end": 339.22,
-      "text": "with his surroundings he had been raised"
+      "text": "with his surroundings. He had been raised"
     },
     {
       "start": 339.22,
       "end": 341.62,
-      "text": "that way the people he knew were like that"
+      "text": "that way. The people he knew were like that."
     },
     {
       "start": 342.26,
       "end": 342.94,
-      "text": "the life he knew"
+      "text": "The life he knew"
     },
     {
       "start": 342.94,
@@ -285,7 +280,7 @@
     {
       "start": 345.06,
       "end": 348.12,
-      "text": "affair now a falling beam had shown him"
+      "text": "affair. Now a falling beam had shown him"
     },
     {
       "start": 348.7,
@@ -295,49 +290,48 @@
     {
       "start": 349.64,
       "end": 352.76,
-      "text": "fundamentally none of these things he the good"
+      "text": "fundamentally none of these things. He, the good"
     },
     {
       "start": 352.76,
       "end": 355.38,
-      "text": "citizen husband father could be wiped out between"
+      "text": "citizen-husband-father, could be wiped out between"
     },
     {
       "start": 355.6,
       "end": 358.66,
-      "text": "office and restaurant by the accident of a falling bean."
+      "text": "office and restaurant by the accident of a falling beam."
     },
     {
       "start": 359.66,
       "end": 361.3,
-      "text": "He knew then that men died at",
-      "para_break": true
+      "text": "He knew then that men died at"
     },
     {
       "start": 361.42,
       "end": 365.1,
-      "text": "haphazard like that and lived only while blind chance spared them."
+      "text": "haphazard like that, and lived only while blind chance spared them."
     },
     {
       "start": 365.86,
       "end": 367.16,
-      "text": "It was not primarily the"
+      "text": "It was not, primarily, the",
+      "para_break": true
     },
     {
       "start": 367.22,
       "end": 369.16,
-      "text": "injustice of it that disturbed him."
+      "text": "injustice of it that disturbed him:"
     },
     {
       "start": 369.4,
       "end": 371.86,
-      "text": "He accepted that after the first shock."
+      "text": "he accepted that after the first shock."
     },
     {
       "start": 372.78,
       "end": 373.62,
-      "text": "What disturbed him",
-      "para_break": true
+      "text": "What disturbed him"
     },
     {
       "start": 373.74,
@@ -347,23 +341,22 @@
     {
       "start": 375.14,
       "end": 377.14,
-      "text": "insensibly ordering his affairs,"
+      "text": "in sensibly ordering his affairs,"
     },
     {
       "start": 377.4,
       "end": 379.7,
-      "text": "he had got out of step and not"
+      "text": "he had got out of step, and not"
     },
     {
       "start": 379.76,
       "end": 380.66,
-      "text": "into step with life."
+      "text": "into step, with life."
     },
     {
       "start": 381.64,
       "end": 384.58,
-      "text": "He said he knew before he had gone twenty feet from the fallen bean",
-      "para_break": true
+      "text": "He said he knew before he had gone twenty feet from the fallen beam"
     },
     {
       "start": 384.82,
@@ -388,13 +381,12 @@
     {
       "start": 396.28,
       "end": 398.94,
-      "text": "Life could be ended for him at random by a falling beam.",
-      "para_break": true
+      "text": "Life could be ended for him at random by a falling beam:"
     },
     {
       "start": 399.12,
       "end": 401.74,
-      "text": "He would change his life at random by simply"
+      "text": "he would change his life at random by simply"
     },
     {
       "start": 401.84,
@@ -419,8 +411,7 @@
     {
       "start": 407.7,
       "end": 408.52,
-      "text": "but he knew he was",
-      "para_break": true
+      "text": "but he knew he was"
     },
     {
       "start": 408.6,
@@ -440,7 +431,8 @@
     {
       "start": 415.27,
       "end": 417.36,
-      "text": "He went to Seattle that afternoon,"
+      "text": "\"He went to Seattle that afternoon,\"",
+      "para_break": true
     },
     {
       "start": 417.6,
@@ -450,7 +442,7 @@
     {
       "start": 418.74,
       "end": 420.6,
-      "text": "and from there by boat to San Francisco."
+      "text": "\"and from there by boat to San Francisco."
     },
     {
       "start": 421.3,
@@ -460,7 +452,7 @@
     {
       "start": 423.76,
       "end": 426.68,
-      "text": "then drifted back to the northwest and settled in"
+      "text": "then drifted back to the Northwest, and settled in"
     },
     {
       "start": 426.78,
@@ -470,8 +462,7 @@
     {
       "start": 428.78,
       "end": 430.56,
-      "text": "His second wife didn't look like the first,",
-      "para_break": true
+      "text": "His second wife didn't look like the first,"
     },
     {
       "start": 431.02,
@@ -496,7 +487,7 @@
     {
       "start": 437.18,
       "end": 438.16,
-      "text": "new salad recipes."
+      "text": "new salad-recipes."
     },
     {
       "start": 438.61,
@@ -526,8 +517,7 @@
     {
       "start": 450.5,
       "end": 452.28,
-      "text": "But that's the part of it I always liked.",
-      "para_break": true
+      "text": "But that's the part of it I always liked."
     },
     {
       "start": 452.48,
@@ -537,23 +527,23 @@
     {
       "start": 454.92,
       "end": 456.16,
-      "text": "and then no more of them fell."
+      "text": "and then no more of them fell,"
     },
     {
       "start": 456.96,
       "end": 458.94,
-      "text": "And he adjusted himself to them not falling.",
-      "para_break": true
+      "text": "and he adjusted himself to them not falling.\""
     },
     {
       "start": 459.66,
       "end": 460.88,
-      "text": "How perfectly fascinating,"
+      "text": "\"How perfectly fascinating,\"",
+      "para_break": true
     },
     {
       "start": 461.36,
       "end": 462.58,
-      "text": "Bridget O'Shaughnessy said."
+      "text": "Brigid O'Shaughnessy said."
     },
     {
       "start": 462.87,
@@ -563,7 +553,7 @@
     {
       "start": 464.7,
       "end": 465.1,
-      "text": "him close."
+      "text": "him, close."
     },
     {
       "start": 465.34,
@@ -573,13 +563,12 @@
     {
       "start": 468.22,
       "end": 470.36,
-      "text": "I don't have to tell you how utterly at a disadvantage",
-      "para_break": true
+      "text": "\"I don't have to tell you how utterly at a disadvantage"
     },
     {
       "start": 470.7,
       "end": 472.88,
-      "text": "you'll have me with him here if you choose."
+      "text": "you'll have me, with him here, if you choose.\""
     },
     {
       "start": 473.856,
@@ -590,12 +579,12 @@
     {
       "start": 476.92,
       "end": 477.1,
-      "text": "No,"
+      "text": "\"No,"
     },
     {
       "start": 477.24,
       "end": 478.4,
-      "text": "you don't have to tell me,"
+      "text": "you don't have to tell me,\""
     },
     {
       "start": 478.66,
@@ -605,13 +594,13 @@
     {
       "start": 479.98,
       "end": 482.5,
-      "text": "And you know I'd never have placed myself in this",
+      "text": "\"And you know I'd never have placed myself in this",
       "para_break": true
     },
     {
       "start": 482.6,
       "end": 484.44,
-      "text": "position if I hadn't trusted you completely."
+      "text": "position if I hadn't trusted you completely.\""
     }
   ]
 }
