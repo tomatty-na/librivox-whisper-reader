@@ -238,7 +238,8 @@
     {
       "start": 569.44,
       "end": 569.62,
-      "text": "However,"
+      "text": "However,",
+      "para_break": true
     },
     {
       "start": 569.9,
@@ -309,7 +310,8 @@
     {
       "start": 587.5,
       "end": 588.36,
-      "text": "And so it was indeed:"
+      "text": "And so it was indeed:",
+      "para_break": true
     },
     {
       "start": 588.88,
@@ -536,7 +538,7 @@
     {
       "start": 671.3,
       "end": 672.5,
-      "text": "Why, there's hardly enough of me"
+      "text": "Why there's hardly enough of me"
     },
     {
       "start": 672.5,
@@ -617,7 +619,8 @@
     {
       "start": 695.58,
       "end": 697.76,
-      "text": "She ate a little bit, and said anxiously to herself,"
+      "text": "She ate a little bit, and said anxiously to herself,",
+      "para_break": true
     },
     {
       "start": 698.24,
