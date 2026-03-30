@@ -31,8 +31,7 @@
     {
       "start": 9.536,
       "end": 10.98,
-      "text": "ADVICE FROM A CATERPILLAR",
-      "para_break": true
+      "text": "ADVICE FROM A CATERPILLAR"
     },
     {
       "start": 12.37,
@@ -69,7 +68,8 @@
     {
       "start": 26.92,
       "end": 30.16,
-      "text": "This was not an encouraging opening for a conversation."
+      "text": "This was not an encouraging opening for a conversation.",
+      "para_break": true
     },
     {
       "start": 31.104,
@@ -104,12 +104,12 @@
     {
       "start": 39.32,
       "end": 42.3,
-      "text": "but I think I must have been changed several times since then."
+      "text": "but I think I must have been changed several times since then.\""
     },
     {
       "start": 43.34,
       "end": 44.92,
-      "text": "What do you mean by that?",
+      "text": "\"What do you mean by that?\"",
       "para_break": true
     },
     {
@@ -178,7 +178,7 @@
     {
       "start": 64.66,
       "end": 67.22,
-      "text": "for I can't understand it myself to begin with,"
+      "text": "for I can't understand it myself to begin with;"
     },
     {
       "start": 67.7,
@@ -215,7 +215,7 @@
     {
       "start": 78.52,
       "end": 80.51,
-      "text": "but when you have to turn into a chrysalis,"
+      "text": "but when you have to turn into a chrysalis--"
     },
     {
       "start": 80.66,
@@ -225,7 +225,7 @@
     {
       "start": 81.66,
       "end": 81.98,
-      "text": "you know,"
+      "text": "you know--"
     },
     {
       "start": 82.46,
@@ -256,7 +256,8 @@
     {
       "start": 90.9,
       "end": 91.36,
-      "text": "\"Well,"
+      "text": "\"Well,",
+      "para_break": true
     },
     {
       "start": 91.54,
@@ -266,7 +267,7 @@
     {
       "start": 93.46,
       "end": 93.96,
-      "text": "said Alice."
+      "text": "said Alice;"
     },
     {
       "start": 94.58,
@@ -308,7 +309,7 @@
     {
       "start": 113.42,
       "end": 115.96,
-      "text": "and she drew herself up and said very gravely,"
+      "text": "and she drew herself up and said, very gravely,"
     },
     {
       "start": 116.24,
@@ -345,7 +346,7 @@
     {
       "start": 129.94,
       "end": 131.84,
-      "text": "in a very unpleasant state of mind,"
+      "text": "in a _very_ unpleasant state of mind,"
     },
     {
       "start": 131.94,
@@ -377,7 +378,7 @@
     {
       "start": 141.26,
       "end": 141.58,
-      "text": "certainly."
+      "text": "certainly:"
     },
     {
       "start": 141.88,
@@ -491,8 +492,7 @@
     {
       "start": 172.18,
       "end": 173.9,
-      "text": "\"So you think you're changed,",
-      "para_break": true
+      "text": "\"So you think you're changed,"
     },
     {
       "start": 173.9,
@@ -518,12 +518,12 @@
     {
       "start": 178.96,
       "end": 180.86,
-      "text": "I can't remember things as I used,"
+      "text": "I can't remember things as I used--"
     },
     {
       "start": 181.26,
       "end": 183.86,
-      "text": "and I don't keep the same size for ten minutes together."
+      "text": "and I don't keep the same size for ten minutes together!\""
     },
     {
       "start": 185.568,
@@ -539,7 +539,8 @@
     {
       "start": 188.28,
       "end": 188.38,
-      "text": "\"Well,"
+      "text": "\"Well,",
+      "para_break": true
     },
     {
       "start": 189.68,
@@ -549,7 +550,7 @@
     {
       "start": 192.24,
       "end": 193.66,
-      "text": "but it all came different,"
+      "text": "but it all came different!\""
     },
     {
       "start": 194.04,
@@ -612,8 +613,7 @@
     {
       "start": 216.54,
       "end": 217.1,
-      "text": "\"In my youth,",
-      "para_break": true
+      "text": "\"In my youth,"
     },
     {
       "start": 217.22,
@@ -623,7 +623,7 @@
     {
       "start": 219.34,
       "end": 221.0,
-      "text": "I feared it might injure the brain."
+      "text": "I feared it might injure the brain;"
     },
     {
       "start": 221.6,
@@ -654,7 +654,7 @@
     {
       "start": 230.24,
       "end": 232.56,
-      "text": "and have grown most uncommonly fat."
+      "text": "And have grown most uncommonly fat;"
     },
     {
       "start": 233.38,

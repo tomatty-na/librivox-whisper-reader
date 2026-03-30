@@ -31,8 +31,7 @@
     {
       "start": 734.48,
       "end": 734.98,
-      "text": "However,",
-      "para_break": true
+      "text": "However,"
     },
     {
       "start": 735.18,
@@ -92,7 +91,7 @@
     {
       "start": 753.28,
       "end": 753.408,
-      "text": "Why,"
+      "text": "why,"
     },
     {
       "start": 754.04,
@@ -127,8 +126,7 @@
     {
       "start": 766.26,
       "end": 767.18,
-      "text": "End of chapter 5",
-      "para_break": true
+      "text": "End of chapter 5"
     }
   ]
 }

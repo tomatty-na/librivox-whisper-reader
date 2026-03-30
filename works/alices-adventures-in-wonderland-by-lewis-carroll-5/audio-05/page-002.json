@@ -78,7 +78,7 @@
     {
       "start": 263.5,
       "end": 265.34,
-      "text": "and argued each case with my wife."
+      "text": "and argued each case with my wife;"
     },
     {
       "start": 266.12,
@@ -88,7 +88,7 @@
     {
       "start": 267.86,
       "end": 270.38,
-      "text": "to my jaw has lasted the rest of my life."
+      "text": "to my jaw, has lasted the rest of my life.\""
     },
     {
       "start": 270.98,
@@ -177,7 +177,7 @@
     {
       "start": 299.5,
       "end": 300.56,
-      "text": "said Alice timidly."
+      "text": "said Alice, timidly;"
     },
     {
       "start": 300.98,
@@ -185,15 +185,15 @@
       "text": "Some of the words have got altered."
     },
     {
-      "start": 303.54,
-      "end": 305.98,
-      "text": "said the Caterpillar decidedly,",
+      "start": 303.04,
+      "end": 305.92,
+      "text": "\"It is wrong from beginning to end,\"",
       "para_break": true
     },
     {
       "start": 306.3,
       "end": 308.12,
-      "text": "said the caterpillar decidedly,"
+      "text": "said the Caterpillar, decidedly,"
     },
     {
       "start": 308.52,
@@ -231,7 +231,7 @@
     {
       "start": 321.24,
       "end": 322.34,
-      "text": "Alice hastily replied."
+      "text": "Alice hastily replied;"
     },
     {
       "start": 323.2,
@@ -279,7 +279,7 @@
     {
       "start": 343.86,
       "end": 344.82,
-      "text": "said the caterpillar."
+      "text": "said the Caterpillar."
     },
     {
       "start": 345.89,
@@ -305,7 +305,7 @@
     {
       "start": 349.5,
       "end": 350.02,
-      "text": "said Alice."
+      "text": "said Alice:"
     },
     {
       "start": 350.44,
@@ -399,8 +399,7 @@
     {
       "start": 392.8,
       "end": 395.84,
-      "text": "Then it got down off the mushroom and crawled away into the grass,",
-      "para_break": true
+      "text": "Then it got down off the mushroom, and crawled away into the grass,"
     },
     {
       "start": 396.1,
@@ -410,8 +409,7 @@
     {
       "start": 398.5,
       "end": 400.58,
-      "text": "\"One side will make you grow taller,",
-      "para_break": true
+      "text": "\"One side will make you grow taller,"
     },
     {
       "start": 400.78,
@@ -520,7 +518,7 @@
     {
       "start": 439.94,
       "end": 442.94,
-      "text": "and nibbled a little of the right-hand bit to try the effect."
+      "text": "and nibbled a little of the right-hand bit to try the effect:"
     },
     {
       "start": 443.78,
@@ -571,12 +569,12 @@
     {
       "start": 462.38,
       "end": 464.84,
-      "text": "her foot that there was hardly room to open her mouth,"
+      "text": "her foot that there was hardly room to open her mouth;"
     },
     {
       "start": 464.98,
       "end": 467.02,
-      "text": "but she did it at last and managed to"
+      "text": "but she did it at last, and managed to"
     },
     {
       "start": 467.16,
@@ -586,13 +584,13 @@
     {
       "start": 469.64,
       "end": 470.48,
-      "text": "Come,",
+      "text": "\"Come,",
       "para_break": true
     },
     {
       "start": 470.68,
       "end": 471.74,
-      "text": "my head's free at last,"
+      "text": "my head's free at last!\""
     },
     {
       "start": 471.96,
@@ -617,7 +615,7 @@
     {
       "start": 477.96,
       "end": 478.68,
-      "text": "nowhere to be found."
+      "text": "nowhere to be found:"
     },
     {
       "start": 479.38,
