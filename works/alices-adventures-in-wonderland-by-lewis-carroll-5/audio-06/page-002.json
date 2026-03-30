@@ -22,7 +22,7 @@
     {
       "start": 255.34,
       "end": 258.0,
-      "text": "sneeze were the cook and a large cat which"
+      "text": "sneeze, were the cook, and a large cat which"
     },
     {
       "start": 258.0,
@@ -32,7 +32,7 @@
     {
       "start": 261.9,
       "end": 262.5,
-      "text": "Please,",
+      "text": "\"Please,",
       "para_break": true
     },
     {
@@ -58,12 +58,12 @@
     {
       "start": 268.72,
       "end": 270.68,
-      "text": "why your cat grins like that?"
+      "text": "\"why your cat grins like that?\""
     },
     {
       "start": 271.808,
       "end": 272.94,
-      "text": "It's a Cheshire Cat,",
+      "text": "\"It's a Cheshire cat,\"",
       "para_break": true
     },
     {
@@ -74,12 +74,12 @@
     {
       "start": 274.1,
       "end": 274.72,
-      "text": "and that's why."
+      "text": "\"and that's why."
     },
     {
       "start": 275.16,
       "end": 275.66,
-      "text": "Pig!"
+      "text": "Pig!\""
     },
     {
       "start": 276.96,
@@ -100,17 +100,18 @@
     {
       "start": 282.8,
       "end": 284.7,
-      "text": "was addressed to the baby and not to her,"
+      "text": "was addressed to the baby, and not to her,"
     },
     {
       "start": 284.78,
       "end": 286.56,
-      "text": "so she took courage and went on again."
+      "text": "so she took courage, and went on again:"
     },
     {
       "start": 287.24,
       "end": 289.8,
-      "text": "\"I didn't know that Cheshire cats always grinned;"
+      "text": "\"I didn't know that Cheshire cats always grinned;",
+      "para_break": true
     },
     {
       "start": 289.88,
@@ -129,14 +130,20 @@
       "para_break": true
     },
     {
+      "start": 293.36,
+      "end": 293.46,
+      "text": "said the Duchess;"
+    },
+    {
       "start": 294.12,
       "end": 295.32,
-      "text": "and most of 'em do."
+      "text": "\"and most of 'em do.\""
     },
     {
       "start": 296.04,
       "end": 297.72,
-      "text": "I don't know of any that do,"
+      "text": "\"I don't know of any that do,\"",
+      "para_break": true
     },
     {
       "start": 297.88,
@@ -151,8 +158,7 @@
     {
       "start": 302.64,
       "end": 303.54,
-      "text": "\"You don't know much,\"",
-      "para_break": true
+      "text": "\"You don't know much,\""
     },
     {
       "start": 303.74,
@@ -162,7 +168,7 @@
     {
       "start": 304.58,
       "end": 305.56,
-      "text": "and that's a fact."
+      "text": "\"and that's a fact.\""
     },
     {
       "start": 307.136,
@@ -198,12 +204,12 @@
     {
       "start": 320.2,
       "end": 322.38,
-      "text": "within her reach at the Duchess and the baby."
+      "text": "within her reach at the Duchess and the baby--"
     },
     {
       "start": 322.5,
       "end": 324.2,
-      "text": "The fire irons came first,"
+      "text": "the fire-irons came first;"
     },
     {
       "start": 324.36,
@@ -223,8 +229,7 @@
     {
       "start": 328.42,
       "end": 331.18,
-      "text": "The Duchess took no notice of them even when they hit her,",
-      "para_break": true
+      "text": "The Duchess took no notice of them even when they hit her,"
     },
     {
       "start": 331.32,
@@ -250,12 +255,12 @@
     {
       "start": 338.98,
       "end": 339.34,
-      "text": "please,"
+      "text": "_please_"
     },
     {
       "start": 339.52,
       "end": 340.38,
-      "text": "mind what you're doing,"
+      "text": "mind what you're doing!\""
     },
     {
       "start": 340.6,
@@ -275,12 +280,12 @@
     {
       "start": 343.9,
       "end": 344.22,
-      "text": "Oh,"
+      "text": "\"Oh,"
     },
     {
       "start": 344.24,
       "end": 345.66,
-      "text": "there goes his _precious_ nose,"
+      "text": "there goes his _precious_ nose\";"
     },
     {
       "start": 346.02,
@@ -311,7 +316,7 @@
     {
       "start": 356.8,
       "end": 359.48,
-      "text": "the world would go round a deal faster than it does."
+      "text": "\"the world would go round a deal faster than it does.\""
     },
     {
       "start": 360.98,
@@ -337,8 +342,7 @@
     {
       "start": 367.56,
       "end": 370.12,
-      "text": "Just think what work it would make with the day and the night.",
-      "para_break": true
+      "text": "\"Just think what work it would make with the day and night!"
     },
     {
       "start": 370.54,
@@ -348,12 +352,12 @@
     {
       "start": 370.88,
       "end": 373.96,
-      "text": "the earth takes twenty-four hours to turn round on its axis."
+      "text": "the earth takes twenty-four hours to turn round on its axis----\""
     },
     {
       "start": 375.392,
       "end": 376.26,
-      "text": "Talking of axes,",
+      "text": "\"Talking of axes,\"",
       "para_break": true
     },
     {
@@ -364,7 +368,7 @@
     {
       "start": 377.48,
       "end": 378.46,
-      "text": "chop off her head."
+      "text": "\"chop off her head.\""
     },
     {
       "start": 379.66,
@@ -385,7 +389,7 @@
     {
       "start": 385.98,
       "end": 388.0,
-      "text": "the soup and did not seem to be listening,"
+      "text": "the soup, and did not seem to be listening,"
     },
     {
       "start": 388.14,
@@ -395,7 +399,7 @@
     {
       "start": 390.92,
       "end": 391.64,
-      "text": "Twenty-four hours,"
+      "text": "\"Twenty-four hours,"
     },
     {
       "start": 391.7,
@@ -410,17 +414,18 @@
     {
       "start": 393.82,
       "end": 394.12,
-      "text": "I----"
+      "text": "I----\""
     },
     {
       "start": 394.26,
       "end": 394.38,
-      "text": "Oh,"
+      "text": "\"Oh,",
+      "para_break": true
     },
     {
       "start": 394.56,
       "end": 395.78,
-      "text": "don't bother me,"
+      "text": "don't bother _me_,\""
     },
     {
       "start": 396.08,
@@ -430,13 +435,12 @@
     {
       "start": 397.4,
       "end": 399.14,
-      "text": "I never could abide figures."
+      "text": "\"I never could abide figures!\""
     },
     {
       "start": 400.18,
       "end": 402.2,
-      "text": "And with that she began nursing her child again,",
-      "para_break": true
+      "text": "And with that she began nursing her child again,"
     },
     {
       "start": 402.48,
@@ -446,7 +450,7 @@
     {
       "start": 405.24,
       "end": 407.88,
-      "text": "and giving it a violent shake at the end of every line."
+      "text": "and giving it a violent shake at the end of every line:"
     },
     {
       "start": 409.68,
@@ -457,7 +461,7 @@
     {
       "start": 411.68,
       "end": 413.18,
-      "text": "and beat him when he sneezes."
+      "text": "And beat him when he sneezes:"
     },
     {
       "start": 413.7,
@@ -467,28 +471,27 @@
     {
       "start": 415.4,
       "end": 416.86,
-      "text": "because he knows it teases."
+      "text": "Because he knows it teases.\""
     },
     {
       "start": 418.464,
       "end": 420.5,
-      "text": "CHORUS\n\n(In which the cook and the baby joined):",
-      "para_break": true
+      "text": "CHORUS\n\n(In which the cook and the baby joined):"
     },
     {
       "start": 421.04,
       "end": 421.42,
-      "text": "Wow,"
+      "text": "\"Wow!"
     },
     {
       "start": 421.66,
       "end": 422.02,
-      "text": "wow,"
+      "text": "wow!"
     },
     {
       "start": 422.04,
       "end": 422.26,
-      "text": "wow."
+      "text": "wow!\""
     },
     {
       "start": 424.28,
@@ -520,28 +523,33 @@
     {
       "start": 436.32,
       "end": 438.04,
-      "text": "I beat him when he sneezes."
+      "text": "I beat him when he sneezes;"
     },
     {
       "start": 438.68,
       "end": 442.02,
-      "text": "For he can thoroughly enjoy the pepper when he pleases."
+      "text": "For he can thoroughly enjoy The pepper when he pleases!\""
+    },
+    {
+      "start": 441.52,
+      "end": 441.6,
+      "text": "CHORUS.",
+      "para_break": true
     },
     {
       "start": 442.86,
       "end": 443.36,
-      "text": "\"Wow,",
-      "para_break": true
+      "text": "\"Wow!"
     },
     {
       "start": 443.6,
       "end": 443.96,
-      "text": "wow,"
+      "text": "wow!"
     },
     {
       "start": 443.96,
       "end": 444.2,
-      "text": "wow.\""
+      "text": "wow!\""
     },
     {
       "start": 445.72,
@@ -557,7 +565,7 @@
     {
       "start": 448.34,
       "end": 449.76,
-      "text": "the duchess said to Alice,"
+      "text": "the Duchess said to Alice,"
     },
     {
       "start": 450.08,
@@ -572,12 +580,12 @@
     {
       "start": 456.06,
       "end": 457.4,
-      "text": "And she hurried out of the room."
+      "text": "and she hurried out of the room."
     },
     {
       "start": 457.82,
       "end": 460.28,
-      "text": "The cook threw a frying pan after her as she went out,"
+      "text": "The cook threw a frying-pan after her as she went out,"
     },
     {
       "start": 460.68,
@@ -593,12 +601,12 @@
     {
       "start": 465.28,
       "end": 467.44,
-      "text": "as it was a queer-shaped little creature and"
+      "text": "as it was a queer-shaped little creature, and"
     },
     {
       "start": 467.44,
       "end": 469.4,
-      "text": "held out its arms and legs in all directions."
+      "text": "held out its arms and legs in all directions,"
     },
     {
       "start": 470.18,
@@ -613,7 +621,7 @@
     {
       "start": 472.64,
       "end": 474.92,
-      "text": "The poor little thing was snorting like a steam engine"
+      "text": "The poor little thing was snorting like a steam-engine"
     },
     {
       "start": 474.92,
@@ -628,7 +636,7 @@
     {
       "start": 477.88,
       "end": 479.72,
-      "text": "straightening itself out again so that"
+      "text": "straightening itself out again, so that"
     },
     {
       "start": 479.78,
@@ -654,7 +662,7 @@
     {
       "start": 487.98,
       "end": 489.94,
-      "text": "which was to twist it up into a knot"
+      "text": "(which was to twist it up into a knot,"
     },
     {
       "start": 490.1,
@@ -664,7 +672,7 @@
     {
       "start": 492.1,
       "end": 494.6,
-      "text": "left foot so as to prevent its undoing itself,"
+      "text": "left foot, so as to prevent its undoing itself,)"
     },
     {
       "start": 495.16,

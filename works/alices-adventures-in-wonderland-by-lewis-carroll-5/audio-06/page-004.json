@@ -16,13 +16,13 @@
     {
       "start": 740.384,
       "end": 741.22,
-      "text": "You'll see me there,",
+      "text": "\"You'll see me there,\"",
       "para_break": true
     },
     {
       "start": 741.54,
       "end": 742.44,
-      "text": "said the cat,"
+      "text": "said the Cat,"
     },
     {
       "start": 742.48,
@@ -32,18 +32,19 @@
     {
       "start": 744.384,
       "end": 746.16,
-      "text": "Alice was not much surprised at this.",
+      "text": "Alice was not much surprised at this,",
       "para_break": true
     },
     {
       "start": 746.56,
       "end": 748.58,
-      "text": "she was getting so used to queer things happening,"
+      "text": "she was getting so used to queer things happening."
     },
     {
       "start": 748.92,
       "end": 751.08,
-      "text": "while she was looking at the place where it had"
+      "text": "While she was looking at the place where it had",
+      "para_break": true
     },
     {
       "start": 751.08,
@@ -64,27 +65,27 @@
     {
       "start": 755.22,
       "end": 756.86,
-      "text": "what became of the baby?"
+      "text": "what became of the baby?\""
     },
     {
       "start": 757.14,
       "end": 757.82,
-      "text": "said the cat."
+      "text": "said the Cat."
     },
     {
       "start": 757.98,
       "end": 758.56,
-      "text": "I'd nearly"
+      "text": "\"I'd nearly"
     },
     {
       "start": 758.7,
       "end": 759.7,
-      "text": "forgotten to ask."
+      "text": "forgotten to ask.\""
     },
     {
       "start": 760.78,
       "end": 761.74,
-      "text": "It turned into a pig,",
+      "text": "\"It turned into a pig,\"",
       "para_break": true
     },
     {
@@ -105,13 +106,12 @@
     {
       "start": 766.04,
       "end": 766.68,
-      "text": "I thought it would,",
-      "para_break": true
+      "text": "\"I thought it would,\""
     },
     {
       "start": 766.92,
       "end": 767.44,
-      "text": "said the cat,"
+      "text": "said the Cat,"
     },
     {
       "start": 767.58,
@@ -152,18 +152,17 @@
     {
       "start": 779.392,
       "end": 780.34,
-      "text": "\"I've seen hatters before,",
-      "para_break": true
+      "text": "\"I've seen hatters before,\""
     },
     {
       "start": 780.64,
       "end": 781.26,
-      "text": "she said to herself."
+      "text": "she said to herself;"
     },
     {
       "start": 781.48,
       "end": 783.37,
-      "text": "The March Hare will be much the most interesting,"
+      "text": "\"the March Hare will be much the most interesting,"
     },
     {
       "start": 783.56,
@@ -178,7 +177,7 @@
     {
       "start": 786.88,
       "end": 789.16,
-      "text": "at least not so mad as it was in March."
+      "text": "at least not so mad as it was in March.\""
     },
     {
       "start": 789.98,
@@ -193,28 +192,28 @@
     {
       "start": 791.56,
       "end": 792.32,
-      "text": "and there was the cat"
+      "text": "and there was the Cat"
     },
     {
       "start": 792.44,
       "end": 794.0,
-      "text": "again sitting on the branch of a tree."
+      "text": "again, sitting on the branch of a tree."
     },
     {
       "start": 795.26,
       "end": 797.38,
-      "text": "Did you say pig or fig?",
+      "text": "\"Did you say pig, or fig?\"",
       "para_break": true
     },
     {
       "start": 797.82,
       "end": 798.62,
-      "text": "said the cat."
+      "text": "said the Cat."
     },
     {
       "start": 799.66,
       "end": 800.4,
-      "text": "I said pig,",
+      "text": "\"I said pig,\"",
       "para_break": true
     },
     {
@@ -225,23 +224,23 @@
     {
       "start": 801.5,
       "end": 804.28,
-      "text": "and I wish you wouldn't keep appearing and vanishing so suddenly."
+      "text": "\"and I wish you wouldn't keep appearing and vanishing so suddenly:"
     },
     {
       "start": 804.74,
       "end": 806.08,
-      "text": "You make one quite giddy."
+      "text": "you make one quite giddy.\""
     },
     {
       "start": 807.24,
       "end": 807.64,
-      "text": "All right,",
+      "text": "\"All right,\"",
       "para_break": true
     },
     {
       "start": 807.82,
       "end": 808.6,
-      "text": "said the cat,"
+      "text": "said the Cat,"
     },
     {
       "start": 808.72,
@@ -261,13 +260,13 @@
     {
       "start": 817.6,
       "end": 818.0,
-      "text": "Well,",
+      "text": "\"Well!",
       "para_break": true
     },
     {
       "start": 818.12,
       "end": 819.82,
-      "text": "I've often seen a cat without a grin,"
+      "text": "I've often seen a cat without a grin,\""
     },
     {
       "start": 819.98,
@@ -277,12 +276,12 @@
     {
       "start": 821.06,
       "end": 822.18,
-      "text": "but a grin without a cat,"
+      "text": "\"but a grin without a cat!"
     },
     {
       "start": 822.32,
       "end": 825.08,
-      "text": "it's the most curious thing I ever saw in all my life."
+      "text": "It's the most curious thing I ever saw in all my life!\""
     },
     {
       "start": 825.94,
@@ -298,13 +297,12 @@
     {
       "start": 830.54,
       "end": 831.96,
-      "text": "She thought it must be the right house,",
-      "para_break": true
+      "text": "She thought it must be the right house,"
     },
     {
       "start": 832.08,
       "end": 833.84,
-      "text": "because the chimneys were shaped like ears,"
+      "text": "because the chimneys were shaped like ears"
     },
     {
       "start": 834.46,
@@ -329,7 +327,7 @@
     {
       "start": 843.54,
       "end": 844.0,
-      "text": "feet high."
+      "text": "feet high:"
     },
     {
       "start": 844.3,
@@ -344,8 +342,7 @@
     {
       "start": 849.12,
       "end": 850.98,
-      "text": "\"Suppose it should be raving mad after all!",
-      "para_break": true
+      "text": "\"Suppose it should be raving mad after all!"
     },
     {
       "start": 851.44,
@@ -355,8 +352,7 @@
     {
       "start": 857.22,
       "end": 858.16,
-      "text": "End of chapter 6",
-      "para_break": true
+      "text": "End of chapter 6"
     }
   ]
 }
