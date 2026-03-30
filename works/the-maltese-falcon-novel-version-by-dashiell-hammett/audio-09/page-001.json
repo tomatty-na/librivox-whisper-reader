@@ -20,26 +20,23 @@
     {
       "start": 4.3,
       "end": 6.5,
-      "text": "This LibriVox recording is in the public domain.",
-      "para_break": true
+      "text": "This LibriVox recording is in the public domain."
     },
     {
       "start": 7.55,
       "end": 8.1,
-      "text": "Brigid.",
-      "para_break": true
+      "text": "Brigid."
     },
     {
       "start": 9.152,
       "end": 12.2,
-      "text": "Spade returned to the living room and sat on an end of the sofa,",
+      "text": "Spade returned to the living-room and sat on an end of the sofa,",
       "para_break": true
     },
     {
       "start": 12.896,
       "end": 13.58,
-      "text": "elbows on knees,",
-      "para_break": true
+      "text": "elbows on knees,"
     },
     {
       "start": 13.96,
@@ -49,8 +46,7 @@
     {
       "start": 15.28,
       "end": 17.66,
-      "text": "looking at the floor and not at Brigid O'Shaughnessy,",
-      "para_break": true
+      "text": "looking at the floor and not at Brigid O'Shaughnessy,"
     },
     {
       "start": 17.76,
@@ -65,8 +61,7 @@
     {
       "start": 21.18,
       "end": 22.16,
-      "text": "His eyes were sultry.",
-      "para_break": true
+      "text": "His eyes were sultry."
     },
     {
       "start": 22.36,
@@ -81,8 +76,7 @@
     {
       "start": 26.58,
       "end": 28.68,
-      "text": "nostrils moved in and out with his breathing.",
-      "para_break": true
+      "text": "nostrils moved in and out with his breathing."
     },
     {
       "start": 29.664,
@@ -108,13 +102,13 @@
     {
       "start": 37.76,
       "end": 39.92,
-      "text": "Red rage came suddenly into his face,",
+      "text": "Red rage came suddenly into his face",
       "para_break": true
     },
     {
       "start": 40.06,
       "end": 41.82,
-      "text": "and he began to talk in a harsh,"
+      "text": "and he began to talk in a harsh"
     },
     {
       "start": 41.94,
@@ -124,8 +118,7 @@
     {
       "start": 43.68,
       "end": 45.46,
-      "text": "Holding his maddened face in his hands,",
-      "para_break": true
+      "text": "Holding his maddened face in his hands,"
     },
     {
       "start": 45.58,
@@ -135,7 +128,7 @@
     {
       "start": 46.74,
       "end": 48.66,
-      "text": "he cursed Dundee for five minutes"
+      "text": "he cursed Dundy for five minutes"
     },
     {
       "start": 48.74,
@@ -160,7 +153,7 @@
     {
       "start": 53.68,
       "end": 54.8,
-      "text": "in a harsh,"
+      "text": "in a harsh"
     },
     {
       "start": 54.92,
@@ -191,8 +184,7 @@
     {
       "start": 61.76,
       "end": 62.36,
-      "text": "Childish,",
-      "para_break": true
+      "text": "Childish,"
     },
     {
       "start": 62.36,
@@ -202,8 +194,7 @@
     {
       "start": 63.4,
       "end": 63.74,
-      "text": "I know,",
-      "para_break": true
+      "text": "I know,"
     },
     {
       "start": 63.84,
@@ -223,13 +214,12 @@
     {
       "start": 67.96,
       "end": 70.0,
-      "text": "He touched his chin with careful fingers,",
-      "para_break": true
+      "text": "He touched his chin with careful fingers,"
     },
     {
       "start": 70.22,
       "end": 72.92,
-      "text": "not that it was so much of a suck at that."
+      "text": "not that it was so much of a sock at that."
     },
     {
       "start": 73.46,
@@ -244,14 +234,12 @@
     {
       "start": 77.18,
       "end": 78.8,
-      "text": "A cheap enough price to pay for winning,",
-      "para_break": true
+      "text": "A cheap enough price to pay for winning,"
     },
     {
       "start": 79.42,
       "end": 81.7,
-      "text": "his brows came together in a fleeting scowl.",
-      "para_break": true
+      "text": "his brows came together in a fleeting scowl."
     },
     {
       "start": 81.86,
@@ -277,8 +265,7 @@
     {
       "start": 88.512,
       "end": 91.5,
-      "text": "You're absolutely the wildest person I've ever known,",
-      "para_break": true
+      "text": "You're absolutely the wildest person I've ever known,"
     },
     {
       "start": 91.66,
@@ -293,7 +280,7 @@
     {
       "start": 94.92,
       "end": 95.08,
-      "text": "handed?"
+      "text": "Do you always carry on so high-handed?"
     },
     {
       "start": 95.69,
@@ -309,7 +296,8 @@
     {
       "start": 97.44,
       "end": 98.34,
-      "text": "Oh,"
+      "text": "Oh,",
+      "para_break": true
     },
     {
       "start": 98.36,
@@ -324,7 +312,8 @@
     {
       "start": 100.38,
       "end": 101.76,
-      "text": "It wasn't that,"
+      "text": "It wasn't that,",
+      "para_break": true
     },
     {
       "start": 102.208,
@@ -334,8 +323,7 @@
     {
       "start": 103.52,
       "end": 106.08,
-      "text": "It was that in losing his head and slugging me,",
-      "para_break": true
+      "text": "It was that in losing his head and slugging me,"
     },
     {
       "start": 106.16,
@@ -345,65 +333,50 @@
     {
       "start": 108.06,
       "end": 109.22,
-      "text": "If I'd mixed it with him,",
-      "para_break": true
+      "text": "If I'd mixed it with him,"
     },
     {
       "start": 109.36,
       "end": 111.94,
-      "text": "then he couldn't have backed down he'd have had"
+      "text": "then he couldn't've backed down. He'd've had"
     },
     {
       "start": 111.94,
       "end": 114.32,
-      "text": "to go through with it and we'd have had to tell"
+      "text": "to go through with it, and we'd've had to tell"
     },
     {
       "start": 114.32,
       "end": 117.04,
-      "text": "that goofy story at headquarters he stared"
+      "text": "that goofy story at headquarters."
     },
     {
-      "start": 117.04,
-      "end": 119.86,
-      "text": "thoughtfully at the girl and asked what did"
+      "start": 116.54,
+      "end": 120.72,
+      "text": "He stared thoughtfully at the girl, and asked: \"What did you do to Cairo?\""
     },
     {
-      "start": 119.86,
-      "end": 123.5,
-      "text": "you do to Cairo nothing her face became flushed"
-    },
-    {
-      "start": 123.5,
-      "end": 125.88,
-      "text": "I tried to frighten him into keeping still until"
-    },
-    {
-      "start": 125.88,
-      "end": 126.5,
-      "text": "they had gone"
-    },
-    {
-      "start": 127.06,
-      "end": 129.56,
-      "text": "and he either got too frightened or stubborn and yelled",
+      "start": 121.38,
+      "end": 129.48,
+      "text": "\"Nothing.\" Her face became flushed. \"I tried to frighten him into keeping still until they had gone and he either got too frightened or stubborn and yelled.\"",
       "para_break": true
     },
     {
-      "start": 130.36,
-      "end": 131.28,
-      "text": "and then you smacked him",
+      "start": 129.86,
+      "end": 131.82,
+      "text": "\"And then you smacked him with the gun?\"",
       "para_break": true
     },
     {
-      "start": 131.38,
-      "end": 134.22,
-      "text": "with the gun I had to he attacked me"
+      "start": 132.28,
+      "end": 134.18,
+      "text": "\"I had to. He attacked me.\"",
+      "para_break": true
     },
     {
-      "start": 135.26,
-      "end": 138.14,
-      "text": "you don't know what you're doing Spade's smile did not hide",
+      "start": 134.92,
+      "end": 138.2,
+      "text": "\"You don't know what you're doing.\" Spade's smile did not hide",
       "para_break": true
     },
     {
@@ -414,8 +387,7 @@
     {
       "start": 139.776,
       "end": 140.96,
-      "text": "It's just what I told you.",
-      "para_break": true
+      "text": "It's just what I told you."
     },
     {
       "start": 141.08,
@@ -436,17 +408,18 @@
     {
       "start": 146.2,
       "end": 148.1,
-      "text": "face and voice soft with contrition."
+      "text": "face and voice soft with contrition,"
     },
     {
       "start": 148.18,
       "end": 148.9,
-      "text": "Sam?"
+      "text": "Sam."
     },
     {
       "start": 149.27,
       "end": 150.48,
-      "text": "Sure you are."
+      "text": "Sure you are.",
+      "para_break": true
     },
     {
       "start": 150.68,
@@ -461,8 +434,7 @@
     {
       "start": 154.92,
       "end": 156.46,
-      "text": "Now you've had your talk with Cairo.",
-      "para_break": true
+      "text": "Now you've had your talk with Cairo."
     },
     {
       "start": 156.82,
@@ -523,14 +495,12 @@
     {
       "start": 173.06,
       "end": 173.46,
-      "text": "Of course.",
-      "para_break": true
+      "text": "Of course."
     },
     {
       "start": 174.5,
       "end": 176.12,
-      "text": "She took the finger away from her mouth",
-      "para_break": true
+      "text": "She took the finger away from her mouth"
     },
     {
       "start": 176.12,
@@ -561,13 +531,12 @@
     {
       "start": 183.48,
       "end": 184.0,
-      "text": "well?"
+      "text": "Well?"
     },
     {
       "start": 185.02,
       "end": 186.16,
-      "text": "While he felt for his lighter.",
-      "para_break": true
+      "text": "while he felt for his lighter."
     },
     {
       "start": 187.36,
@@ -588,14 +557,12 @@
     {
       "start": 193.16,
       "end": 194.7,
-      "text": "Have time to finish talking to him.",
-      "para_break": true
+      "text": "Have time to finish talking to him."
     },
     {
       "start": 195.6,
       "end": 197.98,
-      "text": "She stopped frowning at her knees and looked at Spade with",
-      "para_break": true
+      "text": "She stopped frowning at her knees and looked at Spade with"
     },
     {
       "start": 198.1,
@@ -626,8 +593,7 @@
     {
       "start": 207.06,
       "end": 208.84,
-      "text": "Want me to phone him and ask him to come back?",
-      "para_break": true
+      "text": "Want me to phone him and ask him to come back?"
     },
     {
       "start": 209.84,
@@ -684,8 +650,7 @@
     {
       "start": 225.96,
       "end": 226.6,
-      "text": "She leaned back",
-      "para_break": true
+      "text": "She leaned back"
     },
     {
       "start": 226.74,
@@ -705,13 +670,13 @@
     {
       "start": 229.82,
       "end": 230.74,
-      "text": "I'm listening.",
-      "para_break": true
+      "text": "I'm listening."
     },
     {
       "start": 231.02,
       "end": 233.54,
-      "text": "She twisted her head around to smile"
+      "text": "She twisted her head around to smile",
+      "para_break": true
     },
     {
       "start": 233.68,
@@ -731,7 +696,8 @@
     {
       "start": 238.62,
       "end": 239.52,
-      "text": "No."
+      "text": "No.",
+      "para_break": true
     },
     {
       "start": 239.76,
@@ -743,5 +709,6 @@
       "end": 243.76,
       "text": "hand from her shoulder and let his arm drop down behind her."
     }
-  ]
+  ],
+  "corrected": "claude"
 }

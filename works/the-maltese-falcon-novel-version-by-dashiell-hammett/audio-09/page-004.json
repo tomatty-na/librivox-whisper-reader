@@ -20,7 +20,7 @@
     {
       "start": 730.82,
       "end": 732.34,
-      "text": "I've only seen it once for"
+      "text": "I've only seen it once, for"
     },
     {
       "start": 732.34,
@@ -30,8 +30,7 @@
     {
       "start": 733.74,
       "end": 736.08,
-      "text": "Floyd showed it to me when we first got hold of it.",
-      "para_break": true
+      "text": "Floyd showed it to me when we'd first got hold of it."
     },
     {
       "start": 737.152,
@@ -47,13 +46,12 @@
     {
       "start": 740.14,
       "end": 742.32,
-      "text": "draft of the coffee and brandy in his cup."
+      "text": "draught of the coffee and brandy in his cup."
     },
     {
       "start": 743.14,
       "end": 743.66,
-      "text": "His scowl had",
-      "para_break": true
+      "text": "His scowl had"
     },
     {
       "start": 743.66,
@@ -78,24 +76,23 @@
     {
       "start": 748.96,
       "end": 749.42,
-      "text": "casually,"
+      "text": "casually:"
     },
     {
       "start": 750.24,
       "end": 750.34,
-      "text": "you",
-      "para_break": true
+      "text": "You"
     },
     {
       "start": 751.02,
       "end": 751.54,
-      "text": "are a liar.",
-      "para_break": true
+      "text": "_are_ a liar."
     },
     {
       "start": 752.05,
       "end": 754.32,
-      "text": "She got up and stood at the end of the table,"
+      "text": "She got up and stood at the end of the table,",
+      "para_break": true
     },
     {
       "start": 754.46,
@@ -105,13 +102,12 @@
     {
       "start": 755.66,
       "end": 757.88,
-      "text": "dark abashed eyes and a pinkening face."
+      "text": "dark abashed eyes in a pinkening face."
     },
     {
       "start": 758.84,
       "end": 759.58,
-      "text": "I am a liar,",
-      "para_break": true
+      "text": "I am a liar,"
     },
     {
       "start": 759.7,
@@ -152,8 +148,7 @@
     {
       "start": 770.24,
       "end": 772.12,
-      "text": "Was there any truth at all in that yarn?",
-      "para_break": true
+      "text": "Was there any truth at all in that yarn?"
     },
     {
       "start": 773.06,
@@ -179,8 +174,7 @@
     {
       "start": 777.54,
       "end": 778.5,
-      "text": "she whispered.",
-      "para_break": true
+      "text": "she whispered."
     },
     {
       "start": 779.38,
@@ -191,7 +185,7 @@
     {
       "start": 781.056,
       "end": 782.54,
-      "text": "Not very much.",
+      "text": "Not—not very much.",
       "para_break": true
     },
     {
@@ -208,23 +202,23 @@
     {
       "start": 786.12,
       "end": 788.48,
-      "text": "He laughed into her wet eyes and said,"
+      "text": "He laughed into her wet eyes and said:"
     },
     {
       "start": 789.52,
       "end": 791.2,
-      "text": "we've got all night before us.",
-      "para_break": true
+      "text": "We've got all night before us."
     },
     {
       "start": 791.74,
       "end": 794.76,
-      "text": "I'll put some more brandy and some more coffee and we'll try again."
+      "text": "I'll put some more brandy in some more coffee and we'll try again."
     },
     {
       "start": 795.14,
       "end": 797.16,
-      "text": "Her eyelids drooped."
+      "text": "Her eyelids drooped.",
+      "para_break": true
     },
     {
       "start": 797.3,
@@ -234,8 +228,7 @@
     {
       "start": 798.28,
       "end": 799.28,
-      "text": "I'm so tired,",
-      "para_break": true
+      "text": "I'm so tired,"
     },
     {
       "start": 799.36,
@@ -245,8 +238,7 @@
     {
       "start": 801.22,
       "end": 802.34,
-      "text": "So tired of it all,",
-      "para_break": true
+      "text": "So tired of it all,"
     },
     {
       "start": 802.48,
@@ -261,18 +253,18 @@
     {
       "start": 806.14,
       "end": 808.8,
-      "text": "and of not knowing what is a lie and what is the truth.",
-      "para_break": true
+      "text": "and of not knowing what is a lie and what is the truth."
     },
     {
       "start": 809.23,
       "end": 810.5,
-      "text": "I wish I..."
+      "text": "I wish I—"
     },
     {
       "start": 811.52,
       "end": 812.48,
-      "text": "She put her hands up to"
+      "text": "She put her hands up to",
+      "para_break": true
     },
     {
       "start": 812.72,
@@ -333,8 +325,8 @@
     {
       "start": 834.94,
       "end": 836.02,
-      "text": "End of chapter nine.",
-      "para_break": true
+      "text": "End of chapter nine."
     }
-  ]
+  ],
+  "corrected": "claude"
 }

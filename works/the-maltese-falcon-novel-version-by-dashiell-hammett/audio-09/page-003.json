@@ -15,7 +15,8 @@
     {
       "start": 488.93,
       "end": 490.54,
-      "text": "I suppose you do now,"
+      "text": "I suppose you do now,",
+      "para_break": true
     },
     {
       "start": 490.76,
@@ -35,14 +36,12 @@
     {
       "start": 494.84,
       "end": 495.136,
-      "text": "But oh,",
-      "para_break": true
+      "text": "But—oh!—"
     },
     {
       "start": 495.83,
       "end": 497.34,
-      "text": "I'm so tired of it,",
-      "para_break": true
+      "text": "I'm so tired of it,"
     },
     {
       "start": 497.36,
@@ -57,8 +56,7 @@
     {
       "start": 500.288,
       "end": 500.68,
-      "text": "Wouldn't it,",
-      "para_break": true
+      "text": "Wouldn't it—"
     },
     {
       "start": 500.8,
@@ -79,31 +77,27 @@
     {
       "start": 508.12,
       "end": 508.62,
-      "text": "I don't know.",
-      "para_break": true
+      "text": "I don't know."
     },
     {
       "start": 509.24,
       "end": 510.68,
-      "text": "You'll have to figure that out for yourself.",
-      "para_break": true
+      "text": "You'll have to figure that out for yourself."
     },
     {
       "start": 511.5,
       "end": 514.22,
-      "text": "My way of learning is to heave a wild and",
-      "para_break": true
+      "text": "My way of learning is to heave a wild and"
     },
     {
       "start": 514.22,
       "end": 516.28,
-      "text": "unpredictable monkey wrench into the machinery."
+      "text": "unpredictable monkey-wrench into the machinery."
     },
     {
       "start": 517.18,
       "end": 518.16,
-      "text": "It's all right with me,",
-      "para_break": true
+      "text": "It's all right with me,"
     },
     {
       "start": 518.24,
@@ -124,8 +118,7 @@
     {
       "start": 525.4,
       "end": 527.3,
-      "text": "For several minutes they ate in silence,",
-      "para_break": true
+      "text": "For several minutes they ate in silence,"
     },
     {
       "start": 527.52,
@@ -140,8 +133,7 @@
     {
       "start": 530.7,
       "end": 531.94,
-      "text": "Then she said in a hushed voice,",
-      "para_break": true
+      "text": "Then she said in a hushed voice:"
     },
     {
       "start": 532.16,
@@ -156,13 +148,13 @@
     {
       "start": 535.18,
       "end": 535.54,
-      "text": "He said,",
+      "text": "He said:",
       "para_break": true
     },
     {
       "start": 535.7,
       "end": 536.98,
-      "text": "that's not the truth."
+      "text": "That's not the truth."
     },
     {
       "start": 538.12,
@@ -178,8 +170,7 @@
     {
       "start": 541.08,
       "end": 543.18,
-      "text": "I know two men I'm afraid of,",
-      "para_break": true
+      "text": "I know two men I'm afraid of"
     },
     {
       "start": 543.22,
@@ -222,52 +213,48 @@
     {
       "start": 555.18,
       "end": 556.22,
-      "text": "She blushed."
+      "text": "She blushed.",
+      "para_break": true
     },
     {
       "start": 557.0,
       "end": 559.54,
-      "text": "She picked up a slice of bread encrusted with gray liverwurst.",
-      "para_break": true
+      "text": "She picked up a slice of bread encrusted with grey liverwurst."
     },
     {
       "start": 560.26,
       "end": 561.4,
-      "text": "She put it down on her plate.",
-      "para_break": true
+      "text": "She put it down on her plate."
     },
     {
       "start": 561.9,
       "end": 563.76,
-      "text": "She wrinkled her white forehead and she said,"
+      "text": "She wrinkled her white forehead and she said:"
     },
     {
       "start": 564.56,
       "end": 565.4,
-      "text": "It's a black figure,",
-      "para_break": true
+      "text": "It's a black figure,"
     },
     {
       "start": 565.58,
       "end": 566.28,
-      "text": "as you know."
+      "text": "as you know,"
     },
     {
       "start": 566.976,
       "end": 567.74,
-      "text": "Smooth and shiny.",
-      "para_break": true
+      "text": "smooth and shiny,"
     },
     {
       "start": 568.26,
       "end": 568.69,
-      "text": "Of a bird."
+      "text": "of a bird,"
     },
     {
       "start": 569.36,
       "end": 570.26,
-      "text": "A hawk or falcon.",
-      "para_break": true
+      "text": "a hawk or falcon,"
     },
     {
       "start": 570.74,
@@ -277,8 +264,7 @@
     {
       "start": 572.3,
       "end": 573.66,
-      "text": "She held her hands a foot apart.",
-      "para_break": true
+      "text": "She held her hands a foot apart."
     },
     {
       "start": 574.64,
@@ -300,8 +286,7 @@
     {
       "start": 579.84,
       "end": 580.3,
-      "text": "I don't know,",
-      "para_break": true
+      "text": "I don't know,"
     },
     {
       "start": 580.72,
@@ -311,8 +296,7 @@
     {
       "start": 582.28,
       "end": 583.04,
-      "text": "They'd never tell me.",
-      "para_break": true
+      "text": "They'd never tell me."
     },
     {
       "start": 583.16,
@@ -322,13 +306,12 @@
     {
       "start": 584.2,
       "end": 586.24,
-      "text": "500 pounds if I helped them get it."
+      "text": "five hundred pounds if I helped them get it."
     },
     {
       "start": 586.88,
       "end": 588.02,
-      "text": "Then Floyd said afterward,",
-      "para_break": true
+      "text": "Then Floyd said afterward,"
     },
     {
       "start": 588.18,
@@ -343,12 +326,13 @@
     {
       "start": 590.02,
       "end": 590.94,
-      "text": "give me 750."
+      "text": "give me seven hundred and fifty."
     },
     {
       "start": 592.34,
       "end": 594.35,
-      "text": "So it must be worth more than $7,500."
+      "text": "So it must be worth more than seventy-five hundred dollars?",
+      "para_break": true
     },
     {
       "start": 595.46,
@@ -406,7 +390,7 @@
     {
       "start": 610.56,
       "end": 612.32,
-      "text": "his yellow-gray eyes from her face,"
+      "text": "his yellow-grey eyes from her face,"
     },
     {
       "start": 612.52,
@@ -416,8 +400,7 @@
     {
       "start": 614.88,
       "end": 615.36,
-      "text": "Behind them,",
-      "para_break": true
+      "text": "Behind them"
     },
     {
       "start": 615.38,
@@ -436,29 +419,30 @@
       "para_break": true
     },
     {
-      "start": 620.46,
-      "end": 621.12,
-      "text": "she said slowly,"
+      "start": 620.26,
+      "end": 621.86,
+      "text": "she said slowly when she"
     },
     {
-      "start": 621.64,
-      "end": 622.14,
-      "text": "when she had lowered"
+      "start": 621.86,
+      "end": 622.26,
+      "text": "had lowered"
     },
     {
       "start": 622.36,
       "end": 622.76,
-      "text": "her cup."
+      "text": "her cup,"
     },
     {
       "start": 622.9,
       "end": 625.72,
-      "text": "A Russian named Kemidov."
+      "text": "a Russian named Kemidov."
     },
     {
       "start": 625.94,
       "end": 626.04,
-      "text": "How?"
+      "text": "How?",
+      "para_break": true
     },
     {
       "start": 627.24,
@@ -469,8 +453,7 @@
     {
       "start": 629.0,
       "end": 629.8,
-      "text": "but that's not important,",
-      "para_break": true
+      "text": "but that's not important,"
     },
     {
       "start": 630.02,
@@ -485,17 +468,17 @@
     {
       "start": 631.8,
       "end": 632.22,
-      "text": "help you."
+      "text": "help you\"—"
     },
     {
       "start": 632.74,
       "end": 634.0,
-      "text": "She smiled impudently."
+      "text": "she smiled impudently—"
     },
     {
       "start": 634.48,
       "end": 636.36,
-      "text": "And it's certainly none of your business."
+      "text": "and is certainly none of your business."
     },
     {
       "start": 637.46,
@@ -517,7 +500,7 @@
     {
       "start": 641.26,
       "end": 641.64,
-      "text": "and said,"
+      "text": "and said:"
     },
     {
       "start": 641.8,
@@ -533,13 +516,12 @@
     {
       "start": 645.36,
       "end": 645.68,
-      "text": "saying,"
+      "text": "saying:"
     },
     {
       "start": 646.26,
       "end": 646.52,
-      "text": "go ahead,",
-      "para_break": true
+      "text": "Go ahead,"
     },
     {
       "start": 646.68,
@@ -549,13 +531,13 @@
     {
       "start": 648.36,
       "end": 650.12,
-      "text": "But that's all I've told you.",
+      "text": "But that's all. I've told you.",
       "para_break": true
     },
     {
       "start": 650.24,
       "end": 653.0,
-      "text": "They promised me 500 pounds to help them,"
+      "text": "They promised me five hundred pounds to help them"
     },
     {
       "start": 653.1,
@@ -565,7 +547,7 @@
     {
       "start": 654.32,
       "end": 657.38,
-      "text": "And then we found that Joe Cairo meant to desert us,"
+      "text": "and then we found that Joe Cairo meant to desert us,"
     },
     {
       "start": 657.42,
@@ -580,14 +562,12 @@
     {
       "start": 660.96,
       "end": 662.86,
-      "text": "So we did exactly that to him first.",
-      "para_break": true
+      "text": "So we did exactly that to him, first."
     },
     {
       "start": 663.62,
       "end": 665.74,
-      "text": "But then I wasn't any better off than I had",
-      "para_break": true
+      "text": "But then I wasn't any better off than I had"
     },
     {
       "start": 665.74,
@@ -602,7 +582,7 @@
     {
       "start": 669.38,
       "end": 672.56,
-      "text": "paying me the 750 pounds he had promised me."
+      "text": "paying me the seven hundred and fifty pounds he had promised me."
     },
     {
       "start": 672.92,
@@ -632,8 +612,7 @@
     {
       "start": 683.168,
       "end": 684.46,
-      "text": "Indignation had darkened her",
-      "para_break": true
+      "text": "Indignation had darkened her"
     },
     {
       "start": 684.58,
@@ -643,8 +622,7 @@
     {
       "start": 685.8,
       "end": 687.04,
-      "text": "and that's why I came to you,",
-      "para_break": true
+      "text": "And that's why I came to you,"
     },
     {
       "start": 687.18,
@@ -665,7 +643,8 @@
     {
       "start": 693.14,
       "end": 696.6,
-      "text": "Then I'd have been in a position to talk terms with Mr."
+      "text": "Then I'd have been in a position to talk terms with Mr.",
+      "para_break": true
     },
     {
       "start": 696.78,
@@ -675,14 +654,13 @@
     {
       "start": 698.464,
       "end": 700.04,
-      "text": "Spade squinted at her and suggested,",
+      "text": "Spade squinted at her and suggested:",
       "para_break": true
     },
     {
       "start": 700.92,
       "end": 702.96,
-      "text": "but you wouldn't have known where to take it to",
-      "para_break": true
+      "text": "But you wouldn't have known where to take it to"
     },
     {
       "start": 702.96,
@@ -692,8 +670,7 @@
     {
       "start": 705.28,
       "end": 708.02,
-      "text": "the larger sum that you knew he expected to sell it for.",
-      "para_break": true
+      "text": "the larger sum that you knew he expected to sell it for?"
     },
     {
       "start": 709.18,
@@ -715,8 +692,7 @@
     {
       "start": 714.78,
       "end": 716.06,
-      "text": "What makes it worth all that money,",
-      "para_break": true
+      "text": "What makes it worth all that money?"
     },
     {
       "start": 716.24,
@@ -726,7 +702,7 @@
     {
       "start": 717.02,
       "end": 719.42,
-      "text": "You must have some idea at least to be able to"
+      "text": "You must have some idea, at least be able to"
     },
     {
       "start": 719.48,
@@ -742,18 +718,18 @@
     {
       "start": 722.48,
       "end": 724.38,
-      "text": "He directed the scowl at her."
+      "text": "He directed the scowl at her.",
+      "para_break": true
     },
     {
       "start": 725.4,
       "end": 726.02,
-      "text": "What's it made of?",
-      "para_break": true
+      "text": "What's it made of?"
     },
     {
       "start": 727.296,
       "end": 728.46,
-      "text": "Porcelain or black stone,",
+      "text": "Porcelain or black stone.",
       "para_break": true
     },
     {
@@ -761,5 +737,6 @@
       "end": 729.28,
       "text": "I don't know."
     }
-  ]
+  ],
+  "corrected": "claude"
 }
