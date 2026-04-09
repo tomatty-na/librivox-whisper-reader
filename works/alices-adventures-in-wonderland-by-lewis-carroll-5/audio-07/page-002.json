@@ -64,8 +64,7 @@
     {
       "start": 261.21,
       "end": 262.66,
-      "text": "\"I don't quite understand,\"",
-      "para_break": true
+      "text": "\"I don't quite understand,\""
     },
     {
       "start": 263.02,
@@ -133,7 +132,8 @@
     {
       "start": 285.38,
       "end": 285.48,
-      "text": "\"No,"
+      "text": "\"No,",
+      "para_break": true
     },
     {
       "start": 285.82,
@@ -239,8 +239,7 @@
     {
       "start": 319.98,
       "end": 322.1,
-      "text": "\"I daresay you never spoke to Time!\"",
-      "para_break": true
+      "text": "\"I daresay you never spoke to Time!\""
     },
     {
       "start": 323.296,
@@ -256,7 +255,8 @@
     {
       "start": 328.96,
       "end": 329.74,
-      "text": "\"Ah!"
+      "text": "\"Ah!",
+      "para_break": true
     },
     {
       "start": 329.96,
@@ -385,13 +385,13 @@
     {
       "start": 374.65,
       "end": 376.8,
-      "text": "The Hatter shook his head mournfully."
+      "text": "The Hatter shook his head mournfully.",
+      "para_break": true
     },
     {
       "start": 377.92,
       "end": 382.34,
-      "text": "\"Not I!\" he replied. \"We quarrelled last March----just before _he_ went",
-      "para_break": true
+      "text": "\"Not I!\" he replied. \"We quarrelled last March----just before _he_ went"
     },
     {
       "start": 382.34,
@@ -401,8 +401,7 @@
     {
       "start": 386.14,
       "end": 388.04,
-      "text": "\"it was at the great concert given by",
-      "para_break": true
+      "text": "\"it was at the great concert given by"
     },
     {
       "start": 388.04,
@@ -412,8 +411,7 @@
     {
       "start": 391.424,
       "end": 392.96,
-      "text": "'Twinkle, twinkle, little bat!",
-      "para_break": true
+      "text": "'Twinkle, twinkle, little bat!"
     },
     {
       "start": 393.7,
@@ -435,8 +433,7 @@
     {
       "start": 405.52,
       "end": 410.76,
-      "text": "'Up above the world you fly,\nLike a tea-tray in the sky.\n            Twinkle, twinkle----'\"",
-      "para_break": true
+      "text": "'Up above the world you fly,\nLike a tea-tray in the sky.\n            Twinkle, twinkle----'\""
     },
     {
       "start": 413.08,
@@ -452,8 +449,7 @@
     {
       "start": 420.74,
       "end": 423.54,
-      "text": "and went on so long that they had to pinch it to make it stop.",
-      "para_break": true
+      "text": "and went on so long that they had to pinch it to make it stop."
     },
     {
       "start": 424.4,
@@ -527,8 +523,7 @@
     {
       "start": 450.6,
       "end": 453.4,
-      "text": "\"Is that the reason so many tea-things are put out here?\"",
-      "para_break": true
+      "text": "\"Is that the reason so many tea-things are put out here?\""
     },
     {
       "start": 453.54,
@@ -623,8 +618,7 @@
     {
       "start": 480.94,
       "end": 482.32,
-      "text": "\"I'm getting tired of this.",
-      "para_break": true
+      "text": "\"I'm getting tired of this."
     },
     {
       "start": 482.46,

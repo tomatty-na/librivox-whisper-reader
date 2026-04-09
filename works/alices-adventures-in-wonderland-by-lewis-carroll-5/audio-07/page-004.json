@@ -16,8 +16,7 @@
     {
       "start": 733.6,
       "end": 735.04,
-      "text": "----that begins with an M,",
-      "para_break": true
+      "text": "----that begins with an M,"
     },
     {
       "start": 735.14,
@@ -37,7 +36,8 @@
     {
       "start": 747.11,
       "end": 747.76,
-      "text": "\"Really,"
+      "text": "\"Really,",
+      "para_break": true
     },
     {
       "start": 747.88,
@@ -62,7 +62,8 @@
     {
       "start": 752.7,
       "end": 753.6,
-      "text": "\"Then you shouldn't talk,\""
+      "text": "\"Then you shouldn't talk,\"",
+      "para_break": true
     },
     {
       "start": 753.8,
@@ -113,7 +114,8 @@
     {
       "start": 776.03,
       "end": 777.18,
-      "text": "\"At any rate"
+      "text": "\"At any rate",
+      "para_break": true
     },
     {
       "start": 777.2,
@@ -240,8 +242,7 @@
     {
       "start": 830.3,
       "end": 831.32,
-      "text": "End of chapter 7",
-      "para_break": true
+      "text": "End of chapter 7"
     }
   ]
 }

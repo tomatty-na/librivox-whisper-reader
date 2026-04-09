@@ -59,7 +59,7 @@
     {
       "start": 19.36,
       "end": 20.92,
-      "text": "A Dormouse was sitting between them,"
+      "text": "a Dormouse was sitting between them,"
     },
     {
       "start": 21.0,
@@ -74,7 +74,7 @@
     {
       "start": 23.8,
       "end": 24.2,
-      "text": "a cushion,"
+      "text": "a cushion"
     },
     {
       "start": 24.32,
@@ -89,22 +89,22 @@
     {
       "start": 28.608,
       "end": 30.34,
-      "text": "Very uncomfortable for the Dormouse,"
+      "text": "\"Very uncomfortable for the Dormouse,\""
     },
     {
       "start": 30.46,
       "end": 30.9,
-      "text": "thought Alice,"
+      "text": "thought Alice;"
     },
     {
       "start": 31.1,
       "end": 32.32,
-      "text": "only as it's asleep,"
+      "text": "\"only as it's asleep,"
     },
     {
       "start": 32.5,
       "end": 33.74,
-      "text": "suppose it doesn't mind."
+      "text": "suppose it doesn't mind.\""
     },
     {
       "start": 34.46,
@@ -120,12 +120,12 @@
     {
       "start": 40.06,
       "end": 40.48,
-      "text": "No room!"
+      "text": "\"No room!"
     },
     {
       "start": 40.64,
       "end": 41.14,
-      "text": "No room!"
+      "text": "No room!\""
     },
     {
       "start": 41.34,
@@ -135,8 +135,7 @@
     {
       "start": 44.32,
       "end": 45.32,
-      "text": "\"There's _plenty_ of room!\"",
-      "para_break": true
+      "text": "\"There's _plenty_ of room!\""
     },
     {
       "start": 45.52,
@@ -151,8 +150,7 @@
     {
       "start": 52.576,
       "end": 53.32,
-      "text": "\"Have some wine,\"",
-      "para_break": true
+      "text": "\"Have some wine,\""
     },
     {
       "start": 53.82,
@@ -173,8 +171,7 @@
     {
       "start": 61.22,
       "end": 62.2,
-      "text": "\"I don't see any wine,\"",
-      "para_break": true
+      "text": "\"I don't see any wine,\""
     },
     {
       "start": 62.34,
@@ -184,8 +181,7 @@
     {
       "start": 63.78,
       "end": 64.5,
-      "text": "\"There isn't any,\"",
-      "para_break": true
+      "text": "\"There isn't any,\""
     },
     {
       "start": 64.7,
@@ -195,8 +191,7 @@
     {
       "start": 66.56,
       "end": 68.68,
-      "text": "\"Then it wasn't very civil of you to offer it,\"",
-      "para_break": true
+      "text": "\"Then it wasn't very civil of you to offer it,\""
     },
     {
       "start": 68.82,
@@ -206,8 +201,7 @@
     {
       "start": 71.14,
       "end": 74.08,
-      "text": "\"It wasn't very civil of you to sit down without being invited,\"",
-      "para_break": true
+      "text": "\"It wasn't very civil of you to sit down without being invited,\""
     },
     {
       "start": 74.46,
@@ -217,8 +211,7 @@
     {
       "start": 76.66,
       "end": 78.34,
-      "text": "\"I didn't know it was _your_ table,\"",
-      "para_break": true
+      "text": "\"I didn't know it was _your_ table,\""
     },
     {
       "start": 78.52,

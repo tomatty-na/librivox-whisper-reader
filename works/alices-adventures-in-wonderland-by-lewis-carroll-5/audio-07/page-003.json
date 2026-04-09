@@ -59,8 +59,7 @@
     {
       "start": 505.78,
       "end": 507.94,
-      "text": "\"I heard every word you fellows were saying.\"",
-      "para_break": true
+      "text": "\"I heard every word you fellows were saying.\""
     },
     {
       "start": 508.86,
@@ -76,7 +75,8 @@
     {
       "start": 511.28,
       "end": 511.4,
-      "text": "\"Yes,"
+      "text": "\"Yes,",
+      "para_break": true
     },
     {
       "start": 511.52,
@@ -314,8 +314,7 @@
     {
       "start": 595.12,
       "end": 596.82,
-      "text": "\"Why did they live at the bottom of a well?\"",
-      "para_break": true
+      "text": "\"Why did they live at the bottom of a well?\""
     },
     {
       "start": 598.05,
@@ -352,8 +351,7 @@
     {
       "start": 612.7,
       "end": 614.9,
-      "text": "and the Dormouse sulkily remarked:",
-      "para_break": true
+      "text": "and the Dormouse sulkily remarked:"
     },
     {
       "start": 615.1,
@@ -420,8 +418,7 @@
     {
       "start": 633.34,
       "end": 634.96,
-      "text": "\"And so these three little sisters--",
-      "para_break": true
+      "text": "\"And so these three little sisters--"
     },
     {
       "start": 635.16,
@@ -452,7 +449,8 @@
     {
       "start": 640.77,
       "end": 641.52,
-      "text": "\"Treacle,\""
+      "text": "\"Treacle,\"",
+      "para_break": true
     },
     {
       "start": 641.66,
@@ -540,8 +538,7 @@
     {
       "start": 675.04,
       "end": 676.12,
-      "text": "\"But I don't understand.",
-      "para_break": true
+      "text": "\"But I don't understand."
     },
     {
       "start": 676.58,
@@ -670,7 +667,7 @@
     {
       "start": 724.88,
       "end": 727.22,
-      "text": "this time, and was going off into a doze;"
+      "text": "this time, and was going off into a dose;"
     },
     {
       "start": 727.5,
