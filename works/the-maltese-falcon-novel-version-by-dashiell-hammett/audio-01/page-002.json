@@ -16,7 +16,8 @@
     {
       "start": 262.5,
       "end": 262.6,
-      "text": "\"Yes.\""
+      "text": "\"Yes.\"",
+      "para_break": true
     },
     {
       "start": 264.47,
@@ -27,7 +28,7 @@
     {
       "start": 266.46,
       "end": 266.74,
-      "text": "I mean,"
+      "text": "I mean"
     },
     {
       "start": 266.78,
@@ -37,8 +38,7 @@
     {
       "start": 268.928,
       "end": 269.24,
-      "text": "She's five",
-      "para_break": true
+      "text": "She's five"
     },
     {
       "start": 269.24,
@@ -321,7 +321,7 @@
     {
       "start": 366.12,
       "end": 366.96,
-      "text": "and she didn't come."
+      "text": "and she didn't come,"
     },
     {
       "start": 367.34,
@@ -464,7 +464,7 @@
     {
       "start": 415.44,
       "end": 417.12,
-      "text": "\"He wouldn't tell me where Corinne was,",
+      "text": "\"He wouldn't tell me where Corinne was,\"",
       "para_break": true
     },
     {
@@ -537,8 +537,7 @@
     {
       "start": 436.06,
       "end": 439.06,
-      "text": "\"But I can't go back home like this, without having seen her,",
-      "para_break": true
+      "text": "\"But I can't go back home like this, without having seen her,"
     },
     {
       "start": 439.22,
@@ -578,7 +577,7 @@
     {
       "start": 452.08,
       "end": 454.24,
-      "text": "come—this evening at the hotel."
+      "text": "would come—this evening at the hotel."
     },
     {
       "start": 455.0,
@@ -603,8 +602,7 @@
     {
       "start": 461.02,
       "end": 464.04,
-      "text": "she broke off with a startled hand to her mouth as the door opened.",
-      "para_break": true
+      "text": "She broke off with a startled hand to her mouth as the door opened."
     },
     {
       "start": 465.08,
@@ -635,7 +633,7 @@
     {
       "start": 470.56,
       "end": 472.02,
-      "text": "Hastily took his brown hat from his"
+      "text": "hastily took his brown hat from his"
     },
     {
       "start": 472.16,
@@ -645,8 +643,7 @@
     {
       "start": 474.112,
       "end": 474.6,
-      "text": "It's all right,",
-      "para_break": true
+      "text": "\"It's all right,"
     },
     {
       "start": 474.64,
@@ -661,7 +658,7 @@
     {
       "start": 476.46,
       "end": 476.76,
-      "text": "Come in."
+      "text": "\"Come in."
     },
     {
       "start": 477.54,
@@ -737,7 +734,7 @@
     {
       "start": 498.5,
       "end": 498.88,
-      "text": "jovial,"
+      "text": "jovial"
     },
     {
       "start": 498.92,
@@ -757,13 +754,13 @@
     {
       "start": 507.26,
       "end": 508.28,
-      "text": "Spade said:"
+      "text": "Spade said:",
+      "para_break": true
     },
     {
       "start": 509.04,
       "end": 511.18,
-      "text": "Miss Wonderly's sister ran away from New York",
-      "para_break": true
+      "text": "\"Miss Wonderly's sister ran away from New York"
     },
     {
       "start": 511.18,

@@ -33,12 +33,13 @@
     {
       "start": 761.15,
       "end": 762.46,
-      "text": "\"All right,"
+      "text": "\"All right,",
+      "para_break": true
     },
     {
       "start": 762.46,
       "end": 763.04,
-      "text": "Miss Wonderly."
+      "text": "Miss Wonderly,"
     },
     {
       "start": 763.31,
@@ -53,7 +54,8 @@
     {
       "start": 765.98,
       "end": 766.76,
-      "text": "\"Mr."
+      "text": "\"Mr.",
+      "para_break": true
     },
     {
       "start": 766.96,
@@ -68,18 +70,17 @@
     {
       "start": 769.58,
       "end": 769.92,
-      "text": "Archer?"
+      "text": "Archer?\""
     },
     {
       "start": 770.88,
       "end": 772.9,
-      "text": "She made an appealing gesture with both hands.",
-      "para_break": true
+      "text": "She made an appealing gesture with both hands."
     },
     {
       "start": 774.08,
       "end": 776.1,
-      "text": "Could either of you look after it personally?"
+      "text": "\"Could either of you look after it personally?"
     },
     {
       "start": 776.87,
@@ -134,8 +135,7 @@
     {
       "start": 791.68,
       "end": 793.92,
-      "text": "She opened her handbag with nervous fingers and",
-      "para_break": true
+      "text": "She opened her handbag with nervous fingers and"
     },
     {
       "start": 794.06,
@@ -145,19 +145,18 @@
     {
       "start": 797.0,
       "end": 797.74,
-      "text": "\"Would that be enough?\"",
-      "para_break": true
+      "text": "\"Would that be enough?\""
     },
     {
       "start": 798.0,
       "end": 798.1,
-      "text": "\"Yeh,\""
+      "text": "\"Yeh,\"",
+      "para_break": true
     },
     {
       "start": 799.34,
       "end": 800.42,
-      "text": "Archer said,",
-      "para_break": true
+      "text": "Archer said,"
     },
     {
       "start": 800.62,
@@ -245,7 +244,8 @@
     {
       "start": 823.95,
       "end": 824.86,
-      "text": "\"I will,\""
+      "text": "\"I will,\"",
+      "para_break": true
     },
     {
       "start": 825.04,
@@ -287,8 +287,7 @@
     {
       "start": 837.568,
       "end": 839.56,
-      "text": "Archer nodded at the hundred-dollar bills there,",
-      "para_break": true
+      "text": "Archer nodded at the hundred-dollar bills there,"
     },
     {
       "start": 839.72,
@@ -354,7 +353,8 @@
     {
       "start": 857.66,
       "end": 858.56,
-      "text": "\"Sweet!"
+      "text": "\"Sweet!",
+      "para_break": true
     },
     {
       "start": 859.04,
@@ -374,8 +374,7 @@
     {
       "start": 864.54,
       "end": 865.4,
-      "text": "\"Maybe you saw her first,",
-      "para_break": true
+      "text": "\"Maybe you saw her first,"
     },
     {
       "start": 865.5,
@@ -421,16 +420,10 @@
     {
       "start": 878.34,
       "end": 878.92,
-      "text": "\"You've got brains,",
-      "para_break": true
+      "text": "\"You've got brains,"
     },
     {
       "start": 879.1,
-      "end": 879.32,
-      "text": "yes"
-    },
-    {
-      "start": 879.32,
       "end": 879.7,
       "text": "yes you have.\""
     },
@@ -442,8 +435,7 @@
     {
       "start": 882.976,
       "end": 883.94,
-      "text": "End of chapter 1",
-      "para_break": true
+      "text": "End of chapter 1"
     }
   ]
 }

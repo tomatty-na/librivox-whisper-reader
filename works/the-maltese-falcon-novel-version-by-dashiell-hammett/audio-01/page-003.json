@@ -87,8 +87,7 @@
     {
       "start": 540.68,
       "end": 541.56,
-      "text": "She looked at the bag",
-      "para_break": true
+      "text": "She looked at the bag"
     },
     {
       "start": 541.56,
@@ -110,7 +109,7 @@
     {
       "start": 551.38,
       "end": 552.58,
-      "text": "While the girl looked at her bag,"
+      "text": "While the girl looked at her bag"
     },
     {
       "start": 552.78,
@@ -135,8 +134,7 @@
     {
       "start": 560.8,
       "end": 563.96,
-      "text": "Then he looked at Spade and made a silent whistling mouth of",
-      "para_break": true
+      "text": "Then he looked at Spade and made a silent whistling mouth of"
     },
     {
       "start": 564.02,
@@ -152,23 +150,23 @@
     {
       "start": 567.7,
       "end": 569.84,
-      "text": "chair in a brief warning gesture and said,"
+      "text": "chair in a brief warning gesture and said:"
     },
     {
       "start": 570.3,
       "end": 572.4,
-      "text": "\"We shouldn't have any trouble with it."
+      "text": "\"We shouldn't have any trouble with it.",
+      "para_break": true
     },
     {
       "start": 573.088,
       "end": 575.86,
-      "text": "It's simply a matter of having a man at the hotel this evening",
-      "para_break": true
+      "text": "It's simply a matter of having a man at the hotel this evening"
     },
     {
       "start": 576.02,
       "end": 578.68,
-      "text": "to shadow him away when he leaves and"
+      "text": "to shadow him away when he leaves, and"
     },
     {
       "start": 578.688,
@@ -178,7 +176,7 @@
     {
       "start": 581.65,
       "end": 584.86,
-      "text": "If she comes with him and you persuade her to return with you,"
+      "text": "If she comes with him, and you persuade her to return with you,"
     },
     {
       "start": 584.9,
@@ -188,12 +186,12 @@
     {
       "start": 586.24,
       "end": 586.66,
-      "text": "Otherwise,"
+      "text": "Otherwise—if"
     },
     {
       "start": 586.76,
       "end": 589.8,
-      "text": "if she doesn't want to leave him after we've found her,"
+      "text": "she doesn't want to leave him after we've found her—"
     },
     {
       "start": 589.92,
@@ -203,19 +201,18 @@
     {
       "start": 591.16,
       "end": 593.14,
-      "text": "we'll find a way of managing that.\"",
-      "para_break": true
+      "text": "we'll find a way of managing that.\""
     },
     {
       "start": 594.24,
       "end": 594.7,
-      "text": "Archer said,",
-      "para_break": true
+      "text": "Archer said:"
     },
     {
       "start": 594.94,
       "end": 595.34,
-      "text": "\"Yeh.\""
+      "text": "\"Yeh.\"",
+      "para_break": true
     },
     {
       "start": 595.56,
@@ -230,8 +227,7 @@
     {
       "start": 598.22,
       "end": 599.88,
-      "text": "Miss Wonderly looked up at Spade quickly,",
-      "para_break": true
+      "text": "Miss Wonderly looked up at Spade, quickly,"
     },
     {
       "start": 600.06,
@@ -262,8 +258,7 @@
     {
       "start": 609.824,
       "end": 611.3,
-      "text": "I'm deathly afraid of him,",
-      "para_break": true
+      "text": "\"I'm deathly afraid of him,"
     },
     {
       "start": 611.38,
@@ -383,8 +378,7 @@
     {
       "start": 654.976,
       "end": 655.74,
-      "text": "Mightn't he do that?\"",
-      "para_break": true
+      "text": "Mightn't he do that?\""
     },
     {
       "start": 657.02,
@@ -426,7 +420,7 @@
     {
       "start": 670.3,
       "end": 671.16,
-      "text": "but if he didn't,"
+      "text": "but if he didn't"
     },
     {
       "start": 671.16,
@@ -468,7 +462,7 @@
     {
       "start": 684.66,
       "end": 686.92,
-      "text": "He has a wife and three children in England."
+      "text": "\"He has a wife and three children in England."
     },
     {
       "start": 687.52,
@@ -483,7 +477,8 @@
     {
       "start": 691.24,
       "end": 692.44,
-      "text": "\"They usually do,\""
+      "text": "\"They usually do,\"",
+      "para_break": true
     },
     {
       "start": 692.66,
@@ -498,19 +493,18 @@
     {
       "start": 695.86,
       "end": 698.94,
-      "text": "He leaned forward to reach for pencil and pad of paper.",
-      "para_break": true
+      "text": "He leaned forward to reach for pencil and pad of paper."
     },
     {
       "start": 699.72,
       "end": 700.54,
-      "text": "What does he look like?",
-      "para_break": true
+      "text": "\"What does he look like?\""
     },
     {
       "start": 701.16,
       "end": 701.98,
-      "text": "\"Oh,"
+      "text": "\"Oh,",
+      "para_break": true
     },
     {
       "start": 702.08,
@@ -596,8 +590,7 @@
     {
       "start": 724.6,
       "end": 725.26,
-      "text": "\"What color eyes?\"",
-      "para_break": true
+      "text": "\"What color eyes?\""
     },
     {
       "start": 726.656,

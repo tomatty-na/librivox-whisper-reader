@@ -269,8 +269,7 @@
     {
       "start": 102.02,
       "end": 102.86,
-      "text": "She advanced slowly,",
-      "para_break": true
+      "text": "She advanced slowly,"
     },
     {
       "start": 103.04,
@@ -290,7 +289,8 @@
     {
       "start": 109.4,
       "end": 110.2,
-      "text": "She was tall and"
+      "text": "She was tall and",
+      "para_break": true
     },
     {
       "start": 110.34,
@@ -454,7 +454,7 @@
     {
       "start": 178.336,
       "end": 179.6,
-      "text": "Somewhere in a neighboring office,"
+      "text": "Somewhere in a neighboring office"
     },
     {
       "start": 179.76,
@@ -571,7 +571,7 @@
     {
       "start": 224.82,
       "end": 225.32,
-      "text": "\"Now,"
+      "text": "\"Now"
     },
     {
       "start": 226.14,
