@@ -16,7 +16,7 @@
     {
       "start": 240.78,
       "end": 241.86,
-      "text": "How should _I_ know?",
+      "text": "\"How should _I_ know?\"",
       "para_break": true
     },
     {
@@ -37,7 +37,7 @@
     {
       "start": 244.13,
       "end": 245.68,
-      "text": "It's no business of _mine_."
+      "text": "\"It's no business of _mine_.\""
     },
     {
       "start": 246.42,
@@ -48,33 +48,33 @@
     {
       "start": 248.48,
       "end": 251.12,
-      "text": "and after glaring at her for a moment like a wild beast,"
+      "text": "and, after glaring at her for a moment like a wild beast,"
     },
     {
       "start": 251.34,
       "end": 251.84,
-      "text": "screamed,"
+      "text": "screamed"
     },
     {
       "start": 252.6,
       "end": 253.5,
-      "text": "Off with her head!"
+      "text": "\"Off with her head!"
     },
     {
       "start": 253.7,
       "end": 254.3,
-      "text": "Off!"
+      "text": "Off----\""
     },
     {
       "start": 254.78,
       "end": 255.58,
-      "text": "Nonsense,",
+      "text": "\"Nonsense!\"",
       "para_break": true
     },
     {
       "start": 255.92,
       "end": 258.06,
-      "text": "said Alice very loudly and decidedly,"
+      "text": "said Alice, very loudly and decidedly,"
     },
     {
       "start": 258.08,
@@ -84,51 +84,51 @@
     {
       "start": 260.28,
       "end": 263.38,
-      "text": "The King laid his hand upon her arm and timidly said,",
+      "text": "The King laid his hand upon her arm, and timidly said",
       "para_break": true
     },
     {
-      "start": 263.94,
-      "end": 264.44,
-      "text": "Consider,"
+      "start": 263.44,
+      "end": 264.42,
+      "text": "\"Consider"
     },
     {
-      "start": 264.56,
-      "end": 264.9,
-      "text": "my dear,"
+      "start": 264.42,
+      "end": 264.88,
+      "text": "my dear:"
     },
     {
       "start": 265.0,
       "end": 266.02,
-      "text": "she is only a child."
+      "text": "she is only a child!\""
     },
     {
       "start": 267.04,
       "end": 270.1,
-      "text": "The Queen turned angrily away from him and said to the Knave,",
+      "text": "The Queen turned angrily away from him, and said to the Knave",
       "para_break": true
     },
     {
       "start": 270.58,
       "end": 271.1,
-      "text": "Turn them over!"
+      "text": "\"Turn them over!\""
     },
     {
       "start": 272.32,
       "end": 274.54,
-      "text": "The Knave did so very carefully with one foot.",
+      "text": "The Knave did so, very carefully, with one foot.",
       "para_break": true
     },
     {
       "start": 275.21,
       "end": 278.74,
-      "text": "Get up! said the Queen, in a shrill, loud voice,",
+      "text": "\"Get up!\" said the Queen, in a shrill, loud voice,",
       "para_break": true
     },
     {
       "start": 279.3,
       "end": 282.08,
-      "text": "and the three gardeners instantly jumped up and began"
+      "text": "and the three gardeners instantly jumped up, and began"
     },
     {
       "start": 282.22,
@@ -138,13 +138,13 @@
     {
       "start": 287.456,
       "end": 288.72,
-      "text": "Leave off that! screamed the",
+      "text": "\"Leave off that!\" screamed the",
       "para_break": true
     },
     {
       "start": 288.82,
       "end": 289.92,
-      "text": "Queen. You make me giddy."
+      "text": "Queen. \"You make me giddy.\""
     },
     {
       "start": 290.96,
@@ -154,17 +154,17 @@
     {
       "start": 292.74,
       "end": 295.1,
-      "text": "she went on, What _have_ you been doing"
+      "text": "she went on, \"What _have_ you been doing"
     },
     {
       "start": 295.14,
       "end": 295.34,
-      "text": "here?"
+      "text": "here?\""
     },
     {
       "start": 295.9,
       "end": 298.34,
-      "text": "May it please your Majesty, said Two, in a very",
+      "text": "\"May it please your Majesty,\" said Two, in a very",
       "para_break": true
     },
     {
@@ -175,12 +175,12 @@
     {
       "start": 301.46,
       "end": 302.32,
-      "text": "we were trying."
+      "text": "\"we were trying----\""
     },
     {
       "start": 302.5,
       "end": 303.24,
-      "text": "_I_ see,",
+      "text": "\"_I_ see!\"",
       "para_break": true
     },
     {
@@ -196,12 +196,12 @@
     {
       "start": 308.0,
       "end": 308.82,
-      "text": "Off with their heads!"
+      "text": "\"Off with their heads!\""
     },
     {
       "start": 309.12,
       "end": 311.24,
-      "text": "And the procession moved on,"
+      "text": "and the procession moved on,"
     },
     {
       "start": 311.36,
@@ -221,7 +221,7 @@
     {
       "start": 318.9,
       "end": 319.9,
-      "text": "You shan't be beheaded,",
+      "text": "\"You shan't be beheaded!\"",
       "para_break": true
     },
     {
@@ -262,7 +262,7 @@
     {
       "start": 331.1,
       "end": 332.02,
-      "text": "Are their heads off?",
+      "text": "\"Are their heads off?\"",
       "para_break": true
     },
     {
@@ -273,12 +273,13 @@
     {
       "start": 333.34,
       "end": 334.5,
-      "text": "Their heads are gone,"
+      "text": "\"Their heads are gone,",
+      "para_break": true
     },
     {
       "start": 334.56,
       "end": 335.56,
-      "text": "if it please your Majesty,"
+      "text": "if it please your Majesty!\""
     },
     {
       "start": 335.9,
@@ -288,7 +289,7 @@
     {
       "start": 338.432,
       "end": 338.74,
-      "text": "That's right,",
+      "text": "\"That's right!\"",
       "para_break": true
     },
     {
@@ -299,12 +300,12 @@
     {
       "start": 340.4,
       "end": 341.28,
-      "text": "Can you play croquet?"
+      "text": "\"Can you play croquet?\""
     },
     {
       "start": 342.35,
       "end": 344.96,
-      "text": "The soldiers were silent and looked at Alice,",
+      "text": "The soldiers were silent, and looked at Alice,",
       "para_break": true
     },
     {
@@ -315,7 +316,7 @@
     {
       "start": 348.46,
       "end": 348.74,
-      "text": "Yes,",
+      "text": "\"Yes!\"",
       "para_break": true
     },
     {
@@ -326,7 +327,7 @@
     {
       "start": 351.32,
       "end": 351.86,
-      "text": "Come on, then!",
+      "text": "\"Come on, then!\"",
       "para_break": true
     },
     {
@@ -347,7 +348,7 @@
     {
       "start": 358.048,
       "end": 359.52,
-      "text": "It's--it's a very fine day,",
+      "text": "\"It's--it's a very fine day!\"",
       "para_break": true
     },
     {
@@ -368,29 +369,29 @@
     {
       "start": 366.64,
       "end": 367.08,
-      "text": "Very,",
+      "text": "\"Very,\"",
       "para_break": true
     },
     {
       "start": 367.26,
       "end": 367.72,
-      "text": "said Alice."
+      "text": "said Alice:"
     },
     {
       "start": 368.88,
       "end": 369.57,
-      "text": "where's the Duchess?"
+      "text": "\"----where's the Duchess?\""
     },
     {
       "start": 370.18,
       "end": 371.1,
-      "text": "Hush,",
+      "text": "\"Hush!",
       "para_break": true
     },
     {
       "start": 371.1,
       "end": 371.56,
-      "text": "hush,"
+      "text": "Hush!\""
     },
     {
       "start": 371.69,
@@ -420,17 +421,17 @@
     {
       "start": 380.76,
       "end": 381.5,
-      "text": "and whispered,"
+      "text": "and whispered"
     },
     {
       "start": 381.52,
       "end": 383.26,
-      "text": "She's under sentence of execution."
+      "text": "\"She's under sentence of execution.\""
     },
     {
       "start": 383.96,
       "end": 385.1,
-      "text": "What for?",
+      "text": "\"What for?\"",
       "para_break": true
     },
     {
@@ -441,7 +442,7 @@
     {
       "start": 386.5,
       "end": 387.68,
-      "text": "Did you say 'What a pity!'?"
+      "text": "\"Did you say 'What a pity!'?\""
     },
     {
       "start": 387.88,
@@ -451,7 +452,7 @@
     {
       "start": 389.38,
       "end": 389.64,
-      "text": "No,",
+      "text": "\"No,",
       "para_break": true
     },
     {
@@ -462,22 +463,22 @@
     {
       "start": 390.18,
       "end": 390.64,
-      "text": "said Alice."
+      "text": "said Alice:"
     },
     {
       "start": 391.02,
       "end": 392.34,
-      "text": "I don't think it's at all a pity."
+      "text": "\"I don't think it's at all a pity."
     },
     {
       "start": 392.96,
       "end": 393.62,
-      "text": "I said 'What for?'"
+      "text": "I said 'What for?'\""
     },
     {
       "start": 394.56,
       "end": 396.14,
-      "text": "She boxed the Queen's ears,",
+      "text": "\"She boxed the Queen's ears--\"",
       "para_break": true
     },
     {
@@ -493,12 +494,12 @@
     {
       "start": 400.46,
       "end": 400.7,
-      "text": "Oh,"
+      "text": "\"Oh,"
     },
     {
       "start": 400.7,
       "end": 401.1,
-      "text": "hush,"
+      "text": "hush!\""
     },
     {
       "start": 401.24,
@@ -508,12 +509,12 @@
     {
       "start": 403.5,
       "end": 404.42,
-      "text": "The Queen will hear you."
+      "text": "\"The Queen will hear you!"
     },
     {
       "start": 404.94,
       "end": 405.22,
-      "text": "You see,"
+      "text": "You see"
     },
     {
       "start": 405.26,
@@ -523,13 +524,13 @@
     {
       "start": 406.62,
       "end": 407.5,
-      "text": "and the Queen said,",
-      "para_break": true
+      "text": "and the Queen said----\""
     },
     {
       "start": 407.98,
       "end": 408.96,
-      "text": "Get to your places,"
+      "text": "\"Get to your places!\"",
+      "para_break": true
     },
     {
       "start": 409.51,
@@ -544,12 +545,12 @@
     {
       "start": 414.56,
       "end": 415.9,
-      "text": "tumbling up against each other."
+      "text": "tumbling up against each other;"
     },
     {
       "start": 416.28,
       "end": 416.62,
-      "text": "However,"
+      "text": "however,"
     },
     {
       "start": 416.78,
@@ -564,23 +565,22 @@
     {
       "start": 420.8,
       "end": 422.46,
-      "text": "Alice thought she had never seen such a",
-      "para_break": true
+      "text": "Alice thought she had never seen such a"
     },
     {
       "start": 422.46,
       "end": 424.6,
-      "text": "curious croquet-ground in all her life."
+      "text": "curious croquet-ground in all her life;"
     },
     {
       "start": 425.26,
       "end": 426.68,
-      "text": "It was all ridges and furrows."
+      "text": "it was all ridges and furrows;"
     },
     {
       "start": 427.28,
       "end": 428.63,
-      "text": "The balls were live hedgehogs,"
+      "text": "the balls were live hedgehogs,"
     },
     {
       "start": 428.8,
@@ -595,7 +595,7 @@
     {
       "start": 433.34,
       "end": 435.56,
-      "text": "stand upon their hands and feet to make the arches."
+      "text": "stand upon their hands and feet, to make the arches."
     },
     {
       "start": 436.24,
@@ -606,7 +606,7 @@
     {
       "start": 437.92,
       "end": 439.94,
-      "text": "first was in managing her flamingo."
+      "text": "first was in managing her flamingo;"
     },
     {
       "start": 440.62,
@@ -666,12 +666,12 @@
     {
       "start": 459.22,
       "end": 459.74,
-      "text": "out laughing."
+      "text": "out laughing:"
     },
     {
       "start": 460.38,
       "end": 463.34,
-      "text": "And when she had got its head down and was going to begin again,"
+      "text": "and when she had got its head down, and was going to begin again,"
     },
     {
       "start": 463.54,
@@ -686,12 +686,12 @@
     {
       "start": 466.58,
       "end": 468.48,
-      "text": "itself and was in the act of crawling away."
+      "text": "itself and was in the act of crawling away:"
     },
     {
       "start": 469.52,
       "end": 470.18,
-      "text": "Besides all this,"
+      "text": "besides all this,"
     },
     {
       "start": 470.38,
@@ -706,7 +706,7 @@
     {
       "start": 475.34,
       "end": 477.6,
-      "text": "and as the doubled-up soldiers were always getting"
+      "text": "and, as the doubled-up soldiers were always getting"
     },
     {
       "start": 477.6,

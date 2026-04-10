@@ -10,7 +10,7 @@
   "page_num": 1,
   "page_total": 4,
   "page_start_sec": 0.54,
-  "page_end_sec": 240.56,
+  "page_end_sec": 240.76,
   "corrected": "claude",
   "segments": [
     {
@@ -27,13 +27,13 @@
     {
       "start": 9.23,
       "end": 12.74,
-      "text": "A large rose-tree stood near the entrance of the garden.",
+      "text": "A LARGE rose-tree stood near the entrance of the garden:",
       "para_break": true
     },
     {
       "start": 13.28,
       "end": 15.06,
-      "text": "The roses growing on it were white,"
+      "text": "the roses growing on it were white,"
     },
     {
       "start": 15.54,
@@ -53,38 +53,38 @@
     {
       "start": 23.456,
       "end": 26.16,
-      "text": "and just as she came up to them she heard one of them say,"
+      "text": "and just as she came up to them she heard one of them say"
     },
     {
       "start": 26.96,
       "end": 27.5,
-      "text": "Look out now,"
+      "text": "\"Look out now,"
     },
     {
       "start": 27.54,
       "end": 27.8,
-      "text": "Five."
+      "text": "Five!"
     },
     {
       "start": 28.0,
       "end": 30.0,
-      "text": "Don't go splashing paint over me like that."
+      "text": "Don't go splashing paint over me like that!\""
     },
     {
       "start": 30.94,
       "end": 32.5,
-      "text": "I couldn't help it,",
+      "text": "\"I couldn't help it,\"",
       "para_break": true
     },
     {
       "start": 32.56,
       "end": 33.86,
-      "text": "said Five in a sulky tone."
+      "text": "said Five, in a sulky tone."
     },
     {
       "start": 34.1,
       "end": 35.5,
-      "text": "Seven jogged my elbow."
+      "text": "\"Seven jogged my elbow.\""
     },
     {
       "start": 36.72,
@@ -95,22 +95,22 @@
     {
       "start": 39.264,
       "end": 39.76,
-      "text": "That's right,"
+      "text": "\"That's right,"
     },
     {
       "start": 39.88,
       "end": 40.06,
-      "text": "Five."
+      "text": "Five!"
     },
     {
       "start": 40.24,
       "end": 42.06,
-      "text": "Always lay the blame on others."
+      "text": "Always lay the blame on others!\""
     },
     {
       "start": 43.616,
       "end": 44.64,
-      "text": "_You'd_ better not talk,",
+      "text": "\"_You'd_ better not talk!\"",
       "para_break": true
     },
     {
@@ -121,12 +121,12 @@
     {
       "start": 45.44,
       "end": 49.3,
-      "text": "I heard the Queen say only yesterday you deserved to be beheaded."
+      "text": "\"I heard the Queen say only yesterday you deserved to be beheaded!\""
     },
     {
       "start": 50.78,
       "end": 51.0,
-      "text": "What for?",
+      "text": "\"What for?\"",
       "para_break": true
     },
     {
@@ -137,13 +137,13 @@
     {
       "start": 54.72,
       "end": 56.12,
-      "text": "That's none of _your_ business,",
+      "text": "\"That's none of _your_ business,",
       "para_break": true
     },
     {
       "start": 56.16,
       "end": 56.32,
-      "text": "Two,"
+      "text": "Two!\""
     },
     {
       "start": 56.5,
@@ -153,59 +153,59 @@
     {
       "start": 58.32,
       "end": 58.92,
-      "text": "Yes,",
+      "text": "\"Yes,",
       "para_break": true
     },
     {
       "start": 59.0,
       "end": 60.16,
-      "text": "it is his business,"
+      "text": "it _is_ his business!\""
     },
     {
       "start": 60.34,
       "end": 60.82,
-      "text": "said Five,"
+      "text": "said Five."
     },
     {
       "start": 61.0,
       "end": 61.8,
-      "text": "and I'll tell him."
+      "text": "\"And I'll tell him--it was for"
     },
     {
       "start": 62.7,
       "end": 65.44,
-      "text": "It was for bringing the cook tulip-roots instead of onions."
+      "text": "bringing the cook tulip-roots instead of onions.\""
     },
     {
       "start": 66.976,
       "end": 69.32,
-      "text": "Seven flung down his brush, and had just begun,",
+      "text": "Seven flung down his brush, and had just begun",
       "para_break": true
     },
     {
       "start": 69.5,
       "end": 69.78,
-      "text": "well,"
+      "text": "\"Well,"
     },
     {
       "start": 69.8,
       "end": 71.52,
-      "text": "of all the unjust things,"
+      "text": "of all the unjust things----\""
     },
     {
       "start": 72.22,
       "end": 75.84,
-      "text": "when his eye chanced to fall upon Alice as she stood watching them,"
+      "text": "when his eye chanced to fall upon Alice, as she stood watching them,"
     },
     {
       "start": 76.3,
       "end": 77.5,
-      "text": "and he checked himself suddenly."
+      "text": "and he checked himself suddenly:"
     },
     {
       "start": 78.0,
       "end": 79.38,
-      "text": "The others looked round also,"
+      "text": "the others looked round also,"
     },
     {
       "start": 79.52,
@@ -215,7 +215,7 @@
     {
       "start": 81.17,
       "end": 82.46,
-      "text": "Would you tell me,",
+      "text": "\"Would you tell me,\"",
       "para_break": true
     },
     {
@@ -231,7 +231,7 @@
     {
       "start": 84.08,
       "end": 85.8,
-      "text": "why you are painting those roses?"
+      "text": "\"why you are painting those roses?\""
     },
     {
       "start": 87.82,
@@ -247,12 +247,12 @@
     {
       "start": 90.72,
       "end": 92.12,
-      "text": "Two began in a low voice."
+      "text": "Two began in a low voice,"
     },
     {
       "start": 92.86,
       "end": 93.08,
-      "text": "Why,"
+      "text": "\"Why,"
     },
     {
       "start": 93.14,
@@ -277,12 +277,12 @@
     {
       "start": 97.32,
       "end": 99.18,
-      "text": "and we put a white one in by mistake."
+      "text": "and we put a white one in by mistake;"
     },
     {
       "start": 99.82,
       "end": 101.32,
-      "text": "And if the Queen was to find it out,"
+      "text": "and if the Queen was to find it out,"
     },
     {
       "start": 101.34,
@@ -317,27 +317,27 @@
     {
       "start": 107.36,
       "end": 108.74,
-      "text": "to---- At this moment,"
+      "text": "to----\" At this moment,"
     },
     {
       "start": 108.9,
       "end": 112.32,
-      "text": "Five, who had been anxiously looking across the garden, called out,"
+      "text": "Five, who had been anxiously looking across the garden, called out"
     },
     {
       "start": 112.4,
       "end": 112.92,
-      "text": "The Queen!"
+      "text": "\"The Queen!"
     },
     {
       "start": 113.32,
       "end": 113.6,
-      "text": "The Queen!"
+      "text": "The Queen!\""
     },
     {
       "start": 113.88,
       "end": 115.64,
-      "text": "And the three gardeners"
+      "text": "and the three gardeners"
     },
     {
       "start": 115.64,
@@ -362,13 +362,13 @@
     {
       "start": 124.224,
       "end": 126.26,
-      "text": "First came ten soldiers carrying clubs.",
+      "text": "First came ten soldiers carrying clubs;",
       "para_break": true
     },
     {
       "start": 127.12,
       "end": 129.24,
-      "text": "These were all shaped like the three gardeners,"
+      "text": "these were all shaped like the three gardeners,"
     },
     {
       "start": 129.62,
@@ -378,22 +378,22 @@
     {
       "start": 130.48,
       "end": 132.14,
-      "text": "with their hands and feet at the corners."
+      "text": "with their hands and feet at the corners:"
     },
     {
       "start": 132.36,
       "end": 133.28,
-      "text": "Next,"
+      "text": "next"
     },
     {
       "start": 133.38,
       "end": 134.22,
-      "text": "the ten courtiers."
+      "text": "the ten courtiers;"
     },
     {
       "start": 134.48,
       "end": 135.14,
-      "text": "These were"
+      "text": "these were"
     },
     {
       "start": 135.42,
@@ -413,12 +413,12 @@
     {
       "start": 140.32,
       "end": 141.82,
-      "text": "After these came the royal children."
+      "text": "After these came the royal children;"
     },
     {
       "start": 142.36,
       "end": 143.1,
-      "text": "There were ten of them,"
+      "text": "there were ten of them,"
     },
     {
       "start": 143.28,
@@ -433,12 +433,12 @@
     {
       "start": 146.72,
       "end": 147.14,
-      "text": "in couples."
+      "text": "in couples;"
     },
     {
       "start": 147.98,
       "end": 149.38,
-      "text": "They were all ornamented with hearts."
+      "text": "they were all ornamented with hearts."
     },
     {
       "start": 150.4,
@@ -453,12 +453,12 @@
     {
       "start": 152.98,
       "end": 155.58,
-      "text": "and among them Alice recognised the White Rabbit."
+      "text": "and among them Alice recognised the White Rabbit:"
     },
     {
       "start": 156.08,
       "end": 156.88,
-      "text": "It was talking in"
+      "text": "it was talking in"
     },
     {
       "start": 156.88,
@@ -488,7 +488,7 @@
     {
       "start": 164.16,
       "end": 166.84,
-      "text": "carrying the King's crown on a crimson velvet cushion,"
+      "text": "carrying the King's crown on a crimson velvet cushion;"
     },
     {
       "start": 167.42,
@@ -498,7 +498,7 @@
     {
       "start": 169.14,
       "end": 170.9,
-      "text": "came the King and Queen of Hearts."
+      "text": "came THE KING AND QUEEN OF HEARTS."
     },
     {
       "start": 171.68,
@@ -519,17 +519,17 @@
     {
       "start": 178.46,
       "end": 180.18,
-      "text": "heard of such a rule at processions."
+      "text": "heard of such a rule at processions;"
     },
     {
       "start": 180.96,
       "end": 181.32,
-      "text": "And besides,"
+      "text": "\"and besides,"
     },
     {
       "start": 181.44,
       "end": 183.08,
-      "text": "what would be the use of a procession,"
+      "text": "what would be the use of a procession,\""
     },
     {
       "start": 183.26,
@@ -544,12 +544,12 @@
     {
       "start": 186.02,
       "end": 187.82,
-      "text": "faces so that they couldn't see it?"
+      "text": "faces, so that they couldn't see it?\""
     },
     {
       "start": 188.6,
       "end": 190.72,
-      "text": "So she stood still where she was and waited."
+      "text": "So she stood still where she was, and waited."
     },
     {
       "start": 191.05,
@@ -570,13 +570,12 @@
     {
       "start": 197.86,
       "end": 198.6,
-      "text": "Who is this?"
+      "text": "\"Who is this?\""
     },
     {
       "start": 199.56,
       "end": 201.04,
-      "text": "She said it to the Knave of Hearts,",
-      "para_break": true
+      "text": "She said it to the Knave of Hearts,"
     },
     {
       "start": 201.16,
@@ -586,7 +585,7 @@
     {
       "start": 204.2,
       "end": 204.76,
-      "text": "Idiot,",
+      "text": "\"Idiot!\"",
       "para_break": true
     },
     {
@@ -597,7 +596,7 @@
     {
       "start": 205.76,
       "end": 207.18,
-      "text": "tossing her head impatiently,"
+      "text": "tossing her head impatiently;"
     },
     {
       "start": 207.18,
@@ -607,22 +606,22 @@
     {
       "start": 208.86,
       "end": 209.54,
-      "text": "she went on."
+      "text": "she went on,"
     },
     {
       "start": 210.304,
       "end": 210.9,
-      "text": "What's your name,"
+      "text": "\"What's your name,"
     },
     {
       "start": 210.96,
       "end": 211.32,
-      "text": "child?"
+      "text": "child?\""
     },
     {
       "start": 212.47,
       "end": 213.72,
-      "text": "My name is Alice,",
+      "text": "\"My name is Alice,",
       "para_break": true
     },
     {
@@ -633,17 +632,17 @@
     {
       "start": 215.2,
       "end": 216.94,
-      "text": "said Alice very politely,"
+      "text": "said Alice very politely;"
     },
     {
       "start": 217.28,
       "end": 218.12,
-      "text": "but she added to herself,"
+      "text": "but she added, to herself,"
     },
     {
       "start": 218.48,
       "end": 218.592,
-      "text": "Why,"
+      "text": "\"Why,"
     },
     {
       "start": 219.14,
@@ -658,12 +657,12 @@
     {
       "start": 221.54,
       "end": 222.64,
-      "text": "I needn't be afraid of them."
+      "text": "I needn't be afraid of them!\""
     },
     {
       "start": 224.18,
       "end": 225.06,
-      "text": "And who are _these_?",
+      "text": "\"And who are _these_?\"",
       "para_break": true
     },
     {
@@ -674,32 +673,17 @@
     {
       "start": 226.44,
       "end": 229.22,
-      "text": "pointing to the three gardeners who were lying round the rose"
+      "text": "pointing to the three gardeners who were lying round the rose-tree;"
     },
     {
-      "start": 229.32,
-      "end": 229.48,
-      "text": "tree."
+      "start": 229.58,
+      "end": 232.02,
+      "text": "for, you see, as they were lying on their faces,"
     },
     {
-      "start": 229.65,
-      "end": 230.52,
-      "text": "For you see,"
-    },
-    {
-      "start": 230.6,
-      "end": 232.06,
-      "text": "as they were lying on their faces,"
-    },
-    {
-      "start": 232.2,
-      "end": 233.86,
-      "text": "and the pattern on their backs was the"
-    },
-    {
-      "start": 233.86,
-      "end": 235.06,
-      "text": "same as the rest of the pack,"
+      "start": 232.0,
+      "end": 234.98,
+      "text": "and the pattern on their backs was the same as the rest of the pack,"
     },
     {
       "start": 235.26,
@@ -718,7 +702,7 @@
     },
     {
       "start": 239.56,
-      "end": 240.56,
+      "end": 241.76,
       "text": "or three of her own children."
     }
   ]
