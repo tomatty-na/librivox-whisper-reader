@@ -124,8 +124,7 @@
     {
       "start": 523.38,
       "end": 523.78,
-      "text": "\"Now",
-      "para_break": true
+      "text": "\"Now"
     },
     {
       "start": 524.42,
@@ -177,7 +176,7 @@
     {
       "start": 545.152,
       "end": 546.88,
-      "text": "\"Floyd came to the hotel at nine o'clock,\"",
+      "text": "\"Floyd came to the hotel at nine o'clock,",
       "para_break": true
     },
     {
@@ -238,7 +237,7 @@
     {
       "start": 569.64,
       "end": 570.0,
-      "text": "\"Down?\"",
+      "text": "\"Down?",
       "para_break": true
     },
     {
@@ -403,7 +402,8 @@
     {
       "start": 634.66,
       "end": 635.54,
-      "text": "He frowned."
+      "text": "He frowned.",
+      "para_break": true
     },
     {
       "start": 636.54,
@@ -420,8 +420,7 @@
     {
       "start": 641.72,
       "end": 643.42,
-      "text": "\"Stop waving the hat in my face.",
-      "para_break": true
+      "text": "\"Stop waving the hat in my face."
     },
     {
       "start": 644.256,
@@ -483,13 +482,13 @@
     {
       "start": 667.73,
       "end": 669.08,
-      "text": "\"I met him in the Orient,\"",
+      "text": "\"I met him in the Orient.\"",
       "para_break": true
     },
     {
       "start": 669.34,
       "end": 670.2,
-      "text": "she spoke slowly,"
+      "text": "She spoke slowly,"
     },
     {
       "start": 670.52,
@@ -605,8 +604,7 @@
     {
       "start": 711.78,
       "end": 712.3,
-      "text": "\"Yes,",
-      "para_break": true
+      "text": "\"Yes,"
     },
     {
       "start": 712.3,

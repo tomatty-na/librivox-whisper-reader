@@ -21,14 +21,12 @@
     {
       "start": 5.86,
       "end": 8.1,
-      "text": "This LibriVox recording is in the public domain.",
-      "para_break": true
+      "text": "This LibriVox recording is in the public domain."
     },
     {
       "start": 9.46,
       "end": 10.16,
-      "text": "Three Women",
-      "para_break": true
+      "text": "Three Women"
     },
     {
       "start": 11.36,
@@ -74,8 +72,7 @@
     {
       "start": 31.28,
       "end": 32.98,
-      "text": "\"I asked you to keep her away,\"",
-      "para_break": true
+      "text": "\"I asked you to keep her away,\""
     },
     {
       "start": 33.3,
@@ -85,7 +82,8 @@
     {
       "start": 35.0,
       "end": 36.62,
-      "text": "He too kept his voice low."
+      "text": "He too kept his voice low.",
+      "para_break": true
     },
     {
       "start": 37.952,
@@ -224,12 +222,12 @@
     {
       "start": 82.7,
       "end": 83.64,
-      "text": "Her body,"
+      "text": "Her body"
     },
     {
       "start": 83.66,
       "end": 84.61,
-      "text": "for all its sturdiness,"
+      "text": "for all its sturdiness"
     },
     {
       "start": 85.12,
@@ -244,12 +242,12 @@
     {
       "start": 90.84,
       "end": 91.44,
-      "text": "They had,"
+      "text": "They had"
     },
     {
       "start": 91.58,
       "end": 92.08,
-      "text": "as mourning,"
+      "text": "as mourning"
     },
     {
       "start": 92.28,
@@ -300,7 +298,8 @@
     {
       "start": 112.32,
       "end": 113.25,
-      "text": "When they had kissed"
+      "text": "When they had kissed",
+      "para_break": true
     },
     {
       "start": 113.36,

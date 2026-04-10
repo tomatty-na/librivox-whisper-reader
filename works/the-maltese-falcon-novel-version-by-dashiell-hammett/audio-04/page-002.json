@@ -47,7 +47,7 @@
     {
       "start": 255.6,
       "end": 256.0,
-      "text": "\"Out there,"
+      "text": "\"Out there"
     },
     {
       "start": 256.08,
@@ -78,7 +78,7 @@
     {
       "start": 268.44,
       "end": 270.48,
-      "text": "she replied in a thin,"
+      "text": "she replied in a thin"
     },
     {
       "start": 270.52,
@@ -93,8 +93,7 @@
     {
       "start": 275.16,
       "end": 275.3,
-      "text": "\"Mr.",
-      "para_break": true
+      "text": "\"Mr."
     },
     {
       "start": 275.46,
@@ -165,30 +164,42 @@
       "text": "will rock them to sleep, if necessary.\""
     },
     {
-      "start": 302.98,
-      "end": 305.16,
-      "text": "\"You don't think I had anything to do with the—",
+      "start": 302.54,
+      "end": 305.28,
+      "text": "You don't think I had anything to do with",
       "para_break": true
     },
     {
-      "start": 305.23,
-      "end": 310.5,
-      "text": "the murders—do you?\" Spade grinned at her and said:"
+      "start": 305.34,
+      "end": 308.16,
+      "text": "the—the murders—do you?\""
     },
     {
-      "start": 310.79,
-      "end": 313.48,
+      "start": 308.86,
+      "end": 310.44,
+      "text": "Spade grinned at her and said:",
+      "para_break": true
+    },
+    {
+      "start": 310.6,
+      "end": 313.4,
       "text": "\"I forgot to ask you that. Did you?\""
     },
     {
-      "start": 315.04,
-      "end": 319.46,
-      "text": "\"No.\" \"That's good. Now what are we going to tell the police?\"",
+      "start": 314.96,
+      "end": 315.28,
+      "text": "\"No.\"",
       "para_break": true
     },
     {
-      "start": 320.56,
-      "end": 322.24,
+      "start": 316.52,
+      "end": 319.38,
+      "text": "\"That's good. Now what are we going to tell the police?\"",
+      "para_break": true
+    },
+    {
+      "start": 320.48,
+      "end": 322.42,
       "text": "She squirmed on her end of the settee",
       "para_break": true
     },
@@ -730,8 +741,7 @@
     {
       "start": 487.92,
       "end": 488.34,
-      "text": "Spade.'\"",
-      "para_break": true
+      "text": "Spade.'\""
     }
   ]
 }

@@ -66,8 +66,7 @@
     {
       "start": 992.32,
       "end": 993.64,
-      "text": "\"The Remedial's the best place—",
-      "para_break": true
+      "text": "\"The Remedial's the best place—"
     },
     {
       "start": 993.86,
@@ -103,7 +102,7 @@
     {
       "start": 1008.22,
       "end": 1010.04,
-      "text": "He smoothed the bills out and counted them,",
+      "text": "He smoothed the bills out and counted them—",
       "para_break": true
     },
     {
@@ -251,7 +250,8 @@
     {
       "start": 1052.82,
       "end": 1053.6,
-      "text": "\"Hello,"
+      "text": "\"Hello,",
+      "para_break": true
     },
     {
       "start": 1053.72,
@@ -317,7 +317,8 @@
     {
       "start": 1069.88,
       "end": 1072.48,
-      "text": "He squeezed her shoulder by way of acknowledgment,"
+      "text": "He squeezed her shoulder by way of acknowledgment,",
+      "para_break": true
     },
     {
       "start": 1073.18,
@@ -368,8 +369,7 @@
     {
       "start": 1099.84,
       "end": 1100.52,
-      "text": "\"Pull a chair around.",
-      "para_break": true
+      "text": "\"Pull a chair around."
     },
     {
       "start": 1101.92,
@@ -379,8 +379,7 @@
     {
       "start": 1104.8,
       "end": 1107.98,
-      "text": "Neither his tired face nor his rather shrill voice held any emotion.",
-      "para_break": true
+      "text": "Neither his tired face nor his rather shrill voice held any emotion."
     },
     {
       "start": 1109.216,
@@ -396,8 +395,7 @@
     {
       "start": 1112.512,
       "end": 1113.98,
-      "text": "Spade frowned and cleared his throat.",
-      "para_break": true
+      "text": "Spade frowned and cleared his throat."
     },
     {
       "start": 1114.74,
@@ -500,8 +498,7 @@
     {
       "start": 1157.44,
       "end": 1158.22,
-      "text": "\"You're a son of a gun,",
-      "para_break": true
+      "text": "\"You're a son of a gun,"
     },
     {
       "start": 1158.32,
@@ -522,14 +519,12 @@
     {
       "start": 1165.92,
       "end": 1168.3,
-      "text": "Effie Perine was sitting at his desk reading _Time_.",
-      "para_break": true
+      "text": "Effie Perine was sitting at his desk reading _Time_."
     },
     {
       "start": 1169.728,
       "end": 1171.34,
-      "text": "Spade sat on the desk and asked:",
-      "para_break": true
+      "text": "Spade sat on the desk and asked:"
     },
     {
       "start": 1172.0,
@@ -658,7 +653,8 @@
     {
       "start": 1215.44,
       "end": 1216.74,
-      "text": "\"I wonder.\""
+      "text": "\"I wonder.\"",
+      "para_break": true
     },
     {
       "start": 1217.02,

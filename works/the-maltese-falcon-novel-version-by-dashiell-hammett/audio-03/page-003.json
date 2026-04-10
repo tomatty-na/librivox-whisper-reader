@@ -16,8 +16,7 @@
     {
       "start": 483.48,
       "end": 484.38,
-      "text": "He took out his lighter,",
-      "para_break": true
+      "text": "He took out his lighter,"
     },
     {
       "start": 484.52,
@@ -42,7 +41,7 @@
     {
       "start": 491.36,
       "end": 491.76,
-      "text": "\"a nice,"
+      "text": "\"a nice"
     },
     {
       "start": 491.76,
@@ -203,7 +202,8 @@
     {
       "start": 549.36,
       "end": 550.74,
-      "text": "She frowned at him and demanded:"
+      "text": "She frowned at him and demanded:",
+      "para_break": true
     },
     {
       "start": 551.44,
@@ -219,12 +219,14 @@
     {
       "start": 555.06,
       "end": 556.04,
-      "text": "\"Honestly?\""
+      "text": "\"Honestly?\"",
+      "para_break": true
     },
     {
       "start": 556.72,
       "end": 557.5,
-      "text": "\"Honestly."
+      "text": "\"Honestly.",
+      "para_break": true
     },
     {
       "start": 558.304,
@@ -267,7 +269,8 @@
     {
       "start": 573.34,
       "end": 574.0,
-      "text": "\"Thursby.\""
+      "text": "\"Thursby.\"",
+      "para_break": true
     },
     {
       "start": 574.36,
@@ -304,8 +307,7 @@
     {
       "start": 586.14,
       "end": 587.76,
-      "text": "\"They did have some such notion.",
-      "para_break": true
+      "text": "\"They did have some such notion."
     },
     {
       "start": 587.96,
@@ -332,12 +334,12 @@
     {
       "start": 594.48,
       "end": 594.84,
-      "text": "so that,"
+      "text": "so that"
     },
     {
       "start": 594.94,
       "end": 595.54,
-      "text": "for the moment,"
+      "text": "for the moment"
     },
     {
       "start": 595.7,
@@ -465,7 +467,8 @@
     {
       "start": 645.78,
       "end": 647.36,
-      "text": "\"She checked out this morning,"
+      "text": "\"She checked out this morning,",
+      "para_break": true
     },
     {
       "start": 647.56,
@@ -480,12 +483,13 @@
     {
       "start": 648.32,
       "end": 648.42,
-      "text": "\"Thanks.\""
+      "text": "\"Thanks.\"",
+      "para_break": true
     },
     {
       "start": 650.912,
       "end": 654.76,
-      "text": "Spade walked past the desk to an alcove off the lobby where a plump,",
+      "text": "Spade walked past the desk to an alcove off the lobby where a plump",
       "para_break": true
     },
     {
@@ -572,7 +576,8 @@
     {
       "start": 684.86,
       "end": 684.96,
-      "text": "\"Thanks,"
+      "text": "\"Thanks,",
+      "para_break": true
     },
     {
       "start": 685.46,
@@ -603,7 +608,7 @@
     {
       "start": 693.58,
       "end": 695.2,
-      "text": "I thought he was probably working,"
+      "text": "I thought he was probably working"
     },
     {
       "start": 695.34,
@@ -666,7 +671,8 @@
     {
       "start": 715.78,
       "end": 716.48,
-      "text": "\"Surely.\""
+      "text": "\"Surely.\"",
+      "para_break": true
     },
     {
       "start": 717.96,

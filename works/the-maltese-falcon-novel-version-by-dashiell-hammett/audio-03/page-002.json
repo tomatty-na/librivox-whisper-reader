@@ -22,12 +22,12 @@
     {
       "start": 243.32,
       "end": 244.26,
-      "text": "moving with easy,"
+      "text": "moving with easy"
     },
     {
       "start": 244.44,
       "end": 246.64,
-      "text": "sure-footed grace in black slippers,"
+      "text": "sure-footed grace in black slippers"
     },
     {
       "start": 247.28,
@@ -203,22 +203,26 @@
     {
       "start": 304.14,
       "end": 305.26,
-      "text": "\"Soon?\""
+      "text": "\"Soon?\"",
+      "para_break": true
     },
     {
       "start": 305.62,
       "end": 306.68,
-      "text": "\"Yes.\""
+      "text": "\"Yes.\"",
+      "para_break": true
     },
     {
       "start": 307.0,
       "end": 308.66,
-      "text": "\"How soon?\""
+      "text": "\"How soon?\"",
+      "para_break": true
     },
     {
       "start": 309.88,
       "end": 311.02,
-      "text": "\"As soon as I can.\""
+      "text": "\"As soon as I can.\"",
+      "para_break": true
     },
     {
       "start": 311.67,
@@ -413,7 +417,8 @@
     {
       "start": 380.17,
       "end": 383.66,
-      "text": "\"Who is he?\" she asked, separating a cigarette-paper"
+      "text": "\"Who is he?\" she asked, separating a cigarette-paper",
+      "para_break": true
     },
     {
       "start": 383.66,
@@ -423,7 +428,8 @@
     {
       "start": 387.06,
       "end": 388.76,
-      "text": "\"Who do you think I shot?\" he asked."
+      "text": "\"Who do you think I shot?\" he asked.",
+      "para_break": true
     },
     {
       "start": 389.82,
@@ -528,7 +534,8 @@
     {
       "start": 431.69,
       "end": 433.24,
-      "text": "He sighed and said:"
+      "text": "He sighed and said:",
+      "para_break": true
     },
     {
       "start": 433.48,
@@ -544,7 +551,7 @@
     {
       "start": 438.42,
       "end": 441.38,
-      "text": "a trace of spitefulness came into the girl's voice."
+      "text": "A trace of spitefulness came into the girl's voice."
     },
     {
       "start": 442.06,

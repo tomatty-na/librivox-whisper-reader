@@ -48,7 +48,8 @@
     {
       "start": 1473.06,
       "end": 1474.6,
-      "text": "When Spade had called,"
+      "text": "When Spade had called,",
+      "para_break": true
     },
     {
       "start": 1474.76,
@@ -68,8 +69,7 @@
     {
       "start": 1480.14,
       "end": 1481.84,
-      "text": "She had put on a small dark felt hat",
-      "para_break": true
+      "text": "She had put on a small dark felt hat"
     },
     {
       "start": 1482.14,
@@ -79,7 +79,8 @@
     {
       "start": 1485.14,
       "end": 1486.0,
-      "text": "\"Is there anything else?\""
+      "text": "\"Is there anything else?\"",
+      "para_break": true
     },
     {
       "start": 1486.2,
@@ -89,7 +90,8 @@
     {
       "start": 1487.54,
       "end": 1488.14,
-      "text": "\"No."
+      "text": "\"No.",
+      "para_break": true
     },
     {
       "start": 1488.56,
@@ -136,7 +138,7 @@
     {
       "start": 1502.496,
       "end": 1503.8,
-      "text": "Cairo smiled and took a short,",
+      "text": "Cairo smiled and took a short",
       "para_break": true
     },
     {

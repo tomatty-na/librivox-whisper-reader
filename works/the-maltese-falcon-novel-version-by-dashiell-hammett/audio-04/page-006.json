@@ -109,8 +109,7 @@
     {
       "start": 1253.824,
       "end": 1255.98,
-      "text": "Spade took off his hat and sat in his chair.",
-      "para_break": true
+      "text": "Spade took off his hat and sat in his chair."
     },
     {
       "start": 1256.43,
@@ -188,8 +187,7 @@
     {
       "start": 1276.62,
       "end": 1277.58,
-      "text": "A square-cut ruby,",
-      "para_break": true
+      "text": "A square-cut ruby,"
     },
     {
       "start": 1277.6,
@@ -229,8 +227,7 @@
     {
       "start": 1295.44,
       "end": 1298.6,
-      "text": "The uppers of his patent-leather shoes were hidden by fawn spats.",
-      "para_break": true
+      "text": "The uppers of his patent-leather shoes were hidden by fawn spats."
     },
     {
       "start": 1299.06,
@@ -302,7 +299,7 @@
     {
       "start": 1320.56,
       "end": 1321.48,
-      "text": "in a high-pitched,"
+      "text": "in a high-pitched"
     },
     {
       "start": 1321.48,
@@ -358,8 +355,7 @@
     {
       "start": 1336.6,
       "end": 1338.5,
-      "text": "The amiable negligence of his tone,",
-      "para_break": true
+      "text": "The amiable negligence of his tone,"
     },
     {
       "start": 1338.64,
@@ -405,8 +401,7 @@
     {
       "start": 1355.168,
       "end": 1358.14,
-      "text": "Diamonds twinkled on the second and fourth fingers of his left hand,",
-      "para_break": true
+      "text": "Diamonds twinkled on the second and fourth fingers of his left hand,"
     },
     {
       "start": 1358.94,
@@ -467,7 +462,8 @@
     {
       "start": 1382.41,
       "end": 1383.76,
-      "text": "\"May I ask,"
+      "text": "\"May I ask,",
+      "para_break": true
     },
     {
       "start": 1383.8,
@@ -648,8 +644,7 @@
     {
       "start": 1444.32,
       "end": 1446.46,
-      "text": "Cairo raised one hand from the desk-corner and",
-      "para_break": true
+      "text": "Cairo raised one hand from the desk-corner and"
     },
     {
       "start": 1446.46,

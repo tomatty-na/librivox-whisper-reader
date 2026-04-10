@@ -21,20 +21,17 @@
     {
       "start": 5.2,
       "end": 7.22,
-      "text": "This LibriVox recording is in the public domain.",
-      "para_break": true
+      "text": "This LibriVox recording is in the public domain."
     },
     {
       "start": 8.42,
       "end": 9.04,
-      "text": "THE BLACK BIRD",
-      "para_break": true
+      "text": "THE BLACK BIRD"
     },
     {
       "start": 10.2,
       "end": 10.88,
-      "text": "Miss Wonderly,",
-      "para_break": true
+      "text": "MISS WONDERLY,"
     },
     {
       "start": 10.9,
@@ -111,8 +108,7 @@
     {
       "start": 43.14,
       "end": 43.44,
-      "text": "\"Come in,",
-      "para_break": true
+      "text": "\"Come in,"
     },
     {
       "start": 43.48,
@@ -153,8 +149,7 @@
     {
       "start": 54.32,
       "end": 55.48,
-      "text": "\"Everything is upside-down.",
-      "para_break": true
+      "text": "\"Everything is upside-down."
     },
     {
       "start": 55.7,
@@ -170,8 +165,7 @@
     {
       "start": 62.78,
       "end": 66.06,
-      "text": "He sat on a brocaded oval-backed chair facing her.",
-      "para_break": true
+      "text": "He sat on a brocaded oval-backed chair facing her."
     },
     {
       "start": 67.0,
@@ -239,7 +233,7 @@
     {
       "start": 87.6,
       "end": 89.37,
-      "text": "and looked up at him now with miserable,"
+      "text": "and looked up at him now with miserable"
     },
     {
       "start": 89.72,
@@ -288,13 +282,13 @@
     {
       "start": 107.58,
       "end": 109.22,
-      "text": "She seemed to not know what he meant.",
-      "para_break": true
+      "text": "She seemed to not know what he meant."
     },
     {
       "start": 109.76,
       "end": 113.5,
-      "text": "\"I mean that you paid us more than if you'd been telling the truth,\""
+      "text": "\"I mean that you paid us more than if you'd been telling the truth,\"",
+      "para_break": true
     },
     {
       "start": 113.7,
@@ -367,8 +361,7 @@
     {
       "start": 139.44,
       "end": 139.84,
-      "text": "\"That depends,\"",
-      "para_break": true
+      "text": "\"That depends,\""
     },
     {
       "start": 140.22,
@@ -460,7 +453,8 @@
     {
       "start": 167.8,
       "end": 169.58,
-      "text": "He stopped talking"
+      "text": "He stopped talking",
+      "para_break": true
     },
     {
       "start": 169.72,
@@ -496,8 +490,7 @@
     {
       "start": 183.14,
       "end": 184.12,
-      "text": "\"Am I to blame for—",
-      "para_break": true
+      "text": "\"Am I to blame for—"
     },
     {
       "start": 184.24,
@@ -513,8 +506,7 @@
     {
       "start": 188.74,
       "end": 190.14,
-      "text": "\"Not unless there are things I don't",
-      "para_break": true
+      "text": "\"Not unless there are things I don't"
     },
     {
       "start": 190.24,

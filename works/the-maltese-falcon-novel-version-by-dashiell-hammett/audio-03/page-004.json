@@ -282,7 +282,7 @@
     {
       "start": 818.6,
       "end": 819.58,
-      "text": "If he comes back again,"
+      "text": "If he comes back again"
     },
     {
       "start": 819.76,
@@ -315,7 +315,8 @@
     {
       "start": 828.65,
       "end": 831.24,
-      "text": "The girl picked up a slip of paper from her"
+      "text": "The girl picked up a slip of paper from her",
+      "para_break": true
     },
     {
       "start": 831.24,
@@ -382,13 +383,13 @@
     {
       "start": 857.38,
       "end": 861.2,
-      "text": "dropped it on the linoleum floor, and mashed it under his shoe-sole.",
-      "para_break": true
+      "text": "dropped it on the linoleum floor, and mashed it under his shoesole."
     },
     {
       "start": 861.74,
       "end": 864.26,
-      "text": "The girl watched him with disapproving eyes."
+      "text": "The girl watched him with disapproving eyes.",
+      "para_break": true
     },
     {
       "start": 865.06,

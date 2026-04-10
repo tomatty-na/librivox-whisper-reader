@@ -120,7 +120,8 @@
     {
       "start": 772.7,
       "end": 772.8,
-      "text": "\"Yes,"
+      "text": "\"Yes,",
+      "para_break": true
     },
     {
       "start": 773.86,
@@ -130,8 +131,7 @@
     {
       "start": 775.328,
       "end": 777.3,
-      "text": "Spade pinched his lower lip between finger",
-      "para_break": true
+      "text": "Spade pinched his lower lip between finger"
     },
     {
       "start": 777.3,
@@ -156,8 +156,7 @@
     {
       "start": 785.16,
       "end": 786.7,
-      "text": "\"How bad a hole are you actually in?\"",
-      "para_break": true
+      "text": "\"How bad a hole are you actually in?\""
     },
     {
       "start": 787.92,
@@ -253,8 +252,7 @@
     {
       "start": 814.44,
       "end": 815.32,
-      "text": "He looked at his watch.",
-      "para_break": true
+      "text": "He looked at his watch."
     },
     {
       "start": 816.14,
@@ -396,7 +394,8 @@
     {
       "start": 865.14,
       "end": 869.26,
-      "text": "He made a growling animal noise in his throat and went to the table"
+      "text": "He made a growling animal noise in his throat and went to the table",
+      "para_break": true
     },
     {
       "start": 869.26,
@@ -412,7 +411,7 @@
     {
       "start": 871.82,
       "end": 873.42,
-      "text": "she begged in a small,"
+      "text": "she begged in a small"
     },
     {
       "start": 873.56,
@@ -432,7 +431,8 @@
     {
       "start": 877.91,
       "end": 878.88,
-      "text": "\"Go to them!\""
+      "text": "\"Go to them!\"",
+      "para_break": true
     },
     {
       "start": 879.02,
@@ -477,8 +477,7 @@
     {
       "start": 895.84,
       "end": 898.06,
-      "text": "He put his hat on his head and pulled it down tight.",
-      "para_break": true
+      "text": "He put his hat on his head and pulled it down tight."
     },
     {
       "start": 898.88,
@@ -513,7 +512,7 @@
     {
       "start": 909.04,
       "end": 911.8,
-      "text": "She rose from the settee and held herself straight in front of him,",
+      "text": "She rose from the settee and held herself straight in front of him",
       "para_break": true
     },
     {
@@ -524,12 +523,12 @@
     {
       "start": 914.7,
       "end": 915.56,
-      "text": "and she held her white,"
+      "text": "and she held her white"
     },
     {
       "start": 915.66,
       "end": 917.2,
-      "text": "panic-stricken face up high,"
+      "text": "panic-stricken face up high"
     },
     {
       "start": 917.66,
@@ -544,14 +543,12 @@
     {
       "start": 921.52,
       "end": 921.88,
-      "text": "She said:",
-      "para_break": true
+      "text": "She said:"
     },
     {
       "start": 922.66,
       "end": 923.36,
-      "text": "\"You've been patient.",
-      "para_break": true
+      "text": "\"You've been patient."
     },
     {
       "start": 923.62,
@@ -571,14 +568,12 @@
     {
       "start": 928.56,
       "end": 929.98,
-      "text": "She stretched out her right hand.",
-      "para_break": true
+      "text": "She stretched out her right hand."
     },
     {
       "start": 930.8,
       "end": 932.12,
-      "text": "\"I thank you for what you have done.",
-      "para_break": true
+      "text": "\"I thank you for what you have done."
     },
     {
       "start": 933.24,
@@ -630,8 +625,7 @@
     {
       "start": 949.9,
       "end": 951.32,
-      "text": "\"I've about five hundred dollars left.\"",
-      "para_break": true
+      "text": "\"I've about five hundred dollars left.\""
     },
     {
       "start": 952.54,
@@ -683,7 +677,8 @@
     {
       "start": 966.62,
       "end": 968.14,
-      "text": "He took the money from her,"
+      "text": "He took the money from her,",
+      "para_break": true
     },
     {
       "start": 968.24,
@@ -698,8 +693,7 @@
     {
       "start": 970.08,
       "end": 971.1,
-      "text": "\"There's only four hundred here.\"",
-      "para_break": true
+      "text": "\"There's only four hundred here.\""
     },
     {
       "start": 972.26,
