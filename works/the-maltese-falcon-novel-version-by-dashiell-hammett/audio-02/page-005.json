@@ -21,7 +21,7 @@
     {
       "start": 977.4,
       "end": 979.16,
-      "text": "His voice came out deep,"
+      "text": "His voice came out deep"
     },
     {
       "start": 979.7,
@@ -68,12 +68,14 @@
     {
       "start": 994.14,
       "end": 996.46,
-      "text": "\"You told Tom damned little.\""
+      "text": "\"You told Tom damned little.\"",
+      "para_break": true
     },
     {
       "start": 996.66,
       "end": 998.94,
-      "text": "\"I knew damned little.\""
+      "text": "\"I knew damned little.\"",
+      "para_break": true
     },
     {
       "start": 999.92,
@@ -148,7 +150,7 @@
     {
       "start": 1028.08,
       "end": 1028.68,
-      "text": "\"This is murder,"
+      "text": "\"This is murder"
     },
     {
       "start": 1028.84,
@@ -174,12 +176,12 @@
     {
       "start": 1035.44,
       "end": 1036.04,
-      "text": "I'll tell it,"
+      "text": "I'll tell it"
     },
     {
       "start": 1036.04,
       "end": 1036.64,
-      "text": "or not,"
+      "text": "or not"
     },
     {
       "start": 1036.76,
@@ -205,8 +207,7 @@
     {
       "start": 1046.1,
       "end": 1047.28,
-      "text": "His carelessly shaven,",
-      "para_break": true
+      "text": "His carelessly shaven"
     },
     {
       "start": 1047.28,
@@ -216,7 +217,8 @@
     {
       "start": 1049.44,
       "end": 1050.78,
-      "text": "\"Be reasonable,"
+      "text": "\"Be reasonable,",
+      "para_break": true
     },
     {
       "start": 1050.92,
@@ -268,7 +270,7 @@
     {
       "start": 1068.78,
       "end": 1069.6,
-      "text": "His eyes were warm,"
+      "text": "His eyes were warm"
     },
     {
       "start": 1069.64,
@@ -327,7 +329,7 @@
     {
       "start": 1089.28,
       "end": 1089.58,
-      "text": "\"I said,"
+      "text": "\"I said:"
     },
     {
       "start": 1089.6,
@@ -368,8 +370,7 @@
     {
       "start": 1106.464,
       "end": 1107.98,
-      "text": "\"What's itching your boy-friend now?\"",
-      "para_break": true
+      "text": "\"What's itching your boy-friend now?\""
     },
     {
       "start": 1109.088,
@@ -406,8 +407,7 @@
     {
       "start": 1121.76,
       "end": 1124.94,
-      "text": "\"Thursby was shot down in front of his hotel",
-      "para_break": true
+      "text": "\"Thursby was shot down in front of his hotel"
     },
     {
       "start": 1124.94,
@@ -428,8 +428,7 @@
     {
       "start": 1132.96,
       "end": 1136.12,
-      "text": "\"Keep your God-damned paws off me.\"",
-      "para_break": true
+      "text": "\"Keep your God-damned paws off me.\""
     },
     {
       "start": 1137.11,
@@ -455,14 +454,13 @@
     {
       "start": 1147.52,
       "end": 1148.84,
-      "text": "Tom growled apologetically.",
+      "text": "Tom growled apologetically:",
       "para_break": true
     },
     {
       "start": 1149.72,
       "end": 1149.92,
-      "text": "\"Well,",
-      "para_break": true
+      "text": "\"Well,"
     },
     {
       "start": 1150.1,
@@ -629,8 +627,7 @@
     {
       "start": 1208.42,
       "end": 1209.86,
-      "text": "\"We knew you weren't home at three-thirty.",
-      "para_break": true
+      "text": "\"We knew you weren't home at three-thirty."
     },
     {
       "start": 1210.56,
@@ -640,8 +637,7 @@
     {
       "start": 1212.736,
       "end": 1213.78,
-      "text": "Where'd you do your walking?\"",
-      "para_break": true
+      "text": "Where'd you do your walking?\""
     },
     {
       "start": 1214.68,

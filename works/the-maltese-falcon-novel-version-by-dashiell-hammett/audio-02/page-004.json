@@ -16,8 +16,7 @@
     {
       "start": 734.336,
       "end": 736.72,
-      "text": "Spade shut the door and ushered them into his bedroom.",
-      "para_break": true
+      "text": "Spade shut the door and ushered them into his bedroom."
     },
     {
       "start": 737.824,
@@ -58,13 +57,12 @@
     {
       "start": 753.96,
       "end": 756.26,
-      "text": "A five-dollar gold-piece was pinned to his necktie,",
-      "para_break": true
+      "text": "A five-dollar gold-piece was pinned to his necktie"
     },
     {
       "start": 756.43,
       "end": 757.49,
-      "text": "and there was a small,"
+      "text": "and there was a small"
     },
     {
       "start": 757.78,
@@ -167,7 +165,7 @@
     {
       "start": 801.82,
       "end": 803.44,
-      "text": "He examined the room with hard,"
+      "text": "He examined the room with hard"
     },
     {
       "start": 803.5,
@@ -193,7 +191,7 @@
     {
       "start": 810.62,
       "end": 810.98,
-      "text": "asked,"
+      "text": "asked:"
     },
     {
       "start": 811.47,
@@ -208,8 +206,7 @@
     {
       "start": 815.2,
       "end": 815.68,
-      "text": "Spade said,",
-      "para_break": true
+      "text": "Spade said:"
     },
     {
       "start": 815.88,
@@ -236,14 +233,12 @@
     {
       "start": 824.384,
       "end": 825.16,
-      "text": "Tom said softly,",
-      "para_break": true
+      "text": "Tom said softly:"
     },
     {
       "start": 826.0,
       "end": 826.91,
-      "text": "\"The hell you don't.\"",
-      "para_break": true
+      "text": "\"The hell you don't.\""
     },
     {
       "start": 827.9,
@@ -254,8 +249,7 @@
     {
       "start": 831.24,
       "end": 835.12,
-      "text": "His greenish eyes were fixed on Spade in a peculiarly rigid stare,",
-      "para_break": true
+      "text": "His greenish eyes were fixed on Spade in a peculiarly rigid stare,"
     },
     {
       "start": 835.64,
@@ -313,18 +307,19 @@
     {
       "start": 854.68,
       "end": 855.92,
-      "text": "\"You don't happen to have one here?\"",
-      "para_break": true
+      "text": "\"You don't happen to have one here?\""
     },
     {
       "start": 856.52,
       "end": 857.42,
-      "text": "\"No.\""
+      "text": "\"No.\"",
+      "para_break": true
     },
     {
       "start": 858.1,
       "end": 859.2,
-      "text": "\"You sure of that?\""
+      "text": "\"You sure of that?\"",
+      "para_break": true
     },
     {
       "start": 860.46,
@@ -355,7 +350,7 @@
     {
       "start": 871.08,
       "end": 872.02,
-      "text": "Tom protested.",
+      "text": "Tom protested:",
       "para_break": true
     },
     {
@@ -539,12 +534,12 @@
     {
       "start": 929.46,
       "end": 930.0,
-      "text": "talk turkey,"
+      "text": "talk turkey"
     },
     {
       "start": 930.22,
       "end": 932.96,
-      "text": "it's because when I asked you who this Thursby was,"
+      "text": "it's because when I asked you who this Thursby was"
     },
     {
       "start": 933.38,
@@ -569,7 +564,7 @@
     {
       "start": 938.34,
       "end": 938.96,
-      "text": "It ain't right,"
+      "text": "It ain't right"
     },
     {
       "start": 939.1,
@@ -605,7 +600,8 @@
     {
       "start": 949.49,
       "end": 950.98,
-      "text": "\"I've warned you"
+      "text": "\"I've warned you",
+      "para_break": true
     },
     {
       "start": 951.38,
@@ -631,8 +627,7 @@
     {
       "start": 958.912,
       "end": 960.44,
-      "text": "\"Everybody's foot slips sometime,\"",
-      "para_break": true
+      "text": "\"Everybody's foot slips sometime,\""
     },
     {
       "start": 960.88,

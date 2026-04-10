@@ -43,8 +43,7 @@
     {
       "start": 1223.54,
       "end": 1223.92,
-      "text": "\"Sit down,",
-      "para_break": true
+      "text": "\"Sit down,"
     },
     {
       "start": 1224.0,
@@ -69,7 +68,7 @@
     {
       "start": 1228.704,
       "end": 1229.14,
-      "text": "Tom said,",
+      "text": "Tom said:",
       "para_break": true
     },
     {
@@ -178,7 +177,8 @@
     {
       "start": 1262.64,
       "end": 1263.78,
-      "text": "Tom said:"
+      "text": "Tom said:",
+      "para_break": true
     },
     {
       "start": 1264.0,
@@ -199,7 +199,7 @@
     {
       "start": 1267.936,
       "end": 1268.5,
-      "text": "Spade asked,",
+      "text": "Spade asked:",
       "para_break": true
     },
     {
@@ -216,7 +216,7 @@
     {
       "start": 1272.08,
       "end": 1272.6,
-      "text": "Tom said,"
+      "text": "Tom said:"
     },
     {
       "start": 1272.8,
@@ -363,7 +363,7 @@
     {
       "start": 1315.84,
       "end": 1316.3,
-      "text": "Tom said,",
+      "text": "Tom said:",
       "para_break": true
     },
     {
@@ -437,8 +437,7 @@
     {
       "start": 1332.608,
       "end": 1335.44,
-      "text": "Lieutenant Dundy said: \"He was shot four times",
-      "para_break": true
+      "text": "Lieutenant Dundy said: \"He was shot four times"
     },
     {
       "start": 1335.58,
@@ -563,8 +562,7 @@
     {
       "start": 1385.6,
       "end": 1387.84,
-      "text": "\"I've never seen Thursby, dead or alive.\"",
-      "para_break": true
+      "text": "\"I've never seen Thursby, dead or alive.\""
     },
     {
       "start": 1389.12,
@@ -718,8 +716,7 @@
     {
       "start": 1445.72,
       "end": 1446.24,
-      "text": "Then he undressed,",
-      "para_break": true
+      "text": "Then he undressed,"
     },
     {
       "start": 1446.88,
