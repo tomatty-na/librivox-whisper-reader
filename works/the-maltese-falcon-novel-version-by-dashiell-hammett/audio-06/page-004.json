@@ -21,8 +21,7 @@
     {
       "start": 750.04,
       "end": 751.46,
-      "text": "\"I must talk to Joel Cairo,\"",
-      "para_break": true
+      "text": "\"I must talk to Joel Cairo,\""
     },
     {
       "start": 751.6,
@@ -37,7 +36,8 @@
     {
       "start": 753.48,
       "end": 754.66,
-      "text": "\"You can see him tonight,\""
+      "text": "\"You can see him tonight,\"",
+      "para_break": true
     },
     {
       "start": 754.9,
@@ -110,7 +110,7 @@
     {
       "start": 772.56,
       "end": 773.0,
-      "text": "then asked,"
+      "text": "then asked:"
     },
     {
       "start": 773.4,
@@ -147,8 +147,7 @@
     {
       "start": 780.84,
       "end": 781.48,
-      "text": "\"Shall we go now?\"",
-      "para_break": true
+      "text": "\"Shall we go now?\""
     },
     {
       "start": 782.68,
@@ -199,7 +198,7 @@
     {
       "start": 797.94,
       "end": 799.64,
-      "text": "lighting a cigarette when she returned,"
+      "text": "lighting a cigarette when she returned"
     },
     {
       "start": 799.92,
@@ -220,7 +219,7 @@
     {
       "start": 807.84,
       "end": 809.76,
-      "text": "stood directly in front of Spade's street door."
+      "text": "stood directly in front of Spade's street-door."
     },
     {
       "start": 810.816,
@@ -245,12 +244,12 @@
     {
       "start": 817.64,
       "end": 818.72,
-      "text": "In the lobby,"
+      "text": "In the lobby"
     },
     {
       "start": 818.8,
       "end": 820.86,
-      "text": "he halted beside one of the benches and asked,"
+      "text": "he halted beside one of the benches and asked:"
     },
     {
       "start": 821.2,
@@ -292,18 +291,17 @@
     {
       "start": 831.92,
       "end": 833.58,
-      "text": "When he had opened the sedan's door,"
+      "text": "When he had opened the sedan's door"
     },
     {
       "start": 833.7,
       "end": 834.5,
-      "text": "Iva spoke quickly."
+      "text": "Iva spoke quickly:"
     },
     {
       "start": 835.232,
       "end": 836.02,
-      "text": "\"I've got to talk to you,",
-      "para_break": true
+      "text": "\"I've got to talk to you,"
     },
     {
       "start": 836.08,
@@ -313,7 +311,7 @@
     {
       "start": 836.64,
       "end": 837.3,
-      "text": "Can I come in?\""
+      "text": "Can't I come in?\""
     },
     {
       "start": 837.9,
@@ -329,7 +327,7 @@
     {
       "start": 841.984,
       "end": 843.82,
-      "text": "Iva clicked her teeth together and asked sharply,",
+      "text": "Iva clicked her teeth together and asked sharply:",
       "para_break": true
     },
     {
@@ -340,8 +338,7 @@
     {
       "start": 846.18,
       "end": 846.92,
-      "text": "\"I've only a minute,",
-      "para_break": true
+      "text": "\"I've only a minute,"
     },
     {
       "start": 847.02,
@@ -367,7 +364,7 @@
     {
       "start": 851.1,
       "end": 851.52,
-      "text": "She repeated,"
+      "text": "she repeated,"
     },
     {
       "start": 851.78,
@@ -377,7 +374,7 @@
     {
       "start": 852.22,
       "end": 852.78,
-      "text": "the street door."
+      "text": "the street-door."
     },
     {
       "start": 853.46,
@@ -403,14 +400,12 @@
     {
       "start": 865.056,
       "end": 867.74,
-      "text": "Spade frowned and returned his gaze to Iva's insistent face.",
-      "para_break": true
+      "text": "Spade frowned and returned his gaze to Iva's insistent face."
     },
     {
       "start": 868.56,
       "end": 869.36,
-      "text": "\"What is the matter?\"",
-      "para_break": true
+      "text": "\"What is the matter?\""
     },
     {
       "start": 869.48,
@@ -456,7 +451,7 @@
     {
       "start": 885.46,
       "end": 886.56,
-      "text": "If that's what you mean,"
+      "text": "If that's what you mean"
     },
     {
       "start": 886.6,
@@ -523,12 +518,12 @@
     {
       "start": 899.98,
       "end": 900.78,
-      "text": "love me gave me--\""
+      "text": "love me gave me—\""
     },
     {
       "start": 901.696,
       "end": 902.5,
-      "text": "Spade said wearily,",
+      "text": "Spade said wearily:",
       "para_break": true
     },
     {
@@ -544,8 +539,7 @@
     {
       "start": 907.02,
       "end": 909.02,
-      "text": "What was it you wanted to see me about?\"",
-      "para_break": true
+      "text": "What was it you wanted to see me about?\""
     },
     {
       "start": 909.64,
@@ -595,7 +589,7 @@
     {
       "start": 921.16,
       "end": 923.52,
-      "text": "straight behind the wheel and started the sedan's engine,"
+      "text": "straight behind the wheel, and started the sedan's engine,"
     },
     {
       "start": 923.68,
@@ -611,7 +605,7 @@
     {
       "start": 926.84,
       "end": 927.38,
-      "text": "began to move,"
+      "text": "began to move"
     },
     {
       "start": 927.44,
@@ -646,8 +640,7 @@
     {
       "start": 935.64,
       "end": 936.84,
-      "text": "Then he went indoors again.",
-      "para_break": true
+      "text": "Then he went indoors again."
     },
     {
       "start": 937.92,
@@ -658,7 +651,7 @@
     {
       "start": 939.08,
       "end": 940.64,
-      "text": "smiling cheerfully from the bench,"
+      "text": "smiling cheerfully from the bench"
     },
     {
       "start": 940.96,
@@ -668,8 +661,7 @@
     {
       "start": 943.392,
       "end": 944.32,
-      "text": "End of chapter six.",
-      "para_break": true
+      "text": "End of chapter six."
     }
   ],
   "corrected": "claude"

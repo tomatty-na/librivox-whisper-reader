@@ -36,8 +36,7 @@
     {
       "start": 272.4,
       "end": 273.0,
-      "text": "She had put on",
-      "para_break": true
+      "text": "She had put on"
     },
     {
       "start": 273.0,
@@ -47,7 +46,7 @@
     {
       "start": 276.42,
       "end": 278.26,
-      "text": "with chalcedony shoulder straps,"
+      "text": "with chalcedony shoulder-straps,"
     },
     {
       "start": 278.86,
@@ -94,7 +93,7 @@
     {
       "start": 298.22,
       "end": 300.82,
-      "text": "She asked when she came into the room again."
+      "text": "she asked when she came into the room again."
     },
     {
       "start": 301.856,
@@ -153,7 +152,7 @@
     {
       "start": 322.66,
       "end": 323.26,
-      "text": "\"However,"
+      "text": "\"However"
     },
     {
       "start": 323.32,
@@ -163,12 +162,12 @@
     {
       "start": 324.46,
       "end": 326.32,
-      "text": "She asked more in wonder than in curiosity."
+      "text": "she asked more in wonder than in curiosity."
     },
     {
       "start": 327.8,
       "end": 330.3,
-      "text": "\"Most things in San Francisco can be bought or taken,\"",
+      "text": "\"Most things in San Francisco can be bought, or taken.\"",
       "para_break": true
     },
     {
@@ -227,7 +226,7 @@
     {
       "start": 346.62,
       "end": 347.38,
-      "text": "judged her,"
+      "text": "judged her"
     },
     {
       "start": 347.5,
@@ -282,7 +281,7 @@
     {
       "start": 368.01,
       "end": 371.52,
-      "text": "\"You aren't, he asked as he sat down, exactly",
+      "text": "\"You aren't,\" he asked as he sat down, \"exactly",
       "para_break": true
     },
     {
@@ -320,7 +319,7 @@
     {
       "start": 390.58,
       "end": 392.88,
-      "text": "afternoon that I've been bad--worse than you could"
+      "text": "afternoon that I've been bad—worse than you could"
     },
     {
       "start": 393.02,
@@ -356,7 +355,7 @@
     {
       "start": 402.32,
       "end": 404.12,
-      "text": "After a moment in which she seemed confused,",
+      "text": "After a moment in which she seemed confused",
       "para_break": true
     },
     {
@@ -367,18 +366,17 @@
     {
       "start": 405.28,
       "end": 405.52,
-      "text": "tears,"
+      "text": "tears"
     },
     {
       "start": 405.74,
       "end": 406.92,
-      "text": "she laughed and said,"
+      "text": "she laughed and said:"
     },
     {
       "start": 407.8,
       "end": 408.42,
-      "text": "\"Very well then,",
-      "para_break": true
+      "text": "\"Very well, then,"
     },
     {
       "start": 408.48,
@@ -418,7 +416,7 @@
     {
       "start": 418.6,
       "end": 419.36,
-      "text": "But if it's a pose,"
+      "text": "But if it's a pose"
     },
     {
       "start": 419.7,
@@ -449,12 +447,12 @@
     {
       "start": 426.72,
       "end": 427.44,
-      "text": "he assured her,"
+      "text": "he assured her."
     },
     {
       "start": 427.56,
       "end": 430.04,
-      "text": "\"only it wouldn't be all right if you were actually"
+      "text": "\"Only it wouldn't be all right if you were actually"
     },
     {
       "start": 430.12,
@@ -475,7 +473,7 @@
     {
       "start": 434.88,
       "end": 435.36,
-      "text": "she promised,"
+      "text": "she promised"
     },
     {
       "start": 435.72,
@@ -485,7 +483,8 @@
     {
       "start": 437.18,
       "end": 439.4,
-      "text": "\"I saw Joel Cairo tonight,\""
+      "text": "\"I saw Joel Cairo tonight,\"",
+      "para_break": true
     },
     {
       "start": 439.66,
@@ -506,7 +505,7 @@
     {
       "start": 444.82,
       "end": 446.6,
-      "text": "Her eyes focused on his profile,"
+      "text": "Her eyes, focused on his profile,"
     },
     {
       "start": 446.82,
@@ -536,12 +535,14 @@
     {
       "start": 455.96,
       "end": 458.88,
-      "text": "There was a long pause before she asked uneasily,"
+      "text": "There was a long pause before she asked uneasily:",
+      "para_break": true
     },
     {
       "start": 459.4,
       "end": 459.8,
-      "text": "\"you,"
+      "text": "\"You—",
+      "para_break": true
     },
     {
       "start": 460.0,
@@ -551,7 +552,8 @@
     {
       "start": 461.42,
       "end": 462.78,
-      "text": "\"I saw him tonight.\""
+      "text": "\"I saw him tonight.\"",
+      "para_break": true
     },
     {
       "start": 463.06,
@@ -630,12 +632,12 @@
     {
       "start": 495.96,
       "end": 496.12,
-      "text": "said,"
+      "text": "said:"
     },
     {
       "start": 496.24,
       "end": 497.3,
-      "text": "\"you're good."
+      "text": "\"You're good."
     },
     {
       "start": 497.54,
@@ -651,12 +653,12 @@
     {
       "start": 501.68,
       "end": 502.38,
-      "text": "She asked quietly,"
+      "text": "She asked quietly:"
     },
     {
       "start": 502.72,
       "end": 503.82,
-      "text": "\"what did he say?\""
+      "text": "\"What did he say?\""
     }
   ],
   "corrected": "claude"

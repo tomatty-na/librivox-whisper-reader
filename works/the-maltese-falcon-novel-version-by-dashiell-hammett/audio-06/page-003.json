@@ -27,8 +27,7 @@
     {
       "start": 508.06,
       "end": 508.5,
-      "text": "\"About me.\"",
-      "para_break": true
+      "text": "\"About me.\""
     },
     {
       "start": 508.8,
@@ -54,7 +53,8 @@
     {
       "start": 516.2,
       "end": 516.8,
-      "text": "\"Well,"
+      "text": "\"Well,",
+      "para_break": true
     },
     {
       "start": 516.96,
@@ -64,7 +64,7 @@
     {
       "start": 517.96,
       "end": 518.72,
-      "text": "She asked"
+      "text": "she asked"
     },
     {
       "start": 518.9,
@@ -74,18 +74,19 @@
     {
       "start": 521.13,
       "end": 524.1,
-      "text": "\"He offered me five thousand dollars for the black bird.\""
+      "text": "\"He offered me five thousand dollars for the black bird.\"",
+      "para_break": true
     },
     {
       "start": 525.22,
       "end": 525.6,
-      "text": "She started.",
+      "text": "She started,",
       "para_break": true
     },
     {
       "start": 525.96,
       "end": 527.96,
-      "text": "Her teeth tore the end of her cigarette,"
+      "text": "her teeth tore the end of her cigarette,"
     },
     {
       "start": 528.4,
@@ -95,7 +96,7 @@
     {
       "start": 529.12,
       "end": 529.74,
-      "text": "after a swift,"
+      "text": "after a swift"
     },
     {
       "start": 529.86,
@@ -136,7 +137,7 @@
     {
       "start": 540.02,
       "end": 540.8,
-      "text": "She laughed a clear,",
+      "text": "She laughed a clear",
       "para_break": true
     },
     {
@@ -157,7 +158,7 @@
     {
       "start": 544.06,
       "end": 545.44,
-      "text": "and looked at him with clear,"
+      "text": "and looked at him with clear"
     },
     {
       "start": 545.48,
@@ -167,8 +168,7 @@
     {
       "start": 547.02,
       "end": 547.58,
-      "text": "\"I won't,\"",
-      "para_break": true
+      "text": "\"I won't,\""
     },
     {
       "start": 547.58,
@@ -178,7 +178,7 @@
     {
       "start": 548.57,
       "end": 549.84,
-      "text": "\"and what did you say?\""
+      "text": "\"And what did you say?\""
     },
     {
       "start": 551.08,
@@ -245,8 +245,7 @@
     {
       "start": 568.54,
       "end": 568.88,
-      "text": "\"Why not?",
-      "para_break": true
+      "text": "\"Why not?"
     },
     {
       "start": 569.64,
@@ -256,8 +255,7 @@
     {
       "start": 571.58,
       "end": 571.68,
-      "text": "\"But,",
-      "para_break": true
+      "text": "\"But,"
     },
     {
       "start": 572.82,
@@ -292,7 +290,7 @@
     {
       "start": 577.7,
       "end": 578.62,
-      "text": "You can't.\""
+      "text": "You can't—\""
     },
     {
       "start": 579.28,
@@ -318,8 +316,7 @@
     {
       "start": 586.432,
       "end": 587.54,
-      "text": "\"Don't let's try to figure out",
-      "para_break": true
+      "text": "\"Don't let's try to figure out"
     },
     {
       "start": 587.54,
@@ -334,12 +331,12 @@
     {
       "start": 589.42,
       "end": 590.88,
-      "text": "\"I promised to help you,"
+      "text": "\"I promised to help you—"
     },
     {
       "start": 590.92,
       "end": 591.1,
-      "text": "sure,"
+      "text": "sure—"
     },
     {
       "start": 591.76,
@@ -354,7 +351,7 @@
     {
       "start": 594.83,
       "end": 598.86,
-      "text": "\"But you must've known or--or you wouldn't have mentioned it to me.",
+      "text": "\"But you must've known or—or you wouldn't have mentioned it to me.",
       "para_break": true
     },
     {
@@ -365,7 +362,7 @@
     {
       "start": 601.58,
       "end": 603.74,
-      "text": "You won't--you can't--treat me like"
+      "text": "You won't—you can't—treat me like"
     },
     {
       "start": 603.74,
@@ -397,7 +394,7 @@
     {
       "start": 618.82,
       "end": 619.42,
-      "text": "dull voice"
+      "text": "dull voice."
     },
     {
       "start": 620.06,
@@ -417,8 +414,7 @@
     {
       "start": 628.48,
       "end": 629.46,
-      "text": "\"That is good,\"",
-      "para_break": true
+      "text": "\"That is good,\""
     },
     {
       "start": 629.58,
@@ -433,8 +429,7 @@
     {
       "start": 631.76,
       "end": 633.38,
-      "text": "What have you given me besides money?",
-      "para_break": true
+      "text": "What have you given me besides money?"
     },
     {
       "start": 634.02,
@@ -495,8 +490,7 @@
     {
       "start": 655.08,
       "end": 656.34,
-      "text": "\"I've thrown myself on your mercy,",
-      "para_break": true
+      "text": "\"I've thrown myself on your mercy,"
     },
     {
       "start": 656.46,
@@ -511,8 +505,7 @@
     {
       "start": 659.66,
       "end": 660.42,
-      "text": "What else is there?\"",
-      "para_break": true
+      "text": "What else is there?\""
     },
     {
       "start": 661.34,
@@ -543,7 +536,7 @@
     {
       "start": 675.44,
       "end": 676.52,
-      "text": "Then he sat back and said,"
+      "text": "Then he sat back and said:"
     },
     {
       "start": 677.16,
@@ -596,7 +589,8 @@
     {
       "start": 696.69,
       "end": 698.22,
-      "text": "He turned to face her."
+      "text": "He turned to face her.",
+      "para_break": true
     },
     {
       "start": 698.3,
@@ -611,8 +605,7 @@
     {
       "start": 702.38,
       "end": 704.4,
-      "text": "\"I don't give a damn about your honesty,\"",
-      "para_break": true
+      "text": "\"I don't give a damn about your honesty,\""
     },
     {
       "start": 704.4,
@@ -658,7 +651,7 @@
     {
       "start": 717.34,
       "end": 719.52,
-      "text": "and that it's all for the best, and--\""
+      "text": "and that it's all for the best, and—\""
     },
     {
       "start": 719.52,
@@ -689,7 +682,7 @@
     {
       "start": 725.12,
       "end": 725.92,
-      "text": "If necessary,"
+      "text": "If necessary"
     },
     {
       "start": 726.1,
@@ -735,13 +728,13 @@
     {
       "start": 744.62,
       "end": 745.5,
-      "text": "\"How much is a little,",
+      "text": "\"How much is a little?",
       "para_break": true
     },
     {
       "start": 745.66,
       "end": 746.04,
-      "text": "and what"
+      "text": "And what"
     },
     {
       "start": 746.04,
