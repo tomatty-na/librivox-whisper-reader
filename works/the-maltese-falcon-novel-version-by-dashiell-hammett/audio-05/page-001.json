@@ -21,7 +21,7 @@
     {
       "start": 9.74,
       "end": 12.1,
-      "text": "Spade did not look at the pistol.",
+      "text": "SPADE did not look at the pistol.",
       "para_break": true
     },
     {
@@ -78,7 +78,7 @@
     {
       "start": 35.88,
       "end": 37.28,
-      "text": "I intend to search your offices,"
+      "text": "\"I intend to search your offices,"
     },
     {
       "start": 37.44,
@@ -93,17 +93,17 @@
     {
       "start": 38.94,
       "end": 41.04,
-      "text": "I warn you that if you attempt to prevent me,"
+      "text": "I warn you that if you attempt to prevent me"
     },
     {
       "start": 41.48,
       "end": 42.84,
-      "text": "I shall certainly shoot you."
+      "text": "I shall certainly shoot you.\""
     },
     {
       "start": 43.76,
       "end": 44.12,
-      "text": "Go ahead.",
+      "text": "\"Go ahead.\"",
       "para_break": true
     },
     {
@@ -114,7 +114,7 @@
     {
       "start": 49.12,
       "end": 50.12,
-      "text": "You will please stand,",
+      "text": "\"You will please stand,\"",
       "para_break": true
     },
     {
@@ -130,12 +130,12 @@
     {
       "start": 55.58,
       "end": 58.04,
-      "text": "I shall have to make sure that you are not armed."
+      "text": "\"I shall have to make sure that you are not armed.\""
     },
     {
       "start": 59.296,
       "end": 60.02,
-      "text": "Spade stood up,",
+      "text": "Spade stood up pushing his chair back with his",
       "para_break": true
     },
     {
@@ -208,7 +208,7 @@
     {
       "start": 90.34,
       "end": 91.56,
-      "text": "not far enough."
+      "text": "not far enough:"
     },
     {
       "start": 92.48,
@@ -426,8 +426,7 @@
     {
       "start": 199.232,
       "end": 200.78,
-      "text": "Cairo shut his eyes and was unconscious.",
-      "para_break": true
+      "text": "Cairo shut his eyes and was unconscious."
     },
     {
       "start": 202.272,
@@ -474,7 +473,7 @@
     {
       "start": 222.26,
       "end": 223.76,
-      "text": "When the last pocket had been turned out,"
+      "text": "When the last pocket had been turned out"
     },
     {
       "start": 223.78,
@@ -504,7 +503,7 @@
     {
       "start": 233.38,
       "end": 235.2,
-      "text": "There was a large wallet of dark,",
+      "text": "There was a large wallet of dark",
       "para_break": true
     },
     {

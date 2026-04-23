@@ -32,17 +32,19 @@
     {
       "start": 525.48,
       "end": 528.54,
-      "text": "\"I have offered you five thousand dollars for—\""
+      "text": "\"I have offered you five thousand dollars for—\"",
+      "para_break": true
     },
     {
       "start": 528.74,
       "end": 531.008,
-      "text": "Spade thumped Cairo's wallet with"
+      "text": "Spade thumped Cairo's wallet with",
+      "para_break": true
     },
     {
       "start": 531.28,
       "end": 532.68,
-      "text": "the backs of his fingers and said,"
+      "text": "the backs of his fingers and said:"
     },
     {
       "start": 532.84,
@@ -72,13 +74,13 @@
     {
       "start": 543.92,
       "end": 544.3,
-      "text": "\"I see,\"",
+      "text": "\"I see,",
       "para_break": true
     },
     {
       "start": 544.48,
       "end": 545.14,
-      "text": "\"I see,\""
+      "text": "I see,\""
     },
     {
       "start": 545.34,
@@ -150,7 +152,8 @@
     {
       "start": 568.1,
       "end": 570.9,
-      "text": "Spade picked up the wallet and took out a hundred dollars."
+      "text": "Spade picked up the wallet and took out a hundred dollars.",
+      "para_break": true
     },
     {
       "start": 571.66,
@@ -249,7 +252,7 @@
     {
       "start": 607.7,
       "end": 608.16,
-      "text": "\"Very little,\"",
+      "text": "\"Very little,",
       "para_break": true
     },
     {
@@ -260,7 +263,7 @@
     {
       "start": 609.98,
       "end": 610.5,
-      "text": "\"There is this,"
+      "text": "There is this,"
     },
     {
       "start": 610.58,
@@ -406,7 +409,7 @@
     {
       "start": 674.42,
       "end": 675.13,
-      "text": "If you do not,"
+      "text": "If you do not"
     },
     {
       "start": 675.28,
@@ -590,7 +593,8 @@
     {
       "start": 747.76,
       "end": 748.86,
-      "text": "\"Sure.\""
+      "text": "\"Sure.\"",
+      "para_break": true
     },
     {
       "start": 749.08,
