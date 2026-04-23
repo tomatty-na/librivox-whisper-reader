@@ -16,8 +16,7 @@
     {
       "start": 485.6,
       "end": 488.0,
-      "text": "Her thumb and forefinger twisted a black button on",
-      "para_break": true
+      "text": "Her thumb and forefinger twisted a black button on"
     },
     {
       "start": 488.08,
@@ -27,7 +26,8 @@
     {
       "start": 488.86,
       "end": 489.9,
-      "text": "Spade said,"
+      "text": "Spade said,",
+      "para_break": true
     },
     {
       "start": 490.1,
@@ -53,7 +53,8 @@
     {
       "start": 496.36,
       "end": 496.88,
-      "text": "\"No,"
+      "text": "\"No,",
+      "para_break": true
     },
     {
       "start": 497.1,
@@ -68,8 +69,7 @@
     {
       "start": 501.4,
       "end": 504.36,
-      "text": "\"My asking for reasons why I should trust you brought us here.",
-      "para_break": true
+      "text": "\"My asking for reasons why I should trust you brought us here."
     },
     {
       "start": 505.248,
@@ -100,13 +100,13 @@
     {
       "start": 515.552,
       "end": 516.1,
-      "text": "Spade laughed."
+      "text": "Spade laughed.",
+      "para_break": true
     },
     {
       "start": 516.96,
       "end": 518.38,
-      "text": "He patted her hand again and said:",
-      "para_break": true
+      "text": "He patted her hand again and said:"
     },
     {
       "start": 519.072,
@@ -131,13 +131,12 @@
     {
       "start": 526.48,
       "end": 527.88,
-      "text": "\"And you'll let me go about it--",
-      "para_break": true
+      "text": "\"And you'll let me go about it—"
     },
     {
       "start": 527.92,
       "end": 528.92,
-      "text": "with him--"
+      "text": "with him—"
     },
     {
       "start": 529.06,
@@ -147,7 +146,8 @@
     {
       "start": 530.4,
       "end": 530.5,
-      "text": "\"Sure.\""
+      "text": "\"Sure.\"",
+      "para_break": true
     },
     {
       "start": 532.86,
@@ -184,7 +184,8 @@
     {
       "start": 543.28,
       "end": 545.52,
-      "text": "She looked reproachfully at him,"
+      "text": "She looked reproachfully at him,",
+      "para_break": true
     },
     {
       "start": 545.6,
@@ -205,7 +206,7 @@
     {
       "start": 551.14,
       "end": 554.08,
-      "text": "His dark eyes seemed all irises and his high-pitched,"
+      "text": "His dark eyes seemed all irises and his high-pitched"
     },
     {
       "start": 554.16,
@@ -302,13 +303,13 @@
     {
       "start": 581.18,
       "end": 581.28,
-      "text": "\"Naturally."
+      "text": "\"Naturally.",
+      "para_break": true
     },
     {
       "start": 582.47,
       "end": 583.78,
-      "text": "I could have gone on,",
-      "para_break": true
+      "text": "I could have gone on,"
     },
     {
       "start": 584.16,
@@ -365,8 +366,7 @@
     {
       "start": 601.34,
       "end": 602.2,
-      "text": "\"If you do not know,",
-      "para_break": true
+      "text": "\"If you do not know,"
     },
     {
       "start": 602.36,
@@ -391,7 +391,8 @@
     {
       "start": 606.57,
       "end": 610.14,
-      "text": "\"A kid who's been trying to tail me around town all evening,\""
+      "text": "\"A kid who's been trying to tail me around town all evening,\"",
+      "para_break": true
     },
     {
       "start": 610.44,
@@ -406,8 +407,7 @@
     {
       "start": 615.04,
       "end": 615.42,
-      "text": "\"Come on in,",
-      "para_break": true
+      "text": "\"Come on in,"
     },
     {
       "start": 615.48,
@@ -433,8 +433,7 @@
     {
       "start": 623.88,
       "end": 625.34,
-      "text": "\"Did he follow you to my apartment?\"",
-      "para_break": true
+      "text": "\"Did he follow you to my apartment?\""
     },
     {
       "start": 626.24,
@@ -522,7 +521,8 @@
     {
       "start": 653.34,
       "end": 656.34,
-      "text": "He made a formal bow over her hand and released it quickly."
+      "text": "He made a formal bow over her hand and released it quickly.",
+      "para_break": true
     },
     {
       "start": 657.38,
@@ -564,8 +564,7 @@
     {
       "start": 674.64,
       "end": 676.6,
-      "text": "\"Sam told me about your offer for the falcon.",
-      "para_break": true
+      "text": "\"Sam told me about your offer for the falcon."
     },
     {
       "start": 677.1,
@@ -623,7 +622,8 @@
     {
       "start": 694.78,
       "end": 695.44,
-      "text": "the girl asked."
+      "text": "\"Oh,",
+      "para_break": true
     },
     {
       "start": 696.3,
@@ -638,13 +638,13 @@
     {
       "start": 697.02,
       "end": 697.7,
-      "text": "Cairo replied."
+      "text": "She frowned,",
+      "para_break": true
     },
     {
       "start": 698.9,
       "end": 699.52,
-      "text": "She frowned,",
-      "para_break": true
+      "text": "She frowned,"
     },
     {
       "start": 699.62,
@@ -664,20 +664,18 @@
     {
       "start": 703.584,
       "end": 707.36,
-      "text": "\"You are ready to give us five thousand dollars, now, if we give you the falcon?\"",
+      "text": "Cairo held up a wriggling hand.",
       "para_break": true
     },
     {
       "start": 708.48,
       "end": 709.92,
-      "text": "Cairo held up a wriggling hand.",
-      "para_break": true
+      "text": "Cairo held up a wriggling hand."
     },
     {
       "start": 710.816,
       "end": 711.34,
-      "text": "\"Excuse me,\"",
-      "para_break": true
+      "text": "\"Excuse me,\""
     },
     {
       "start": 711.44,
@@ -702,7 +700,8 @@
     {
       "start": 720.42,
       "end": 723.46,
-      "text": "minutes' notice at any time during banking hours.\""
+      "text": "\"Oh!\"",
+      "para_break": true
     },
     {
       "start": 723.72,
@@ -712,8 +711,7 @@
     {
       "start": 725.54,
       "end": 726.44,
-      "text": "She looked at Spade.",
-      "para_break": true
+      "text": "She looked at Spade."
     }
   ]
 }

@@ -8,16 +8,11 @@
   "reader_name": "NLizer",
   "page_num": 6,
   "page_total": 6,
-  "page_start_sec": 1209.64,
+  "page_start_sec": 1211.776,
   "page_end_sec": 1360.78,
   "para_gap_threshold": 0.77,
   "corrected": "claude",
   "segments": [
-    {
-      "start": 1209.64,
-      "end": 1210.8,
-      "text": "There's a way of figuring it.\""
-    },
     {
       "start": 1211.776,
       "end": 1212.1,
@@ -52,14 +47,12 @@
     {
       "start": 1224.58,
       "end": 1226.2,
-      "text": "How long am I supposed to keep that up?",
-      "para_break": true
+      "text": "How long am I supposed to keep that up?"
     },
     {
       "start": 1227.3,
       "end": 1228.94,
-      "text": "Are you going to put your hand on my shoulder",
-      "para_break": true
+      "text": "Are you going to put your hand on my shoulder"
     },
     {
       "start": 1229.06,
@@ -100,7 +93,8 @@
     {
       "start": 1241.14,
       "end": 1244.76,
-      "text": "\"I hope you've got something to do besides pop in here early"
+      "text": "\"I hope you've got something to do besides pop in here early",
+      "para_break": true
     },
     {
       "start": 1244.92,
@@ -110,12 +104,13 @@
     {
       "start": 1246.54,
       "end": 1249.54,
-      "text": "questions and get damned lying answers,\""
+      "text": "questions.\""
     },
     {
       "start": 1249.82,
       "end": 1251.04,
-      "text": "Dundy added deliberately."
+      "text": "\"And get damned lying answers,\" Dundy added deliberately.",
+      "para_break": true
     },
     {
       "start": 1252.0,
@@ -162,7 +157,8 @@
     {
       "start": 1265.18,
       "end": 1268.42,
-      "text": "A startled look came into Tom's small eyes."
+      "text": "A startled look came into Tom's small eyes.",
+      "para_break": true
     },
     {
       "start": 1269.536,
@@ -228,8 +224,7 @@
     {
       "start": 1295.24,
       "end": 1296.64,
-      "text": "\"There must've been something to it,\"",
-      "para_break": true
+      "text": "\"There must've been something to it,\""
     },
     {
       "start": 1296.84,
@@ -287,8 +282,7 @@
     {
       "start": 1312.02,
       "end": 1313.44,
-      "text": "\"We'll be in to see you now and then.",
-      "para_break": true
+      "text": "\"We'll be in to see you now and then."
     },
     {
       "start": 1314.1,
@@ -365,8 +359,7 @@
     {
       "start": 1329.58,
       "end": 1329.9,
-      "text": "The voice,",
-      "para_break": true
+      "text": "The voice,"
     },
     {
       "start": 1330.0,
@@ -402,7 +395,8 @@
     {
       "start": 1340.02,
       "end": 1341.88,
-      "text": "The sounds of a brief struggle,"
+      "text": "The sounds of a brief struggle,",
+      "para_break": true
     },
     {
       "start": 1342.06,
@@ -438,7 +432,7 @@
     {
       "start": 1353.66,
       "end": 1355.12,
-      "text": "When the police-detectives had entered,",
+      "text": "When the police-detectives had entered",
       "para_break": true
     },
     {
