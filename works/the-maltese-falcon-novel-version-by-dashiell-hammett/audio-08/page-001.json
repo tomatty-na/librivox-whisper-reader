@@ -21,19 +21,18 @@
     {
       "start": 4.52,
       "end": 6.78,
-      "text": "This LibriVox recording is in the public domain.",
-      "para_break": true
+      "text": "This LibriVox recording is in the public domain."
     },
     {
       "start": 7.92,
       "end": 8.52,
-      "text": "Horse Feathers",
-      "para_break": true
+      "text": "Horse Feathers"
     },
     {
       "start": 9.09,
       "end": 12.62,
-      "text": "Brigid O'Shaughnessy was huddled in the armchair by the table."
+      "text": "Brigid O'Shaughnessy was huddled in the armchair by the table.",
+      "para_break": true
     },
     {
       "start": 13.08,
@@ -48,8 +47,7 @@
     {
       "start": 19.02,
       "end": 20.72,
-      "text": "Her eyes were white-circled and terrified.",
-      "para_break": true
+      "text": "Her eyes were white-circled and terrified."
     },
     {
       "start": 22.04,
@@ -65,8 +63,7 @@
     {
       "start": 25.152,
       "end": 28.26,
-      "text": "holding in one hand the pistol Spade had twisted out of his hand.",
-      "para_break": true
+      "text": "holding in one hand the pistol Spade had twisted out of his hand."
     },
     {
       "start": 28.75,
@@ -76,8 +73,7 @@
     {
       "start": 31.72,
       "end": 33.18,
-      "text": "Blood ran through the fingers of that",
-      "para_break": true
+      "text": "Blood ran through the fingers of that"
     },
     {
       "start": 33.18,
@@ -87,8 +83,7 @@
     {
       "start": 36.16,
       "end": 37.86,
-      "text": "A smaller trickle from his cut lip",
-      "para_break": true
+      "text": "A smaller trickle from his cut lip"
     },
     {
       "start": 38.22,
@@ -104,8 +99,7 @@
     {
       "start": 43.94,
       "end": 46.46,
-      "text": "He was glaring at the girl huddled in front of him.",
-      "para_break": true
+      "text": "He was glaring at the girl huddled in front of him."
     },
     {
       "start": 46.92,
@@ -115,8 +109,7 @@
     {
       "start": 49.28,
       "end": 51.5,
-      "text": "but no coherent sound came from between them.",
-      "para_break": true
+      "text": "but no coherent sound came from between them."
     },
     {
       "start": 52.32,
@@ -137,7 +130,7 @@
     {
       "start": 56.62,
       "end": 59.86,
-      "text": "put a hand on his own hip under his overcoat"
+      "text": "put a hand on his own hip under his overcoat,"
     },
     {
       "start": 60.0,
@@ -209,8 +202,7 @@
     {
       "start": 91.68,
       "end": 93.38,
-      "text": "Spade's face was placid.",
-      "para_break": true
+      "text": "Spade's face was placid."
     },
     {
       "start": 93.69,
@@ -235,7 +227,8 @@
     {
       "start": 100.78,
       "end": 102.12,
-      "text": "Did you do that?"
+      "text": "\"Did you do that?\"",
+      "para_break": true
     },
     {
       "start": 102.34,
@@ -281,7 +274,8 @@
     {
       "start": 118.38,
       "end": 120.76,
-      "text": "The girl turned her eyes up to Dundy's."
+      "text": "The girl turned her eyes up to Dundy's.",
+      "para_break": true
     },
     {
       "start": 120.88,
@@ -291,8 +285,7 @@
     {
       "start": 123.94,
       "end": 124.46,
-      "text": "I had to,",
-      "para_break": true
+      "text": "\"I had to,\""
     },
     {
       "start": 124.54,
@@ -302,12 +295,12 @@
     {
       "start": 126.44,
       "end": 129.14,
-      "text": "I was all alone in here with him when he attacked me."
+      "text": "\"I was all alone in here with him when he attacked me."
     },
     {
       "start": 129.32,
       "end": 130.44,
-      "text": "I couldn't."
+      "text": "I couldn't—"
     },
     {
       "start": 130.62,
@@ -317,19 +310,18 @@
     {
       "start": 132.992,
       "end": 135.18,
-      "text": "I couldn't make myself shoot him.",
-      "para_break": true
+      "text": "I—I couldn't make myself shoot him.\""
     },
     {
       "start": 136.24,
       "end": 136.4,
-      "text": "Oh,",
+      "text": "\"Oh,",
       "para_break": true
     },
     {
       "start": 136.5,
       "end": 137.14,
-      "text": "you liar,"
+      "text": "you liar!\""
     },
     {
       "start": 137.46,
@@ -339,8 +331,7 @@
     {
       "start": 138.78,
       "end": 140.68,
-      "text": "trying unsuccessfully to pull the arm",
-      "para_break": true
+      "text": "trying unsuccessfully to pull the arm"
     },
     {
       "start": 140.68,
@@ -350,8 +341,7 @@
     {
       "start": 143.58,
       "end": 143.94,
-      "text": "Oh,",
-      "para_break": true
+      "text": "\"Oh,"
     },
     {
       "start": 143.94,
@@ -361,30 +351,27 @@
     {
       "start": 144.54,
       "end": 145.24,
-      "text": "filthy liar!"
+      "text": "filthy liar!\""
     },
     {
       "start": 146.28,
       "end": 148.24,
-      "text": "He twisted himself around to face Dundy.",
-      "para_break": true
+      "text": "He twisted himself around to face Dundy."
     },
     {
       "start": 148.86,
       "end": 149.64,
-      "text": "She's lying awfully.",
-      "para_break": true
+      "text": "\"She's lying awfully."
     },
     {
       "start": 150.48,
       "end": 153.28,
-      "text": "I came here in good faith and was attacked by both of them.",
-      "para_break": true
+      "text": "I came here in good faith and was attacked by both of them,"
     },
     {
       "start": 153.7,
       "end": 154.36,
-      "text": "And when you came,"
+      "text": "and when you came"
     },
     {
       "start": 154.88,
@@ -394,7 +381,7 @@
     {
       "start": 156.544,
       "end": 157.96,
-      "text": "leaving her here with this pistol."
+      "text": "leaving her here with this pistol,"
     },
     {
       "start": 158.44,
@@ -402,46 +389,46 @@
       "text": "and then she said they were going to kill me"
     },
     {
-      "start": 160.36,
-      "end": 162.98,
-      "text": "after you left and I called for help so you"
+      "start": 160.32,
+      "end": 162.36,
+      "text": "after you left, and I called for help,"
     },
     {
-      "start": 162.98,
-      "end": 164.7,
-      "text": "wouldn't leave me here to be murdered"
+      "start": 162.36,
+      "end": 164.6,
+      "text": "so you wouldn't leave me here to be murdered,"
     },
     {
       "start": 164.84,
       "end": 166.96,
-      "text": "and then she struck me with the pistol."
+      "text": "and then she struck me with the pistol.\""
     },
     {
       "start": 167.84,
       "end": 168.7,
-      "text": "Here give me this",
+      "text": "\"Here, give me this",
       "para_break": true
     },
     {
       "start": 168.8,
       "end": 171.62,
-      "text": "thing Dundee said and took the pistol from Cairo's hand."
+      "text": "thing,\" Dundy said, and took the pistol from Cairo's hand."
     },
     {
       "start": 172.32,
       "end": 174.18,
-      "text": "Now let's get this straight what did you",
-      "para_break": true
+      "text": "\"Now let's get this straight."
     },
     {
       "start": 174.18,
       "end": 174.88,
-      "text": "come here for?"
+      "text": "What'd you come here for?\""
     },
     {
       "start": 175.28,
       "end": 176.92,
-      "text": "He sent for me."
+      "text": "\"He sent for me.\"",
+      "para_break": true
     },
     {
       "start": 177.08,
@@ -451,7 +438,7 @@
     {
       "start": 180.7,
       "end": 183.06,
-      "text": "He called me up on the phone and asked me to come here."
+      "text": "\"He called me up on the phone and asked me to come here.\""
     },
     {
       "start": 183.936,
@@ -467,13 +454,13 @@
     {
       "start": 188.0,
       "end": 188.5,
-      "text": "Dundee asked,",
+      "text": "Dundy asked:",
       "para_break": true
     },
     {
       "start": 188.66,
       "end": 189.96,
-      "text": "What'd you come here for?"
+      "text": "\"What'd he want you for?\""
     },
     {
       "start": 191.04,
@@ -502,26 +489,24 @@
       "text": "indignation in his manner had been replaced by caution."
     },
     {
-      "start": 200.94,
-      "end": 202.34,
-      "text": "He said he wanted,"
+      "start": 201.18,
+      "end": 202.32,
+      "text": "\"He said he wanted—"
     },
     {
-      "start": 203.04,
-      "end": 203.62,
-      "text": "they wanted,",
-      "para_break": true
+      "start": 202.48,
+      "end": 203.58,
+      "text": "they wanted—"
     },
     {
-      "start": 204.06,
-      "end": 204.62,
+      "start": 203.76,
+      "end": 204.6,
       "text": "to see me."
     },
     {
-      "start": 205.28,
-      "end": 206.48,
-      "text": "I didn't know what about.",
-      "para_break": true
+      "start": 205.14,
+      "end": 206.4,
+      "text": "I didn't know what about.\""
     },
     {
       "start": 207.424,
@@ -537,7 +522,7 @@
     {
       "start": 211.78,
       "end": 214.1,
-      "text": "mopping handkerchief had released in the air and"
+      "text": "mopping handkerchief had released in the air, and"
     },
     {
       "start": 214.112,
@@ -547,36 +532,34 @@
     {
       "start": 218.304,
       "end": 220.62,
-      "text": "Spade winked at him and went on rolling a cigarette.",
-      "para_break": true
+      "text": "Spade winked at him and went on rolling a cigarette."
     },
     {
       "start": 221.728,
       "end": 222.32,
-      "text": "Dundy asked,",
+      "text": "Dundy asked:",
       "para_break": true
     },
     {
       "start": 222.56,
       "end": 222.66,
-      "text": "well,"
+      "text": "\"Well,"
     },
     {
       "start": 223.62,
       "end": 224.34,
-      "text": "what happened then?",
-      "para_break": true
+      "text": "what happened then?\""
     },
     {
       "start": 225.42,
       "end": 226.48,
-      "text": "Then they attacked me.",
+      "text": "\"Then they attacked me.",
       "para_break": true
     },
     {
       "start": 227.0,
       "end": 229.2,
-      "text": "She struck me first and then he choked"
+      "text": "She struck me first, and then he choked"
     },
     {
       "start": 229.2,
@@ -591,8 +574,7 @@
     {
       "start": 232.3,
       "end": 233.62,
-      "text": "I don't know what they would have done",
-      "para_break": true
+      "text": "I don't know what they would have done"
     },
     {
       "start": 233.62,
@@ -602,18 +584,17 @@
     {
       "start": 236.36,
       "end": 238.74,
-      "text": "I dare say they would have murdered me then and there.",
-      "para_break": true
+      "text": "I dare say they would have murdered me then and there."
     },
     {
-      "start": 239.24,
-      "end": 240.82,
-      "text": "When he went out to answer the bell,"
+      "start": 238.66,
+      "end": 241.28,
+      "text": "When he went out to answer the bell he left"
     },
     {
-      "start": 240.96,
-      "end": 243.22,
-      "text": "he left her here with a pistol to watch over me."
+      "start": 241.28,
+      "end": 243.18,
+      "text": "her here with the pistol to watch over me.\""
     }
   ]
 }

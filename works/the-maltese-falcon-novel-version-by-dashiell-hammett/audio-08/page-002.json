@@ -27,8 +27,7 @@
     {
       "start": 247.14,
       "end": 248.8,
-      "text": "\"Why don't you make him tell the truth?\"",
-      "para_break": true
+      "text": "\"Why don't you make him tell the truth?\""
     },
     {
       "start": 249.32,
@@ -55,24 +54,23 @@
     {
       "start": 259.32,
       "end": 260.08,
-      "text": "and growled,"
+      "text": "and growled:"
     },
     {
       "start": 260.7,
       "end": 261.34,
-      "text": "none of that now.",
-      "para_break": true
+      "text": "\"None of that now.\""
     },
     {
       "start": 261.68,
       "end": 261.78,
-      "text": "Spade,"
+      "text": "Spade,",
+      "para_break": true
     },
     {
       "start": 262.58,
       "end": 263.4,
-      "text": "lighting his cigarette,",
-      "para_break": true
+      "text": "lighting his cigarette,"
     },
     {
       "start": 263.58,
@@ -82,7 +80,7 @@
     {
       "start": 265.04,
       "end": 265.9,
-      "text": "and told Tom,"
+      "text": "and told Tom:"
     },
     {
       "start": 266.08,
@@ -92,7 +90,8 @@
     {
       "start": 267.96,
       "end": 268.76,
-      "text": "Yeah,"
+      "text": "\"Yeah,\"",
+      "para_break": true
     },
     {
       "start": 269.14,
@@ -102,7 +101,7 @@
     {
       "start": 271.264,
       "end": 273.1,
-      "text": "Dundy scowled down at the girl and asked,",
+      "text": "Dundy scowled down at the girl and asked:",
       "para_break": true
     },
     {
@@ -113,7 +112,7 @@
     {
       "start": 276.42,
       "end": 277.28,
-      "text": "\"Not what he said,",
+      "text": "\"Not what he said,\"",
       "para_break": true
     },
     {
@@ -124,13 +123,12 @@
     {
       "start": 278.26,
       "end": 279.7,
-      "text": "Not anything he said."
+      "text": "\"Not anything he said.\""
     },
     {
       "start": 280.68,
       "end": 281.6,
-      "text": "She turned to Spade.",
-      "para_break": true
+      "text": "She turned to Spade."
     },
     {
       "start": 281.88,
@@ -151,7 +149,7 @@
     {
       "start": 286.16,
       "end": 288.26,
-      "text": "I was out in the kitchen mixing an"
+      "text": "\"I was out in the kitchen mixing an"
     },
     {
       "start": 288.4,
@@ -182,18 +180,19 @@
     {
       "start": 295.4,
       "end": 297.42,
-      "text": "Tom grunted in disgust."
+      "text": "Tom grunted in disgust.",
+      "para_break": true
     },
     {
       "start": 297.6,
       "end": 297.7,
-      "text": "Dundy,"
+      "text": "Dundy,",
+      "para_break": true
     },
     {
       "start": 298.52,
       "end": 299.72,
-      "text": "still scowling at the girl,",
-      "para_break": true
+      "text": "still scowling at the girl,"
     },
     {
       "start": 299.78,
@@ -203,22 +202,23 @@
     {
       "start": 300.78,
       "end": 301.4,
-      "text": "and asked her,"
+      "text": "and asked her:"
     },
     {
-      "start": 301.98,
+      "start": 301.42,
       "end": 303.24,
-      "text": "if he's not telling the truth,"
+      "text": "\"If he's not telling the truth,"
     },
     {
-      "start": 303.66,
-      "end": 306.28,
-      "text": "how come he did the squawking for help and not you?"
+      "start": 305.56,
+      "end": 306.2,
+      "text": "and not you?\""
     },
     {
       "start": 306.72,
       "end": 307.2,
-      "text": "Oh,"
+      "text": "\"Oh,",
+      "para_break": true
     },
     {
       "start": 307.32,
@@ -248,7 +248,7 @@
     {
       "start": 316.56,
       "end": 317.26,
-      "text": "He exclaimed,"
+      "text": "He exclaimed:"
     },
     {
       "start": 317.42,
@@ -274,8 +274,7 @@
     {
       "start": 325.152,
       "end": 326.62,
-      "text": "Dundy pulled him away from her while",
-      "para_break": true
+      "text": "Dundy pulled him away from her while"
     },
     {
       "start": 326.62,
@@ -285,7 +284,7 @@
     {
       "start": 328.5,
       "end": 328.84,
-      "text": "rumbling,"
+      "text": "rumbling:"
     },
     {
       "start": 329.36,
@@ -295,12 +294,12 @@
     {
       "start": 329.96,
       "end": 330.24,
-      "text": "sister,"
+      "text": "sister."
     },
     {
       "start": 330.52,
       "end": 332.14,
-      "text": "that's no way to act.\""
+      "text": "That's no way to act.\""
     },
     {
       "start": 332.86,
@@ -316,7 +315,7 @@
     {
       "start": 336.18,
       "end": 337.06,
-      "text": "\"We'll do that all right,",
+      "text": "\"We'll do that all right,\"",
       "para_break": true
     },
     {
@@ -343,7 +342,7 @@
     {
       "start": 343.8,
       "end": 345.08,
-      "text": "addressed his subordinate."
+      "text": "addressed his subordinate:"
     },
     {
       "start": 345.24,
@@ -353,8 +352,7 @@
     {
       "start": 346.16,
       "end": 346.44,
-      "text": "Tom,",
-      "para_break": true
+      "text": "Tom,"
     },
     {
       "start": 346.64,
@@ -381,14 +379,12 @@
     {
       "start": 359.78,
       "end": 361.78,
-      "text": "His smile and manner were amiably composed.",
-      "para_break": true
+      "text": "His smile and manner were amiably composed."
     },
     {
       "start": 362.74,
       "end": 363.44,
-      "text": "\"Don't be in a hurry,",
-      "para_break": true
+      "text": "\"Don't be in a hurry,\""
     },
     {
       "start": 363.52,
@@ -403,7 +399,7 @@
     {
       "start": 366.9,
       "end": 367.46,
-      "text": "\"I bet you,",
+      "text": "\"I bet you,\"",
       "para_break": true
     },
     {
@@ -425,7 +421,7 @@
     {
       "start": 371.48,
       "end": 372.76,
-      "text": "\"Miss O'Shaughnessy,"
+      "text": "\"Miss O'Shaughnessy,\""
     },
     {
       "start": 372.86,
@@ -445,39 +441,39 @@
     {
       "start": 379.58,
       "end": 381.9,
-      "text": "Miss O'Shaughnessy is an operative in my employ.",
-      "para_break": true
+      "text": "\"Miss O'Shaughnessy is an operative in my employ.\""
     },
     {
       "start": 383.04,
       "end": 384.84,
-      "text": "Joel Cairo said indignantly,",
+      "text": "Joel Cairo said indignantly:",
       "para_break": true
     },
     {
-      "start": 384.96,
-      "end": 386.06,
-      "text": "that isn't so."
+      "start": 384.82,
+      "end": 386.04,
+      "text": "\"That isn't so."
     },
     {
-      "start": 386.3,
-      "end": 386.72,
-      "text": "She,"
+      "start": 386.28,
+      "end": 386.82,
+      "text": "She—\""
     },
     {
       "start": 387.17,
       "end": 390.12,
-      "text": "Spade interrupted him in a quite loud, but still"
+      "text": "Spade interrupted him in a quite loud, but still",
+      "para_break": true
     },
     {
       "start": 390.22,
       "end": 390.88,
-      "text": "genial voice."
+      "text": "genial, voice:"
     },
     {
       "start": 391.22,
       "end": 392.94,
-      "text": "I hired her just recently,"
+      "text": "\"I hired her just recently,"
     },
     {
       "start": 393.12,
@@ -487,8 +483,7 @@
     {
       "start": 394.7,
       "end": 395.12,
-      "text": "This is Mr.",
-      "para_break": true
+      "text": "This is Mr."
     },
     {
       "start": 395.26,
@@ -498,7 +493,7 @@
     {
       "start": 396.08,
       "end": 396.56,
-      "text": "a friend--"
+      "text": "a friend—"
     },
     {
       "start": 396.8,
@@ -508,7 +503,7 @@
     {
       "start": 397.94,
       "end": 398.44,
-      "text": "at any rate--"
+      "text": "at any rate—"
     },
     {
       "start": 398.54,
@@ -528,8 +523,7 @@
     {
       "start": 406.28,
       "end": 406.9,
-      "text": "It looked funny,",
-      "para_break": true
+      "text": "It looked funny,"
     },
     {
       "start": 407.04,
@@ -547,29 +541,28 @@
       "text": "so I wouldn't touch it."
     },
     {
-      "start": 410.22,
-      "end": 410.98,
-      "text": "Then he pulled a gun.",
-      "para_break": true
+      "start": 409.84,
+      "end": 410.96,
+      "text": "Then he pulled a gun—"
     },
     {
-      "start": 411.22,
-      "end": 411.64,
-      "text": "Well,"
+      "start": 411.18,
+      "end": 412.94,
+      "text": "well, never mind that unless"
     },
     {
-      "start": 411.84,
-      "end": 412.68,
+      "start": 412.94,
+      "end": 413.14,
       "text": "never mind that,"
     },
     {
-      "start": 412.76,
-      "end": 413.9,
-      "text": "unless it comes to a point"
+      "start": 413.14,
+      "end": 413.32,
+      "text": "it comes to a point"
     },
     {
-      "start": 414.28,
-      "end": 415.96,
+      "start": 413.88,
+      "end": 415.92,
       "text": "of laying charges against each other."
     },
     {
@@ -600,8 +593,7 @@
     {
       "start": 426.6,
       "end": 428.72,
-      "text": "Maybe we put the questions to him a little rough,",
-      "para_break": true
+      "text": "Maybe we put the questions to him a little rough,"
     },
     {
       "start": 429.12,
@@ -616,18 +608,17 @@
     {
       "start": 433.24,
       "end": 434.56,
-      "text": "I'd already had to take his gun",
-      "para_break": true
+      "text": "I'd already had to take his gun"
     },
     {
       "start": 434.56,
       "end": 435.66,
-      "text": "away from him again."
+      "text": "away from him again.\""
     },
     {
       "start": 437.12,
       "end": 437.86,
-      "text": "As Spade talked,",
+      "text": "As Spade talked",
       "para_break": true
     },
     {
@@ -638,8 +629,7 @@
     {
       "start": 440.88,
       "end": 441.5,
-      "text": "His eyes moved",
-      "para_break": true
+      "text": "His eyes moved"
     },
     {
       "start": 441.56,
@@ -659,18 +649,18 @@
     {
       "start": 447.2,
       "end": 449.3,
-      "text": "Dundy confronted Cairo and brusquely demanded,",
+      "text": "Dundy confronted Cairo and bruskly demanded:",
       "para_break": true
     },
     {
       "start": 449.56,
       "end": 450.04,
-      "text": "well,"
+      "text": "\"Well,"
     },
     {
       "start": 450.26,
       "end": 451.64,
-      "text": "what have you got to say to that?"
+      "text": "what've you got to say to that?\""
     },
     {
       "start": 452.736,
@@ -686,8 +676,7 @@
     {
       "start": 457.76,
       "end": 458.88,
-      "text": "When he lifted his eyes,",
-      "para_break": true
+      "text": "When he lifted his eyes,"
     },
     {
       "start": 458.92,
@@ -697,8 +686,7 @@
     {
       "start": 460.58,
       "end": 462.04,
-      "text": "\"I don't know what I should say,",
-      "para_break": true
+      "text": "\"I don't know what I should say,\""
     },
     {
       "start": 462.14,
@@ -713,7 +701,7 @@
     {
       "start": 465.86,
       "end": 466.8,
-      "text": "\"Try telling the facts,",
+      "text": "\"Try telling the facts,\"",
       "para_break": true
     },
     {
@@ -730,8 +718,7 @@
     {
       "start": 470.24,
       "end": 471.44,
-      "text": "Cairo's eyes fidgeted,",
-      "para_break": true
+      "text": "Cairo's eyes fidgeted,"
     },
     {
       "start": 471.68,
@@ -741,8 +728,7 @@
     {
       "start": 474.8,
       "end": 477.48,
-      "text": "\"What assurance have I that the facts will be believed?\"",
-      "para_break": true
+      "text": "\"What assurance have I that the facts will be believed?\""
     },
     {
       "start": 478.72,
@@ -821,7 +807,7 @@
     {
       "start": 509.48,
       "end": 510.5,
-      "text": "quite a snort and said,"
+      "text": "quite a snort and said:"
     },
     {
       "start": 510.64,

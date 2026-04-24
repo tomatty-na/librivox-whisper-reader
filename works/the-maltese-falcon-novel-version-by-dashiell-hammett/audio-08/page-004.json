@@ -16,13 +16,13 @@
     {
       "start": 759.6,
       "end": 759.7,
-      "text": "\"No,"
+      "text": "\"No,",
+      "para_break": true
     },
     {
       "start": 760.3,
       "end": 760.42,
-      "text": "no,",
-      "para_break": true
+      "text": "no,"
     },
     {
       "start": 760.44,
@@ -37,7 +37,8 @@
     {
       "start": 762.36,
       "end": 764.72,
-      "text": "After a long moment of motionlessness,"
+      "text": "After a long moment of motionlessness",
+      "para_break": true
     },
     {
       "start": 765.12,
@@ -47,14 +48,12 @@
     {
       "start": 767.2,
       "end": 768.6,
-      "text": "\"Then get him out of here quick,",
-      "para_break": true
+      "text": "\"Then get him out of here quick,\""
     },
     {
       "start": 769.2,
       "end": 769.56,
-      "text": "he said.",
-      "para_break": true
+      "text": "he said."
     },
     {
       "start": 770.08,
@@ -88,21 +87,19 @@
       "text": "turned his head to look over his shoulder at Lieutenant Dundy."
     },
     {
-      "start": 781.696,
-      "end": 783.36,
-      "text": "Tom's small eyes were reproachful.",
-      "para_break": true
+      "start": 781.504,
+      "end": 783.344,
+      "text": "Tom's small eyes were reproachful."
     },
     {
-      "start": 784.224,
-      "end": 786.18,
-      "text": "Dundy's fists were clenched in front of his body,",
-      "para_break": true
+      "start": 784.044,
+      "end": 786.844,
+      "text": "Dundy's fists were clenched in front of his body and his feet were"
     },
     {
-      "start": 786.24,
-      "end": 789.08,
-      "text": "and his feet were planted firm and a little apart on the floor."
+      "start": 786.844,
+      "end": 789.064,
+      "text": "planted firm and a little apart on the floor,"
     },
     {
       "start": 789.24,
@@ -122,7 +119,7 @@
     {
       "start": 796.26,
       "end": 797.34,
-      "text": "\"Get their names and addresses,",
+      "text": "\"Get their names and addresses,\"",
       "para_break": true
     },
     {
@@ -139,13 +136,12 @@
     {
       "start": 800.08,
       "end": 800.76,
-      "text": "who said quickly,"
+      "text": "who said quickly:"
     },
     {
       "start": 801.38,
       "end": 801.96,
-      "text": "\"Joel Cairo,",
-      "para_break": true
+      "text": "\"Joel Cairo,"
     },
     {
       "start": 802.04,
@@ -161,8 +157,7 @@
     {
       "start": 806.52,
       "end": 807.16,
-      "text": "\"You can always get",
-      "para_break": true
+      "text": "\"You can always get"
     },
     {
       "start": 807.16,
@@ -178,7 +173,7 @@
     {
       "start": 810.88,
       "end": 812.02,
-      "text": "Dundy growled,"
+      "text": "Dundy growled:"
     },
     {
       "start": 812.06,
@@ -188,7 +183,7 @@
     {
       "start": 814.09,
       "end": 815.08,
-      "text": "Spade said,",
+      "text": "Spade said:",
       "para_break": true
     },
     {
@@ -220,7 +215,7 @@
     {
       "start": 824.544,
       "end": 825.44,
-      "text": "Spade addressed Tom,",
+      "text": "Spade addressed Tom:",
       "para_break": true
     },
     {
@@ -231,19 +226,18 @@
     {
       "start": 827.9,
       "end": 828.78,
-      "text": "I've had enough of this.\"",
-      "para_break": true
+      "text": "I've had enough of this.\""
     },
     {
       "start": 829.792,
       "end": 831.12,
-      "text": "Tom looked at Spade's eyes--",
+      "text": "Tom looked at Spade's eyes—",
       "para_break": true
     },
     {
       "start": 831.34,
       "end": 833.02,
-      "text": "hard and glittering--and mumbled:"
+      "text": "hard and glittering—and mumbled:"
     },
     {
       "start": 833.44,
@@ -258,18 +252,17 @@
     {
       "start": 835.4,
       "end": 836.98,
-      "text": "He buttoned his coat and turned to Dundy,",
-      "para_break": true
+      "text": "He buttoned his coat and turned to Dundy,"
     },
     {
       "start": 837.18,
       "end": 838.99,
-      "text": "asking in a voice that aped casualness,"
+      "text": "asking, in a voice that aped casualness,"
     },
     {
       "start": 839.48,
       "end": 839.7,
-      "text": "\"well,"
+      "text": "\"Well,"
     },
     {
       "start": 839.86,
@@ -279,8 +272,7 @@
     {
       "start": 841.14,
       "end": 842.8,
-      "text": "and taking a step towards the door.",
-      "para_break": true
+      "text": "and taking a step towards the door."
     },
     {
       "start": 843.872,
@@ -297,7 +289,7 @@
     {
       "start": 848.6,
       "end": 848.84,
-      "text": "saying,"
+      "text": "saying:"
     },
     {
       "start": 849.408,
@@ -317,7 +309,7 @@
     {
       "start": 853.92,
       "end": 854.44,
-      "text": "Spade asked,",
+      "text": "Spade asked:",
       "para_break": true
     },
     {
@@ -328,7 +320,7 @@
     {
       "start": 856.704,
       "end": 857.51,
-      "text": "Dundy said angrily,",
+      "text": "Dundy said angrily:",
       "para_break": true
     },
     {
@@ -337,19 +329,19 @@
       "text": "\"It was all in fun,"
     },
     {
-      "start": 859.5,
-      "end": 860.36,
-      "text": "but just the same,"
+      "start": 859.46,
+      "end": 860.88,
+      "text": "but just the same you're afraid"
     },
     {
-      "start": 860.54,
-      "end": 861.9,
-      "text": "you're afraid to be left here with them.\""
+      "start": 860.88,
+      "end": 861.86,
+      "text": "to be left here with them.\""
     },
     {
       "start": 862.84,
       "end": 863.36,
-      "text": "\"Not at all,",
+      "text": "\"Not at all,\"",
       "para_break": true
     },
     {
@@ -365,37 +357,38 @@
     {
       "start": 865.68,
       "end": 866.68,
-      "text": "looking at neither of them."
+      "text": "looking at neither of them,"
     },
     {
-      "start": 866.82,
-      "end": 868.0,
-      "text": "\"But it's quite late,"
+      "start": 866.88,
+      "end": 867.98,
+      "text": "\"but it's quite late"
     },
     {
-      "start": 868.06,
+      "start": 868.04,
       "end": 868.38,
-      "text": "and,"
+      "text": "and—"
     },
     {
-      "start": 868.88,
-      "end": 869.52,
+      "start": 868.38,
+      "end": 869.22,
       "text": "and I'm going."
     },
     {
       "start": 870.1,
-      "end": 871.12,
-      "text": "I'll go out with you,"
+      "end": 871.54,
+      "text": "I'll go out with you if"
     },
     {
-      "start": 871.32,
-      "end": 872.18,
-      "text": "if you don't mind.\""
+      "start": 871.54,
+      "end": 872.08,
+      "text": "you don't mind.\""
     },
     {
       "start": 872.63,
       "end": 875.14,
-      "text": "Dundy put his lips together firmly and said nothing."
+      "text": "Dundy put his lips together firmly and said nothing.",
+      "para_break": true
     },
     {
       "start": 875.38,
@@ -421,8 +414,7 @@
     {
       "start": 882.56,
       "end": 883.7,
-      "text": "Spade's face was blank.",
-      "para_break": true
+      "text": "Spade's face was blank."
     },
     {
       "start": 883.92,
@@ -432,13 +424,12 @@
     {
       "start": 887.96,
       "end": 890.6,
-      "text": "the Levantine into his coat and said to Tom,"
+      "text": "the Levantine into his coat and said to Tom:"
     },
     {
       "start": 891.4,
       "end": 892.58,
-      "text": "tell him to leave the gun.",
-      "para_break": true
+      "text": "\"Tell him to leave the gun.\""
     },
     {
       "start": 893.76,
@@ -449,7 +440,7 @@
     {
       "start": 895.04,
       "end": 897.62,
-      "text": "from his overcoat pocket and put it on the table."
+      "text": "from his overcoat-pocket and put it on the table."
     },
     {
       "start": 897.95,
@@ -459,8 +450,7 @@
     {
       "start": 901.12,
       "end": 902.42,
-      "text": "Tom halted in front of Spade,",
-      "para_break": true
+      "text": "Tom halted in front of Spade,"
     },
     {
       "start": 902.5,
@@ -470,14 +460,12 @@
     {
       "start": 903.52,
       "end": 905.16,
-      "text": "\"I hope to God you know what you're doing,\"",
-      "para_break": true
+      "text": "\"I hope to God you know what you're doing,\""
     },
     {
       "start": 906.12,
       "end": 906.78,
-      "text": "got no response,",
-      "para_break": true
+      "text": "got no response,"
     },
     {
       "start": 907.12,
@@ -492,19 +480,17 @@
     {
       "start": 910.272,
       "end": 912.89,
-      "text": "Spade went after them as far as the bend in the passageway",
-      "para_break": true
+      "text": "Spade went after them as far as the bend in the passageway"
     },
     {
       "start": 913.06,
       "end": 915.74,
-      "text": "where he stood until Tom had closed the corridor door."
+      "text": "where he stood until Tom had closed the corridor-door."
     },
     {
       "start": 916.8,
       "end": 917.96,
-      "text": "End of chapter eight.",
-      "para_break": true
+      "text": "End of chapter eight."
     }
   ]
 }
