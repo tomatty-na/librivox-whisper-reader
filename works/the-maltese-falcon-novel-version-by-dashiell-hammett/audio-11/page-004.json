@@ -15,7 +15,8 @@
     {
       "start": 724.74,
       "end": 725.44,
-      "text": "Mr."
+      "text": "\"Mr.",
+      "para_break": true
     },
     {
       "start": 725.56,
@@ -30,18 +31,19 @@
     {
       "start": 728.04,
       "end": 730.74,
-      "text": "of how much money can be made out of that black bird?",
-      "para_break": true
+      "text": "of how much money can be made out of that black bird?\""
     },
     {
       "start": 731.06,
       "end": 732.1,
-      "text": "No."
+      "text": "\"No.\"",
+      "para_break": true
     },
     {
       "start": 732.3,
       "end": 733.8,
-      "text": "The fat man"
+      "text": "The fat man",
+      "para_break": true
     },
     {
       "start": 733.92,
@@ -56,7 +58,7 @@
     {
       "start": 738.02,
       "end": 738.86,
-      "text": "Well,"
+      "text": "\"Well,"
     },
     {
       "start": 738.86,
@@ -64,29 +66,24 @@
       "text": "sir,"
     },
     {
-      "start": 739.32,
-      "end": 740.26,
-      "text": "if I told"
+      "start": 739.3,
+      "end": 740.6,
+      "text": "if I told you—"
     },
     {
-      "start": 740.42,
-      "end": 740.64,
-      "text": "you,"
+      "start": 740.62,
+      "end": 741.04,
+      "text": "by Gad,"
     },
     {
-      "start": 740.64,
-      "end": 741.4,
-      "text": "by God,"
+      "start": 741.66,
+      "end": 743.1,
+      "text": "if I told you half!—"
     },
     {
-      "start": 741.72,
-      "end": 743.14,
-      "text": "if I told you half,"
-    },
-    {
-      "start": 743.34,
-      "end": 744.58,
-      "text": "you'd call me a liar."
+      "start": 743.32,
+      "end": 744.5,
+      "text": "you'd call me a liar.\""
     },
     {
       "start": 745.792,
@@ -97,7 +94,7 @@
     {
       "start": 746.8,
       "end": 747.54,
-      "text": "No,"
+      "text": "\"No,\""
     },
     {
       "start": 747.72,
@@ -107,8 +104,7 @@
     {
       "start": 749.0,
       "end": 749.66,
-      "text": "not even if I",
-      "para_break": true
+      "text": "not even if I"
     },
     {
       "start": 749.72,
@@ -118,24 +114,23 @@
     {
       "start": 750.7,
       "end": 752.08,
-      "text": "But if you won't take the risk,",
-      "para_break": true
+      "text": "But if you won't take the risk,"
     },
     {
       "start": 752.2,
       "end": 754.6,
-      "text": "just tell me what it is and I'll figure out the profits."
+      "text": "just tell me what it is and I'll figure out the profits.\""
     },
     {
       "start": 754.88,
       "end": 756.64,
-      "text": "The fat man laughed."
+      "text": "The fat man laughed.",
+      "para_break": true
     },
     {
       "start": 757.34,
       "end": 758.08,
-      "text": "You couldn't do it,",
-      "para_break": true
+      "text": "\"You couldn't do it,"
     },
     {
       "start": 758.12,
@@ -145,25 +140,22 @@
     {
       "start": 759.04,
       "end": 761.52,
-      "text": "Nobody could do it that hadn't had a world",
-      "para_break": true
+      "text": "Nobody could do it that hadn't had a world"
     },
     {
-      "start": 761.52,
-      "end": 763.3,
-      "text": "of experience with things of that sort."
+      "start": 761.48,
+      "end": 764.08,
+      "text": "of experience with things of that sort, and\"—"
     },
     {
-      "start": 763.936,
-      "end": 766.1,
-      "text": "And he paused impressively.",
-      "para_break": true
+      "start": 764.08,
+      "end": 766.06,
+      "text": "he paused impressively—"
     },
     {
-      "start": 766.86,
-      "end": 768.74,
-      "text": "There aren't any other things of that sort.",
-      "para_break": true
+      "start": 766.46,
+      "end": 768.68,
+      "text": "\"there aren't any other things of that sort.\""
     },
     {
       "start": 769.7,
@@ -174,36 +166,32 @@
     {
       "start": 773.14,
       "end": 774.24,
-      "text": "He stopped laughing abruptly.",
-      "para_break": true
+      "text": "He stopped laughing, abruptly."
     },
     {
       "start": 775.2,
       "end": 777.8,
-      "text": "His fleshy lips hung open as laughter had left them.",
-      "para_break": true
+      "text": "His fleshy lips hung open as laughter had left them."
     },
     {
       "start": 778.46,
       "end": 781.8,
-      "text": "He stared at Spade with an intentness that suggested myopia.",
-      "para_break": true
+      "text": "He stared at Spade with an intentness that suggested myopia."
     },
     {
       "start": 782.28,
       "end": 783.14,
-      "text": "He asked,"
+      "text": "He asked:"
     },
     {
       "start": 783.36,
       "end": 785.8,
-      "text": "you mean you don't know what it is?"
+      "text": "\"You mean you don't know what it is?\""
     },
     {
       "start": 786.752,
       "end": 788.94,
-      "text": "Amazement took the throatiness out of his voice.",
-      "para_break": true
+      "text": "Amazement took the throatiness out of his voice."
     },
     {
       "start": 789.76,
@@ -214,8 +202,7 @@
     {
       "start": 792.64,
       "end": 792.82,
-      "text": "Oh,",
-      "para_break": true
+      "text": "\"Oh,"
     },
     {
       "start": 792.88,
@@ -240,58 +227,57 @@
     {
       "start": 799.74,
       "end": 801.0,
-      "text": "I don't know what it is.",
-      "para_break": true
+      "text": "I don't know what it is.\""
     },
     {
       "start": 802.12,
       "end": 803.02,
-      "text": "She didn't tell you.",
+      "text": "\"She didn't tell you?\"",
       "para_break": true
     },
     {
       "start": 804.18,
       "end": 804.92,
-      "text": "Miss O'Shaughnessy?",
+      "text": "\"Miss O'Shaughnessy?\"",
       "para_break": true
     },
     {
       "start": 805.51,
       "end": 806.22,
-      "text": "Yes,",
+      "text": "\"Yes.",
       "para_break": true
     },
     {
       "start": 806.4,
       "end": 807.3,
-      "text": "a lovely girl,"
+      "text": "A lovely girl,"
     },
     {
       "start": 807.4,
       "end": 807.66,
-      "text": "sir."
+      "text": "sir.\""
     },
     {
       "start": 808.896,
       "end": 809.34,
-      "text": "Uh-huh.",
+      "text": "\"Uh-huh.",
       "para_break": true
     },
     {
       "start": 809.84,
       "end": 810.12,
-      "text": "No."
+      "text": "No.\""
     },
     {
       "start": 810.84,
       "end": 813.38,
-      "text": "The fat man's eyes were dark gleams and",
+      "text": "The fat man's eyes were dark gleams in",
       "para_break": true
     },
     {
       "start": 813.38,
       "end": 815.12,
-      "text": "ambushed behind pink puffs of flesh."
+      "text": "ambush behind pink puffs of flesh."
     },
     {
       "start": 815.62,
@@ -301,24 +287,22 @@
     {
       "start": 817.0,
       "end": 818.24,
-      "text": "she must know."
+      "text": "\"She must know,\""
     },
     {
       "start": 818.94,
       "end": 819.24,
-      "text": "And then,",
-      "para_break": true
+      "text": "and then,"
     },
     {
       "start": 820.2,
       "end": 821.26,
-      "text": "and Cairo didn't either?",
-      "para_break": true
+      "text": "\"And Cairo didn't either?\""
     },
     {
       "start": 822.272,
       "end": 823.28,
-      "text": "Cairo is cagey.",
+      "text": "\"Cairo is cagey.",
       "para_break": true
     },
     {
@@ -340,8 +324,7 @@
     {
       "start": 831.24,
       "end": 832.7,
-      "text": "How much is he willing to buy it for,",
-      "para_break": true
+      "text": "\"How much is he willing to buy it for?\""
     },
     {
       "start": 832.78,
@@ -351,7 +334,7 @@
     {
       "start": 834.3,
       "end": 834.92,
-      "text": "$10,000.",
+      "text": "\"Ten thousand dollars.\"",
       "para_break": true
     },
     {
@@ -363,7 +346,7 @@
     {
       "start": 838.04,
       "end": 840.32,
-      "text": "Ten thousand and dollars,"
+      "text": "\"Ten thousand, and dollars,"
     },
     {
       "start": 840.5,
@@ -373,40 +356,38 @@
     {
       "start": 841.0,
       "end": 841.8,
-      "text": "not even pounds?"
+      "text": "not even pounds."
     },
     {
       "start": 842.752,
       "end": 843.82,
-      "text": "That's the Greek for you.",
-      "para_break": true
+      "text": "That's the Greek for you."
     },
     {
       "start": 844.36,
       "end": 844.62,
-      "text": "Humph."
+      "text": "Humph!"
     },
     {
       "start": 845.3,
       "end": 846.48,
-      "text": "And what did you say to that?",
-      "para_break": true
+      "text": "And what did you say to that?\""
     },
     {
       "start": 847.56,
       "end": 849.12,
-      "text": "I said if I turned it over to him,",
+      "text": "\"I said if I turned it over to him",
       "para_break": true
     },
     {
       "start": 849.16,
       "end": 850.51,
-      "text": "I'd expect the ten thousand."
+      "text": "I'd expect the ten thousand.\""
     },
     {
       "start": 851.62,
       "end": 851.82,
-      "text": "Ah,",
+      "text": "\"Ah,",
       "para_break": true
     },
     {
@@ -417,18 +398,17 @@
     {
       "start": 852.52,
       "end": 852.82,
-      "text": "if."
+      "text": "_if_!"
     },
     {
       "start": 853.856,
       "end": 854.28,
-      "text": "Nicely put,",
-      "para_break": true
+      "text": "Nicely put,"
     },
     {
       "start": 854.4,
       "end": 854.64,
-      "text": "sir."
+      "text": "sir.\""
     },
     {
       "start": 855.42,
@@ -439,52 +419,43 @@
     {
       "start": 859.34,
       "end": 860.0,
-      "text": "They must know,",
-      "para_break": true
+      "text": "\"They must know,\""
     },
     {
       "start": 860.18,
       "end": 862.04,
-      "text": "he said only partly aloud then."
+      "text": "he said only partly aloud, then:"
     },
     {
       "start": 862.56,
       "end": 862.9,
-      "text": "Do they?"
+      "text": "\"Do they?"
     },
     {
-      "start": 863.86,
-      "end": 865.22,
-      "text": "Do they know what the bird is,",
+      "start": 863.36,
+      "end": 865.48,
+      "text": "Do they know what the bird is, sir?"
+    },
+    {
+      "start": 865.86,
+      "end": 866.82,
+      "text": "What was your impression?\""
+    },
+    {
+      "start": 868.03,
+      "end": 869.97,
+      "text": "\"I can't help you there,\" Spade confessed.",
       "para_break": true
     },
     {
-      "start": 865.32,
-      "end": 865.52,
-      "text": "sir?"
+      "start": 870.27,
+      "end": 871.59,
+      "text": "\"There's not much to go by."
     },
     {
-      "start": 866.2,
-      "end": 866.84,
-      "text": "What was your impression?",
-      "para_break": true
-    },
-    {
-      "start": 867.85,
-      "end": 870.02,
-      "text": "\"'I can't help you there,' Spade confessed.",
-      "para_break": true
-    },
-    {
-      "start": 870.58,
-      "end": 871.62,
-      "text": "\"'There's not much to go by."
-    },
-    {
-      "start": 872.224,
-      "end": 873.6,
-      "text": "\"'Cairo didn't say he did,",
-      "para_break": true
+      "start": 871.99,
+      "end": 873.61,
+      "text": "Cairo didn't say he did"
     },
     {
       "start": 873.76,
@@ -492,36 +463,35 @@
       "text": "and he didn't say he didn't."
     },
     {
-      "start": 875.7,
-      "end": 876.74,
-      "text": "\"'She said she didn't,"
+      "start": 875.33,
+      "end": 876.71,
+      "text": "She said she didn't,"
     },
     {
-      "start": 877.12,
-      "end": 879.14,
-      "text": "\"'but I took it for granted that she was lying."
+      "start": 876.71,
+      "end": 879.31,
+      "text": "but I took it for granted that she was lying.\""
     },
     {
-      "start": 880.04,
-      "end": 883.32,
-      "text": "\"'That was not an injudicious thing to do,' the fat man said,",
+      "start": 879.54,
+      "end": 883.26,
+      "text": "\"That was not an injudicious thing to do,\" the fat man said,",
       "para_break": true
     },
     {
-      "start": 883.88,
-      "end": 886.16,
-      "text": "\"'but his mind was obviously not on his words."
+      "start": 883.4,
+      "end": 886.14,
+      "text": "but his mind was obviously not on his words."
     },
     {
-      "start": 886.96,
-      "end": 887.86,
-      "text": "\"'He scratched his head.",
-      "para_break": true
+      "start": 886.5,
+      "end": 887.8,
+      "text": "He scratched his head."
     },
     {
-      "start": 888.24,
-      "end": 890.46,
-      "text": "\"'He frowned until his forehead was marked by raw,"
+      "start": 887.88,
+      "end": 890.44,
+      "text": "He frowned until his forehead was marked by raw"
     },
     {
       "start": 890.58,
@@ -529,15 +499,14 @@
       "text": "red creases."
     },
     {
-      "start": 892.34,
-      "end": 894.78,
-      "text": "\"'He fidgeted in his chair as much as his size",
-      "para_break": true
+      "start": 891.88,
+      "end": 894.76,
+      "text": "He fidgeted in his chair as much as his size"
     },
     {
-      "start": 894.92,
-      "end": 896.61,
-      "text": "\"'and the size of the chair permitted fidgeting."
+      "start": 894.76,
+      "end": 896.86,
+      "text": "and the size of the chair permitted fidgeting."
     },
     {
       "start": 896.96,
@@ -547,18 +516,17 @@
     {
       "start": 898.72,
       "end": 900.34,
-      "text": "opened them suddenly wide,"
+      "text": "opened them suddenly—wide—"
     },
     {
       "start": 900.7,
       "end": 901.86,
-      "text": "and said to Spade,"
+      "text": "and said to Spade:"
     },
     {
       "start": 902.74,
       "end": 903.76,
-      "text": "maybe they don't.",
-      "para_break": true
+      "text": "\"Maybe they don't.\""
     },
     {
       "start": 904.64,
@@ -569,7 +537,7 @@
     {
       "start": 906.82,
       "end": 909.5,
-      "text": "frown and then more quickly took on an expression"
+      "text": "frown and then, more quickly, took on an expression"
     },
     {
       "start": 909.78,
@@ -579,8 +547,7 @@
     {
       "start": 912.58,
       "end": 913.2,
-      "text": "If they don't,",
-      "para_break": true
+      "text": "\"If they don't,\""
     },
     {
       "start": 913.2,
@@ -590,12 +557,12 @@
     {
       "start": 913.84,
       "end": 914.54,
-      "text": "and again,"
+      "text": "and again:"
     },
     {
       "start": 914.74,
       "end": 915.94,
-      "text": "if they don't,"
+      "text": "\"if they don't"
     },
     {
       "start": 915.94,
@@ -605,7 +572,7 @@
     {
       "start": 917.86,
       "end": 919.84,
-      "text": "whole wide sweet world who does."
+      "text": "whole wide sweet world who does!\""
     },
     {
       "start": 920.63,
@@ -616,13 +583,12 @@
     {
       "start": 923.76,
       "end": 924.54,
-      "text": "I'm glad I came to",
-      "para_break": true
+      "text": "\"I'm glad I came to"
     },
     {
       "start": 924.64,
       "end": 925.1,
-      "text": "the right place,"
+      "text": "the right place,\""
     },
     {
       "start": 925.18,
@@ -638,12 +604,13 @@
     {
       "start": 927.82,
       "end": 928.75,
-      "text": "but some went vaguely."
+      "text": "but somewhat vaguely."
     },
     {
       "start": 928.98,
       "end": 930.66,
-      "text": "Happiness had gone out of"
+      "text": "Happiness had gone out of",
+      "para_break": true
     },
     {
       "start": 930.66,
@@ -661,26 +628,19 @@
       "text": "and caution had come into his eyes."
     },
     {
-      "start": 935.72,
-      "end": 936.89,
-      "text": "His face was a watchful",
-      "para_break": true
-    },
-    {
-      "start": 936.96,
-      "end": 939.9,
-      "text": "eyed smiling mask held up between his thoughts and Spade."
+      "start": 935.22,
+      "end": 939.96,
+      "text": "His face was a watchful-eyed smiling mask held up between his thoughts and Spade."
     },
     {
       "start": 940.76,
       "end": 941.12,
-      "text": "His eyes,",
-      "para_break": true
+      "text": "His eyes,"
     },
     {
       "start": 941.14,
       "end": 941.92,
-      "text": "avoiding Spade,"
+      "text": "avoiding Spade's,"
     },
     {
       "start": 941.96,
@@ -695,13 +655,12 @@
     {
       "start": 944.44,
       "end": 945.38,
-      "text": "His face brightened.",
-      "para_break": true
+      "text": "His face brightened."
     },
     {
       "start": 945.66,
       "end": 946.36,
-      "text": "By God,"
+      "text": "\"By Gad,"
     },
     {
       "start": 946.38,
@@ -716,7 +675,7 @@
     {
       "start": 947.94,
       "end": 948.82,
-      "text": "your glass is empty."
+      "text": "your glass is empty.\""
     },
     {
       "start": 949.58,
@@ -727,7 +686,7 @@
     {
       "start": 951.46,
       "end": 953.44,
-      "text": "clattered glasses and siphon and bottle,"
+      "text": "clattered glasses and siphon and bottle"
     },
     {
       "start": 953.5,
@@ -743,22 +702,23 @@
     {
       "start": 957.96,
       "end": 960.54,
-      "text": "with a flourish and a bow and a jocular,"
+      "text": "with a flourish and a bow and a jocular"
     },
     {
       "start": 960.6,
       "end": 961.28,
-      "text": "ah sir,"
+      "text": "\"Ah, sir,"
     },
     {
       "start": 961.54,
       "end": 963.62,
-      "text": "this kind of medicine will never hurt you,"
+      "text": "this kind of medicine will never hurt you!\""
     },
     {
       "start": 963.74,
       "end": 965.88,
       "text": "had handed him his refilled glass."
     }
-  ]
+  ],
+  "corrected": "claude"
 }

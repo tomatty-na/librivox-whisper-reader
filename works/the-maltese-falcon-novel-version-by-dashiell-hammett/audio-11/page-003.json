@@ -15,7 +15,8 @@
     {
       "start": 484.12,
       "end": 487.76,
-      "text": "The fat man raised his glass and held it against a window's light."
+      "text": "The fat man raised his glass and held it against a window's light.",
+      "para_break": true
     },
     {
       "start": 488.18,
@@ -30,7 +31,7 @@
     {
       "start": 492.18,
       "end": 492.5,
-      "text": "well,"
+      "text": "\"Well,"
     },
     {
       "start": 492.54,
@@ -45,7 +46,7 @@
     {
       "start": 494.74,
       "end": 495.72,
-      "text": "and clear understanding."
+      "text": "and clear understanding.\""
     },
     {
       "start": 496.96,
@@ -56,17 +57,18 @@
     {
       "start": 498.96,
       "end": 500.74,
-      "text": "The fat man looked shrewdly at"
+      "text": "The fat man looked shrewdly at",
+      "para_break": true
     },
     {
       "start": 500.8,
       "end": 501.48,
-      "text": "Spade and asked,"
+      "text": "Spade and asked:"
     },
     {
       "start": 501.66,
       "end": 502.98,
-      "text": "you're a closed mouth man?"
+      "text": "\"You're a close-mouthed man?\""
     },
     {
       "start": 504.0,
@@ -77,12 +79,12 @@
     {
       "start": 505.6,
       "end": 506.4,
-      "text": "I like to talk."
+      "text": "\"I like to talk.\""
     },
     {
       "start": 507.44,
       "end": 507.94,
-      "text": "Better and better,",
+      "text": "\"Better and better!\"",
       "para_break": true
     },
     {
@@ -93,7 +95,7 @@
     {
       "start": 509.65,
       "end": 511.94,
-      "text": "I just trust a closed-mouthed man."
+      "text": "\"I distrust a close-mouthed man."
     },
     {
       "start": 512.3,
@@ -108,7 +110,7 @@
     {
       "start": 516.07,
       "end": 517.8,
-      "text": "Talking is something you can't do"
+      "text": "Talking's something you can't do"
     },
     {
       "start": 517.81,
@@ -124,8 +126,7 @@
     {
       "start": 523.18,
       "end": 523.64,
-      "text": "We'll get along,",
-      "para_break": true
+      "text": "\"We'll get along,"
     },
     {
       "start": 523.88,
@@ -140,27 +141,29 @@
     {
       "start": 525.33,
       "end": 527.28,
-      "text": "He set his glass on the table and"
+      "text": "He set his glass on the table and",
+      "para_break": true
     },
     {
       "start": 527.38,
       "end": 529.7,
-      "text": "held the box of Coronas Del Ritz out to Spade."
+      "text": "held the box of Coronas del Ritz out to Spade."
     },
     {
       "start": 530.26,
       "end": 530.58,
-      "text": "A cigar,"
+      "text": "\"A cigar,"
     },
     {
       "start": 530.74,
       "end": 530.94,
-      "text": "sir?"
+      "text": "sir.\""
     },
     {
       "start": 531.51,
       "end": 532.82,
-      "text": "Spade took a cigar,"
+      "text": "Spade took a cigar,",
+      "para_break": true
     },
     {
       "start": 533.06,
@@ -170,40 +173,37 @@
     {
       "start": 534.08,
       "end": 534.96,
-      "text": "of it and lighted it."
+      "text": "of it, and lighted it."
     },
     {
       "start": 535.06,
       "end": 535.16,
-      "text": "Meanwhile,"
+      "text": "Meanwhile"
     },
     {
       "start": 536.16,
       "end": 539.0,
-      "text": "the fat man pulled another green plush chair around to face",
-      "para_break": true
+      "text": "the fat man pulled another green plush chair around to face"
     },
     {
       "start": 539.12,
       "end": 542.02,
-      "text": "spades within convenient distance and placed"
+      "text": "Spade's within convenient distance and placed"
     },
     {
       "start": 542.02,
       "end": 544.46,
-      "text": "a smoking stand within reach of both chairs."
+      "text": "a smoking-stand within reach of both chairs."
     },
     {
       "start": 545.18,
       "end": 547.28,
-      "text": "Then he took his glass from the table,",
-      "para_break": true
+      "text": "Then he took his glass from the table,"
     },
     {
       "start": 547.88,
       "end": 549.14,
-      "text": "took a cigar from the box,",
-      "para_break": true
+      "text": "took a cigar from the box,"
     },
     {
       "start": 549.64,
@@ -218,18 +218,17 @@
     {
       "start": 552.32,
       "end": 555.14,
-      "text": "His bulb stopped jouncing and settled into flabby rest.",
-      "para_break": true
+      "text": "His bulbs stopped jouncing and settled into flabby rest."
     },
     {
       "start": 555.44,
       "end": 557.56,
-      "text": "He sighed comfortably and said,"
+      "text": "He sighed comfortably and said:"
     },
     {
       "start": 558.0,
       "end": 558.36,
-      "text": "Now,"
+      "text": "\"Now,"
     },
     {
       "start": 558.46,
@@ -239,13 +238,12 @@
     {
       "start": 558.88,
       "end": 560.34,
-      "text": "we'll talk if you like,"
+      "text": "we'll talk if you like."
     },
     {
       "start": 561.0,
       "end": 563.68,
-      "text": "and I'll tell you right out that I'm a man who likes talking",
-      "para_break": true
+      "text": "And I'll tell you right out that I'm a man who likes talking"
     },
     {
       "start": 563.94,
@@ -255,14 +253,13 @@
     {
       "start": 565.92,
       "end": 566.46,
-      "text": "Swell,",
+      "text": "\"Swell.",
       "para_break": true
     },
     {
       "start": 567.14,
       "end": 568.56,
-      "text": "will we talk about the black bird?",
-      "para_break": true
+      "text": "Will we talk about the black bird?\""
     },
     {
       "start": 569.42,
@@ -278,13 +275,12 @@
     {
       "start": 573.62,
       "end": 573.94,
-      "text": "Will we?",
-      "para_break": true
+      "text": "\"Will we?\""
     },
     {
-      "start": 574.08,
-      "end": 576.1,
-      "text": "He asked and we will,"
+      "start": 574.14,
+      "end": 576.08,
+      "text": "he asked and, \"We will,\""
     },
     {
       "start": 576.66,
@@ -294,19 +290,17 @@
     {
       "start": 577.62,
       "end": 579.0,
-      "text": "His pink face",
-      "para_break": true
+      "text": "His pink face"
     },
     {
       "start": 579.0,
       "end": 580.0,
-      "text": "was shining with delight."
+      "text": "was shiny with delight."
     },
     {
       "start": 580.84,
       "end": 581.62,
-      "text": "You're the man for me,",
-      "para_break": true
+      "text": "\"You're the man for me,"
     },
     {
       "start": 581.74,
@@ -321,8 +315,7 @@
     {
       "start": 584.74,
       "end": 585.1,
-      "text": "No beating",
-      "para_break": true
+      "text": "No beating"
     },
     {
       "start": 585.26,
@@ -337,8 +330,7 @@
     {
       "start": 587.84,
       "end": 589.16,
-      "text": "Will we talk about the black bird?",
-      "para_break": true
+      "text": "'Will we talk about the black bird?'"
     },
     {
       "start": 589.36,
@@ -363,7 +355,7 @@
     {
       "start": 594.17,
       "end": 596.56,
-      "text": "Let us talk about the blackbird by all means,"
+      "text": "Let us talk about the black bird by all means,"
     },
     {
       "start": 596.74,
@@ -383,18 +375,17 @@
     {
       "start": 598.88,
       "end": 599.2,
-      "text": "please."
+      "text": "please,"
     },
     {
       "start": 599.54,
       "end": 602.0,
-      "text": "So maybe it's an unnecessary one."
+      "text": "though maybe it's an unnecessary one,"
     },
     {
       "start": 602.9,
       "end": 603.26,
-      "text": "So we'll",
-      "para_break": true
+      "text": "so we'll"
     },
     {
       "start": 603.28,
@@ -404,13 +395,12 @@
     {
       "start": 605.58,
       "end": 607.8,
-      "text": "You're here as Miss O'Shaughnessy's representative?",
-      "para_break": true
+      "text": "You're here as Miss O'Shaughnessy's representative?"
     },
     {
       "start": 609.376,
       "end": 612.26,
-      "text": "Spade blew smoke above the fat man's head in a long,",
+      "text": "Spade blew smoke above the fat man's head in a long",
       "para_break": true
     },
     {
@@ -431,12 +421,12 @@
     {
       "start": 617.22,
       "end": 618.66,
-      "text": "He replied deliberately,"
+      "text": "He replied deliberately:"
     },
     {
       "start": 618.9,
       "end": 620.58,
-      "text": "I can't say yes or no."
+      "text": "\"I can't say yes or no."
     },
     {
       "start": 620.78,
@@ -446,33 +436,34 @@
     {
       "start": 621.52,
       "end": 623.18,
-      "text": "nothing certain about it either way yet."
+      "text": "nothing certain about it either way, yet.\""
     },
     {
       "start": 623.64,
       "end": 626.24,
-      "text": "He looked up at the fat man and stopped frowning."
+      "text": "He looked up at the fat man and stopped frowning.",
+      "para_break": true
     },
     {
       "start": 626.7,
       "end": 627.08,
-      "text": "It depends."
+      "text": "\"It depends.\""
     },
     {
       "start": 628.48,
       "end": 629.63,
-      "text": "It depends on...",
-      "para_break": true
+      "text": "\"It depends on—?\""
     },
     {
       "start": 629.97,
       "end": 631.28,
-      "text": "Spade shook his head."
+      "text": "Spade shook his head.",
+      "para_break": true
     },
     {
       "start": 631.52,
       "end": 633.26,
-      "text": "If I knew what it depends on,"
+      "text": "\"If I knew what it depends on"
     },
     {
       "start": 633.4,
@@ -482,7 +473,7 @@
     {
       "start": 634.34,
       "end": 634.54,
-      "text": "no."
+      "text": "no.\""
     },
     {
       "start": 635.72,
@@ -498,27 +489,28 @@
     {
       "start": 638.28,
       "end": 638.82,
-      "text": "and suggested,"
+      "text": "and suggested:"
     },
     {
       "start": 639.0,
       "end": 640.52,
-      "text": "maybe it depends on"
+      "text": "\"Maybe it depends on"
     },
     {
       "start": 640.62,
       "end": 641.22,
-      "text": "Joel Cairo."
+      "text": "Joel Cairo?\""
     },
     {
       "start": 641.44,
       "end": 642.9,
-      "text": "Spade's prompt,"
+      "text": "Spade's prompt",
+      "para_break": true
     },
     {
       "start": 643.12,
       "end": 643.64,
-      "text": "maybe,"
+      "text": "\"Maybe\""
     },
     {
       "start": 643.84,
@@ -528,7 +520,8 @@
     {
       "start": 645.34,
       "end": 645.7,
-      "text": "He drank."
+      "text": "He drank.",
+      "para_break": true
     },
     {
       "start": 646.78,
@@ -554,8 +547,7 @@
     {
       "start": 654.22,
       "end": 654.8,
-      "text": "You could say,",
-      "para_break": true
+      "text": "\"You could say,"
     },
     {
       "start": 654.96,
@@ -565,29 +557,29 @@
     {
       "start": 655.2,
       "end": 656.28,
-      "text": "that the question is,"
+      "text": "that the question is"
     },
     {
       "start": 656.4,
       "end": 658.12,
-      "text": "which one of them you'll represent."
+      "text": "which one of them you'll represent?\""
     },
     {
       "start": 659.42,
       "end": 660.44,
-      "text": "You could put it that way.",
+      "text": "\"You could put it that way.\"",
       "para_break": true
     },
     {
       "start": 661.6,
       "end": 663.0,
-      "text": "It will be one or the other.",
+      "text": "\"It will be one or the other?\"",
       "para_break": true
     },
     {
       "start": 663.9,
       "end": 664.74,
-      "text": "I didn't say that.",
+      "text": "\"I didn't say that.\"",
       "para_break": true
     },
     {
@@ -604,17 +596,17 @@
     {
       "start": 668.6,
       "end": 669.22,
-      "text": "a throaty whisper,"
+      "text": "a throaty whisper"
     },
     {
       "start": 669.36,
       "end": 669.66,
-      "text": "asking,"
+      "text": "asking:"
     },
     {
       "start": 669.84,
       "end": 671.5,
-      "text": "who else is there?"
+      "text": "\"Who else is there?\""
     },
     {
       "start": 672.64,
@@ -625,8 +617,7 @@
     {
       "start": 675.392,
       "end": 675.7,
-      "text": "There's me,",
-      "para_break": true
+      "text": "\"There's me,\""
     },
     {
       "start": 675.92,
@@ -642,7 +633,7 @@
     {
       "start": 681.14,
       "end": 682.94,
-      "text": "He blew his breath out in a long,"
+      "text": "He blew his breath out in a long"
     },
     {
       "start": 683.04,
@@ -652,8 +643,7 @@
     {
       "start": 684.896,
       "end": 685.5,
-      "text": "That's wonderful,",
-      "para_break": true
+      "text": "\"That's wonderful,"
     },
     {
       "start": 685.7,
@@ -673,8 +663,7 @@
     {
       "start": 688.3,
       "end": 689.94,
-      "text": "I do like a man that tells you right",
-      "para_break": true
+      "text": "I do like a man that tells you right"
     },
     {
       "start": 689.94,
@@ -684,31 +673,27 @@
     {
       "start": 692.736,
       "end": 693.18,
-      "text": "Don't we all?",
-      "para_break": true
+      "text": "Don't we all?"
     },
     {
       "start": 694.24,
       "end": 695.92,
-      "text": "I don't trust a man that says he's not.",
-      "para_break": true
+      "text": "I don't trust a man that says he's not."
     },
     {
       "start": 696.82,
       "end": 699.54,
-      "text": "And the man that's telling the truth when he says he's not,",
-      "para_break": true
+      "text": "And the man that's telling the truth when he says he's not"
     },
     {
       "start": 699.92,
       "end": 703.0,
-      "text": "I distrust most of all because he's an ass,"
+      "text": "I distrust most of all, because he's an ass"
     },
     {
       "start": 703.66,
       "end": 706.52,
-      "text": "and an ass that's going contrary to the laws of nature.",
-      "para_break": true
+      "text": "and an ass that's going contrary to the laws of nature.\""
     },
     {
       "start": 707.488,
@@ -724,12 +709,12 @@
     {
       "start": 710.98,
       "end": 711.4,
-      "text": "He said,"
+      "text": "He said:"
     },
     {
       "start": 711.56,
       "end": 712.16,
-      "text": "uh-huh,"
+      "text": "\"Uh-huh."
     },
     {
       "start": 712.7,
@@ -739,23 +724,23 @@
     {
       "start": 713.42,
       "end": 714.28,
-      "text": "about the black bird."
+      "text": "about the black bird.\""
     },
     {
       "start": 714.68,
       "end": 716.97,
-      "text": "The fat man smiled benevolently."
+      "text": "The fat man smiled benevolently.",
+      "para_break": true
     },
     {
       "start": 717.3,
       "end": 717.4,
-      "text": "Let's,"
+      "text": "\"Let's,\""
     },
     {
       "start": 718.1,
       "end": 718.66,
-      "text": "he said.",
-      "para_break": true
+      "text": "he said."
     },
     {
       "start": 718.88,
@@ -772,5 +757,6 @@
       "end": 724.44,
       "text": "nothing of his eyes but a dark gleam visible."
     }
-  ]
+  ],
+  "corrected": "claude"
 }

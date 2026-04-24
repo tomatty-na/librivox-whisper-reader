@@ -13,48 +13,48 @@
   "para_gap_threshold": 0.574,
   "segments": [
     {
-      "start": 242.21,
-      "end": 246.5,
-      "text": "he shook his head grinning at her i was she insisted"
+      "start": 242.41,
+      "end": 244.21,
+      "text": "He shook his head, grinning at her.",
+      "para_break": true
     },
     {
-      "start": 247.56,
-      "end": 250.14,
-      "text": "no he said but if that's your story",
+      "start": 247.17,
+      "end": 249.39,
+      "text": "\"No,\" he said, \"but if that's your story",
       "para_break": true
     },
     {
       "start": 250.22,
       "end": 251.16,
-      "text": "it's all right with me"
+      "text": "it's all right with me."
     },
     {
       "start": 251.74,
       "end": 256.19,
-      "text": "go see sid it's up on the next corner the pinkish building room 827",
-      "para_break": true
+      "text": "Go see Sid. It's up on the next corner, the pinkish building, room eight-twenty-seven.\""
     },
     {
       "start": 257.49,
       "end": 260.2,
-      "text": "her blue eyes tried to probe his yellow gray ones",
+      "text": "Her blue eyes tried to probe his yellow-grey ones.",
       "para_break": true
     },
     {
-      "start": 261.1,
-      "end": 263.14,
-      "text": "what makes you think i wasn't home she asked",
-      "para_break": true
+      "start": 260.6,
+      "end": 263.42,
+      "text": "\"What makes you think I wasn't home?\" she asked slowly."
     },
     {
-      "start": 263.26,
-      "end": 266.52,
-      "text": "slowly nothing except that i know you weren't"
+      "start": 264.3,
+      "end": 266.48,
+      "text": "\"Nothing except that I know you weren't.\"",
+      "para_break": true
     },
     {
       "start": 267.36,
       "end": 271.58,
-      "text": "but i was i was her lips twisted and anger darkened",
+      "text": "\"But I was, I was.\" Her lips twisted and anger darkened",
       "para_break": true
     },
     {
@@ -65,7 +65,7 @@
     {
       "start": 272.4,
       "end": 274.16,
-      "text": "Effie Perrine told you that,"
+      "text": "\"Effie Perine told you that,\""
     },
     {
       "start": 274.34,
@@ -85,8 +85,7 @@
     {
       "start": 279.39,
       "end": 280.86,
-      "text": "You know she doesn't like me,",
-      "para_break": true
+      "text": "You know she doesn't like me,"
     },
     {
       "start": 280.92,
@@ -106,7 +105,7 @@
     {
       "start": 286.7,
       "end": 287.62,
-      "text": "Jesus,"
+      "text": "\"Jesus,"
     },
     {
       "start": 287.68,
@@ -116,8 +115,7 @@
     {
       "start": 289.12,
       "end": 289.98,
-      "text": "Spade said mildly.",
-      "para_break": true
+      "text": "Spade said mildly."
     },
     {
       "start": 290.52,
@@ -132,8 +130,7 @@
     {
       "start": 293.18,
       "end": 293.9,
-      "text": "You'll have to trot along,",
-      "para_break": true
+      "text": "\"You'll have to trot along,"
     },
     {
       "start": 294.12,
@@ -148,8 +145,7 @@
     {
       "start": 297.02,
       "end": 297.24,
-      "text": "You do",
-      "para_break": true
+      "text": "You do"
     },
     {
       "start": 297.42,
@@ -159,7 +155,7 @@
     {
       "start": 298.08,
       "end": 299.14,
-      "text": "but if I were you,"
+      "text": "but if I were you"
     },
     {
       "start": 299.24,
@@ -169,8 +165,7 @@
     {
       "start": 301.76,
       "end": 302.04,
-      "text": "I mean,",
-      "para_break": true
+      "text": "I mean,"
     },
     {
       "start": 302.1,
@@ -185,13 +180,12 @@
     {
       "start": 304.74,
       "end": 306.68,
-      "text": "but don't make up anything to take its place.",
-      "para_break": true
+      "text": "but don't make up anything to take its place.\""
     },
     {
       "start": 307.32,
       "end": 308.74,
-      "text": "I'm not lying to you,",
+      "text": "\"I'm not lying to you,",
       "para_break": true
     },
     {
@@ -207,7 +201,8 @@
     {
       "start": 310.51,
       "end": 311.7,
-      "text": "Like hell you're not,"
+      "text": "\"Like hell you're not,\"",
+      "para_break": true
     },
     {
       "start": 311.86,
@@ -228,8 +223,7 @@
     {
       "start": 317.32,
       "end": 318.24,
-      "text": "You don't believe me,",
-      "para_break": true
+      "text": "\"You don't believe me?\""
     },
     {
       "start": 318.4,
@@ -239,24 +233,24 @@
     {
       "start": 320.12,
       "end": 321.02,
-      "text": "I don't believe you.",
+      "text": "\"I don't believe you.\"",
       "para_break": true
     },
     {
       "start": 322.14,
       "end": 322.62,
-      "text": "And you won't",
-      "para_break": true
+      "text": "And you won't"
     },
     {
       "start": 322.72,
       "end": 324.74,
-      "text": "forgive me for for what I did?"
+      "text": "forgive me for—for what I did?\""
     },
     {
       "start": 325.29,
       "end": 326.26,
-      "text": "Sure I do."
+      "text": "\"Sure I do.\"",
+      "para_break": true
     },
     {
       "start": 326.5,
@@ -266,13 +260,12 @@
     {
       "start": 328.832,
       "end": 329.32,
-      "text": "That's all right.",
-      "para_break": true
+      "text": "\"That's all right."
     },
     {
       "start": 329.42,
       "end": 330.16,
-      "text": "Now run along."
+      "text": "Now run along.\""
     },
     {
       "start": 330.78,
@@ -283,8 +276,7 @@
     {
       "start": 333.504,
       "end": 335.0,
-      "text": "Won't you go with me to see Mr.",
-      "para_break": true
+      "text": "\"Won't you go with me to see Mr."
     },
     {
       "start": 335.14,
@@ -294,8 +286,7 @@
     {
       "start": 336.3,
       "end": 337.54,
-      "text": "I can't and I'd",
-      "para_break": true
+      "text": "\"I can't, and I'd"
     },
     {
       "start": 337.6,
@@ -305,12 +296,13 @@
     {
       "start": 338.74,
       "end": 340.2,
-      "text": "He patted her arms,"
+      "text": "He patted her arms,",
+      "para_break": true
     },
     {
       "start": 340.4,
       "end": 343.56,
-      "text": "took them from around his body and kissed her left wrist"
+      "text": "took them from around his body, and kissed her left wrist"
     },
     {
       "start": 343.68,
@@ -325,17 +317,17 @@
     {
       "start": 346.96,
       "end": 348.34,
-      "text": "turned her to face the door and"
+      "text": "turned her to face the door,"
     },
     {
       "start": 348.64,
       "end": 349.9,
-      "text": "released her with a little push."
+      "text": "and released her with a little push."
     },
     {
       "start": 350.624,
       "end": 350.98,
-      "text": "Beat it,",
+      "text": "\"Beat it,\"",
       "para_break": true
     },
     {
@@ -346,7 +338,7 @@
     {
       "start": 353.06,
       "end": 355.32,
-      "text": "The mahogany door of suite 12C at the",
+      "text": "The mahogany door of suite 12–C at the",
       "para_break": true
     },
     {
@@ -362,13 +354,12 @@
     {
       "start": 361.184,
       "end": 361.54,
-      "text": "Spade said,",
-      "para_break": true
+      "text": "Spade said,"
     },
     {
       "start": 361.98,
       "end": 362.1,
-      "text": "hello,"
+      "text": "\"Hello,\""
     },
     {
       "start": 362.36,
@@ -388,14 +379,12 @@
     {
       "start": 369.184,
       "end": 369.9,
-      "text": "Spade went in.",
-      "para_break": true
+      "text": "Spade went in."
     },
     {
       "start": 370.66,
       "end": 372.06,
-      "text": "A fat man came to meet him.",
-      "para_break": true
+      "text": "A fat man came to meet him."
     },
     {
       "start": 372.36,
@@ -410,14 +399,12 @@
     {
       "start": 378.56,
       "end": 381.6,
-      "text": "with a great soft egg of a belly that was all his torso,",
-      "para_break": true
+      "text": "with a great soft egg of a belly that was all his torso,"
     },
     {
       "start": 382.58,
       "end": 383.34,
-      "text": "and pendant cones",
-      "para_break": true
+      "text": "and pendant cones"
     },
     {
       "start": 383.46,
@@ -427,8 +414,7 @@
     {
       "start": 385.4,
       "end": 386.84,
-      "text": "As he advanced to meet Spade,",
-      "para_break": true
+      "text": "As he advanced to meet Spade,"
     },
     {
       "start": 386.94,
@@ -443,8 +429,7 @@
     {
       "start": 390.98,
       "end": 392.48,
-      "text": "in the manner of clustered soap bubbles",
-      "para_break": true
+      "text": "in the manner of clustered soap-bubbles"
     },
     {
       "start": 392.48,
@@ -459,8 +444,7 @@
     {
       "start": 396.3,
       "end": 396.72,
-      "text": "His eyes,",
-      "para_break": true
+      "text": "His eyes,"
     },
     {
       "start": 396.8,
@@ -490,13 +474,12 @@
     {
       "start": 406.6,
       "end": 409.4,
-      "text": "black satin ascot tie holding a pinkish pearl,"
+      "text": "black satin Ascot tie holding a pinkish pearl,"
     },
     {
       "start": 410.112,
       "end": 412.72,
-      "text": "striped gray worsted trousers and patent leather shoes.",
-      "para_break": true
+      "text": "striped grey worsted trousers, and patent-leather shoes."
     },
     {
       "start": 413.92,
@@ -507,8 +490,7 @@
     {
       "start": 416.06,
       "end": 416.2,
-      "text": "Ah,",
-      "para_break": true
+      "text": "\"Ah,"
     },
     {
       "start": 416.4,
@@ -528,13 +510,13 @@
     {
       "start": 422.24,
       "end": 424.18,
-      "text": "Spade took the hand and smiled and said,",
+      "text": "Spade took the hand and smiled and said:",
       "para_break": true
     },
     {
       "start": 424.54,
       "end": 425.24,
-      "text": "How do you do,"
+      "text": "\"How do you do,"
     },
     {
       "start": 425.34,
@@ -544,7 +526,7 @@
     {
       "start": 425.68,
       "end": 425.92,
-      "text": "Gutman?"
+      "text": "Gutman?\""
     },
     {
       "start": 427.072,
@@ -560,7 +542,7 @@
     {
       "start": 429.6,
       "end": 432.08,
-      "text": "put his other hand to Spade's elbow and guided"
+      "text": "put his other hand to Spade's elbow, and guided"
     },
     {
       "start": 432.08,
@@ -580,27 +562,17 @@
     {
       "start": 438.84,
       "end": 441.52,
-      "text": "and a bottle of Johnny Walker whiskey on a tray,"
+      "text": "and a bottle of Johnnie Walker whiskey on a tray,"
     },
     {
-      "start": 442.0,
-      "end": 443.34,
-      "text": "a box of cigars,"
+      "start": 441.5,
+      "end": 445.3,
+      "text": "a box of cigars—Coronas del Ritz—two"
     },
     {
-      "start": 443.46,
-      "end": 444.72,
-      "text": "Coronas Del Ritz,"
-    },
-    {
-      "start": 444.88,
-      "end": 445.82,
-      "text": "two newspapers,"
-    },
-    {
-      "start": 446.2,
-      "end": 449.1,
-      "text": "and a small and plain yellow soapstone box."
+      "start": 445.3,
+      "end": 449.02,
+      "text": "newspapers, and a small and plain yellow soapstone box."
     },
     {
       "start": 450.176,
@@ -621,24 +593,22 @@
     {
       "start": 458.112,
       "end": 460.14,
-      "text": "Doors set in three of the room's walls were shut.",
-      "para_break": true
+      "text": "Doors set in three of the room's walls were shut."
     },
     {
       "start": 460.8,
       "end": 462.92,
-      "text": "The fourth wall behind Spade was pierced by",
-      "para_break": true
+      "text": "The fourth wall, behind Spade, was pierced by"
     },
     {
       "start": 462.92,
       "end": 464.86,
-      "text": "two windows looking out over Gary Street."
+      "text": "two windows looking out over Geary Street."
     },
     {
       "start": 466.02,
       "end": 466.58,
-      "text": "We begin well,",
+      "text": "\"We begin well,",
       "para_break": true
     },
     {
@@ -654,20 +624,17 @@
     {
       "start": 469.312,
       "end": 471.12,
-      "text": "turning with a proffered glass in his hand.",
-      "para_break": true
+      "text": "turning with a proffered glass in his hand."
     },
     {
       "start": 471.98,
       "end": 473.54,
-      "text": "I just trust a man that says when.",
-      "para_break": true
+      "text": "\"I distrust a man that says when."
     },
     {
       "start": 474.56,
       "end": 476.54,
-      "text": "If he's got to be careful not to drink too much,",
-      "para_break": true
+      "text": "If he's got to be careful not to drink too much"
     },
     {
       "start": 476.92,
@@ -677,7 +644,7 @@
     {
       "start": 479.69,
       "end": 482.44,
-      "text": "Spade took the glass and smiling made the",
+      "text": "Spade took the glass and, smiling, made the",
       "para_break": true
     },
     {
@@ -685,5 +652,6 @@
       "end": 483.96,
       "text": "beginning of a bow over it."
     }
-  ]
+  ],
+  "corrected": "claude"
 }
