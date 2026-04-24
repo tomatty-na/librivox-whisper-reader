@@ -15,7 +15,7 @@
     {
       "start": 244.64,
       "end": 245.73,
-      "text": "You're altogether unpredictable,",
+      "text": "\"You're altogether unpredictable,\"",
       "para_break": true
     },
     {
@@ -26,18 +26,18 @@
     {
       "start": 247.2,
       "end": 249.32,
-      "text": "He nodded and said amiably,",
+      "text": "He nodded and said amiably:",
       "para_break": true
     },
     {
       "start": 249.54,
       "end": 250.92,
-      "text": "I'm still listening."
+      "text": "\"I'm still listening.\""
     },
     {
       "start": 252.2,
       "end": 252.94,
-      "text": "Look at the time!",
+      "text": "\"Look at the time!\"",
       "para_break": true
     },
     {
@@ -63,29 +63,29 @@
     {
       "start": 261.696,
       "end": 262.16,
-      "text": "Uh-huh.",
+      "text": "\"Uh-huh,",
       "para_break": true
     },
     {
       "start": 262.24,
       "end": 264.02,
-      "text": "It's been a busy evening."
+      "text": "it's been a busy evening.\""
     },
     {
       "start": 265.08,
       "end": 265.76,
-      "text": "I must go,",
+      "text": "\"I must go.\"",
       "para_break": true
     },
     {
       "start": 266.28,
       "end": 267.42,
-      "text": "she rose from the sofa."
+      "text": "She rose from the sofa."
     },
     {
       "start": 268.08,
       "end": 268.62,
-      "text": "This is terrible."
+      "text": "\"This is terrible.\""
     },
     {
       "start": 269.92,
@@ -101,12 +101,12 @@
     {
       "start": 273.3,
       "end": 274.92,
-      "text": "Not until you've told me about it."
+      "text": "\"Not until you've told me about it.\""
     },
     {
       "start": 275.78,
       "end": 276.72,
-      "text": "But look at the time,",
+      "text": "\"But look at the time,\"",
       "para_break": true
     },
     {
@@ -117,18 +117,18 @@
     {
       "start": 278.14,
       "end": 280.22,
-      "text": "and it would take hours to tell you."
+      "text": "\"and it would take hours to tell you.\""
     },
     {
       "start": 281.34,
       "end": 282.5,
-      "text": "It'll have to take them then.",
+      "text": "\"It'll have to take them then.\"",
       "para_break": true
     },
     {
       "start": 283.78,
       "end": 284.58,
-      "text": "Am I a prisoner?",
+      "text": "\"Am I a prisoner?\"",
       "para_break": true
     },
     {
@@ -139,7 +139,7 @@
     {
       "start": 286.56,
       "end": 286.92,
-      "text": "Besides,",
+      "text": "\"Besides,",
       "para_break": true
     },
     {
@@ -150,7 +150,7 @@
     {
       "start": 288.46,
       "end": 290.76,
-      "text": "Maybe he hasn't gone home to sleep yet."
+      "text": "Maybe he hasn't gone home to sleep yet.\""
     },
     {
       "start": 291.7,
@@ -161,12 +161,12 @@
     {
       "start": 293.48,
       "end": 294.54,
-      "text": "Do you think he's still there?"
+      "text": "\"Do you think he's still there?\""
     },
     {
       "start": 295.648,
       "end": 296.16,
-      "text": "It's likely.",
+      "text": "\"It's likely.\"",
       "para_break": true
     },
     {
@@ -178,18 +178,18 @@
     {
       "start": 298.52,
       "end": 299.38,
-      "text": "Could you find out?"
+      "text": "\"Could you find out?\""
     },
     {
       "start": 300.28,
       "end": 301.82,
-      "text": "I could go down and see.",
+      "text": "\"I could go down and see.\"",
       "para_break": true
     },
     {
       "start": 302.38,
       "end": 303.4,
-      "text": "Oh,",
+      "text": "\"Oh,",
       "para_break": true
     },
     {
@@ -200,22 +200,23 @@
     {
       "start": 304.64,
       "end": 305.3,
-      "text": "will you?"
+      "text": "will you?\""
     },
     {
       "start": 306.368,
       "end": 307.1,
-      "text": "Spade studied her"
+      "text": "Spade studied her",
+      "para_break": true
     },
     {
       "start": 307.2,
       "end": 310.1,
-      "text": "anxious face for a moment and then got up from the sofa saying,"
+      "text": "anxious face for a moment and then got up from the sofa saying:"
     },
     {
       "start": 310.34,
       "end": 311.0,
-      "text": "Sure."
+      "text": "\"Sure.\""
     },
     {
       "start": 311.78,
@@ -230,12 +231,12 @@
     {
       "start": 314.54,
       "end": 315.78,
-      "text": "I'll be gone about ten minutes."
+      "text": "\"I'll be gone about ten minutes.\""
     },
     {
       "start": 316.8,
       "end": 317.42,
-      "text": "Do be careful,",
+      "text": "\"Do be careful,\"",
       "para_break": true
     },
     {
@@ -251,13 +252,12 @@
     {
       "start": 320.68,
       "end": 321.72,
-      "text": "He said,",
-      "para_break": true
+      "text": "He said,"
     },
     {
       "start": 321.86,
       "end": 322.74,
-      "text": "I will,"
+      "text": "\"I will,\""
     },
     {
       "start": 322.94,
@@ -308,7 +308,8 @@
     {
       "start": 340.37,
       "end": 342.12,
-      "text": "When he opened his apartment-door,"
+      "text": "When he opened his apartment-door",
+      "para_break": true
     },
     {
       "start": 342.26,
@@ -328,7 +329,7 @@
     {
       "start": 348.9,
       "end": 349.48,
-      "text": "He's still there,",
+      "text": "\"He's still there,\"",
       "para_break": true
     },
     {
@@ -365,7 +366,7 @@
     {
       "start": 360.58,
       "end": 361.92,
-      "text": "so we'll have time to talk,"
+      "text": "\"So we'll have time to talk,\""
     },
     {
       "start": 362.02,
@@ -379,14 +380,14 @@
       "para_break": true
     },
     {
-      "start": 366.26,
-      "end": 368.22,
-      "text": "when she came to the door and was"
+      "start": 366.12,
+      "end": 368.04,
+      "text": "when she came to the door, and"
     },
     {
-      "start": 368.22,
-      "end": 370.14,
-      "text": "slicing a slender loaf of French bread."
+      "start": 368.04,
+      "end": 370.1,
+      "text": "was slicing a slender loaf of French bread."
     },
     {
       "start": 371.02,
@@ -416,7 +417,7 @@
     {
       "start": 380.74,
       "end": 381.82,
-      "text": "The table-cloth's in there,",
+      "text": "\"The table-cloth's in there,\"",
       "para_break": true
     },
     {
@@ -435,15 +436,14 @@
       "text": "that was one breakfast-nook partition."
     },
     {
-      "start": 387.64,
-      "end": 390.48,
-      "text": "She set the table while he spread liverwurst on",
-      "para_break": true
+      "start": 387.14,
+      "end": 390.46,
+      "text": "She set the table while he spread liverwurst on,"
     },
     {
-      "start": 390.78,
-      "end": 393.72,
-      "text": "or put cold corned beef between the small ovals"
+      "start": 390.46,
+      "end": 393.7,
+      "text": "or put cold corned beef between, the small ovals"
     },
     {
       "start": 393.76,
@@ -483,7 +483,7 @@
     {
       "start": 408.22,
       "end": 409.58,
-      "text": "You can start now,",
+      "text": "\"You can start now,",
       "para_break": true
     },
     {
@@ -499,7 +499,8 @@
     {
       "start": 412.38,
       "end": 413.2,
-      "text": "She made a face at"
+      "text": "She made a face at",
+      "para_break": true
     },
     {
       "start": 413.2,
@@ -524,7 +525,7 @@
     {
       "start": 418.24,
       "end": 419.14,
-      "text": "Yes,",
+      "text": "\"Yes,",
       "para_break": true
     },
     {
@@ -540,7 +541,7 @@
     {
       "start": 422.94,
       "end": 425.12,
-      "text": "this falcon that everybody's all steamed up about?"
+      "text": "this falcon, that everybody's all steamed up about?\""
     },
     {
       "start": 426.26,
@@ -566,12 +567,12 @@
     {
       "start": 432.18,
       "end": 434.54,
-      "text": "had made in the sandwich's rim and asked,"
+      "text": "had made in the sandwich's rim, and asked:"
     },
     {
       "start": 435.712,
       "end": 436.82,
-      "text": "Suppose I wouldn't tell you?"
+      "text": "\"Suppose I wouldn't tell you?"
     },
     {
       "start": 437.04,
@@ -581,29 +582,29 @@
     {
       "start": 438.54,
       "end": 439.82,
-      "text": "anything at all about it."
+      "text": "anything at all about it?"
     },
     {
       "start": 440.7,
       "end": 441.4,
-      "text": "What would you do?"
+      "text": "What would you do?\""
     },
     {
       "start": 442.23,
       "end": 443.8,
-      "text": "You mean about the bird?",
+      "text": "\"You mean about the bird?\"",
       "para_break": true
     },
     {
       "start": 444.66,
       "end": 446.16,
-      "text": "I mean about the whole thing.",
+      "text": "\"I mean about the whole thing.\"",
       "para_break": true
     },
     {
       "start": 447.16,
       "end": 448.64,
-      "text": "I wouldn't be too surprised,",
+      "text": "\"I wouldn't be too surprised,\"",
       "para_break": true
     },
     {
@@ -619,12 +620,12 @@
     {
       "start": 452.84,
       "end": 454.32,
-      "text": "to know what to do next."
+      "text": "\"to know what to do next.\""
     },
     {
       "start": 455.4,
       "end": 456.02,
-      "text": "And that would be?",
+      "text": "\"And that would be?\"",
       "para_break": true
     },
     {
@@ -640,12 +641,12 @@
     {
       "start": 460.1,
       "end": 461.66,
-      "text": "That's what I wanted to know:"
+      "text": "\"That's what I wanted to know:"
     },
     {
       "start": 462.26,
       "end": 463.26,
-      "text": "What would you do next?"
+      "text": "what would you do next?\""
     },
     {
       "start": 463.58,
@@ -662,12 +663,12 @@
     {
       "start": 468.38,
       "end": 469.9,
-      "text": "Something wild and unpredictable?"
+      "text": "\"Something wild and unpredictable?\""
     },
     {
       "start": 470.44,
       "end": 471.54,
-      "text": "Maybe.",
+      "text": "\"Maybe.",
       "para_break": true
     },
     {
@@ -718,7 +719,7 @@
     {
       "start": 485.76,
       "end": 488.56,
-      "text": "I'll soon be knowing things about it that you don't know."
+      "text": "I'll soon be knowing things about it that you don't know.\""
     }
   ],
   "corrected": "claude"

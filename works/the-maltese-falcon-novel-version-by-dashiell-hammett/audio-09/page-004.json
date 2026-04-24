@@ -30,7 +30,7 @@
     {
       "start": 733.74,
       "end": 736.08,
-      "text": "Floyd showed it to me when we'd first got hold of it."
+      "text": "Floyd showed it to me when we'd first got hold of it.\""
     },
     {
       "start": 737.152,
@@ -81,17 +81,17 @@
     {
       "start": 750.24,
       "end": 750.34,
-      "text": "You"
+      "text": "\"You"
     },
     {
       "start": 751.02,
       "end": 751.54,
-      "text": "_are_ a liar."
+      "text": "_are_ a liar.\""
     },
     {
       "start": 752.05,
       "end": 754.32,
-      "text": "She got up and stood at the end of the table,",
+      "text": "She got up and stood at the end of the table, looking down at him with",
       "para_break": true
     },
     {
@@ -102,7 +102,7 @@
     {
       "start": 755.66,
       "end": 757.88,
-      "text": "dark abashed eyes in a pinkening face."
+      "text": "\"I am a liar,\""
     },
     {
       "start": 758.84,
@@ -112,18 +112,18 @@
     {
       "start": 759.7,
       "end": 760.1,
-      "text": "she said."
+      "text": "\"I have always been a liar.\""
     },
     {
       "start": 760.3,
       "end": 762.04,
-      "text": "I have always been a liar."
+      "text": "\"Don't brag about it.",
+      "para_break": true
     },
     {
       "start": 763.1,
       "end": 763.94,
-      "text": "Don't brag about it.",
-      "para_break": true
+      "text": "It's childish.\""
     },
     {
       "start": 763.98,
@@ -143,18 +143,18 @@
     {
       "start": 768.88,
       "end": 769.36,
-      "text": "and bench."
+      "text": "\"Was there any truth at all in that yarn?\""
     },
     {
       "start": 770.24,
       "end": 772.12,
-      "text": "Was there any truth at all in that yarn?"
+      "text": "She hung her head.",
+      "para_break": true
     },
     {
       "start": 773.06,
       "end": 773.78,
-      "text": "She hung her head.",
-      "para_break": true
+      "text": "She hung her head."
     },
     {
       "start": 773.98,
@@ -164,7 +164,7 @@
     {
       "start": 775.46,
       "end": 776.18,
-      "text": "her dark lashes."
+      "text": "\"Some,\""
     },
     {
       "start": 776.52,
@@ -174,25 +174,25 @@
     {
       "start": 777.54,
       "end": 778.5,
-      "text": "she whispered."
+      "text": "\"How much?\"",
+      "para_break": true
     },
     {
       "start": 779.38,
       "end": 779.86,
-      "text": "How much?",
+      "text": "\"Not—not very much.\"",
       "para_break": true
     },
     {
       "start": 781.056,
       "end": 782.54,
-      "text": "Not—not very much.",
+      "text": "Spade put a hand under her chin",
       "para_break": true
     },
     {
       "start": 783.648,
       "end": 785.0,
-      "text": "Spade put a hand under her chin",
-      "para_break": true
+      "text": "Spade put a hand under her chin"
     },
     {
       "start": 785.18,
@@ -202,38 +202,33 @@
     {
       "start": 786.12,
       "end": 788.48,
-      "text": "He laughed into her wet eyes and said:"
+      "text": "\"We've got all night before us."
     },
     {
       "start": 789.52,
       "end": 791.2,
-      "text": "We've got all night before us."
+      "text": "I'll put some more brandy in some more coffee and we'll try again.\""
     },
     {
       "start": 791.74,
       "end": 794.76,
-      "text": "I'll put some more brandy in some more coffee and we'll try again."
-    },
-    {
-      "start": 795.14,
-      "end": 797.16,
       "text": "Her eyelids drooped.",
       "para_break": true
     },
     {
-      "start": 797.3,
-      "end": 797.4,
-      "text": "Oh,"
-    },
-    {
-      "start": 798.28,
-      "end": 799.28,
-      "text": "I'm so tired,"
+      "start": 795.14,
+      "end": 797.16,
+      "text": "\"Oh,"
     },
     {
       "start": 799.36,
-      "end": 800.36,
-      "text": "she said tremulously."
+      "end": 800.42,
+      "text": "she said tremulously,"
+    },
+    {
+      "start": 800.74,
+      "end": 801.54,
+      "text": "\"so tired of it all,"
     },
     {
       "start": 801.22,
@@ -243,7 +238,7 @@
     {
       "start": 802.48,
       "end": 803.18,
-      "text": "of myself,"
+      "text": "of lying and thinking up lies,"
     },
     {
       "start": 803.52,
@@ -253,18 +248,18 @@
     {
       "start": 806.14,
       "end": 808.8,
-      "text": "and of not knowing what is a lie and what is the truth."
+      "text": "I wish I—\""
     },
     {
       "start": 809.23,
       "end": 810.5,
-      "text": "I wish I—"
+      "text": "She put her hands up to",
+      "para_break": true
     },
     {
       "start": 811.52,
       "end": 812.48,
-      "text": "She put her hands up to",
-      "para_break": true
+      "text": "She put her hands up to"
     },
     {
       "start": 812.72,
@@ -279,13 +274,13 @@
     {
       "start": 816.22,
       "end": 818.1,
-      "text": "her body flat against his body."
+      "text": "Spade's arms went around her,",
+      "para_break": true
     },
     {
       "start": 819.008,
       "end": 820.28,
-      "text": "Spade's arms went around her,",
-      "para_break": true
+      "text": "Spade's arms went around her,"
     },
     {
       "start": 820.34,
@@ -305,7 +300,7 @@
     {
       "start": 825.68,
       "end": 827.96,
-      "text": "its fingers half lost among red hair,"
+      "text": "a hand moving"
     },
     {
       "start": 828.1,

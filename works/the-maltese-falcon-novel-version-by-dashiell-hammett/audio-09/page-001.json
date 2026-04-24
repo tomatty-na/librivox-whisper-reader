@@ -184,7 +184,7 @@
     {
       "start": 61.76,
       "end": 62.36,
-      "text": "Childish,"
+      "text": "\"Childish,"
     },
     {
       "start": 62.36,
@@ -209,7 +209,7 @@
     {
       "start": 65.18,
       "end": 67.28,
-      "text": "I do hate being hit without hitting back."
+      "text": "I do hate being hit without hitting back.\""
     },
     {
       "start": 67.96,
@@ -219,7 +219,7 @@
     {
       "start": 70.22,
       "end": 72.92,
-      "text": "not that it was so much of a sock at that."
+      "text": "\"Not that it was so much of a sock at that.\""
     },
     {
       "start": 73.46,
@@ -234,17 +234,17 @@
     {
       "start": 77.18,
       "end": 78.8,
-      "text": "A cheap enough price to pay for winning,"
+      "text": "\"A cheap enough price to pay for winning.\""
     },
     {
       "start": 79.42,
       "end": 81.7,
-      "text": "his brows came together in a fleeting scowl."
+      "text": "His brows came together in a fleeting scowl."
     },
     {
       "start": 81.86,
       "end": 83.46,
-      "text": "though I'll remember it."
+      "text": "\"Though I'll remember it.\""
     },
     {
       "start": 84.16,
@@ -265,7 +265,7 @@
     {
       "start": 88.512,
       "end": 91.5,
-      "text": "You're absolutely the wildest person I've ever known,"
+      "text": "\"You're absolutely the wildest person I've ever known,\""
     },
     {
       "start": 91.66,
@@ -274,29 +274,23 @@
     },
     {
       "start": 92.36,
-      "end": 94.58,
-      "text": "Do you always carry on so high"
-    },
-    {
-      "start": 94.92,
       "end": 95.08,
-      "text": "Do you always carry on so high-handed?"
+      "text": "\"Do you always carry on so high-handed?\""
     },
     {
       "start": 95.69,
       "end": 96.84,
-      "text": "I let him hit me,",
-      "para_break": true
+      "text": "\"I let him hit me,"
     },
     {
       "start": 96.88,
       "end": 97.3,
-      "text": "didn't I?"
+      "text": "didn't I?\""
     },
     {
       "start": 97.44,
       "end": 98.34,
-      "text": "Oh,",
+      "text": "\"Oh,",
       "para_break": true
     },
     {
@@ -307,12 +301,12 @@
     {
       "start": 98.78,
       "end": 100.04,
-      "text": "but a police official."
+      "text": "but a police official.\""
     },
     {
       "start": 100.38,
       "end": 101.76,
-      "text": "It wasn't that,",
+      "text": "\"It wasn't that,\"",
       "para_break": true
     },
     {
@@ -323,7 +317,7 @@
     {
       "start": 103.52,
       "end": 106.08,
-      "text": "It was that in losing his head and slugging me,"
+      "text": "\"It was that in losing his head and slugging me"
     },
     {
       "start": 106.16,
@@ -333,7 +327,7 @@
     {
       "start": 108.06,
       "end": 109.22,
-      "text": "If I'd mixed it with him,"
+      "text": "If I'd mixed it with him"
     },
     {
       "start": 109.36,
@@ -387,17 +381,17 @@
     {
       "start": 139.776,
       "end": 140.96,
-      "text": "It's just what I told you."
+      "text": "\"It's just what I told you:"
     },
     {
       "start": 141.08,
       "end": 143.6,
-      "text": "You're fumbling along by guess and by God."
+      "text": "you're fumbling along by guess and by God.\""
     },
     {
       "start": 144.608,
       "end": 145.08,
-      "text": "I'm sorry,",
+      "text": "\"I'm sorry,",
       "para_break": true
     },
     {
@@ -413,12 +407,12 @@
     {
       "start": 148.18,
       "end": 148.9,
-      "text": "Sam."
+      "text": "\"Sam.\""
     },
     {
       "start": 149.27,
       "end": 150.48,
-      "text": "Sure you are.",
+      "text": "\"Sure you are.\"",
       "para_break": true
     },
     {
@@ -434,12 +428,12 @@
     {
       "start": 154.92,
       "end": 156.46,
-      "text": "Now you've had your talk with Cairo."
+      "text": "\"Now you've had your talk with Cairo."
     },
     {
       "start": 156.82,
       "end": 157.82,
-      "text": "Now you can talk to me."
+      "text": "Now you can talk to me.\""
     },
     {
       "start": 158.84,
@@ -455,7 +449,7 @@
     {
       "start": 162.7,
       "end": 164.18,
-      "text": "with widened eyes and then,"
+      "text": "with widened eyes, and then,"
     },
     {
       "start": 164.38,
@@ -480,7 +474,7 @@
     {
       "start": 169.98,
       "end": 170.68,
-      "text": "Oh,"
+      "text": "\"Oh,"
     },
     {
       "start": 170.78,
@@ -490,12 +484,12 @@
     {
       "start": 171.42,
       "end": 171.98,
-      "text": "she began."
+      "text": "she began,"
     },
     {
       "start": 173.06,
       "end": 173.46,
-      "text": "Of course."
+      "text": "\"of course—\""
     },
     {
       "start": 174.5,
@@ -531,7 +525,7 @@
     {
       "start": 183.48,
       "end": 184.0,
-      "text": "Well?"
+      "text": "\"Well?\""
     },
     {
       "start": 185.02,
@@ -541,7 +535,7 @@
     {
       "start": 187.36,
       "end": 188.0,
-      "text": "But I didn't,",
+      "text": "\"But I didn't,",
       "para_break": true
     },
     {
@@ -557,7 +551,7 @@
     {
       "start": 193.16,
       "end": 194.7,
-      "text": "Have time to finish talking to him."
+      "text": "\"have time to finish talking to him.\""
     },
     {
       "start": 195.6,
@@ -567,7 +561,7 @@
     {
       "start": 198.1,
       "end": 198.22,
-      "text": "clear,"
+      "text": "clear"
     },
     {
       "start": 198.28,
@@ -593,7 +587,7 @@
     {
       "start": 207.06,
       "end": 208.84,
-      "text": "Want me to phone him and ask him to come back?"
+      "text": "\"Want me to phone him and ask him to come back?\""
     },
     {
       "start": 209.84,
@@ -638,14 +632,14 @@
       "text": "her back,"
     },
     {
-      "start": 222.12,
-      "end": 223.4,
-      "text": "cupping his hand over the smooth,"
+      "start": 221.98,
+      "end": 223.7,
+      "text": "cupping his hand over the smooth bare"
     },
     {
-      "start": 223.48,
-      "end": 225.2,
-      "text": "bare white shoulder farthest from him."
+      "start": 223.7,
+      "end": 225.18,
+      "text": "white shoulder farthest from him."
     },
     {
       "start": 225.96,
@@ -665,12 +659,12 @@
     {
       "start": 229.06,
       "end": 229.184,
-      "text": "well,"
+      "text": "\"Well,"
     },
     {
       "start": 229.82,
       "end": 230.74,
-      "text": "I'm listening."
+      "text": "I'm listening.\""
     },
     {
       "start": 231.02,
@@ -691,12 +685,12 @@
     {
       "start": 236.34,
       "end": 238.3,
-      "text": "do you need your arm there for that?"
+      "text": "\"Do you need your arm there for that?\""
     },
     {
       "start": 238.62,
       "end": 239.52,
-      "text": "No.",
+      "text": "\"No.\"",
       "para_break": true
     },
     {
