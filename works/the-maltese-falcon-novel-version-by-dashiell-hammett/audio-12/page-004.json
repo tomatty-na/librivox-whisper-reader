@@ -15,7 +15,8 @@
     {
       "start": 733.75,
       "end": 734.4,
-      "text": "Hell,"
+      "text": "Hell,",
+      "para_break": true
     },
     {
       "start": 734.44,
@@ -30,8 +31,7 @@
     {
       "start": 737.088,
       "end": 738.18,
-      "text": "Spade thanked the chauffeur,",
-      "para_break": true
+      "text": "Spade thanked the chauffeur,"
     },
     {
       "start": 738.26,
@@ -55,20 +55,14 @@
       "para_break": true
     },
     {
-      "start": 742.8,
-      "end": 745.08,
-      "text": "a copy of the call and carried it into an office"
-    },
-    {
-      "start": 745.08,
-      "end": 747.86,
-      "text": "building vestibule to examine it out of the wind."
+      "start": 742.76,
+      "end": 747.82,
+      "text": "a copy of the _Call_ and carried it into an office-building-vestibule to examine it out of the wind."
     },
     {
       "start": 748.86,
       "end": 751.14,
-      "text": "His eyes ran swiftly over the front page headlines",
-      "para_break": true
+      "text": "His eyes ran swiftly over the front-page-headlines"
     },
     {
       "start": 751.17,
@@ -76,45 +70,38 @@
       "text": "and over those on the second and third pages."
     },
     {
-      "start": 753.76,
-      "end": 756.26,
-      "text": "They paused for a moment under suspect"
+      "start": 753.94,
+      "end": 756.74,
+      "text": "They paused for a moment under SUSPECT ARRESTED"
     },
     {
-      "start": 756.26,
-      "end": 759.04,
-      "text": "arrested as counterfeiter on the fourth page,"
+      "start": 756.74,
+      "end": 759.02,
+      "text": "AS COUNTERFEITER on the fourth page,"
     },
     {
-      "start": 759.24,
-      "end": 759.76,
+      "start": 759.2,
+      "end": 759.74,
       "text": "and again"
     },
     {
-      "start": 759.76,
-      "end": 763.26,
-      "text": "on page five under Bay youth seeks death with bullet."
+      "start": 759.74,
+      "end": 763.24,
+      "text": "on page five under BAY YOUTH SEEKS DEATH WITH BULLET."
     },
     {
-      "start": 764.224,
+      "start": 763.74,
       "end": 766.46,
-      "text": "Pages six and seven held nothing to interest him.",
-      "para_break": true
+      "text": "Pages six and seven held nothing to interest him."
     },
     {
-      "start": 767.24,
-      "end": 767.66,
-      "text": "On eight,",
-      "para_break": true
+      "start": 766.7,
+      "end": 767.64,
+      "text": "On eight 3 BOYS ARRESTED AS S. F. BURGLARS AFTER SHOOTING"
     },
     {
-      "start": 767.78,
-      "end": 771.36,
-      "text": "three boys arrested as San Francisco burglars after shooting"
-    },
-    {
-      "start": 771.94,
-      "end": 772.52,
+      "start": 771.34,
+      "end": 772.48,
       "text": "held his attention"
     },
     {
@@ -130,7 +117,7 @@
     {
       "start": 774.28,
       "end": 776.34,
-      "text": "nothing until he reached the 35th page,"
+      "text": "nothing until he reached the thirty-fifth page,"
     },
     {
       "start": 776.54,
@@ -183,24 +170,19 @@
       "text": "He read the list of dead,"
     },
     {
-      "start": 786.82,
-      "end": 789.04,
-      "text": "passed over pages 36 and 37,"
+      "start": 786.78,
+      "end": 787.72,
+      "text": "passed over pages thirty-six and thirty-seven—financial"
     },
     {
-      "start": 789.44,
-      "end": 790.62,
-      "text": "financial news,"
+      "start": 787.72,
+      "end": 788.34,
+      "text": "news—found nothing to stop his"
     },
     {
-      "start": 790.78,
-      "end": 792.38,
-      "text": "found nothing to stop his"
-    },
-    {
-      "start": 792.38,
-      "end": 794.82,
-      "text": "eyes on the 38th and last page,"
+      "start": 792.34,
+      "end": 793.36,
+      "text": "eyes on the thirty-eighth and last page,"
     },
     {
       "start": 795.12,
@@ -215,8 +197,7 @@
     {
       "start": 797.66,
       "end": 798.9,
-      "text": "put it in his coat pocket,",
-      "para_break": true
+      "text": "put it in his coat-pocket,"
     },
     {
       "start": 798.98,
@@ -229,19 +210,14 @@
       "text": "cigarette."
     },
     {
-      "start": 800.39,
-      "end": 802.48,
-      "text": "For five minutes he stood there in the"
+      "start": 799.89,
+      "end": 804.13,
+      "text": "For five minutes he stood there in the office-building-vestibule smoking"
     },
     {
-      "start": 802.48,
-      "end": 804.54,
-      "text": "office building vestibule smoking and staring"
-    },
-    {
-      "start": 804.92,
-      "end": 805.76,
-      "text": "sulkily at nothing."
+      "start": 804.13,
+      "end": 805.71,
+      "text": "and staring sulkily at nothing."
     },
     {
       "start": 806.76,
@@ -250,14 +226,9 @@
       "para_break": true
     },
     {
-      "start": 808.78,
-      "end": 809.62,
-      "text": "hailed a taxi cab,"
-    },
-    {
       "start": 810.02,
       "end": 810.94,
-      "text": "and had himself driven"
+      "text": "hailed a taxicab,"
     },
     {
       "start": 811.08,
@@ -267,7 +238,7 @@
     {
       "start": 812.76,
       "end": 814.44,
-      "text": "He led himself into the building and into",
+      "text": "He let himself into the building and into",
       "para_break": true
     },
     {
@@ -283,8 +254,7 @@
     {
       "start": 818.56,
       "end": 821.76,
-      "text": "The blue gown she had worn the previous night was hanging across the",
-      "para_break": true
+      "text": "The blue gown she had worn the previous night was hanging across the"
     },
     {
       "start": 821.76,
@@ -304,18 +274,17 @@
     {
       "start": 827.88,
       "end": 829.9,
-      "text": "had held jewelry in her dressing table drawer"
+      "text": "had held jewelry in her dressing-table-drawer"
     },
     {
       "start": 829.9,
       "end": 832.3,
-      "text": "now stood empty on the dressing table top."
+      "text": "now stood empty on the dressing-table-top."
     },
     {
       "start": 833.216,
       "end": 833.76,
-      "text": "Spade frowned",
-      "para_break": true
+      "text": "Spade frowned"
     },
     {
       "start": 833.88,
@@ -330,8 +299,7 @@
     {
       "start": 836.672,
       "end": 839.08,
-      "text": "strolled through the rooms looking around but not touching",
-      "para_break": true
+      "text": "strolled through the rooms looking around but not touching"
     },
     {
       "start": 839.22,
@@ -341,12 +309,12 @@
     {
       "start": 839.8,
       "end": 842.28,
-      "text": "then left the coronet and went downtown again."
+      "text": "then left the Coronet and went downtown again."
     },
     {
       "start": 843.44,
       "end": 845.12,
-      "text": "In the doorway of Spade's office building,",
+      "text": "In the doorway of Spade's office-building,",
       "para_break": true
     },
     {
@@ -372,8 +340,7 @@
     {
       "start": 852.88,
       "end": 853.26,
-      "text": "come on,",
-      "para_break": true
+      "text": "come on,"
     },
     {
       "start": 853.3,
@@ -383,8 +350,7 @@
     {
       "start": 855.41,
       "end": 856.98,
-      "text": "The boy's hands were in his",
-      "para_break": true
+      "text": "The boy's hands were in his"
     },
     {
       "start": 857.04,
@@ -394,24 +360,24 @@
     {
       "start": 858.1,
       "end": 861.46,
-      "text": "His pockets bulged more than his hands need have made them bulge."
+      "text": "His pockets bulged more than his hands need have made them bulge.",
+      "para_break": true
     },
     {
       "start": 862.46,
       "end": 863.78,
-      "text": "Spade grinned and said mockingly,",
+      "text": "Spade grinned and said mockingly:",
       "para_break": true
     },
     {
       "start": 864.18,
       "end": 866.28,
-      "text": "I didn't expect you till 525."
+      "text": "\"I didn't expect you till five-twenty-five."
     },
     {
       "start": 867.2,
       "end": 868.44,
-      "text": "I hope I haven't kept you waiting.",
-      "para_break": true
+      "text": "I hope I haven't kept you waiting."
     },
     {
       "start": 869.14,
@@ -427,8 +393,7 @@
     {
       "start": 875.44,
       "end": 876.32,
-      "text": "Keep on riding me,",
-      "para_break": true
+      "text": "Keep on riding me,"
     },
     {
       "start": 876.82,
@@ -444,8 +409,7 @@
     {
       "start": 881.68,
       "end": 882.52,
-      "text": "The cheaper the crook,",
-      "para_break": true
+      "text": "The cheaper the crook,"
     },
     {
       "start": 882.56,
@@ -460,8 +424,7 @@
     {
       "start": 885.46,
       "end": 885.74,
-      "text": "Well,",
-      "para_break": true
+      "text": "Well,"
     },
     {
       "start": 885.88,
@@ -477,7 +440,7 @@
     {
       "start": 889.92,
       "end": 892.36,
-      "text": "The boy kept his hands in his overcoat pockets."
+      "text": "The boy kept his hands in his overcoat-pockets."
     },
     {
       "start": 892.82,
@@ -487,13 +450,12 @@
     {
       "start": 895.72,
       "end": 896.8,
-      "text": "Then Spade asked pleasantly,",
-      "para_break": true
+      "text": "Then Spade asked pleasantly,"
     },
     {
       "start": 897.3,
       "end": 899.78,
-      "text": "How long have you been off the gooseberry lay,"
+      "text": "\"How long have you been off the goose-berry lay,"
     },
     {
       "start": 899.92,
@@ -507,27 +469,24 @@
       "para_break": true
     },
     {
-      "start": 904.82,
-      "end": 905.4,
-      "text": "Did you ever?",
-      "para_break": true
+      "start": 904.32,
+      "end": 905.38,
+      "text": "\"Did you ever—?\""
     },
     {
-      "start": 905.92,
-      "end": 906.78,
-      "text": "Spade began and stopped."
+      "start": 905.52,
+      "end": 906.72,
+      "text": "Spade began, and stopped."
     },
     {
       "start": 907.7,
       "end": 910.08,
-      "text": "A soft light began to glow in his yellowish eyes.",
-      "para_break": true
+      "text": "A soft light began to glow in his yellowish eyes."
     },
     {
       "start": 911.06,
       "end": 912.66,
-      "text": "He did not address the boy again.",
-      "para_break": true
+      "text": "He did not address the boy again."
     },
     {
       "start": 913.8,
@@ -548,8 +507,7 @@
     {
       "start": 920.94,
       "end": 922.18,
-      "text": "Nobody else was in the corridor.",
-      "para_break": true
+      "text": "Nobody else was in the corridor."
     },
     {
       "start": 923.2,
@@ -560,7 +518,7 @@
     {
       "start": 924.82,
       "end": 926.78,
-      "text": "were within 15 feet of Gutman's door,"
+      "text": "were within fifteen feet of Gutman's door,"
     },
     {
       "start": 927.12,
@@ -570,8 +528,7 @@
     {
       "start": 929.92,
       "end": 932.5,
-      "text": "He leaned sideways suddenly and grasped the boy from",
-      "para_break": true
+      "text": "He leaned sidewise suddenly and grasped the boy from"
     },
     {
       "start": 932.5,
@@ -581,13 +538,12 @@
     {
       "start": 935.7,
       "end": 937.6,
-      "text": "He forced the boy's arms forward so that",
-      "para_break": true
+      "text": "He forced the boy's arms forward so that"
     },
     {
       "start": 937.6,
       "end": 939.38,
-      "text": "the boy's hands in his overcoat pockets"
+      "text": "the boy's hands, in his overcoat-pockets,"
     },
     {
       "start": 939.68,
@@ -597,8 +553,7 @@
     {
       "start": 942.4,
       "end": 943.6,
-      "text": "The boy struggled and squirmed,",
-      "para_break": true
+      "text": "The boy struggled and squirmed,"
     },
     {
       "start": 943.66,
@@ -629,25 +584,22 @@
     {
       "start": 954.92,
       "end": 957.28,
-      "text": "The impact made little noise on the thick carpet.",
-      "para_break": true
+      "text": "The impact made little noise on the thick carpet."
     },
     {
       "start": 958.28,
       "end": 959.12,
-      "text": "At the moment of impact,",
-      "para_break": true
+      "text": "At the moment of impact,"
     },
     {
       "start": 959.26,
       "end": 962.3,
-      "text": "Spade's hand slid down and got a fresh grip on the boy's wrists."
+      "text": "Spade's hands slid down and got a fresh grip on the boy's wrists."
     },
     {
       "start": 963.2,
       "end": 963.54,
-      "text": "The boy,",
-      "para_break": true
+      "text": "The boy,"
     },
     {
       "start": 963.7,
@@ -684,5 +636,6 @@
       "end": 981.04,
       "text": "as Spade crushed the boy's hands."
     }
-  ]
+  ],
+  "corrected": "claude"
 }

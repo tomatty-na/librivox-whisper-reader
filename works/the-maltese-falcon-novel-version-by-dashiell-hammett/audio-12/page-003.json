@@ -15,13 +15,13 @@
     {
       "start": 491.66,
       "end": 492.84,
-      "text": "He came out again."
+      "text": "He came out again.",
+      "para_break": true
     },
     {
       "start": 493.68,
       "end": 494.24,
-      "text": "Phone your mother,",
-      "para_break": true
+      "text": "Phone your mother,"
     },
     {
       "start": 494.42,
@@ -31,8 +31,7 @@
     {
       "start": 495.6,
       "end": 496.52,
-      "text": "See if she's come yet.",
-      "para_break": true
+      "text": "See if she's come yet."
     },
     {
       "start": 497.16,
@@ -43,13 +42,13 @@
     {
       "start": 500.5,
       "end": 500.6,
-      "text": "No,"
+      "text": "No,",
+      "para_break": true
     },
     {
       "start": 501.56,
       "end": 503.16,
-      "text": "she said when she had",
-      "para_break": true
+      "text": "she said when she had"
     },
     {
       "start": 503.24,
@@ -64,8 +63,7 @@
     {
       "start": 505.16,
       "end": 506.8,
-      "text": "did you send her out in a taxi?",
-      "para_break": true
+      "text": "did you send her out in a taxi?"
     },
     {
       "start": 507.56,
@@ -82,8 +80,7 @@
     {
       "start": 511.94,
       "end": 513.2,
-      "text": "Somebody must have followed her.",
-      "para_break": true
+      "text": "Somebody must have followed her."
     },
     {
       "start": 514.24,
@@ -109,20 +106,17 @@
     {
       "start": 521.92,
       "end": 523.44,
-      "text": "Nobody followed her.",
-      "para_break": true
+      "text": "Nobody followed her."
     },
     {
       "start": 524.16,
       "end": 526.27,
-      "text": "Do you think I'm a goddamn schoolboy?",
-      "para_break": true
+      "text": "Do you think I'm a God-damned schoolboy?"
     },
     {
       "start": 527.34,
       "end": 529.36,
-      "text": "I made sure of it before I put her in the cab.",
-      "para_break": true
+      "text": "I made sure of it before I put her in the cab."
     },
     {
       "start": 529.9,
@@ -132,14 +126,12 @@
     {
       "start": 532.74,
       "end": 535.9,
-      "text": "and I checked her another half dozen blocks after I got out.",
-      "para_break": true
+      "text": "and I checked her another half-dozen blocks after I got out."
     },
     {
       "start": 536.66,
       "end": 536.92,
-      "text": "Well,",
-      "para_break": true
+      "text": "Well,"
     },
     {
       "start": 537.08,
@@ -170,14 +162,13 @@
     {
       "start": 545.856,
       "end": 547.02,
-      "text": "Effie Perrine sniffed.",
+      "text": "Effie Perine sniffed.",
       "para_break": true
     },
     {
       "start": 547.74,
       "end": 549.9,
-      "text": "You certainly act like a goddamn schoolboy,",
-      "para_break": true
+      "text": "\"You certainly act like a God-damned schoolboy,\""
     },
     {
       "start": 550.02,
@@ -187,14 +178,13 @@
     {
       "start": 551.488,
       "end": 554.48,
-      "text": "Spade made a harsh noise in his throat and went to the corridor door.",
+      "text": "Spade made a harsh noise in his throat and went to the corridor-door.",
       "para_break": true
     },
     {
       "start": 555.5,
       "end": 558.22,
-      "text": "I'm going out and find her if I have to dig up sewers,",
-      "para_break": true
+      "text": "I'm going out and find her if I have to dig up sewers,"
     },
     {
       "start": 558.36,
@@ -204,8 +194,7 @@
     {
       "start": 559.48,
       "end": 562.02,
-      "text": "Stay here till I'm back or you hear from me.",
-      "para_break": true
+      "text": "Stay here till I'm back or you hear from me."
     },
     {
       "start": 562.56,
@@ -229,15 +218,9 @@
       "text": "walked half the distance to the elevators and retraced his steps."
     },
     {
-      "start": 570.14,
-      "end": 570.42,
-      "text": "F.E.",
-      "para_break": true
-    },
-    {
-      "start": 570.44,
+      "start": 569.64,
       "end": 572.9,
-      "text": "Perrine was sitting at her desk when he opened the door."
+      "text": "Effie Perine was sitting at her desk when he opened the door."
     },
     {
       "start": 572.98,
@@ -273,8 +256,7 @@
     {
       "start": 583.32,
       "end": 583.6,
-      "text": "Only,",
-      "para_break": true
+      "text": "Only,"
     },
     {
       "start": 583.81,
@@ -289,8 +271,7 @@
     {
       "start": 588.96,
       "end": 591.46,
-      "text": "I won't be able to wear an evening gown for two weeks,",
-      "para_break": true
+      "text": "I won't be able to wear an evening gown for two weeks,"
     },
     {
       "start": 591.52,
@@ -311,7 +292,7 @@
     {
       "start": 594.42,
       "end": 595.76,
-      "text": "I'm no damn good,"
+      "text": "I'm no damned good,"
     },
     {
       "start": 595.86,
@@ -321,59 +302,62 @@
     {
       "start": 596.78,
       "end": 598.7,
-      "text": "made an exaggerated bow and went out again.",
+      "text": "made an exaggerated bow and went out again."
+    },
+    {
+      "start": 599.32,
+      "end": 602.9,
+      "text": "Two yellow taxicabs were at the corner-stand to which Spade went.",
       "para_break": true
     },
     {
-      "start": 599.2,
-      "end": 601.9,
-      "text": "two yellow taxi cabs were at the corner stand"
+      "start": 603.68,
+      "end": 604.86,
+      "text": "Their chauffeurs were standing together talking."
     },
     {
-      "start": 601.9,
-      "end": 604.58,
-      "text": "to which spade went the chauffeurs were standing"
+      "start": 605.9,
+      "end": 609.8,
+      "text": "Spade asked: \"Where's the red-faced blond driver that was here at noon?\""
     },
     {
-      "start": 604.74,
-      "end": 607.92,
-      "text": "together talking spade asked where's the red"
-    },
-    {
-      "start": 607.92,
-      "end": 609.7,
-      "text": "-faced blonde driver that was here at noon"
-    },
-    {
-      "start": 610.7,
-      "end": 613.1,
-      "text": "got a load one of the chauffeurs said",
+      "start": 609.9,
+      "end": 613.5,
+      "text": "\"Got a load,\" one of the chauffeurs said.",
       "para_break": true
     },
     {
-      "start": 614.18,
-      "end": 618.46,
-      "text": "will he be back here i guess so the other chauffeur",
+      "start": 613.8,
+      "end": 614.98,
+      "text": "\"Will he be back here?\"",
       "para_break": true
     },
     {
-      "start": 618.54,
-      "end": 619.8,
-      "text": "ducked his head to the east"
+      "start": 615.6,
+      "end": 616.54,
+      "text": "\"I guess so.\"",
+      "para_break": true
     },
     {
-      "start": 620.38,
-      "end": 624.4,
-      "text": "here he comes now spade walked down to the corner and stood by the"
+      "start": 617.32,
+      "end": 619.78,
+      "text": "The other chauffeur ducked his head to the east.",
+      "para_break": true
     },
     {
-      "start": 624.54,
-      "end": 626.08,
-      "text": "curb until the red-faced blonde"
+      "start": 620.24,
+      "end": 621.12,
+      "text": "\"Here he comes now.\""
     },
     {
-      "start": 626.08,
-      "end": 628.06,
+      "start": 622.16,
+      "end": 625.86,
+      "text": "Spade walked down to the corner and stood by the curb until the red-faced blond",
+      "para_break": true
+    },
+    {
+      "start": 626.06,
+      "end": 627.98,
       "text": "chauffeur had parked his cab and got out."
     },
     {
@@ -394,8 +378,7 @@
     {
       "start": 634.14,
       "end": 635.76,
-      "text": "We went out Stockton Street and up",
-      "para_break": true
+      "text": "We went out Stockton Street and up"
     },
     {
       "start": 635.8,
@@ -405,7 +388,8 @@
     {
       "start": 638.27,
       "end": 638.96,
-      "text": "Sure,"
+      "text": "Sure,",
+      "para_break": true
     },
     {
       "start": 639.26,
@@ -426,7 +410,7 @@
     {
       "start": 643.34,
       "end": 645.1,
-      "text": "to take her to a Ninth Avenue number."
+      "text": "to take her to a Ninth-Avenue-number."
     },
     {
       "start": 645.56,
@@ -436,8 +420,7 @@
     {
       "start": 647.54,
       "end": 648.56,
-      "text": "Where did you take her?",
-      "para_break": true
+      "text": "Where did you take her?"
     },
     {
       "start": 649.34,
@@ -453,8 +436,7 @@
     {
       "start": 654.1,
       "end": 655.4,
-      "text": "I don't know about this.",
-      "para_break": true
+      "text": "I don't know about this."
     },
     {
       "start": 656.44,
@@ -475,8 +457,7 @@
     {
       "start": 660.18,
       "end": 661.28,
-      "text": "If you want to play safe,",
-      "para_break": true
+      "text": "If you want to play safe,"
     },
     {
       "start": 661.3,
@@ -497,14 +478,12 @@
     {
       "start": 667.88,
       "end": 669.13,
-      "text": "I took her to the ferry building.",
-      "para_break": true
+      "text": "I took her to the Ferry Building."
     },
     {
       "start": 670.18,
       "end": 670.66,
-      "text": "By herself?",
-      "para_break": true
+      "text": "\"By herself?\""
     },
     {
       "start": 671.2,
@@ -525,8 +504,7 @@
     {
       "start": 675.8,
       "end": 676.6,
-      "text": "No,",
-      "para_break": true
+      "text": "No,"
     },
     {
       "start": 676.84,
@@ -547,8 +525,7 @@
     {
       "start": 682.4,
       "end": 683.66,
-      "text": "and when we got to Polk,",
-      "para_break": true
+      "text": "and when we got to Polk,"
     },
     {
       "start": 683.76,
@@ -558,8 +535,7 @@
     {
       "start": 687.24,
       "end": 689.52,
-      "text": "so I stopped at the corner and whistled for a kid,",
-      "para_break": true
+      "text": "so I stopped at the corner and whistled for a kid,"
     },
     {
       "start": 689.58,
@@ -575,14 +551,12 @@
     {
       "start": 693.24,
       "end": 693.56,
-      "text": "The call.",
-      "para_break": true
+      "text": "The _Call_."
     },
     {
       "start": 694.88,
       "end": 696.98,
-      "text": "Then I went on out Sacramento some more,",
-      "para_break": true
+      "text": "Then I went on out Sacramento some more,"
     },
     {
       "start": 697.42,
@@ -608,13 +582,12 @@
     {
       "start": 706.24,
       "end": 707.18,
-      "text": "Not so as I noticed.",
-      "para_break": true
+      "text": "\"Not so's I noticed.\""
     },
     {
       "start": 707.84,
       "end": 709.24,
-      "text": "And when you got to the ferry building?",
+      "text": "And when you got to the Ferry Building?",
       "para_break": true
     },
     {
@@ -648,14 +621,13 @@
     {
       "start": 719.88,
       "end": 720.33,
-      "text": "At the ferry?",
+      "text": "At the Ferry?",
       "para_break": true
     },
     {
       "start": 721.5,
       "end": 721.98,
-      "text": "I don't know,",
-      "para_break": true
+      "text": "I don't know,"
     },
     {
       "start": 722.04,
@@ -676,8 +648,7 @@
     {
       "start": 726.9,
       "end": 727.42,
-      "text": "Yeah,",
-      "para_break": true
+      "text": "Yeah,"
     },
     {
       "start": 727.54,
@@ -695,5 +666,6 @@
       "text": "With the pink sheet outside or one of the white?",
       "para_break": true
     }
-  ]
+  ],
+  "corrected": "claude"
 }

@@ -15,8 +15,7 @@
     {
       "start": 244.4,
       "end": 246.54,
-      "text": "She knew then that he was working,",
-      "para_break": true
+      "text": "She knew then that he was working,"
     },
     {
       "start": 246.7,
@@ -26,8 +25,7 @@
     {
       "start": 249.1,
       "end": 250.8,
-      "text": "I suppose she was disappointed and mad.",
-      "para_break": true
+      "text": "I suppose she was disappointed, and mad—"
     },
     {
       "start": 251.06,
@@ -37,8 +35,7 @@
     {
       "start": 253.96,
       "end": 255.44,
-      "text": "She followed Miles long enough to",
-      "para_break": true
+      "text": "She followed Miles long enough to"
     },
     {
       "start": 255.44,
@@ -53,13 +50,12 @@
     {
       "start": 259.6,
       "end": 260.2,
-      "text": "You weren't home.",
-      "para_break": true
+      "text": "You weren't home."
     },
     {
       "start": 261.06,
       "end": 262.14,
-      "text": "What time was that?",
+      "text": "\"What time was that?\"",
       "para_break": true
     },
     {
@@ -76,8 +72,7 @@
     {
       "start": 265.952,
       "end": 268.18,
-      "text": "Between half past nine and ten the first time.",
-      "para_break": true
+      "text": "Between half-past nine and ten the first time."
     },
     {
       "start": 269.0,
@@ -94,13 +89,13 @@
     {
       "start": 271.46,
       "end": 273.96,
-      "text": "She drove around for half an hour or so and then tried again."
+      "text": "She drove around for half an hour or so and then tried again.",
+      "para_break": true
     },
     {
       "start": 274.8,
       "end": 275.48,
-      "text": "That would make it,",
-      "para_break": true
+      "text": "That would make it,"
     },
     {
       "start": 275.5,
@@ -115,8 +110,7 @@
     {
       "start": 277.28,
       "end": 278.04,
-      "text": "You were still out.",
-      "para_break": true
+      "text": "You were still out."
     },
     {
       "start": 278.26,
@@ -142,13 +136,12 @@
     {
       "start": 287.72,
       "end": 289.52,
-      "text": "She went to a movie at 10.30?",
-      "para_break": true
+      "text": "\"She went to a movie at ten-thirty?\""
     },
     {
       "start": 290.19,
       "end": 291.44,
-      "text": "So she says,",
+      "text": "\"So she says—",
       "para_break": true
     },
     {
@@ -159,8 +152,7 @@
     {
       "start": 295.58,
       "end": 296.62,
-      "text": "She didn't want to go home,",
-      "para_break": true
+      "text": "She didn't want to go home,"
     },
     {
       "start": 296.72,
@@ -175,8 +167,7 @@
     {
       "start": 300.52,
       "end": 301.64,
-      "text": "That always made him mad,",
-      "para_break": true
+      "text": "That always made him mad,"
     },
     {
       "start": 301.72,
@@ -196,8 +187,7 @@
     {
       "start": 307.424,
       "end": 308.94,
-      "text": "Wise's words came out slower now,",
-      "para_break": true
+      "text": "Wise's words came out slower now,"
     },
     {
       "start": 309.38,
@@ -207,14 +197,12 @@
     {
       "start": 312.4,
       "end": 315.52,
-      "text": "She says she had decided by then not to go back to your place again.",
-      "para_break": true
+      "text": "She says she had decided by then not to go back to your place again."
     },
     {
       "start": 316.62,
       "end": 318.08,
-      "text": "She says she didn't know whether you'd",
-      "para_break": true
+      "text": "She says she didn't know whether you'd"
     },
     {
       "start": 318.08,
@@ -224,8 +212,7 @@
     {
       "start": 320.32,
       "end": 321.4,
-      "text": "So she went to Tate's,",
-      "para_break": true
+      "text": "So she went to Tait's,"
     },
     {
       "start": 321.48,
@@ -235,8 +222,7 @@
     {
       "start": 323.36,
       "end": 324.28,
-      "text": "had something to eat,",
-      "para_break": true
+      "text": "had something to eat,"
     },
     {
       "start": 324.74,
@@ -246,119 +232,91 @@
     {
       "start": 326.816,
       "end": 329.32,
-      "text": "Wise rocked back in his chair and waited for Spade to speak.",
+      "text": "Wise rocked back in his chair and waited for Spade to speak."
+    },
+    {
+      "start": 329.868,
+      "end": 334.728,
+      "text": "Spade's face was expressionless. He asked: \"You believe her?\"",
       "para_break": true
     },
     {
-      "start": 330.368,
-      "end": 332.18,
-      "text": "Spade's face was expressionless.",
+      "start": 335.648,
+      "end": 337.248,
+      "text": "\"Don't you?\" Wise replied.",
       "para_break": true
     },
     {
-      "start": 332.4,
-      "end": 337.28,
-      "text": "he asked you believe her don't you wise replied"
+      "start": 338.008,
+      "end": 342.748,
+      "text": "\"How do I know? How do I know it isn't something you fixed up between you to tell me?\""
     },
     {
-      "start": 337.98,
-      "end": 340.9,
-      "text": "how do i know how do i know it isn't something",
-      "para_break": true
+      "start": 343.548,
+      "end": 348.008,
+      "text": "Wise smiled. \"You don't cash many checks for strangers, do you, Sammy?\""
     },
     {
-      "start": 340.9,
-      "end": 344.44,
-      "text": "you fixed up between you to tell me wise smiled"
+      "start": 348.708,
+      "end": 350.128,
+      "text": "\"Not basketfuls."
     },
     {
-      "start": 344.93,
-      "end": 347.72,
-      "text": "you don't cash many checks for strangers do you"
+      "start": 350.628,
+      "end": 351.828,
+      "text": "Well, what then?"
     },
     {
-      "start": 347.78,
-      "end": 348.12,
-      "text": "sammy"
+      "start": 352.888,
+      "end": 355.248,
+      "text": "Miles wasn't home. It was at least two o'clock by then—must've been—and he was dead.\""
     },
     {
-      "start": 349.04,
-      "end": 350.1,
-      "text": "not basketfuls",
-      "para_break": true
-    },
-    {
-      "start": 351.08,
-      "end": 354.72,
-      "text": "well what then miles wasn't home it was",
-      "para_break": true
-    },
-    {
-      "start": 354.72,
-      "end": 356.76,
-      "text": "at least two o'clock by then must have"
-    },
-    {
-      "start": 356.88,
-      "end": 358.0,
-      "text": "in and he was dead."
-    },
-    {
-      "start": 359.04,
-      "end": 359.84,
-      "text": "Miles wasn't home,",
-      "para_break": true
-    },
-    {
-      "start": 359.98,
+      "start": 358.54,
       "end": 360.46,
-      "text": "Wise said."
-    },
-    {
-      "start": 361.26,
-      "end": 362.78,
-      "text": "That seems to have made her mad again.",
+      "text": "\"Miles wasn't home,\" Wise said.",
       "para_break": true
     },
     {
-      "start": 363.58,
-      "end": 363.86,
-      "text": "His not",
-      "para_break": true
+      "start": 360.92,
+      "end": 362.46,
+      "text": "\"That seems to have made her mad"
     },
     {
-      "start": 363.86,
-      "end": 366.36,
-      "text": "being home first to be made mad by her not being home."
+      "start": 362.46,
+      "end": 366.34,
+      "text": "again—his not being home first to be made mad by her not being home."
     },
     {
-      "start": 367.26,
+      "start": 366.92,
+      "end": 367.32,
+      "text": "So"
+    },
+    {
+      "start": 367.32,
       "end": 368.96,
-      "text": "So she took the car out of the garage again",
-      "para_break": true
+      "text": "she took the car out of the garage again"
     },
     {
-      "start": 369.12,
-      "end": 370.28,
-      "text": "and went back to your place."
+      "start": 368.96,
+      "end": 369.74,
+      "text": "and went back to your place.\""
     },
     {
       "start": 371.2,
       "end": 372.02,
-      "text": "And I wasn't home.",
+      "text": "\"And I wasn't home.",
       "para_break": true
     },
     {
       "start": 373.24,
       "end": 374.84,
-      "text": "I was down looking at Miles's corpse.",
-      "para_break": true
+      "text": "I was down looking at Miles's corpse."
     },
     {
       "start": 375.5,
       "end": 376.0,
-      "text": "Jesus,",
-      "para_break": true
+      "text": "Jesus,"
     },
     {
       "start": 376.2,
@@ -373,13 +331,12 @@
     {
       "start": 379.18,
       "end": 379.54,
-      "text": "Then what?",
-      "para_break": true
+      "text": "Then what?"
     },
     {
       "start": 380.7,
       "end": 382.7,
-      "text": "She went home and her husband still wasn't there.",
+      "text": "\"She went home, and her husband still wasn't there,",
       "para_break": true
     },
     {
@@ -411,8 +368,7 @@
     {
       "start": 393.18,
       "end": 393.68,
-      "text": "Then he said,",
-      "para_break": true
+      "text": "Then he said,"
     },
     {
       "start": 393.88,
@@ -453,7 +409,7 @@
     {
       "start": 407.86,
       "end": 409.1,
-      "text": "but you don't believe it?"
+      "text": "\"But you don't believe it?\""
     },
     {
       "start": 409.24,
@@ -463,13 +419,12 @@
     {
       "start": 410.58,
       "end": 412.18,
-      "text": "plucked his cigarette from between his lips.",
-      "para_break": true
+      "text": "plucked his cigarette from between his lips."
     },
     {
       "start": 412.92,
       "end": 414.56,
-      "text": "I don't believe it or disbelieve it,",
+      "text": "\"I don't believe it or disbelieve it,",
       "para_break": true
     },
     {
@@ -485,7 +440,7 @@
     {
       "start": 415.82,
       "end": 416.88,
-      "text": "know a damn thing about it."
+      "text": "know a damned thing about it."
     },
     {
       "start": 417.62,
@@ -496,8 +451,7 @@
     {
       "start": 420.54,
       "end": 422.18,
-      "text": "He moved his shoulders warily",
-      "para_break": true
+      "text": "He moved his shoulders wearily"
     },
     {
       "start": 422.28,
@@ -517,8 +471,7 @@
     {
       "start": 425.78,
       "end": 427.1,
-      "text": "Why don't you get an honest lawyer,",
-      "para_break": true
+      "text": "Why don't you get an honest lawyer,"
     },
     {
       "start": 427.34,
@@ -528,7 +481,7 @@
     {
       "start": 429.28,
       "end": 430.04,
-      "text": "That fellow's dead,",
+      "text": "\"That fellow's dead,\"",
       "para_break": true
     },
     {
@@ -544,8 +497,7 @@
     {
       "start": 433.46,
       "end": 434.12,
-      "text": "Getting touchy,",
-      "para_break": true
+      "text": "Getting touchy,"
     },
     {
       "start": 434.14,
@@ -555,8 +507,7 @@
     {
       "start": 435.2,
       "end": 435.76,
-      "text": "I haven't got enough",
-      "para_break": true
+      "text": "I haven't got enough"
     },
     {
       "start": 435.98,
@@ -581,19 +532,17 @@
     {
       "start": 441.7,
       "end": 442.34,
-      "text": "when I come in?"
+      "text": "when I came in?"
     },
     {
       "start": 443.488,
       "end": 445.0,
-      "text": "Sidwise smiled sheepishly.",
-      "para_break": true
+      "text": "Sid Wise smiled sheepishly."
     },
     {
       "start": 445.62,
       "end": 446.3,
-      "text": "You're a son of a gun,",
-      "para_break": true
+      "text": "You're a son of a gun,"
     },
     {
       "start": 446.4,
@@ -608,7 +557,7 @@
     {
       "start": 448.48,
       "end": 449.22,
-      "text": "Effie Perrine was",
+      "text": "Effie Perine was",
       "para_break": true
     },
     {
@@ -619,8 +568,7 @@
     {
       "start": 452.38,
       "end": 453.46,
-      "text": "She looked at him with worried",
-      "para_break": true
+      "text": "She looked at him with worried"
     },
     {
       "start": 453.52,
@@ -641,8 +589,7 @@
     {
       "start": 458.36,
       "end": 459.02,
-      "text": "What happened where,",
-      "para_break": true
+      "text": "What happened where,"
     },
     {
       "start": 459.3,
@@ -652,19 +599,19 @@
     {
       "start": 460.35,
       "end": 462.22,
-      "text": "Why didn't she come?"
+      "text": "Why didn't she come?",
+      "para_break": true
     },
     {
       "start": 462.96,
       "end": 466.4,
-      "text": "Spade took two long steps and caught Effie Perrine by the shoulders.",
+      "text": "Spade took two long steps and caught Effie Perine by the shoulders.",
       "para_break": true
     },
     {
       "start": 467.2,
       "end": 468.0,
-      "text": "She didn't get there?",
-      "para_break": true
+      "text": "She didn't get there?"
     },
     {
       "start": 468.4,
@@ -726,8 +673,7 @@
     {
       "start": 487.92,
       "end": 488.48,
-      "text": "in a loud,",
-      "para_break": true
+      "text": "in a loud,"
     },
     {
       "start": 488.6,
@@ -739,5 +685,6 @@
       "end": 491.42,
       "text": "private office."
     }
-  ]
+  ],
+  "corrected": "claude"
 }
