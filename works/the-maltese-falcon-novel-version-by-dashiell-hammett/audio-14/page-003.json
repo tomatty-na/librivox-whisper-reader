@@ -15,7 +15,7 @@
     {
       "start": 491.88,
       "end": 493.54,
-      "text": "But I got a hunch you ain't going"
+      "text": "\"But I got a hunch you ain't going"
     },
     {
       "start": 493.82,
@@ -25,7 +25,7 @@
     {
       "start": 495.15,
       "end": 497.28,
-      "text": "What's the honest to God on this guy,"
+      "text": "What's the honest-to-God on this guy,"
     },
     {
       "start": 497.38,
@@ -40,7 +40,7 @@
     {
       "start": 500.26,
       "end": 501.34,
-      "text": "You know I'm regular."
+      "text": "You know I'm regular.\""
     },
     {
       "start": 502.592,
@@ -56,7 +56,7 @@
     {
       "start": 507.16,
       "end": 507.68,
-      "text": "Sure you are,",
+      "text": "\"Sure, you are,\"",
       "para_break": true
     },
     {
@@ -67,7 +67,7 @@
     {
       "start": 508.56,
       "end": 509.96,
-      "text": "I'm not holding out."
+      "text": "\"I'm not holding out."
     },
     {
       "start": 510.5,
@@ -77,95 +77,100 @@
     {
       "start": 512.46,
       "end": 513.62,
-      "text": "I'm doing a job for him,",
-      "para_break": true
+      "text": "I'm doing a job for him,"
     },
     {
       "start": 513.86,
       "end": 515.92,
-      "text": "but he's got some friends that look wrong to me,"
+      "text": "but he's got some friends that look wrong to me"
     },
     {
       "start": 516.0,
       "end": 517.56,
-      "text": "and I'm a little leery of him."
+      "text": "and I'm a little leery of him.\""
     },
     {
-      "start": 518.09,
-      "end": 520.62,
-      "text": "the kid we chased out yesterday was one of his"
+      "start": 518.17,
+      "end": 520.97,
+      "text": "\"The kid we chased out yesterday was one of his friends.\""
     },
     {
-      "start": 520.62,
-      "end": 524.26,
-      "text": "friends yes luke he was and it was one of them"
+      "start": 520.95,
+      "end": 522.61,
+      "text": "\"Yes, Luke, he was.\""
     },
     {
-      "start": 524.26,
-      "end": 527.6,
-      "text": "that shoved miles across spade shook his head"
+      "start": 522.99,
+      "end": 524.23,
+      "text": "\"And it was one of them"
     },
     {
-      "start": 527.77,
-      "end": 531.88,
-      "text": "thursby killed miles and who killed him spade"
+      "start": 524.23,
+      "end": 525.43,
+      "text": "that shoved Miles across.\""
     },
     {
-      "start": 532.24,
-      "end": 535.0,
-      "text": "smiled that's supposed to be a secret but"
+      "start": 526.35,
+      "end": 527.53,
+      "text": "Spade shook his head.",
+      "para_break": true
     },
     {
-      "start": 535.04,
-      "end": 537.72,
-      "text": "confidentially i did he said according to the"
+      "start": 528.23,
+      "end": 529.47,
+      "text": "\"Thursby killed Miles.\"",
+      "para_break": true
     },
     {
-      "start": 537.8,
-      "end": 540.5,
-      "text": "police luke grunted and stood up saying"
+      "start": 529.85,
+      "end": 531.05,
+      "text": "\"And who killed him?\"",
+      "para_break": true
     },
     {
-      "start": 540.71,
-      "end": 542.58,
-      "text": "you're a tough one to figure out sam"
+      "start": 531.63,
+      "end": 532.35,
+      "text": "Spade smiled.",
+      "para_break": true
     },
     {
-      "start": 543.22,
-      "end": 544.24,
-      "text": "come on we'll have"
+      "start": 533.23,
+      "end": 535.99,
+      "text": "*\"That's supposed to be a secret, but, confidentially, I",
+      "para_break": true
     },
     {
-      "start": 544.42,
-      "end": 544.98,
-      "text": "that look-see."
+      "start": 535.99,
+      "end": 538.01,
+      "text": "did,\" he said, \"according to the police.\""
     },
     {
-      "start": 546.02,
-      "end": 547.5,
-      "text": "They stopped at the desk long enough",
+      "start": 540.69,
+      "end": 542.61,
+      "text": "*\"You're a tough one to figure out, Sam.",
       "para_break": true
     },
     {
       "start": 547.5,
       "end": 549.92,
-      "text": "for Luke to fix it so we'll get a ring"
+      "text": "They stopped at the desk long enough",
+      "para_break": true
     },
     {
       "start": 549.92,
       "end": 552.48,
-      "text": "if he comes in and went up to Cairo's room."
+      "text": "for Luke to \"fix it so we'll get a ring"
     },
     {
       "start": 553.44,
       "end": 554.86,
-      "text": "Cairo's bed was smooth and trim,",
-      "para_break": true
+      "text": "if he comes in,\" and went up to Cairo's room."
     },
     {
       "start": 555.02,
       "end": 555.96,
-      "text": "but paper in"
+      "text": "Cairo's bed was smooth and trim,",
+      "para_break": true
     },
     {
       "start": 555.96,
@@ -190,13 +195,13 @@
     {
       "start": 565.344,
       "end": 567.12,
-      "text": "Cairo's luggage consisted of a square",
-      "para_break": true
+      "text": "Cairo's luggage consisted of a square"
     },
     {
       "start": 567.22,
       "end": 567.56,
-      "text": "trunk,"
+      "text": "Cairo's luggage consisted of a square",
+      "para_break": true
     },
     {
       "start": 567.66,
@@ -211,13 +216,12 @@
     {
       "start": 571.0,
       "end": 573.08,
-      "text": "His bathroom cabinet was stocked with cosmetics,",
-      "para_break": true
+      "text": "His bathroom cabinet was stocked with cosmetics,"
     },
     {
       "start": 573.46,
       "end": 573.88,
-      "text": "boxes,"
+      "text": "His bathroom-cabinet was stocked with cosmetics—"
     },
     {
       "start": 574.52,
@@ -262,24 +266,23 @@
     {
       "start": 581.6,
       "end": 583.64,
-      "text": "Two suits and an overcoat hung in the closet",
-      "para_break": true
+      "text": "Two suits and an overcoat hung in the closet"
     },
     {
       "start": 583.64,
       "end": 585.84,
-      "text": "over three pairs of carefully treed shoes."
+      "text": "Two suits and an overcoat hung in the closet",
+      "para_break": true
     },
     {
       "start": 586.9,
       "end": 588.94,
-      "text": "The valise and smaller bag were unlocked.",
-      "para_break": true
+      "text": "The valise and smaller bag were unlocked."
     },
     {
       "start": 589.88,
       "end": 592.12,
-      "text": "Luke had the trunk unlocked by the time Spade had",
+      "text": "The valise and smaller bag were unlocked.",
       "para_break": true
     },
     {
@@ -290,13 +293,13 @@
     {
       "start": 594.336,
       "end": 594.92,
-      "text": "Blank so far,",
-      "para_break": true
+      "text": "Blank so far,"
     },
     {
       "start": 595.14,
       "end": 595.72,
-      "text": "Spade said,"
+      "text": "\"Blank so far,\"",
+      "para_break": true
     },
     {
       "start": 595.9,
@@ -311,13 +314,14 @@
     {
       "start": 601.14,
       "end": 603.38,
-      "text": "Any particular thing we're supposed to be looking for?",
+      "text": "They found nothing there to interest them.",
       "para_break": true
     },
     {
       "start": 603.62,
       "end": 605.64,
-      "text": "Luke asked as he locked the trunk again."
+      "text": "\"Any particular thing we're supposed to be looking for?\"",
+      "para_break": true
     },
     {
       "start": 606.06,
@@ -327,14 +331,13 @@
     {
       "start": 607.88,
       "end": 609.79,
-      "text": "he's supposed to have come here from Constantinople.",
+      "text": "\"No.",
       "para_break": true
     },
     {
       "start": 610.88,
       "end": 611.88,
-      "text": "I'd like to know if he did.",
-      "para_break": true
+      "text": "He's supposed to have come here from Constantinople."
     },
     {
       "start": 612.08,
@@ -344,25 +347,24 @@
     {
       "start": 615.584,
       "end": 616.24,
-      "text": "What's his racket?",
-      "para_break": true
+      "text": "I haven't seen anything that says he didn't.\""
     },
     {
       "start": 617.248,
       "end": 618.14,
-      "text": "Spade shook his head.",
+      "text": "\"What's his racket?\"",
       "para_break": true
     },
     {
       "start": 618.43,
       "end": 620.26,
-      "text": "That's something else I'd like to know."
+      "text": "Spade shook his head.",
+      "para_break": true
     },
     {
       "start": 621.24,
       "end": 623.44,
-      "text": "He crossed the room and bent down over the wastebasket.",
-      "para_break": true
+      "text": "\"That's something else I'd like to know.\""
     },
     {
       "start": 623.7,
@@ -372,17 +374,18 @@
     {
       "start": 624.74,
       "end": 625.9,
-      "text": "this is our last shot."
+      "text": "\"Well,"
     },
     {
       "start": 626.56,
       "end": 628.4,
-      "text": "He took a newspaper from the basket."
+      "text": "this is our last shot.\""
     },
     {
       "start": 628.58,
       "end": 631.86,
-      "text": "His eyes brightened when he saw it was the previous day's"
+      "text": "He took a newspaper from the basket.",
+      "para_break": true
     },
     {
       "start": 632.0,
@@ -392,14 +395,12 @@
     {
       "start": 632.9,
       "end": 636.1,
-      "text": "It was folded with a classified advertising page outside.",
-      "para_break": true
+      "text": "_Call_."
     },
     {
       "start": 636.88,
       "end": 637.54,
-      "text": "He opened it,",
-      "para_break": true
+      "text": "It was folded with the classified-advertising-page outside."
     },
     {
       "start": 637.6,
@@ -419,13 +420,13 @@
     {
       "start": 643.66,
       "end": 644.54,
-      "text": "been folded inside,"
+      "text": "He turned the paper over and looked at the page that had",
+      "para_break": true
     },
     {
       "start": 645.42,
       "end": 647.58,
-      "text": "the page that held financial and shipping news,",
-      "para_break": true
+      "text": "the page that held financial and shipping news,"
     },
     {
       "start": 648.06,
@@ -460,7 +461,8 @@
     {
       "start": 653.44,
       "end": 655.18,
-      "text": "a little more than two inches of the"
+      "text": "From the lower left-hand corner,",
+      "para_break": true
     },
     {
       "start": 655.26,
@@ -470,75 +472,43 @@
     {
       "start": 658.656,
       "end": 660.68,
-      "text": "Immediately above the tear was a small caption.",
+      "text": "Immediately above the tear was a small caption."
+    },
+    {
+      "start": 660.44,
+      "end": 660.98,
+      "text": "*Immediately above the tear was a small caption _Arrived Today_ followed by:",
       "para_break": true
     },
     {
-      "start": 660.94,
+      "start": 661.6,
+      "end": 662.16,
+      "text": "12:20 A. M.—Capac from Astoria."
+    },
+    {
+      "start": 662.16,
       "end": 662.36,
-      "text": "arrived today,"
+      "text": "5:05 A. M.—Helen P. Drew from Greenwood."
     },
     {
-      "start": 662.66,
-      "end": 665.9,
-      "text": "followed by 12.20 a.m."
+      "start": 662.98,
+      "end": 663.54,
+      "text": "5:06 A. M.—Albarado from Bandon."
     },
     {
-      "start": 665.94,
-      "end": 667.54,
-      "text": "Capek from Astoria,"
+      "start": 676.58,
+      "end": 677.14,
+      "text": "The tear passed through the next line,"
     },
     {
-      "start": 667.76,
-      "end": 669.78,
-      "text": "5.05 a.m."
-    },
-    {
-      "start": 669.82,
-      "end": 670.72,
-      "text": "Helen P."
-    },
-    {
-      "start": 670.86,
-      "end": 671.92,
-      "text": "Drew from Greenwood,"
-    },
-    {
-      "start": 672.7,
-      "end": 674.04,
-      "text": "5.06 a.m.",
-      "para_break": true
-    },
-    {
-      "start": 674.656,
-      "end": 676.04,
-      "text": "Alborado from Bandon."
-    },
-    {
-      "start": 676.56,
-      "end": 678.52,
-      "text": "The terror passed through the next line,"
-    },
-    {
-      "start": 678.62,
-      "end": 679.8,
-      "text": "leaving only enough of its"
-    },
-    {
-      "start": 679.88,
-      "end": 682.48,
-      "text": "letters to make from Sydney inferable."
-    },
-    {
-      "start": 683.456,
-      "end": 685.9,
-      "text": "Spade put the call down on the desk and looked into the",
-      "para_break": true
+      "start": 679.76,
+      "end": 682.44,
+      "text": "letters to make _from Sydney_ inferable."
     },
     {
       "start": 686.16,
       "end": 686.74,
-      "text": "wastebasket again."
+      "text": "Spade put the _Call_ down on the desk and looked into the"
     },
     {
       "start": 687.33,
@@ -548,7 +518,7 @@
     {
       "start": 689.68,
       "end": 690.8,
-      "text": "a piece of string,"
+      "text": "He found a small piece of wrapping-paper,"
     },
     {
       "start": 691.1,
@@ -563,13 +533,12 @@
     {
       "start": 693.24,
       "end": 696.3,
-      "text": "a haberdasher's sale ticket for half a dozen pairs of socks,",
-      "para_break": true
+      "text": "a haberdasher's sale ticket for half a dozen pairs of socks,"
     },
     {
       "start": 696.58,
       "end": 697.1,
-      "text": "and,"
+      "text": "a haberdasher's sale-ticket for half a dozen pairs of socks,"
     },
     {
       "start": 697.2,
@@ -584,13 +553,13 @@
     {
       "start": 702.74,
       "end": 703.9,
-      "text": "He opened the ball carefully,",
-      "para_break": true
+      "text": "He opened the ball carefully,"
     },
     {
       "start": 704.12,
       "end": 704.92,
-      "text": "smoothed it out"
+      "text": "He opened the ball carefully,",
+      "para_break": true
     },
     {
       "start": 704.92,
@@ -605,13 +574,13 @@
     {
       "start": 708.7,
       "end": 710.24,
-      "text": "The fit at the sides was exact,",
-      "para_break": true
+      "text": "and fitted it into the torn part of the _Call_."
     },
     {
       "start": 710.8,
       "end": 712.18,
-      "text": "but between the top of the crumpled"
+      "text": "The fit at the sides was exact,",
+      "para_break": true
     },
     {
       "start": 712.18,
@@ -621,7 +590,7 @@
     {
       "start": 714.98,
       "end": 715.72,
-      "text": "an inch was"
+      "text": "fragment and the inferable _from Sydney_ half,"
     },
     {
       "start": 715.86,
@@ -641,8 +610,7 @@
     {
       "start": 721.46,
       "end": 721.9,
-      "text": "He turned the",
-      "para_break": true
+      "text": "He turned the"
     },
     {
       "start": 721.9,
@@ -657,7 +625,7 @@
     {
       "start": 727.12,
       "end": 729.28,
-      "text": "corner of a stockbroker's advertisement."
+      "text": "corner of a stock-broker's advertisement."
     },
     {
       "start": 730.28,
@@ -668,17 +636,18 @@
     {
       "start": 730.68,
       "end": 731.86,
-      "text": "leaning over his shoulder,"
+      "text": "Luke,"
     },
     {
       "start": 732.02,
       "end": 732.34,
-      "text": "asked,"
+      "text": "asked:"
     },
     {
       "start": 732.94,
       "end": 733.72,
-      "text": "What's this all about?"
+      "text": "\"What's this all about?\""
     }
-  ]
+  ],
+  "corrected": "claude"
 }
