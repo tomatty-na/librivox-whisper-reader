@@ -13,9 +13,20 @@
   "para_gap_threshold": 0.545,
   "segments": [
     {
+      "start": 761.24,
+      "end": 761.34,
+      "text": "*While Effie Perine, her teeth chattering, fumbled with the corridor-door's lock",
+      "para_break": true
+    },
+    {
+      "start": 761.34,
+      "end": 761.7,
+      "text": "Spade knelt beside the thin man, turned him over on his back, and ran a hand down inside his overcoat."
+    },
+    {
       "start": 762.0,
       "end": 764.38,
-      "text": "When he withdrew the hand presently,"
+      "text": "When he withdrew the hand presently"
     },
     {
       "start": 764.38,
@@ -25,8 +36,7 @@
     {
       "start": 766.54,
       "end": 768.56,
-      "text": "The sight of his bloody hand brought not the",
-      "para_break": true
+      "text": "The sight of his bloody hand brought not the"
     },
     {
       "start": 768.56,
@@ -36,8 +46,7 @@
     {
       "start": 771.94,
       "end": 774.14,
-      "text": "Holding that hand up where it would touch nothing,",
-      "para_break": true
+      "text": "Holding that hand up where it would touch nothing,"
     },
     {
       "start": 774.32,
@@ -52,13 +61,12 @@
     {
       "start": 778.18,
       "end": 779.62,
-      "text": "He snapped on the flame and held the",
-      "para_break": true
+      "text": "He snapped on the flame and held the"
     },
     {
       "start": 779.62,
       "end": 781.82,
-      "text": "flame close to first one then the other"
+      "text": "flame close to first one and then the other"
     },
     {
       "start": 781.94,
@@ -68,8 +76,7 @@
     {
       "start": 783.94,
       "end": 784.3,
-      "text": "The eyes,",
-      "para_break": true
+      "text": "The eyes—"
     },
     {
       "start": 784.52,
@@ -89,7 +96,7 @@
     {
       "start": 786.16,
       "end": 787.4,
-      "text": "and pupils remained frozen,"
+      "text": "and pupils—remained frozen,"
     },
     {
       "start": 787.74,
@@ -110,7 +117,7 @@
     {
       "start": 793.94,
       "end": 797.24,
-      "text": "around to the dead man's side and using his one clean hand,"
+      "text": "around to the dead man's side and, using his one clean hand,"
     },
     {
       "start": 797.71,
@@ -125,37 +132,37 @@
     {
       "start": 800.23,
       "end": 802.82,
-      "text": "The inside of the overcoat was wet with blood,"
+      "text": "The inside of the overcoat was wet with blood"
     },
     {
       "start": 802.92,
       "end": 804.9,
-      "text": "and the double-breasted blue jacket beneath"
+      "text": "and the double-breasted blue jacket"
     },
     {
       "start": 804.96,
       "end": 805.88,
-      "text": "it was sodden."
+      "text": "beneath it was sodden."
     },
     {
-      "start": 806.06,
-      "end": 809.24,
-      "text": "The jacket's lapels were they crossed over the man's chest,"
+      "start": 806.14,
+      "end": 807.62,
+      "text": "The jacket's lapels, where they crossed over the man's chest,"
     },
     {
-      "start": 809.46,
-      "end": 810.48,
+      "start": 809.42,
+      "end": 810.46,
       "text": "and both sides of"
     },
     {
-      "start": 810.48,
-      "end": 813.86,
-      "text": "his coat immediately below that point were pierced by soggy,"
+      "start": 810.46,
+      "end": 812.42,
+      "text": "his coat immediately below that point,"
     },
     {
-      "start": 813.86,
-      "end": 814.4,
-      "text": "ragged holes."
+      "start": 812.42,
+      "end": 814.36,
+      "text": "were pierced by soggy ragged holes."
     },
     {
       "start": 815.392,
@@ -166,18 +173,18 @@
     {
       "start": 816.7,
       "end": 818.08,
-      "text": "washbowl in the outer office."
+      "text": "wash-bowl in the outer office."
     },
     {
       "start": 819.104,
       "end": 819.68,
-      "text": "Effie Perrine,",
+      "text": "Effie Perine,",
       "para_break": true
     },
     {
       "start": 819.8,
       "end": 820.6,
-      "text": "wan and trembling,"
+      "text": "wan and trembling"
     },
     {
       "start": 820.74,
@@ -187,34 +194,33 @@
     {
       "start": 822.56,
       "end": 826.42,
-      "text": "of a hand on the corridor door's knob and her back against its glass,"
+      "text": "of a hand on the corridor-door's knob and her back against its glass,"
     },
     {
       "start": 826.52,
       "end": 827.02,
-      "text": "whispered,"
+      "text": "whispered:"
     },
     {
       "start": 827.74,
       "end": 827.88,
-      "text": "Is...",
-      "para_break": true
+      "text": "\"Is—"
     },
     {
       "start": 827.88,
       "end": 829.16,
-      "text": "is he..."
+      "text": "is he—?\""
     },
     {
       "start": 829.48,
       "end": 830.16,
-      "text": "Yes."
+      "text": "\"Yes.",
+      "para_break": true
     },
     {
       "start": 831.2,
       "end": 833.48,
-      "text": "Shot through the chest maybe half a dozen times,",
-      "para_break": true
+      "text": "Shot through the chest, maybe half a dozen times.\""
     },
     {
       "start": 833.66,
@@ -224,59 +230,53 @@
     {
       "start": 836.416,
       "end": 837.2,
-      "text": "Oughtn't we...",
+      "text": "\"Oughtn't we—?\"",
       "para_break": true
     },
     {
       "start": 837.8,
       "end": 838.22,
-      "text": "She began,",
-      "para_break": true
+      "text": "she began,"
     },
     {
       "start": 838.44,
       "end": 839.66,
-      "text": "but he cut her short."
+      "text": "but he cut her short:"
     },
     {
       "start": 840.48,
       "end": 841.82,
-      "text": "It's too late for a doctor now,",
-      "para_break": true
+      "text": "\"It's too late for a doctor now"
     },
     {
       "start": 842.26,
       "end": 844.12,
-      "text": "and I've got to think before we do anything."
+      "text": "and I've got to think before we do anything.\""
     },
     {
       "start": 844.86,
       "end": 847.6,
-      "text": "He finished washing his hands and began to rinse the bowl.",
-      "para_break": true
+      "text": "He finished washing his hands and began to rinse the bowl."
     },
     {
       "start": 848.5,
       "end": 850.22,
-      "text": "He couldn't have come far with those in him.",
-      "para_break": true
+      "text": "\"He couldn't have come far with those in him."
     },
     {
       "start": 850.36,
       "end": 851.52,
-      "text": "If he..."
+      "text": "If he—"
     },
     {
       "start": 852.12,
       "end": 855.52,
-      "text": "Why in hell couldn't he have stood up long enough to say something?",
-      "para_break": true
+      "text": "Why in hell couldn't he have stood up long enough to say something?\""
     },
     {
       "start": 856.12,
       "end": 857.42,
-      "text": "He frowned at the girl,",
-      "para_break": true
+      "text": "He frowned at the girl,"
     },
     {
       "start": 857.56,
@@ -291,31 +291,27 @@
     {
       "start": 860.54,
       "end": 861.36,
-      "text": "Pull yourself together.",
-      "para_break": true
+      "text": "\"Pull yourself together."
     },
     {
       "start": 862.34,
       "end": 863.04,
-      "text": "For Christ's sake,",
-      "para_break": true
+      "text": "For Christ's sake"
     },
     {
       "start": 863.08,
       "end": 864.4,
-      "text": "don't get sick of me now."
+      "text": "don't get sick on me now!\""
     },
     {
       "start": 865.46,
       "end": 867.7,
-      "text": "He threw the towel down and ran fingers through his hair.",
-      "para_break": true
+      "text": "He threw the towel down and ran fingers through his hair."
     },
     {
       "start": 868.72,
       "end": 869.76,
-      "text": "We'll have a look at that bundle.",
-      "para_break": true
+      "text": "\"We'll have a look at that bundle.\""
     },
     {
       "start": 870.82,
@@ -331,13 +327,12 @@
     {
       "start": 874.4,
       "end": 876.62,
-      "text": "and picked up the brown paper-wrapped parcel."
+      "text": "and picked up the brown-paper-wrapped parcel."
     },
     {
       "start": 877.74,
       "end": 878.56,
-      "text": "When he felt its weight,",
-      "para_break": true
+      "text": "When he felt its weight,"
     },
     {
       "start": 878.64,
@@ -347,8 +342,7 @@
     {
       "start": 880.36,
       "end": 881.5,
-      "text": "He put it on his desk,",
-      "para_break": true
+      "text": "He put it on his desk,"
     },
     {
       "start": 881.56,
@@ -358,14 +352,12 @@
     {
       "start": 885.42,
       "end": 886.54,
-      "text": "The knot was hard and tight.",
-      "para_break": true
+      "text": "The knot was hard and tight."
     },
     {
       "start": 887.1,
       "end": 889.26,
-      "text": "He took out his pocket knife and cut the rope.",
-      "para_break": true
+      "text": "He took out his pocket-knife and cut the rope."
     },
     {
       "start": 890.2,
@@ -386,13 +378,12 @@
     {
       "start": 897.5,
       "end": 898.18,
-      "text": "As she stood there,",
-      "para_break": true
+      "text": "As she stood there—"
     },
     {
       "start": 898.22,
       "end": 899.86,
-      "text": "hands on a corner of the desk,"
+      "text": "hands on a corner of the desk—"
     },
     {
       "start": 900.224,
@@ -407,8 +398,7 @@
     {
       "start": 907.68,
       "end": 908.46,
-      "text": "Do you think it is?",
-      "para_break": true
+      "text": "\"Do you think it is?\""
     },
     {
       "start": 908.6,
@@ -418,7 +408,7 @@
     {
       "start": 910.56,
       "end": 911.12,
-      "text": "We'll soon know,",
+      "text": "\"We'll soon know,\"",
       "para_break": true
     },
     {
@@ -429,7 +419,7 @@
     {
       "start": 912.1,
       "end": 915.28,
-      "text": "his big fingers busy with the inner husk of coarse gray paper,"
+      "text": "his big fingers busy with the inner husk of coarse grey paper,"
     },
     {
       "start": 915.66,
@@ -444,31 +434,27 @@
     {
       "start": 919.94,
       "end": 921.36,
-      "text": "His face was hard and dull.",
-      "para_break": true
+      "text": "His face was hard and dull."
     },
     {
       "start": 921.98,
       "end": 923.02,
-      "text": "His eyes were shining.",
-      "para_break": true
+      "text": "His eyes were shining."
     },
     {
       "start": 924.16,
       "end": 926.06,
-      "text": "When he had put the gray paper out of the way,",
-      "para_break": true
+      "text": "When he had put the grey paper out of the way"
     },
     {
       "start": 926.16,
       "end": 929.4,
-      "text": "he had an egg-shaped mass of pale excelsior wadded tight."
+      "text": "he had an egg-shaped mass of pale excelsior, wadded tight."
     },
     {
       "start": 930.36,
       "end": 931.78,
-      "text": "His fingers tore the wad apart,",
-      "para_break": true
+      "text": "His fingers tore the wad apart"
     },
     {
       "start": 931.92,
@@ -478,54 +464,53 @@
     {
       "start": 935.16,
       "end": 938.02,
-      "text": "black as coal and shiny where its polish was not",
-      "para_break": true
+      "text": "black as coal and shiny where its polish was not"
     },
     {
       "start": 938.02,
       "end": 940.8,
-      "text": "dulled by wood dust and fragments of excelsior"
+      "text": "dulled by wood-dust and fragments of excelsior."
     },
     {
-      "start": 941.952,
-      "end": 945.06,
-      "text": "spade laughed he put a hand down on the bird his",
+      "start": 941.452,
+      "end": 945.352,
+      "text": "*Spade laughed. He put a hand down on the bird. His",
       "para_break": true
     },
     {
-      "start": 945.376,
-      "end": 948.04,
-      "text": "widespread fingers had ownership in their curving"
+      "start": 945.352,
+      "end": 945.812,
+      "text": "wide-spread fingers had ownership in their curving."
     },
     {
-      "start": 948.4,
-      "end": 950.92,
-      "text": "he put his other arm around effie perrine and"
+      "start": 948.452,
+      "end": 950.372,
+      "text": "He put his other arm around Effie Perine and"
     },
     {
-      "start": 950.92,
-      "end": 954.28,
-      "text": "crushed her body against his we've got the damn"
+      "start": 950.892,
+      "end": 954.032,
+      "text": "crushed her body against his. \"We've got the damned"
     },
     {
-      "start": 954.38,
-      "end": 958.78,
-      "text": "thing angel he said ouch she said you're hurting"
+      "start": 954.252,
+      "end": 955.352,
+      "text": "thing, angel,\" he said."
     },
     {
-      "start": 958.78,
-      "end": 962.42,
-      "text": "me he took his arm away from her picked the black"
+      "start": 956.152,
+      "end": 959.132,
+      "text": "\"Ouch!\" she said, \"you're hurting me.\""
     },
     {
-      "start": 962.58,
-      "end": 966.29,
-      "text": "bird up in both hands and shook it to dislodge clinging excelsior."
+      "start": 959.812,
+      "end": 966.452,
+      "text": "He took his arm away from her, picked the black bird up in both hands, and shook it to dislodge clinging excelsior."
     },
     {
       "start": 967.5,
       "end": 968.32,
-      "text": "Then he stepped back,",
+      "text": "Then he stepped back",
       "para_break": true
     },
     {
@@ -541,34 +526,34 @@
     {
       "start": 973.728,
       "end": 975.98,
-      "text": "Effie Perrine made a horrified face and screamed,",
+      "text": "Effie Perine made a horrified face and screamed,",
       "para_break": true
     },
     {
       "start": 976.18,
       "end": 977.22,
-      "text": "pointing it at his feet."
+      "text": "pointing at his feet."
     },
     {
       "start": 977.6,
       "end": 979.12,
-      "text": "He looked down at his feet."
+      "text": "He looked down at his feet.",
+      "para_break": true
     },
     {
       "start": 979.78,
       "end": 982.88,
-      "text": "His last backward step had brought his left heel into contact",
-      "para_break": true
+      "text": "His last backward step had brought his left heel into contact"
     },
     {
       "start": 983.3,
       "end": 984.24,
-      "text": "with a dead man's hand,"
+      "text": "with the dead man's hand,"
     },
     {
       "start": 984.44,
       "end": 986.58,
-      "text": "pinching a quarter inch of flesh at"
+      "text": "pinching a quarter-inch of flesh at"
     },
     {
       "start": 986.58,
@@ -588,49 +573,50 @@
     {
       "start": 991.4,
       "end": 993.18,
-      "text": "The telephone bell rang."
+      "text": "The telephone-bell rang.",
+      "para_break": true
     },
     {
       "start": 993.46,
       "end": 995.08,
-      "text": "He nodded at the girl."
+      "text": "He nodded at the girl.",
+      "para_break": true
     },
     {
       "start": 995.78,
       "end": 998.06,
-      "text": "She turned to the desk and put the receiver to her ear.",
-      "para_break": true
+      "text": "She turned to the desk and put the receiver to her ear."
     },
     {
       "start": 998.2,
       "end": 998.74,
-      "text": "She said,"
+      "text": "She said:"
     },
     {
       "start": 998.92,
       "end": 999.42,
-      "text": "Hello?"
+      "text": "\"Hello. . . ."
     },
     {
       "start": 999.7,
       "end": 1000.6,
-      "text": "Yes."
+      "text": "Yes. . . ."
     },
     {
       "start": 1000.96,
       "end": 1001.06,
-      "text": "Who?"
+      "text": "Who? . . ."
     },
     {
       "start": 1001.88,
       "end": 1002.62,
-      "text": "Oh,",
-      "para_break": true
+      "text": "Oh,"
     },
     {
       "start": 1002.62,
       "end": 1002.94,
-      "text": "yes."
+      "text": "yes!\""
     }
-  ]
+  ],
+  "corrected": "claude"
 }

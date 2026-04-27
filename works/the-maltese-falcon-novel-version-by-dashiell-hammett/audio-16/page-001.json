@@ -20,54 +20,54 @@
     {
       "start": 10.656,
       "end": 12.0,
-      "text": "SPADE WENT INTO THE HOTEL"
+      "text": "SPADE went into the Hotel Sutter"
     },
     {
       "start": 12.0,
       "end": 13.96,
-      "text": "SUTTER AND TELEPHONED THE ALEXANDRIA."
+      "text": "and telephoned the Alexandria."
     },
     {
       "start": 14.816,
       "end": 15.72,
-      "text": "GUTMAN WAS NOT IN.",
-      "para_break": true
+      "text": "Gutman was not in."
     },
     {
       "start": 16.64,
       "end": 17.54,
-      "text": "NO MEMBER OF GUTMAN'S"
+      "text": "No member of Gutman's"
     },
     {
       "start": 17.54,
       "end": 18.3,
-      "text": "PARTY WAS IN."
+      "text": "party was in."
     },
     {
       "start": 19.168,
       "end": 20.62,
-      "text": "SPADE TELEPHONED THE BELVEDERE."
+      "text": "Spade telephoned the Belvedere."
     },
     {
       "start": 21.312,
       "end": 22.56,
-      "text": "TYRO WAS NOT IN.",
-      "para_break": true
+      "text": "Cairo was not in,"
     },
     {
       "start": 22.68,
       "end": 24.4,
-      "text": "HAD NOT BEEN IN THAT DAY."
+      "text": "had not been in that day."
     },
     {
       "start": 25.376,
       "end": 26.9,
-      "text": "SPADE WENT TO HIS OFFICE."
+      "text": "Spade went to his office.",
+      "para_break": true
     },
     {
       "start": 27.37,
       "end": 28.44,
-      "text": "A swart,"
+      "text": "A swart",
+      "para_break": true
     },
     {
       "start": 28.58,
@@ -77,8 +77,7 @@
     {
       "start": 33.12,
       "end": 33.64,
-      "text": "Effie Perrine,",
-      "para_break": true
+      "text": "Effie Perine,"
     },
     {
       "start": 34.02,
@@ -88,12 +87,12 @@
     {
       "start": 35.24,
       "end": 35.52,
-      "text": "said,"
+      "text": "said:"
     },
     {
       "start": 35.72,
       "end": 38.04,
-      "text": "This gentleman wishes to see you,"
+      "text": "\"This gentleman wishes to see you,"
     },
     {
       "start": 38.12,
@@ -103,7 +102,7 @@
     {
       "start": 38.48,
       "end": 38.84,
-      "text": "Spade."
+      "text": "Spade.\""
     },
     {
       "start": 39.936,
@@ -114,50 +113,49 @@
     {
       "start": 42.98,
       "end": 43.26,
-      "text": "Come in.",
-      "para_break": true
+      "text": "\"Come in.\""
     },
     {
       "start": 44.44,
       "end": 45.6,
-      "text": "Before following the man in,",
-      "para_break": true
+      "text": "Before following the man in"
     },
     {
       "start": 45.82,
       "end": 46.96,
-      "text": "Spade asked Effie Perrine,"
+      "text": "Spade asked Effie Perine:"
     },
     {
       "start": 47.22,
       "end": 49.04,
-      "text": "Any news on that other matter?"
+      "text": "\"Any news on that other matter?\""
     },
     {
       "start": 49.4,
       "end": 50.18,
-      "text": "No,"
+      "text": "\"No,",
+      "para_break": true
     },
     {
       "start": 50.18,
       "end": 50.4,
-      "text": "sir."
+      "text": "sir.\""
     },
     {
       "start": 50.77,
       "end": 53.52,
-      "text": "The swart man was the proprietor"
+      "text": "The swart man was the proprietor",
+      "para_break": true
     },
     {
       "start": 53.62,
       "end": 55.6,
-      "text": "of a moving picture theater in Market Street."
+      "text": "of a moving-picture-theater in Market Street."
     },
     {
       "start": 56.42,
       "end": 58.6,
-      "text": "He suspected one of his cashiers and a doorman",
-      "para_break": true
+      "text": "He suspected one of his cashiers and a doorman"
     },
     {
       "start": 58.84,
@@ -167,18 +165,17 @@
     {
       "start": 61.408,
       "end": 62.88,
-      "text": "Spade hurried him through the story,",
-      "para_break": true
+      "text": "Spade hurried him through the story,"
     },
     {
       "start": 63.16,
       "end": 64.62,
-      "text": "promised to take care of it,"
+      "text": "promised to \"take care of it,\""
     },
     {
       "start": 65.152,
       "end": 66.8,
-      "text": "asked for and receive $50,"
+      "text": "asked for and received fifty dollars,"
     },
     {
       "start": 67.02,
@@ -188,12 +185,13 @@
     {
       "start": 70.0,
       "end": 72.94,
-      "text": "When the corridor door had closed behind the showman,"
+      "text": "When the corridor-door had closed behind the showman",
+      "para_break": true
     },
     {
       "start": 73.1,
       "end": 75.18,
-      "text": "Effie Perrine came into the inner office."
+      "text": "Effie Perine came into the inner office."
     },
     {
       "start": 75.64,
@@ -203,7 +201,7 @@
     {
       "start": 78.46,
       "end": 80.08,
-      "text": "You haven't found her yet?"
+      "text": "\"You haven't found her yet?\""
     },
     {
       "start": 80.28,
@@ -213,7 +211,8 @@
     {
       "start": 81.22,
       "end": 82.06,
-      "text": "He shook"
+      "text": "He shook",
+      "para_break": true
     },
     {
       "start": 82.16,
@@ -228,7 +227,7 @@
     {
       "start": 87.24,
       "end": 87.86,
-      "text": "How is it?",
+      "text": "\"How is it?\"",
       "para_break": true
     },
     {
@@ -239,13 +238,13 @@
     {
       "start": 89.54,
       "end": 89.9,
-      "text": "All right,",
+      "text": "\"All right,",
       "para_break": true
     },
     {
       "start": 90.02,
       "end": 91.82,
-      "text": "but I've got plenty of headache."
+      "text": "but I've got plenty of headache.\""
     },
     {
       "start": 92.9,
@@ -271,18 +270,17 @@
     {
       "start": 99.6,
       "end": 102.34,
-      "text": "back of his head over the chair top rested against her breast."
+      "text": "back of his head over the chair-top rested against her breast."
     },
     {
       "start": 103.14,
       "end": 103.48,
-      "text": "He said,",
-      "para_break": true
+      "text": "He said:"
     },
     {
       "start": 103.6,
       "end": 104.76,
-      "text": "you're an angel."
+      "text": "\"You're an angel.\""
     },
     {
       "start": 105.84,
@@ -293,8 +291,7 @@
     {
       "start": 109.86,
       "end": 110.86,
-      "text": "You've got to find her,",
-      "para_break": true
+      "text": "\"You've got to find her,"
     },
     {
       "start": 110.92,
@@ -304,18 +301,18 @@
     {
       "start": 112.18,
       "end": 113.64,
-      "text": "It's more than a day and she...",
-      "para_break": true
+      "text": "It's more than a day and she—\""
     },
     {
       "start": 113.64,
       "end": 116.46,
-      "text": "He stirred and impatiently interrupted her."
+      "text": "He stirred and impatiently interrupted her:",
+      "para_break": true
     },
     {
       "start": 116.73,
       "end": 118.18,
-      "text": "I haven't got to do"
+      "text": "\"I haven't got to do"
     },
     {
       "start": 118.28,
@@ -325,13 +322,12 @@
     {
       "start": 119.34,
       "end": 122.08,
-      "text": "but if you'll let me rest this damn head a minute or two,",
-      "para_break": true
+      "text": "but if you'll let me rest this damned head a minute or two"
     },
     {
       "start": 122.24,
       "end": 123.78,
-      "text": "I'll go out and find her."
+      "text": "I'll go out and find her.\""
     },
     {
       "start": 124.7,
@@ -342,48 +338,43 @@
     {
       "start": 125.98,
       "end": 126.58,
-      "text": "poor head,",
-      "para_break": true
+      "text": "\"Poor head,\""
     },
     {
       "start": 127.34,
       "end": 128.88,
-      "text": "and stroked it in silence a while.",
-      "para_break": true
+      "text": "and stroked it in silence awhile."
     },
     {
       "start": 129.66,
       "end": 130.36,
-      "text": "Then she asked,",
-      "para_break": true
+      "text": "Then she asked:"
     },
     {
       "start": 131.02,
       "end": 132.08,
-      "text": "you know where she is?",
-      "para_break": true
+      "text": "\"You know where she is?"
     },
     {
       "start": 132.7,
       "end": 133.6,
-      "text": "Have you any idea?",
-      "para_break": true
+      "text": "Have you any idea?\""
     },
     {
       "start": 133.94,
       "end": 135.76,
-      "text": "The telephone bell rang."
+      "text": "The telephone-bell rang.",
+      "para_break": true
     },
     {
       "start": 136.864,
       "end": 138.42,
-      "text": "Spade picked up the telephone and said,",
-      "para_break": true
+      "text": "Spade picked up the telephone and said:"
     },
     {
       "start": 138.56,
       "end": 138.82,
-      "text": "hello."
+      "text": "\"Hello. . . ."
     },
     {
       "start": 139.27,
@@ -393,23 +384,22 @@
     {
       "start": 140.02,
       "end": 140.28,
-      "text": "Sid."
+      "text": "Sid,"
     },
     {
       "start": 140.5,
       "end": 141.68,
-      "text": "It came out all right,"
+      "text": "it came out all right,"
     },
     {
       "start": 141.68,
       "end": 142.0,
-      "text": "thanks."
+      "text": "thanks. . . ."
     },
     {
       "start": 142.92,
       "end": 143.2,
-      "text": "No.",
-      "para_break": true
+      "text": "No. . . ."
     },
     {
       "start": 143.7,
@@ -419,25 +409,22 @@
     {
       "start": 144.85,
       "end": 146.1,
-      "text": "He got snotty,",
-      "para_break": true
+      "text": "He got snotty,"
     },
     {
       "start": 146.28,
       "end": 146.92,
-      "text": "but so did I."
+      "text": "but so did I. . . ."
     },
     {
       "start": 147.76,
       "end": 149.5,
-      "text": "He's nursing a gambler's warpipe dream.",
-      "para_break": true
+      "text": "He's nursing a gambler's-war pipe-dream. . . ."
     },
     {
       "start": 150.22,
       "end": 150.62,
-      "text": "Well,",
-      "para_break": true
+      "text": "Well,"
     },
     {
       "start": 151.08,
@@ -447,58 +434,53 @@
     {
       "start": 153.48,
       "end": 155.48,
-      "text": "I declared my weight and walked out on him.",
-      "para_break": true
+      "text": "I declared my weight and walked out on him. . . ."
     },
     {
       "start": 156.48,
       "end": 157.8,
-      "text": "That's something for you to worry about.",
-      "para_break": true
+      "text": "That's something for you to worry about. . . ."
     },
     {
       "start": 158.7,
       "end": 158.98,
-      "text": "Right.",
-      "para_break": true
+      "text": "Right."
     },
     {
       "start": 159.18,
       "end": 159.296,
-      "text": "Bye."
+      "text": "'Bye.\""
     },
     {
       "start": 160.86,
       "end": 163.3,
-      "text": "He put the telephone down and leaned back in his chair again.",
-      "para_break": true
+      "text": "He put the telephone down and leaned back in his chair again."
     },
     {
       "start": 164.32,
       "end": 166.78,
-      "text": "Effie Perrine came from behind him and stood at his side.",
+      "text": "Effie Perine came from behind him and stood at his side.",
       "para_break": true
     },
     {
       "start": 166.96,
       "end": 167.9,
-      "text": "She demanded."
+      "text": "She demanded:"
     },
     {
       "start": 168.5,
       "end": 170.72,
-      "text": "Do you think you know where she is,",
-      "para_break": true
+      "text": "\"Do you think you know where she is,"
     },
     {
       "start": 170.8,
       "end": 171.0,
-      "text": "Sam?"
+      "text": "Sam?\""
     },
     {
       "start": 171.63,
       "end": 173.18,
-      "text": "I know where she went,",
+      "text": "\"I know where she went,\"",
       "para_break": true
     },
     {
@@ -509,19 +491,18 @@
     {
       "start": 175.92,
       "end": 176.16,
-      "text": "Where?",
+      "text": "\"Where?\"",
       "para_break": true
     },
     {
       "start": 176.84,
       "end": 177.52,
-      "text": "She was excited.",
-      "para_break": true
+      "text": "She was excited."
     },
     {
       "start": 178.62,
       "end": 180.02,
-      "text": "Down to the boat you saw burning.",
+      "text": "\"Down to the boat you saw burning.\"",
       "para_break": true
     },
     {
@@ -533,8 +514,7 @@
     {
       "start": 184.68,
       "end": 185.44,
-      "text": "You went down there?",
-      "para_break": true
+      "text": "\"You went down there.\""
     },
     {
       "start": 185.82,
@@ -544,7 +524,7 @@
     {
       "start": 187.56,
       "end": 188.02,
-      "text": "I did not,",
+      "text": "\"I did not,\"",
       "para_break": true
     },
     {
@@ -555,23 +535,23 @@
     {
       "start": 189.6,
       "end": 190.24,
-      "text": "Sam,",
+      "text": "\"Sam,\"",
       "para_break": true
     },
     {
       "start": 190.76,
       "end": 191.77,
-      "text": "she cried angrily."
+      "text": "she cried angrily,"
     },
     {
       "start": 192.08,
       "end": 192.64,
-      "text": "She may be."
+      "text": "\"she may be—\""
     },
     {
       "start": 193.62,
       "end": 194.54,
-      "text": "She went down there,",
+      "text": "\"She went down there,\"",
       "para_break": true
     },
     {
@@ -582,14 +562,12 @@
     {
       "start": 196.54,
       "end": 197.36,
-      "text": "she wasn't taken.",
-      "para_break": true
+      "text": "\"She wasn't taken."
     },
     {
       "start": 198.28,
       "end": 199.94,
-      "text": "She went down there instead of to your",
-      "para_break": true
+      "text": "She went down there instead of to your"
     },
     {
       "start": 199.94,
@@ -599,8 +577,7 @@
     {
       "start": 202.7,
       "end": 202.82,
-      "text": "Well,",
-      "para_break": true
+      "text": "Well,"
     },
     {
       "start": 203.0,
@@ -610,47 +587,45 @@
     {
       "start": 204.84,
       "end": 206.52,
-      "text": "Am I supposed to run around after my",
-      "para_break": true
+      "text": "Am I supposed to run around after my"
     },
     {
       "start": 206.52,
       "end": 208.42,
-      "text": "clients begging them to let me help them?"
+      "text": "clients begging them to let me help them?\""
     },
     {
       "start": 209.18,
       "end": 209.58,
-      "text": "But Sam,",
+      "text": "\"But, Sam,",
       "para_break": true
     },
     {
       "start": 209.78,
       "end": 211.78,
-      "text": "when I told you the boat was on fire."
+      "text": "when I told you the boat was on fire!\""
     },
     {
       "start": 212.98,
       "end": 215.5,
-      "text": "That was at noon and I had a date with Paul House",
+      "text": "\"That was at noon and I had a date with Polhaus",
       "para_break": true
     },
     {
       "start": 215.7,
       "end": 216.7,
-      "text": "and another with Brian."
+      "text": "and another with Bryan.\""
     },
     {
       "start": 217.8,
       "end": 219.8,
-      "text": "She glared at him between Titan lids.",
+      "text": "She glared at him between tightened lids.",
       "para_break": true
     },
     {
       "start": 220.544,
       "end": 221.18,
-      "text": "Sam Spade,",
-      "para_break": true
+      "text": "\"Sam Spade,\""
     },
     {
       "start": 221.34,
@@ -660,7 +635,7 @@
     {
       "start": 222.0,
       "end": 222.72,
-      "text": "you're the most"
+      "text": "\"you're the most"
     },
     {
       "start": 223.14,
@@ -670,23 +645,22 @@
     {
       "start": 227.42,
       "end": 229.42,
-      "text": "Because she did something without confiding",
-      "para_break": true
+      "text": "Because she did something without confiding"
     },
     {
       "start": 229.42,
       "end": 229.76,
-      "text": "in you."
+      "text": "in you"
     },
     {
       "start": 229.84,
       "end": 233.46,
-      "text": "You'd sit here and do nothing when you know she's in danger,"
+      "text": "you'd sit here and do nothing when you know she's in danger,"
     },
     {
       "start": 233.6,
       "end": 235.0,
-      "text": "when you know she might be."
+      "text": "when you know she might be—\""
     },
     {
       "start": 235.936,
@@ -697,12 +671,12 @@
     {
       "start": 237.34,
       "end": 239.04,
-      "text": "He said stubbornly,"
+      "text": "He said stubbornly:"
     },
     {
       "start": 239.06,
       "end": 242.32,
-      "text": "she's pretty capable of taking care of herself and she"
+      "text": "\"She's pretty capable of taking care of herself and she"
     },
     {
       "start": 242.4,
@@ -712,34 +686,33 @@
     {
       "start": 244.22,
       "end": 246.4,
-      "text": "thinks she needs it and when it suits her."
+      "text": "thinks she needs it, and when it suits her.\""
     },
     {
       "start": 247.52,
       "end": 247.9,
-      "text": "That's spite,",
+      "text": "\"That's spite,\"",
       "para_break": true
     },
     {
       "start": 248.2,
       "end": 251.8,
-      "text": "the girl cried and that's all it is you're sore"
+      "text": "the girl cried, \"and that's all it is!"
     },
     {
       "start": 251.8,
       "end": 254.58,
-      "text": "because she did something on her own hook without"
+      "text": "You're sore because she did something on her own hook,"
     },
     {
       "start": 254.72,
       "end": 255.26,
-      "text": "telling you"
+      "text": "without telling you."
     },
     {
       "start": 256.12,
       "end": 259.28,
-      "text": "why shouldn't she you're not so damn honest",
-      "para_break": true
+      "text": "Why shouldn't she? You're not so damned honest,"
     },
     {
       "start": 259.68,
@@ -749,33 +722,40 @@
     {
       "start": 261.46,
       "end": 263.38,
-      "text": "with her that she should trust you"
+      "text": "with her, that she should trust you"
     },
     {
-      "start": 263.38,
-      "end": 267.14,
-      "text": "completely spade said that's enough of that"
+      "start": 263.36,
+      "end": 263.78,
+      "text": "completely.\""
     },
     {
-      "start": 268.28,
-      "end": 268.88,
-      "text": "his tone brought",
+      "start": 264.76,
+      "end": 267.1,
+      "text": "*Spade said: \"That's enough of that.\"",
+      "para_break": true
+    },
+    {
+      "start": 267.74,
+      "end": 268.86,
+      "text": "His tone brought",
       "para_break": true
     },
     {
       "start": 268.88,
       "end": 271.94,
-      "text": "a brief uneasy glint into her hot eyes but she"
+      "text": "a brief uneasy glint into her hot eyes, but she"
     },
     {
       "start": 271.94,
       "end": 274.94,
-      "text": "tossed her head and the glint vanished her mouth"
+      "text": "tossed her head and the glint vanished. Her mouth"
     },
     {
       "start": 275.08,
       "end": 276.2,
       "text": "was drawn taut and small."
     }
-  ]
+  ],
+  "corrected": "claude"
 }
