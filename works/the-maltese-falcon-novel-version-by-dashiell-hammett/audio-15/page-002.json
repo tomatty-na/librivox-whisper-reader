@@ -15,17 +15,18 @@
     {
       "start": 246.04,
       "end": 248.52,
-      "text": "You mean that you tried to pull on me,"
+      "text": "You mean that you tried to pull on me,",
+      "para_break": true
     },
     {
       "start": 248.6,
       "end": 248.84,
-      "text": "Tom?"
+      "text": "Tom—"
     },
     {
       "start": 249.02,
       "end": 249.78,
-      "text": "Just tried."
+      "text": "just tried."
     },
     {
       "start": 250.88,
@@ -41,7 +42,7 @@
     {
       "start": 254.944,
       "end": 255.4,
-      "text": "Spade said,",
+      "text": "Spade said:",
       "para_break": true
     },
     {
@@ -52,8 +53,7 @@
     {
       "start": 257.2,
       "end": 258.02,
-      "text": "You know it's out,",
-      "para_break": true
+      "text": "You know it's out,"
     },
     {
       "start": 258.08,
@@ -63,7 +63,7 @@
     {
       "start": 259.58,
       "end": 260.52,
-      "text": "What does Dundee know?"
+      "text": "What does Dundy know?"
     },
     {
       "start": 261.48,
@@ -91,29 +91,27 @@
     {
       "start": 265.9,
       "end": 267.54,
-      "text": "he never really thought you'd..."
+      "text": "he never really thought you'd—"
     },
     {
-      "start": 268.384,
-      "end": 268.86,
-      "text": "Spade smiled,",
-      "para_break": true
+      "start": 267.884,
+      "end": 268.624,
+      "text": "Spade's smile checked"
     },
     {
-      "start": 269.08,
-      "end": 269.8,
-      "text": "checked Polhaus."
+      "start": 268.624,
+      "end": 268.844,
+      "text": "Polhaus."
     },
     {
       "start": 270.42,
       "end": 272.66,
-      "text": "He left the sentence incomplete and said,"
+      "text": "He left the sentence incomplete and said:"
     },
     {
       "start": 273.42,
       "end": 274.8,
-      "text": "We dug up a record on Thursday.",
-      "para_break": true
+      "text": "We dug up a record on Thursby."
     },
     {
       "start": 275.72,
@@ -129,13 +127,13 @@
     {
       "start": 278.368,
       "end": 281.16,
-      "text": "Polehouse's shrewd small brown eyes studied Spade's face.",
+      "text": "Polhaus's shrewd small brown eyes studied Spade's face.",
       "para_break": true
     },
     {
       "start": 281.856,
       "end": 283.48,
-      "text": "Spade exclaimed irritably,",
+      "text": "Spade exclaimed irritably:",
       "para_break": true
     },
     {
@@ -157,7 +155,7 @@
     {
       "start": 290.78,
       "end": 291.6,
-      "text": "Polehouse grumbled."
+      "text": "Polhaus grumbled."
     },
     {
       "start": 291.89,
@@ -207,13 +205,12 @@
     {
       "start": 309.14,
       "end": 310.4,
-      "text": "a row of stuff games."
+      "text": "a row of stuss-games—"
     },
     {
       "start": 311.22,
       "end": 312.4,
-      "text": "His twist turned him up,",
-      "para_break": true
+      "text": "his twist turned him up—"
     },
     {
       "start": 313.02,
@@ -223,8 +220,7 @@
     {
       "start": 316.66,
       "end": 317.72,
-      "text": "A couple of years later,",
-      "para_break": true
+      "text": "A couple of years later,"
     },
     {
       "start": 317.72,
@@ -239,7 +235,7 @@
     {
       "start": 322.96,
       "end": 326.7,
-      "text": "but after that he took up with Dixie Monaghan and didn't have"
+      "text": "but after that he took up with Dixie Monahan and didn't have"
     },
     {
       "start": 326.8,
@@ -249,8 +245,7 @@
     {
       "start": 330.5,
       "end": 332.4,
-      "text": "That was when Dixie was almost as big a",
-      "para_break": true
+      "text": "That was when Dixie was almost as big a"
     },
     {
       "start": 332.58,
@@ -260,8 +255,7 @@
     {
       "start": 335.96,
       "end": 337.72,
-      "text": "This Thursby was Dixie's bodyguard,",
-      "para_break": true
+      "text": "This Thursby was Dixie's bodyguard,"
     },
     {
       "start": 337.88,
@@ -271,7 +265,7 @@
     {
       "start": 338.76,
       "end": 341.34,
-      "text": "run out with him when Dixie got in wrong with the"
+      "text": "run-out with him when Dixie got in wrong with the"
     },
     {
       "start": 341.34,
@@ -286,8 +280,7 @@
     {
       "start": 345.48,
       "end": 346.8,
-      "text": "That was a couple of years back,",
-      "para_break": true
+      "text": "That was a couple of years back,"
     },
     {
       "start": 347.11,
@@ -302,8 +295,7 @@
     {
       "start": 351.26,
       "end": 353.28,
-      "text": "I don't know if Dixie had any part in that.",
-      "para_break": true
+      "text": "I don't know if Dixie had any part in that."
     },
     {
       "start": 353.7,
@@ -334,7 +326,7 @@
     {
       "start": 362.112,
       "end": 362.96,
-      "text": "Polehouse shook his head.",
+      "text": "Polhaus shook his head.",
       "para_break": true
     },
     {
@@ -360,8 +352,7 @@
     {
       "start": 367.24,
       "end": 369.84,
-      "text": "Not unless you've seen him or know somebody's seen him.",
-      "para_break": true
+      "text": "Not unless you've seen him or know somebody's seen him."
     },
     {
       "start": 370.752,
@@ -372,8 +363,7 @@
     {
       "start": 374.592,
       "end": 375.26,
-      "text": "I haven't,",
-      "para_break": true
+      "text": "I haven't,"
     },
     {
       "start": 375.26,
@@ -394,19 +384,18 @@
     {
       "start": 380.12,
       "end": 380.98,
-      "text": "Polehouse snorted."
+      "text": "Polhaus snorted."
     },
     {
       "start": 381.76,
       "end": 383.1,
-      "text": "Spade grinned at him and asked,",
+      "text": "Spade grinned at him and asked:",
       "para_break": true
     },
     {
       "start": 383.968,
       "end": 385.9,
-      "text": "Where'd you pick up all this news about Thursby?",
-      "para_break": true
+      "text": "Where'd you pick up all this news about Thursby?"
     },
     {
       "start": 387.02,
@@ -417,12 +406,12 @@
     {
       "start": 388.32,
       "end": 388.84,
-      "text": "The rest,"
+      "text": "The rest—"
     },
     {
       "start": 389.06,
       "end": 389.46,
-      "text": "well,"
+      "text": "well—"
     },
     {
       "start": 389.76,
@@ -443,20 +432,18 @@
     {
       "start": 394.72,
       "end": 396.78,
-      "text": "Now Spade's eyes held the prying gleam.",
-      "para_break": true
+      "text": "Now Spade's eyes held the prying gleam."
     },
     {
       "start": 397.856,
       "end": 400.24,
-      "text": "Polehouse put down his coffee cup and shook his head.",
+      "text": "Polhaus put down his coffee-cup and shook his head.",
       "para_break": true
     },
     {
       "start": 400.96,
       "end": 401.82,
-      "text": "Not a word of it.",
-      "para_break": true
+      "text": "Not a word of it."
     },
     {
       "start": 401.98,
@@ -472,24 +459,23 @@
     {
       "start": 406.26,
       "end": 409.0,
-      "text": "You mean a couple of high-class sleuths like you and Dundee",
-      "para_break": true
+      "text": "You mean a couple of high-class sleuths like you and Dundy"
     },
     {
       "start": 409.14,
       "end": 412.4,
-      "text": "worked on that lily of the valley all night and couldn't crack him?"
+      "text": "worked on that lily-of-the-valley all night and couldn't crack him?"
     },
     {
       "start": 413.34,
       "end": 414.38,
-      "text": "What do you mean all night?",
+      "text": "What do you mean—all night?",
       "para_break": true
     },
     {
       "start": 414.944,
       "end": 415.96,
-      "text": "Polehouse protested."
+      "text": "Polhaus protested."
     },
     {
       "start": 416.24,
@@ -499,8 +485,7 @@
     {
       "start": 419.46,
       "end": 421.8,
-      "text": "We saw he wasn't getting nowhere and let him go.",
-      "para_break": true
+      "text": "We saw we wasn't getting nowhere, and let him go."
     },
     {
       "start": 422.88,
@@ -511,19 +496,17 @@
     {
       "start": 425.34,
       "end": 427.38,
-      "text": "He caught John's eye and asked for the check.",
-      "para_break": true
+      "text": "He caught John's eye and asked for the check."
     },
     {
       "start": 428.42,
       "end": 430.11,
-      "text": "I've got a date with the DA this afternoon,",
-      "para_break": true
+      "text": "I've got a date with the D. A. this afternoon,"
     },
     {
       "start": 430.3,
       "end": 431.2,
-      "text": "he told Polehouse"
+      "text": "he told Polhaus"
     },
     {
       "start": 431.68,
@@ -539,12 +522,13 @@
     {
       "start": 435.1,
       "end": 435.78,
-      "text": "Yes."
+      "text": "Yes.",
+      "para_break": true
     },
     {
       "start": 436.8,
       "end": 439.2,
-      "text": "Polehouse pushed his chair back and stood up,",
+      "text": "Polhaus pushed his chair back and stood up,",
       "para_break": true
     },
     {
@@ -575,7 +559,7 @@
     {
       "start": 448.3,
       "end": 450.66,
-      "text": "A lazy youth with salient ears ushered",
+      "text": "A lathy youth with salient ears ushered",
       "para_break": true
     },
     {
@@ -586,13 +570,12 @@
     {
       "start": 453.536,
       "end": 454.98,
-      "text": "Spade went in smiling easily,",
-      "para_break": true
+      "text": "Spade went in smiling easily,"
     },
     {
       "start": 455.14,
       "end": 456.08,
-      "text": "saying easily,"
+      "text": "saying easily:"
     },
     {
       "start": 456.66,
@@ -602,12 +585,12 @@
     {
       "start": 456.94,
       "end": 457.22,
-      "text": "Brian."
+      "text": "Bryan!"
     },
     {
       "start": 458.24,
       "end": 460.1,
-      "text": "District attorney Brian stood up and",
+      "text": "District Attorney Bryan stood up and",
       "para_break": true
     },
     {
@@ -618,29 +601,27 @@
     {
       "start": 463.0,
       "end": 464.88,
-      "text": "He was a blonde man of medium stature,",
-      "para_break": true
+      "text": "He was a blond man of medium stature,"
     },
     {
       "start": 465.04,
       "end": 466.84,
-      "text": "perhaps 45 years old,"
+      "text": "perhaps forty-five years old,"
     },
     {
       "start": 467.22,
       "end": 470.04,
-      "text": "with aggressive blue eyes behind black ribbon nose glasses."
+      "text": "with aggressive blue eyes behind black-ribboned nose-glasses,"
     },
     {
       "start": 470.67,
       "end": 474.52,
-      "text": "the over-large mouth of an orator and a wide dimpled chin."
+      "text": "the over-large mouth of an orator, and a wide dimpled chin."
     },
     {
       "start": 475.78,
       "end": 476.3,
-      "text": "When he said,",
-      "para_break": true
+      "text": "When he said,"
     },
     {
       "start": 476.66,
@@ -666,7 +647,7 @@
     {
       "start": 483.62,
       "end": 486.02,
-      "text": "The district attorney put his finger on one of the",
+      "text": "The District Attorney put his finger on one of the",
       "para_break": true
     },
     {
@@ -677,7 +658,7 @@
     {
       "start": 489.02,
       "end": 491.64,
-      "text": "said to the lady youth who opened the door again,"
+      "text": "said to the lathy youth who opened the door again,"
     },
     {
       "start": 491.86,
@@ -704,5 +685,6 @@
       "end": 498.8,
       "text": "addressed Spade pleasantly."
     }
-  ]
+  ],
+  "corrected": "claude"
 }
