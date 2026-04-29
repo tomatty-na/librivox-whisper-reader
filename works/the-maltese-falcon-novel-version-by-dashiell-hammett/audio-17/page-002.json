@@ -75,12 +75,13 @@
     {
       "start": 252.34,
       "end": 252.64,
-      "text": "two."
+      "text": "two . . .\""
     },
     {
       "start": 253.02,
       "end": 254.62,
-      "text": "Her lids lifted again,"
+      "text": "Her lids lifted again",
+      "para_break": true
     },
     {
       "start": 254.74,
@@ -100,7 +101,7 @@
     {
       "start": 259.34,
       "end": 260.42,
-      "text": "That's fine,"
+      "text": "\"That's fine,\""
     },
     {
       "start": 260.6,
@@ -115,8 +116,7 @@
     {
       "start": 264.06,
       "end": 264.68,
-      "text": "Keep them open.",
-      "para_break": true
+      "text": "\"Keep them open."
     },
     {
       "start": 264.8,
@@ -126,12 +126,12 @@
     {
       "start": 265.8,
       "end": 266.04,
-      "text": "wide."
+      "text": "wide—"
     },
     {
       "start": 266.32,
       "end": 266.94,
-      "text": "Wide?"
+      "text": "wide!\""
     },
     {
       "start": 267.62,
@@ -141,7 +141,8 @@
     {
       "start": 268.7,
       "end": 270.36,
-      "text": "She moaned in protest,"
+      "text": "She moaned in protest,",
+      "para_break": true
     },
     {
       "start": 270.58,
@@ -171,14 +172,12 @@
     {
       "start": 279.08,
       "end": 281.24,
-      "text": "She moaned again and tried to break away from him.",
-      "para_break": true
+      "text": "She moaned again and tried to break away from him."
     },
     {
       "start": 282.1,
       "end": 283.68,
-      "text": "His arm held her and swept her",
-      "para_break": true
+      "text": "His arm held her and swept her"
     },
     {
       "start": 283.78,
@@ -188,7 +187,7 @@
     {
       "start": 286.36,
       "end": 286.86,
-      "text": "Keep walking,",
+      "text": "\"Keep walking,\"",
       "para_break": true
     },
     {
@@ -199,23 +198,23 @@
     {
       "start": 288.68,
       "end": 289.28,
-      "text": "and then,"
+      "text": "and then: \""
     },
     {
       "start": 289.4,
       "end": 290.56,
-      "text": "who are you?"
+      "text": "Who are you?\""
     },
     {
       "start": 290.78,
       "end": 290.88,
-      "text": "Her,"
+      "text": "Her",
+      "para_break": true
     },
     {
       "start": 291.94,
       "end": 293.16,
-      "text": "Rhea Gutman,",
-      "para_break": true
+      "text": "\"Rhea Gutman\""
     },
     {
       "start": 293.32,
@@ -225,24 +224,24 @@
     {
       "start": 295.58,
       "end": 296.1,
-      "text": "The daughter?",
+      "text": "\"The daughter?\"",
       "para_break": true
     },
     {
       "start": 296.62,
       "end": 297.04,
-      "text": "Yes."
+      "text": "\"Yes.\"",
+      "para_break": true
     },
     {
       "start": 298.08,
       "end": 300.88,
-      "text": "Now she was no farther from the final consonant than shh.",
-      "para_break": true
+      "text": "Now she was no farther from the final consonant than _sh_."
     },
     {
       "start": 301.888,
       "end": 302.62,
-      "text": "Where's Bridget?",
+      "text": "\"Where's Brigid?\"",
       "para_break": true
     },
     {
@@ -264,7 +263,7 @@
     {
       "start": 311.04,
       "end": 312.9,
-      "text": "Across its back was a thin red scratch,"
+      "text": "Across its back was a thin red scratch"
     },
     {
       "start": 313.14,
@@ -274,25 +273,23 @@
     {
       "start": 315.6,
       "end": 316.16,
-      "text": "What the hell?",
+      "text": "\"What the hell?\"",
       "para_break": true
     },
     {
       "start": 316.7,
       "end": 318.32,
-      "text": "He growled and examined her hands."
+      "text": "he growled and examined her hands."
     },
     {
       "start": 319.04,
       "end": 320.06,
-      "text": "Her left hand was empty.",
-      "para_break": true
+      "text": "Her left hand was empty."
     },
     {
       "start": 320.94,
       "end": 321.72,
-      "text": "In her right hand,",
-      "para_break": true
+      "text": "In her right hand,"
     },
     {
       "start": 321.76,
@@ -302,13 +299,12 @@
     {
       "start": 322.8,
       "end": 325.38,
-      "text": "lay a three-inch jade-headed steel bouquet pin."
+      "text": "lay a three-inch jade-headed steel bouquet-pin."
     },
     {
       "start": 326.18,
       "end": 326.82,
-      "text": "What the hell?",
-      "para_break": true
+      "text": "\"What the hell?\""
     },
     {
       "start": 326.96,
@@ -318,19 +314,18 @@
     {
       "start": 331.38,
       "end": 332.2,
-      "text": "When she saw the pin,",
+      "text": "When she saw the pin",
       "para_break": true
     },
     {
       "start": 332.28,
       "end": 334.04,
-      "text": "she whimpered and opened her dressing gown."
+      "text": "she whimpered and opened her dressing-gown."
     },
     {
       "start": 334.76,
       "end": 337.04,
-      "text": "She pushed aside the cream-colored pajama coat",
-      "para_break": true
+      "text": "She pushed aside the cream-colored pajama-coat"
     },
     {
       "start": 337.04,
@@ -340,17 +335,17 @@
     {
       "start": 339.38,
       "end": 339.72,
-      "text": "breast,"
+      "text": "breast—"
     },
     {
       "start": 339.82,
       "end": 342.72,
-      "text": "white flesh crisscrossed with thin red lines"
+      "text": "white flesh criss-crossed with thin red lines,"
     },
     {
       "start": 342.72,
       "end": 345.12,
-      "text": "dotted with tiny red dots where the pin"
+      "text": "dotted with tiny red dots, where the pin"
     },
     {
       "start": 345.3,
@@ -360,50 +355,48 @@
     {
       "start": 346.76,
       "end": 347.92,
-      "text": "To stay awake."
+      "text": "\"To stay awake . . ."
     },
     {
       "start": 348.12,
       "end": 348.22,
-      "text": "Walk."
+      "text": "walk . . ."
     },
     {
       "start": 349.38,
       "end": 349.96,
-      "text": "Till you came.",
-      "para_break": true
+      "text": "till you came. . . ."
     },
     {
       "start": 350.36,
       "end": 351.98,
-      "text": "She said you'd come."
+      "text": "She said you'd come . . ."
     },
     {
       "start": 352.42,
       "end": 352.84,
-      "text": "We're"
+      "text": "were"
     },
     {
       "start": 352.9,
       "end": 353.5,
-      "text": "so long."
+      "text": "so long.\""
     },
     {
       "start": 354.6,
       "end": 355.36,
-      "text": "She swayed.",
-      "para_break": true
+      "text": "She swayed."
     },
     {
       "start": 356.256,
       "end": 358.34,
-      "text": "Spade tightened his arm around her and said,",
+      "text": "Spade tightened his arm around her and said: \"",
       "para_break": true
     },
     {
       "start": 358.48,
       "end": 358.82,
-      "text": "walk."
+      "text": "Walk.\""
     },
     {
       "start": 359.98,
@@ -424,73 +417,71 @@
     {
       "start": 363.12,
       "end": 363.8,
-      "text": "No."
+      "text": "\"No . . ."
     },
     {
       "start": 364.6,
       "end": 365.06,
-      "text": "Till you."
+      "text": "tell you . . ."
     },
     {
       "start": 365.28,
       "end": 366.22,
-      "text": "Sleep."
+      "text": "sleep . . ."
     },
     {
       "start": 367.168,
       "end": 367.68,
-      "text": "Save her.",
-      "para_break": true
+      "text": "save her . . .\""
     },
     {
       "start": 368.1,
       "end": 368.2,
-      "text": "Bridget?"
+      "text": "\"Brigid?\"",
+      "para_break": true
     },
     {
       "start": 369.66,
       "end": 369.96,
-      "text": "He demanded.",
-      "para_break": true
+      "text": "he demanded."
     },
     {
       "start": 370.3,
       "end": 378.12,
-      "text": "yes took her burr burlingame 26 ancho"
+      "text": "\"Yes . . . took her . . . Bur-Burlingame . . . twenty-six Ancho . . .",
+      "para_break": true
     },
     {
       "start": 379.36,
       "end": 383.66,
-      "text": "hurry too late her head fell over on her shoulder",
-      "para_break": true
+      "text": "hurry . . . too late . . .\" Her head fell over on her shoulder."
     },
     {
       "start": 384.384,
       "end": 385.64,
-      "text": "spade pushed her head up ruffling",
+      "text": "Spade pushed her head up roughly. \"",
       "para_break": true
     },
     {
       "start": 386.4,
       "end": 387.32,
-      "text": "who took her there",
+      "text": "Who took her there?"
+    },
+    {
+      "start": 387.5,
+      "end": 393.18,
+      "text": "Your father?\" \"Yes . . . Wilmer . . . Cairo.\" She"
+    },
+    {
+      "start": 393.18,
+      "end": 396.66,
+      "text": "writhed and her eyelids twitched but did not open. \". . . kill her.\"",
       "para_break": true
-    },
-    {
-      "start": 388.0,
-      "end": 392.672,
-      "text": "your father yes wilmer cairo she"
-    },
-    {
-      "start": 393.32,
-      "end": 396.84,
-      "text": "writhed and her eyelids twitched but did not open kill her"
     },
     {
       "start": 398.0,
       "end": 399.78,
-      "text": "her head fell over again and again he",
-      "para_break": true
+      "text": "Her head fell over again, and again he"
     },
     {
       "start": 399.9,
@@ -500,7 +491,7 @@
     {
       "start": 401.2,
       "end": 402.18,
-      "text": "Who shot Jacoby?",
+      "text": "\"Who shot Jacobi?\"",
       "para_break": true
     },
     {
@@ -517,23 +508,22 @@
     {
       "start": 406.78,
       "end": 408.18,
-      "text": "her head up to open her eyes."
+      "text": "her head up, to open her eyes."
     },
     {
       "start": 408.8,
       "end": 409.26,
-      "text": "She mumbled,"
+      "text": "She mumbled: \""
     },
     {
       "start": 409.5,
       "end": 409.6,
-      "text": "go,"
+      "text": "Go . . ."
     },
     {
       "start": 410.6,
       "end": 410.784,
-      "text": "she.",
-      "para_break": true
+      "text": "she . . .\""
     },
     {
       "start": 411.76,
@@ -544,12 +534,12 @@
     {
       "start": 414.04,
       "end": 415.4,
-      "text": "Stay awake till the"
+      "text": "\"Stay awake till the"
     },
     {
       "start": 415.46,
       "end": 416.18,
-      "text": "doctor comes."
+      "text": "doctor comes.\""
     },
     {
       "start": 417.34,
@@ -565,59 +555,54 @@
     {
       "start": 421.92,
       "end": 424.58,
-      "text": "no no she cried thickly father",
-      "para_break": true
+      "text": "\"No, no,\" she cried thickly, \"father . . ."
     },
     {
       "start": 425.44,
       "end": 427.76,
-      "text": "kill me swear you won't",
-      "para_break": true
+      "text": "kill me . . . swear you won't . . ."
     },
     {
       "start": 428.352,
       "end": 428.8,
-      "text": "he'd know"
+      "text": "he'd know . . ."
     },
     {
       "start": 429.76,
       "end": 430.3,
-      "text": "i did",
-      "para_break": true
+      "text": "I did . . ."
     },
     {
       "start": 431.44,
       "end": 434.46,
-      "text": "for her promise won't",
-      "para_break": true
+      "text": "for her . . . promise . . . won't. . ."
     },
     {
       "start": 435.26,
       "end": 440.08,
-      "text": "sleep all right morning he shook her again",
-      "para_break": true
+      "text": "sleep . . . all right . . . morning . . .\" He shook her again."
     },
     {
       "start": 441.26,
       "end": 443.24,
-      "text": "you're sure you can sleep the stuff off all right",
+      "text": "\"You're sure you can sleep the stuff off all right?\"",
       "para_break": true
     },
     {
       "start": 443.46,
       "end": 443.56,
-      "text": "Yeah."
+      "text": "\"Ye'.\"",
+      "para_break": true
     },
     {
       "start": 444.77,
       "end": 446.42,
-      "text": "Her head fell down again.",
-      "para_break": true
+      "text": "Her head fell down again."
     },
     {
       "start": 447.648,
       "end": 448.22,
-      "text": "Where's your bed?",
+      "text": "\"Where's your bed?\"",
       "para_break": true
     },
     {
@@ -639,8 +624,7 @@
     {
       "start": 455.92,
       "end": 457.4,
-      "text": "With the sigh of a tired child,",
-      "para_break": true
+      "text": "With the sigh of a tired child"
     },
     {
       "start": 457.52,
@@ -650,13 +634,13 @@
     {
       "start": 460.64,
       "end": 461.94,
-      "text": "Spade caught her up in his arms,",
+      "text": "Spade caught her up in his arms—",
       "para_break": true
     },
     {
       "start": 462.1,
       "end": 464.0,
-      "text": "scooped her up as she sank,"
+      "text": "scooped her up as she sank—"
     },
     {
       "start": 464.34,
@@ -676,45 +660,42 @@
     {
       "start": 469.38,
       "end": 471.38,
-      "text": "He turned the knob far enough to release the catch,",
-      "para_break": true
+      "text": "He turned the knob far enough to release the catch,"
     },
     {
       "start": 471.62,
       "end": 474.56,
-      "text": "pushed the door open with his foot and went into"
+      "text": "pushed the door open with his foot, and went into"
     },
     {
       "start": 474.56,
       "end": 477.04,
-      "text": "a passageway that ran past an open bathroom door"
+      "text": "a passageway that ran past an open bathroom-door"
     },
     {
       "start": 477.04,
       "end": 478.12,
-      "text": "to a bedroom he"
+      "text": "to a bedroom. He"
     },
     {
       "start": 478.944,
       "end": 481.2,
-      "text": "looked into the bathroom saw it was empty",
-      "para_break": true
+      "text": "looked into the bathroom, saw it was empty,"
     },
     {
       "start": 481.2,
       "end": 483.16,
-      "text": "and carried the girl into the bedroom"
+      "text": "and carried the girl into the bedroom."
     },
     {
       "start": 483.59,
       "end": 484.84,
-      "text": "nobody was there"
+      "text": "Nobody was there."
     },
     {
       "start": 485.8,
       "end": 487.48,
-      "text": "the clothing that was in sight and things",
-      "para_break": true
+      "text": "The clothing that was in sight and things"
     },
     {
       "start": 487.48,
@@ -722,30 +703,31 @@
       "text": "on the chiffonier said it was a man's"
     },
     {
-      "start": 489.42,
+      "start": 489.38,
       "end": 492.12,
-      "text": "room spade carried the girl back to the green"
+      "text": "room. Spade carried the girl back to the green"
     },
     {
       "start": 492.12,
-      "end": 494.04,
-      "text": "carpeted room and tried the opposite door"
+      "end": 493.98,
+      "text": "carpeted room and tried the opposite door.",
+      "para_break": true
     },
     {
       "start": 494.76,
       "end": 496.83,
-      "text": "through it he passed into another passageway",
-      "para_break": true
+      "text": "Through it he passed into another passageway,"
     },
     {
       "start": 497.26,
       "end": 499.48,
-      "text": "past another empty bathroom and into a bedroom"
+      "text": "past another empty bathroom, and into a bedroom"
     },
     {
       "start": 499.74,
       "end": 501.8,
       "text": "that was feminine in its accessories."
     }
-  ]
+  ],
+  "corrected": "claude"
 }

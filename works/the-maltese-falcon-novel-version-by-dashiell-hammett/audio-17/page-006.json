@@ -35,27 +35,28 @@
     {
       "start": 1229.38,
       "end": 1230.94,
-      "text": "took her back towards the living room."
+      "text": "took her back towards the living-room."
     },
     {
       "start": 1231.6,
       "end": 1233.98,
-      "text": "When they were within a step of the living room door,"
+      "text": "When they were within a step of the living-room-door"
     },
     {
       "start": 1234.12,
       "end": 1235.64,
-      "text": "the light in the living room went on."
+      "text": "the light in the living-room went on."
     },
     {
       "start": 1236.14,
       "end": 1238.28,
-      "text": "The girl cried out and clung to Spade."
+      "text": "The girl cried out and clung to Spade.",
+      "para_break": true
     },
     {
       "start": 1239.24,
       "end": 1240.64,
-      "text": "Just inside the living room door,",
+      "text": "Just inside the living-room-door",
       "para_break": true
     },
     {
@@ -76,8 +77,7 @@
     {
       "start": 1247.42,
       "end": 1248.2,
-      "text": "Black pistols were",
-      "para_break": true
+      "text": "Black pistols were"
     },
     {
       "start": 1248.28,
@@ -87,8 +87,7 @@
     {
       "start": 1250.656,
       "end": 1251.84,
-      "text": "Tyro came from the bathroom.",
-      "para_break": true
+      "text": "Cairo came from the bathroom."
     },
     {
       "start": 1252.5,
@@ -98,23 +97,24 @@
     {
       "start": 1253.76,
       "end": 1254.72,
-      "text": "Gutman said,"
+      "text": "Gutman said: \"",
+      "para_break": true
     },
     {
       "start": 1255.46,
       "end": 1257.88,
-      "text": "well sir we're all here as you can see for",
-      "para_break": true
+      "text": "Well, sir, we're all here, as you can see for"
     },
     {
       "start": 1257.88,
       "end": 1261.18,
-      "text": "yourself now let's come in and sit down and"
+      "text": "yourself. Now let's come in and sit down and"
     },
     {
       "start": 1261.18,
       "end": 1264.34,
-      "text": "be comfortable and talk end of chapter 17"
+      "text": "be comfortable and talk.\""
     }
-  ]
+  ],
+  "corrected": "claude"
 }
