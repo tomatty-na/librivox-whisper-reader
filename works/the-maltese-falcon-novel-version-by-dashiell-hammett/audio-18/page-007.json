@@ -15,8 +15,7 @@
     {
       "start": 1480.42,
       "end": 1482.44,
-      "text": "His eyes twinkled between puckered lids.",
-      "para_break": true
+      "text": "His eyes twinkled between puckered lids."
     },
     {
       "start": 1482.6,
@@ -26,8 +25,7 @@
     {
       "start": 1483.7,
       "end": 1485.36,
-      "text": "he gave his genial answer.",
-      "para_break": true
+      "text": "he gave his genial answer."
     },
     {
       "start": 1486.02,
@@ -53,7 +51,8 @@
     {
       "start": 1490.92,
       "end": 1491.68,
-      "text": "Sure,"
+      "text": "Sure,",
+      "para_break": true
     },
     {
       "start": 1491.96,
@@ -73,14 +72,12 @@
     {
       "start": 1497.9,
       "end": 1498.52,
-      "text": "See what I mean?",
-      "para_break": true
+      "text": "See what I mean?"
     },
     {
       "start": 1499.26,
       "end": 1500.94,
-      "text": "If you try anything I don't like,",
-      "para_break": true
+      "text": "If you try anything I don't like,"
     },
     {
       "start": 1501.26,
@@ -90,8 +87,7 @@
     {
       "start": 1503.02,
       "end": 1505.98,
-      "text": "I'll make it a matter of you having to call it off or kill me,",
-      "para_break": true
+      "text": "I'll make it a matter of your having to call it off or kill me,"
     },
     {
       "start": 1506.5,
@@ -112,8 +108,7 @@
     {
       "start": 1511.16,
       "end": 1511.94,
-      "text": "That is an attitude,",
-      "para_break": true
+      "text": "That is an attitude,"
     },
     {
       "start": 1512.12,
@@ -179,8 +174,7 @@
     {
       "start": 1527.264,
       "end": 1528.56,
-      "text": "That's the trick from my side,",
-      "para_break": true
+      "text": "That's the trick, from my side,"
     },
     {
       "start": 1528.62,
@@ -216,7 +210,7 @@
     {
       "start": 1538.36,
       "end": 1539.04,
-      "text": "Bagad,"
+      "text": "By Gad,"
     },
     {
       "start": 1539.04,
@@ -226,8 +220,7 @@
     {
       "start": 1539.96,
       "end": 1540.9,
-      "text": "you are a character.",
-      "para_break": true
+      "text": "you are a character."
     },
     {
       "start": 1542.08,
@@ -248,8 +241,7 @@
     {
       "start": 1547.36,
       "end": 1548.78,
-      "text": "He bent over the back of",
-      "para_break": true
+      "text": "He bent over the back of"
     },
     {
       "start": 1548.94,
@@ -259,7 +251,7 @@
     {
       "start": 1549.86,
       "end": 1552.64,
-      "text": "screaming his mouth and the fat man's ear with his empty hand,"
+      "text": "screening his mouth and the fat man's ear with his empty hand,"
     },
     {
       "start": 1552.78,
@@ -269,8 +261,7 @@
     {
       "start": 1553.984,
       "end": 1554.54,
-      "text": "Gutman listened,",
-      "para_break": true
+      "text": "Gutman listened attentively,"
     },
     {
       "start": 1554.74,
@@ -280,7 +271,7 @@
     {
       "start": 1557.344,
       "end": 1558.92,
-      "text": "Spade grinned at Bridget O'Shaughnessy.",
+      "text": "Spade grinned at Brigid O'Shaughnessy.",
       "para_break": true
     },
     {
@@ -312,8 +303,7 @@
     {
       "start": 1568.5,
       "end": 1568.98,
-      "text": "Two to one,",
-      "para_break": true
+      "text": "Two to one,"
     },
     {
       "start": 1569.0,
@@ -334,24 +324,23 @@
     {
       "start": 1573.2,
       "end": 1576.0,
-      "text": "A trembling in his knees began to shake the knees of his trousers.",
-      "para_break": true
+      "text": "A trembling in his knees began to shake the knees of his trousers."
     },
     {
       "start": 1576.36,
       "end": 1578.2,
-      "text": "Spade addressed Gutman."
+      "text": "Spade addressed Gutman.",
+      "para_break": true
     },
     {
       "start": 1579.1,
       "end": 1580.98,
-      "text": "I hope you're not letting yourself be influenced",
-      "para_break": true
+      "text": "I hope you're not letting yourself be influenced"
     },
     {
       "start": 1580.98,
       "end": 1583.74,
-      "text": "by the guns these pocket edition desperados are"
+      "text": "by the guns these pocket-edition desperadoes are"
     },
     {
       "start": 1583.86,
@@ -361,13 +350,13 @@
     {
       "start": 1584.31,
       "end": 1586.28,
-      "text": "Gutman opened his eyes."
+      "text": "Gutman opened his eyes.",
+      "para_break": true
     },
     {
       "start": 1587.2,
       "end": 1589.96,
-      "text": "Cairo stopped whispering and stood erect behind the fat man's",
-      "para_break": true
+      "text": "Cairo stopped whispering and stood erect behind the fat man's"
     },
     {
       "start": 1589.96,
@@ -398,35 +387,22 @@
     {
       "start": 1597.28,
       "end": 1597.82,
-      "text": "The punk is,",
-      "para_break": true
+      "text": "The punk is,"
     },
     {
-      "start": 1598.88,
-      "end": 1600.72,
-      "text": "in a voice choked horribly by emotion,",
-      "para_break": true
+      "start": 1598.38,
+      "end": 1601.62,
+      "text": "In a voice choked horribly by emotion the boy cried,"
     },
     {
-      "start": 1600.96,
-      "end": 1601.55,
-      "text": "the boy cried,"
+      "start": 1601.74,
+      "end": 1602.7,
+      "text": "\"All right!\""
     },
     {
-      "start": 1601.82,
-      "end": 1602.64,
-      "text": "all right,"
-    },
-    {
-      "start": 1603.44,
-      "end": 1604.06,
-      "text": "and jerked his",
-      "para_break": true
-    },
-    {
-      "start": 1604.14,
-      "end": 1605.96,
-      "text": "pistol up in front of his chest."
+      "start": 1602.74,
+      "end": 1605.84,
+      "text": "and jerked his pistol up in front of his chest."
     },
     {
       "start": 1607.04,
@@ -452,8 +428,7 @@
     {
       "start": 1616.72,
       "end": 1618.56,
-      "text": "Joel Cairo scurried around to the boy's",
-      "para_break": true
+      "text": "Joel Cairo scurried around to the boy's"
     },
     {
       "start": 1618.56,
@@ -463,8 +438,7 @@
     {
       "start": 1621.26,
       "end": 1622.28,
-      "text": "They wrestled with the boy,",
-      "para_break": true
+      "text": "They wrestled with the boy,"
     },
     {
       "start": 1622.34,
@@ -489,8 +463,7 @@
     {
       "start": 1630.336,
       "end": 1632.18,
-      "text": "fragments of the boy's incoherent speech.",
-      "para_break": true
+      "text": "fragments of the boy's incoherent speech."
     },
     {
       "start": 1632.48,
@@ -545,7 +518,7 @@
     {
       "start": 1640.4,
       "end": 1640.9,
-      "text": "no,"
+      "text": "No, please, don't"
     },
     {
       "start": 1640.92,
@@ -571,13 +544,12 @@
     {
       "start": 1645.06,
       "end": 1648.06,
-      "text": "dreamy-eyed Spade got up from the sofa and went over to the group."
+      "text": "dreamy-eyed, Spade got up from the sofa and went over to the group."
     },
     {
       "start": 1648.9,
       "end": 1649.18,
-      "text": "The boy,",
-      "para_break": true
+      "text": "The boy,"
     },
     {
       "start": 1649.3,
@@ -637,8 +609,7 @@
     {
       "start": 1669.184,
       "end": 1670.42,
-      "text": "Gutman began a desperate,",
-      "para_break": true
+      "text": "Gutman began a desperate,"
     },
     {
       "start": 1670.68,
@@ -648,14 +619,12 @@
     {
       "start": 1671.46,
       "end": 1671.76,
-      "text": "what?",
-      "para_break": true
+      "text": "what—?\""
     },
     {
       "start": 1672.672,
       "end": 1675.0,
-      "text": "Spade drove his right fist against the boy's chin.",
-      "para_break": true
+      "text": "Spade drove his right fist against the boy's chin."
     },
     {
       "start": 1676.128,
@@ -676,8 +645,7 @@
     {
       "start": 1681.056,
       "end": 1682.38,
-      "text": "Cairo sprang at Spade,",
-      "para_break": true
+      "text": "Cairo sprang at Spade,"
     },
     {
       "start": 1682.5,
@@ -692,18 +660,13 @@
     {
       "start": 1687.104,
       "end": 1689.5,
-      "text": "Spade blew his breath out and pushed the Levantine away.",
-      "para_break": true
+      "text": "Spade blew his breath out and pushed the Levantine away."
     },
     {
       "start": 1689.84,
       "end": 1691.16,
-      "text": "Cairo sprang at"
-    },
-    {
-      "start": 1691.3,
-      "end": 1691.58,
-      "text": "him again."
+      "text": "Cairo sprang at him again.",
+      "para_break": true
     },
     {
       "start": 1692.06,
@@ -744,13 +707,12 @@
     {
       "start": 1702.04,
       "end": 1702.86,
-      "text": "you're a pip,"
+      "text": "you're a pip!\""
     },
     {
       "start": 1703.5,
       "end": 1704.76,
-      "text": "and cuffed the side of Cairo's",
-      "para_break": true
+      "text": "and cuffed the side of Cairo's"
     },
     {
       "start": 1704.76,
@@ -776,8 +738,7 @@
     {
       "start": 1712.576,
       "end": 1715.56,
-      "text": "Spade stopped him with both palms held out on long,",
-      "para_break": true
+      "text": "Spade stopped him with both palms held out on long,"
     },
     {
       "start": 1715.62,
@@ -797,13 +758,13 @@
     {
       "start": 1718.32,
       "end": 1720.74,
-      "text": "failing to reach Spade's face with his shorter arms,",
-      "para_break": true
+      "text": "failing to reach Spade's face with his shorter arms,"
     },
     {
       "start": 1720.86,
       "end": 1721.9,
       "text": "thumped Spade's arms."
     }
-  ]
+  ],
+  "corrected": "claude"
 }

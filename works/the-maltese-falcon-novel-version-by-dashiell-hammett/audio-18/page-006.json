@@ -41,8 +41,7 @@
     {
       "start": 1236.16,
       "end": 1238.84,
-      "text": "You shouldn't let yourself attach so much importance to these",
-      "para_break": true
+      "text": "You shouldn't let yourself attach so much importance to these"
     },
     {
       "start": 1238.96,
@@ -57,7 +56,8 @@
     {
       "start": 1240.84,
       "end": 1241.18,
-      "text": "The boy,"
+      "text": "The boy,",
+      "para_break": true
     },
     {
       "start": 1241.32,
@@ -77,14 +77,12 @@
     {
       "start": 1246.688,
       "end": 1248.3,
-      "text": "Make him lay off me then.",
-      "para_break": true
+      "text": "Make him lay off me then."
     },
     {
       "start": 1249.66,
       "end": 1252.0,
-      "text": "I'm going to fog him if he keeps it up,",
-      "para_break": true
+      "text": "I'm going to fog him if he keeps it up,"
     },
     {
       "start": 1252.1,
@@ -99,7 +97,8 @@
     {
       "start": 1255.5,
       "end": 1256.06,
-      "text": "Now,"
+      "text": "Now,",
+      "para_break": true
     },
     {
       "start": 1256.06,
@@ -114,8 +113,7 @@
     {
       "start": 1259.44,
       "end": 1259.84,
-      "text": "His face",
-      "para_break": true
+      "text": "His face"
     },
     {
       "start": 1260.04,
@@ -125,8 +123,7 @@
     {
       "start": 1262.6,
       "end": 1263.36,
-      "text": "Your plan is,",
-      "para_break": true
+      "text": "Your plan is,"
     },
     {
       "start": 1263.46,
@@ -167,8 +164,7 @@
     {
       "start": 1274.78,
       "end": 1276.6,
-      "text": "His face held no expression at all.",
-      "para_break": true
+      "text": "His face held no expression at all."
     },
     {
       "start": 1276.86,
@@ -194,8 +190,7 @@
     {
       "start": 1282.82,
       "end": 1285.42,
-      "text": "and that's one of the things I've always admired in you.",
-      "para_break": true
+      "text": "and that's one of the things I've always admired in you."
     },
     {
       "start": 1285.86,
@@ -215,8 +210,7 @@
     {
       "start": 1289.88,
       "end": 1293.46,
-      "text": "so there's not the least bit of use of discussing it any further,",
-      "para_break": true
+      "text": "so there's not the least bit of use of discussing it any further,"
     },
     {
       "start": 1293.62,
@@ -247,20 +241,17 @@
     {
       "start": 1302.36,
       "end": 1303.34,
-      "text": "He frowned at Gutman.",
-      "para_break": true
+      "text": "He frowned at Gutman."
     },
     {
       "start": 1304.288,
       "end": 1305.12,
-      "text": "Let's get this straight.",
-      "para_break": true
+      "text": "Let's get this straight."
     },
     {
       "start": 1306.02,
       "end": 1308.14,
-      "text": "Am I wasting time talking to you?",
-      "para_break": true
+      "text": "Am I wasting time talking to you?"
     },
     {
       "start": 1308.5,
@@ -270,77 +261,74 @@
     {
       "start": 1311.14,
       "end": 1312.66,
-      "text": "Should I do my talking to the punk?",
-      "para_break": true
+      "text": "Should I do my talking to the punk?"
     },
     {
       "start": 1313.5,
       "end": 1314.56,
-      "text": "I know how to do that.",
+      "text": "I know how to do that."
+    },
+    {
+      "start": 1315.24,
+      "end": 1319.2,
+      "text": "\"No, sir,\" Gutman replied, \"you're quite right in dealing with me.\""
+    },
+    {
+      "start": 1319.2,
+      "end": 1321.44,
+      "text": "Spade said: \"All right.",
       "para_break": true
     },
     {
-      "start": 1315.74,
-      "end": 1318.14,
-      "text": "no sir gutman replied you're quite right",
-      "para_break": true
+      "start": 1321.44,
+      "end": 1323.62,
+      "text": "Now I've got another suggestion."
     },
     {
-      "start": 1318.14,
-      "end": 1321.42,
-      "text": "in dealing with me spade said all right"
+      "start": 1323.62,
+      "end": 1325.62,
+      "text": "It's not as good as the first,"
     },
     {
-      "start": 1322.14,
-      "end": 1322.68,
-      "text": "now i've",
-      "para_break": true
+      "start": 1325.62,
+      "end": 1327.04,
+      "text": "but it's better than nothing."
     },
     {
-      "start": 1322.68,
-      "end": 1325.28,
-      "text": "got another suggestion it's not as good as the"
-    },
-    {
-      "start": 1325.28,
-      "end": 1328.06,
-      "text": "first but it's better than nothing want to hear"
-    },
-    {
-      "start": 1328.22,
-      "end": 1328.4,
-      "text": "it"
+      "start": 1327.04,
+      "end": 1328.26,
+      "text": "Want to hear it?\""
     },
     {
       "start": 1329.18,
       "end": 1330.1,
-      "text": "most assuredly",
+      "text": "\"Most assuredly.\"",
       "para_break": true
     },
     {
-      "start": 1330.84,
-      "end": 1333.82,
-      "text": "give them cairo cairo hastily picked",
+      "start": 1330.34,
+      "end": 1331.66,
+      "text": "\"Give them Cairo.\""
+    },
+    {
+      "start": 1332.58,
+      "end": 1335.68,
+      "text": "Cairo hastily picked up his pistol from the table beside him.",
       "para_break": true
     },
     {
-      "start": 1333.82,
-      "end": 1335.72,
-      "text": "up his pistol from the table beside him"
+      "start": 1335.9,
+      "end": 1338.42,
+      "text": "He held it tight in his lap with both hands,"
     },
     {
-      "start": 1335.87,
-      "end": 1339.03,
-      "text": "he held it tight in his lap with both hands its"
-    },
-    {
-      "start": 1339.3,
+      "start": 1338.76,
       "end": 1341.8,
-      "text": "muzzle pointed at the floor a little to one side"
+      "text": "its muzzle pointed at the floor a little to one side"
     },
     {
-      "start": 1342.02,
-      "end": 1342.34,
+      "start": 1341.8,
+      "end": 1342.44,
       "text": "of the sofa."
     },
     {
@@ -361,8 +349,7 @@
     {
       "start": 1349.8,
       "end": 1352.06,
-      "text": "The opaqueness of his eyes made them seem flat,",
-      "para_break": true
+      "text": "The opaqueness of his eyes made them seem flat,"
     },
     {
       "start": 1352.26,
@@ -393,25 +380,24 @@
     {
       "start": 1358.66,
       "end": 1359.14,
-      "text": "Do what?",
-      "para_break": true
+      "text": "Do what?"
     },
     {
       "start": 1360.12,
       "end": 1361.26,
-      "text": "Give the police Cairo.",
+      "text": "\"Give the police Cairo.\"",
       "para_break": true
     },
     {
       "start": 1361.48,
       "end": 1361.58,
-      "text": "Gutman"
+      "text": "Gutman seemed about to laugh,",
+      "para_break": true
     },
     {
       "start": 1362.56,
       "end": 1363.78,
-      "text": "seemed about to laugh,",
-      "para_break": true
+      "text": "seemed about to laugh,"
     },
     {
       "start": 1364.0,
@@ -436,7 +422,7 @@
     {
       "start": 1367.54,
       "end": 1368.0,
-      "text": "baguette,"
+      "text": "by Gad,"
     },
     {
       "start": 1368.08,
@@ -462,19 +448,17 @@
     {
       "start": 1374.112,
       "end": 1375.06,
-      "text": "Cairo's not a gunman",
-      "para_break": true
+      "text": "Cairo's not a gunman"
     },
     {
       "start": 1375.06,
       "end": 1378.36,
-      "text": "and he carries a smaller gun than Thursby and Jacoby were shot with."
+      "text": "and he carries a smaller gun than Thursby and Jacobi were shot with."
     },
     {
       "start": 1379.28,
       "end": 1380.08,
-      "text": "We'll have to go to more",
-      "para_break": true
+      "text": "We'll have to go to more"
     },
     {
       "start": 1380.16,
@@ -489,19 +473,13 @@
     {
       "start": 1384.8,
       "end": 1385.88,
-      "text": "Cairo cried in a voice",
+      "text": "Cairo cried in a voice shrill with indignation.",
       "para_break": true
-    },
-    {
-      "start": 1385.98,
-      "end": 1386.98,
-      "text": "shrill with indignation."
     },
     {
       "start": 1387.872,
       "end": 1388.86,
-      "text": "Suppose we give them you,",
-      "para_break": true
+      "text": "Suppose we give them you,"
     },
     {
       "start": 1389.0,
@@ -521,8 +499,7 @@
     {
       "start": 1391.56,
       "end": 1392.2,
-      "text": "How about that",
-      "para_break": true
+      "text": "How about that"
     },
     {
       "start": 1392.32,
@@ -530,69 +507,62 @@
       "text": "if you're so set on giving them somebody?"
     },
     {
-      "start": 1395.424,
-      "end": 1398.08,
-      "text": "Spade smiled at the Levantine and answered him evenly.",
+      "start": 1394.924,
+      "end": 1398.164,
+      "text": "Spade smiled at the Levantine and answered him evenly:",
       "para_break": true
     },
     {
-      "start": 1398.63,
-      "end": 1401.6,
-      "text": "you people want the falcon i've got it"
+      "start": 1398.164,
+      "end": 1401.584,
+      "text": "\"You people want the falcon. I've got it."
     },
     {
-      "start": 1402.18,
-      "end": 1405.28,
-      "text": "a fall guy is part of the price i'm asking as for miss",
-      "para_break": true
+      "start": 1401.584,
+      "end": 1404.104,
+      "text": "A fall-guy is part of the price I'm asking."
     },
     {
-      "start": 1405.46,
-      "end": 1405.86,
-      "text": "o'shaughnessy"
+      "start": 1404.104,
+      "end": 1405.244,
+      "text": "As for Miss O'Shaughnessy—\""
     },
     {
-      "start": 1406.8,
-      "end": 1408.94,
-      "text": "his dispassionate glance moved to her",
-      "para_break": true
+      "start": 1405.904,
+      "end": 1411.324,
+      "text": "his dispassionate glance moved to her white perplexed face and then back to Cairo"
     },
     {
-      "start": 1408.95,
-      "end": 1411.3,
-      "text": "white perplexed face and then back to cairo"
-    },
-    {
-      "start": 1411.46,
-      "end": 1414.3,
+      "start": 1411.324,
+      "end": 1414.224,
       "text": "and his shoulders rose and fell a fraction of an inch"
     },
     {
-      "start": 1415.12,
-      "end": 1417.06,
-      "text": "if you think she can be rigged for the part",
-      "para_break": true
+      "start": 1414.224,
+      "end": 1417.004,
+      "text": "if you think she can be rigged for the part"
     },
     {
-      "start": 1417.26,
-      "end": 1419.5,
-      "text": "i'm perfectly willing to discuss it with you"
+      "start": 1417.004,
+      "end": 1419.464,
+      "text": "I'm perfectly willing to discuss it with you."
     },
     {
       "start": 1420.34,
       "end": 1422.96,
-      "text": "the girl put her hands to her throat uttered a short",
+      "text": "The girl put her hands to her throat,",
       "para_break": true
     },
     {
       "start": 1423.3,
       "end": 1425.5,
-      "text": "strangled cry and moved farther away from him."
+      "text": "uttered a short strangled cry, and moved farther away from him."
     },
     {
       "start": 1425.92,
       "end": 1426.8,
-      "text": "Cairo,"
+      "text": "Cairo,",
+      "para_break": true
     },
     {
       "start": 1426.94,
@@ -617,8 +587,7 @@
     {
       "start": 1434.944,
       "end": 1436.0,
-      "text": "Spade laughed a harsh,",
-      "para_break": true
+      "text": "Spade laughed, a harsh,"
     },
     {
       "start": 1436.12,
@@ -628,19 +597,13 @@
     {
       "start": 1438.048,
       "end": 1440.48,
-      "text": "Gutman said in a voice that tried to make firmness",
+      "text": "Gutman said in a voice that tried to make firmness ingratiating:",
       "para_break": true
-    },
-    {
-      "start": 1440.71,
-      "end": 1441.46,
-      "text": "ingratiating,"
     },
     {
       "start": 1442.24,
       "end": 1442.58,
-      "text": "Come now,",
-      "para_break": true
+      "text": "Come now,"
     },
     {
       "start": 1442.62,
@@ -655,8 +618,7 @@
     {
       "start": 1446.56,
       "end": 1447.6,
-      "text": "But there certainly is,",
-      "para_break": true
+      "text": "But there certainly is,"
     },
     {
       "start": 1447.72,
@@ -674,52 +636,47 @@
       "text": "Cairo says."
     },
     {
-      "start": 1452.32,
-      "end": 1454.16,
-      "text": "you must take into consideration the",
+      "start": 1451.82,
+      "end": 1454.14,
+      "text": "You must take into consideration the—\""
+    },
+    {
+      "start": 1454.14,
+      "end": 1459.68,
+      "text": "\"Like hell I must.\" Spade flung his words out with a brutal sort of carelessness",
       "para_break": true
     },
     {
-      "start": 1455.08,
-      "end": 1458.64,
-      "text": "like hell i must spade flung his words out with a brutal",
-      "para_break": true
+      "start": 1459.68,
+      "end": 1463.96,
+      "text": "that gave them more weight than they could have got from dramatic emphasis"
     },
     {
-      "start": 1458.74,
-      "end": 1461.16,
-      "text": "sort of carelessness that gave them more weight"
+      "start": 1463.96,
+      "end": 1465.34,
+      "text": "or from loudness."
     },
     {
-      "start": 1461.64,
-      "end": 1463.93,
-      "text": "than they could have got from a dramatic emphasis"
+      "start": 1465.34,
+      "end": 1468.74,
+      "text": "\"If you kill me, how are you going to get the bird?"
     },
     {
-      "start": 1464.3,
-      "end": 1468.82,
-      "text": "or from loudness if you kill me how are you going to get the bird"
+      "start": 1468.74,
+      "end": 1472.82,
+      "text": "If I know you can't afford to kill me till you have it,"
     },
     {
-      "start": 1470.14,
-      "end": 1471.72,
-      "text": "if i know you can't afford to kill",
-      "para_break": true
-    },
-    {
-      "start": 1471.72,
-      "end": 1474.58,
-      "text": "me till you have it how are you going to scare me"
+      "start": 1472.82,
+      "end": 1474.8,
+      "text": "how are you going to scare me into giving it to you?\""
     },
     {
       "start": 1474.58,
       "end": 1477.92,
-      "text": "into giving it to you gutman cocked his head to"
-    },
-    {
-      "start": 1478.02,
-      "end": 1479.5,
-      "text": "the left and considered these questions."
+      "text": "Gutman cocked his head to the left and considered these questions.",
+      "para_break": true
     }
-  ]
+  ],
+  "corrected": "claude"
 }
